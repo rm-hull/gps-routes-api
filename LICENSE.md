@@ -1,6 +1,8 @@
-MIT License
+# MIT License
 
-Copyright (c) 2024 Richard Hull
+Copyright (c) 2024:
+ * scraper code: Richard Hull 
+ * website content: [gps-routes.co.uk](https://www.gps-routes.co.uk/routes/home.nsf/contentnew/contactus) authors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
