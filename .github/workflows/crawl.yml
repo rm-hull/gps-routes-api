@@ -16,6 +16,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          cache: "pip"
+          cache-dependency-path: |
+            requirements.txt
 
       - name: Install dependencies
         run: |
@@ -23,7 +26,7 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Python Script
-        run: python crawl.py
+        run: python crawler.py
         env:
           ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
           ALGOLIA_API_KEY: ${{ secrets.ALGOLIA_API_KEY }}
