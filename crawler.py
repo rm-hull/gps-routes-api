@@ -1,13 +1,16 @@
 import asyncio
-from pydoc import text
-from urllib.parse import parse_qs, urlparse
+import json
+import os
+import random
 from bs4 import BeautifulSoup
 import requests
+from dotenv import load_dotenv
+from algoliasearch.search.client import SearchClientSync
+
+from detail_extractor import DetailExtractor
 
 
-def check(text):
-    print(f"check: {text}")
-    return text and "Next" in text
+load_dotenv()
 
 
 def extract_next_link(soup: BeautifulSoup) -> str | None:
@@ -39,32 +42,56 @@ def extract_links(soup: BeautifulSoup) -> list[str]:
     return results
 
 
+def store_objects(records: list):
+    APP_ID = os.getenv("ALGOLIA_APP_ID")
+    API_KEY = os.getenv("ALGOLIA_API_KEY")
+
+    client = SearchClientSync(APP_ID, API_KEY)
+    return client.save_objects(
+        index_name="routes_index",
+        objects=records,
+    )
+
+
 async def main():
 
-    # Fetch sample page
-    # markup = requests.get(url).text
-    # soup = BeautifulSoup(markup, "lxml")
+    start = 1 + random.randint(0, 243) * 29
+    url = f"https://www.gps-routes.co.uk/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start={start}"
 
-    test_file = "example-data/paginated-results.html"
+    print(f"Fetching index page: {url}")
 
-    hrefs = []
+    markup = requests.get(url).text
+    soup = BeautifulSoup(markup, "lxml")
 
-    base_url = "https://www.gps-routes.co.uk"
-    path = "/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start=1"
-    prev = None
+    pages = extract_links(soup)
+    records = []
 
-    while path != prev:
-        print(f"checking path {path}, current={len(hrefs)}")
+    for index, url in enumerate(pages):
+        print(f"[{index+1:02d}/{len(pages)}] processing detail page: {url}")
+        markup = requests.get(url).text
+        records.append(DetailExtractor(markup).process())
+        # break
 
-        markup = requests.get(f"{base_url}{path}").text
-        soup = BeautifulSoup(markup, "lxml")
+    # print(json.dumps(records))
 
-        prev = path
-        path = extract_next_link(soup)
-        hrefs.extend(extract_links(soup))
+    store_objects(records)
 
-    for href in hrefs:
-        print(href)
+    # base_url = "https://www.gps-routes.co.uk"
+    # path = "/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start=1"
+    # prev = None
+
+    # while path != prev:
+    #     print(f"checking path {path}, current={len(hrefs)}")
+
+    #     markup = requests.get(f"{base_url}{path}").text
+    #     soup = BeautifulSoup(markup, "lxml")
+
+    #     prev = path
+    #     path = extract_next_link(soup)
+    #     hrefs.extend(extract_links(soup))
+
+    # for href in hrefs:
+    #     print(href)
 
 
 asyncio.run(main())

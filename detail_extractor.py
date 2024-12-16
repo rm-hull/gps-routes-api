@@ -1,7 +1,10 @@
 import asyncio
+from datetime import datetime, timezone
 import json
 import re
 from bs4 import BeautifulSoup
+import hashlib
+import gpxpy
 import requests
 
 
@@ -20,10 +23,19 @@ class DetailExtractor:
         self.extract_details()
         return self.result
 
+    def object_id(self, ref: str) -> str:
+        m = hashlib.md5()
+        m.update(ref.encode("utf-8"))
+        return m.hexdigest()
+
     def extract_metadata(self):
+        self.result["created_at"] = datetime.now(timezone.utc).isoformat()
+
         meta_tag = self.soup.find("meta", property="og:url")
         if meta_tag:
-            self.result["id"] = meta_tag.get("content").split("/")[-1].split("?")[0]
+            ref = meta_tag.get("content").split("/")[-1].split("?")[0]
+            self.result["objectID"] = self.object_id(ref)
+            self.result["ref"] = ref
 
         meta_tag = self.soup.find("meta", property="og:title")
         if meta_tag:
@@ -52,7 +64,14 @@ class DetailExtractor:
                 route_links = [(link.text, link["href"]) for link in links]
                 nearby = []
                 for text, href in route_links:
-                    nearby.append({"description": text, "id": href.split("/")[-1]})
+                    ref = href.split("/")[-1]
+                    nearby.append(
+                        {
+                            "description": text,
+                            "objectID": self.object_id(ref),
+                            "ref": ref,
+                        }
+                    )
 
                 self.result["nearby"] = nearby
 
@@ -61,10 +80,16 @@ class DetailExtractor:
         if header:
             link = header.find_next("a", href=True)
             if link:
-                self.result["gpx"] = {
-                    "url": f"http://gps-routes.co.uk{link['href']}",
-                    "use_cors_proxy": True,
-                }
+                url = f"http://gps-routes.co.uk{link['href']}"
+                self.result["gpx_url"] = url
+
+                payload = requests.get(url).text
+                gpx = gpxpy.parse(payload)
+                if gpx.routes:
+                    self.result["_geoloc"] = {
+                        "lat": gpx.routes[0].points[0].latitude,
+                        "lng": gpx.routes[0].points[0].longitude,
+                    }
 
     def extract_photos(self):
         image_containers = self.soup.find_all("div", class_="thumbnail")
@@ -77,7 +102,6 @@ class DetailExtractor:
             if image_link and image_img and caption:
                 image_details.append(
                     {
-                        "link": image_link["href"],
                         "src": image_img["src"],
                         "title": image_link.get("title", "No title"),
                         "caption": caption.text.strip(),
@@ -133,4 +157,5 @@ async def main():
         print(json.dumps(result, indent=2, sort_keys=True))
 
 
-asyncio.run(main())
+if __name__ == "__main__":
+    asyncio.run(main())
