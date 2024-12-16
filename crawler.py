@@ -70,9 +70,6 @@ async def main():
         print(f"[{index+1:02d}/{len(pages)}] processing detail page: {url}")
         markup = requests.get(url).text
         records.append(DetailExtractor(markup).process())
-        # break
-
-    # print(json.dumps(records))
 
     store_objects(records)
 

@@ -20,7 +20,8 @@ class DetailExtractor:
         self.extract_photos()
         self.extract_distance_km()
         self.extract_description()
-        self.extract_details()
+        # self.extract_details()
+        self.extract_video_link()
         return self.result
 
     def object_id(self, ref: str) -> str:
@@ -110,6 +111,12 @@ class DetailExtractor:
 
         if image_details:
             self.result["images"] = image_details
+
+    def extract_video_link(self):
+        iframe = self.soup.find("iframe", id="video")
+
+        if iframe and "src" in iframe.attrs:
+            self.result["video_url"] = iframe["src"]
 
     def extract_distance_km(self):
         dist_div = self.soup.find("div", class_="dist")
