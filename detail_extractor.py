@@ -84,13 +84,17 @@ class DetailExtractor:
                 url = f"http://gps-routes.co.uk{link['href']}"
                 self.result["gpx_url"] = url
 
-                payload = requests.get(url).text
-                gpx = gpxpy.parse(payload)
-                if gpx.routes:
-                    self.result["_geoloc"] = {
-                        "lat": gpx.routes[0].points[0].latitude,
-                        "lng": gpx.routes[0].points[0].longitude,
-                    }
+                try:
+                    payload = requests.get(url).text
+                    gpx = gpxpy.parse(payload)
+                    if gpx.routes:
+                        self.result["_geoloc"] = {
+                            "lat": gpx.routes[0].points[0].latitude,
+                            "lng": gpx.routes[0].points[0].longitude,
+                        }
+                except:
+                    pass # TODO: add logging
+
 
     def extract_photos(self):
         image_containers = self.soup.find_all("div", class_="thumbnail")
