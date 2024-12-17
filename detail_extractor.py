@@ -42,10 +42,6 @@ class DetailExtractor:
         if meta_tag:
             self.result["title"] = meta_tag.get("content")
 
-        meta_tag = self.soup.find("meta", attrs={"name": "description"})
-        if meta_tag:
-            self.result["overview"] = meta_tag.get("content")
-
         meta_tag = self.soup.find("meta", property="og:image")
         if meta_tag:
             self.result["headline_image_url"] = meta_tag.get("content")
