@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from algoliasearch.search.client import SearchClientSync
 
 from detail_extractor import DetailExtractor
+from osdatahub_names import OSDataHub
 
 
 load_dotenv()
@@ -53,6 +54,35 @@ def store_objects(records: list):
     )
 
 
+def gazetteer_info(record: dict) -> dict:
+    if "_geoloc" not in record:
+        return {}
+
+    OS_DATAHUB_API_KEY = os.getenv("OS_DATAHUB_API_KEY")
+    datahub = OSDataHub(api_key=OS_DATAHUB_API_KEY)
+    gazetteer = datahub.nearby(record["_geoloc"]["lat"], record["_geoloc"]["lng"])
+    if gazetteer is None:
+        return {}
+
+    result = {}
+    if gazetteer["LOCAL_TYPE"] == "Postcode":
+        result["postcode"] = gazetteer["NAME1"]
+
+    if "POPULATED_PLACE" in gazetteer:
+        result["district"] = gazetteer["POPULATED_PLACE"]
+
+    if "COUNTY_UNITARY" in gazetteer:
+        result["county"] = gazetteer["COUNTY_UNITARY"]
+
+    if "REGION" in gazetteer:
+        result["region"] = gazetteer["REGION"]
+
+    if "COUNTRY" in gazetteer:
+        result["country"] = gazetteer["COUNTRY"]
+
+    return result
+
+
 async def main():
 
     start = 1 + random.randint(0, 243) * 29
@@ -69,7 +99,9 @@ async def main():
     for index, url in enumerate(pages):
         print(f"[{index+1:02d}/{len(pages)}] processing detail page: {url}")
         markup = requests.get(url).text
-        records.append(DetailExtractor(markup).process())
+        record = DetailExtractor(markup).process()
+        record.update(gazetteer_info(record))
+        records.append(record)
 
     store_objects(records)
 
