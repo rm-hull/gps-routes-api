@@ -1,4 +1,5 @@
 import asyncio
+import functools
 import json
 import os
 import random
@@ -9,9 +10,19 @@ from algoliasearch.search.client import SearchClientSync
 
 from detail_extractor import DetailExtractor
 from osdatahub_names import OSDataHub
-
+from utils import get_object_id
+from algoliasearch.http.exceptions import RequestException
 
 load_dotenv()
+
+ROUTES_INDEX = "routes_index"
+
+ALGOLIA_APP_ID = os.environ["ALGOLIA_APP_ID"]
+ALGOLIA_API_KEY = os.environ["ALGOLIA_API_KEY"]
+OS_DATAHUB_API_KEY = os.environ["OS_DATAHUB_API_KEY"]
+
+algolia_client = SearchClientSync(ALGOLIA_APP_ID, ALGOLIA_API_KEY)
+datahub = OSDataHub(api_key=OS_DATAHUB_API_KEY)
 
 
 def extract_next_link(soup: BeautifulSoup) -> str | None:
@@ -46,12 +57,8 @@ def extract_links(soup: BeautifulSoup) -> list[str]:
 
 
 def store_objects(records: list):
-    APP_ID = os.environ["ALGOLIA_APP_ID"]
-    API_KEY = os.environ["ALGOLIA_API_KEY"]
-
-    client = SearchClientSync(APP_ID, API_KEY)
-    return client.save_objects(
-        index_name="routes_index",
+    return algolia_client.save_objects(
+        index_name=ROUTES_INDEX,
         objects=records,
     )
 
@@ -60,8 +67,6 @@ def gazetteer_info(record: dict) -> dict:
     if "_geoloc" not in record:
         return {}
 
-    OS_DATAHUB_API_KEY = os.environ["OS_DATAHUB_API_KEY"]
-    datahub = OSDataHub(api_key=OS_DATAHUB_API_KEY)
     gazetteer = datahub.nearby(record["_geoloc"]["lat"], record["_geoloc"]["lng"])
     if gazetteer is None:
         return {}
@@ -89,8 +94,39 @@ def oversized(record: dict) -> bool:
     return len(json.dumps(record)) > 10000
 
 
-async def main():
+@functools.cache
+def load_all_routes() -> list[str]:
+    with open("example-data/full-list.txt", mode="r") as fp:
+        return fp.read().splitlines()
 
+
+def pick_random_route() -> str:
+    return random.choice(load_all_routes())
+
+
+def select_unprocessed_route() -> str | None:
+    for _ in range(20):
+        route = pick_random_route()
+        ref = route.split("/")[-1]
+        try:
+            resp = algolia_client.get_object(
+                index_name=ROUTES_INDEX,
+                object_id=get_object_id(ref),
+                attributes_to_retrieve=["country"],
+            )
+            if "country" not in resp:
+                return route
+
+        except RequestException as ex:
+            if ex.status_code == 404:
+                return route
+            else:
+                continue
+
+    return None
+
+
+def random_page_crawl():
     start = 1 + random.randint(0, 243) * 29
     url = f"https://www.gps-routes.co.uk/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start={start}"
 
@@ -114,6 +150,34 @@ async def main():
             records.append(record)
 
     store_objects(records)
+
+
+def unprocessed_entries_crawl():
+    records = []
+    limit = 30
+
+    for index in range(limit):
+        url = select_unprocessed_route()
+        if not url:
+            print("PANIC! couldnt find any unprocessed routes")
+            exit(-1)
+
+        print(f"[{index+1:02d}/{limit}] processing detail page: {url}")
+        markup = requests.get(url).text
+        record = DetailExtractor(markup).process()
+        record.update(gazetteer_info(record))
+
+        if oversized(record):
+            print(f"WARN: {url} is oversized")
+        else:
+            records.append(record)
+
+    store_objects(records)
+
+
+async def main():
+    # random_page_crawl()
+    unprocessed_entries_crawl()
 
     # base_url = "https://www.gps-routes.co.uk"
     # path = "/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start=1"

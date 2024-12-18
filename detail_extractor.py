@@ -7,6 +7,8 @@ import hashlib
 import gpxpy
 import requests
 
+from utils import get_object_id
+
 
 class DetailExtractor:
     def __init__(self, markup: str):
@@ -24,18 +26,13 @@ class DetailExtractor:
         self.extract_video_link()
         return self.result
 
-    def object_id(self, ref: str) -> str:
-        m = hashlib.md5()
-        m.update(ref.encode("utf-8"))
-        return m.hexdigest()
-
     def extract_metadata(self):
         self.result["created_at"] = datetime.now(timezone.utc).isoformat()
 
         meta_tag = self.soup.find("meta", property="og:url")
         if meta_tag:
             ref = meta_tag.get("content").split("/")[-1].split("?")[0]
-            self.result["objectID"] = self.object_id(ref)
+            self.result["objectID"] = get_object_id(ref)
             self.result["ref"] = ref
 
         meta_tag = self.soup.find("meta", property="og:title")
@@ -65,7 +62,7 @@ class DetailExtractor:
                     nearby.append(
                         {
                             "description": text,
-                            "objectID": self.object_id(ref),
+                            "objectID": get_object_id(ref),
                             "ref": ref,
                         }
                     )
