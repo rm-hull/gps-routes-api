@@ -85,6 +85,10 @@ def gazetteer_info(record: dict) -> dict:
     return result
 
 
+def oversized(record: dict) -> bool:
+    return len(json.dumps(record)) > 10000
+
+
 async def main():
 
     start = 1 + random.randint(0, 243) * 29
