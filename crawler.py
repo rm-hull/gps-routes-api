@@ -1,5 +1,4 @@
 import asyncio
-import json
 import os
 import random
 from bs4 import BeautifulSoup
@@ -20,6 +19,8 @@ def extract_next_link(soup: BeautifulSoup) -> str | None:
         parent_a_tag = next_text.find_parent("a", href=True)
         if parent_a_tag:
             return parent_a_tag.get("href")
+
+    return None
 
 
 def extract_links(soup: BeautifulSoup) -> list[str]:
@@ -44,8 +45,8 @@ def extract_links(soup: BeautifulSoup) -> list[str]:
 
 
 def store_objects(records: list):
-    APP_ID = os.getenv("ALGOLIA_APP_ID")
-    API_KEY = os.getenv("ALGOLIA_API_KEY")
+    APP_ID = os.environ["ALGOLIA_APP_ID"]
+    API_KEY = os.environ["ALGOLIA_API_KEY"]
 
     client = SearchClientSync(APP_ID, API_KEY)
     return client.save_objects(
@@ -58,7 +59,7 @@ def gazetteer_info(record: dict) -> dict:
     if "_geoloc" not in record:
         return {}
 
-    OS_DATAHUB_API_KEY = os.getenv("OS_DATAHUB_API_KEY")
+    OS_DATAHUB_API_KEY = os.environ["OS_DATAHUB_API_KEY"]
     datahub = OSDataHub(api_key=OS_DATAHUB_API_KEY)
     gazetteer = datahub.nearby(record["_geoloc"]["lat"], record["_geoloc"]["lng"])
     if gazetteer is None:

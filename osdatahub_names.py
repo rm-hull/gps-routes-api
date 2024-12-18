@@ -15,7 +15,7 @@ class OSDataHub:
     def nearby(self, lat: float, lng: float, radius: int = 1000):
         easting, northing = to_bng(lat, lng)
         resp = requests.get(
-            f"https://api.os.uk/search/names/v1/nearest",
+            "https://api.os.uk/search/names/v1/nearest",
             params={
                 "key": self.api_key,
                 "radius": radius,
@@ -61,7 +61,7 @@ def to_bng(lat: float, lng: float) -> tuple[float, float]:
 
 
 if __name__ == "__main__":
-    datahub = OSDataHub(os.getenv("OS_DATAHUB_API_KEY"))
+    datahub = OSDataHub(os.environ["OS_DATAHUB_API_KEY"])
 
     print(json.dumps(datahub.nearby(56.3779128789, -3.9830157992), indent=2))
     print(json.dumps(datahub.nearby(53.2266182629, -4.0030570596), indent=2))

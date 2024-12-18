@@ -89,8 +89,7 @@ class DetailExtractor:
                             "lng": gpx.routes[0].points[0].longitude,
                         }
                 except:
-                    pass # TODO: add logging
-
+                    pass  # TODO: add logging
 
     def extract_photos(self):
         image_containers = self.soup.find_all("div", class_="thumbnail")
