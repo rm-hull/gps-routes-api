@@ -1,4 +1,5 @@
 import asyncio
+import json
 import os
 import random
 from bs4 import BeautifulSoup
@@ -102,7 +103,11 @@ async def main():
         markup = requests.get(url).text
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
-        records.append(record)
+
+        if oversized(record):
+            print(f"WARN: {url} is oversized")
+        else:
+            records.append(record)
 
     store_objects(records)
 
