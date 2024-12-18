@@ -104,8 +104,8 @@ def pick_random_route() -> str:
     return random.choice(load_all_routes())
 
 
-def select_unprocessed_route() -> str | None:
-    for _ in range(20):
+def select_unprocessed_route() -> tuple[int, str | None]:
+    for attempt in range(20):
         route = pick_random_route()
         ref = route.split("/")[-1]
         try:
@@ -115,15 +115,15 @@ def select_unprocessed_route() -> str | None:
                 attributes_to_retrieve=["country"],
             )
             if "country" not in resp:
-                return route
+                return attempt, route
 
         except RequestException as ex:
             if ex.status_code == 404:
-                return route
+                return attempt, route
             else:
                 continue
 
-    return None
+    return attempt, None
 
 
 def random_page_crawl():
@@ -157,12 +157,12 @@ def unprocessed_entries_crawl():
     limit = 30
 
     for index in range(limit):
-        url = select_unprocessed_route()
+        num_attempts, url = select_unprocessed_route()
         if not url:
             print("PANIC! couldnt find any unprocessed routes")
             exit(-1)
 
-        print(f"[{index+1:02d}/{limit}] processing detail page: {url}")
+        print(f"[{index+1:02d}/{limit}] found after {num_attempts} attempts: {url}")
         markup = requests.get(url).text
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
