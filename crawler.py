@@ -159,8 +159,8 @@ def unprocessed_entries_crawl():
     for index in range(limit):
         num_attempts, url = select_unprocessed_route()
         if not url:
-            print("PANIC! couldnt find any unprocessed routes")
-            exit(-1)
+            print(f"WARN! couldnt find any unprocessed routes after {num_attempts} attempts")
+            continue
 
         print(f"[{index+1:02d}/{limit}] found after {num_attempts} attempts: {url}")
         markup = requests.get(url).text
