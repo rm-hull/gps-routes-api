@@ -56,7 +56,7 @@ def oversized(record: dict) -> bool:
 
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("data/new-list.txt", mode="r") as fp:
+    with open("data/full-list.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
