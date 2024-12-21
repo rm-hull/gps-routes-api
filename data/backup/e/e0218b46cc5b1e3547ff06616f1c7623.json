@@ -1,89 +1,89 @@
 {
-    "objectID": "e0218b46cc5b1e3547ff06616f1c7623",
-    "created_at": "2024-12-18T03:43:47.377539+00:00",
-    "ref": "malvern-hills-walking-route",
-    "title": "Malvern Hills Ridge Walking Map Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sugarloaf_Hill_%28with_Table_Hill_and_North_Hill%29_-_geograph.org.uk_-_180685.jpg",
-    "nearby": [
-        {
-            "description": "Herefordshire Beacon and British Camp",
-            "objectID": "cbabb49fe5282d4dc06059d9ae73114b",
-            "ref": "herefordshire-beacon-and-british-camp-walking-route"
-        },
-        {
-            "description": "Eastnor Deer Park",
-            "objectID": "5820561b9671672a60c044f33397cd33",
-            "ref": "eastnor-deer-park-walking-route"
-        },
-        {
-            "description": "Worcestershire Beacon",
-            "objectID": "e3eec8ab2b55e682d487fbe0872eaa36",
-            "ref": "worcestershire-beacon-walking-route"
-        },
-        {
-            "description": "Malvern Hills Circular Walk",
-            "objectID": "128855835307bcd6b45e11274824f098",
-            "ref": "malvern-hills-circular-walk-walking-route"
-        },
-        {
-            "description": "Hanley Swan",
-            "objectID": "679d14b04178b50890d151de68955347",
-            "ref": "hanley-swan-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/70576484BB7EB5AE80257E71007E523B/$FILE/Malvern Hills.gpx",
-    "_geoloc": {
-        "lat": 52.1208629224,
-        "lng": -2.338179603
+  "objectID": "e0218b46cc5b1e3547ff06616f1c7623",
+  "created_at": "2024-12-18T03:43:47.377539+00:00",
+  "ref": "malvern-hills-walking-route",
+  "title": "Malvern Hills Ridge Walking Map Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sugarloaf_Hill_%28with_Table_Hill_and_North_Hill%29_-_geograph.org.uk_-_180685.jpg",
+  "nearby": [
+    {
+      "description": "Herefordshire Beacon and British Camp",
+      "objectID": "cbabb49fe5282d4dc06059d9ae73114b",
+      "ref": "herefordshire-beacon-and-british-camp-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sugarloaf_Hill_%28with_Table_Hill_and_North_Hill%29_-_geograph.org.uk_-_180685.jpg",
-            "title": "Bob Embleton / Sugarloaf Hill (with Table Hill and North Hill), via Wikimedia Commons",
-            "caption": "Sugarloaf Hill (with Table Hill and North Hill) Looking NNW from Worcestershire Beacon we have, from left to right, Sugarloaf Hill, Table Hill and North Hill. Clee Hill is on the skyline beyond Sugarloaf and the Wrekin (64km away) can just be seen as a grey blur beyond Table Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Table_Hill_-_geograph.org.uk_-_251728.jpg",
-            "title": "Bob Embleton / Table Hill, via Wikimedia Commons",
-            "caption": "Table Hill Taken from the path rising up from St. Anne's Well. Table Hill is west of North Hill and its summit is in fact just north of North Hill. End Hill is even further north of both of these."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Malvern_Hills_-_England.jpg/512px-Malvern_Hills_-_England.jpg",
-            "title": "David Martyn Hunt [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-            "caption": "View along the hills"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worcestershire_Beacon_Toposcope.jpg/512px-Worcestershire_Beacon_Toposcope.jpg",
-            "title": "Nilfanion [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "Worcestershire Beacon Toposcope"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Thirdsland_and_Jubilee_Hill_on_the_Malvern_Hills_-_geograph.org.uk_-_3153.jpg",
-            "title": "Bob Embleton / Thirdsland and Jubilee Hill on the Malvern Hills, via Wikimedia Commons",
-            "caption": "Thirdsland and Jubilee Hill on the Malvern Hills. Jubilee Hill is the latest of the minor peaks on The Malvern Hills to be named. This was named on the morning of Her Majesty's Golden Jubilee in 2002. Thirdsland or \"King's Third\" is part of what was left when King Charles sold off his land in Malvern Chase - a former Royal Forest."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Boundary_stones_on_Herefordshire_Beacon_-_geograph.org.uk_-_1417335.jpg",
-            "title": "Bob Embleton / Boundary stones on Herefordshire Beacon, via Wikimedia Commons",
-            "caption": "Boundary stones on Herefordshire Beacon. The Herefordshire/Worcestershire county boundary follows the defensive ditch around the eastern side of the iron age hill fort."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Malvern_Hills_AONB.jpg/512px-Malvern_Hills_AONB.jpg",
-            "title": "Saffron Blaze [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "The Malvern Hills (a designatated AONB) as viewed approaching the British Camp on Hereforshire Beacon (Iron Age earth works as seen on the left)."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Top_of_End_Hill_-_geograph.org.uk_-_906888.jpg",
-            "title": "Trevor Rickard / Top of End Hill, via Wikimedia Commons",
-            "caption": "Top of End Hill From the granite outcrop on the most northerly top of the Malvern Hills looking northwards. The outskirts of Malvern Link to the right."
-        }
-    ],
-    "distance_km": 13.0,
-    "description": "This walk takes you the full length of the Malvern Hills from End Hill in North Malvern to Chase End Hill at the southern end. The Hills divide the counties of Herefordshire and Worcestershire and are covered with numerous footpaths and bridleways. The start point for the walk is the car park at North Malvern in the 19th century spa town of Great Malvern. You then pass End Hill, Table Hill and Sugarloaf Hill on your way to Worcestershire Beacon . At 425 m (1,394 ft) the Beacon is the highest point in the Malverns and offers fabulous views of Worcestershire, Herefordshire, Gloucestershire, the Cotswolds, the Welsh Mountains and the Severn Valley. You can climb to the beacon from Great Malvern on our circular walk. The route continues to Jubilee Hill, Black Hill and Herefordshire Beacon where you will find the noteworthy British Camp Iron Age hill fort and reservoir of the same name. Next you come to Hangman's Hill, and Swinyard Hill before arriving at the interesting Midsummer Hill where you will find an Iron Age hill fort which spans Midsummer Hill and Hollybush Hill. There are also splendid views of Eastnor Deer Park and the castle grounds. The final section takes you over Raggedstone Hill to the finish point at the end of the range, known as End Hill. It's a delightful walk on good footpaths with fabulous views throughout. Also look out for the springs and fountains dotted along the hills. If you would like to try a longer walk try our Malvern Hills Circular Walk which takes you along a section of the old Worcestershire Way long distance trail.",
-    "video_url": "https://www.youtube.com/embed/xGc0Tr9zJdY",
-    "postcode": "WR14 4LX",
-    "district": "Great Malvern",
-    "county": "Worcestershire",
-    "region": "West Midlands",
-    "country": "England"
+    {
+      "description": "Eastnor Deer Park",
+      "objectID": "5820561b9671672a60c044f33397cd33",
+      "ref": "eastnor-deer-park-walking-route"
+    },
+    {
+      "description": "Worcestershire Beacon",
+      "objectID": "e3eec8ab2b55e682d487fbe0872eaa36",
+      "ref": "worcestershire-beacon-walking-route"
+    },
+    {
+      "description": "Malvern Hills Circular Walk",
+      "objectID": "128855835307bcd6b45e11274824f098",
+      "ref": "malvern-hills-circular-walk-walking-route"
+    },
+    {
+      "description": "Hanley Swan",
+      "objectID": "679d14b04178b50890d151de68955347",
+      "ref": "hanley-swan-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/70576484BB7EB5AE80257E71007E523B/$FILE/Malvern Hills.gpx",
+  "_geoloc": {
+    "lat": 52.1208629224,
+    "lng": -2.338179603
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sugarloaf_Hill_%28with_Table_Hill_and_North_Hill%29_-_geograph.org.uk_-_180685.jpg",
+      "title": "Bob Embleton / Sugarloaf Hill (with Table Hill and North Hill), via Wikimedia Commons",
+      "caption": "Sugarloaf Hill (with Table Hill and North Hill) Looking NNW from Worcestershire Beacon we have, from left to right, Sugarloaf Hill, Table Hill and North Hill. Clee Hill is on the skyline beyond Sugarloaf and the Wrekin (64km away) can just be seen as a grey blur beyond Table Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Table_Hill_-_geograph.org.uk_-_251728.jpg",
+      "title": "Bob Embleton / Table Hill, via Wikimedia Commons",
+      "caption": "Table Hill Taken from the path rising up from St. Anne's Well. Table Hill is west of North Hill and its summit is in fact just north of North Hill. End Hill is even further north of both of these."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Malvern_Hills_-_England.jpg/512px-Malvern_Hills_-_England.jpg",
+      "title": "David Martyn Hunt [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "caption": "View along the hills"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Worcestershire_Beacon_Toposcope.jpg/512px-Worcestershire_Beacon_Toposcope.jpg",
+      "title": "Nilfanion [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "Worcestershire Beacon Toposcope"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Thirdsland_and_Jubilee_Hill_on_the_Malvern_Hills_-_geograph.org.uk_-_3153.jpg",
+      "title": "Bob Embleton / Thirdsland and Jubilee Hill on the Malvern Hills, via Wikimedia Commons",
+      "caption": "Thirdsland and Jubilee Hill on the Malvern Hills. Jubilee Hill is the latest of the minor peaks on The Malvern Hills to be named. This was named on the morning of Her Majesty's Golden Jubilee in 2002. Thirdsland or \"King's Third\" is part of what was left when King Charles sold off his land in Malvern Chase - a former Royal Forest."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Boundary_stones_on_Herefordshire_Beacon_-_geograph.org.uk_-_1417335.jpg",
+      "title": "Bob Embleton / Boundary stones on Herefordshire Beacon, via Wikimedia Commons",
+      "caption": "Boundary stones on Herefordshire Beacon. The Herefordshire/Worcestershire county boundary follows the defensive ditch around the eastern side of the iron age hill fort."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Malvern_Hills_AONB.jpg/512px-Malvern_Hills_AONB.jpg",
+      "title": "Saffron Blaze [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "The Malvern Hills (a designatated AONB) as viewed approaching the British Camp on Hereforshire Beacon (Iron Age earth works as seen on the left)."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/91/Top_of_End_Hill_-_geograph.org.uk_-_906888.jpg",
+      "title": "Trevor Rickard / Top of End Hill, via Wikimedia Commons",
+      "caption": "Top of End Hill From the granite outcrop on the most northerly top of the Malvern Hills looking northwards. The outskirts of Malvern Link to the right."
+    }
+  ],
+  "distance_km": 13.0,
+  "description": "This walk takes you the full length of the Malvern Hills from End Hill in North Malvern to Chase End Hill at the southern end. The Hills divide the counties of Herefordshire and Worcestershire and are covered with numerous footpaths and bridleways. The start point for the walk is the car park at North Malvern in the 19th century spa town of Great Malvern. You then pass End Hill, Table Hill and Sugarloaf Hill on your way to Worcestershire Beacon . At 425 m (1,394 ft) the Beacon is the highest point in the Malverns and offers fabulous views of Worcestershire, Herefordshire, Gloucestershire, the Cotswolds, the Welsh Mountains and the Severn Valley. You can climb to the beacon from Great Malvern on our circular walk. The route continues to Jubilee Hill, Black Hill and Herefordshire Beacon where you will find the noteworthy British Camp Iron Age hill fort and reservoir of the same name. Next you come to Hangman's Hill, and Swinyard Hill before arriving at the interesting Midsummer Hill where you will find an Iron Age hill fort which spans Midsummer Hill and Hollybush Hill. There are also splendid views of Eastnor Deer Park and the castle grounds. The final section takes you over Raggedstone Hill to the finish point at the end of the range, known as End Hill. It's a delightful walk on good footpaths with fabulous views throughout. Also look out for the springs and fountains dotted along the hills. If you would like to try a longer walk try our Malvern Hills Circular Walk which takes you along a section of the old Worcestershire Way long distance trail.",
+  "video_url": "https://www.youtube.com/embed/xGc0Tr9zJdY",
+  "postcode": "WR14 4LX",
+  "district": "Great Malvern",
+  "county": "Worcestershire",
+  "region": "West Midlands",
+  "country": "England"
 }

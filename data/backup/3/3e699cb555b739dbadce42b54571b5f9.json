@@ -1,66 +1,66 @@
 {
-    "objectID": "3e699cb555b739dbadce42b54571b5f9",
-    "created_at": "2024-12-19T19:56:29.591215+00:00",
-    "ref": "inversnaid-nature-trail-walking-route",
-    "title": "Inversnaid RSPB Nature Trail Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg/256px-Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg",
-    "nearby": [
-        {
-            "description": "Inversnaid Falls",
-            "objectID": "dd572bb886bb1656d0af60b0e8f63d14",
-            "ref": "inversnaid-falls-walking-route"
-        },
-        {
-            "description": "West Highland Way",
-            "objectID": "448b3c428907038d4574321287915104",
-            "ref": "west-highland-way-walking-and-cycle-route"
-        },
-        {
-            "description": "Cowal Way",
-            "objectID": "edc7929e768b691e075889109f9c7d54",
-            "ref": "cowal-way-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7FD705C1901F85B985257F1900009678/$FILE/Inversnaid Nature Trail.gpx",
-    "_geoloc": {
-        "lat": 56.2430008452,
-        "lng": -4.6855949896
+  "objectID": "3e699cb555b739dbadce42b54571b5f9",
+  "created_at": "2024-12-19T19:56:29.591215+00:00",
+  "ref": "inversnaid-nature-trail-walking-route",
+  "title": "Inversnaid RSPB Nature Trail Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg/256px-Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg",
+  "nearby": [
+    {
+      "description": "Inversnaid Falls",
+      "objectID": "dd572bb886bb1656d0af60b0e8f63d14",
+      "ref": "inversnaid-falls-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg/256px-Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg",
-            "title": "Iain Macaulay / Pier and hotel ferry at Inversnaid",
-            "caption": "Pier and hotel ferry at Inversnaid"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Loch_Lomond_-_geograph.org.uk_-_308874.jpg",
-            "title": "Ian Taylor / Loch Lomond",
-            "caption": "Loch Lomond and harbour from Inversnaid Hotel."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vacant_Seat_%28150959927%29.jpeg/512px-Vacant_Seat_%28150959927%29.jpeg",
-            "title": "Chschdawu, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-            "caption": "Vacant Seat with a view over the loch."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg/512px-Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg",
-            "title": "Steve Garvie from Dunfermline, Fife, Scotland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "A Wood Warbler"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coppiced_Alder_-_geograph.org.uk_-_4043279.jpg/512px-Coppiced_Alder_-_geograph.org.uk_-_4043279.jpg",
-            "title": "Coppiced Alder by Tim Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Coppiced Alder"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lochside_footpath%2CLoch_Lomond_-_geograph.org.uk_-_2118529.jpg",
-            "title": "Lochside footpath,Loch Lomond by Tom Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lochside footpath,Loch Lomond"
-        }
-    ],
-    "distance_km": 2.0,
-    "description": "Follow the lovely nature trail in this RSPB reserve by Loch Lomond on this short walk. The route starts at the  Inversnaid Hotel and follows the West Highland Way along the loch before climbing to oak woodland and open moorland where there are fabulous views. Look out for pied flycatchers, buzzards and woodpeckers on the way. If you would like to extend your walk you could continue along the West Highland Way in either direction. You could also visit the beautiful Inversnaid Falls which are a short stroll from the start of this route.",
-    "county": "Stirling",
-    "region": "Scotland",
-    "country": "Scotland"
+    {
+      "description": "West Highland Way",
+      "objectID": "448b3c428907038d4574321287915104",
+      "ref": "west-highland-way-walking-and-cycle-route"
+    },
+    {
+      "description": "Cowal Way",
+      "objectID": "edc7929e768b691e075889109f9c7d54",
+      "ref": "cowal-way-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7FD705C1901F85B985257F1900009678/$FILE/Inversnaid Nature Trail.gpx",
+  "_geoloc": {
+    "lat": 56.2430008452,
+    "lng": -4.6855949896
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg/256px-Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg",
+      "title": "Iain Macaulay / Pier and hotel ferry at Inversnaid",
+      "caption": "Pier and hotel ferry at Inversnaid"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Loch_Lomond_-_geograph.org.uk_-_308874.jpg",
+      "title": "Ian Taylor / Loch Lomond",
+      "caption": "Loch Lomond and harbour from Inversnaid Hotel."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Vacant_Seat_%28150959927%29.jpeg/512px-Vacant_Seat_%28150959927%29.jpeg",
+      "title": "Chschdawu, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "caption": "Vacant Seat with a view over the loch."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg/512px-Flickr_-_Rainbirder_-_Wood_Warbler_%28Phylloscopus_sibilatrix%29.jpg",
+      "title": "Steve Garvie from Dunfermline, Fife, Scotland, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "A Wood Warbler"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Coppiced_Alder_-_geograph.org.uk_-_4043279.jpg/512px-Coppiced_Alder_-_geograph.org.uk_-_4043279.jpg",
+      "title": "Coppiced Alder by Tim Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Coppiced Alder"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Lochside_footpath%2CLoch_Lomond_-_geograph.org.uk_-_2118529.jpg",
+      "title": "Lochside footpath,Loch Lomond by Tom Pennington, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lochside footpath,Loch Lomond"
+    }
+  ],
+  "distance_km": 2.0,
+  "description": "Follow the lovely nature trail in this RSPB reserve by Loch Lomond on this short walk. The route starts at the  Inversnaid Hotel and follows the West Highland Way along the loch before climbing to oak woodland and open moorland where there are fabulous views. Look out for pied flycatchers, buzzards and woodpeckers on the way. If you would like to extend your walk you could continue along the West Highland Way in either direction. You could also visit the beautiful Inversnaid Falls which are a short stroll from the start of this route.",
+  "county": "Stirling",
+  "region": "Scotland",
+  "country": "Scotland"
 }

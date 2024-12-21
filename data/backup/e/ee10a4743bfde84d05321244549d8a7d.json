@@ -1,113 +1,113 @@
 {
-    "objectID": "ee10a4743bfde84d05321244549d8a7d",
-    "created_at": "2024-12-18T16:23:47.176171+00:00",
-    "ref": "chew-magna-walking-route",
-    "title": "Chew Magna Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tun_Bridge%2C_Chew_Magna_04.JPG/512px-Tun_Bridge%2C_Chew_Magna_04.JPG",
-    "nearby": [
-        {
-            "description": "Chew Valley Lake",
-            "objectID": "da3bcef561cd96e3cc03d51021886db7",
-            "ref": "chew-valley-lake-walking-route"
-        },
-        {
-            "description": "Three Peaks Walk",
-            "objectID": "105949584ee9dfee0603bf157ea98d78",
-            "ref": "three-peaks-walk-walking-route"
-        },
-        {
-            "description": "Two Rivers Way",
-            "objectID": "9b0267da75d536c948959460dc124a94",
-            "ref": "two-rivers-way-walking-route"
-        },
-        {
-            "description": "Greyfield Woods",
-            "objectID": "28953823683ba3fe4927607b459e7b50",
-            "ref": "greyfield-woods-walking-route"
-        },
-        {
-            "description": "Samaritans Way South West",
-            "objectID": "988b0243f601ea8515ef7c955cff13a1",
-            "ref": "samaritans-way-south-west-walking-route"
-        },
-        {
-            "description": "Blagdon Lake",
-            "objectID": "cd3e914b9232b4a23b0d9a54eca184df",
-            "ref": "blagdon-lake-walking-route"
-        },
-        {
-            "description": "Pensford Viaduct",
-            "objectID": "5e066b759e085ca851790b43401a8a50",
-            "ref": "pensford-viaduct-walking-route"
-        },
-        {
-            "description": "Maes Knoll",
-            "objectID": "499929b422ab69e8e001e500aea33acc",
-            "ref": "maes-knoll-walking-route"
-        },
-        {
-            "description": "Paulton",
-            "objectID": "d1a7695e7d8b079ef71c441a5a4ebb55",
-            "ref": "paulton-walking-route"
-        },
-        {
-            "description": "Litton Reservoir",
-            "objectID": "2226c87addfc6077bffba986ec4e6e1e",
-            "ref": "litton-reservoir-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0C47A118AA74966D802583E500743565/$FILE/Chew Magna.gpx",
-    "_geoloc": {
-        "lat": 51.3666577739,
-        "lng": -2.6079220425
+  "objectID": "ee10a4743bfde84d05321244549d8a7d",
+  "created_at": "2024-12-18T16:23:47.176171+00:00",
+  "ref": "chew-magna-walking-route",
+  "title": "Chew Magna Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tun_Bridge%2C_Chew_Magna_04.JPG/512px-Tun_Bridge%2C_Chew_Magna_04.JPG",
+  "nearby": [
+    {
+      "description": "Chew Valley Lake",
+      "objectID": "da3bcef561cd96e3cc03d51021886db7",
+      "ref": "chew-valley-lake-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tun_Bridge%2C_Chew_Magna_04.JPG/512px-Tun_Bridge%2C_Chew_Magna_04.JPG",
-            "title": "Rodw [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-            "caption": "Tun Bridge, Chew Magna"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Waterfall%2C_Chew_Magna_-_panoramio.jpg/512px-Waterfall%2C_Chew_Magna_-_panoramio.jpg",
-            "title": "Keith Daulby [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-            "caption": "Waterfall, Chew Magna"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tunbridge_Mill%2C_Chew_Magna_%28geograph_2674135%29.jpg/512px-Tunbridge_Mill%2C_Chew_Magna_%28geograph_2674135%29.jpg",
-            "title": "Rick Crowley / Tunbridge Mill, Chew Magna, via Wikimedia Commons",
-            "caption": "Tunbridge Mill, Chew Magna"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Knowle_Hill_-_geograph.org.uk_-_212778.jpg",
-            "title": "Sharon Loxton / Knowle Hill, via Wikimedia Commons",
-            "caption": "Knowle Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/ST570615_northern-most_edge_of_Chew_Valley_Lake_-_geograph.org.uk_-_67299.jpg",
-            "title": "Colin S Pearson / ST570615 northern-most edge of Chew Valley Lake, via Wikimedia Commons",
-            "caption": "Northern-most edge of Chew Valley Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sailing_Club%2C_Chew_Valley_Lake_-_geograph.org.uk_-_1466997.jpg",
-            "title": "Pauline Eccles [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "Sailing Club, Chew Valley Lake"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chew_Valley_Lake%2C_World_Heritage_Site_-_geograph.org.uk_-_758.jpg",
-            "title": "Pam Brophy / Chew Valley Lake: World Heritage Site, via Wikimedia Commons",
-            "caption": "Chew Valley Lake, World Heritage Site"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/View_East%2C_Chew_Valley_Lake_-_geograph.org.uk_-_1464413.jpg",
-            "title": "Pauline Eccles [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-            "caption": "View East, Chew Valley Lake"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "The pretty village of Chew Magna is located close to the northern edge of the Mendip Hills and was designated a conservation area in 1978. There are a number of nice walking trails running through the surrounding area. This circular walk from the village visits the River Chew, Knowle Hill, Chew Valley Lake . It makes use of two of the waymarked long distance trails which runs through the area. You'll follow sections of the Three Peaks Walk and the Two Rivers Way on the 4 mile route which includes some moderate climbs on the way. The walk starts in the village where you can pick up the Three Peaks Walk. Follow it south east and it will take you across the River Chew to Moorledge Farm. You then climb to Knowle Hill which stands at a height of 112 m (367 ft). The area is open access land and a maze of rough pathways wind their way through the bracken to the summit. From here it is a short descent to the eastern side of Chew Valley Lake. Here you will find a lovely nature trail with woodland including Sweet Chestnut, Beech and Sycamore trees. The trail is well surfaced and offers great views across the lake towards Denny Island, a nesting site for Great Crested Grebe, Tufted Duck and Canada Geese. After enjoying the lake views the walk then picks up Pitt's Lane and follows it north west back to the village. On the way you will cross the River Chew again with nice views of the weir. Back in the village you will find several good pubs where you can enjoy refreshments after your walk. To continue your walking from the village you could pick up the Two Rivers Way at the western end and follow the River Chew south to the northern end of the lake. From here it is a short stroll west to the neighbouring village of Chew Stoke. The route then continues towards Buttcombe where you can visit the lovely Blagdon Lake with more nice nature trails to try. Heading east along the trail will take you to the impressive Pensford Viaduct .You could also continue along the Three Peaks Walk and further explore the Chew Valley where you could visit High Littleton and Greyfield Woods .",
-    "postcode": "BS40 8SF",
-    "district": "Chew Magna",
-    "county": "Bath and North East Somerset",
-    "region": "South West",
-    "country": "England"
+    {
+      "description": "Three Peaks Walk",
+      "objectID": "105949584ee9dfee0603bf157ea98d78",
+      "ref": "three-peaks-walk-walking-route"
+    },
+    {
+      "description": "Two Rivers Way",
+      "objectID": "9b0267da75d536c948959460dc124a94",
+      "ref": "two-rivers-way-walking-route"
+    },
+    {
+      "description": "Greyfield Woods",
+      "objectID": "28953823683ba3fe4927607b459e7b50",
+      "ref": "greyfield-woods-walking-route"
+    },
+    {
+      "description": "Samaritans Way South West",
+      "objectID": "988b0243f601ea8515ef7c955cff13a1",
+      "ref": "samaritans-way-south-west-walking-route"
+    },
+    {
+      "description": "Blagdon Lake",
+      "objectID": "cd3e914b9232b4a23b0d9a54eca184df",
+      "ref": "blagdon-lake-walking-route"
+    },
+    {
+      "description": "Pensford Viaduct",
+      "objectID": "5e066b759e085ca851790b43401a8a50",
+      "ref": "pensford-viaduct-walking-route"
+    },
+    {
+      "description": "Maes Knoll",
+      "objectID": "499929b422ab69e8e001e500aea33acc",
+      "ref": "maes-knoll-walking-route"
+    },
+    {
+      "description": "Paulton",
+      "objectID": "d1a7695e7d8b079ef71c441a5a4ebb55",
+      "ref": "paulton-walking-route"
+    },
+    {
+      "description": "Litton Reservoir",
+      "objectID": "2226c87addfc6077bffba986ec4e6e1e",
+      "ref": "litton-reservoir-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0C47A118AA74966D802583E500743565/$FILE/Chew Magna.gpx",
+  "_geoloc": {
+    "lat": 51.3666577739,
+    "lng": -2.6079220425
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Tun_Bridge%2C_Chew_Magna_04.JPG/512px-Tun_Bridge%2C_Chew_Magna_04.JPG",
+      "title": "Rodw [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+      "caption": "Tun Bridge, Chew Magna"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Waterfall%2C_Chew_Magna_-_panoramio.jpg/512px-Waterfall%2C_Chew_Magna_-_panoramio.jpg",
+      "title": "Keith Daulby [CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+      "caption": "Waterfall, Chew Magna"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Tunbridge_Mill%2C_Chew_Magna_%28geograph_2674135%29.jpg/512px-Tunbridge_Mill%2C_Chew_Magna_%28geograph_2674135%29.jpg",
+      "title": "Rick Crowley / Tunbridge Mill, Chew Magna, via Wikimedia Commons",
+      "caption": "Tunbridge Mill, Chew Magna"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Knowle_Hill_-_geograph.org.uk_-_212778.jpg",
+      "title": "Sharon Loxton / Knowle Hill, via Wikimedia Commons",
+      "caption": "Knowle Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/ST570615_northern-most_edge_of_Chew_Valley_Lake_-_geograph.org.uk_-_67299.jpg",
+      "title": "Colin S Pearson / ST570615 northern-most edge of Chew Valley Lake, via Wikimedia Commons",
+      "caption": "Northern-most edge of Chew Valley Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Sailing_Club%2C_Chew_Valley_Lake_-_geograph.org.uk_-_1466997.jpg",
+      "title": "Pauline Eccles [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "Sailing Club, Chew Valley Lake"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Chew_Valley_Lake%2C_World_Heritage_Site_-_geograph.org.uk_-_758.jpg",
+      "title": "Pam Brophy / Chew Valley Lake: World Heritage Site, via Wikimedia Commons",
+      "caption": "Chew Valley Lake, World Heritage Site"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/View_East%2C_Chew_Valley_Lake_-_geograph.org.uk_-_1464413.jpg",
+      "title": "Pauline Eccles [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "caption": "View East, Chew Valley Lake"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "The pretty village of Chew Magna is located close to the northern edge of the Mendip Hills and was designated a conservation area in 1978. There are a number of nice walking trails running through the surrounding area. This circular walk from the village visits the River Chew, Knowle Hill, Chew Valley Lake . It makes use of two of the waymarked long distance trails which runs through the area. You'll follow sections of the Three Peaks Walk and the Two Rivers Way on the 4 mile route which includes some moderate climbs on the way. The walk starts in the village where you can pick up the Three Peaks Walk. Follow it south east and it will take you across the River Chew to Moorledge Farm. You then climb to Knowle Hill which stands at a height of 112 m (367 ft). The area is open access land and a maze of rough pathways wind their way through the bracken to the summit. From here it is a short descent to the eastern side of Chew Valley Lake. Here you will find a lovely nature trail with woodland including Sweet Chestnut, Beech and Sycamore trees. The trail is well surfaced and offers great views across the lake towards Denny Island, a nesting site for Great Crested Grebe, Tufted Duck and Canada Geese. After enjoying the lake views the walk then picks up Pitt's Lane and follows it north west back to the village. On the way you will cross the River Chew again with nice views of the weir. Back in the village you will find several good pubs where you can enjoy refreshments after your walk. To continue your walking from the village you could pick up the Two Rivers Way at the western end and follow the River Chew south to the northern end of the lake. From here it is a short stroll west to the neighbouring village of Chew Stoke. The route then continues towards Buttcombe where you can visit the lovely Blagdon Lake with more nice nature trails to try. Heading east along the trail will take you to the impressive Pensford Viaduct .You could also continue along the Three Peaks Walk and further explore the Chew Valley where you could visit High Littleton and Greyfield Woods .",
+  "postcode": "BS40 8SF",
+  "district": "Chew Magna",
+  "county": "Bath and North East Somerset",
+  "region": "South West",
+  "country": "England"
 }

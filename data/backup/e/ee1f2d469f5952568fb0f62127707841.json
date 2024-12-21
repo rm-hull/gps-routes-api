@@ -1,58 +1,58 @@
 {
-    "objectID": "ee1f2d469f5952568fb0f62127707841",
-    "created_at": "2024-12-19T04:17:48.359595+00:00",
-    "ref": "river-teme-walking-route",
-    "title": "River Teme Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Worcester_Bridge_-_geograph.org.uk_-_923644.jpg",
-    "nearby": [
-        {
-            "description": "Ankerdine Hill",
-            "objectID": "bf2f846875487908a49a279350fd0af6",
-            "ref": "ankerdine-hill-walking-route"
-        },
-        {
-            "description": "Severn Way",
-            "objectID": "72be59b71bcbfee43d10b1521911293f",
-            "ref": "severn-way-walking-route"
-        },
-        {
-            "description": "Martley Circular Walk",
-            "objectID": "f3f8b4c041dea224f0e4406f2a44f1ea",
-            "ref": "martley-circular-walk-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7A9225A008667CCE802580BD006E712C/$FILE/River Teme.gpx",
-    "_geoloc": {
-        "lat": 52.1906714565,
-        "lng": -2.2261070737
+  "objectID": "ee1f2d469f5952568fb0f62127707841",
+  "created_at": "2024-12-19T04:17:48.359595+00:00",
+  "ref": "river-teme-walking-route",
+  "title": "River Teme Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Worcester_Bridge_-_geograph.org.uk_-_923644.jpg",
+  "nearby": [
+    {
+      "description": "Ankerdine Hill",
+      "objectID": "bf2f846875487908a49a279350fd0af6",
+      "ref": "ankerdine-hill-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Worcester_Bridge_-_geograph.org.uk_-_923644.jpg",
-            "title": "Philip Halling / Worcester Bridge",
-            "caption": "Worcester Bridge viewed from the South Quay. There has been a bridge here for many centuries, the present bridge was widened in 1931"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_River_Teme_from_The_Bransford_Bridge_-_geograph.org.uk_-_54988.jpg",
-            "title": "Bob Embleton / The River Teme from The Bransford Bridge",
-            "caption": "The River Teme from The Bransford Bridge. Looking downstream from the 1924 bridge. This is the site of an earlier bridge. If you look carefully just to the right of the swan there is the remains of the central support of the old bridge just beneath the water."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_river_at_Knightwick._-_geograph.org.uk_-_709118.jpg",
-            "title": "Row17 / The river at Knightwick.",
-            "caption": "The river at Knightwick."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Knightwick_-_geograph.org.uk_-_553439.jpg",
-            "title": "David Stowell / Knightwick",
-            "caption": "Knightwick. The church and some of the village on the northern side of the River Teme with the road Martley climbing the Ankerdine Hill behind."
-        }
-    ],
-    "distance_km": 18.0,
-    "description": "A walk through the River Teme valley from Worcester to Knightwick. The walk starts on Worcester Bridge in the centre of Worcester and heads south along the Severn Way to Lower Wick where the River Teme meets the River Severn. You then head west along the river to Upper Wick, Bransford, Leigh and Broadwas before finishing at the village of Knightwick in the Malvern Hills. The route is fairly flat with a few moderate climbs along the way. There's lovely views of the surrounding Worcestershire countryside and the river. At Knightwick you can enjoy a climb to Ankerdine Hill and Hay Wood. You can also pick up the Worcestershire Way and head further into the Malvern Hills.",
-    "postcode": "WR2 4RL",
-    "district": "Worcester",
-    "county": "Worcestershire",
-    "region": "West Midlands",
-    "country": "England"
+    {
+      "description": "Severn Way",
+      "objectID": "72be59b71bcbfee43d10b1521911293f",
+      "ref": "severn-way-walking-route"
+    },
+    {
+      "description": "Martley Circular Walk",
+      "objectID": "f3f8b4c041dea224f0e4406f2a44f1ea",
+      "ref": "martley-circular-walk-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7A9225A008667CCE802580BD006E712C/$FILE/River Teme.gpx",
+  "_geoloc": {
+    "lat": 52.1906714565,
+    "lng": -2.2261070737
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Worcester_Bridge_-_geograph.org.uk_-_923644.jpg",
+      "title": "Philip Halling / Worcester Bridge",
+      "caption": "Worcester Bridge viewed from the South Quay. There has been a bridge here for many centuries, the present bridge was widened in 1931"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_River_Teme_from_The_Bransford_Bridge_-_geograph.org.uk_-_54988.jpg",
+      "title": "Bob Embleton / The River Teme from The Bransford Bridge",
+      "caption": "The River Teme from The Bransford Bridge. Looking downstream from the 1924 bridge. This is the site of an earlier bridge. If you look carefully just to the right of the swan there is the remains of the central support of the old bridge just beneath the water."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_river_at_Knightwick._-_geograph.org.uk_-_709118.jpg",
+      "title": "Row17 / The river at Knightwick.",
+      "caption": "The river at Knightwick."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Knightwick_-_geograph.org.uk_-_553439.jpg",
+      "title": "David Stowell / Knightwick",
+      "caption": "Knightwick. The church and some of the village on the northern side of the River Teme with the road Martley climbing the Ankerdine Hill behind."
+    }
+  ],
+  "distance_km": 18.0,
+  "description": "A walk through the River Teme valley from Worcester to Knightwick. The walk starts on Worcester Bridge in the centre of Worcester and heads south along the Severn Way to Lower Wick where the River Teme meets the River Severn. You then head west along the river to Upper Wick, Bransford, Leigh and Broadwas before finishing at the village of Knightwick in the Malvern Hills. The route is fairly flat with a few moderate climbs along the way. There's lovely views of the surrounding Worcestershire countryside and the river. At Knightwick you can enjoy a climb to Ankerdine Hill and Hay Wood. You can also pick up the Worcestershire Way and head further into the Malvern Hills.",
+  "postcode": "WR2 4RL",
+  "district": "Worcester",
+  "county": "Worcestershire",
+  "region": "West Midlands",
+  "country": "England"
 }

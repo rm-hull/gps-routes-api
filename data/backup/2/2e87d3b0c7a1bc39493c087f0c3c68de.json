@@ -1,85 +1,85 @@
 {
-    "objectID": "2e87d3b0c7a1bc39493c087f0c3c68de",
-    "created_at": "2024-12-21T17:30:07.464541+00:00",
-    "ref": "flaggy-shore-walking-route",
-    "title": "Flaggy Shore Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg/512px-The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg?20230427173217",
-    "nearby": [
-        {
-            "description": "Ballyvaughan Wood Loop Walk",
-            "objectID": "bd8ff9d8c40235f958dcb72bb062d141",
-            "ref": "ballyvaughan-wood-loop-walk"
-        },
-        {
-            "description": "Galway",
-            "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
-            "ref": "galway-walking-route"
-        },
-        {
-            "description": "Doolin to Cliffs of Moher",
-            "objectID": "7f620e99dd91d4423918fcc8ba98b705",
-            "ref": "doolin-to-cliffs-of-moher-walking-route"
-        },
-        {
-            "description": "Burren Way",
-            "objectID": "8f3d234a3b754d27f08d7773d274919a",
-            "ref": "burren-way-walking-route"
-        },
-        {
-            "description": "Fanore To Ballyvaughan Walk",
-            "objectID": "b15cefa0cd99c32ab80238350da76704",
-            "ref": "fanore-to-ballyvaughan-walk-walking-route"
-        },
-        {
-            "description": "Gort River Walk",
-            "objectID": "2f1fdd02241643731249e0120c3478ac",
-            "ref": "gort-river-walk"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/912AF0AFCE0D262186258B5B006D475F/$FILE/Flaggy Shore.gpx",
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg/512px-The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg?20230427173217",
-            "title": "The Flaggy Shore, New Quay by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "New Quay. The Flaggy Shore is one of the northernmost areas in County Clare, with only Aughinish Island, across the narrow inlet, lying further north. The low sea cliffs on Aughinish Island have developed over thousands of years due to coastal erosion. They consis of thick sediment layers deposited during the last ice age, over 12,000 years ago."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Along_the_Flaggy_Shore_-_geograph.org.uk_-_4680219.jpg/512px-Along_the_Flaggy_Shore_-_geograph.org.uk_-_4680219.jpg?20230427004824",
-            "title": "Along the Flaggy Shore by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Along the Flaggy Shore. The area is a fine location to uncover clues about the origins of ancient ice sheets and the direction in which glaciers travelled. These clues can be discovered by examining the rocks along the shore and identifying those that stand out. Most of the cobbles and boulders along the shore are grey limestone rocks, but some are glacial erratics made of other rock types, such as granite or sandstone."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Vernon%2C_on_the_%27Flaggy_Shore%27%2C_Burren_-_geograph.org.uk_-_480654.jpg?20110205020915",
-            "title": "Keith Salvesen / Mount Vernon, on the 'Flaggy Shore', Burren",
-            "caption": "Mount Vernon, on the 'Flaggy Shore', Burren. A fine Georgian villa with significant historical and literary associations. Now a 'Hidden Ireland' property."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Knockvorneen_from_the_Flaggy_Shore_-_geograph.org.uk_-_832581.jpg?20110220194159",
-            "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Knockvorneen from the Flaggy Shore"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Flaggy_Shore_-_geograph.org.uk_-_4680222.jpg/512px-The_Flaggy_Shore_-_geograph.org.uk_-_4680222.jpg?20230427004859",
-            "title": "The Flaggy Shore by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "During the last ice age, over 12,000 years ago, immense ice sheets advanced over the Burren and much of Ireland. These ice sheets functioned like colossal bulldozers, eroding the land's surface and transporting vast quantities of sand, gravel, and boulders over extensive distances. As the ice sheets melted, they deposited all the sediments and rocks they carried onto the land surface. These deposited rocks are known as glacial erratics. Large limestone erratic boulders are visible throughout the Burren. Additionally, we can find various rocks in the Burren that do not originate from this limestone landscape."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Irl_Finavarra_Martello_Tower.jpg?20081210025032",
-            "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Finavarra Martello Tower"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lough_Murree_-_geograph.org.uk_-_832558.jpg?20110220194947",
-            "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Lough Murree"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shore_side_track_-_geograph.org.uk_-_4680227.jpg/512px-Shore_side_track_-_geograph.org.uk_-_4680227.jpg?20230427005038",
-            "title": "Shore side track by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Shore side track"
-        }
-    ],
-    "distance_km": 8.7,
-    "description": "This circular loop walk visits the stunning Flaggy Shore in County Clare. The geologically fascinating area is well known for its stunning coastal views, fossils and limestone pavements. You can start the walk at the car park at New Quay Beach and then follow the country lanes west towards Lough Murree. The coastal path provides some wonderful views of Aughinish Island, Galway Bay, the surrounding mountains and the wider Atlantic Ocean. The trail continues west to Finvarra Point where there is a Martello Tower and more excellent views to enjoy. The walk then loops round on alternative country lanes to return to the car park. You can continue your walking in the area by heading south west to try the Ballyvaughan Wood Loop Walk . On the circular walk you can visit the wonderful Aillwee Cave system with its underground river and waterfall.",
-    "video_url": "https://www.youtube.com/embed/r7PNtY8G8SQ?si=CDdw0cVQV4fpbVO0"
+  "objectID": "2e87d3b0c7a1bc39493c087f0c3c68de",
+  "created_at": "2024-12-21T17:30:07.464541+00:00",
+  "ref": "flaggy-shore-walking-route",
+  "title": "Flaggy Shore Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg/512px-The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg?20230427173217",
+  "nearby": [
+    {
+      "description": "Ballyvaughan Wood Loop Walk",
+      "objectID": "bd8ff9d8c40235f958dcb72bb062d141",
+      "ref": "ballyvaughan-wood-loop-walk"
+    },
+    {
+      "description": "Galway",
+      "objectID": "64cc89dbb01d337c6cf783af7cd0486c",
+      "ref": "galway-walking-route"
+    },
+    {
+      "description": "Doolin to Cliffs of Moher",
+      "objectID": "7f620e99dd91d4423918fcc8ba98b705",
+      "ref": "doolin-to-cliffs-of-moher-walking-route"
+    },
+    {
+      "description": "Burren Way",
+      "objectID": "8f3d234a3b754d27f08d7773d274919a",
+      "ref": "burren-way-walking-route"
+    },
+    {
+      "description": "Fanore To Ballyvaughan Walk",
+      "objectID": "b15cefa0cd99c32ab80238350da76704",
+      "ref": "fanore-to-ballyvaughan-walk-walking-route"
+    },
+    {
+      "description": "Gort River Walk",
+      "objectID": "2f1fdd02241643731249e0120c3478ac",
+      "ref": "gort-river-walk"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/912AF0AFCE0D262186258B5B006D475F/$FILE/Flaggy Shore.gpx",
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg/512px-The_Flaggy_Shore%2C_New_Quay_-_geograph.org.uk_-_4683822.jpg?20230427173217",
+      "title": "The Flaggy Shore, New Quay by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "New Quay. The Flaggy Shore is one of the northernmost areas in County Clare, with only Aughinish Island, across the narrow inlet, lying further north. The low sea cliffs on Aughinish Island have developed over thousands of years due to coastal erosion. They consis of thick sediment layers deposited during the last ice age, over 12,000 years ago."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Along_the_Flaggy_Shore_-_geograph.org.uk_-_4680219.jpg/512px-Along_the_Flaggy_Shore_-_geograph.org.uk_-_4680219.jpg?20230427004824",
+      "title": "Along the Flaggy Shore by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Along the Flaggy Shore. The area is a fine location to uncover clues about the origins of ancient ice sheets and the direction in which glaciers travelled. These clues can be discovered by examining the rocks along the shore and identifying those that stand out. Most of the cobbles and boulders along the shore are grey limestone rocks, but some are glacial erratics made of other rock types, such as granite or sandstone."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Mount_Vernon%2C_on_the_%27Flaggy_Shore%27%2C_Burren_-_geograph.org.uk_-_480654.jpg?20110205020915",
+      "title": "Keith Salvesen / Mount Vernon, on the 'Flaggy Shore', Burren",
+      "caption": "Mount Vernon, on the 'Flaggy Shore', Burren. A fine Georgian villa with significant historical and literary associations. Now a 'Hidden Ireland' property."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Knockvorneen_from_the_Flaggy_Shore_-_geograph.org.uk_-_832581.jpg?20110220194159",
+      "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Knockvorneen from the Flaggy Shore"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_Flaggy_Shore_-_geograph.org.uk_-_4680222.jpg/512px-The_Flaggy_Shore_-_geograph.org.uk_-_4680222.jpg?20230427004859",
+      "title": "The Flaggy Shore by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "During the last ice age, over 12,000 years ago, immense ice sheets advanced over the Burren and much of Ireland. These ice sheets functioned like colossal bulldozers, eroding the land's surface and transporting vast quantities of sand, gravel, and boulders over extensive distances. As the ice sheets melted, they deposited all the sediments and rocks they carried onto the land surface. These deposited rocks are known as glacial erratics. Large limestone erratic boulders are visible throughout the Burren. Additionally, we can find various rocks in the Burren that do not originate from this limestone landscape."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Irl_Finavarra_Martello_Tower.jpg?20081210025032",
+      "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Finavarra Martello Tower"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lough_Murree_-_geograph.org.uk_-_832558.jpg?20110220194947",
+      "title": "A McCarron, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Lough Murree"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shore_side_track_-_geograph.org.uk_-_4680227.jpg/512px-Shore_side_track_-_geograph.org.uk_-_4680227.jpg?20230427005038",
+      "title": "Shore side track by Gordon Hatton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Shore side track"
+    }
+  ],
+  "distance_km": 8.7,
+  "description": "This circular loop walk visits the stunning Flaggy Shore in County Clare. The geologically fascinating area is well known for its stunning coastal views, fossils and limestone pavements. You can start the walk at the car park at New Quay Beach and then follow the country lanes west towards Lough Murree. The coastal path provides some wonderful views of Aughinish Island, Galway Bay, the surrounding mountains and the wider Atlantic Ocean. The trail continues west to Finvarra Point where there is a Martello Tower and more excellent views to enjoy. The walk then loops round on alternative country lanes to return to the car park. You can continue your walking in the area by heading south west to try the Ballyvaughan Wood Loop Walk . On the circular walk you can visit the wonderful Aillwee Cave system with its underground river and waterfall.",
+  "video_url": "https://www.youtube.com/embed/r7PNtY8G8SQ?si=CDdw0cVQV4fpbVO0"
 }

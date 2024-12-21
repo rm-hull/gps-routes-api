@@ -1,79 +1,79 @@
 {
-    "objectID": "e3eec8ab2b55e682d487fbe0872eaa36",
-    "created_at": "2024-12-18T11:31:36.358929+00:00",
-    "ref": "worcestershire-beacon-walking-route",
-    "title": "Worcestershire Beacon Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Worcestershire_Beacon_summit.jpg/512px-Worcestershire_Beacon_summit.jpg",
-    "nearby": [
-        {
-            "description": "Worcestershire Way",
-            "objectID": "bc88cb9ede89bd9038772fa0235ccd90",
-            "ref": "worcestershire-way-walking-route"
-        },
-        {
-            "description": "Hanley Swan",
-            "objectID": "679d14b04178b50890d151de68955347",
-            "ref": "hanley-swan-walking-route"
-        },
-        {
-            "description": "Herefordshire Beacon and British Camp",
-            "objectID": "cbabb49fe5282d4dc06059d9ae73114b",
-            "ref": "herefordshire-beacon-and-british-camp-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/AB1CF8D1E102A18980257E710078D60D/$FILE/Worcestershire Beacon.gpx",
-    "_geoloc": {
-        "lat": 52.110276232,
-        "lng": -2.330287407
+  "objectID": "e3eec8ab2b55e682d487fbe0872eaa36",
+  "created_at": "2024-12-18T11:31:36.358929+00:00",
+  "ref": "worcestershire-beacon-walking-route",
+  "title": "Worcestershire Beacon Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Worcestershire_Beacon_summit.jpg/512px-Worcestershire_Beacon_summit.jpg",
+  "nearby": [
+    {
+      "description": "Worcestershire Way",
+      "objectID": "bc88cb9ede89bd9038772fa0235ccd90",
+      "ref": "worcestershire-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Worcestershire_Beacon_summit.jpg/512px-Worcestershire_Beacon_summit.jpg",
-            "title": "Nilfanion [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-            "caption": "The summit of Worcestershire Beacon, in the Malverns, with the toposcope in the foreground and North Hill in the distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Summit_of_Worcestershire_Beacon_-_geograph.org.uk_-_313970.jpg",
-            "title": "Phil Champion / Summit of Worcestershire Beacon, via Wikimedia Commons",
-            "caption": "Summit of Worcestershire Beacon Looking north towards Table Hill and North Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Paragliding_off_Worcestershire_Beacon_-_geograph.org.uk_-_1424944.jpg",
-            "title": "Roger Davies / Paragliding off Worcestershire Beacon",
-            "caption": "Paragliding off Worcestershire Beacon"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Malvern_Hills_%2C_Hillside_Scenery_-_geograph.org.uk_-_3972735.jpg/512px-Malvern_Hills_%2C_Hillside_Scenery_-_geograph.org.uk_-_3972735.jpg",
-            "title": "Malvern Hills : Hillside Scenery by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Malvern Hills , Hillside Scenery"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sugarloaf_Hill_and_the_Worcester_Beacon_-_geograph.org.uk_-_446418.jpg",
-            "title": "Trevor Rickard / Sugarloaf Hill and the Worcester Beacon",
-            "caption": "Looking South along the spine of the Malverns from Table Hill, the small hill in the foreground is Sugarloaf and the larger hill to the left is the Worcester Beacon, at 425 metres above sea level the highest point on the Malverns. The hill fort in the beackground is the Hereford Beacon."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Track_to_the_top_of_the_Worcestershire_Beacon_-_geograph.org.uk_-_646626.jpg",
-            "title": "Trevor Rickard / Track to the top of the Worcestershire Beacon",
-            "caption": "Track to the south of the hill. From near the summit looking southwards down the lane with a mist-filled Severn valley to the left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nearing_the_top_of_Worcestershire_Beacon_with_view_to_North_Hill_%5E_Sugarloaf_Hill%2C_Malvern_Hills_-_geograph.org.uk_-_3287877.jpg/512px-Nearing_the_top_of_Worcestershire_Beacon_with_view_to_North_Hill_%5E_Sugarloaf_Hill%2C_Malvern_Hills_-_geograph.org.uk_-_3287877.jpg",
-            "title": "Nearing the top of Worcestershire Beacon with view to North Hill & Sugarloaf Hill, Malvern Hills by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Nearing the top of the Beacon with view to North and Sugarloaf Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_ridge_path_south_from_Worcestershire_Beacon_-_geograph.org.uk_-_2762975.jpg/512px-The_ridge_path_south_from_Worcestershire_Beacon_-_geograph.org.uk_-_2762975.jpg",
-            "title": "The ridge path south from Worcestershire Beacon by Bob Embleton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The ridge path south from the Beacon"
-        }
-    ],
-    "distance_km": 6.5,
-    "description": "This circular walk takes you to the high point of the Malvern Hills at Worcestershire Beacon. The walk starts in Great Malvern, just to the west of the train station. From the Edward Elgar Statue you can pick up the Worcestershire Way to take you onto the hills. The route then heads to North Hill and Sugarloaf Hill before climbing to Worcestershire Beacon. From the 425 metres (1,394 ft) summit you can see 13 counties of England on a clear day. Other highlights includes views of The Wrekin , Cannock Chase, the Welsh border mountains, the Shropshire Hills and across the valleys of the Severn and Avon to the Cotswold Hills. After soaking in the views the route descends to Lower Wyche before returning to Great Malvern. To explore the full range of this beautiful area try our Malvern Hills Walk .",
-    "video_url": "https://www.youtube.com/embed/sN8NV86Fn7M",
-    "postcode": "WR14 4QG",
-    "district": "Great Malvern",
-    "county": "Worcestershire",
-    "region": "West Midlands",
-    "country": "England"
+    {
+      "description": "Hanley Swan",
+      "objectID": "679d14b04178b50890d151de68955347",
+      "ref": "hanley-swan-walking-route"
+    },
+    {
+      "description": "Herefordshire Beacon and British Camp",
+      "objectID": "cbabb49fe5282d4dc06059d9ae73114b",
+      "ref": "herefordshire-beacon-and-british-camp-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/AB1CF8D1E102A18980257E710078D60D/$FILE/Worcestershire Beacon.gpx",
+  "_geoloc": {
+    "lat": 52.110276232,
+    "lng": -2.330287407
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Worcestershire_Beacon_summit.jpg/512px-Worcestershire_Beacon_summit.jpg",
+      "title": "Nilfanion [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+      "caption": "The summit of Worcestershire Beacon, in the Malverns, with the toposcope in the foreground and North Hill in the distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Summit_of_Worcestershire_Beacon_-_geograph.org.uk_-_313970.jpg",
+      "title": "Phil Champion / Summit of Worcestershire Beacon, via Wikimedia Commons",
+      "caption": "Summit of Worcestershire Beacon Looking north towards Table Hill and North Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Paragliding_off_Worcestershire_Beacon_-_geograph.org.uk_-_1424944.jpg",
+      "title": "Roger Davies / Paragliding off Worcestershire Beacon",
+      "caption": "Paragliding off Worcestershire Beacon"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Malvern_Hills_%2C_Hillside_Scenery_-_geograph.org.uk_-_3972735.jpg/512px-Malvern_Hills_%2C_Hillside_Scenery_-_geograph.org.uk_-_3972735.jpg",
+      "title": "Malvern Hills : Hillside Scenery by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Malvern Hills , Hillside Scenery"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Sugarloaf_Hill_and_the_Worcester_Beacon_-_geograph.org.uk_-_446418.jpg",
+      "title": "Trevor Rickard / Sugarloaf Hill and the Worcester Beacon",
+      "caption": "Looking South along the spine of the Malverns from Table Hill, the small hill in the foreground is Sugarloaf and the larger hill to the left is the Worcester Beacon, at 425 metres above sea level the highest point on the Malverns. The hill fort in the beackground is the Hereford Beacon."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Track_to_the_top_of_the_Worcestershire_Beacon_-_geograph.org.uk_-_646626.jpg",
+      "title": "Trevor Rickard / Track to the top of the Worcestershire Beacon",
+      "caption": "Track to the south of the hill. From near the summit looking southwards down the lane with a mist-filled Severn valley to the left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nearing_the_top_of_Worcestershire_Beacon_with_view_to_North_Hill_%5E_Sugarloaf_Hill%2C_Malvern_Hills_-_geograph.org.uk_-_3287877.jpg/512px-Nearing_the_top_of_Worcestershire_Beacon_with_view_to_North_Hill_%5E_Sugarloaf_Hill%2C_Malvern_Hills_-_geograph.org.uk_-_3287877.jpg",
+      "title": "Nearing the top of Worcestershire Beacon with view to North Hill & Sugarloaf Hill, Malvern Hills by Colin Park, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Nearing the top of the Beacon with view to North and Sugarloaf Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_ridge_path_south_from_Worcestershire_Beacon_-_geograph.org.uk_-_2762975.jpg/512px-The_ridge_path_south_from_Worcestershire_Beacon_-_geograph.org.uk_-_2762975.jpg",
+      "title": "The ridge path south from Worcestershire Beacon by Bob Embleton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The ridge path south from the Beacon"
+    }
+  ],
+  "distance_km": 6.5,
+  "description": "This circular walk takes you to the high point of the Malvern Hills at Worcestershire Beacon. The walk starts in Great Malvern, just to the west of the train station. From the Edward Elgar Statue you can pick up the Worcestershire Way to take you onto the hills. The route then heads to North Hill and Sugarloaf Hill before climbing to Worcestershire Beacon. From the 425 metres (1,394 ft) summit you can see 13 counties of England on a clear day. Other highlights includes views of The Wrekin , Cannock Chase, the Welsh border mountains, the Shropshire Hills and across the valleys of the Severn and Avon to the Cotswold Hills. After soaking in the views the route descends to Lower Wyche before returning to Great Malvern. To explore the full range of this beautiful area try our Malvern Hills Walk .",
+  "video_url": "https://www.youtube.com/embed/sN8NV86Fn7M",
+  "postcode": "WR14 4QG",
+  "district": "Great Malvern",
+  "county": "Worcestershire",
+  "region": "West Midlands",
+  "country": "England"
 }

@@ -1,82 +1,82 @@
 {
-    "objectID": "e1885fa5d920ae27461f10ac9ee52c6d",
-    "created_at": "2024-12-18T09:55:36.887231+00:00",
-    "ref": "dunkery-beacon-walking-route",
-    "title": "Dunkery Beacon Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Toposcope_on_Dunkery_Beacon_%28geograph_2611079%29.jpg",
-    "nearby": [
-        {
-            "description": "Coleridge Way",
-            "objectID": "a3bef22716b4314c225d24d23a12bc9b",
-            "ref": "coleridge-way-walking-route"
-        },
-        {
-            "description": "Porlock and Porlock Weir",
-            "objectID": "defc8c471a57e39f20156339f70c69a5",
-            "ref": "porlock-and-porlock-weir-walking-route"
-        },
-        {
-            "description": "Holnicote Estate",
-            "objectID": "e3af5ca905fc2a71d93fbd1ee79cdd6b",
-            "ref": "holnicote-estate-walking-route"
-        },
-        {
-            "description": "Wheddon Cross",
-            "objectID": "300b530a9ac7d229e6cbfd8833943903",
-            "ref": "wheddon-cross-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/EC75F9995440B71080257DDD00763B03/$FILE/Dunkery Beacon.gpx",
-    "_geoloc": {
-        "lat": 51.166651566,
-        "lng": -3.5693132801
+  "objectID": "e1885fa5d920ae27461f10ac9ee52c6d",
+  "created_at": "2024-12-18T09:55:36.887231+00:00",
+  "ref": "dunkery-beacon-walking-route",
+  "title": "Dunkery Beacon Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Toposcope_on_Dunkery_Beacon_%28geograph_2611079%29.jpg",
+  "nearby": [
+    {
+      "description": "Coleridge Way",
+      "objectID": "a3bef22716b4314c225d24d23a12bc9b",
+      "ref": "coleridge-way-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Toposcope_on_Dunkery_Beacon_%28geograph_2611079%29.jpg",
-            "title": "Oliver Dixon / Toposcope on Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Toposcope on Dunkery Beacon."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dunkery_Beacon_-_geograph.org.uk_-_237582.jpg",
-            "title": "Janine Forbes / Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Cairn erected to commemorate the handing over of Dunkery Hill to the National Trust. The site has been frequented by humans since the Bronze Age and features several burial mounds, including cairns and bowl barrows. Sweetworthy, located on the lower slopes, is home to two Iron Age hill forts or enclosures and a deserted medieval settlement."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cutcombe%2C_nearing_Dunkery_Beacon_-_geograph.org.uk_-_519961.jpg",
-            "title": "Martin Bodman / Cutcombe: nearing Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Cutcombe: walkers nearing Dunkery Beacon on the bridleway from Dunkery Gate, a climb of 100m or so. Looking north-north-west"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ponies%2C_Dunkery_Beacon_-_geograph.org.uk_-_1283136.jpg/256px-Ponies%2C_Dunkery_Beacon_-_geograph.org.uk_-_1283136.jpg",
-            "title": "Derek Harper / Ponies, Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Ponies on the Beacon. A pair of ponies graze close to the summit. The hill formed part of Henry II's \"Royal Forest of Exmoor\"."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Path_junction_near_Dunkery_Beacon_-_geograph.org.uk_-_1283220.jpg",
-            "title": "Derek Harper / Path junction near Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Path junction near the beacon. A path across Goosemoor Common diverges from a larger path which connects Dunkery Beacon to the Rowbarrows."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ponies_near_Dunkery_Beacon_-_geograph.org.uk_-_1283116.jpg",
-            "title": "Derek Harper / Ponies near Dunkery Beacon, via Wikimedia Commons",
-            "caption": "Beautiful view of the path, the ponies and the Exmoor hills in the background"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_across_Bagley_Combe_towards_Dunkery_Hill_-_geograph.org.uk_-_2563370.jpg/512px-View_across_Bagley_Combe_towards_Dunkery_Hill_-_geograph.org.uk_-_2563370.jpg?20210903000955",
-            "title": "View across Bagley Combe towards Dunkery Hill by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "View across Bagley Combe towards Dunkery Hill"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg/512px-Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg?20230219043244",
-            "title": "Wheddon Cross : The Rest and be Thankful Inn by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Wheddon Cross , The Rest and be Thankful Inn"
-        }
-    ],
-    "distance_km": 7.5,
-    "description": "This walk climbs to Dunkery Beacon on Dunkery Hill, the highest point in Exmoor and Somerset. From the 1,703 feet (519 metre) summit there are fabulous views over Exmoor, the Brecon Beacons, Bodmin Moor, Dartmoor, the Severn Bridges and the Bristol and English Channels. The walk starts at the Dunkery Hill car park taking you up the hill to the beacon before heading into the delightful Dunkery and Horner Wood National Nature Reserve. The reserve covers 4000 acres/1604 hectares and is owned and managed by the National Trust. It consists of upland heath and woodland with a variety of wildlife including pied flycatcher, wood warbler, lesser spotted woodpecker, redstart and dipper. It also supports 14 of the 16 UK bat species, including barbastelle and Bechstein bats. You should also see several Exmoor Ponies and Exmoor's Iconic Red Deer. At the hill summit there's a handy toposcope where you can see all of the landmarks that are visible. If you would like to continue your walk you could head to the nearby Selworthy Beacon in the Holnicote Estate . Here you can enjoy more fabulous views of the Exmoor coast. The long distance Coleridge Way also passes close to the hill. You could pick this up and head north to the coast and visit Porlock and Porlock Weir .",
-    "video_url": "https://www.youtube.com/embed/qsWuxWBJmVc",
-    "county": "Somerset",
-    "region": "South West",
-    "country": "England"
+    {
+      "description": "Porlock and Porlock Weir",
+      "objectID": "defc8c471a57e39f20156339f70c69a5",
+      "ref": "porlock-and-porlock-weir-walking-route"
+    },
+    {
+      "description": "Holnicote Estate",
+      "objectID": "e3af5ca905fc2a71d93fbd1ee79cdd6b",
+      "ref": "holnicote-estate-walking-route"
+    },
+    {
+      "description": "Wheddon Cross",
+      "objectID": "300b530a9ac7d229e6cbfd8833943903",
+      "ref": "wheddon-cross-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/EC75F9995440B71080257DDD00763B03/$FILE/Dunkery Beacon.gpx",
+  "_geoloc": {
+    "lat": 51.166651566,
+    "lng": -3.5693132801
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Toposcope_on_Dunkery_Beacon_%28geograph_2611079%29.jpg",
+      "title": "Oliver Dixon / Toposcope on Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Toposcope on Dunkery Beacon."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Dunkery_Beacon_-_geograph.org.uk_-_237582.jpg",
+      "title": "Janine Forbes / Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Cairn erected to commemorate the handing over of Dunkery Hill to the National Trust. The site has been frequented by humans since the Bronze Age and features several burial mounds, including cairns and bowl barrows. Sweetworthy, located on the lower slopes, is home to two Iron Age hill forts or enclosures and a deserted medieval settlement."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Cutcombe%2C_nearing_Dunkery_Beacon_-_geograph.org.uk_-_519961.jpg",
+      "title": "Martin Bodman / Cutcombe: nearing Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Cutcombe: walkers nearing Dunkery Beacon on the bridleway from Dunkery Gate, a climb of 100m or so. Looking north-north-west"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ponies%2C_Dunkery_Beacon_-_geograph.org.uk_-_1283136.jpg/256px-Ponies%2C_Dunkery_Beacon_-_geograph.org.uk_-_1283136.jpg",
+      "title": "Derek Harper / Ponies, Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Ponies on the Beacon. A pair of ponies graze close to the summit. The hill formed part of Henry II's \"Royal Forest of Exmoor\"."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Path_junction_near_Dunkery_Beacon_-_geograph.org.uk_-_1283220.jpg",
+      "title": "Derek Harper / Path junction near Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Path junction near the beacon. A path across Goosemoor Common diverges from a larger path which connects Dunkery Beacon to the Rowbarrows."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ponies_near_Dunkery_Beacon_-_geograph.org.uk_-_1283116.jpg",
+      "title": "Derek Harper / Ponies near Dunkery Beacon, via Wikimedia Commons",
+      "caption": "Beautiful view of the path, the ponies and the Exmoor hills in the background"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/View_across_Bagley_Combe_towards_Dunkery_Hill_-_geograph.org.uk_-_2563370.jpg/512px-View_across_Bagley_Combe_towards_Dunkery_Hill_-_geograph.org.uk_-_2563370.jpg?20210903000955",
+      "title": "View across Bagley Combe towards Dunkery Hill by Roger Cornfoot, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "View across Bagley Combe towards Dunkery Hill"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg/512px-Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg?20230219043244",
+      "title": "Wheddon Cross : The Rest and be Thankful Inn by Lewis Clarke, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Wheddon Cross , The Rest and be Thankful Inn"
+    }
+  ],
+  "distance_km": 7.5,
+  "description": "This walk climbs to Dunkery Beacon on Dunkery Hill, the highest point in Exmoor and Somerset. From the 1,703 feet (519 metre) summit there are fabulous views over Exmoor, the Brecon Beacons, Bodmin Moor, Dartmoor, the Severn Bridges and the Bristol and English Channels. The walk starts at the Dunkery Hill car park taking you up the hill to the beacon before heading into the delightful Dunkery and Horner Wood National Nature Reserve. The reserve covers 4000 acres/1604 hectares and is owned and managed by the National Trust. It consists of upland heath and woodland with a variety of wildlife including pied flycatcher, wood warbler, lesser spotted woodpecker, redstart and dipper. It also supports 14 of the 16 UK bat species, including barbastelle and Bechstein bats. You should also see several Exmoor Ponies and Exmoor's Iconic Red Deer. At the hill summit there's a handy toposcope where you can see all of the landmarks that are visible. If you would like to continue your walk you could head to the nearby Selworthy Beacon in the Holnicote Estate . Here you can enjoy more fabulous views of the Exmoor coast. The long distance Coleridge Way also passes close to the hill. You could pick this up and head north to the coast and visit Porlock and Porlock Weir .",
+  "video_url": "https://www.youtube.com/embed/qsWuxWBJmVc",
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England"
 }

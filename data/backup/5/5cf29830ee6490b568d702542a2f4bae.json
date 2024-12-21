@@ -1,117 +1,117 @@
 {
-    "objectID": "5cf29830ee6490b568d702542a2f4bae",
-    "created_at": "2024-12-18T00:25:24.058343+00:00",
-    "ref": "maiden-newton-walking-route",
-    "title": "Maiden Newton Walk Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Allotments_Alongside_Maiden_Newton_Station_-_geograph.org.uk_-_3145978.jpg",
-    "nearby": [
-        {
-            "description": "Frome Valley Trail",
-            "objectID": "38dff50d36c21923496fd113ef8e2a07",
-            "ref": "frome-valley-trail-walking-route"
-        },
-        {
-            "description": "Cerne Abbas Giant",
-            "objectID": "2c6881c296b89240f66db212212bcff3",
-            "ref": "cerne-abbas-giant-walking-route"
-        },
-        {
-            "description": "Minterne Gardens",
-            "objectID": "8e1b9dcf6777819e129fab4a6aa4ba68",
-            "ref": "minterne-gardens-walking-route"
-        },
-        {
-            "description": "Thorncombe Woods",
-            "objectID": "35435738dacc9c9a2aa33b63f21bf5d4",
-            "ref": "thorncombe-woods-walking-route"
-        },
-        {
-            "description": "Puddletown Forest",
-            "objectID": "0fc911062a3b5906d5e12c9d5df70c2c",
-            "ref": "puddletown-forest-walking-and-cycle-route"
-        },
-        {
-            "description": "Athelhampton House",
-            "objectID": "ce060ad0ec71aecb6521cced6093543b",
-            "ref": "athelhampton-house-walking-route"
-        },
-        {
-            "description": "Maiden Castle Dorset",
-            "objectID": "e6e6e67a8dc501d47567109e0fddd258",
-            "ref": "maiden-castle-dorset-walking-route"
-        },
-        {
-            "description": "Wessex Ridgeway",
-            "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
-            "ref": "wessex-ridgeway-walking-route"
-        },
-        {
-            "description": "Macmillan Way",
-            "objectID": "cf3f4a199da30cc9ae551d49d13ec8f4",
-            "ref": "macmillan-way-walking-route"
-        },
-        {
-            "description": "Dorchester",
-            "objectID": "56fae3f1ae6605f53ac8b3639e378ba7",
-            "ref": "dorchester-walking-route"
-        },
-        {
-            "description": "Sydling St Nicholas",
-            "objectID": "12e058de2e0770bf7e265790d587877c",
-            "ref": "sydling-st-nicholas-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/8877691A5D609E2C862587E900504295/$FILE/Maiden Newton.gpx",
-    "_geoloc": {
-        "lat": 50.7801971609,
-        "lng": -2.5699247479
+  "objectID": "5cf29830ee6490b568d702542a2f4bae",
+  "created_at": "2024-12-18T00:25:24.058343+00:00",
+  "ref": "maiden-newton-walking-route",
+  "title": "Maiden Newton Walk Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Allotments_Alongside_Maiden_Newton_Station_-_geograph.org.uk_-_3145978.jpg",
+  "nearby": [
+    {
+      "description": "Frome Valley Trail",
+      "objectID": "38dff50d36c21923496fd113ef8e2a07",
+      "ref": "frome-valley-trail-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Allotments_Alongside_Maiden_Newton_Station_-_geograph.org.uk_-_3145978.jpg",
-            "title": "Allotments Alongside Maiden Newton Station by Roy Hughes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Allotments and countryside view from Maiden Newton Railway Station where the route starts."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_Wessex_Ridgeway%2C_Maiden_Newton_-_geograph.org.uk_-_908391.jpg",
-            "title": "Andrew Smith / The Wessex Ridgeway, Maiden Newton",
-            "caption": "The Wessex Ridgeway, Maiden Newton. Descending into the Frome valley between a fields of wheat and mown hay. Combe Bottom falls steeply away to the right of the track which is only a public footpath at this point."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/View_Across_Coombe_Bottom_-_geograph.org.uk_-_903970.jpg",
-            "title": "Nigel Mykura / View Across Coombe Bottom",
-            "caption": "View Across Coombe Bottom. View SE from the road out of Maiden Newton to the Folly hHill crossroads on the A37. The hill in the distance is Fore Hill and the Wessex Ridgeway runs along the top of the wooded area."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hog_Cliff_National_Nature_Reserve_-_geograph.org.uk_-_908403.jpg",
-            "title": "Andrew Smith / Hog Cliff National Nature Reserve",
-            "caption": "Hog Cliff National Nature Reserve. The bridleway descending into Hog Cliff Bottom from the A37. Earthworks show up on the opposite hillside."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Langcombe_Bottom%2C_Maiden_Newton_-_geograph.org.uk_-_908395.jpg",
-            "title": "Andrew Smith / Langcombe Bottom, Maiden Newton",
-            "caption": "Langcombe Bottom, Maiden Newton. Arable fields occupy flatter land above and below the combe's steep escarpment."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Breakheart_Hill_-_geograph.org.uk_-_896009.jpg",
-            "title": "Nigel Mykura / Breakheart Hill",
-            "caption": "Breakheart Hill. View SW towards Fore Hill in the distance."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hog_Cliff_National_Nature_Reserve_-_geograph.org.uk_-_908400.jpg",
-            "title": "Andrew Smith / Hog Cliff National Nature Reserve",
-            "caption": "Looking into Plain Bottom, the northern continuation of Hog Cliff Bottom."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Frome_near_Lower_Frome_Vauchurch_-_geograph.org.uk_-_2954997.jpg/512px-River_Frome_near_Lower_Frome_Vauchurch_-_geograph.org.uk_-_2954997.jpg",
-            "title": "River Frome near Lower Frome Vauchurch by Keith Salvesen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Frome near Lower Frome Vauchurch"
-        }
-    ],
-    "distance_km": 9.0,
-    "description": "This Dorset based village sits in a rural spot on the River Frome near to the county town of Dorchester . Two major long distance walking trails pass through the village and there's also a National Nature Reserve a short walk away. This circular walk from the village visits the Hog Cliff Bottom Nature Reserve before a stroll along the River Frome. The walk starts at the railway station where you can pick up the Wessex Ridgeway long distance footpath. Follow the trail north east before heading east along public bridleways to Ford Hill and Hog Cliff Bottom. You can follow a circular bridle path around the attractive site where there are some lovely country views and lots of wildlife to see. After exploring the reserve the route then heads to Langcombe Bottom where you cross the railway line and the river at Little Cruxton. The route then picks up a section of the Macmillan Way and follows it north to the river and the village.",
-    "district": "Maiden Newton",
-    "county": "Dorset",
-    "region": "South West",
-    "country": "England"
+    {
+      "description": "Cerne Abbas Giant",
+      "objectID": "2c6881c296b89240f66db212212bcff3",
+      "ref": "cerne-abbas-giant-walking-route"
+    },
+    {
+      "description": "Minterne Gardens",
+      "objectID": "8e1b9dcf6777819e129fab4a6aa4ba68",
+      "ref": "minterne-gardens-walking-route"
+    },
+    {
+      "description": "Thorncombe Woods",
+      "objectID": "35435738dacc9c9a2aa33b63f21bf5d4",
+      "ref": "thorncombe-woods-walking-route"
+    },
+    {
+      "description": "Puddletown Forest",
+      "objectID": "0fc911062a3b5906d5e12c9d5df70c2c",
+      "ref": "puddletown-forest-walking-and-cycle-route"
+    },
+    {
+      "description": "Athelhampton House",
+      "objectID": "ce060ad0ec71aecb6521cced6093543b",
+      "ref": "athelhampton-house-walking-route"
+    },
+    {
+      "description": "Maiden Castle Dorset",
+      "objectID": "e6e6e67a8dc501d47567109e0fddd258",
+      "ref": "maiden-castle-dorset-walking-route"
+    },
+    {
+      "description": "Wessex Ridgeway",
+      "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
+      "ref": "wessex-ridgeway-walking-route"
+    },
+    {
+      "description": "Macmillan Way",
+      "objectID": "cf3f4a199da30cc9ae551d49d13ec8f4",
+      "ref": "macmillan-way-walking-route"
+    },
+    {
+      "description": "Dorchester",
+      "objectID": "56fae3f1ae6605f53ac8b3639e378ba7",
+      "ref": "dorchester-walking-route"
+    },
+    {
+      "description": "Sydling St Nicholas",
+      "objectID": "12e058de2e0770bf7e265790d587877c",
+      "ref": "sydling-st-nicholas-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/8877691A5D609E2C862587E900504295/$FILE/Maiden Newton.gpx",
+  "_geoloc": {
+    "lat": 50.7801971609,
+    "lng": -2.5699247479
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Allotments_Alongside_Maiden_Newton_Station_-_geograph.org.uk_-_3145978.jpg",
+      "title": "Allotments Alongside Maiden Newton Station by Roy Hughes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Allotments and countryside view from Maiden Newton Railway Station where the route starts."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/The_Wessex_Ridgeway%2C_Maiden_Newton_-_geograph.org.uk_-_908391.jpg",
+      "title": "Andrew Smith / The Wessex Ridgeway, Maiden Newton",
+      "caption": "The Wessex Ridgeway, Maiden Newton. Descending into the Frome valley between a fields of wheat and mown hay. Combe Bottom falls steeply away to the right of the track which is only a public footpath at this point."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/View_Across_Coombe_Bottom_-_geograph.org.uk_-_903970.jpg",
+      "title": "Nigel Mykura / View Across Coombe Bottom",
+      "caption": "View Across Coombe Bottom. View SE from the road out of Maiden Newton to the Folly hHill crossroads on the A37. The hill in the distance is Fore Hill and the Wessex Ridgeway runs along the top of the wooded area."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hog_Cliff_National_Nature_Reserve_-_geograph.org.uk_-_908403.jpg",
+      "title": "Andrew Smith / Hog Cliff National Nature Reserve",
+      "caption": "Hog Cliff National Nature Reserve. The bridleway descending into Hog Cliff Bottom from the A37. Earthworks show up on the opposite hillside."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Langcombe_Bottom%2C_Maiden_Newton_-_geograph.org.uk_-_908395.jpg",
+      "title": "Andrew Smith / Langcombe Bottom, Maiden Newton",
+      "caption": "Langcombe Bottom, Maiden Newton. Arable fields occupy flatter land above and below the combe's steep escarpment."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Breakheart_Hill_-_geograph.org.uk_-_896009.jpg",
+      "title": "Nigel Mykura / Breakheart Hill",
+      "caption": "Breakheart Hill. View SW towards Fore Hill in the distance."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Hog_Cliff_National_Nature_Reserve_-_geograph.org.uk_-_908400.jpg",
+      "title": "Andrew Smith / Hog Cliff National Nature Reserve",
+      "caption": "Looking into Plain Bottom, the northern continuation of Hog Cliff Bottom."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/River_Frome_near_Lower_Frome_Vauchurch_-_geograph.org.uk_-_2954997.jpg/512px-River_Frome_near_Lower_Frome_Vauchurch_-_geograph.org.uk_-_2954997.jpg",
+      "title": "River Frome near Lower Frome Vauchurch by Keith Salvesen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Frome near Lower Frome Vauchurch"
+    }
+  ],
+  "distance_km": 9.0,
+  "description": "This Dorset based village sits in a rural spot on the River Frome near to the county town of Dorchester . Two major long distance walking trails pass through the village and there's also a National Nature Reserve a short walk away. This circular walk from the village visits the Hog Cliff Bottom Nature Reserve before a stroll along the River Frome. The walk starts at the railway station where you can pick up the Wessex Ridgeway long distance footpath. Follow the trail north east before heading east along public bridleways to Ford Hill and Hog Cliff Bottom. You can follow a circular bridle path around the attractive site where there are some lovely country views and lots of wildlife to see. After exploring the reserve the route then heads to Langcombe Bottom where you cross the railway line and the river at Little Cruxton. The route then picks up a section of the Macmillan Way and follows it north to the river and the village.",
+  "district": "Maiden Newton",
+  "county": "Dorset",
+  "region": "South West",
+  "country": "England"
 }

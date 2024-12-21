@@ -1,98 +1,98 @@
 {
-    "objectID": "28f1203d8e9b9b5a030af6e47ee47733",
-    "created_at": "2024-12-18T21:21:22.625291+00:00",
-    "ref": "chiddingstone-walking-route",
-    "title": "Chiddingstone Walks - Circular to Hever Castle Walking Route",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg/512px-Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg",
-    "nearby": [
-        {
-            "description": "Hever Castle",
-            "objectID": "dee0dab1926c4b1aa5a2268ae7a87ba5",
-            "ref": "hever-castle-walking-route"
-        },
-        {
-            "description": "Bough Beech Reservoir",
-            "objectID": "a4736afd3fa4df1b33f9031a71c629dc",
-            "ref": "bough-beech-reservoir-walking-route"
-        },
-        {
-            "description": "Eden Valley Walk",
-            "objectID": "d0484fb5b6a9140452e29b8d92a8be5b",
-            "ref": "eden-valley-walk-walking-route"
-        },
-        {
-            "description": "Penshurst Place",
-            "objectID": "703754d3c0f88f4788abc72963e053d9",
-            "ref": "penshurst-place-walking-route"
-        },
-        {
-            "description": "Haysden Country Park",
-            "objectID": "4bfa15c0a7f516bc9ca1efefc7d47a73",
-            "ref": "haysden-country-park-walking-route"
-        },
-        {
-            "description": "Tonbridge",
-            "objectID": "845b2d21023c0e96b027ae1a9f03ede7",
-            "ref": "tonbridge-walking-route"
-        },
-        {
-            "description": "Edenbridge",
-            "objectID": "088109d39ee0854867ed1a206f573066",
-            "ref": "edenbridge-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/702206242EB46A4B862587C6005596DE/$FILE/Chiddingstone.gpx",
-    "_geoloc": {
-        "lat": 51.1856866552,
-        "lng": 0.1476033964
+  "objectID": "28f1203d8e9b9b5a030af6e47ee47733",
+  "created_at": "2024-12-18T21:21:22.625291+00:00",
+  "ref": "chiddingstone-walking-route",
+  "title": "Chiddingstone Walks - Circular to Hever Castle Walking Route",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg/512px-Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg",
+  "nearby": [
+    {
+      "description": "Hever Castle",
+      "objectID": "dee0dab1926c4b1aa5a2268ae7a87ba5",
+      "ref": "hever-castle-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg/512px-Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg",
-            "title": "Chiddingstone Village by Roger Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Village view"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chiddingstone_Pond_-_geograph.org.uk_-_2896641.jpg",
-            "title": "Chiddingstone Pond by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Chiddingstone Pond"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chiddingstone_Bridge_-_geograph.org.uk_-_2903136.jpg",
-            "title": "Chiddingstone Bridge by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Chiddingstone Bridge"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Chiddingstone_Castle_-_geograph.org.uk_-_2896623.jpg",
-            "title": "Chiddingstone Castle by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Chiddingstone Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Chiding_Stone%2C_Chiddingstone_-_geograph.org.uk_-_1262450.jpg",
-            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Chiding Stone, Chiddingstone"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hever_Castle_-_geograph.org.uk_-_2216461.jpg/512px-Hever_Castle_-_geograph.org.uk_-_2216461.jpg",
-            "title": "Hever Castle by Gordon  BEACH, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Hever Castle"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bough_Beech_reservoir_-_geograph.org.uk_-_2489116.jpg",
-            "title": "Bough Beech reservoir by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Bough Beech reservoir"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/River_Eden_-_geograph.org.uk_-_1259127.jpg",
-            "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "River Eden north of the village"
-        }
-    ],
-    "distance_km": 11.0,
-    "description": "This delightful Kent village includes many picturesque features including a village pond, Chiddingstone Castle and several historic timber framed properties dating back to the Tudor period. The classic English village is actually preserved by the National Trust who bought the entire settlement in 1939. This circular walk from the village visits two of the highlights of the area at Hever Castle and Bough Beech Reservoir . The varied walk includes some peaceful woodland trails, fine country scenery and views of the River Eden which flows just north of the village. The walk starts in the village and heads south to Hill Hoath where you can pick up the Eden Valley Walk . Follow the waymarked trail west through park wood and you will come to Hever. Turn north here and you will soon come to the entrance of the famous castle where you can explore the expansive grounds. The route continues north to How Green where you turn east to pass along Hever Golf Course. At Bough Beech village you can follow paths north east to visit Bough Beech Reservoir where there are some pleasant waterside walking trails to try. You retrace your steps to Bough Beech Village and then head east to Chested Farm before turning south to return to Chiddingstone. Here you can enjoy post exercise rest and relaxation at the local 15th century pub. There's also the option of heading to the 15th century Chiddingstone Castle where you enjoy walks around the lovely grounds. These include enchanting woodland walks, a fishing lake and spectacular views across the Kent countryside. They have also devised some longer walks through the area which you can see on this link .",
-    "video_url": "https://www.youtube.com/embed/ghia1lK_3iw",
-    "district": "Chiddingstone",
-    "county": "Kent",
-    "region": "South East",
-    "country": "England"
+    {
+      "description": "Bough Beech Reservoir",
+      "objectID": "a4736afd3fa4df1b33f9031a71c629dc",
+      "ref": "bough-beech-reservoir-walking-route"
+    },
+    {
+      "description": "Eden Valley Walk",
+      "objectID": "d0484fb5b6a9140452e29b8d92a8be5b",
+      "ref": "eden-valley-walk-walking-route"
+    },
+    {
+      "description": "Penshurst Place",
+      "objectID": "703754d3c0f88f4788abc72963e053d9",
+      "ref": "penshurst-place-walking-route"
+    },
+    {
+      "description": "Haysden Country Park",
+      "objectID": "4bfa15c0a7f516bc9ca1efefc7d47a73",
+      "ref": "haysden-country-park-walking-route"
+    },
+    {
+      "description": "Tonbridge",
+      "objectID": "845b2d21023c0e96b027ae1a9f03ede7",
+      "ref": "tonbridge-walking-route"
+    },
+    {
+      "description": "Edenbridge",
+      "objectID": "088109d39ee0854867ed1a206f573066",
+      "ref": "edenbridge-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/702206242EB46A4B862587C6005596DE/$FILE/Chiddingstone.gpx",
+  "_geoloc": {
+    "lat": 51.1856866552,
+    "lng": 0.1476033964
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg/512px-Chiddingstone_Village_-_geograph.org.uk_-_2206412.jpg",
+      "title": "Chiddingstone Village by Roger Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Village view"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Chiddingstone_Pond_-_geograph.org.uk_-_2896641.jpg",
+      "title": "Chiddingstone Pond by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Chiddingstone Pond"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Chiddingstone_Bridge_-_geograph.org.uk_-_2903136.jpg",
+      "title": "Chiddingstone Bridge by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Chiddingstone Bridge"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Chiddingstone_Castle_-_geograph.org.uk_-_2896623.jpg",
+      "title": "Chiddingstone Castle by Oast House Archive, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Chiddingstone Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/The_Chiding_Stone%2C_Chiddingstone_-_geograph.org.uk_-_1262450.jpg",
+      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Chiding Stone, Chiddingstone"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hever_Castle_-_geograph.org.uk_-_2216461.jpg/512px-Hever_Castle_-_geograph.org.uk_-_2216461.jpg",
+      "title": "Hever Castle by Gordon  BEACH, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Hever Castle"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Bough_Beech_reservoir_-_geograph.org.uk_-_2489116.jpg",
+      "title": "Bough Beech reservoir by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Bough Beech reservoir"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/River_Eden_-_geograph.org.uk_-_1259127.jpg",
+      "title": "Nigel Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "River Eden north of the village"
+    }
+  ],
+  "distance_km": 11.0,
+  "description": "This delightful Kent village includes many picturesque features including a village pond, Chiddingstone Castle and several historic timber framed properties dating back to the Tudor period. The classic English village is actually preserved by the National Trust who bought the entire settlement in 1939. This circular walk from the village visits two of the highlights of the area at Hever Castle and Bough Beech Reservoir . The varied walk includes some peaceful woodland trails, fine country scenery and views of the River Eden which flows just north of the village. The walk starts in the village and heads south to Hill Hoath where you can pick up the Eden Valley Walk . Follow the waymarked trail west through park wood and you will come to Hever. Turn north here and you will soon come to the entrance of the famous castle where you can explore the expansive grounds. The route continues north to How Green where you turn east to pass along Hever Golf Course. At Bough Beech village you can follow paths north east to visit Bough Beech Reservoir where there are some pleasant waterside walking trails to try. You retrace your steps to Bough Beech Village and then head east to Chested Farm before turning south to return to Chiddingstone. Here you can enjoy post exercise rest and relaxation at the local 15th century pub. There's also the option of heading to the 15th century Chiddingstone Castle where you enjoy walks around the lovely grounds. These include enchanting woodland walks, a fishing lake and spectacular views across the Kent countryside. They have also devised some longer walks through the area which you can see on this link .",
+  "video_url": "https://www.youtube.com/embed/ghia1lK_3iw",
+  "district": "Chiddingstone",
+  "county": "Kent",
+  "region": "South East",
+  "country": "England"
 }

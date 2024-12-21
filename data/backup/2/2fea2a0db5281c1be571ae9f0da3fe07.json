@@ -1,118 +1,118 @@
 {
-    "objectID": "2fea2a0db5281c1be571ae9f0da3fe07",
-    "created_at": "2024-12-20T03:55:01.033560+00:00",
-    "ref": "chislehurst-walking-route",
-    "title": "Chislehurst Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/War_Memorial_-_geograph.org.uk_-_1530880.jpg",
-    "nearby": [
-        {
-            "description": "Petts Wood Circular",
-            "objectID": "6430be3eaeeeda93eb268b5a2bd4a4a4",
-            "ref": "petts-wood-circular-walking-route"
-        },
-        {
-            "description": "Scadbury Park",
-            "objectID": "d0d21ca075cc6929904e63b6250dc35a",
-            "ref": "scadbury-park-walking-route"
-        },
-        {
-            "description": "Elmstead Woods",
-            "objectID": "b4768b52e4dc3574baefd639fac88bf4",
-            "ref": "elmstead-woods-walking-route"
-        },
-        {
-            "description": "Bromley",
-            "objectID": "0669dadab4b3865af458053ec5a9e392",
-            "ref": "bromley-walking-route"
-        },
-        {
-            "description": "Eltham",
-            "objectID": "6b5af1f810646a543f2bb0bff4c78f5d",
-            "ref": "eltham-walking-route"
-        },
-        {
-            "description": "London Loop",
-            "objectID": "2b405d14b22f13eb43479ae8a57645c7",
-            "ref": "london-loop-walking-route"
-        },
-        {
-            "description": "Orpington",
-            "objectID": "2aaf240eae7b27555f6c498e0112c6b5",
-            "ref": "orpington-walking-route"
-        },
-        {
-            "description": "High Elms Country Park",
-            "objectID": "b5992b581143298cc03c11f531d72186",
-            "ref": "high-elms-country-park-walking-and-cycle-route"
-        },
-        {
-            "description": "Keston Common",
-            "objectID": "1dea12b5e9df69967dc90601adb7cbe0",
-            "ref": "keston-common-walking-route"
-        },
-        {
-            "description": "Hayes Common",
-            "objectID": "569ed3abd77beb78a0b69aa433e2b599",
-            "ref": "hayes-common-walking-route"
-        },
-        {
-            "description": "Cray Riverway",
-            "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
-            "ref": "cray-riverway-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/E51D019D8E564FDE8625857500562FCE/$FILE/Chislehurst.gpx",
-    "_geoloc": {
-        "lat": 51.4153968534,
-        "lng": 0.0700785337
+  "objectID": "2fea2a0db5281c1be571ae9f0da3fe07",
+  "created_at": "2024-12-20T03:55:01.033560+00:00",
+  "ref": "chislehurst-walking-route",
+  "title": "Chislehurst Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/36/War_Memorial_-_geograph.org.uk_-_1530880.jpg",
+  "nearby": [
+    {
+      "description": "Petts Wood Circular",
+      "objectID": "6430be3eaeeeda93eb268b5a2bd4a4a4",
+      "ref": "petts-wood-circular-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/War_Memorial_-_geograph.org.uk_-_1530880.jpg",
-            "title": "Ian Capper / War Memorial",
-            "caption": "War Memorial At the crossroads of Bromley Road, Centre Common Road, Bromley Lane and Royal Parade, on Chislehurst Common. Made of Portland Stone, it was dedicated in 1920."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chislehurst_Common_-_geograph.org.uk_-_1716063.jpg",
-            "title": "Ian Capper / Chislehurst Common",
-            "caption": "Chislehurst Common. A path across Chislehurst Common, with Church Row on the left."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/William_Willett_memorial%2C_Petts_Wood%2C_Chislehurst%2C_Kent_-_geograph.org.uk_-_54683.jpg",
-            "title": "Dr Neil Clifton / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-            "caption": "The William Willett memorial, Petts Wood, Chislehurst, Kent. Willett was one of the prime movers behind the Summer Time act of 1925. The memorial takes the form of a sundial which, naturally, shows Summer Time.. The stone is Shap granite. The motto is horas non numero nisi aestivas - I only count the Summer hours."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Footpath%2C_Pett_Wood_-_geograph.org.uk_-_423714.jpg/256px-Footpath%2C_Pett_Wood_-_geograph.org.uk_-_423714.jpg",
-            "title": "Simon Carey / Footpath, Pett Wood",
-            "caption": "Footpath, Pett Wood. Following the course as it dips down to cross a small stream before rising again. Bluebells are also visible in this spring shot."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kyd_Brook_-_geograph.org.uk_-_1098705.jpg/256px-Kyd_Brook_-_geograph.org.uk_-_1098705.jpg",
-            "title": "Ian Capper / Kyd Brook",
-            "caption": "Kyd Brook 1. For a short stretch in Petts Wood, the Kyd Brook emerges from its culvert. These are the bridge parapet on Willett Way."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kyd_Brook_-_geograph.org.uk_-_666773.jpg",
-            "title": "Ian Capper / Kyd Brook",
-            "caption": "Kyd Brook 2. This stream would seem more at home in the New Forest rather than the London Borough of Bromley! North of here it disappears from the map, presumably by running through a culvert as it passes through Petts Wood."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Scadbury_Park_Nature_Reserve%2C_Chislehurst_-_geograph.org.uk_-_1053625.jpg",
-            "title": "David Kemp / Scadbury Park Nature Reserve, Chislehurst",
-            "caption": "Scadbury Park Nature Reserve, Chislehurst. Scadbury Park was acquired by the London Borough of Bromley in 1983 and became a nature reserve in 1985. Though surrounded by suburbia, its extensive woods and grazing land give it a very rural character."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Scadbury_Park%2C_Sidcup%2C_Kent_-_geograph.org.uk_-_54682.jpg",
-            "title": "Dr Neil Clifton / Scadbury Park, Sidcup, Kent",
-            "caption": "Scadbury Park, Sidcup, Kent. The water is part of the moat belonging to the manor house which once stood on this site."
-        }
-    ],
-    "distance_km": 8.5,
-    "description": "This circular walk around Chislehurst takes you to some of the highlights of the area. You'll visit Chislehurst Common, the National Trust's Petts Wood and the pretty Scadbury Park . The route uses various public footpaths and a section of the waymarked 7 London Loop to explore the area. The route starts on Chislehurst Common where there are some nice woodland trails to follow across the public open space. Follow the paths south across the common and they will take you past Hawkwood House and over the Kyd Wood to Petts Wood. Here you pick up the London Loop to follow it east through the woods though you could take a small detour south to visit Jubilee Country Park. The woods are good for wildlife spotting with a variety of woodland birds to look out for. The peaceful estate is run by the National Trust and covers 338 acres. After passing through the woods you follow the London Loop north and then east to visit Scadbury Park. The park is also a nature reserve which includes 300 acres of ancient woodland, grassland and ponds. There's also the ruins of the historic Scadbury Manor where playwright Christopher Marlowe stayed in the late 16th century. From the park footpaths then head west past Icehouse Wood before heading through the town to return to the war memorial on the common.",
-    "video_url": "https://www.youtube.com/embed/8I0HOke9JZE",
-    "district": "Chislehurst",
-    "county": "Greater London",
-    "region": "London",
-    "country": "England"
+    {
+      "description": "Scadbury Park",
+      "objectID": "d0d21ca075cc6929904e63b6250dc35a",
+      "ref": "scadbury-park-walking-route"
+    },
+    {
+      "description": "Elmstead Woods",
+      "objectID": "b4768b52e4dc3574baefd639fac88bf4",
+      "ref": "elmstead-woods-walking-route"
+    },
+    {
+      "description": "Bromley",
+      "objectID": "0669dadab4b3865af458053ec5a9e392",
+      "ref": "bromley-walking-route"
+    },
+    {
+      "description": "Eltham",
+      "objectID": "6b5af1f810646a543f2bb0bff4c78f5d",
+      "ref": "eltham-walking-route"
+    },
+    {
+      "description": "London Loop",
+      "objectID": "2b405d14b22f13eb43479ae8a57645c7",
+      "ref": "london-loop-walking-route"
+    },
+    {
+      "description": "Orpington",
+      "objectID": "2aaf240eae7b27555f6c498e0112c6b5",
+      "ref": "orpington-walking-route"
+    },
+    {
+      "description": "High Elms Country Park",
+      "objectID": "b5992b581143298cc03c11f531d72186",
+      "ref": "high-elms-country-park-walking-and-cycle-route"
+    },
+    {
+      "description": "Keston Common",
+      "objectID": "1dea12b5e9df69967dc90601adb7cbe0",
+      "ref": "keston-common-walking-route"
+    },
+    {
+      "description": "Hayes Common",
+      "objectID": "569ed3abd77beb78a0b69aa433e2b599",
+      "ref": "hayes-common-walking-route"
+    },
+    {
+      "description": "Cray Riverway",
+      "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
+      "ref": "cray-riverway-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/E51D019D8E564FDE8625857500562FCE/$FILE/Chislehurst.gpx",
+  "_geoloc": {
+    "lat": 51.4153968534,
+    "lng": 0.0700785337
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/War_Memorial_-_geograph.org.uk_-_1530880.jpg",
+      "title": "Ian Capper / War Memorial",
+      "caption": "War Memorial At the crossroads of Bromley Road, Centre Common Road, Bromley Lane and Royal Parade, on Chislehurst Common. Made of Portland Stone, it was dedicated in 1920."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Chislehurst_Common_-_geograph.org.uk_-_1716063.jpg",
+      "title": "Ian Capper / Chislehurst Common",
+      "caption": "Chislehurst Common. A path across Chislehurst Common, with Church Row on the left."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/William_Willett_memorial%2C_Petts_Wood%2C_Chislehurst%2C_Kent_-_geograph.org.uk_-_54683.jpg",
+      "title": "Dr Neil Clifton / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+      "caption": "The William Willett memorial, Petts Wood, Chislehurst, Kent. Willett was one of the prime movers behind the Summer Time act of 1925. The memorial takes the form of a sundial which, naturally, shows Summer Time.. The stone is Shap granite. The motto is horas non numero nisi aestivas - I only count the Summer hours."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Footpath%2C_Pett_Wood_-_geograph.org.uk_-_423714.jpg/256px-Footpath%2C_Pett_Wood_-_geograph.org.uk_-_423714.jpg",
+      "title": "Simon Carey / Footpath, Pett Wood",
+      "caption": "Footpath, Pett Wood. Following the course as it dips down to cross a small stream before rising again. Bluebells are also visible in this spring shot."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Kyd_Brook_-_geograph.org.uk_-_1098705.jpg/256px-Kyd_Brook_-_geograph.org.uk_-_1098705.jpg",
+      "title": "Ian Capper / Kyd Brook",
+      "caption": "Kyd Brook 1. For a short stretch in Petts Wood, the Kyd Brook emerges from its culvert. These are the bridge parapet on Willett Way."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Kyd_Brook_-_geograph.org.uk_-_666773.jpg",
+      "title": "Ian Capper / Kyd Brook",
+      "caption": "Kyd Brook 2. This stream would seem more at home in the New Forest rather than the London Borough of Bromley! North of here it disappears from the map, presumably by running through a culvert as it passes through Petts Wood."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Scadbury_Park_Nature_Reserve%2C_Chislehurst_-_geograph.org.uk_-_1053625.jpg",
+      "title": "David Kemp / Scadbury Park Nature Reserve, Chislehurst",
+      "caption": "Scadbury Park Nature Reserve, Chislehurst. Scadbury Park was acquired by the London Borough of Bromley in 1983 and became a nature reserve in 1985. Though surrounded by suburbia, its extensive woods and grazing land give it a very rural character."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Scadbury_Park%2C_Sidcup%2C_Kent_-_geograph.org.uk_-_54682.jpg",
+      "title": "Dr Neil Clifton / Scadbury Park, Sidcup, Kent",
+      "caption": "Scadbury Park, Sidcup, Kent. The water is part of the moat belonging to the manor house which once stood on this site."
+    }
+  ],
+  "distance_km": 8.5,
+  "description": "This circular walk around Chislehurst takes you to some of the highlights of the area. You'll visit Chislehurst Common, the National Trust's Petts Wood and the pretty Scadbury Park . The route uses various public footpaths and a section of the waymarked 7 London Loop to explore the area. The route starts on Chislehurst Common where there are some nice woodland trails to follow across the public open space. Follow the paths south across the common and they will take you past Hawkwood House and over the Kyd Wood to Petts Wood. Here you pick up the London Loop to follow it east through the woods though you could take a small detour south to visit Jubilee Country Park. The woods are good for wildlife spotting with a variety of woodland birds to look out for. The peaceful estate is run by the National Trust and covers 338 acres. After passing through the woods you follow the London Loop north and then east to visit Scadbury Park. The park is also a nature reserve which includes 300 acres of ancient woodland, grassland and ponds. There's also the ruins of the historic Scadbury Manor where playwright Christopher Marlowe stayed in the late 16th century. From the park footpaths then head west past Icehouse Wood before heading through the town to return to the war memorial on the common.",
+  "video_url": "https://www.youtube.com/embed/8I0HOke9JZE",
+  "district": "Chislehurst",
+  "county": "Greater London",
+  "region": "London",
+  "country": "England"
 }

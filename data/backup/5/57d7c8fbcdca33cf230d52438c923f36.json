@@ -1,108 +1,108 @@
 {
-    "objectID": "57d7c8fbcdca33cf230d52438c923f36",
-    "created_at": "2024-12-19T11:02:02.784948+00:00",
-    "ref": "river-dart-country-park-walking-route",
-    "title": "River Dart Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydro_power_on_the_Dart_-_geograph.org.uk_-_1558744.jpg",
-    "nearby": [
-        {
-            "description": "Hembury Woods",
-            "objectID": "d1aea0855f6d20466086c5eedbf41d46",
-            "ref": "hembury-woods-walking-route"
-        },
-        {
-            "description": "Dartmoor Way",
-            "objectID": "517935ba149ba09e2129f15985e29886",
-            "ref": "dartmoor-way-walking-route"
-        },
-        {
-            "description": "Venford Reservoir",
-            "objectID": "97f252c582b409010f6daf70209d4b57",
-            "ref": "venford-reservoir-walking-route"
-        },
-        {
-            "description": "Buckfastleigh and Buckfast Abbey",
-            "objectID": "66e6d774af73641b114af54a746796fa",
-            "ref": "buckfastleigh-and-buckfast-abbey-walking-route"
-        },
-        {
-            "description": "Totnes River Walk",
-            "objectID": "aef271cd17d3396197255c8e2b5e90f5",
-            "ref": "totnes-river-walk-walking-route"
-        },
-        {
-            "description": "Dart Valley Trail",
-            "objectID": "3cd6658b220f3ff92f2c39acf0bb436f",
-            "ref": "dart-valley-trail-walking-route"
-        },
-        {
-            "description": "Ridge and Valley Walk",
-            "objectID": "6829c01437699302b77dbe31be6a83df",
-            "ref": "ridge-and-valley-walk-walking-route"
-        },
-        {
-            "description": "Slapton Ley",
-            "objectID": "28824a83a65521fc3d0debc552889a76",
-            "ref": "slapton-ley-walking-and-cycle-route"
-        },
-        {
-            "description": "Berry Pomeroy Castle",
-            "objectID": "fcc61aaef41758bba8e8b11ecbab4b22",
-            "ref": "berry-pomeroy-castle-walking-route"
-        },
-        {
-            "description": "John Musgrave Heritage Trail",
-            "objectID": "315c508a5a2e96b2374de6c0afd38855",
-            "ref": "john-musgrave-heritage-trail-walking-route"
-        },
-        {
-            "description": "Holne Woods",
-            "objectID": "6248f449c385be6909767cc0dbf06b6a",
-            "ref": "holne-woods-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/A8A5A7AD89C6B53086257C3D0058245D/$FILE/River Dart Country Park.gpx",
-    "_geoloc": {
-        "lat": 50.5210757353,
-        "lng": -3.792319653
+  "objectID": "57d7c8fbcdca33cf230d52438c923f36",
+  "created_at": "2024-12-19T11:02:02.784948+00:00",
+  "ref": "river-dart-country-park-walking-route",
+  "title": "River Dart Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydro_power_on_the_Dart_-_geograph.org.uk_-_1558744.jpg",
+  "nearby": [
+    {
+      "description": "Hembury Woods",
+      "objectID": "d1aea0855f6d20466086c5eedbf41d46",
+      "ref": "hembury-woods-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydro_power_on_the_Dart_-_geograph.org.uk_-_1558744.jpg",
-            "title": "Barry Deakin / Hydro power on the Dart",
-            "caption": "Hydro power on the Dart. A screw turbine hydro electric power station at the River Dart Country Park. The turbine makes use of the existing leat which supplies water taken from the river at Holne Weir, a few hundred metres upstream."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lover%27s_Leap_rapid_-_geograph.org.uk_-_1558833.jpg",
-            "title": "Barry Deakin / Lover's Leap rapid",
-            "caption": "Lover's Leap rapid Large boulders create an interesting rapid for canoeists and kayakers on this very popular section of the river Dart between Newbridge and the River Dart Country Park known to paddlers as \"The Loop\"."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sequoias_at_Holne_Park_-_geograph.org.uk_-_128210.jpg",
-            "title": "Derek Harper / Sequoias at Holne Park",
-            "caption": "Sequoias at Holne Park. This row of redwoods greets you on the entrance drive to the River Dart Country Park which now occupies the grounds of the Holne Park estate, planted in the C19 by Richard Dawson."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/North_Park_Wood_in_the_Dart_valley_-_geograph.org.uk_-_2597831.jpg",
-            "title": "North Park Wood in the Dart valley by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "North Park Wood in the Dart valley"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Trees_by_the_Dart_-_geograph.org.uk_-_3222173.jpg/256px-Trees_by_the_Dart_-_geograph.org.uk_-_3222173.jpg",
-            "title": "Trees by the Dart by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Autumn trees by the Dart, south of the park"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunshine_over_the_River_Dart_-_geograph.org.uk_-_5108319.jpg/512px-Sunshine_over_the_River_Dart_-_geograph.org.uk_-_5108319.jpg",
-            "title": "Sunshine over the River Dart by don cload, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Sunshine over the River Dart"
-        }
-    ],
-    "distance_km": 5.5,
-    "description": "The River Dart Country Park is set in 90 acres, with lakes, parkland, woodland trails and a lovely waterside path along the River Dart. Other attractions in the park include the impressive Holne Park House with delightful grounds and the River Dart Adventures play area where children can clamber over space nets and swing through trees on jungle ropes! There is also an excellent cafe and restaurant for refreshments. See the link below for further information on the park and prices for entry. This free route takes you along the public footpath to the north of the park, starting at Holne Bridge. The park is located in the Dartmoor National Park, just north of Buckfastleigh and the adjacent Hembury Woods . Here you can enjoy some nice shady woodland trails and a climb to Hembury Castle Iron Age Hillfort. Just to the south is Buckfast Abbey where there's a series of well laid paths through the lovely gardens surrounding the abbey. The Dartmoor Way long distance trail also passes just to the west of the abbey. You can pick up the waymarked path in Buckfastleigh to explore the Dartmoor National Park. Following it west will take you to the pretty Venford Reservoir which has a nice trail around the water.",
-    "video_url": "https://www.youtube.com/embed/WqVdrmUjjww",
-    "postcode": "TQ13 7NP",
-    "county": "Devon",
-    "region": "South West",
-    "country": "England"
+    {
+      "description": "Dartmoor Way",
+      "objectID": "517935ba149ba09e2129f15985e29886",
+      "ref": "dartmoor-way-walking-route"
+    },
+    {
+      "description": "Venford Reservoir",
+      "objectID": "97f252c582b409010f6daf70209d4b57",
+      "ref": "venford-reservoir-walking-route"
+    },
+    {
+      "description": "Buckfastleigh and Buckfast Abbey",
+      "objectID": "66e6d774af73641b114af54a746796fa",
+      "ref": "buckfastleigh-and-buckfast-abbey-walking-route"
+    },
+    {
+      "description": "Totnes River Walk",
+      "objectID": "aef271cd17d3396197255c8e2b5e90f5",
+      "ref": "totnes-river-walk-walking-route"
+    },
+    {
+      "description": "Dart Valley Trail",
+      "objectID": "3cd6658b220f3ff92f2c39acf0bb436f",
+      "ref": "dart-valley-trail-walking-route"
+    },
+    {
+      "description": "Ridge and Valley Walk",
+      "objectID": "6829c01437699302b77dbe31be6a83df",
+      "ref": "ridge-and-valley-walk-walking-route"
+    },
+    {
+      "description": "Slapton Ley",
+      "objectID": "28824a83a65521fc3d0debc552889a76",
+      "ref": "slapton-ley-walking-and-cycle-route"
+    },
+    {
+      "description": "Berry Pomeroy Castle",
+      "objectID": "fcc61aaef41758bba8e8b11ecbab4b22",
+      "ref": "berry-pomeroy-castle-walking-route"
+    },
+    {
+      "description": "John Musgrave Heritage Trail",
+      "objectID": "315c508a5a2e96b2374de6c0afd38855",
+      "ref": "john-musgrave-heritage-trail-walking-route"
+    },
+    {
+      "description": "Holne Woods",
+      "objectID": "6248f449c385be6909767cc0dbf06b6a",
+      "ref": "holne-woods-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/A8A5A7AD89C6B53086257C3D0058245D/$FILE/River Dart Country Park.gpx",
+  "_geoloc": {
+    "lat": 50.5210757353,
+    "lng": -3.792319653
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Hydro_power_on_the_Dart_-_geograph.org.uk_-_1558744.jpg",
+      "title": "Barry Deakin / Hydro power on the Dart",
+      "caption": "Hydro power on the Dart. A screw turbine hydro electric power station at the River Dart Country Park. The turbine makes use of the existing leat which supplies water taken from the river at Holne Weir, a few hundred metres upstream."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Lover%27s_Leap_rapid_-_geograph.org.uk_-_1558833.jpg",
+      "title": "Barry Deakin / Lover's Leap rapid",
+      "caption": "Lover's Leap rapid Large boulders create an interesting rapid for canoeists and kayakers on this very popular section of the river Dart between Newbridge and the River Dart Country Park known to paddlers as \"The Loop\"."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Sequoias_at_Holne_Park_-_geograph.org.uk_-_128210.jpg",
+      "title": "Derek Harper / Sequoias at Holne Park",
+      "caption": "Sequoias at Holne Park. This row of redwoods greets you on the entrance drive to the River Dart Country Park which now occupies the grounds of the Holne Park estate, planted in the C19 by Richard Dawson."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/North_Park_Wood_in_the_Dart_valley_-_geograph.org.uk_-_2597831.jpg",
+      "title": "North Park Wood in the Dart valley by David Smith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "North Park Wood in the Dart valley"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Trees_by_the_Dart_-_geograph.org.uk_-_3222173.jpg/256px-Trees_by_the_Dart_-_geograph.org.uk_-_3222173.jpg",
+      "title": "Trees by the Dart by Derek Harper, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Autumn trees by the Dart, south of the park"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sunshine_over_the_River_Dart_-_geograph.org.uk_-_5108319.jpg/512px-Sunshine_over_the_River_Dart_-_geograph.org.uk_-_5108319.jpg",
+      "title": "Sunshine over the River Dart by don cload, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Sunshine over the River Dart"
+    }
+  ],
+  "distance_km": 5.5,
+  "description": "The River Dart Country Park is set in 90 acres, with lakes, parkland, woodland trails and a lovely waterside path along the River Dart. Other attractions in the park include the impressive Holne Park House with delightful grounds and the River Dart Adventures play area where children can clamber over space nets and swing through trees on jungle ropes! There is also an excellent cafe and restaurant for refreshments. See the link below for further information on the park and prices for entry. This free route takes you along the public footpath to the north of the park, starting at Holne Bridge. The park is located in the Dartmoor National Park, just north of Buckfastleigh and the adjacent Hembury Woods . Here you can enjoy some nice shady woodland trails and a climb to Hembury Castle Iron Age Hillfort. Just to the south is Buckfast Abbey where there's a series of well laid paths through the lovely gardens surrounding the abbey. The Dartmoor Way long distance trail also passes just to the west of the abbey. You can pick up the waymarked path in Buckfastleigh to explore the Dartmoor National Park. Following it west will take you to the pretty Venford Reservoir which has a nice trail around the water.",
+  "video_url": "https://www.youtube.com/embed/WqVdrmUjjww",
+  "postcode": "TQ13 7NP",
+  "county": "Devon",
+  "region": "South West",
+  "country": "England"
 }

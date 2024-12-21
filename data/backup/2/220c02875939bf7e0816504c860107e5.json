@@ -1,88 +1,88 @@
 {
-    "objectID": "220c02875939bf7e0816504c860107e5",
-    "created_at": "2024-12-18T11:27:22.489181+00:00",
-    "ref": "kirkby-lonsdale-walking-route",
-    "title": "Kirkby Lonsdale Walks",
-    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ruskin%27s_View_-_geograph.org.uk_-_799142.jpg",
-    "nearby": [
-        {
-            "description": "Lune Valley Ramble",
-            "objectID": "25c5d1d74f76b40478e940ad881928d9",
-            "ref": "lune-valley-ramble-walking-route"
-        },
-        {
-            "description": "Limestone Link - Cumbria",
-            "objectID": "f99b43897564868d28aedf06537bc686",
-            "ref": "limestone-link---cumbria-walking-route"
-        },
-        {
-            "description": "Hutton Roof Crags and Farleton Fell",
-            "objectID": "45c8071e530c3a3176f84d07f693dee8",
-            "ref": "hutton-roof-crags-and-farleton-fell-walking-route"
-        },
-        {
-            "description": "Barbon Beck Barbondale",
-            "objectID": "ea60fa0a0dc02a00ee88872f4f7ad122",
-            "ref": "barbon-beck-barbondale-walking-route"
-        },
-        {
-            "description": "Ingleton Falls",
-            "objectID": "f9aee19e2c9679512e43ad6c7631ecd6",
-            "ref": "ingleton-falls-walking-route"
-        }
-    ],
-    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3B7A12C971830BCE802581060058824B/$FILE/Kirkby Lonsdale.gpx",
-    "_geoloc": {
-        "lat": 54.2010689913,
-        "lng": -2.5967730027
+  "objectID": "220c02875939bf7e0816504c860107e5",
+  "created_at": "2024-12-18T11:27:22.489181+00:00",
+  "ref": "kirkby-lonsdale-walking-route",
+  "title": "Kirkby Lonsdale Walks",
+  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ruskin%27s_View_-_geograph.org.uk_-_799142.jpg",
+  "nearby": [
+    {
+      "description": "Lune Valley Ramble",
+      "objectID": "25c5d1d74f76b40478e940ad881928d9",
+      "ref": "lune-valley-ramble-walking-route"
     },
-    "images": [
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ruskin%27s_View_-_geograph.org.uk_-_799142.jpg",
-            "title": "Alexander P Kapp / Ruskin's View",
-            "caption": "Ruskin's View"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Lune_at_Devil%27s_Bridge%2C_Kirkby_Lonsdale_-_geograph.org.uk_-_2910467.jpg",
-            "title": "The Lune at Devil's Bridge, Kirkby Lonsdale by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "The Lune at Devil's Bridge, Kirkby Lonsdale. This notable structure once carried the Skipton to Kendal road over the River Lune. It dates from around 1370 and is built of fine gritstone ashlar. The bridge is thought to have been built by monks of St Mary's Abbey, York. It is a grade I listed structure and a Scheduled Ancient Monument."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kirkby_Lonsdale%2C_Market_Square_-_geograph.org.uk_-_2958072.jpg/512px-Kirkby_Lonsdale%2C_Market_Square_-_geograph.org.uk_-_2958072.jpg",
-            "title": "Kirkby Lonsdale, Market Square by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Market Square. Today Kirkby Lonsdale remains a busy town with a market. The centre has a mixture of elegant 18th-century buildings and stone cottages huddled round cobbled courtyards and narrow alleyways, with names such as Salt Pie Lane and Jingling Lane. There is also a Grade I listed church with Norman architecture."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Whittington_from_the_churchyard_%28geograph_4177594%29.jpg/512px-Whittington_from_the_churchyard_%28geograph_4177594%29.jpg",
-            "title": "Phil Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-            "caption": "Whittington from the churchyard. The Lancashire village has an interesting old church. It's notable as the birth place of William Sturgeon the pioneering inventor of the electro magnetic motor, who was born here in 1783."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/River_Lune_near_Kirkby_Lonsdale_-_geograph.org.uk_-_914195.jpg",
-            "title": "mauldy / River Lune near Kirkby Lonsdale",
-            "caption": "River Lune south of the village."
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Gate_Lodge%2C_Whittington_Hall_%28geograph_2061287%29.jpg",
-            "title": "Karl and Ali / Gate Lodge, Whittington Hall",
-            "caption": "Gate Lodge, Whittington Hall"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sellet_Hall_near_Kirkby_Lonsdale_%28geograph_2061332%29.jpg",
-            "title": "Karl and Ali / Sellet Hall near Kirkby Lonsdale",
-            "caption": "Sellet Hall near Kirkby Lonsdale"
-        },
-        {
-            "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Snooty_Fox%2C_Main_Street%2C_Kirkby_Lonsdale_-_geograph.org.uk_-_734170.jpg",
-            "title": "Alexander P Kapp / Snooty Fox, Main Street, Kirkby Lonsdale",
-            "caption": "Snooty Fox, Main Street"
-        }
-    ],
-    "distance_km": 8.5,
-    "description": "Enjoy a circular walk around this popular Cumbrian town. Kirkby Lonsdale sits on the western edge of the Yorkshire Dales National Park, within the beautiful Lune Valley. It's a delightful place and home to 'Ruskin's View'. He described the view of the River Lune from the churchyard as 'One of the loveliest views in England'. It was painted by J.M.W Turner in the early 19th century. The town is a great base for walkers looking to explore the Cumbrian section of the Yorkshire Dales. This walk starts in the town centre and head's to Devil's Bridge over the Lune. The wonderful 14th century bridge is a grade I listed structure and a Scheduled Ancient Monument.  It's a very picturesque spot with the ancient bridge giving lovely views of the river below. At the old bridge you pick up the Lune Valley Ramble long distance waymarked path to take you south along the river towards Nether Burrow. Here you turn north west to the Lancashire village of Whittington. The pretty village has an old church and quaint cottages. The final section of the walk takes you past Whittington Hall and Sellet Hall before returning to the town. There's lots of other nice walks to try in this attractive area. One of the real highlights are the wonderful Ingleton Falls . Located just 5 miles to the east of the town, the falls are one of the most popular walks in England. Just to the west of the town you can pick up the Limestone Link and climb to the wonderful limestone pavement at Hutton Roof Crags and Farleton Fell . The area has fascinating rock formations and wonderful views over the Lune Valley to the Yorkshire Dales hills and mountains. Also nearby is the beautiful Barbondale where you can enjoy another waterside walk along the pretty Barbon Beck. If you continue south along the River Lune you will come to Arkholme and Gressingham where the Lune meets the River Wenning.",
-    "video_url": "https://www.youtube.com/embed/QE18_LS1n-s",
-    "district": "Kirkby Lonsdale",
-    "county": "Westmorland and Furness",
-    "region": "North West",
-    "country": "England"
+    {
+      "description": "Limestone Link - Cumbria",
+      "objectID": "f99b43897564868d28aedf06537bc686",
+      "ref": "limestone-link---cumbria-walking-route"
+    },
+    {
+      "description": "Hutton Roof Crags and Farleton Fell",
+      "objectID": "45c8071e530c3a3176f84d07f693dee8",
+      "ref": "hutton-roof-crags-and-farleton-fell-walking-route"
+    },
+    {
+      "description": "Barbon Beck Barbondale",
+      "objectID": "ea60fa0a0dc02a00ee88872f4f7ad122",
+      "ref": "barbon-beck-barbondale-walking-route"
+    },
+    {
+      "description": "Ingleton Falls",
+      "objectID": "f9aee19e2c9679512e43ad6c7631ecd6",
+      "ref": "ingleton-falls-walking-route"
+    }
+  ],
+  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3B7A12C971830BCE802581060058824B/$FILE/Kirkby Lonsdale.gpx",
+  "_geoloc": {
+    "lat": 54.2010689913,
+    "lng": -2.5967730027
+  },
+  "images": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Ruskin%27s_View_-_geograph.org.uk_-_799142.jpg",
+      "title": "Alexander P Kapp / Ruskin's View",
+      "caption": "Ruskin's View"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Lune_at_Devil%27s_Bridge%2C_Kirkby_Lonsdale_-_geograph.org.uk_-_2910467.jpg",
+      "title": "The Lune at Devil's Bridge, Kirkby Lonsdale by Karl and Ali, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "The Lune at Devil's Bridge, Kirkby Lonsdale. This notable structure once carried the Skipton to Kendal road over the River Lune. It dates from around 1370 and is built of fine gritstone ashlar. The bridge is thought to have been built by monks of St Mary's Abbey, York. It is a grade I listed structure and a Scheduled Ancient Monument."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kirkby_Lonsdale%2C_Market_Square_-_geograph.org.uk_-_2958072.jpg/512px-Kirkby_Lonsdale%2C_Market_Square_-_geograph.org.uk_-_2958072.jpg",
+      "title": "Kirkby Lonsdale, Market Square by Mike Faherty, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Market Square. Today Kirkby Lonsdale remains a busy town with a market. The centre has a mixture of elegant 18th-century buildings and stone cottages huddled round cobbled courtyards and narrow alleyways, with names such as Salt Pie Lane and Jingling Lane. There is also a Grade I listed church with Norman architecture."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Whittington_from_the_churchyard_%28geograph_4177594%29.jpg/512px-Whittington_from_the_churchyard_%28geograph_4177594%29.jpg",
+      "title": "Phil Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Whittington from the churchyard. The Lancashire village has an interesting old church. It's notable as the birth place of William Sturgeon the pioneering inventor of the electro magnetic motor, who was born here in 1783."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/River_Lune_near_Kirkby_Lonsdale_-_geograph.org.uk_-_914195.jpg",
+      "title": "mauldy / River Lune near Kirkby Lonsdale",
+      "caption": "River Lune south of the village."
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Gate_Lodge%2C_Whittington_Hall_%28geograph_2061287%29.jpg",
+      "title": "Karl and Ali / Gate Lodge, Whittington Hall",
+      "caption": "Gate Lodge, Whittington Hall"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Sellet_Hall_near_Kirkby_Lonsdale_%28geograph_2061332%29.jpg",
+      "title": "Karl and Ali / Sellet Hall near Kirkby Lonsdale",
+      "caption": "Sellet Hall near Kirkby Lonsdale"
+    },
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Snooty_Fox%2C_Main_Street%2C_Kirkby_Lonsdale_-_geograph.org.uk_-_734170.jpg",
+      "title": "Alexander P Kapp / Snooty Fox, Main Street, Kirkby Lonsdale",
+      "caption": "Snooty Fox, Main Street"
+    }
+  ],
+  "distance_km": 8.5,
+  "description": "Enjoy a circular walk around this popular Cumbrian town. Kirkby Lonsdale sits on the western edge of the Yorkshire Dales National Park, within the beautiful Lune Valley. It's a delightful place and home to 'Ruskin's View'. He described the view of the River Lune from the churchyard as 'One of the loveliest views in England'. It was painted by J.M.W Turner in the early 19th century. The town is a great base for walkers looking to explore the Cumbrian section of the Yorkshire Dales. This walk starts in the town centre and head's to Devil's Bridge over the Lune. The wonderful 14th century bridge is a grade I listed structure and a Scheduled Ancient Monument.  It's a very picturesque spot with the ancient bridge giving lovely views of the river below. At the old bridge you pick up the Lune Valley Ramble long distance waymarked path to take you south along the river towards Nether Burrow. Here you turn north west to the Lancashire village of Whittington. The pretty village has an old church and quaint cottages. The final section of the walk takes you past Whittington Hall and Sellet Hall before returning to the town. There's lots of other nice walks to try in this attractive area. One of the real highlights are the wonderful Ingleton Falls . Located just 5 miles to the east of the town, the falls are one of the most popular walks in England. Just to the west of the town you can pick up the Limestone Link and climb to the wonderful limestone pavement at Hutton Roof Crags and Farleton Fell . The area has fascinating rock formations and wonderful views over the Lune Valley to the Yorkshire Dales hills and mountains. Also nearby is the beautiful Barbondale where you can enjoy another waterside walk along the pretty Barbon Beck. If you continue south along the River Lune you will come to Arkholme and Gressingham where the Lune meets the River Wenning.",
+  "video_url": "https://www.youtube.com/embed/QE18_LS1n-s",
+  "district": "Kirkby Lonsdale",
+  "county": "Westmorland and Furness",
+  "region": "North West",
+  "country": "England"
 }

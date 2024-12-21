@@ -85,7 +85,7 @@ def oversized(record: dict) -> bool:
 
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("data/missing-country-list.txt", mode="r") as fp:
+    with open("data/missing-geoloc.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
@@ -101,8 +101,11 @@ def select_unprocessed_route() -> tuple[int, str | None]:
             resp = algolia_client.get_object(
                 index_name=ROUTES_INDEX,
                 object_id=get_object_id(ref),
-                attributes_to_retrieve=["country"],
+                attributes_to_retrieve=["country", "_geoloc"],
             )
+            if "_geoloc" not in resp:
+                continue
+
             if "country" not in resp:
                 return attempt, route
 
