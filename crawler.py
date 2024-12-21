@@ -1,28 +1,17 @@
 import asyncio
 import functools
 import json
-import os
 import random
 from bs4 import BeautifulSoup
 import requests
-from dotenv import load_dotenv
-from algoliasearch.search.client import SearchClientSync
 
 from detail_extractor import DetailExtractor
-from osdatahub_names import OSDataHub
-from utils import get_object_id
+from utils import get_datahub_client, get_object_id, get_search_client, ROUTES_INDEX
 from algoliasearch.http.exceptions import RequestException
 
-load_dotenv()
 
-ROUTES_INDEX = "routes_index"
-
-ALGOLIA_APP_ID = os.environ["ALGOLIA_APP_ID"]
-ALGOLIA_API_KEY = os.environ["ALGOLIA_API_KEY"]
-OS_DATAHUB_API_KEY = os.environ["OS_DATAHUB_API_KEY"]
-
-algolia_client = SearchClientSync(ALGOLIA_APP_ID, ALGOLIA_API_KEY)
-datahub = OSDataHub(api_key=OS_DATAHUB_API_KEY)
+algolia_client = get_search_client()
+datahub = get_datahub_client()
 
 
 def extract_next_link(soup: BeautifulSoup) -> str | None:
@@ -159,7 +148,9 @@ def unprocessed_entries_crawl():
     for index in range(limit):
         num_attempts, url = select_unprocessed_route()
         if not url:
-            print(f"WARN! couldnt find any unprocessed routes after {num_attempts} attempts")
+            print(
+                f"WARN! couldnt find any unprocessed routes after {num_attempts} attempts"
+            )
             continue
 
         print(f"[{index+1:02d}/{limit}] found after {num_attempts} attempts: {url}")
