@@ -1,98 +1,98 @@
 {
-  "objectID": "587190a11c1f5ebe9c023978d281dd1e",
-  "created_at": "2024-12-18T14:09:53.391987+00:00",
-  "ref": "ashford-walking-route",
-  "title": "Ashford Area Country Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Singleton_Lake_-_geograph.org.uk_-_1279176.jpg",
-  "nearby": [
-    {
-      "description": "Stour Valley Walk",
-      "objectID": "ada7df515b04aaba1bd691eabe995139",
-      "ref": "stour-valley-walk-walking-route"
+    "objectID": "587190a11c1f5ebe9c023978d281dd1e",
+    "created_at": "2024-12-18T14:09:53.391987+00:00",
+    "ref": "ashford-walking-route",
+    "title": "Ashford Area Country Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Singleton_Lake_-_geograph.org.uk_-_1279176.jpg",
+    "nearby": [
+        {
+            "description": "Stour Valley Walk",
+            "objectID": "ada7df515b04aaba1bd691eabe995139",
+            "ref": "stour-valley-walk-walking-route"
+        },
+        {
+            "description": "Wye Downs",
+            "objectID": "3383f81787d2812d3aed58579b967b27",
+            "ref": "wye-downs-walking-route"
+        },
+        {
+            "description": "Wye Crown",
+            "objectID": "b469fdfd0d51007d0f4e171a16e68a6c",
+            "ref": "wye-crown-walking-route"
+        },
+        {
+            "description": "Hothfield Common",
+            "objectID": "bbb6c868f40cd1183d56988b16fdead5",
+            "ref": "hothfield-common-walking-route"
+        },
+        {
+            "description": "King's Wood Kent",
+            "objectID": "7f8fd6ffb9eecfccc6478f7d723e1635",
+            "ref": "kings-wood-kent-walking-and-cycle-route"
+        },
+        {
+            "description": "Conningbrook Lakes Country Park",
+            "objectID": "915b6fcf5bfa74807fb3254f6a56aba9",
+            "ref": "conningbrook-lakes-country-park-walking-route"
+        },
+        {
+            "description": "Biddenden",
+            "objectID": "338acbc29afa7c17f8c587d4f3b9b6ff",
+            "ref": "biddenden-walking-route"
+        },
+        {
+            "description": "Lenham",
+            "objectID": "84c07a19b78159a985b0fec8145737be",
+            "ref": "lenham-walking-route"
+        },
+        {
+            "description": "Eastwell Park Lake",
+            "objectID": "74ab95049a19a65ad97a0066348e0353",
+            "ref": "eastwell-park-lake-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/6CF1866B9E728C498625857100492960/$FILE/Ashford.gpx",
+    "_geoloc": {
+        "lat": 51.1450553125,
+        "lng": 0.8457885745
     },
-    {
-      "description": "Wye Downs",
-      "objectID": "3383f81787d2812d3aed58579b967b27",
-      "ref": "wye-downs-walking-route"
-    },
-    {
-      "description": "Wye Crown",
-      "objectID": "b469fdfd0d51007d0f4e171a16e68a6c",
-      "ref": "wye-crown-walking-route"
-    },
-    {
-      "description": "Hothfield Common",
-      "objectID": "bbb6c868f40cd1183d56988b16fdead5",
-      "ref": "hothfield-common-walking-route"
-    },
-    {
-      "description": "King's Wood Kent",
-      "objectID": "7f8fd6ffb9eecfccc6478f7d723e1635",
-      "ref": "kings-wood-kent-walking-and-cycle-route"
-    },
-    {
-      "description": "Conningbrook Lakes Country Park",
-      "objectID": "915b6fcf5bfa74807fb3254f6a56aba9",
-      "ref": "conningbrook-lakes-country-park-walking-route"
-    },
-    {
-      "description": "Biddenden",
-      "objectID": "338acbc29afa7c17f8c587d4f3b9b6ff",
-      "ref": "biddenden-walking-route"
-    },
-    {
-      "description": "Lenham",
-      "objectID": "84c07a19b78159a985b0fec8145737be",
-      "ref": "lenham-walking-route"
-    },
-    {
-      "description": "Eastwell Park Lake",
-      "objectID": "74ab95049a19a65ad97a0066348e0353",
-      "ref": "eastwell-park-lake-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/6CF1866B9E728C498625857100492960/$FILE/Ashford.gpx",
-  "_geoloc": {
-    "lat": 51.1450553125,
-    "lng": 0.8457885745
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Singleton_Lake_-_geograph.org.uk_-_1279176.jpg",
-      "title": "David Anstiss\u00a0/\u00a0Singleton Lake",
-      "caption": "Singleton Lake, route start. This man-made lake has been created as part of the housing built around the lake. A circular walk leads around the lake, from a carpark on Bucksford Lane."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stour_Valley_Walk_crosses_Bucksford_Lane_-_geograph.org.uk_-_1279193.jpg",
-      "title": "David Anstiss\u00a0/\u00a0Stour Valley Walk crosses Bucksford Lane",
-      "caption": "Stour Valley Walk crosses Bucksford Lane. The long distance path crosses the lane heading right to Ashford, via Victoria Park, from Great Chart. The lane leads to a small carpark close to Singleton Lake. On the bend, it passes over the River Stour."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_River_Stour_near_Victoria_Park_-_geograph.org.uk_-_1279115.jpg",
-      "title": "David Anstiss / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
-      "caption": "The River Stour near Victoria Park As seen from a footbridge to Gasworks Lane from the Park. The path on the right is part of the Stour Valley Walk (long distance path) leading to Great Chart from Ashford."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Willesborough_Windmill_-_geograph.org.uk_-_232011.jpg/256px-Willesborough_Windmill_-_geograph.org.uk_-_232011.jpg",
-      "title": "Stephen Nunney\u00a0/\u00a0Willesborough Windmill",
-      "caption": "Willesborough windmill near Ashford is a white smock mill built in 1869 onto a two storey red brick base with attached miller's cottage. It is now a Grade II* listed building. It incorporates \"patent\" type shutters in the Sweeps instead of canvas and Sails, and produced enough power to turn four sets of mill stones as well as the maize and oats crushing/cutting machines. Operations at the mill continued through the War years until the 1950's when further Industrial mechanization in commercial milling caused its closure, the mill building then being used for storage only and later as a home until 1989. It was bought, in a very dilapidated state, and fully restored in 1991 to its former glory by Ashford Borough Council for the benefit of the citizens of Ashford and the public at large."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Above_the_Wye_Crown_-_geograph.org.uk_-_1411283.jpg",
-      "title": "Andy Stephenson\u00a0/\u00a0Above the Wye Crown",
-      "caption": "Above the Wye Crown"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wye_Downs_-_geograph.org.uk_-_993862.jpg",
-      "title": "Simon Huguet\u00a0/\u00a0Wye Downs",
-      "caption": "Wye Downs. Managing species rich grassland with cattle above the Devil's Kneading Trough on Broad Down in the Wye Downs National Nature Reserve. The reserve was declared for its downland grassland which is renowned for its assemblage of many species of orchids in the spring. The cattle are English White, a traditional and rare breed and are owned by Wye Community Farm."
-    }
-  ],
-  "distance_km": 17.0,
-  "description": "This Kent town is ideally positioned for walkers on the edge of the Kent Downs and the North Downs. There are also nice waterside paths along the river Great Stour which runs through the centre of Ashford. This route uses sections of the Stour Valley Walk and the North Downs Way to take you up to the splendid Wye Downs just to the north east of the town. On the way you'll enjoy riverside paths along the River Stour, visit the lovely village of Wye and enjoy wonderful views over the area from the high points on the Wye and Broad Downs. The walk starts from the public car park next to the pretty Singleton Lake just to the west of the town centre and the train station. From here you can pick up the Stour Valley Walk and follow the waymarked path east along the river. You'll pass Victoria Park and cross the river before heading out into the countryside on the eastern side of the town. Here you'll also pass the Grade II listed Willesborough windmill. It was built in 1869\u00a0and is worth some further investigation if you have time. You then turn north, passing Conningbrook Lakes Country Park . The park is also a nature reserve with wetland, woodland, ponds and three pretty lakes. After passing the park you head through some attractive countryside before coming to Wye village. The village is very pretty and well worth exploring. It was voted the third best place to live in the UK in an annual broadsheet's review in 2013. In Wye you can pick up the North Downs Way and follow it south east up onto the Wye Downs. You continue along the path, passing the noteworthy Wye Crown . The white crown hill figure\u00a0was carved in the chalk by students in 1902 to commemorate the\u00a0coronation of Edward VII. The Downs are also a lovely area with lots of pretty wildflowers to see in the summer months. The route heads up to the viewpoint on Broad Downs where you can enjoy fine views over the Kent Downs AONB and the coast. You can return to Ashford on the same paths or just return to Wye and catch a train back to the town if you prefer.",
-  "postcode": "TN23 4RR",
-  "district": "Ashford",
-  "county": "Kent",
-  "region": "South East",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Singleton_Lake_-_geograph.org.uk_-_1279176.jpg",
+            "title": "David Anstiss / Singleton Lake",
+            "caption": "Singleton Lake, route start. This man-made lake has been created as part of the housing built around the lake. A circular walk leads around the lake, from a carpark on Bucksford Lane."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Stour_Valley_Walk_crosses_Bucksford_Lane_-_geograph.org.uk_-_1279193.jpg",
+            "title": "David Anstiss / Stour Valley Walk crosses Bucksford Lane",
+            "caption": "Stour Valley Walk crosses Bucksford Lane. The long distance path crosses the lane heading right to Ashford, via Victoria Park, from Great Chart. The lane leads to a small carpark close to Singleton Lake. On the bend, it passes over the River Stour."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_River_Stour_near_Victoria_Park_-_geograph.org.uk_-_1279115.jpg",
+            "title": "David Anstiss / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+            "caption": "The River Stour near Victoria Park As seen from a footbridge to Gasworks Lane from the Park. The path on the right is part of the Stour Valley Walk (long distance path) leading to Great Chart from Ashford."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Willesborough_Windmill_-_geograph.org.uk_-_232011.jpg/256px-Willesborough_Windmill_-_geograph.org.uk_-_232011.jpg",
+            "title": "Stephen Nunney / Willesborough Windmill",
+            "caption": "Willesborough windmill near Ashford is a white smock mill built in 1869 onto a two storey red brick base with attached miller's cottage. It is now a Grade II* listed building. It incorporates \"patent\" type shutters in the Sweeps instead of canvas and Sails, and produced enough power to turn four sets of mill stones as well as the maize and oats crushing/cutting machines. Operations at the mill continued through the War years until the 1950's when further Industrial mechanization in commercial milling caused its closure, the mill building then being used for storage only and later as a home until 1989. It was bought, in a very dilapidated state, and fully restored in 1991 to its former glory by Ashford Borough Council for the benefit of the citizens of Ashford and the public at large."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Above_the_Wye_Crown_-_geograph.org.uk_-_1411283.jpg",
+            "title": "Andy Stephenson / Above the Wye Crown",
+            "caption": "Above the Wye Crown"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Wye_Downs_-_geograph.org.uk_-_993862.jpg",
+            "title": "Simon Huguet / Wye Downs",
+            "caption": "Wye Downs. Managing species rich grassland with cattle above the Devil's Kneading Trough on Broad Down in the Wye Downs National Nature Reserve. The reserve was declared for its downland grassland which is renowned for its assemblage of many species of orchids in the spring. The cattle are English White, a traditional and rare breed and are owned by Wye Community Farm."
+        }
+    ],
+    "distance_km": 17.0,
+    "description": "This Kent town is ideally positioned for walkers on the edge of the Kent Downs and the North Downs. There are also nice waterside paths along the river Great Stour which runs through the centre of Ashford. This route uses sections of the Stour Valley Walk and the North Downs Way to take you up to the splendid Wye Downs just to the north east of the town. On the way you'll enjoy riverside paths along the River Stour, visit the lovely village of Wye and enjoy wonderful views over the area from the high points on the Wye and Broad Downs. The walk starts from the public car park next to the pretty Singleton Lake just to the west of the town centre and the train station. From here you can pick up the Stour Valley Walk and follow the waymarked path east along the river. You'll pass Victoria Park and cross the river before heading out into the countryside on the eastern side of the town. Here you'll also pass the Grade II listed Willesborough windmill. It was built in 1869 and is worth some further investigation if you have time. You then turn north, passing Conningbrook Lakes Country Park . The park is also a nature reserve with wetland, woodland, ponds and three pretty lakes. After passing the park you head through some attractive countryside before coming to Wye village. The village is very pretty and well worth exploring. It was voted the third best place to live in the UK in an annual broadsheet's review in 2013. In Wye you can pick up the North Downs Way and follow it south east up onto the Wye Downs. You continue along the path, passing the noteworthy Wye Crown . The white crown hill figure was carved in the chalk by students in 1902 to commemorate the coronation of Edward VII. The Downs are also a lovely area with lots of pretty wildflowers to see in the summer months. The route heads up to the viewpoint on Broad Downs where you can enjoy fine views over the Kent Downs AONB and the coast. You can return to Ashford on the same paths or just return to Wye and catch a train back to the town if you prefer.",
+    "postcode": "TN23 4RR",
+    "district": "Ashford",
+    "county": "Kent",
+    "region": "South East",
+    "country": "England"
 }

@@ -1,93 +1,93 @@
 {
-  "objectID": "b9acdea928e2266362f5e6be812ee5e8",
-  "created_at": "2024-12-19T09:28:30.603863+00:00",
-  "ref": "broadway-tower-country-park-walking-and-cycle-route",
-  "title": "Broadway Tower Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Broadway_Tower_2012.jpg/512px-Broadway_Tower_2012.jpg",
-  "nearby": [
-    {
-      "description": "Cotswold Way",
-      "objectID": "506730377bbdf50f447d2f9343dd3402",
-      "ref": "cotswold-way-walking-route"
+    "objectID": "b9acdea928e2266362f5e6be812ee5e8",
+    "created_at": "2024-12-19T09:28:30.603863+00:00",
+    "ref": "broadway-tower-country-park-walking-and-cycle-route",
+    "title": "Broadway Tower Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Broadway_Tower_2012.jpg/512px-Broadway_Tower_2012.jpg",
+    "nearby": [
+        {
+            "description": "Cotswold Way",
+            "objectID": "506730377bbdf50f447d2f9343dd3402",
+            "ref": "cotswold-way-walking-route"
+        },
+        {
+            "description": "Cotswold Round",
+            "objectID": "6bae385c636c468424dd82200bb03028",
+            "ref": "cotswold-round-walking-route"
+        },
+        {
+            "description": "Donnington Way",
+            "objectID": "007b2daae680c4496388eed789741431",
+            "ref": "donnington-way-walking-route"
+        },
+        {
+            "description": "Snowshill",
+            "objectID": "5482a31ed38fc6275f3c1d69e42b7f41",
+            "ref": "snowshill-walking-route"
+        },
+        {
+            "description": "Cotswold Way Circular Walk - Chipping Campden",
+            "objectID": "cb5d9f56dfa49a65bce00714902732cc",
+            "ref": "cotswold-way-circular-walk---chipping-campden-walking-route"
+        },
+        {
+            "description": "Stanton",
+            "objectID": "f038622e453b6ded31662f971f73104f",
+            "ref": "stanton-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/F2E4BBD42F4A72E680257CBC003037F1/$FILE/Broadway Tower Country Park.gpx",
+    "_geoloc": {
+        "lat": 52.0303643945,
+        "lng": -1.8260982595
     },
-    {
-      "description": "Cotswold Round",
-      "objectID": "6bae385c636c468424dd82200bb03028",
-      "ref": "cotswold-round-walking-route"
-    },
-    {
-      "description": "Donnington Way",
-      "objectID": "007b2daae680c4496388eed789741431",
-      "ref": "donnington-way-walking-route"
-    },
-    {
-      "description": "Snowshill",
-      "objectID": "5482a31ed38fc6275f3c1d69e42b7f41",
-      "ref": "snowshill-walking-route"
-    },
-    {
-      "description": "Cotswold Way Circular Walk - Chipping Campden",
-      "objectID": "cb5d9f56dfa49a65bce00714902732cc",
-      "ref": "cotswold-way-circular-walk---chipping-campden-walking-route"
-    },
-    {
-      "description": "Stanton",
-      "objectID": "f038622e453b6ded31662f971f73104f",
-      "ref": "stanton-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/F2E4BBD42F4A72E680257CBC003037F1/$FILE/Broadway Tower Country Park.gpx",
-  "_geoloc": {
-    "lat": 52.0303643945,
-    "lng": -1.8260982595
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Broadway_Tower_2012.jpg/512px-Broadway_Tower_2012.jpg",
-      "title": "Saffron Blaze [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
-      "caption": "Broadway Tower, a\u00a0folly\u00a0in the English county of Worcestershire. The \"Saxon\" tower was designed by James Wyatt in 1794 to resemble a mock castle, and built for Lady Coventry in 1799. Broadway Tower sits on the edge of the second highest point in the Cotswolds overlooking the village of Broadway and the Severn Vale. From the top of the tower, on a clear day, as many as 16 English counties can be identified."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/512px-Broadway_tower_edit.jpg",
-      "title": "The author is Newton2 (cropped by Yummifruitbat) [CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons",
-      "caption": "Broadway Tower pictured in the summer of 2007. From 1822 to 1862, the tower housed the private printing press of Sir Thomas Phillipps. By the mid-1870s, it was being rented by C. J. Stone and Cormell Price. Price was headmaster of the United Services College at Westward Ho! and a friend of artists William Morris, Edward Burne-Jones, and Dante Gabriel Rossetti; in 1876 Morris wrote in a letter to Aglaia Coronio that he was \"up at Crom Price's Tower among the winds and the clouds\"."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rookery_Barn_Restaurant_at_the_Broadway_Tower_Country_Park_-_geograph.org.uk_-_747544.jpg",
-      "title": "Keith Williams\u00a0/\u00a0Rookery Barn Restaurant at the Broadway Tower Country Park, via Wikimedia Commons",
-      "caption": "Rookery Barn Restaurant at the Broadway Tower Country Park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Memorial_to_a_crashed_RAF_bomber_in_Broadway_Tower_Country_Park_-_geograph.org.uk_-_747546.jpg",
-      "title": "Keith Williams\u00a0/\u00a0Memorial to a crashed RAF bomber in Broadway Tower Country Park, via Wikimedia Commons",
-      "caption": "Memorial to a crashed RAF bomber in Broadway Tower Country Park. It is dedicated to the crew of an\u00a0A.W.38 Whitley\u00a0bomber that crashed there during a training mission in June 1943."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Looking_down_from_Broadway_Tower_-_geograph.org.uk_-_1640072.jpg",
-      "title": "Stephen McKay\u00a0/\u00a0Looking down from Broadway Tower",
-      "caption": "Looking down from the Tower. The footpath, part of the Cotswold Way, heads down towards Broadway village which can be seen in the distance at the foot of the escarpment."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Broadway_High_Street_-_geograph.org.uk_-_3547615.jpg",
-      "title": "Broadway High Street by\u00a0David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Broadway High Street. A view down the high street of the pretty village which lies just to the north of the park. The \"broad way\" is the wide grass-fringed main street, centred on the Green, which is lined with red\u00a0chestnut\u00a0trees and honey-coloured Cotswold limestone buildings, many dating from the 16th century. The wide High Street feature here is lined with a wide variety of shops and cafes, many housed in listed buildings.\u00a0It's a fine place for a stroll after your visit to the park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Entrance_to_Broadway_ROC_nuclear_bunker_-_geograph.org.uk_-_2051417.jpg/512px-Entrance_to_Broadway_ROC_nuclear_bunker_-_geograph.org.uk_-_2051417.jpg",
-      "title": "Entrance to Broadway ROC nuclear bunker by\u00a0Nick Mutton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Entrance to Broadway ROC nuclear bunker. In the late 1950s, the tower monitored\u00a0nuclear fallout\u00a0in England; an underground\u00a0Royal Observer Corps bunker\u00a0was built 50 yards (46\u00a0m) from the Tower. Staffed continuously from 1961 and designated as a master post, the\u00a0bunker\u00a0was one of the last such\u00a0Cold War\u00a0bunkers constructed and, although officially stood down in 1991, the bunker is now one of the few remaining fully equipped facilities in England."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Broadway_Hotel%2C_Broadway_-_geograph.org.uk_-_3616476.jpg/512px-Broadway_Hotel%2C_Broadway_-_geograph.org.uk_-_3616476.jpg",
-      "title": "Broadway Hotel, Broadway by\u00a0Chris Whippet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Broadway Hotel in the village. A fine place to relax after your exercise. Pictured here is the attractive outdoor area. Today, Broadway is a centre for arts and antiques. The village's accommodation includes the Broadway Hotel, Russell's \"a restaurant with rooms\", the 1600s Cotswold inn the Lygon Arms, a caravan site, holiday cottages, bed and breakfast lodges, old pubs including the Swan Inn and Crown & Trumpet, shops, restaurants and tea rooms. This former school, Grade II Listed, at 67 High St. was part of a shop in 1856 and was enlarged in 1869. It again houses a shop. Local attractions include the Gordon Russell Design Museum (celebrating the work of the 20th-century furniture maker Sir Gordon Russell MC), the Ashmolean Museum Broadway displaying objects from the 17th to the 21st centuries in 'Tudor House', a former 17th-century coaching inn, the 65-foot-high Broadway Tower on its hilltop site in the Broadway Tower Country Park, Chipping Campden, Snowshill village, Snowshill Manor (owned by the National Trust), horse riding and, for the many ramblers, the Cotswold Way."
-    }
-  ],
-  "distance_km": 7.5,
-  "description": "Enjoy fabulous views of the Cotswolds AONB in this beautiful park in Broadway, Worcestershire. This 5 mile circular walk takes you up to the focal point of the park at the 65ft high Broadway Tower. The tower was the brainchild of Capability Brown and designed by James Wyatt in 1794 in the form of a Saxon castle. It is the second highest point in the Cotswolds so there are wonderful views as far as the Welsh Mountains in one direction and Buckinghamshire in the other. From the top of the tower, on a clear day, as many as 16 English counties can be identified. The park is also home to a herd of Red Deer and includes several peaceful woodland trails. The circular trail starts from the Fish Hill car park, just to the north east of the tower, at a postcode of WR12 7LD for your sat navs. From here you can pick up the Cotswolds Way National Trail to take you south up to the tower before exploring the woodland and country trail around the wider park. The Cotswold Way provides and opportunity for continuing your walking in the area.  The nearby Chipping Campden is a good option or you could visit the delightful Snowshill village and manor house. Our 10 mile Cotswold Way Circular Walk from Chipping Campden uses a lovely section of the national trail to visit the tower and nearby Dover's Hill .",
-  "video_url": "https://www.youtube.com/embed/dBy-o0Bfve4",
-  "postcode": "WR12 7LB",
-  "county": "Gloucestershire",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Broadway_Tower_2012.jpg/512px-Broadway_Tower_2012.jpg",
+            "title": "Saffron Blaze [CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons",
+            "caption": "Broadway Tower, a folly in the English county of Worcestershire. The \"Saxon\" tower was designed by James Wyatt in 1794 to resemble a mock castle, and built for Lady Coventry in 1799. Broadway Tower sits on the edge of the second highest point in the Cotswolds overlooking the village of Broadway and the Severn Vale. From the top of the tower, on a clear day, as many as 16 English counties can be identified."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Broadway_tower_edit.jpg/512px-Broadway_tower_edit.jpg",
+            "title": "The author is Newton2 (cropped by Yummifruitbat) [CC BY 2.5 (https://creativecommons.org/licenses/by/2.5)], via Wikimedia Commons",
+            "caption": "Broadway Tower pictured in the summer of 2007. From 1822 to 1862, the tower housed the private printing press of Sir Thomas Phillipps. By the mid-1870s, it was being rented by C. J. Stone and Cormell Price. Price was headmaster of the United Services College at Westward Ho! and a friend of artists William Morris, Edward Burne-Jones, and Dante Gabriel Rossetti; in 1876 Morris wrote in a letter to Aglaia Coronio that he was \"up at Crom Price's Tower among the winds and the clouds\"."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Rookery_Barn_Restaurant_at_the_Broadway_Tower_Country_Park_-_geograph.org.uk_-_747544.jpg",
+            "title": "Keith Williams / Rookery Barn Restaurant at the Broadway Tower Country Park, via Wikimedia Commons",
+            "caption": "Rookery Barn Restaurant at the Broadway Tower Country Park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Memorial_to_a_crashed_RAF_bomber_in_Broadway_Tower_Country_Park_-_geograph.org.uk_-_747546.jpg",
+            "title": "Keith Williams / Memorial to a crashed RAF bomber in Broadway Tower Country Park, via Wikimedia Commons",
+            "caption": "Memorial to a crashed RAF bomber in Broadway Tower Country Park. It is dedicated to the crew of an A.W.38 Whitley bomber that crashed there during a training mission in June 1943."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Looking_down_from_Broadway_Tower_-_geograph.org.uk_-_1640072.jpg",
+            "title": "Stephen McKay / Looking down from Broadway Tower",
+            "caption": "Looking down from the Tower. The footpath, part of the Cotswold Way, heads down towards Broadway village which can be seen in the distance at the foot of the escarpment."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Broadway_High_Street_-_geograph.org.uk_-_3547615.jpg",
+            "title": "Broadway High Street by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Broadway High Street. A view down the high street of the pretty village which lies just to the north of the park. The \"broad way\" is the wide grass-fringed main street, centred on the Green, which is lined with red chestnut trees and honey-coloured Cotswold limestone buildings, many dating from the 16th century. The wide High Street feature here is lined with a wide variety of shops and cafes, many housed in listed buildings. It's a fine place for a stroll after your visit to the park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Entrance_to_Broadway_ROC_nuclear_bunker_-_geograph.org.uk_-_2051417.jpg/512px-Entrance_to_Broadway_ROC_nuclear_bunker_-_geograph.org.uk_-_2051417.jpg",
+            "title": "Entrance to Broadway ROC nuclear bunker by Nick Mutton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Entrance to Broadway ROC nuclear bunker. In the late 1950s, the tower monitored nuclear fallout in England; an underground Royal Observer Corps bunker was built 50 yards (46 m) from the Tower. Staffed continuously from 1961 and designated as a master post, the bunker was one of the last such Cold War bunkers constructed and, although officially stood down in 1991, the bunker is now one of the few remaining fully equipped facilities in England."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Broadway_Hotel%2C_Broadway_-_geograph.org.uk_-_3616476.jpg/512px-Broadway_Hotel%2C_Broadway_-_geograph.org.uk_-_3616476.jpg",
+            "title": "Broadway Hotel, Broadway by Chris Whippet, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Broadway Hotel in the village. A fine place to relax after your exercise. Pictured here is the attractive outdoor area. Today, Broadway is a centre for arts and antiques. The village's accommodation includes the Broadway Hotel, Russell's \"a restaurant with rooms\", the 1600s Cotswold inn the Lygon Arms, a caravan site, holiday cottages, bed and breakfast lodges, old pubs including the Swan Inn and Crown & Trumpet, shops, restaurants and tea rooms. This former school, Grade II Listed, at 67 High St. was part of a shop in 1856 and was enlarged in 1869. It again houses a shop. Local attractions include the Gordon Russell Design Museum (celebrating the work of the 20th-century furniture maker Sir Gordon Russell MC), the Ashmolean Museum Broadway displaying objects from the 17th to the 21st centuries in 'Tudor House', a former 17th-century coaching inn, the 65-foot-high Broadway Tower on its hilltop site in the Broadway Tower Country Park, Chipping Campden, Snowshill village, Snowshill Manor (owned by the National Trust), horse riding and, for the many ramblers, the Cotswold Way."
+        }
+    ],
+    "distance_km": 7.5,
+    "description": "Enjoy fabulous views of the Cotswolds AONB in this beautiful park in Broadway, Worcestershire. This 5 mile circular walk takes you up to the focal point of the park at the 65ft high Broadway Tower. The tower was the brainchild of Capability Brown and designed by James Wyatt in 1794 in the form of a Saxon castle. It is the second highest point in the Cotswolds so there are wonderful views as far as the Welsh Mountains in one direction and Buckinghamshire in the other. From the top of the tower, on a clear day, as many as 16 English counties can be identified. The park is also home to a herd of Red Deer and includes several peaceful woodland trails. The circular trail starts from the Fish Hill car park, just to the north east of the tower, at a postcode of WR12 7LD for your sat navs. From here you can pick up the Cotswolds Way National Trail to take you south up to the tower before exploring the woodland and country trail around the wider park. The Cotswold Way provides and opportunity for continuing your walking in the area.  The nearby Chipping Campden is a good option or you could visit the delightful Snowshill village and manor house. Our 10 mile Cotswold Way Circular Walk from Chipping Campden uses a lovely section of the national trail to visit the tower and nearby Dover's Hill .",
+    "video_url": "https://www.youtube.com/embed/dBy-o0Bfve4",
+    "postcode": "WR12 7LB",
+    "county": "Gloucestershire",
+    "region": "South West",
+    "country": "England"
 }

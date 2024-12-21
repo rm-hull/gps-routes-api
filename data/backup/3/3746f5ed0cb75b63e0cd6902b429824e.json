@@ -1,128 +1,128 @@
 {
-  "objectID": "3746f5ed0cb75b63e0cd6902b429824e",
-  "created_at": "2024-12-19T09:30:30.526029+00:00",
-  "ref": "waveney-valley-walking-route",
-  "title": "Waveney Valley Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Waveney_at_Beccles_-_geograph.org.uk_-_140863.jpg",
-  "nearby": [
-    {
-      "description": "Beccles",
-      "objectID": "75e28f843886de37df053cb7016774f9",
-      "ref": "beccles-walking-route"
+    "objectID": "3746f5ed0cb75b63e0cd6902b429824e",
+    "created_at": "2024-12-19T09:30:30.526029+00:00",
+    "ref": "waveney-valley-walking-route",
+    "title": "Waveney Valley Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Waveney_at_Beccles_-_geograph.org.uk_-_140863.jpg",
+    "nearby": [
+        {
+            "description": "Beccles",
+            "objectID": "75e28f843886de37df053cb7016774f9",
+            "ref": "beccles-walking-route"
+        },
+        {
+            "description": "Oulton Broad and Carlton Marshes",
+            "objectID": "5ca4063690f9a64e3dcd96b31e5b6f0f",
+            "ref": "oulton-broad-and-carlton-marshes-walking-route"
+        },
+        {
+            "description": "Lowestoft",
+            "objectID": "a5b084aaa11cc927d1328fe9c9fb29d6",
+            "ref": "lowestoft-walking-route"
+        },
+        {
+            "description": "Somerleyton",
+            "objectID": "03df9ef2ccbf7afb7c464c5b1cb4bb25",
+            "ref": "somerleyton-walking-route"
+        },
+        {
+            "description": "Fritton Lake Country Park",
+            "objectID": "160ff4062a05075a1d97488356e270ec",
+            "ref": "fritton-lake-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Angles Way",
+            "objectID": "f6cef38e2b6ed5f59b36ea4b6875c872",
+            "ref": "angles-way-walking-route"
+        },
+        {
+            "description": "Burgh Castle",
+            "objectID": "6faebafad246183ae6c6650c2457daef",
+            "ref": "burgh-castle-walking-route"
+        },
+        {
+            "description": "Bungay Riverside Walk",
+            "objectID": "ce1f844fef1f19c5539bf77823913a01",
+            "ref": "bungay-riverside-walk-walking-route"
+        },
+        {
+            "description": "Diss",
+            "objectID": "4e092dca3c59497c708f788edcf48368",
+            "ref": "diss-walking-route"
+        },
+        {
+            "description": "Breydon Water",
+            "objectID": "a5575adf79cf173931ae942ede3a2bac",
+            "ref": "breydon-water-walking-route"
+        },
+        {
+            "description": "Bigod Way",
+            "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
+            "ref": "bigod-way-walking-route"
+        },
+        {
+            "description": "Loddon",
+            "objectID": "72a7c7484c779a8fa355702c3ff85dbf",
+            "ref": "loddon-walking-route"
+        },
+        {
+            "description": "Reedham",
+            "objectID": "5a36129b8eab18365f972d5d5f3ba8ff",
+            "ref": "reedham-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/B82364E294BFB222862586090026A235/$FILE/Waveney Valley.gpx",
+    "_geoloc": {
+        "lat": 52.4648690272,
+        "lng": 1.5642187248
     },
-    {
-      "description": "Oulton Broad and Carlton Marshes",
-      "objectID": "5ca4063690f9a64e3dcd96b31e5b6f0f",
-      "ref": "oulton-broad-and-carlton-marshes-walking-route"
-    },
-    {
-      "description": "Lowestoft",
-      "objectID": "a5b084aaa11cc927d1328fe9c9fb29d6",
-      "ref": "lowestoft-walking-route"
-    },
-    {
-      "description": "Somerleyton",
-      "objectID": "03df9ef2ccbf7afb7c464c5b1cb4bb25",
-      "ref": "somerleyton-walking-route"
-    },
-    {
-      "description": "Fritton Lake Country Park",
-      "objectID": "160ff4062a05075a1d97488356e270ec",
-      "ref": "fritton-lake-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Angles Way",
-      "objectID": "f6cef38e2b6ed5f59b36ea4b6875c872",
-      "ref": "angles-way-walking-route"
-    },
-    {
-      "description": "Burgh Castle",
-      "objectID": "6faebafad246183ae6c6650c2457daef",
-      "ref": "burgh-castle-walking-route"
-    },
-    {
-      "description": "Bungay Riverside Walk",
-      "objectID": "ce1f844fef1f19c5539bf77823913a01",
-      "ref": "bungay-riverside-walk-walking-route"
-    },
-    {
-      "description": "Diss",
-      "objectID": "4e092dca3c59497c708f788edcf48368",
-      "ref": "diss-walking-route"
-    },
-    {
-      "description": "Breydon Water",
-      "objectID": "a5575adf79cf173931ae942ede3a2bac",
-      "ref": "breydon-water-walking-route"
-    },
-    {
-      "description": "Bigod Way",
-      "objectID": "752a8e9cca3d7b025367dc2fa1aa1d16",
-      "ref": "bigod-way-walking-route"
-    },
-    {
-      "description": "Loddon",
-      "objectID": "72a7c7484c779a8fa355702c3ff85dbf",
-      "ref": "loddon-walking-route"
-    },
-    {
-      "description": "Reedham",
-      "objectID": "5a36129b8eab18365f972d5d5f3ba8ff",
-      "ref": "reedham-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/B82364E294BFB222862586090026A235/$FILE/Waveney Valley.gpx",
-  "_geoloc": {
-    "lat": 52.4648690272,
-    "lng": 1.5642187248
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Waveney_at_Beccles_-_geograph.org.uk_-_140863.jpg",
-      "title": "David Medcalf\u00a0/\u00a0River Waveney at Beccles",
-      "caption": "River Waveney at Beccles. Beccles New Bridge is in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/River_Waveney_near_Lowestoft_-_geograph.org.uk_-_115598.jpg",
-      "title": "David Medcalf\u00a0/\u00a0River Waveney near Lowestoft",
-      "caption": "River Waveney near Lowestoft"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/North_bank_of_Oulton_Broad%2C_Lowestoft%2C_Suffolk_-_geograph.org.uk_-_30559.jpg",
-      "title": "Pete Chapman\u00a0/\u00a0North bank of Oulton Broad, Lowestoft, Suffolk",
-      "caption": "North bank of Oulton Broad, Lowestoft, Suffolk"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Converted_Brewery%2C_Oulton_Broad_-_geograph.org.uk_-_115620.jpg",
-      "title": "David Medcalf\u00a0/\u00a0Converted Brewery, Oulton Broad",
-      "caption": "Converted Brewery, Oulton Broad"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cottages_in_Somerleyton_-_geograph.org.uk_-_1505686.jpg",
-      "title": "Evelyn Simak\u00a0/\u00a0Cottages in Somerleyton",
-      "caption": "Cottages in Somerleyton on the north bank of the River Waveney, about 7 miles from Lowestoft and 8 miles from Yarmouth. The population numbers approximately 300. The village is an example of 19th century planning of housing consisting of thatched cottages and a village school around a newly created green. When Samuel Morton Peto took over the Somerleyton Estate in 1844 he began to reconstruct the Hall and to replan the village as a model village in the spirit of the times. The main road was diverted through the village which became centred on the village green, a horse-shoe shaped area with new houses around the perimeter, the school at one end and the village pump at the other. The new houses were designed by John Thomas, the architect of Somerleyton Hall. Peto also brought the railway to the village."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Somerleyton_Marina_-_geograph.org.uk_-_1506157.jpg",
-      "title": "Evelyn Simak\u00a0/\u00a0Somerleyton Marina",
-      "caption": "Somerleyton Marina. It was at Somerleyton Marina where Christopher Cockerell began his work on ideas to make a boat go faster, which led to the invention of the Hovercraft -\u00a0Hovercraft\u00a0- the first patent being applied for in December 1955."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Picnic_table_by_Fritton_Decoy_-_geograph.org.uk_-_806133.jpg",
-      "title": "Evelyn Simak\u00a0/\u00a0Picnic table by Fritton Decoy",
-      "caption": "Picnic table by Fritton Decoy"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Boatyard_sheds_beside_the_River_Waveney_in_St_Olaves_-_geograph.org.uk_-_1803025.jpg",
-      "title": "Evelyn Simak\u00a0/\u00a0Boatyard sheds beside the River Waveney in St Olaves",
-      "caption": "Boatyard sheds beside the River Waveney in St Olaves St Olaves marks the first safe moorings since Burgh Castle. A high wooded ridge to the east of the village stretches all the way from Burgh Castle in the north to Oulton Broad in the south. The village is situated within the Broads National Park, on the bank River Waveney, about 10 kilometres south-west of the town of Great Yarmouth in the country of Norfolk. Before 1972 the village formed part of the Lothingland Rural District in Suffolk. St Olaves Bridge is the first bridging point on the Waveney above Great Yarmouth."
-    }
-  ],
-  "distance_km": 27.0,
-  "description": "The Waveney Valley is a wonderful place for waterside walking. With rivers, broads, nature reserves and several picture postcard villages it's the ideal place for easy walking on flat footpaths. This walk through the valley visits some of the highlights of the area. Starting at Beccles you'll first follow the Angles Way along the River Waveney to Oulton Broad and Carlton Marshes in Lowestoft . The route then continues to Somerleyton before finishing at Fritton Lake Country Park . The walk starts at the public car park at the northern end of Beccles, just north of the train station. From here you can pick up the Angles Way and follow the waymarked footpath north along the river to Aldeby Hall. The route continues east to Castle Marsh before coming to Oulton Broad on the western outskirts of Lowestoft. The broad and nature reserve are an excellent place for birdwatching with several species visiting the water. You continue north past Flixton Marshes to Somerleyton. It's a very pretty village which includes the historic Somerleyton Hall. The hall has a fascinating history and is surrounded by beautiful gardens. There's also train station here and at Lowestoft so you can finish the walk early and return on the train to Beccles if you prefer. This route continues north to visit Fritton Lake Country Park near St Olaves. Here you'll find the expansive Fritton Lake surrounded by peaceful woodland trails.",
-  "postcode": "NR34 9BB",
-  "district": "Beccles",
-  "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/River_Waveney_at_Beccles_-_geograph.org.uk_-_140863.jpg",
+            "title": "David Medcalf / River Waveney at Beccles",
+            "caption": "River Waveney at Beccles. Beccles New Bridge is in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/River_Waveney_near_Lowestoft_-_geograph.org.uk_-_115598.jpg",
+            "title": "David Medcalf / River Waveney near Lowestoft",
+            "caption": "River Waveney near Lowestoft"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/North_bank_of_Oulton_Broad%2C_Lowestoft%2C_Suffolk_-_geograph.org.uk_-_30559.jpg",
+            "title": "Pete Chapman / North bank of Oulton Broad, Lowestoft, Suffolk",
+            "caption": "North bank of Oulton Broad, Lowestoft, Suffolk"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Converted_Brewery%2C_Oulton_Broad_-_geograph.org.uk_-_115620.jpg",
+            "title": "David Medcalf / Converted Brewery, Oulton Broad",
+            "caption": "Converted Brewery, Oulton Broad"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Cottages_in_Somerleyton_-_geograph.org.uk_-_1505686.jpg",
+            "title": "Evelyn Simak / Cottages in Somerleyton",
+            "caption": "Cottages in Somerleyton on the north bank of the River Waveney, about 7 miles from Lowestoft and 8 miles from Yarmouth. The population numbers approximately 300. The village is an example of 19th century planning of housing consisting of thatched cottages and a village school around a newly created green. When Samuel Morton Peto took over the Somerleyton Estate in 1844 he began to reconstruct the Hall and to replan the village as a model village in the spirit of the times. The main road was diverted through the village which became centred on the village green, a horse-shoe shaped area with new houses around the perimeter, the school at one end and the village pump at the other. The new houses were designed by John Thomas, the architect of Somerleyton Hall. Peto also brought the railway to the village."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Somerleyton_Marina_-_geograph.org.uk_-_1506157.jpg",
+            "title": "Evelyn Simak / Somerleyton Marina",
+            "caption": "Somerleyton Marina. It was at Somerleyton Marina where Christopher Cockerell began his work on ideas to make a boat go faster, which led to the invention of the Hovercraft - Hovercraft - the first patent being applied for in December 1955."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Picnic_table_by_Fritton_Decoy_-_geograph.org.uk_-_806133.jpg",
+            "title": "Evelyn Simak / Picnic table by Fritton Decoy",
+            "caption": "Picnic table by Fritton Decoy"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Boatyard_sheds_beside_the_River_Waveney_in_St_Olaves_-_geograph.org.uk_-_1803025.jpg",
+            "title": "Evelyn Simak / Boatyard sheds beside the River Waveney in St Olaves",
+            "caption": "Boatyard sheds beside the River Waveney in St Olaves St Olaves marks the first safe moorings since Burgh Castle. A high wooded ridge to the east of the village stretches all the way from Burgh Castle in the north to Oulton Broad in the south. The village is situated within the Broads National Park, on the bank River Waveney, about 10 kilometres south-west of the town of Great Yarmouth in the country of Norfolk. Before 1972 the village formed part of the Lothingland Rural District in Suffolk. St Olaves Bridge is the first bridging point on the Waveney above Great Yarmouth."
+        }
+    ],
+    "distance_km": 27.0,
+    "description": "The Waveney Valley is a wonderful place for waterside walking. With rivers, broads, nature reserves and several picture postcard villages it's the ideal place for easy walking on flat footpaths. This walk through the valley visits some of the highlights of the area. Starting at Beccles you'll first follow the Angles Way along the River Waveney to Oulton Broad and Carlton Marshes in Lowestoft . The route then continues to Somerleyton before finishing at Fritton Lake Country Park . The walk starts at the public car park at the northern end of Beccles, just north of the train station. From here you can pick up the Angles Way and follow the waymarked footpath north along the river to Aldeby Hall. The route continues east to Castle Marsh before coming to Oulton Broad on the western outskirts of Lowestoft. The broad and nature reserve are an excellent place for birdwatching with several species visiting the water. You continue north past Flixton Marshes to Somerleyton. It's a very pretty village which includes the historic Somerleyton Hall. The hall has a fascinating history and is surrounded by beautiful gardens. There's also train station here and at Lowestoft so you can finish the walk early and return on the train to Beccles if you prefer. This route continues north to visit Fritton Lake Country Park near St Olaves. Here you'll find the expansive Fritton Lake surrounded by peaceful woodland trails.",
+    "postcode": "NR34 9BB",
+    "district": "Beccles",
+    "county": "Suffolk",
+    "region": "Eastern",
+    "country": "England"
 }

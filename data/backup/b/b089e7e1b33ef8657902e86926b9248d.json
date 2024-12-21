@@ -1,124 +1,124 @@
 {
-  "objectID": "b089e7e1b33ef8657902e86926b9248d",
-  "created_at": "2024-12-18T18:35:57.219421+00:00",
-  "ref": "ramsbury-walking-route",
-  "title": "Ramsbury Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ramsbury%2C_Oxford_Street_-_geograph.org.uk_-_1529749.jpg",
-  "nearby": [
-    {
-      "description": "Chilton Foliat",
-      "objectID": "0377ef841c92fe277ca2c6ab911080f1",
-      "ref": "chilton-foliat-walking-route"
+    "objectID": "b089e7e1b33ef8657902e86926b9248d",
+    "created_at": "2024-12-18T18:35:57.219421+00:00",
+    "ref": "ramsbury-walking-route",
+    "title": "Ramsbury Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ramsbury%2C_Oxford_Street_-_geograph.org.uk_-_1529749.jpg",
+    "nearby": [
+        {
+            "description": "Chilton Foliat",
+            "objectID": "0377ef841c92fe277ca2c6ab911080f1",
+            "ref": "chilton-foliat-walking-route"
+        },
+        {
+            "description": "Littlecote House",
+            "objectID": "fa330496729f5552772dfb35c8f531ed",
+            "ref": "littlecote-house-walking-route"
+        },
+        {
+            "description": "Marlborough",
+            "objectID": "f776b1b1db7f8f50149b60b48d50beaf",
+            "ref": "marlborough-walking-route"
+        },
+        {
+            "description": "Savernake Forest",
+            "objectID": "6eb3e897642ac65deffecfa87457cbc3",
+            "ref": "savernake-forest-walking-and-cycle-route"
+        },
+        {
+            "description": "Chiseldon and Marlborough Railway Path",
+            "objectID": "a4fedd73896379e2635f48ea07d7aed1",
+            "ref": "chiseldon-and-marlborough-railway-path-walking-and-cycle-route"
+        },
+        {
+            "description": "Wessex Ridgeway",
+            "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
+            "ref": "wessex-ridgeway-walking-route"
+        },
+        {
+            "description": "West Woods",
+            "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
+            "ref": "west-woods-walking-and-cycle-route"
+        },
+        {
+            "description": "Wansdyke Path",
+            "objectID": "ac6dd2658519f5e7fc14e4ab0edc68ef",
+            "ref": "wansdyke-path-walking-route"
+        },
+        {
+            "description": "Avebury Stones",
+            "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
+            "ref": "avebury-stones-walking-route"
+        },
+        {
+            "description": "White Horse Trail",
+            "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
+            "ref": "white-horse-trail-walking-route"
+        },
+        {
+            "description": "Ridgeway Circular Walk - Aldbourne",
+            "objectID": "a168a53382fc1557c9e016ebbfe77e7a",
+            "ref": "ridgeway-circular-walk---aldbourne-walking-and-cycle-route"
+        },
+        {
+            "description": "Hungerford",
+            "objectID": "1b8c1e0f82e483abe3eb8ad7900d8710",
+            "ref": "hungerford-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D919F59D1D0D7906862586E7004F8934/$FILE/Ramsbury.gpx",
+    "_geoloc": {
+        "lat": 51.4424583571,
+        "lng": -1.6015101045
     },
-    {
-      "description": "Littlecote House",
-      "objectID": "fa330496729f5552772dfb35c8f531ed",
-      "ref": "littlecote-house-walking-route"
-    },
-    {
-      "description": "Marlborough",
-      "objectID": "f776b1b1db7f8f50149b60b48d50beaf",
-      "ref": "marlborough-walking-route"
-    },
-    {
-      "description": "Savernake Forest",
-      "objectID": "6eb3e897642ac65deffecfa87457cbc3",
-      "ref": "savernake-forest-walking-and-cycle-route"
-    },
-    {
-      "description": "Chiseldon and Marlborough Railway Path",
-      "objectID": "a4fedd73896379e2635f48ea07d7aed1",
-      "ref": "chiseldon-and-marlborough-railway-path-walking-and-cycle-route"
-    },
-    {
-      "description": "Wessex Ridgeway",
-      "objectID": "43cab8ae3f5228bfec0a5cd93960fe13",
-      "ref": "wessex-ridgeway-walking-route"
-    },
-    {
-      "description": "West Woods",
-      "objectID": "5c1f1a7b944e2fa7e1eab70f8c668195",
-      "ref": "west-woods-walking-and-cycle-route"
-    },
-    {
-      "description": "Wansdyke Path",
-      "objectID": "ac6dd2658519f5e7fc14e4ab0edc68ef",
-      "ref": "wansdyke-path-walking-route"
-    },
-    {
-      "description": "Avebury Stones",
-      "objectID": "131fc4cd3eaa13cde0fc3361fc0d2e7a",
-      "ref": "avebury-stones-walking-route"
-    },
-    {
-      "description": "White Horse Trail",
-      "objectID": "f8439cbeac9e3bb5a4852659b79a5429",
-      "ref": "white-horse-trail-walking-route"
-    },
-    {
-      "description": "Ridgeway Circular Walk - Aldbourne",
-      "objectID": "a168a53382fc1557c9e016ebbfe77e7a",
-      "ref": "ridgeway-circular-walk---aldbourne-walking-and-cycle-route"
-    },
-    {
-      "description": "Hungerford",
-      "objectID": "1b8c1e0f82e483abe3eb8ad7900d8710",
-      "ref": "hungerford-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D919F59D1D0D7906862586E7004F8934/$FILE/Ramsbury.gpx",
-  "_geoloc": {
-    "lat": 51.4424583571,
-    "lng": -1.6015101045
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ramsbury%2C_Oxford_Street_-_geograph.org.uk_-_1529749.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0Ramsbury: Oxford Street",
-      "caption": "Ramsbury: Oxford Street. Looking north-eastwards from The Square up Oxford Street, there is a fine old yellow and black AA & MU road sign on the wall of the house on the left. It reads:\n\"Aldbourne 3 RAMSBURY. Marlborough 7 London 68 Erected by the A.A. & M.U.\"\nThe M.U. was the Motor Union and amalgamated with the Automobile Association around 1910, which gives a clue to the sign's age.\nCuriously, and possibly because it is in a different county to Ramsbury, Hungerford in Berkshire, which is only 5 miles away, did not warrant a mention on the sign."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/River_Kennet_at_Ramsbury_-_geograph.org.uk_-_1409635.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0River Kennet at Ramsbury",
-      "caption": "River Kennet at Ramsbury. Viewed from the bridge taking the road to Froxfield south out of Ramsbury the Kennet is so shallow here that the ducks can virtually walk across. The pair of swans have four cygnets this year."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ramsbury%2C_River_Kennet_bridge_-_geograph.org.uk_-_1528011.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0Ramsbury: River Kennet bridge",
-      "caption": "Ramsbury: River Kennet bridge. This is a mallard's eye view of the new bridge over the Kennet taking the road to Froxfield south out of the town. Old Victorian Ordnance Survey maps show that at that time only a ford and a footbridge crossed at this point. The bridge, although functional, is hardly a thing of beauty."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsbury%2C_The_High_Street_-_geograph.org.uk_-_1409729.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0Ramsbury: The High Street",
-      "caption": "This is the High Street with an old red telephone box, but with a rare old blue enamel sign above, on the corner of the building. Looking at old photographs of Ramsbury in the Francis Frith collection, it is evident that the centre of the town here, in The Square at the junction of the High Street, Oxford Street, Scholard's Lane and Back Lane, has historically been dominated by a large tree. Apparently it was an ancient wych elm that was eventually felled in 1986 because it had become too dangerous, and the current tree, which is an oak, was planted in its place the same year. There is a fine old pre-Worboys Report road sign on the building on the right. The A419 has long since disappeared from the road numbering system around here with the road between Swindon and Hungerford now downgraded to the B4192. The A419 still exists of course, but now only starts at Junction 15 of the M4 Motorway near Swindon heading north-westwards."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Kennet_valley%2C_Ramsbury_-_geograph.org.uk_-_857312.jpg",
-      "title": "Andrew Smith\u00a0/\u00a0The Kennet valley, Ramsbury",
-      "caption": "The Kennet valley, Ramsbury"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Swans_on_the_Kennet%2C_Axford_-_geograph.org.uk_-_1225814.jpg",
-      "title": "Brian Robert Marshall\u00a0/\u00a0Swans on the Kennet, Axford",
-      "caption": "Swans on the Kennet, Axford. The swans are a couple, cob and pen. The Kennet is quite clear and the weeds living in it are easily seen. The weather is shortly to change."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ramsbury%2C_Scholard%27s_Lane_-_geograph.org.uk_-_1409654.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0Ramsbury: Scholard's Lane",
-      "caption": "Ramsbury, Scholard's Lane. The early evening sun catches the inn sign and the whitewashed wall of an outbuilding of The Bell public house in this view looking, as the fine old pre-Worboys Committee sign says, towards Hungerford."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ramsbury%2C_The_Bell_-_geograph.org.uk_-_1529569.jpg",
-      "title": "Nigel Cox\u00a0/\u00a0Ramsbury: The Bell",
-      "caption": "The Bell, formerly the Bell Hotel, occupies the east side of The Square between Oxford Street to the left and Scholard's Lane to the right."
-    }
-  ],
-  "distance_km": 9.0,
-  "description": "This walk from the Wiltshire village of Ramsbury takes you along the River Kennet to the neighbouring village of Axford. You'll pass through Ramsbury Manor Park where there's woodland trails, a pretty lake and nice views of the countryside of the River Kennet valley. The village itself is very pretty with idyllic cottages and a fine old pub to relax in after your exercise. You can extend the walk by continuing west along the River to Mildenhall and Marlborough .",
-  "video_url": "https://www.youtube.com/embed/lmPLCxVFeF4",
-  "postcode": "SN8 2PN",
-  "district": "Ramsbury",
-  "county": "Wiltshire",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ramsbury%2C_Oxford_Street_-_geograph.org.uk_-_1529749.jpg",
+            "title": "Nigel Cox / Ramsbury: Oxford Street",
+            "caption": "Ramsbury: Oxford Street. Looking north-eastwards from The Square up Oxford Street, there is a fine old yellow and black AA & MU road sign on the wall of the house on the left. It reads:\n\"Aldbourne 3 RAMSBURY. Marlborough 7 London 68 Erected by the A.A. & M.U.\"\nThe M.U. was the Motor Union and amalgamated with the Automobile Association around 1910, which gives a clue to the sign's age.\nCuriously, and possibly because it is in a different county to Ramsbury, Hungerford in Berkshire, which is only 5 miles away, did not warrant a mention on the sign."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/River_Kennet_at_Ramsbury_-_geograph.org.uk_-_1409635.jpg",
+            "title": "Nigel Cox / River Kennet at Ramsbury",
+            "caption": "River Kennet at Ramsbury. Viewed from the bridge taking the road to Froxfield south out of Ramsbury the Kennet is so shallow here that the ducks can virtually walk across. The pair of swans have four cygnets this year."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/92/Ramsbury%2C_River_Kennet_bridge_-_geograph.org.uk_-_1528011.jpg",
+            "title": "Nigel Cox / Ramsbury: River Kennet bridge",
+            "caption": "Ramsbury: River Kennet bridge. This is a mallard's eye view of the new bridge over the Kennet taking the road to Froxfield south out of the town. Old Victorian Ordnance Survey maps show that at that time only a ford and a footbridge crossed at this point. The bridge, although functional, is hardly a thing of beauty."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Ramsbury%2C_The_High_Street_-_geograph.org.uk_-_1409729.jpg",
+            "title": "Nigel Cox / Ramsbury: The High Street",
+            "caption": "This is the High Street with an old red telephone box, but with a rare old blue enamel sign above, on the corner of the building. Looking at old photographs of Ramsbury in the Francis Frith collection, it is evident that the centre of the town here, in The Square at the junction of the High Street, Oxford Street, Scholard's Lane and Back Lane, has historically been dominated by a large tree. Apparently it was an ancient wych elm that was eventually felled in 1986 because it had become too dangerous, and the current tree, which is an oak, was planted in its place the same year. There is a fine old pre-Worboys Report road sign on the building on the right. The A419 has long since disappeared from the road numbering system around here with the road between Swindon and Hungerford now downgraded to the B4192. The A419 still exists of course, but now only starts at Junction 15 of the M4 Motorway near Swindon heading north-westwards."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/The_Kennet_valley%2C_Ramsbury_-_geograph.org.uk_-_857312.jpg",
+            "title": "Andrew Smith / The Kennet valley, Ramsbury",
+            "caption": "The Kennet valley, Ramsbury"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Swans_on_the_Kennet%2C_Axford_-_geograph.org.uk_-_1225814.jpg",
+            "title": "Brian Robert Marshall / Swans on the Kennet, Axford",
+            "caption": "Swans on the Kennet, Axford. The swans are a couple, cob and pen. The Kennet is quite clear and the weeds living in it are easily seen. The weather is shortly to change."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Ramsbury%2C_Scholard%27s_Lane_-_geograph.org.uk_-_1409654.jpg",
+            "title": "Nigel Cox / Ramsbury: Scholard's Lane",
+            "caption": "Ramsbury, Scholard's Lane. The early evening sun catches the inn sign and the whitewashed wall of an outbuilding of The Bell public house in this view looking, as the fine old pre-Worboys Committee sign says, towards Hungerford."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/Ramsbury%2C_The_Bell_-_geograph.org.uk_-_1529569.jpg",
+            "title": "Nigel Cox / Ramsbury: The Bell",
+            "caption": "The Bell, formerly the Bell Hotel, occupies the east side of The Square between Oxford Street to the left and Scholard's Lane to the right."
+        }
+    ],
+    "distance_km": 9.0,
+    "description": "This walk from the Wiltshire village of Ramsbury takes you along the River Kennet to the neighbouring village of Axford. You'll pass through Ramsbury Manor Park where there's woodland trails, a pretty lake and nice views of the countryside of the River Kennet valley. The village itself is very pretty with idyllic cottages and a fine old pub to relax in after your exercise. You can extend the walk by continuing west along the River to Mildenhall and Marlborough .",
+    "video_url": "https://www.youtube.com/embed/lmPLCxVFeF4",
+    "postcode": "SN8 2PN",
+    "district": "Ramsbury",
+    "county": "Wiltshire",
+    "region": "South West",
+    "country": "England"
 }

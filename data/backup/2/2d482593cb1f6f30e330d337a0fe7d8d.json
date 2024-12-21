@@ -1,73 +1,73 @@
 {
-  "objectID": "2d482593cb1f6f30e330d337a0fe7d8d",
-  "created_at": "2024-12-18T11:45:12.124460+00:00",
-  "ref": "clocaenog-forest-walking-and-cycle-route",
-  "title": "Clocaenog Forest Walks and Mtb",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg/256px-Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg",
-  "nearby": [
-    {
-      "description": "Brenig Way",
-      "objectID": "5c65518f33f26c6dd5309eb1f6b60a3f",
-      "ref": "brenig-way-walking-route"
+    "objectID": "2d482593cb1f6f30e330d337a0fe7d8d",
+    "created_at": "2024-12-18T11:45:12.124460+00:00",
+    "ref": "clocaenog-forest-walking-and-cycle-route",
+    "title": "Clocaenog Forest Walks and Mtb",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg/256px-Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg",
+    "nearby": [
+        {
+            "description": "Brenig Way",
+            "objectID": "5c65518f33f26c6dd5309eb1f6b60a3f",
+            "ref": "brenig-way-walking-route"
+        },
+        {
+            "description": "Llyn Brenig",
+            "objectID": "0e27383dad9e75025ecac89f7c828a40",
+            "ref": "llyn-brenig-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/2B62694CE831661A852582560036C4F9/$FILE/Clocaenog Forest.gpx",
+    "_geoloc": {
+        "lat": 53.0899329301,
+        "lng": -3.3983289424
     },
-    {
-      "description": "Llyn Brenig",
-      "objectID": "0e27383dad9e75025ecac89f7c828a40",
-      "ref": "llyn-brenig-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/2B62694CE831661A852582560036C4F9/$FILE/Clocaenog Forest.gpx",
-  "_geoloc": {
-    "lat": 53.0899329301,
-    "lng": -3.3983289424
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg/256px-Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg",
-      "title": "Eirian Evans\u00a0/\u00a0Monument on Pincyn Llys, via Wikimedia Commons",
-      "caption": "Monument on Pincyn Llys. The monument was erected by Lord Bogot from Llanfwrog in 1830, probably on the site of a cairn. There area great views east from here across the Vale of Clwyd, the Arans to the southwest and the Berwyns to the southeast."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Forestry_clearing_-_geograph.org.uk_-_218880.jpg",
-      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Forestry clearing"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Clocaenog_Forest_-_geograph.org.uk_-_322656.jpg",
-      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Clocaenog Forest with hills in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clocaenog_forest_-_geograph.org.uk_-_322652.jpg",
-      "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Forest road"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bridge_over_river_near_the_edge_of_Clocaenog_Forest_-_geograph.org.uk_-_4054021.jpg/512px-Bridge_over_river_near_the_edge_of_Clocaenog_Forest_-_geograph.org.uk_-_4054021.jpg",
-      "title": "Bridge over river near the edge of Clocaenog Forest by\u00a0Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bridge over river near the edge of Clocaenog Forest"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clocaenog_Forest_-_geograph.org.uk_-_115370.jpg",
-      "title": "David Medcalf\u00a0/\u00a0Clocaenog Forest",
-      "caption": "The area in the foreground was cleared of trees some years ago and is being repopulated naturally with scrub."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Clocaenog_Forest_-_geograph.org.uk_-_161267.jpg",
-      "title": "Eirian Evans\u00a0/\u00a0Clocaenog Forest",
-      "caption": "View of surrounding countryside from the edge of the woods. If you look very carefully at the gorse, you can just about see the new planting of pines emerging."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Clocaenog_lane_-_geograph.org.uk_-_176040.jpg",
-      "title": "Dot Potter\u00a0/\u00a0Clocaenog lane",
-      "caption": "One of the many minor lanes and tracks that run through the Clocaenog forest"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This expansive forest in Denbighshire has miles of walking and cycling trails to try. It covers 100km2 and is located at the southern end of Hiraethog Moor, near Ruthin. There's miles of peaceful woodland trails, heather moorland, pretty streams, waterfalls and lots of wildlife to see. In particular look out for the red squirrels, crossbill, wild horses and the rare black grouse. This circular walk takes you up to Lord Bagot's monument where there are fine views over the forest and surrounding hills. It's located in the eastern end of the forest near to the village of Clocaenog. The walk starts from the Pincyn Llys car park just to the south of the viewpoint. The 19th century monument commemorates the planting of a conifer forest, later cut down during the First World War to provide wooden props for the trenches and coal mines. It's a great viewpoint with fine views over the the Vale of Clwyd. After passing the monument head south west to Cefn Du to turn it into a circular walk. Although this route is designed for walkers there's miles of great trails for mountain bikers too. See the maps below for details. At the eastern end of the forest you can pick up the Brenig Way long distance trail and visit the beautiful Llyn Brenig .",
-  "video_url": "https://www.youtube.com/embed/bahM1rauMKQ",
-  "postcode": "LL15 2DF",
-  "county": "Sir Ddinbych - Denbighshire",
-  "region": "Wales",
-  "country": "Wales"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg/256px-Monument_on_Pincyn_Llys_-_geograph.org.uk_-_1587669.jpg",
+            "title": "Eirian Evans / Monument on Pincyn Llys, via Wikimedia Commons",
+            "caption": "Monument on Pincyn Llys. The monument was erected by Lord Bogot from Llanfwrog in 1830, probably on the site of a cairn. There area great views east from here across the Vale of Clwyd, the Arans to the southwest and the Berwyns to the southeast."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Forestry_clearing_-_geograph.org.uk_-_218880.jpg",
+            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Forestry clearing"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Clocaenog_Forest_-_geograph.org.uk_-_322656.jpg",
+            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Clocaenog Forest with hills in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clocaenog_forest_-_geograph.org.uk_-_322652.jpg",
+            "title": "Eirian Evans [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Forest road"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bridge_over_river_near_the_edge_of_Clocaenog_Forest_-_geograph.org.uk_-_4054021.jpg/512px-Bridge_over_river_near_the_edge_of_Clocaenog_Forest_-_geograph.org.uk_-_4054021.jpg",
+            "title": "Bridge over river near the edge of Clocaenog Forest by Andrew Hill, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Bridge over river near the edge of Clocaenog Forest"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Clocaenog_Forest_-_geograph.org.uk_-_115370.jpg",
+            "title": "David Medcalf / Clocaenog Forest",
+            "caption": "The area in the foreground was cleared of trees some years ago and is being repopulated naturally with scrub."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Clocaenog_Forest_-_geograph.org.uk_-_161267.jpg",
+            "title": "Eirian Evans / Clocaenog Forest",
+            "caption": "View of surrounding countryside from the edge of the woods. If you look very carefully at the gorse, you can just about see the new planting of pines emerging."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Clocaenog_lane_-_geograph.org.uk_-_176040.jpg",
+            "title": "Dot Potter / Clocaenog lane",
+            "caption": "One of the many minor lanes and tracks that run through the Clocaenog forest"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This expansive forest in Denbighshire has miles of walking and cycling trails to try. It covers 100km2 and is located at the southern end of Hiraethog Moor, near Ruthin. There's miles of peaceful woodland trails, heather moorland, pretty streams, waterfalls and lots of wildlife to see. In particular look out for the red squirrels, crossbill, wild horses and the rare black grouse. This circular walk takes you up to Lord Bagot's monument where there are fine views over the forest and surrounding hills. It's located in the eastern end of the forest near to the village of Clocaenog. The walk starts from the Pincyn Llys car park just to the south of the viewpoint. The 19th century monument commemorates the planting of a conifer forest, later cut down during the First World War to provide wooden props for the trenches and coal mines. It's a great viewpoint with fine views over the the Vale of Clwyd. After passing the monument head south west to Cefn Du to turn it into a circular walk. Although this route is designed for walkers there's miles of great trails for mountain bikers too. See the maps below for details. At the eastern end of the forest you can pick up the Brenig Way long distance trail and visit the beautiful Llyn Brenig .",
+    "video_url": "https://www.youtube.com/embed/bahM1rauMKQ",
+    "postcode": "LL15 2DF",
+    "county": "Sir Ddinbych - Denbighshire",
+    "region": "Wales",
+    "country": "Wales"
 }

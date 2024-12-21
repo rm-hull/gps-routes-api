@@ -1,113 +1,113 @@
 {
-  "objectID": "e6fb00eb3504bc7a2d3ad46d1d85058a",
-  "created_at": "2024-12-19T16:14:54.811466+00:00",
-  "ref": "caerphilly-mountain-walking-route",
-  "title": "Caerphilly Mountain Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Caerphilly_Common_-_geograph.org.uk_-_359761.jpg",
-  "nearby": [
-    {
-      "description": "Glamorgan Ridgeway Walk",
-      "objectID": "70fa1ea4568f1b35381d45d56fdd87ab",
-      "ref": "glamorgan-ridgeway-walk-walking-route"
+    "objectID": "e6fb00eb3504bc7a2d3ad46d1d85058a",
+    "created_at": "2024-12-19T16:14:54.811466+00:00",
+    "ref": "caerphilly-mountain-walking-route",
+    "title": "Caerphilly Mountain Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Caerphilly_Common_-_geograph.org.uk_-_359761.jpg",
+    "nearby": [
+        {
+            "description": "Glamorgan Ridgeway Walk",
+            "objectID": "70fa1ea4568f1b35381d45d56fdd87ab",
+            "ref": "glamorgan-ridgeway-walk-walking-route"
+        },
+        {
+            "description": "Taff Ely Ridgeway Walk",
+            "objectID": "e00998538767837a6f9e4d7b86a3fd6c",
+            "ref": "taff-ely-ridgeway-walk-walking-route"
+        },
+        {
+            "description": "Garth Hill",
+            "objectID": "fedd4eecaab443f42ffa0f62b2513220",
+            "ref": "garth-hill-walking-route"
+        },
+        {
+            "description": "Taff Trail",
+            "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
+            "ref": "taff-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Pontypridd",
+            "objectID": "bef173622c09cca2e623cdfc34b3a8a3",
+            "ref": "pontypridd-walking-route"
+        },
+        {
+            "description": "Rhymney Valley Ridgeway Walk",
+            "objectID": "2b2ba05fe6353b9c589064142eedd58d",
+            "ref": "rhymney-valley-ridgeway-walk-walking-route"
+        },
+        {
+            "description": "Llantrisant",
+            "objectID": "3f225f6bb846986f3875c97315194965",
+            "ref": "llantrisant-walking-route"
+        },
+        {
+            "description": "Rudry",
+            "objectID": "f287cc3049974fb59a287e54172d8bb3",
+            "ref": "rudry-walking-route"
+        },
+        {
+            "description": "Brombil Reservoir",
+            "objectID": "2919d3e4d9cfa57185a2703869c774fc",
+            "ref": "brombil-reservoir-walking-route"
+        },
+        {
+            "description": "Barry Sidings",
+            "objectID": "3296acbfaef6c452dba7af85b20b8496",
+            "ref": "barry-sidings-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/503A39946EE7051A8525811B00355901/$FILE/Caerphilly Mountain.gpx",
+    "_geoloc": {
+        "lat": 51.5599979103,
+        "lng": -3.2195031796
     },
-    {
-      "description": "Taff Ely Ridgeway Walk",
-      "objectID": "e00998538767837a6f9e4d7b86a3fd6c",
-      "ref": "taff-ely-ridgeway-walk-walking-route"
-    },
-    {
-      "description": "Garth Hill",
-      "objectID": "fedd4eecaab443f42ffa0f62b2513220",
-      "ref": "garth-hill-walking-route"
-    },
-    {
-      "description": "Taff Trail",
-      "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
-      "ref": "taff-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Pontypridd",
-      "objectID": "bef173622c09cca2e623cdfc34b3a8a3",
-      "ref": "pontypridd-walking-route"
-    },
-    {
-      "description": "Rhymney Valley Ridgeway Walk",
-      "objectID": "2b2ba05fe6353b9c589064142eedd58d",
-      "ref": "rhymney-valley-ridgeway-walk-walking-route"
-    },
-    {
-      "description": "Llantrisant",
-      "objectID": "3f225f6bb846986f3875c97315194965",
-      "ref": "llantrisant-walking-route"
-    },
-    {
-      "description": "Rudry",
-      "objectID": "f287cc3049974fb59a287e54172d8bb3",
-      "ref": "rudry-walking-route"
-    },
-    {
-      "description": "Brombil Reservoir",
-      "objectID": "2919d3e4d9cfa57185a2703869c774fc",
-      "ref": "brombil-reservoir-walking-route"
-    },
-    {
-      "description": "Barry Sidings",
-      "objectID": "3296acbfaef6c452dba7af85b20b8496",
-      "ref": "barry-sidings-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/503A39946EE7051A8525811B00355901/$FILE/Caerphilly Mountain.gpx",
-  "_geoloc": {
-    "lat": 51.5599979103,
-    "lng": -3.2195031796
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Caerphilly_Common_-_geograph.org.uk_-_359761.jpg",
-      "title": "Peter Wasp\u00a0/\u00a0Caerphilly Common",
-      "caption": "Caerphilly Common. This path leads up to the common from the B4600, opposite The Mountain View Snack Lodge car park"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Caerphilly_Mountain_Snack_Bar.jpg",
-      "title": "Jaggery\u00a0/\u00a0Old and new, Caerphilly Mountain Snack Bar",
-      "caption": "Caerphilly Mountain Snack Bar. Situated next to a small car park on the edge of Caerphilly Common. Next to the shack a sign says \"Probably the longest established snack bar in the UK, (Est 1957)\"."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Caerphilly_Mountain_-_geograph.org.uk_-_434346.jpg",
-      "title": "Kev Griffin\u00a0/\u00a0Caerphilly Mountain",
-      "caption": "Caerphilly Mountain. Garth Hill can be seen in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Plaque_on_Caerphilly_Common_-_geograph.org.uk_-_1767439.jpg",
-      "title": "Robin Drayton\u00a0/\u00a0Plaque on Caerphilly Common",
-      "caption": "Plaque on Caerphilly Common. Looking north-west from the top of Caerphilly Common towards Mynydd Meio.\nThe small stone pillar in the foreground, which is not far from the trig point\u00a0, carries just a slate tablet that has a verse from the Bible in Welsh and English. The English being \"O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. Psalm 104,24\".\nA similar plaque is located some miles away."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Caerphilly_Common_Trig_Point_-_geograph.org.uk_-_1762671.jpg",
-      "title": "Robin Drayton\u00a0/\u00a0Caerphilly Common Trig Point",
-      "caption": "Caerphilly Common Trig Point. Overlooking the town with the castle\u00a0just visible over the brow of the foreground to the left of the pillar. At the top left of the view the Rhymney Valley goes away into the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Disused_quarry%2C_Caerphilly_Common_-_geograph.org.uk_-_1936375.jpg/512px-Disused_quarry%2C_Caerphilly_Common_-_geograph.org.uk_-_1936375.jpg",
-      "title": "Disused quarry, Caerphilly Common by\u00a0John Lord, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Disused quarry, Caerphilly Common"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Caerphilly_Castle_-_geograph.org.uk_-_372543.jpg",
-      "title": "Roger Cornfoot\u00a0/\u00a0Caerphilly Castle",
-      "caption": "Caerphilly Castle. Viewed over the dammed-up waters of the Nant-y-Glydr river. The medieval castle occupies around 30 acres (12\u00a0ha) and is the largest castle in Wales and the second-largest castle in the United Kingdom after\u00a0Windsor Castle."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gorsedd_Stones%2C_Caerphilly_-_geograph.org.uk_-_1964716.jpg",
-      "title": "Gorsedd Stones, Caerphilly by\u00a0Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Gorsedd Stones, in the town. \u00a0These groups of\u00a0standing stones are\u00a0constructed for the\u00a0National Eisteddfod\u00a0of\u00a0Wales. They form an integral part of the druidic\u00a0Gorsedd\u00a0ceremonies of the Eisteddfod."
-    }
-  ],
-  "distance_km": 1.0,
-  "description": "Enjoy a climb to the summit of Caerphilly Mountain and a walk across Caerphilly Common on this circular route in South Wales. You can park at the Caerphilly Mountain Snack Bar car park on Mountain Road to start your walk. From here you can pick up the tracks to take you to the 271 metres (889\u00a0ft) summit where there are fabulous views over the town and Caerphilly Castle. There are a few different paths to choose from. Most of them are good wide trails though they can get muddy in winter. After your walk you can enjoy refreshments at the snack bar. The Taff Ely Ridgeway Walk passes the common so you can pick up this long distance trail to continue your walk. The waymarked trail starts on the common and will take you to Garth Hill , the Ely Valley and the Taff Vale. The Glamorgan Ridgeway Walk also passes the mountain. It's a long distance ridge top walk which takes you to Llantrisant forest and Margam Country Park . The splendid 13th century Caerphilly Castle also has some nice footpaths around the its\u00a0network of moats and dams. There's also the unusual turquoise coloured Brombil Reservoir on the fringe of the park.",
-  "video_url": "https://www.youtube.com/embed/FbRZq3upYMc",
-  "postcode": "CF83 1JA",
-  "county": "Caerffili - Caerphilly",
-  "region": "Wales",
-  "country": "Wales"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Caerphilly_Common_-_geograph.org.uk_-_359761.jpg",
+            "title": "Peter Wasp / Caerphilly Common",
+            "caption": "Caerphilly Common. This path leads up to the common from the B4600, opposite The Mountain View Snack Lodge car park"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Caerphilly_Mountain_Snack_Bar.jpg",
+            "title": "Jaggery / Old and new, Caerphilly Mountain Snack Bar",
+            "caption": "Caerphilly Mountain Snack Bar. Situated next to a small car park on the edge of Caerphilly Common. Next to the shack a sign says \"Probably the longest established snack bar in the UK, (Est 1957)\"."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Caerphilly_Mountain_-_geograph.org.uk_-_434346.jpg",
+            "title": "Kev Griffin / Caerphilly Mountain",
+            "caption": "Caerphilly Mountain. Garth Hill can be seen in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Plaque_on_Caerphilly_Common_-_geograph.org.uk_-_1767439.jpg",
+            "title": "Robin Drayton / Plaque on Caerphilly Common",
+            "caption": "Plaque on Caerphilly Common. Looking north-west from the top of Caerphilly Common towards Mynydd Meio.\nThe small stone pillar in the foreground, which is not far from the trig point , carries just a slate tablet that has a verse from the Bible in Welsh and English. The English being \"O Lord, how manifold are thy works! in wisdom hast thou made them all: the earth is full of thy riches. Psalm 104,24\".\nA similar plaque is located some miles away."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Caerphilly_Common_Trig_Point_-_geograph.org.uk_-_1762671.jpg",
+            "title": "Robin Drayton / Caerphilly Common Trig Point",
+            "caption": "Caerphilly Common Trig Point. Overlooking the town with the castle just visible over the brow of the foreground to the left of the pillar. At the top left of the view the Rhymney Valley goes away into the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Disused_quarry%2C_Caerphilly_Common_-_geograph.org.uk_-_1936375.jpg/512px-Disused_quarry%2C_Caerphilly_Common_-_geograph.org.uk_-_1936375.jpg",
+            "title": "Disused quarry, Caerphilly Common by John Lord, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Disused quarry, Caerphilly Common"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Caerphilly_Castle_-_geograph.org.uk_-_372543.jpg",
+            "title": "Roger Cornfoot / Caerphilly Castle",
+            "caption": "Caerphilly Castle. Viewed over the dammed-up waters of the Nant-y-Glydr river. The medieval castle occupies around 30 acres (12 ha) and is the largest castle in Wales and the second-largest castle in the United Kingdom after Windsor Castle."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Gorsedd_Stones%2C_Caerphilly_-_geograph.org.uk_-_1964716.jpg",
+            "title": "Gorsedd Stones, Caerphilly by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Gorsedd Stones, in the town.  These groups of standing stones are constructed for the National Eisteddfod of Wales. They form an integral part of the druidic Gorsedd ceremonies of the Eisteddfod."
+        }
+    ],
+    "distance_km": 1.0,
+    "description": "Enjoy a climb to the summit of Caerphilly Mountain and a walk across Caerphilly Common on this circular route in South Wales. You can park at the Caerphilly Mountain Snack Bar car park on Mountain Road to start your walk. From here you can pick up the tracks to take you to the 271 metres (889 ft) summit where there are fabulous views over the town and Caerphilly Castle. There are a few different paths to choose from. Most of them are good wide trails though they can get muddy in winter. After your walk you can enjoy refreshments at the snack bar. The Taff Ely Ridgeway Walk passes the common so you can pick up this long distance trail to continue your walk. The waymarked trail starts on the common and will take you to Garth Hill , the Ely Valley and the Taff Vale. The Glamorgan Ridgeway Walk also passes the mountain. It's a long distance ridge top walk which takes you to Llantrisant forest and Margam Country Park . The splendid 13th century Caerphilly Castle also has some nice footpaths around the its network of moats and dams. There's also the unusual turquoise coloured Brombil Reservoir on the fringe of the park.",
+    "video_url": "https://www.youtube.com/embed/FbRZq3upYMc",
+    "postcode": "CF83 1JA",
+    "county": "Caerffili - Caerphilly",
+    "region": "Wales",
+    "country": "Wales"
 }

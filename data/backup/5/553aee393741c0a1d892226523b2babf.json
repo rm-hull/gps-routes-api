@@ -1,89 +1,89 @@
 {
-  "objectID": "553aee393741c0a1d892226523b2babf",
-  "created_at": "2024-12-18T16:41:14.647604+00:00",
-  "ref": "bignor-hill-walking-and-cycle-route",
-  "title": "Bignor Hill Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bignor_Hill_-_geograph.org.uk_-_236552.jpg",
-  "nearby": [
-    {
-      "description": "The South Downs Way",
-      "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
-      "ref": "the-south-downs-way-walking-route"
+    "objectID": "553aee393741c0a1d892226523b2babf",
+    "created_at": "2024-12-18T16:41:14.647604+00:00",
+    "ref": "bignor-hill-walking-and-cycle-route",
+    "title": "Bignor Hill Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bignor_Hill_-_geograph.org.uk_-_236552.jpg",
+    "nearby": [
+        {
+            "description": "The South Downs Way",
+            "objectID": "e61ceb24a28678cb8e0ca7bbd9f413cb",
+            "ref": "the-south-downs-way-walking-route"
+        },
+        {
+            "description": "Houghton Forest",
+            "objectID": "ad4db99d0c647475651aca050ebc3a11",
+            "ref": "houghton-forest-walking-and-cycle-route"
+        },
+        {
+            "description": "Slindon Estate",
+            "objectID": "b01279a6808337c1a74e498a66d199c1",
+            "ref": "slindon-estate-walking-route"
+        },
+        {
+            "description": "Eartham Woods",
+            "objectID": "1a3b76e8de57987b3a805074a7364024",
+            "ref": "eartham-woods-walking-route"
+        },
+        {
+            "description": "Rackham Woods",
+            "objectID": "3683204c24f53c6c8d8fb76776c247ce",
+            "ref": "rackham-woods-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/E13FD5DC02FA9F31852581D20043BBD9/$FILE/Bignor Hill.gpx",
+    "_geoloc": {
+        "lat": 50.8970452096,
+        "lng": -0.5427907711
     },
-    {
-      "description": "Houghton Forest",
-      "objectID": "ad4db99d0c647475651aca050ebc3a11",
-      "ref": "houghton-forest-walking-and-cycle-route"
-    },
-    {
-      "description": "Slindon Estate",
-      "objectID": "b01279a6808337c1a74e498a66d199c1",
-      "ref": "slindon-estate-walking-route"
-    },
-    {
-      "description": "Eartham Woods",
-      "objectID": "1a3b76e8de57987b3a805074a7364024",
-      "ref": "eartham-woods-walking-route"
-    },
-    {
-      "description": "Rackham Woods",
-      "objectID": "3683204c24f53c6c8d8fb76776c247ce",
-      "ref": "rackham-woods-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/E13FD5DC02FA9F31852581D20043BBD9/$FILE/Bignor Hill.gpx",
-  "_geoloc": {
-    "lat": 50.8970452096,
-    "lng": -0.5427907711
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bignor_Hill_-_geograph.org.uk_-_236552.jpg",
-      "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "A late summer view of Bignor Hill from Glatting Beacon."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/South_Downs_Way_on_Bignor_Hill_-_geograph.org.uk_-_1004860.jpg",
-      "title": "Chris Gunns [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "South Downs Way on Bignor Hill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/View_from_Bignor_Hill_-_geograph.org.uk_-_236555.jpg",
-      "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "View from Bignor Hill. The featureless flat land to the left are Amberley Wild Brooks which is just beyond the River Arun whose meanders can just be made out. The village of Amberley can be traced by the trees around the centre. The northern esarpment of the South Downs can be followed with both Chanctonbury and Cissbury Rings visible."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/South_Downs_Way%2C_Bignor_Hill_-_geograph.org.uk_-_236554.jpg",
-      "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "South Downs Way, Bignor Hill. Looking towards the peak from the eastern side."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_South_Downs_Way_ascending_Bignor_Hill_-_geograph.org.uk_-_2749065.jpg/512px-The_South_Downs_Way_ascending_Bignor_Hill_-_geograph.org.uk_-_2749065.jpg",
-      "title": "The South Downs Way ascending Bignor Hill by\u00a0Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The path view if ascending from the west."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Footpath_from_Bignor_Hill_towards_Westburton_Hill_-_geograph.org.uk_-_2545775.jpg",
-      "title": "Footpath from Bignor Hill towards Westburton Hill by\u00a0Chris Wimbush, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footpath from Bignor Hill towards Westburton Hill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/South_Downs_Way_in_Egg_Bottom_Coppice_-_geograph.org.uk_-_2421086.jpg/512px-South_Downs_Way_in_Egg_Bottom_Coppice_-_geograph.org.uk_-_2421086.jpg",
-      "title": "South Downs Way in Egg Bottom Coppice by\u00a0Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "South Downs Way in Egg Bottom Coppice"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/South_Downs_Way_near_Wesburton_Hill_-_geograph.org.uk_-_3941977.jpg/512px-South_Downs_Way_near_Wesburton_Hill_-_geograph.org.uk_-_3941977.jpg",
-      "title": "South Downs Way near Wesburton Hill by\u00a0Dave Kelly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Near Wesburton Hill"
-    }
-  ],
-  "distance_km": 11.2,
-  "description": "This walk or cycle climbs to Bignor Hill from the village of Amberley in West Sussex. It's a moderate climb of about 3.5 miles, following the South Downs Way for the duration of the route. It's a good path which is also suitable for cycling. If you prefer a shorter walk then you could park at the car park just half a mile west of the hill, and start your climb from there. This route starts off from Amberley train station, following a section of the River Arun out of the village. The waymarked path then heads west, past Coombe Wood before skirting the northern edge of Houghton Forest . You then climb past Bury Hill and Westburton Hill before arriving at the Bignor Hill summit. At over 700ft the hill commands wonderful views over the South Downs to the coast. To extend the walk you could follow the Monarch's Way south west along the Stane Street Roman Road to visit Eartham Woods . To turn it into a circular route you could head south east into Houghton Forest and return on the woodland trails to the village. You could also explore the countryside around the village on our Amberley Circular Walk .",
-  "video_url": "https://www.youtube.com/embed/se2mh3eiEuM",
-  "postcode": "BN18 9LP",
-  "district": "Amberley",
-  "county": "West Sussex",
-  "region": "South East",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bignor_Hill_-_geograph.org.uk_-_236552.jpg",
+            "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "A late summer view of Bignor Hill from Glatting Beacon."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/South_Downs_Way_on_Bignor_Hill_-_geograph.org.uk_-_1004860.jpg",
+            "title": "Chris Gunns [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "South Downs Way on Bignor Hill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/View_from_Bignor_Hill_-_geograph.org.uk_-_236555.jpg",
+            "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "View from Bignor Hill. The featureless flat land to the left are Amberley Wild Brooks which is just beyond the River Arun whose meanders can just be made out. The village of Amberley can be traced by the trees around the centre. The northern esarpment of the South Downs can be followed with both Chanctonbury and Cissbury Rings visible."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/South_Downs_Way%2C_Bignor_Hill_-_geograph.org.uk_-_236554.jpg",
+            "title": "Simon Carey [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "South Downs Way, Bignor Hill. Looking towards the peak from the eastern side."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/The_South_Downs_Way_ascending_Bignor_Hill_-_geograph.org.uk_-_2749065.jpg/512px-The_South_Downs_Way_ascending_Bignor_Hill_-_geograph.org.uk_-_2749065.jpg",
+            "title": "The South Downs Way ascending Bignor Hill by Shazz, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The path view if ascending from the west."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Footpath_from_Bignor_Hill_towards_Westburton_Hill_-_geograph.org.uk_-_2545775.jpg",
+            "title": "Footpath from Bignor Hill towards Westburton Hill by Chris Wimbush, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footpath from Bignor Hill towards Westburton Hill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/South_Downs_Way_in_Egg_Bottom_Coppice_-_geograph.org.uk_-_2421086.jpg/512px-South_Downs_Way_in_Egg_Bottom_Coppice_-_geograph.org.uk_-_2421086.jpg",
+            "title": "South Downs Way in Egg Bottom Coppice by Chris Heaton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "South Downs Way in Egg Bottom Coppice"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/South_Downs_Way_near_Wesburton_Hill_-_geograph.org.uk_-_3941977.jpg/512px-South_Downs_Way_near_Wesburton_Hill_-_geograph.org.uk_-_3941977.jpg",
+            "title": "South Downs Way near Wesburton Hill by Dave Kelly, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Near Wesburton Hill"
+        }
+    ],
+    "distance_km": 11.2,
+    "description": "This walk or cycle climbs to Bignor Hill from the village of Amberley in West Sussex. It's a moderate climb of about 3.5 miles, following the South Downs Way for the duration of the route. It's a good path which is also suitable for cycling. If you prefer a shorter walk then you could park at the car park just half a mile west of the hill, and start your climb from there. This route starts off from Amberley train station, following a section of the River Arun out of the village. The waymarked path then heads west, past Coombe Wood before skirting the northern edge of Houghton Forest . You then climb past Bury Hill and Westburton Hill before arriving at the Bignor Hill summit. At over 700ft the hill commands wonderful views over the South Downs to the coast. To extend the walk you could follow the Monarch's Way south west along the Stane Street Roman Road to visit Eartham Woods . To turn it into a circular route you could head south east into Houghton Forest and return on the woodland trails to the village. You could also explore the countryside around the village on our Amberley Circular Walk .",
+    "video_url": "https://www.youtube.com/embed/se2mh3eiEuM",
+    "postcode": "BN18 9LP",
+    "district": "Amberley",
+    "county": "West Sussex",
+    "region": "South East",
+    "country": "England"
 }

@@ -1,82 +1,82 @@
 {
-  "objectID": "224654e1043192854f5d38cee0c3d314",
-  "created_at": "2024-12-18T12:18:37.530787+00:00",
-  "ref": "hoddom-castle-walking-route",
-  "title": "Hoddom Castle Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg/512px-Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg",
-  "nearby": [
-    {
-      "description": "Annandale Way",
-      "objectID": "df039bc3cc653ddcc1e1aec52e8f0157",
-      "ref": "annandale-way-walking-route"
+    "objectID": "224654e1043192854f5d38cee0c3d314",
+    "created_at": "2024-12-18T12:18:37.530787+00:00",
+    "ref": "hoddom-castle-walking-route",
+    "title": "Hoddom Castle Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg/512px-Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg",
+    "nearby": [
+        {
+            "description": "Annandale Way",
+            "objectID": "df039bc3cc653ddcc1e1aec52e8f0157",
+            "ref": "annandale-way-walking-route"
+        },
+        {
+            "description": "Powfoot Beach Walk",
+            "objectID": "4bc34ba03c9ff3e21c53ebcdc110d9df",
+            "ref": "powfoot-beach-walk"
+        },
+        {
+            "description": "Burnswark Hill",
+            "objectID": "ce11732bb80d08f154a9e1991622f2ef",
+            "ref": "burnswark-hill-walking-route"
+        },
+        {
+            "description": "Lochmaben",
+            "objectID": "6ce93194b37ec581ae6e0b5116d7fb74",
+            "ref": "lochmaben-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/097B9648AFBFB5E3862589EF0056CA3B/$FILE/Hoddom Castle.gpx",
+    "_geoloc": {
+        "lat": 55.0406937002,
+        "lng": -3.3119837224
     },
-    {
-      "description": "Powfoot Beach Walk",
-      "objectID": "4bc34ba03c9ff3e21c53ebcdc110d9df",
-      "ref": "powfoot-beach-walk"
-    },
-    {
-      "description": "Burnswark Hill",
-      "objectID": "ce11732bb80d08f154a9e1991622f2ef",
-      "ref": "burnswark-hill-walking-route"
-    },
-    {
-      "description": "Lochmaben",
-      "objectID": "6ce93194b37ec581ae6e0b5116d7fb74",
-      "ref": "lochmaben-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/097B9648AFBFB5E3862589EF0056CA3B/$FILE/Hoddom Castle.gpx",
-  "_geoloc": {
-    "lat": 55.0406937002,
-    "lng": -3.3119837224
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg/512px-Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg",
-      "title": "Boardwalk on the Hoddom Castle Trail by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Boardwalk on the Hoddom Castle Trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Reedbeds_in_the_Annan%2C_from_Mainholme_Bridge_-_geograph.org.uk_-_392010.jpg",
-      "title": "Mike and Kirsty Grundy\u00a0/\u00a0Reedbeds in the Annan, from Mainholme Bridge",
-      "caption": "Reedbeds in the Annan, from Mainholme Bridge"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hoddom_Castle_Trail_-_geograph.org.uk_-_4527852.jpg/512px-Hoddom_Castle_Trail_-_geograph.org.uk_-_4527852.jpg",
-      "title": "Hoddom Castle Trail by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Hoddom Castle Trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Annandale_Way_-_geograph.org.uk_-_4528321.jpg/512px-The_Annandale_Way_-_geograph.org.uk_-_4528321.jpg",
-      "title": "The Annandale Way by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Annandale Way"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hoddom_Castle_-_geograph.org.uk_-_4528454.jpg/512px-Hoddom_Castle_-_geograph.org.uk_-_4528454.jpg",
-      "title": "Hoddom Castle by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Hoddom Castle. The castle is protected as a category A\u00a0listed building. The lands of Hoddom belonged to the\u00a0Herries\u00a0family, allies of the Bruce family who were\u00a0Lords of Annandale\u00a0from 1124. It passed to the\u00a0Carruthers\u00a0family, and then to the\u00a0Maxwells"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Trail_in_Gannet_Wood_-_geograph.org.uk_-_4528173.jpg/512px-Trail_in_Gannet_Wood_-_geograph.org.uk_-_4528173.jpg",
-      "title": "Trail in Gannet Wood by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Trail in Gannet Wood"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/River_Annan_-_geograph.org.uk_-_4527872.jpg/512px-River_Annan_-_geograph.org.uk_-_4527872.jpg",
-      "title": "River Annan by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "River Annan"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoddom_Castle_Trail_-_geograph.org.uk_-_4528423.jpg/512px-Hoddom_Castle_Trail_-_geograph.org.uk_-_4528423.jpg",
-      "title": "Hoddom Castle Trail by\u00a0Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Hoddom Castle Trail"
-    }
-  ],
-  "distance_km": 2.4,
-  "description": "This circular walk explores the area around Hoddom Castle\u00a0near Ecclefechan in Dumfries and Galloway. The tower house dates to the 16th century and includes some pleasant grounds with riverside trails along River Annan. You can follow a circular trail around the castle taking you through woodland and along section of the Annandale Way long distance trail. Along the way you can look out for lots of birds in the woodland area and enjoy fine views across the river to the surrounding hills and countryside. The site is now home to a popular caravan park where there's a good range of accommodation options, The Coach House restaurant and a golf course. To continue your walking in the area follow the Annandale Way south to visit Annan. Here you can link up with the Powfoot Beach Walk and enjoy a stroll along the Solway Firth to the little village of Powfoot. If you head north along the river you could visit Lochmaben and enjoy a lovely waterside walk around Castle Loch.",
-  "video_url": "https://www.youtube.com/embed/-g5NMRvxlMA",
-  "county": "Dumfries and Galloway",
-  "region": "Scotland",
-  "country": "Scotland"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg/512px-Boardwalk_on_the_Hoddom_Castle_Trail_-_geograph.org.uk_-_4527766.jpg",
+            "title": "Boardwalk on the Hoddom Castle Trail by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Boardwalk on the Hoddom Castle Trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Reedbeds_in_the_Annan%2C_from_Mainholme_Bridge_-_geograph.org.uk_-_392010.jpg",
+            "title": "Mike and Kirsty Grundy / Reedbeds in the Annan, from Mainholme Bridge",
+            "caption": "Reedbeds in the Annan, from Mainholme Bridge"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hoddom_Castle_Trail_-_geograph.org.uk_-_4527852.jpg/512px-Hoddom_Castle_Trail_-_geograph.org.uk_-_4527852.jpg",
+            "title": "Hoddom Castle Trail by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Hoddom Castle Trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/The_Annandale_Way_-_geograph.org.uk_-_4528321.jpg/512px-The_Annandale_Way_-_geograph.org.uk_-_4528321.jpg",
+            "title": "The Annandale Way by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The Annandale Way"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hoddom_Castle_-_geograph.org.uk_-_4528454.jpg/512px-Hoddom_Castle_-_geograph.org.uk_-_4528454.jpg",
+            "title": "Hoddom Castle by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Hoddom Castle. The castle is protected as a category A listed building. The lands of Hoddom belonged to the Herries family, allies of the Bruce family who were Lords of Annandale from 1124. It passed to the Carruthers family, and then to the Maxwells"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Trail_in_Gannet_Wood_-_geograph.org.uk_-_4528173.jpg/512px-Trail_in_Gannet_Wood_-_geograph.org.uk_-_4528173.jpg",
+            "title": "Trail in Gannet Wood by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Trail in Gannet Wood"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/River_Annan_-_geograph.org.uk_-_4527872.jpg/512px-River_Annan_-_geograph.org.uk_-_4527872.jpg",
+            "title": "River Annan by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "River Annan"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hoddom_Castle_Trail_-_geograph.org.uk_-_4528423.jpg/512px-Hoddom_Castle_Trail_-_geograph.org.uk_-_4528423.jpg",
+            "title": "Hoddom Castle Trail by Billy McCrorie, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Hoddom Castle Trail"
+        }
+    ],
+    "distance_km": 2.4,
+    "description": "This circular walk explores the area around Hoddom Castle near Ecclefechan in Dumfries and Galloway. The tower house dates to the 16th century and includes some pleasant grounds with riverside trails along River Annan. You can follow a circular trail around the castle taking you through woodland and along section of the Annandale Way long distance trail. Along the way you can look out for lots of birds in the woodland area and enjoy fine views across the river to the surrounding hills and countryside. The site is now home to a popular caravan park where there's a good range of accommodation options, The Coach House restaurant and a golf course. To continue your walking in the area follow the Annandale Way south to visit Annan. Here you can link up with the Powfoot Beach Walk and enjoy a stroll along the Solway Firth to the little village of Powfoot. If you head north along the river you could visit Lochmaben and enjoy a lovely waterside walk around Castle Loch.",
+    "video_url": "https://www.youtube.com/embed/-g5NMRvxlMA",
+    "county": "Dumfries and Galloway",
+    "region": "Scotland",
+    "country": "Scotland"
 }

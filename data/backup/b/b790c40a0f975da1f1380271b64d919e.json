@@ -1,93 +1,93 @@
 {
-  "objectID": "b790c40a0f975da1f1380271b64d919e",
-  "created_at": "2024-12-18T18:38:30.030380+00:00",
-  "ref": "chelmer-and-blackwater-navigation-walking-route",
-  "title": "Chelmer and Blackwater Navigation Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chelmer_Traffic_-_geograph.org.uk_-_1226508.jpg",
-  "nearby": [
-    {
-      "description": "Danbury Common",
-      "objectID": "baeb9966ddcd6c9b63c758197707785b",
-      "ref": "danbury-common-walking-and-cycle-route"
+    "objectID": "b790c40a0f975da1f1380271b64d919e",
+    "created_at": "2024-12-18T18:38:30.030380+00:00",
+    "ref": "chelmer-and-blackwater-navigation-walking-route",
+    "title": "Chelmer and Blackwater Navigation Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chelmer_Traffic_-_geograph.org.uk_-_1226508.jpg",
+    "nearby": [
+        {
+            "description": "Danbury Common",
+            "objectID": "baeb9966ddcd6c9b63c758197707785b",
+            "ref": "danbury-common-walking-and-cycle-route"
+        },
+        {
+            "description": "Danbury Country Park",
+            "objectID": "5b72e7516929a13798749e376afe3438",
+            "ref": "danbury-country-park-walking-route"
+        },
+        {
+            "description": "Chelmsford",
+            "objectID": "94b758bb80a2d6de2d29eadb16929751",
+            "ref": "chelmsford-walking-route"
+        },
+        {
+            "description": "Heybridge Basin",
+            "objectID": "d3a1bf77d3e246b4a6723f90ee3f0bdd",
+            "ref": "heybridge-basin-walking-route"
+        },
+        {
+            "description": "Blackwater Estuary",
+            "objectID": "babc6834b61398b0b0c77b9148a0bf9d",
+            "ref": "blackwater-estuary-walking-route"
+        },
+        {
+            "description": "Paper Mill Lock",
+            "objectID": "c699a561396f2e04f3b361bf2a414b06",
+            "ref": "paper-mill-lock-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3214D59E80A42DC380257EBD0075A81C/$FILE/Chelmer and Blackwater Navigation.gpx",
+    "_geoloc": {
+        "lat": 51.7361081823,
+        "lng": 0.4685825603
     },
-    {
-      "description": "Danbury Country Park",
-      "objectID": "5b72e7516929a13798749e376afe3438",
-      "ref": "danbury-country-park-walking-route"
-    },
-    {
-      "description": "Chelmsford",
-      "objectID": "94b758bb80a2d6de2d29eadb16929751",
-      "ref": "chelmsford-walking-route"
-    },
-    {
-      "description": "Heybridge Basin",
-      "objectID": "d3a1bf77d3e246b4a6723f90ee3f0bdd",
-      "ref": "heybridge-basin-walking-route"
-    },
-    {
-      "description": "Blackwater Estuary",
-      "objectID": "babc6834b61398b0b0c77b9148a0bf9d",
-      "ref": "blackwater-estuary-walking-route"
-    },
-    {
-      "description": "Paper Mill Lock",
-      "objectID": "c699a561396f2e04f3b361bf2a414b06",
-      "ref": "paper-mill-lock-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3214D59E80A42DC380257EBD0075A81C/$FILE/Chelmer and Blackwater Navigation.gpx",
-  "_geoloc": {
-    "lat": 51.7361081823,
-    "lng": 0.4685825603
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chelmer_Traffic_-_geograph.org.uk_-_1226508.jpg",
-      "title": "Glyn Baker\u00a0/\u00a0Chelmer Traffic, via Wikimedia Commons",
-      "caption": "Chelmer Traffic. The Navigation was opened to traffic in 1797 and was used mainly for the transport of coal bricks & timber from Maldon to Chelmsford. Today it is used almost exclusively for pleasure craft."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Paper_Mill_Lock_Weir_-_geograph.org.uk_-_1226363.jpg",
-      "title": "Glyn Baker\u00a0/\u00a0Paper Mill Lock Weir, via Wikimedia Commons",
-      "caption": "Paper Mill Lock Weir"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chelmer_and_Blackwater_Navigation_at_Sandford_-_geograph.org.uk_-_1640063.jpg",
-      "title": "Colin Park\u00a0/\u00a0Chelmer & Blackwater Navigation at Sandford, via Wikimedia Commons",
-      "caption": "Chelmer and Blackwater Navigation at Sandford"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heybridge_Basin_and_end_of_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_1640068.jpg",
-      "title": "Colin Park\u00a0/\u00a0Heybridge Basin & end of Chelmer & Blackwater Navigation, via Wikimedia Commons",
-      "caption": "Heybridge Basin and end of Chelmer and Blackwater Navigation"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ChelmerBlackwaterNavigation.JPG/512px-ChelmerBlackwaterNavigation.JPG",
-      "title": "Chris55 at English Wikipedia, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
-      "caption": "Lock and weir to tidal Blackwater on the left"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_Mill_Lock_-_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_4359842.jpg/512px-Paper_Mill_Lock_-_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_4359842.jpg",
-      "title": "Paper Mill Lock - Chelmer and Blackwater Navigation by\u00a0Robin Lucas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Paper Mill Lock"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Footbridge_on_the_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_1980019.jpg",
-      "title": "Footbridge on the Chelmer and Blackwater Navigation by\u00a0Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Footbridge over the River Chelmer"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chelmer_and_Blackwater_Navigation_at_Heybridge_-_geograph.org.uk_-_3743194.jpg/512px-Chelmer_and_Blackwater_Navigation_at_Heybridge_-_geograph.org.uk_-_3743194.jpg",
-      "title": "Chelmer and Blackwater Navigation at Heybridge by\u00a0Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Heybridge"
-    }
-  ],
-  "distance_km": 26.0,
-  "description": "Follow the Chelmer and Blackwater Navigation Canal from Chelmsford to Maldon on this easy, waterside walk in Essex. The canal takes you through some lovely Essex countryside, passing a series of pretty locks, a number of reservoirs and the villages of Little Baddow and Ulting. At Little Baddow you can find a number of nice woodland trails in Blake's Wood, Lingwood Common and Danbury Common . The village and commons are located just to the south of the canal and contain\u00a0214 acres of heath, gorse and coppice. The final section of the canal takes you along the Heybridge Basin in Maldon, with views of the National Trust owned Northey Island. There are great views over the Blackwater Estuary to the nature reserve. You can extend the walk by visiting the lovely Marine Lake in Promenade Park which is located right on the lovely estuary. There's also the pretty Chigborough Lakes Nature Reserve near Heybridge Basin which has some nice footpaths to try.",
-  "video_url": "https://www.youtube.com/embed/8enZ8HSfYLs",
-  "district": "Chelmsford",
-  "county": "Essex",
-  "region": "Eastern",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Chelmer_Traffic_-_geograph.org.uk_-_1226508.jpg",
+            "title": "Glyn Baker / Chelmer Traffic, via Wikimedia Commons",
+            "caption": "Chelmer Traffic. The Navigation was opened to traffic in 1797 and was used mainly for the transport of coal bricks & timber from Maldon to Chelmsford. Today it is used almost exclusively for pleasure craft."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Paper_Mill_Lock_Weir_-_geograph.org.uk_-_1226363.jpg",
+            "title": "Glyn Baker / Paper Mill Lock Weir, via Wikimedia Commons",
+            "caption": "Paper Mill Lock Weir"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Chelmer_and_Blackwater_Navigation_at_Sandford_-_geograph.org.uk_-_1640063.jpg",
+            "title": "Colin Park / Chelmer & Blackwater Navigation at Sandford, via Wikimedia Commons",
+            "caption": "Chelmer and Blackwater Navigation at Sandford"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Heybridge_Basin_and_end_of_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_1640068.jpg",
+            "title": "Colin Park / Heybridge Basin & end of Chelmer & Blackwater Navigation, via Wikimedia Commons",
+            "caption": "Heybridge Basin and end of Chelmer and Blackwater Navigation"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ChelmerBlackwaterNavigation.JPG/512px-ChelmerBlackwaterNavigation.JPG",
+            "title": "Chris55 at English Wikipedia, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons",
+            "caption": "Lock and weir to tidal Blackwater on the left"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Paper_Mill_Lock_-_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_4359842.jpg/512px-Paper_Mill_Lock_-_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_4359842.jpg",
+            "title": "Paper Mill Lock - Chelmer and Blackwater Navigation by Robin Lucas, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Paper Mill Lock"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Footbridge_on_the_Chelmer_and_Blackwater_Navigation_-_geograph.org.uk_-_1980019.jpg",
+            "title": "Footbridge on the Chelmer and Blackwater Navigation by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Footbridge over the River Chelmer"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Chelmer_and_Blackwater_Navigation_at_Heybridge_-_geograph.org.uk_-_3743194.jpg/512px-Chelmer_and_Blackwater_Navigation_at_Heybridge_-_geograph.org.uk_-_3743194.jpg",
+            "title": "Chelmer and Blackwater Navigation at Heybridge by Trevor Harris, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Heybridge"
+        }
+    ],
+    "distance_km": 26.0,
+    "description": "Follow the Chelmer and Blackwater Navigation Canal from Chelmsford to Maldon on this easy, waterside walk in Essex. The canal takes you through some lovely Essex countryside, passing a series of pretty locks, a number of reservoirs and the villages of Little Baddow and Ulting. At Little Baddow you can find a number of nice woodland trails in Blake's Wood, Lingwood Common and Danbury Common . The village and commons are located just to the south of the canal and contain 214 acres of heath, gorse and coppice. The final section of the canal takes you along the Heybridge Basin in Maldon, with views of the National Trust owned Northey Island. There are great views over the Blackwater Estuary to the nature reserve. You can extend the walk by visiting the lovely Marine Lake in Promenade Park which is located right on the lovely estuary. There's also the pretty Chigborough Lakes Nature Reserve near Heybridge Basin which has some nice footpaths to try.",
+    "video_url": "https://www.youtube.com/embed/8enZ8HSfYLs",
+    "district": "Chelmsford",
+    "county": "Essex",
+    "region": "Eastern",
+    "country": "England"
 }

@@ -1,67 +1,67 @@
 {
-  "objectID": "2160d0c0d0c6ba020399e82080232ae7",
-  "created_at": "2024-12-18T09:26:38.397257+00:00",
-  "ref": "bradford-dale-walking-route",
-  "title": "Bradford Dale Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Youlgrave_-_footbridge_at_bottom_of_Bradford_Road_-_geograph.org.uk_-_907376.jpg",
-  "nearby": [
-    {
-      "description": "Youlgreave",
-      "objectID": "27863cf9a0a050b693ef9eac0d13951b",
-      "ref": "youlgreave-walking-route"
+    "objectID": "2160d0c0d0c6ba020399e82080232ae7",
+    "created_at": "2024-12-18T09:26:38.397257+00:00",
+    "ref": "bradford-dale-walking-route",
+    "title": "Bradford Dale Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Youlgrave_-_footbridge_at_bottom_of_Bradford_Road_-_geograph.org.uk_-_907376.jpg",
+    "nearby": [
+        {
+            "description": "Youlgreave",
+            "objectID": "27863cf9a0a050b693ef9eac0d13951b",
+            "ref": "youlgreave-walking-route"
+        },
+        {
+            "description": "Lathkill Dale",
+            "objectID": "586ae1269f7d3f0f4b7881990dcd4a66",
+            "ref": "lathkill-dale-walking-route"
+        },
+        {
+            "description": "Limestone Way",
+            "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
+            "ref": "limestone-way-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0976857285A885E580258303006B190F/$FILE/Bradford Dale.gpx",
+    "_geoloc": {
+        "lat": 53.1745054542,
+        "lng": -1.6874273966
     },
-    {
-      "description": "Lathkill Dale",
-      "objectID": "586ae1269f7d3f0f4b7881990dcd4a66",
-      "ref": "lathkill-dale-walking-route"
-    },
-    {
-      "description": "Limestone Way",
-      "objectID": "c8710cae72d7105dbf3f3fc8f79b4e53",
-      "ref": "limestone-way-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0976857285A885E580258303006B190F/$FILE/Bradford Dale.gpx",
-  "_geoloc": {
-    "lat": 53.1745054542,
-    "lng": -1.6874273966
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Youlgrave_-_footbridge_at_bottom_of_Bradford_Road_-_geograph.org.uk_-_907376.jpg",
-      "title": "Dave Bevis\u00a0/\u00a0Youlgrave - footbridge at bottom of Bradford Road",
-      "caption": "Youlgrave"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Foot_bridge_over_River_Bradford_-_geograph.org.uk_-_1184153.jpg",
-      "title": "Peter Barr\u00a0/\u00a0Foot bridge over River Bradford",
-      "caption": "Foot bridge over River Bradford"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Weir_on_River_Bradford_-_geograph.org.uk_-_1310268.jpg",
-      "title": "Trevor Harris\u00a0/\u00a0Weir on River Bradford",
-      "caption": "Weir on River Bradford"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Footbridge_over_The_River_Bradford%2C_Youlgrave_-_geograph.org.uk_-_1310177.jpg",
-      "title": "J W Wagner\u00a0/\u00a0Footbridge over The River Bradford, Youlgrave",
-      "caption": "Footbridge over The River Bradford, Youlgrave"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/White_Peak_scene_-_geograph.org.uk_-_1184235.jpg",
-      "title": "Peter Barr\u00a0/\u00a0White Peak scene",
-      "caption": "White Peak scene"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bradford_Dale_-_geograph.org.uk_-_45169.jpg",
-      "title": "Dave Dunford\u00a0/\u00a0Bradford Dale",
-      "caption": "Bradford Dale"
-    }
-  ],
-  "distance_km": 3.8,
-  "description": "This lovely riverside walk from Youlgreave takes you along the River Bradford before climbing above the village for some great views. Start the walk in the village and follow Hollywell Lane to the river. Here you can pick up a section of the Limestone Way long distance footpath. Follow the trail west along the river passing a number of weirs and some woodland below Moatlow Knob. The river bends round to the south near Middleton where you pick up footpaths taking you up to Wensley Hill. The route then descends back to the river where you enjoy a final riverside section back to Hollywell Lane. If you would like to continue your riverside walking in the area then head north west along the Limestone Way and you will soon come to the beautiful Lathkill Dale . The dale is a peaceful, atmospheric area flanked with large limestone cliffs and woodland.",
-  "district": "Youlgreave / Youlgrave",
-  "county": "Derbyshire",
-  "region": "East Midlands",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Youlgrave_-_footbridge_at_bottom_of_Bradford_Road_-_geograph.org.uk_-_907376.jpg",
+            "title": "Dave Bevis / Youlgrave - footbridge at bottom of Bradford Road",
+            "caption": "Youlgrave"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Foot_bridge_over_River_Bradford_-_geograph.org.uk_-_1184153.jpg",
+            "title": "Peter Barr / Foot bridge over River Bradford",
+            "caption": "Foot bridge over River Bradford"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Weir_on_River_Bradford_-_geograph.org.uk_-_1310268.jpg",
+            "title": "Trevor Harris / Weir on River Bradford",
+            "caption": "Weir on River Bradford"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Footbridge_over_The_River_Bradford%2C_Youlgrave_-_geograph.org.uk_-_1310177.jpg",
+            "title": "J W Wagner / Footbridge over The River Bradford, Youlgrave",
+            "caption": "Footbridge over The River Bradford, Youlgrave"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/White_Peak_scene_-_geograph.org.uk_-_1184235.jpg",
+            "title": "Peter Barr / White Peak scene",
+            "caption": "White Peak scene"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bradford_Dale_-_geograph.org.uk_-_45169.jpg",
+            "title": "Dave Dunford / Bradford Dale",
+            "caption": "Bradford Dale"
+        }
+    ],
+    "distance_km": 3.8,
+    "description": "This lovely riverside walk from Youlgreave takes you along the River Bradford before climbing above the village for some great views. Start the walk in the village and follow Hollywell Lane to the river. Here you can pick up a section of the Limestone Way long distance footpath. Follow the trail west along the river passing a number of weirs and some woodland below Moatlow Knob. The river bends round to the south near Middleton where you pick up footpaths taking you up to Wensley Hill. The route then descends back to the river where you enjoy a final riverside section back to Hollywell Lane. If you would like to continue your riverside walking in the area then head north west along the Limestone Way and you will soon come to the beautiful Lathkill Dale . The dale is a peaceful, atmospheric area flanked with large limestone cliffs and woodland.",
+    "district": "Youlgreave / Youlgrave",
+    "county": "Derbyshire",
+    "region": "East Midlands",
+    "country": "England"
 }

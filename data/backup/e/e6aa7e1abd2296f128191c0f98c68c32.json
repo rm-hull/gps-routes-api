@@ -1,82 +1,82 @@
 {
-  "objectID": "e6aa7e1abd2296f128191c0f98c68c32",
-  "created_at": "2024-12-18T11:53:47.756240+00:00",
-  "ref": "norland-moor-walking-route",
-  "title": "Norland Moor Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Triangulation_pillar%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963044.jpg",
-  "nearby": [
-    {
-      "description": "Calder and Hebble Navigation Canal",
-      "objectID": "9cd45c93be556a22133b1e8a8d3f3827",
-      "ref": "calder-and-hebble-navigation-canal-walking-and-cycle-route"
+    "objectID": "e6aa7e1abd2296f128191c0f98c68c32",
+    "created_at": "2024-12-18T11:53:47.756240+00:00",
+    "ref": "norland-moor-walking-route",
+    "title": "Norland Moor Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Triangulation_pillar%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963044.jpg",
+    "nearby": [
+        {
+            "description": "Calder and Hebble Navigation Canal",
+            "objectID": "9cd45c93be556a22133b1e8a8d3f3827",
+            "ref": "calder-and-hebble-navigation-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Calderdale Way",
+            "objectID": "96f0b565a2bbeec9d6d8b9b6775d477b",
+            "ref": "calderdale-way-walking-route"
+        },
+        {
+            "description": "Ripponden",
+            "objectID": "47d09e9d404128d890fc1c0335d6fc8c",
+            "ref": "ripponden-walking-route"
+        },
+        {
+            "description": "Ryburn Reservoir and Baitings Reservoir",
+            "objectID": "1fea24464a9103d1b502d4fca91778a4",
+            "ref": "ryburn-reservoir-and-baitings-reservoir-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/19389AC02E310A728025810F002C6B0D/$FILE/Norland Moor.gpx",
+    "_geoloc": {
+        "lat": 53.6985901223,
+        "lng": -1.902463488
     },
-    {
-      "description": "Calderdale Way",
-      "objectID": "96f0b565a2bbeec9d6d8b9b6775d477b",
-      "ref": "calderdale-way-walking-route"
-    },
-    {
-      "description": "Ripponden",
-      "objectID": "47d09e9d404128d890fc1c0335d6fc8c",
-      "ref": "ripponden-walking-route"
-    },
-    {
-      "description": "Ryburn Reservoir and Baitings Reservoir",
-      "objectID": "1fea24464a9103d1b502d4fca91778a4",
-      "ref": "ryburn-reservoir-and-baitings-reservoir-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/19389AC02E310A728025810F002C6B0D/$FILE/Norland Moor.gpx",
-  "_geoloc": {
-    "lat": 53.6985901223,
-    "lng": -1.902463488
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Triangulation_pillar%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963044.jpg",
-      "title": "Humphrey Bolton\u00a0/\u00a0Triangulation pillar, Norland Moor, Norland",
-      "caption": "Triangulation pillar on the moor. There is evidence of ancient use with a small number of standing stones, ditches and banks having been identified."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Calderdale_Way_Norland_Moor_Geograph-3119541-by-Humphrey-Bolton.jpg/512px-Calderdale_Way_Norland_Moor_Geograph-3119541-by-Humphrey-Bolton.jpg",
-      "title": "Humphrey Bolton\u00a0/\u00a0The Calderdale Way at the southern end of Norland Moor",
-      "caption": "The Calderdale Way footpath on the moor. With pretty heather and a fine view across the surrounding green fields."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Disused_reservoir_%28%5E%29%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963194.jpg",
-      "title": "Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Disused reservoir. The fencing must have been a nightmare to erect - the OS map shows it to be rectangular in plan, but gives no clue as to what it contains. The land has a flat top and is embanked on the low sides. Old six-inch maps suggest that it was constructed in an old quarry working. I think it must be a disused covered reservoir."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_edge_of_Norland_Moor_-_geograph.org.uk_-_341728.jpg",
-      "title": "Nigel Homer\u00a0/\u00a0The edge of Norland Moor",
-      "caption": "The edge of the moor looking in the direction of the Ryburn Valley"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cairn_on_Norland_Moor_-_geograph.org.uk_-_949449.jpg",
-      "title": "John Illingworth\u00a0/\u00a0Cairn on Norland Moor",
-      "caption": "Cairn. The stones of the cairn are securely cemented in place. The fine display of heather on the moor is beginning to fade in September."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Turgate_Delph_-_geograph.org.uk_-_949435.jpg",
-      "title": "John Illingworth\u00a0/\u00a0Turgate Delph",
-      "caption": "Turgate Delph. Part of an overgrown quarry on the edge of Norland Moor."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Mill_Bank_from_the_Calderdale_Way_on_Norland_Moor_-_geograph.org.uk_-_3119543.jpg/512px-View_of_Mill_Bank_from_the_Calderdale_Way_on_Norland_Moor_-_geograph.org.uk_-_3119543.jpg",
-      "title": "View of Mill Bank from the Calderdale Way on Norland Moor by\u00a0Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View of Mill Bank from the Calderdale Way on Norland Moor"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Footpath_near_Norland_Moor%2C_Greetland_-_geograph.org.uk_-_963027.jpg",
-      "title": "Humphrey Bolton\u00a0/\u00a0Footpath near Norland Moor, Greetland",
-      "caption": "Not really part of Norland Moor, as this path is in Greetland; Norland territory is over the wall to the left, and ahead where the triangulation pillar can be seen as a white speck."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "This large open space near Sowerby Bridge has some nice footpaths to try. The area includes heather moorland and pockets of woodland with lots of wildlife to look out for. It's particularly lovely in late summer when the area is covered in purple heather. The moor is surrounded by a number of pubs so you can easily enjoy refreshments after your walk. There's a car park at the north eastern end of the moor near Norland village. From here you can pick up the paths across the moor. Look out for wildlife including grouse and little owl on the way. The moor is in an elevated position with the high point reaching 932 feet (284\u00a0m) at the trig point at the southern end. From here there are great views to the surrounding hills and towns. Norland is also home to a annual\u00a0scarecrow\u00a0festival. It takes place around the first weekend in September. The Calderdale Way long distance path crosses the moor so you can extend your walk along the waymarked trail. Just to the north of the site you will find the Calder and Hebble Navigation Canal where you can pick up the towpath. N.B Please note cycling is not permitted on the moor.",
-  "video_url": "https://www.youtube.com/embed/oGAb5Zf_Dcg",
-  "district": "Norland Town",
-  "region": "Yorkshire and the Humber",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Triangulation_pillar%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963044.jpg",
+            "title": "Humphrey Bolton / Triangulation pillar, Norland Moor, Norland",
+            "caption": "Triangulation pillar on the moor. There is evidence of ancient use with a small number of standing stones, ditches and banks having been identified."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Calderdale_Way_Norland_Moor_Geograph-3119541-by-Humphrey-Bolton.jpg/512px-Calderdale_Way_Norland_Moor_Geograph-3119541-by-Humphrey-Bolton.jpg",
+            "title": "Humphrey Bolton / The Calderdale Way at the southern end of Norland Moor",
+            "caption": "The Calderdale Way footpath on the moor. With pretty heather and a fine view across the surrounding green fields."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Disused_reservoir_%28%5E%29%2C_Norland_Moor%2C_Norland_-_geograph.org.uk_-_963194.jpg",
+            "title": "Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Disused reservoir. The fencing must have been a nightmare to erect - the OS map shows it to be rectangular in plan, but gives no clue as to what it contains. The land has a flat top and is embanked on the low sides. Old six-inch maps suggest that it was constructed in an old quarry working. I think it must be a disused covered reservoir."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/The_edge_of_Norland_Moor_-_geograph.org.uk_-_341728.jpg",
+            "title": "Nigel Homer / The edge of Norland Moor",
+            "caption": "The edge of the moor looking in the direction of the Ryburn Valley"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cairn_on_Norland_Moor_-_geograph.org.uk_-_949449.jpg",
+            "title": "John Illingworth / Cairn on Norland Moor",
+            "caption": "Cairn. The stones of the cairn are securely cemented in place. The fine display of heather on the moor is beginning to fade in September."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/Turgate_Delph_-_geograph.org.uk_-_949435.jpg",
+            "title": "John Illingworth / Turgate Delph",
+            "caption": "Turgate Delph. Part of an overgrown quarry on the edge of Norland Moor."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/View_of_Mill_Bank_from_the_Calderdale_Way_on_Norland_Moor_-_geograph.org.uk_-_3119543.jpg/512px-View_of_Mill_Bank_from_the_Calderdale_Way_on_Norland_Moor_-_geograph.org.uk_-_3119543.jpg",
+            "title": "View of Mill Bank from the Calderdale Way on Norland Moor by Humphrey Bolton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View of Mill Bank from the Calderdale Way on Norland Moor"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Footpath_near_Norland_Moor%2C_Greetland_-_geograph.org.uk_-_963027.jpg",
+            "title": "Humphrey Bolton / Footpath near Norland Moor, Greetland",
+            "caption": "Not really part of Norland Moor, as this path is in Greetland; Norland territory is over the wall to the left, and ahead where the triangulation pillar can be seen as a white speck."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "This large open space near Sowerby Bridge has some nice footpaths to try. The area includes heather moorland and pockets of woodland with lots of wildlife to look out for. It's particularly lovely in late summer when the area is covered in purple heather. The moor is surrounded by a number of pubs so you can easily enjoy refreshments after your walk. There's a car park at the north eastern end of the moor near Norland village. From here you can pick up the paths across the moor. Look out for wildlife including grouse and little owl on the way. The moor is in an elevated position with the high point reaching 932 feet (284 m) at the trig point at the southern end. From here there are great views to the surrounding hills and towns. Norland is also home to a annual scarecrow festival. It takes place around the first weekend in September. The Calderdale Way long distance path crosses the moor so you can extend your walk along the waymarked trail. Just to the north of the site you will find the Calder and Hebble Navigation Canal where you can pick up the towpath. N.B Please note cycling is not permitted on the moor.",
+    "video_url": "https://www.youtube.com/embed/oGAb5Zf_Dcg",
+    "district": "Norland Town",
+    "region": "Yorkshire and the Humber",
+    "country": "England"
 }

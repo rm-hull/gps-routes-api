@@ -1,97 +1,97 @@
 {
-  "objectID": "ef9aba909d500af16718a85623752ab4",
-  "created_at": "2024-12-19T03:17:36.845503+00:00",
-  "ref": "bexley-walking-route",
-  "title": "Bexley Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_River_Cray_at_Bexley_-_geograph.org.uk_-_1409947.jpg",
-  "nearby": [
-    {
-      "description": "Danson Park",
-      "objectID": "5c17250beaec3d6ad70b3c23dcd48f70",
-      "ref": "danson-park-walking-route"
+    "objectID": "ef9aba909d500af16718a85623752ab4",
+    "created_at": "2024-12-19T03:17:36.845503+00:00",
+    "ref": "bexley-walking-route",
+    "title": "Bexley Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_River_Cray_at_Bexley_-_geograph.org.uk_-_1409947.jpg",
+    "nearby": [
+        {
+            "description": "Danson Park",
+            "objectID": "5c17250beaec3d6ad70b3c23dcd48f70",
+            "ref": "danson-park-walking-route"
+        },
+        {
+            "description": "Foots Cray Meadows",
+            "objectID": "924d905f50e3bf6212276b9f460ac841",
+            "ref": "foots-cray-meadows-walking-route"
+        },
+        {
+            "description": "Oxleas Wood",
+            "objectID": "343edade508c34222669878003bb96c3",
+            "ref": "oxleas-wood-walking-route"
+        },
+        {
+            "description": "Joydens Wood",
+            "objectID": "5b0a39f0bced17cfb3a55b18e036d0c5",
+            "ref": "joydens-wood-walking-and-cycle-route"
+        },
+        {
+            "description": "Danson Park",
+            "objectID": "5c17250beaec3d6ad70b3c23dcd48f70",
+            "ref": "danson-park-walking-route"
+        },
+        {
+            "description": "Dartford Heath",
+            "objectID": "c33e818afeceeee7abf8a552a415d852",
+            "ref": "dartford-heath-walking-route"
+        },
+        {
+            "description": "Cray Riverway",
+            "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
+            "ref": "cray-riverway-walking-route"
+        },
+        {
+            "description": "Darenth Country Park",
+            "objectID": "ca76f114f4bbdd665ca806615ad878bf",
+            "ref": "darenth-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Darent Valley Path",
+            "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
+            "ref": "darent-valley-path-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D480D0CAD51BFD178625857A0071013A/$FILE/Bexley.gpx",
+    "_geoloc": {
+        "lat": 51.4399349907,
+        "lng": 0.1468743532
     },
-    {
-      "description": "Foots Cray Meadows",
-      "objectID": "924d905f50e3bf6212276b9f460ac841",
-      "ref": "foots-cray-meadows-walking-route"
-    },
-    {
-      "description": "Oxleas Wood",
-      "objectID": "343edade508c34222669878003bb96c3",
-      "ref": "oxleas-wood-walking-route"
-    },
-    {
-      "description": "Joydens Wood",
-      "objectID": "5b0a39f0bced17cfb3a55b18e036d0c5",
-      "ref": "joydens-wood-walking-and-cycle-route"
-    },
-    {
-      "description": "Danson Park",
-      "objectID": "5c17250beaec3d6ad70b3c23dcd48f70",
-      "ref": "danson-park-walking-route"
-    },
-    {
-      "description": "Dartford Heath",
-      "objectID": "c33e818afeceeee7abf8a552a415d852",
-      "ref": "dartford-heath-walking-route"
-    },
-    {
-      "description": "Cray Riverway",
-      "objectID": "9c7bf4636e5dc113b6c46144c54f3196",
-      "ref": "cray-riverway-walking-route"
-    },
-    {
-      "description": "Darenth Country Park",
-      "objectID": "ca76f114f4bbdd665ca806615ad878bf",
-      "ref": "darenth-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Darent Valley Path",
-      "objectID": "36e7fb5e4f927dfaec7f70ff6239a05d",
-      "ref": "darent-valley-path-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D480D0CAD51BFD178625857A0071013A/$FILE/Bexley.gpx",
-  "_geoloc": {
-    "lat": 51.4399349907,
-    "lng": 0.1468743532
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_River_Cray_at_Bexley_-_geograph.org.uk_-_1409947.jpg",
-      "title": "pam fray\u00a0/\u00a0The River Cray at Bexley",
-      "caption": "The River Cray at Bexley. Viewed from the cafe at Hall Place"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_River_Cray_running_through_Foots_Cray_Meadows.jpg/256px-The_River_Cray_running_through_Foots_Cray_Meadows.jpg",
-      "title": "Ethan Doyle White / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
-      "caption": "The River Cray running through Foots Cray Meadows in the London Borough of Bexley."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Five_Arch_Bridge%2C_River_Cray%2C_Sidcup%2C_Kent_-_geograph.org.uk_-_54681.jpg",
-      "title": "Dr Neil Clifton\u00a0/\u00a0Five Arch Bridge, River Cray, Sidcup, Kent",
-      "caption": "Five Arch Bridge, River Cray, Sidcup, Kent. The bridge is seen looking northwards from the east bank of the Cray, which above this point spreads out to form an attractive lake."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sculpture_of_fighter_aircraft_at_Joyden%27s_Wood.jpg/256px-Sculpture_of_fighter_aircraft_at_Joyden%27s_Wood.jpg",
-      "title": "Ethan Doyle White / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
-      "caption": "Wooden sculpture of a fighter aircraft in\u00a0Joyden's Wood, commemorating the\u00a0Royal Air Force\u00a0fighters shot down over the woodland during the\u00a0Battle of Britain"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hall_Place%2C_Bexley_-_geograph.org.uk_-_1409949.jpg",
-      "title": "pam fray\u00a0/\u00a0Hall Place, Bexley",
-      "caption": "Wonderful view of the topiary in the garden at Hall Place"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weir_on_River_Cray_at_Hall_Place.JPG/256px-Weir_on_River_Cray_at_Hall_Place.JPG",
-      "title": "Poliphilo / CC0",
-      "caption": "Weir on the River Cray at Hall Place"
-    }
-  ],
-  "distance_km": 7.8,
-  "description": "This circular walk from Bexley Train Station uses a section of the London Loop and other public footpaths to visit some of the highlights of the area. You'll visit the River Cray, Foots Cray Meadows , Joydens Wood and the splendid Hall Place Gardens. There's nice riverside paths, woodland trails, beautiful gardens and lots of wildlife to look out for on the way. The walk starts from Bexley station where there are 4 trains per hour to\u00a0London Charing Cross\u00a0via\u00a0Sidcup and 2 trains per hour to\u00a0London Cannon Street\u00a0via Sidcup &\u00a0Lewisham. At the station you can directly pick up the London Loop and follow the waymarked path south west to join up with the River Cray. Follow the path to Fiver Arch Bridge where you turn east to follow Parsonage Lane into Joydon's Wood. Here you can follow woodland trails north to pick up the London Loop again. Follow this north east past Churchfield Wood and it will take you to the deilightful Hall Place Gardens . Here you'll find an historic house, a visitor centre, a riverside cafe, a glasshouse, a bird hide, a butterfly experience and an owl experience. The gardens are free to walk around or you can pay a fee to the National Trust to explore the old house. After leaving the gardens you pick up the London Loop again and follow it back to Bexley station where the route finishes.",
-  "video_url": "https://www.youtube.com/embed/jWTPiLeOF-k",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/The_River_Cray_at_Bexley_-_geograph.org.uk_-_1409947.jpg",
+            "title": "pam fray / The River Cray at Bexley",
+            "caption": "The River Cray at Bexley. Viewed from the cafe at Hall Place"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_River_Cray_running_through_Foots_Cray_Meadows.jpg/256px-The_River_Cray_running_through_Foots_Cray_Meadows.jpg",
+            "title": "Ethan Doyle White / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+            "caption": "The River Cray running through Foots Cray Meadows in the London Borough of Bexley."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Five_Arch_Bridge%2C_River_Cray%2C_Sidcup%2C_Kent_-_geograph.org.uk_-_54681.jpg",
+            "title": "Dr Neil Clifton / Five Arch Bridge, River Cray, Sidcup, Kent",
+            "caption": "Five Arch Bridge, River Cray, Sidcup, Kent. The bridge is seen looking northwards from the east bank of the Cray, which above this point spreads out to form an attractive lake."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Sculpture_of_fighter_aircraft_at_Joyden%27s_Wood.jpg/256px-Sculpture_of_fighter_aircraft_at_Joyden%27s_Wood.jpg",
+            "title": "Ethan Doyle White / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
+            "caption": "Wooden sculpture of a fighter aircraft in Joyden's Wood, commemorating the Royal Air Force fighters shot down over the woodland during the Battle of Britain"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hall_Place%2C_Bexley_-_geograph.org.uk_-_1409949.jpg",
+            "title": "pam fray / Hall Place, Bexley",
+            "caption": "Wonderful view of the topiary in the garden at Hall Place"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Weir_on_River_Cray_at_Hall_Place.JPG/256px-Weir_on_River_Cray_at_Hall_Place.JPG",
+            "title": "Poliphilo / CC0",
+            "caption": "Weir on the River Cray at Hall Place"
+        }
+    ],
+    "distance_km": 7.8,
+    "description": "This circular walk from Bexley Train Station uses a section of the London Loop and other public footpaths to visit some of the highlights of the area. You'll visit the River Cray, Foots Cray Meadows , Joydens Wood and the splendid Hall Place Gardens. There's nice riverside paths, woodland trails, beautiful gardens and lots of wildlife to look out for on the way. The walk starts from Bexley station where there are 4 trains per hour to London Charing Cross via Sidcup and 2 trains per hour to London Cannon Street via Sidcup & Lewisham. At the station you can directly pick up the London Loop and follow the waymarked path south west to join up with the River Cray. Follow the path to Fiver Arch Bridge where you turn east to follow Parsonage Lane into Joydon's Wood. Here you can follow woodland trails north to pick up the London Loop again. Follow this north east past Churchfield Wood and it will take you to the deilightful Hall Place Gardens . Here you'll find an historic house, a visitor centre, a riverside cafe, a glasshouse, a bird hide, a butterfly experience and an owl experience. The gardens are free to walk around or you can pay a fee to the National Trust to explore the old house. After leaving the gardens you pick up the London Loop again and follow it back to Bexley station where the route finishes.",
+    "video_url": "https://www.youtube.com/embed/jWTPiLeOF-k",
+    "county": "Greater London",
+    "region": "London",
+    "country": "England"
 }

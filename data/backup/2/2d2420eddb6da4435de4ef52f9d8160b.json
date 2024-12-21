@@ -1,114 +1,114 @@
 {
-  "objectID": "2d2420eddb6da4435de4ef52f9d8160b",
-  "created_at": "2024-12-18T00:44:16.999303+00:00",
-  "ref": "gunthorpe-walking-route",
-  "title": "Gunthorpe Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Under_Gunthorpe_bridge.jpg",
-  "nearby": [
-    {
-      "description": "Trent Valley Way",
-      "objectID": "deaeed2d2c582aa7fdfd01f9dcce589a",
-      "ref": "trent-valley-way-walking-route"
+    "objectID": "2d2420eddb6da4435de4ef52f9d8160b",
+    "created_at": "2024-12-18T00:44:16.999303+00:00",
+    "ref": "gunthorpe-walking-route",
+    "title": "Gunthorpe Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Under_Gunthorpe_bridge.jpg",
+    "nearby": [
+        {
+            "description": "Trent Valley Way",
+            "objectID": "deaeed2d2c582aa7fdfd01f9dcce589a",
+            "ref": "trent-valley-way-walking-route"
+        },
+        {
+            "description": "Holme Pierrepont Country Park",
+            "objectID": "43d34209986be86a3b793d63c2f407b7",
+            "ref": "holme-pierrepont-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Nottingham Circular Walk",
+            "objectID": "380493c57684d7fbf967b4031743020b",
+            "ref": "nottingham-circular-walk-walking-route"
+        },
+        {
+            "description": "Shelford",
+            "objectID": "725c142ad08b47ad2e360123cc5b9317",
+            "ref": "shelford-walking-route"
+        },
+        {
+            "description": "West Bridgford",
+            "objectID": "c6578b2e1d19ac4985bfee5bda5c407a",
+            "ref": "west-bridgford-walking-route"
+        },
+        {
+            "description": "Radcliffe on Trent",
+            "objectID": "f6d6ce0b05396da22dbe0dac68087256",
+            "ref": "radcliffe-on-trent-walking-route"
+        },
+        {
+            "description": "Fiskerton",
+            "objectID": "abd60cc912e46e43844a884bfafd94f9",
+            "ref": "fiskerton-walking-route"
+        },
+        {
+            "description": "Burton Joyce",
+            "objectID": "39d65e103fa10be4cc44d9923879bd2f",
+            "ref": "burton-joyce-walking-route"
+        },
+        {
+            "description": "Car Colston",
+            "objectID": "7cf98725acb2f4314f691715a2582540",
+            "ref": "car-colston-walking-route"
+        },
+        {
+            "description": "Bingham Linear Walk",
+            "objectID": "388f83822a06337b1c5e524efe759680",
+            "ref": "bingham-linear-walk-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/8C352FE6CC5667318625864E0037FFEB/$FILE/Gunthorpe.gpx",
+    "_geoloc": {
+        "lat": 52.986875738,
+        "lng": -0.9855312558
     },
-    {
-      "description": "Holme Pierrepont Country Park",
-      "objectID": "43d34209986be86a3b793d63c2f407b7",
-      "ref": "holme-pierrepont-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Nottingham Circular Walk",
-      "objectID": "380493c57684d7fbf967b4031743020b",
-      "ref": "nottingham-circular-walk-walking-route"
-    },
-    {
-      "description": "Shelford",
-      "objectID": "725c142ad08b47ad2e360123cc5b9317",
-      "ref": "shelford-walking-route"
-    },
-    {
-      "description": "West Bridgford",
-      "objectID": "c6578b2e1d19ac4985bfee5bda5c407a",
-      "ref": "west-bridgford-walking-route"
-    },
-    {
-      "description": "Radcliffe on Trent",
-      "objectID": "f6d6ce0b05396da22dbe0dac68087256",
-      "ref": "radcliffe-on-trent-walking-route"
-    },
-    {
-      "description": "Fiskerton",
-      "objectID": "abd60cc912e46e43844a884bfafd94f9",
-      "ref": "fiskerton-walking-route"
-    },
-    {
-      "description": "Burton Joyce",
-      "objectID": "39d65e103fa10be4cc44d9923879bd2f",
-      "ref": "burton-joyce-walking-route"
-    },
-    {
-      "description": "Car Colston",
-      "objectID": "7cf98725acb2f4314f691715a2582540",
-      "ref": "car-colston-walking-route"
-    },
-    {
-      "description": "Bingham Linear Walk",
-      "objectID": "388f83822a06337b1c5e524efe759680",
-      "ref": "bingham-linear-walk-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/8C352FE6CC5667318625864E0037FFEB/$FILE/Gunthorpe.gpx",
-  "_geoloc": {
-    "lat": 52.986875738,
-    "lng": -0.9855312558
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Under_Gunthorpe_bridge.jpg",
-      "title": "Alan Murray-Rust\u00a0/\u00a0Under Gunthorpe bridge",
-      "caption": "Under Gunthorpe bridge. The bridge is a three span, reinforced concrete arch bridge which was built in 1927."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gunthorpe_weir_-_geograph.org.uk_-_652524.jpg",
-      "title": "Alan Murray-Rust\u00a0/\u00a0Gunthorpe weir",
-      "caption": "Gunthorpe weir. The water breaks gradually as it passes over the different tiers."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Unicorn_Hotel%2C_Trentside%2C_Gunthorpe_-_geograph.org.uk_-_1395544.jpg",
-      "title": "Kate Jewell\u00a0/\u00a0The Unicorn Hotel, Trentside, Gunthorpe",
-      "caption": "The Unicorn Hotel, Trentside. This large pub-come-hotel is in an enviable spot being on the River Trent just above the Gunthorpe Lock. It attracts large numbers of water bound visitors as well as landlubbers from the surrounding area."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/The_River_Trent_at_Gunthorpe_Lock_-_geograph.org.uk_-_1398902.jpg",
-      "title": "Kate Jewell\u00a0/\u00a0The River Trent at Gunthorpe Lock",
-      "caption": "A view of The River Trent at Gunthorpe Lock, close to the bridge. Looking upstream towards Gunthorpe weir with the lock to the right. In the centre distance you can see the bright orange barrage placed across the river as a warning to craft. Beyond that is Trent Wharf and Marina on the East Bridgford side of the river. Originally constructed to accommodate four Trent ketches, Gunthorpe lock was mechanised in 1959. The bottom lock gate weighs 14,600 kgs, \"equivalent to 5 adult elephants\" according to the information board alongside the lock. The Trent ketch was built specifically for commercial transport along the Trent and they were capable of carrying cargoes of up to 40 tons between Newark and the Humber estuary. A variation on the Humber keel, these craft had a sharper stern and were usually 74ft x 14ft with a 32 inch draught for use on the shallower River Trent. Fully laden they only had a freeboard of 9 inches. The journey from Gunthorpe Lock to the seaport at Hull took about 14 hours."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Trent_Hills_cliffs_below_Gunthorpe_Lock_-_geograph.org.uk_-_1398936.jpg",
-      "title": "Kate Jewell\u00a0/\u00a0Trent Hills cliffs below Gunthorpe Lock",
-      "caption": "Trent Hills cliffs below Gunthorpe Lock. This shows how fast the River Trent is actually flowing as the water rushes over the weir. Note the Gunthorpe formation, mudstone split by gypsum bands, behind the fishermen on the bank."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_River_Trent_-_geograph.org.uk_-_1395637.jpg",
-      "title": "Kate Jewell\u00a0/\u00a0The River Trent",
-      "caption": "The River Trent. Looking towards Gunthorpe Bridge from the river bank by the Unicorn Hotel. Gunthorpe Bridge is the only bridge over the River Trent between Newark and Nottingham. Old Gunthorpe toll bridge, was built on the site of a ford and ferry that had existed since Roman times. Built in 1875 by the Gunthorpe Bridge Company who raised \u00a37,500 through a share issue, it was a largely iron structure crossing the Trent. The tolls were horse and carriage 1/-, horse and wagon 6d, horse alone 3d, people and passengers 1d, motorcycles 3d, cars 1/- and lorries 2/6. In 1925 the Gunthorpe Bridge Act empowered the council to buy the owners out, demolish the bridge and replace it with the present one, seen here, a couple of hundred yards up stream. This believed to be the first toll bridge in the country to be replaced by a free one."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Shelford_Mill_-_geograph.org.uk_-_1555408.jpg",
-      "title": "Alan Murray-Rust\u00a0/\u00a0Shelford Mill",
-      "caption": "Shelford Mill. This is the most southerly of three closely spaced windmills on the hills overlooking the Trent valley, and although correctly Shelford Mill, is also referred to as Newton Mill, as it is significantly closer to that village. It's the smallest of the three and the only one that has become derelict. It was a post mill with a timber superstructure, and last worked around 1918. The superstructure inevitably became progressively derelict and was demolished in 1950 or 1951. Damage to brickwork which can be seen in contemporary views has since been repaired."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%22The_Trent_Valley_Way%22_-_geograph.org.uk_-_46877.jpg",
-      "title": "Tom Courtney\u00a0/\u00a0\"The Trent Valley Way\"",
-      "caption": "\"The Trent Valley Way\". Heading NE towards East Bridgeford from the Shelford Road"
-    }
-  ],
-  "distance_km": 9.2,
-  "description": "This village near Nottingham is a popular place for riverside strolls. It's located in a lovely rural spot on the River Trent just a few miles east of the city centre. With some pleasant countryside, a pretty lock and a riverside hotel for post walk refreshments its the ideal place for a scenic walk near the city. This circular walk from the village heads to the Gunthorpe bridge, lock and weir on the river before visiting the neighbouring villages of East Bridgford and Shelford . The walk starts on the river where you can pick up the Trent Valley Way . This long distance waymarked footpath runs along the picturesque lock and weir in the village. After exploring this area you cross Gunthorpe Bridge and follow the trail south east to East Bridgford. The route then heads south west through the countryside, passing Shelford Mill and two pockets of woodland before arriving at Shelford. From the village you can then follow a country lane north east, past Shelford Manor before crossing the bridge and returning to Gunthorpe.",
-  "video_url": "https://www.youtube.com/embed/_Q_YbDNnliQ",
-  "postcode": "NG14 7RP",
-  "district": "Gunthorpe",
-  "county": "Nottinghamshire",
-  "region": "East Midlands",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Under_Gunthorpe_bridge.jpg",
+            "title": "Alan Murray-Rust / Under Gunthorpe bridge",
+            "caption": "Under Gunthorpe bridge. The bridge is a three span, reinforced concrete arch bridge which was built in 1927."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Gunthorpe_weir_-_geograph.org.uk_-_652524.jpg",
+            "title": "Alan Murray-Rust / Gunthorpe weir",
+            "caption": "Gunthorpe weir. The water breaks gradually as it passes over the different tiers."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_Unicorn_Hotel%2C_Trentside%2C_Gunthorpe_-_geograph.org.uk_-_1395544.jpg",
+            "title": "Kate Jewell / The Unicorn Hotel, Trentside, Gunthorpe",
+            "caption": "The Unicorn Hotel, Trentside. This large pub-come-hotel is in an enviable spot being on the River Trent just above the Gunthorpe Lock. It attracts large numbers of water bound visitors as well as landlubbers from the surrounding area."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/The_River_Trent_at_Gunthorpe_Lock_-_geograph.org.uk_-_1398902.jpg",
+            "title": "Kate Jewell / The River Trent at Gunthorpe Lock",
+            "caption": "A view of The River Trent at Gunthorpe Lock, close to the bridge. Looking upstream towards Gunthorpe weir with the lock to the right. In the centre distance you can see the bright orange barrage placed across the river as a warning to craft. Beyond that is Trent Wharf and Marina on the East Bridgford side of the river. Originally constructed to accommodate four Trent ketches, Gunthorpe lock was mechanised in 1959. The bottom lock gate weighs 14,600 kgs, \"equivalent to 5 adult elephants\" according to the information board alongside the lock. The Trent ketch was built specifically for commercial transport along the Trent and they were capable of carrying cargoes of up to 40 tons between Newark and the Humber estuary. A variation on the Humber keel, these craft had a sharper stern and were usually 74ft x 14ft with a 32 inch draught for use on the shallower River Trent. Fully laden they only had a freeboard of 9 inches. The journey from Gunthorpe Lock to the seaport at Hull took about 14 hours."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Trent_Hills_cliffs_below_Gunthorpe_Lock_-_geograph.org.uk_-_1398936.jpg",
+            "title": "Kate Jewell / Trent Hills cliffs below Gunthorpe Lock",
+            "caption": "Trent Hills cliffs below Gunthorpe Lock. This shows how fast the River Trent is actually flowing as the water rushes over the weir. Note the Gunthorpe formation, mudstone split by gypsum bands, behind the fishermen on the bank."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/The_River_Trent_-_geograph.org.uk_-_1395637.jpg",
+            "title": "Kate Jewell / The River Trent",
+            "caption": "The River Trent. Looking towards Gunthorpe Bridge from the river bank by the Unicorn Hotel. Gunthorpe Bridge is the only bridge over the River Trent between Newark and Nottingham. Old Gunthorpe toll bridge, was built on the site of a ford and ferry that had existed since Roman times. Built in 1875 by the Gunthorpe Bridge Company who raised \u00a37,500 through a share issue, it was a largely iron structure crossing the Trent. The tolls were horse and carriage 1/-, horse and wagon 6d, horse alone 3d, people and passengers 1d, motorcycles 3d, cars 1/- and lorries 2/6. In 1925 the Gunthorpe Bridge Act empowered the council to buy the owners out, demolish the bridge and replace it with the present one, seen here, a couple of hundred yards up stream. This believed to be the first toll bridge in the country to be replaced by a free one."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Shelford_Mill_-_geograph.org.uk_-_1555408.jpg",
+            "title": "Alan Murray-Rust / Shelford Mill",
+            "caption": "Shelford Mill. This is the most southerly of three closely spaced windmills on the hills overlooking the Trent valley, and although correctly Shelford Mill, is also referred to as Newton Mill, as it is significantly closer to that village. It's the smallest of the three and the only one that has become derelict. It was a post mill with a timber superstructure, and last worked around 1918. The superstructure inevitably became progressively derelict and was demolished in 1950 or 1951. Damage to brickwork which can be seen in contemporary views has since been repaired."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%22The_Trent_Valley_Way%22_-_geograph.org.uk_-_46877.jpg",
+            "title": "Tom Courtney / \"The Trent Valley Way\"",
+            "caption": "\"The Trent Valley Way\". Heading NE towards East Bridgeford from the Shelford Road"
+        }
+    ],
+    "distance_km": 9.2,
+    "description": "This village near Nottingham is a popular place for riverside strolls. It's located in a lovely rural spot on the River Trent just a few miles east of the city centre. With some pleasant countryside, a pretty lock and a riverside hotel for post walk refreshments its the ideal place for a scenic walk near the city. This circular walk from the village heads to the Gunthorpe bridge, lock and weir on the river before visiting the neighbouring villages of East Bridgford and Shelford . The walk starts on the river where you can pick up the Trent Valley Way . This long distance waymarked footpath runs along the picturesque lock and weir in the village. After exploring this area you cross Gunthorpe Bridge and follow the trail south east to East Bridgford. The route then heads south west through the countryside, passing Shelford Mill and two pockets of woodland before arriving at Shelford. From the village you can then follow a country lane north east, past Shelford Manor before crossing the bridge and returning to Gunthorpe.",
+    "video_url": "https://www.youtube.com/embed/_Q_YbDNnliQ",
+    "postcode": "NG14 7RP",
+    "district": "Gunthorpe",
+    "county": "Nottinghamshire",
+    "region": "East Midlands",
+    "country": "England"
 }

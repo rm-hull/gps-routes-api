@@ -1,76 +1,76 @@
 {
-  "objectID": "36da92924a2ee571a055ff637c738216",
-  "created_at": "2024-12-18T00:39:24.104901+00:00",
-  "ref": "marsden-to-slaithwaite-canal-walk-walking-route",
-  "title": "Marsden to Slaithwaite Canal Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Huddersfield_Narrow_Canal%2C_Marsden_-_geograph.org.uk_-_1233704.jpg",
-  "nearby": [
-    {
-      "description": "Huddersfield Narrow Canal",
-      "objectID": "cc37cb6f71f583b2bd8b68de491da756",
-      "ref": "huddersfield-narrow-canal-walking-route"
+    "objectID": "36da92924a2ee571a055ff637c738216",
+    "created_at": "2024-12-18T00:39:24.104901+00:00",
+    "ref": "marsden-to-slaithwaite-canal-walk-walking-route",
+    "title": "Marsden to Slaithwaite Canal Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Huddersfield_Narrow_Canal%2C_Marsden_-_geograph.org.uk_-_1233704.jpg",
+    "nearby": [
+        {
+            "description": "Huddersfield Narrow Canal",
+            "objectID": "cc37cb6f71f583b2bd8b68de491da756",
+            "ref": "huddersfield-narrow-canal-walking-route"
+        },
+        {
+            "description": "Scammonden Reservoir",
+            "objectID": "1545710102d5602cb9bcdd93cf4f33c6",
+            "ref": "scammonden-reservoir-walking-route"
+        },
+        {
+            "description": "Deanhead Reservoir",
+            "objectID": "771b172d5031d48eb342c898596c9b0e",
+            "ref": "deanhead-reservoir-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/AE07E82990F198748025849C00459BC8/$FILE/Marsden to Slaithwaite Canal Walk.gpx",
+    "_geoloc": {
+        "lat": 53.6030218312,
+        "lng": -1.9311231251
     },
-    {
-      "description": "Scammonden Reservoir",
-      "objectID": "1545710102d5602cb9bcdd93cf4f33c6",
-      "ref": "scammonden-reservoir-walking-route"
-    },
-    {
-      "description": "Deanhead Reservoir",
-      "objectID": "771b172d5031d48eb342c898596c9b0e",
-      "ref": "deanhead-reservoir-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/AE07E82990F198748025849C00459BC8/$FILE/Marsden to Slaithwaite Canal Walk.gpx",
-  "_geoloc": {
-    "lat": 53.6030218312,
-    "lng": -1.9311231251
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Huddersfield_Narrow_Canal%2C_Marsden_-_geograph.org.uk_-_1233704.jpg",
-      "title": "michael ely\u00a0/\u00a0Huddersfield Narrow Canal, Marsden, via Wikimedia Commons",
-      "caption": "Huddersfield Narrow Canal, Marsden Looking northeast towards lock 39D from where Marsden Lane goes over the canal."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Huddersfield_Canal_at_Booth%2C_Marsden_-_geograph.org.uk_-_2207.jpg",
-      "title": "Martin Clark [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Huddersfield Canal at Booth, Marsden. Looking east along the Huddersfield Narrow Canal from Booth Bridge, between Marsden and Slaithwaite."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg/512px-Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg",
-      "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Series of locks between Marsden and Slaithwaite"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pig_Tail_Lock%2C_Huddersfield_Canal%2C_Marsden_-_geograph.org.uk_-_2185.jpg",
-      "title": "Martin Clark\u00a0/\u00a0Pig Tail Lock, Huddersfield Canal, Marsden, via Wikimedia Commons",
-      "caption": "Pig Tail Lock, Huddersfield Canal, Marsden. Lock 32e of the Huddersfield Narrow Canal near Marsden, known as Pig Tail Lock, is the bottom of the Marsden flight of locks."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg/512px-Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg",
-      "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Canal Barge Slaithwaite"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Canal_at_Slaithwaite_-_geograph.org.uk_-_882606.jpg",
-      "title": "Stanley Walker\u00a0/\u00a0Canal  at  Slaithwaite, via Wikimedia Commons",
-      "caption": "Canal at Slaithwaite. The single storey mill to the left is what is left of No 1 Mill of the Slaithwaite Spinning Co built in 1877 and the top mill is Globe Mill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Huddersfield_Canal%2C_Slaithwaite_-_geograph.org.uk_-_165031.jpg",
-      "title": "Nigel Homer [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Coming into Slaithwaite"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Huddersfield_Canal_at_Slaithwaite_-_geograph.org.uk_-_2191.jpg",
-      "title": "Martin Clark [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Looking west along the Huddersfield Narrow Canal from Lock 21e at Slaithwaite, West Yorkshire. This section of canal had been filled in but was restored and re-opened in 2001"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "This easy walk takes you along a lovely section of the Huddersfield Narrow Canal from Marsden to Slaithwaite. The route runs for a distance of about 3 miles, running along the flat towpath so perfect for an afternoon stroll. On the way you'll pass a number of pretty locks, canal barges, historic mills, weirs and canalside pubs where you can stop for a bite to eat. The walk starts in Marsden train station which is located right next to the canal. The route then follows the towpath east, passing the old mills and reservoirs at Park Gate. You continue past Lingards Wood and Waring Bridge, before coming into Slaithwaite. Here you will pass a series of old mills and weirs, before finishing near the town centre and train station. You can extend the walk by continuing east into Huddersfield itself.",
-  "district": "Marsden",
-  "region": "Yorkshire and the Humber",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Huddersfield_Narrow_Canal%2C_Marsden_-_geograph.org.uk_-_1233704.jpg",
+            "title": "michael ely / Huddersfield Narrow Canal, Marsden, via Wikimedia Commons",
+            "caption": "Huddersfield Narrow Canal, Marsden Looking northeast towards lock 39D from where Marsden Lane goes over the canal."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Huddersfield_Canal_at_Booth%2C_Marsden_-_geograph.org.uk_-_2207.jpg",
+            "title": "Martin Clark [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Huddersfield Canal at Booth, Marsden. Looking east along the Huddersfield Narrow Canal from Booth Bridge, between Marsden and Slaithwaite."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg/512px-Huddersfield_Narrow_Canal%2C_between_Marsden_and_Slaithwaite_%283276571463%29.jpg",
+            "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Series of locks between Marsden and Slaithwaite"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Pig_Tail_Lock%2C_Huddersfield_Canal%2C_Marsden_-_geograph.org.uk_-_2185.jpg",
+            "title": "Martin Clark / Pig Tail Lock, Huddersfield Canal, Marsden, via Wikimedia Commons",
+            "caption": "Pig Tail Lock, Huddersfield Canal, Marsden. Lock 32e of the Huddersfield Narrow Canal near Marsden, known as Pig Tail Lock, is the bottom of the Marsden flight of locks."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg/512px-Huddersfield_Narrow_Canal%2C_Slaithwaite_%2810075536326%29.jpg",
+            "title": "Tim Green from Bradford [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Canal Barge Slaithwaite"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Canal_at_Slaithwaite_-_geograph.org.uk_-_882606.jpg",
+            "title": "Stanley Walker / Canal  at  Slaithwaite, via Wikimedia Commons",
+            "caption": "Canal at Slaithwaite. The single storey mill to the left is what is left of No 1 Mill of the Slaithwaite Spinning Co built in 1877 and the top mill is Globe Mill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Huddersfield_Canal%2C_Slaithwaite_-_geograph.org.uk_-_165031.jpg",
+            "title": "Nigel Homer [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Coming into Slaithwaite"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/Huddersfield_Canal_at_Slaithwaite_-_geograph.org.uk_-_2191.jpg",
+            "title": "Martin Clark [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Looking west along the Huddersfield Narrow Canal from Lock 21e at Slaithwaite, West Yorkshire. This section of canal had been filled in but was restored and re-opened in 2001"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "This easy walk takes you along a lovely section of the Huddersfield Narrow Canal from Marsden to Slaithwaite. The route runs for a distance of about 3 miles, running along the flat towpath so perfect for an afternoon stroll. On the way you'll pass a number of pretty locks, canal barges, historic mills, weirs and canalside pubs where you can stop for a bite to eat. The walk starts in Marsden train station which is located right next to the canal. The route then follows the towpath east, passing the old mills and reservoirs at Park Gate. You continue past Lingards Wood and Waring Bridge, before coming into Slaithwaite. Here you will pass a series of old mills and weirs, before finishing near the town centre and train station. You can extend the walk by continuing east into Huddersfield itself.",
+    "district": "Marsden",
+    "region": "Yorkshire and the Humber",
+    "country": "England"
 }

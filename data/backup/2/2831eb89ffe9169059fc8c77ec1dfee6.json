@@ -1,83 +1,83 @@
 {
-  "objectID": "2831eb89ffe9169059fc8c77ec1dfee6",
-  "created_at": "2024-12-19T13:49:02.267456+00:00",
-  "ref": "cadover-bridge-to-dewerstone-rocks-walking-route",
-  "title": "Cadover Bridge to Dewerstone Rocks Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/River_Plym_from_Cadover_Bridge_-_geograph.org.uk_-_1529369.jpg",
-  "nearby": [
-    {
-      "description": "Shaugh Prior",
-      "objectID": "3524a71ce28147fd043c64b0b4e75c8f",
-      "ref": "shaugh-prior-walking-route"
+    "objectID": "2831eb89ffe9169059fc8c77ec1dfee6",
+    "created_at": "2024-12-19T13:49:02.267456+00:00",
+    "ref": "cadover-bridge-to-dewerstone-rocks-walking-route",
+    "title": "Cadover Bridge to Dewerstone Rocks Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/River_Plym_from_Cadover_Bridge_-_geograph.org.uk_-_1529369.jpg",
+    "nearby": [
+        {
+            "description": "Shaugh Prior",
+            "objectID": "3524a71ce28147fd043c64b0b4e75c8f",
+            "ref": "shaugh-prior-walking-route"
+        },
+        {
+            "description": "Plymbridge Woods",
+            "objectID": "3597b4983d48ed88e02df83387b7a65c",
+            "ref": "plymbridge-woods-walking-and-cycle-route"
+        },
+        {
+            "description": "Yelverton Garden House",
+            "objectID": "a5e2a1719382cfae0aefb26198ec7cf0",
+            "ref": "yelverton-garden-house-walking-route"
+        },
+        {
+            "description": "Burrator Reservoir",
+            "objectID": "24268f72cbf85f5bc56de8e5c5b2175b",
+            "ref": "burrator-reservoir-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0C143F379B79195F80257FBA0060E5AE/$FILE/Cadover Bridge to Dewerstone Rocks.gpx",
+    "_geoloc": {
+        "lat": 50.4623466,
+        "lng": -4.03810322
     },
-    {
-      "description": "Plymbridge Woods",
-      "objectID": "3597b4983d48ed88e02df83387b7a65c",
-      "ref": "plymbridge-woods-walking-and-cycle-route"
-    },
-    {
-      "description": "Yelverton Garden House",
-      "objectID": "a5e2a1719382cfae0aefb26198ec7cf0",
-      "ref": "yelverton-garden-house-walking-route"
-    },
-    {
-      "description": "Burrator Reservoir",
-      "objectID": "24268f72cbf85f5bc56de8e5c5b2175b",
-      "ref": "burrator-reservoir-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/0C143F379B79195F80257FBA0060E5AE/$FILE/Cadover Bridge to Dewerstone Rocks.gpx",
-  "_geoloc": {
-    "lat": 50.4623466,
-    "lng": -4.03810322
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/River_Plym_from_Cadover_Bridge_-_geograph.org.uk_-_1529369.jpg",
-      "title": "Derek Harper\u00a0/\u00a0River Plym from Cadover Bridge",
-      "caption": "River Plym from Cadover Bridge. Looking downstream from the bridge. In the foreground is one of a series of small weirs along this stretch of the river."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cadover_Bridge_-_geograph.org.uk_-_1529433.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Cadover Bridge",
-      "caption": "Cadover Bridge Bridging the Plym, which is flowing to the left. \"Originally the bridge at Cadover was a granite clapper bridge over the River Plym. A bridge with two arches was built to replace it. Eventually in the 19th century the present bridge was built\""
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Meavy%2C_Cadover_Lake_-_geograph.org.uk_-_2175439.jpg",
-      "title": "Meavy: Cadover Lake by\u00a0Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Meavy, Cadover Lake. The pretty lakes are located just to the north of the car park."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Meavy%2C_above_the_edge_of_Cadworthy_Wood_-_geograph.org.uk_-_2175465.jpg",
-      "title": "Meavy: above the edge of Cadworthy Wood by\u00a0Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Meavy, above the edge of Cadworthy Wood"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meavy%2C_on_Wigford_Down_2_-_geograph.org.uk_-_2175505.jpg",
-      "title": "Meavy: on Wigford Down 2 by\u00a0Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "On Wigford Down"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Shaugh_Bridge_-_geograph.org.uk_-_1534817.jpg",
-      "title": "Pierre Terre\u00a0/\u00a0Shaugh Bridge",
-      "caption": "The River Plym flows towards its confluence with the Meavy at Shaugh Bridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/View_across_to_the_Dewerstone_-_geograph.org.uk_-_2541883.jpg",
-      "title": "View across to the Dewerstone by\u00a0Stephen Craven, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View across to the Dewerstone"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/River_Plym_-_geograph.org.uk_-_382986.jpg",
-      "title": "Derek Harper\u00a0/\u00a0River Plym",
-      "caption": "River Plym Below Cadover Bridge, the Plym drops between North Wood to the south and Cadworthy Wood on the north. Here, the river has cut something of a gorge, with granite walls appearing in Cadworthy Wood. A kilometre downstream these culminate in the Dewerstone. The photo was taken from the end of a small island in mid-stream."
-    }
-  ],
-  "distance_km": 5.5,
-  "description": "This varied walk in Dartmoor explores the attractive woodland, rivers and crags around Cadover Bridge and Dewerstone. The walk starts from the Cadover Bridge car park and takes you along a lovely section of the River Plym to North Wood with its mixed silver birch and oak. You continue through the woodland to Shaugh Bridge where you cross the Plym to begin the return leg on the northern side of the river. This section takes you through Dewerstone Wood and past the Dewerstone Rocks which are a popular spot for climbers. The route then passes Cadworthy Wood and Cadworthy Farm before returning to the car park. The walk can be extended by continuing along the Plym at Shaugh Bridge through the beautiful Bickleigh Vale. You could also try the Plymbridge Woods Cyle and Walking trail . This follows the trackbed of a disused railway line through oak woodland, with the River Plym by your side for part of the way. The Dewerstone woods are located close to the village of Shaugh Prior . You can visit the site by following a footpath north west from the village.",
-  "video_url": "https://www.youtube.com/embed/O0kui3lP9Is",
-  "postcode": "PL7 5EH",
-  "county": "Devon",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/River_Plym_from_Cadover_Bridge_-_geograph.org.uk_-_1529369.jpg",
+            "title": "Derek Harper / River Plym from Cadover Bridge",
+            "caption": "River Plym from Cadover Bridge. Looking downstream from the bridge. In the foreground is one of a series of small weirs along this stretch of the river."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cadover_Bridge_-_geograph.org.uk_-_1529433.jpg",
+            "title": "Derek Harper / Cadover Bridge",
+            "caption": "Cadover Bridge Bridging the Plym, which is flowing to the left. \"Originally the bridge at Cadover was a granite clapper bridge over the River Plym. A bridge with two arches was built to replace it. Eventually in the 19th century the present bridge was built\""
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Meavy%2C_Cadover_Lake_-_geograph.org.uk_-_2175439.jpg",
+            "title": "Meavy: Cadover Lake by Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Meavy, Cadover Lake. The pretty lakes are located just to the north of the car park."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Meavy%2C_above_the_edge_of_Cadworthy_Wood_-_geograph.org.uk_-_2175465.jpg",
+            "title": "Meavy: above the edge of Cadworthy Wood by Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Meavy, above the edge of Cadworthy Wood"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Meavy%2C_on_Wigford_Down_2_-_geograph.org.uk_-_2175505.jpg",
+            "title": "Meavy: on Wigford Down 2 by Martin Bodman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "On Wigford Down"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Shaugh_Bridge_-_geograph.org.uk_-_1534817.jpg",
+            "title": "Pierre Terre / Shaugh Bridge",
+            "caption": "The River Plym flows towards its confluence with the Meavy at Shaugh Bridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/View_across_to_the_Dewerstone_-_geograph.org.uk_-_2541883.jpg",
+            "title": "View across to the Dewerstone by Stephen Craven, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "View across to the Dewerstone"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/River_Plym_-_geograph.org.uk_-_382986.jpg",
+            "title": "Derek Harper / River Plym",
+            "caption": "River Plym Below Cadover Bridge, the Plym drops between North Wood to the south and Cadworthy Wood on the north. Here, the river has cut something of a gorge, with granite walls appearing in Cadworthy Wood. A kilometre downstream these culminate in the Dewerstone. The photo was taken from the end of a small island in mid-stream."
+        }
+    ],
+    "distance_km": 5.5,
+    "description": "This varied walk in Dartmoor explores the attractive woodland, rivers and crags around Cadover Bridge and Dewerstone. The walk starts from the Cadover Bridge car park and takes you along a lovely section of the River Plym to North Wood with its mixed silver birch and oak. You continue through the woodland to Shaugh Bridge where you cross the Plym to begin the return leg on the northern side of the river. This section takes you through Dewerstone Wood and past the Dewerstone Rocks which are a popular spot for climbers. The route then passes Cadworthy Wood and Cadworthy Farm before returning to the car park. The walk can be extended by continuing along the Plym at Shaugh Bridge through the beautiful Bickleigh Vale. You could also try the Plymbridge Woods Cyle and Walking trail . This follows the trackbed of a disused railway line through oak woodland, with the River Plym by your side for part of the way. The Dewerstone woods are located close to the village of Shaugh Prior . You can visit the site by following a footpath north west from the village.",
+    "video_url": "https://www.youtube.com/embed/O0kui3lP9Is",
+    "postcode": "PL7 5EH",
+    "county": "Devon",
+    "region": "South West",
+    "country": "England"
 }

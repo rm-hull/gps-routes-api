@@ -1,81 +1,81 @@
 {
-  "objectID": "b30e873275107be3161fd6ba7b05f078",
-  "created_at": "2024-12-19T15:44:30.993011+00:00",
-  "ref": "ideford-common-walking-route",
-  "title": "Ideford Common Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shattered_flint%2C_Ideford_Common_-_geograph.org.uk_-_1371415.jpg",
-  "nearby": [
-    {
-      "description": "Newton Abbot",
-      "objectID": "da23e1aa79255888ec198dfab8d87e5d",
-      "ref": "newton-abbot-walking-route"
+    "objectID": "b30e873275107be3161fd6ba7b05f078",
+    "created_at": "2024-12-19T15:44:30.993011+00:00",
+    "ref": "ideford-common-walking-route",
+    "title": "Ideford Common Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shattered_flint%2C_Ideford_Common_-_geograph.org.uk_-_1371415.jpg",
+    "nearby": [
+        {
+            "description": "Newton Abbot",
+            "objectID": "da23e1aa79255888ec198dfab8d87e5d",
+            "ref": "newton-abbot-walking-route"
+        },
+        {
+            "description": "River Teign Walk",
+            "objectID": "3e369c17bf5ffe62945735163bfd167f",
+            "ref": "river-teign-walk-walking-route"
+        },
+        {
+            "description": "Chudleigh",
+            "objectID": "ee5c352c3e14f9c01f1c344d166dcea5",
+            "ref": "chudleigh-walking-route"
+        },
+        {
+            "description": "Doddiscombsleigh Walk",
+            "objectID": "591bcb94413a2ebec61efa344ea7590f",
+            "ref": "doddiscombsleigh-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3917D1BC8DB667238025845D004F6DAA/$FILE/Ideford Common.gpx",
+    "_geoloc": {
+        "lat": 50.6010162906,
+        "lng": -3.5520875828
     },
-    {
-      "description": "River Teign Walk",
-      "objectID": "3e369c17bf5ffe62945735163bfd167f",
-      "ref": "river-teign-walk-walking-route"
-    },
-    {
-      "description": "Chudleigh",
-      "objectID": "ee5c352c3e14f9c01f1c344d166dcea5",
-      "ref": "chudleigh-walking-route"
-    },
-    {
-      "description": "Doddiscombsleigh Walk",
-      "objectID": "591bcb94413a2ebec61efa344ea7590f",
-      "ref": "doddiscombsleigh-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/3917D1BC8DB667238025845D004F6DAA/$FILE/Ideford Common.gpx",
-  "_geoloc": {
-    "lat": 50.6010162906,
-    "lng": -3.5520875828
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shattered_flint%2C_Ideford_Common_-_geograph.org.uk_-_1371415.jpg",
-      "title": "Robin Stott\u00a0/\u00a0Shattered flint, Ideford Common, via Wikimedia Commons",
-      "caption": "Shattered flint, Ideford Common"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Encampment%2C_Ideford_Common_-_geograph.org.uk_-_1371447.jpg",
-      "title": "Robin Stott\u00a0/\u00a0Encampment, Ideford Common, via Wikimedia Commons",
-      "caption": "Encampment, Ideford Common"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Not_a_pile_of_pallets%2C_encampment%2C_Ideford_Common_-_geograph.org.uk_-_1371468.jpg",
-      "title": "Robin Stott\u00a0/\u00a0Not a pile of pallets, encampment, Ideford Common, via Wikimedia Commons",
-      "caption": "In the valley is the village of Ideford\u00a0and beyond the ridge is the broad valley of the Teign estuary."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bridleway_on_Ideford_Common_-_geograph.org.uk_-_158216.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Bridleway on Ideford Common, via Wikimedia Commons",
-      "caption": "Bridleway on Ideford Common. An old bank runs alongside this woodland ride not far from the northern car park on Ideford Common. A fire beater at the junction on the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Track%2C_across_Ideford_Common_-_geograph.org.uk_-_1532991.jpg",
-      "title": "Roger Cornfoot\u00a0/\u00a0Track, across Ideford Common, via Wikimedia Commons",
-      "caption": "Nice tree lined track across the common"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Path%2C_on_Ideford_Common_-_geograph.org.uk_-_1533022.jpg",
-      "title": "Roger Cornfoot\u00a0/\u00a0Path, on Ideford Common, via Wikimedia Commons",
-      "caption": "Path, on Ideford Common"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Forestry_near_Ideford_Common_-_geograph.org.uk_-_1371560.jpg",
-      "title": "Robin Stott\u00a0/\u00a0Forestry near Ideford Common, via Wikimedia Commons",
-      "caption": "Forestry near Ideford Common. Logs of pine have been stacked on a disused stretch of road, whose mossy boundary bank is in the foreground. Rixafer Road was diverted for the construction of the A380 Ashcombe Cross interchange."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bridleway%2C_on_Ideford_Common_-_geograph.org.uk_-_1532997.jpg",
-      "title": "Roger Cornfoot\u00a0/\u00a0Bridleway, on Ideford Common, via Wikimedia Commons",
-      "caption": "Bridleway, on Ideford Common"
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "This area of common land near Newton Abbot has some nice footpaths to try. The common is located just a half mile north of the Devon village if Ideford. You could start the walk from there if you like but this route starts from the car park at the northern edge of the common. From here you can pick up footpaths heading south through the woodland, heathland and grassland on the site. Look out for birdlife including nightjars\u00a0and\u00a0Dartford warbler as you go. The common is in an elevated position so there are nice views down to the village and across the broad valley of the Teign Estuary. It's a very attractive and peaceful area so you could easily spend a couple of hours strolling along the various paths. There's also the option of heading north and exploring the adjacent Haldon Forest if you have time. To the west of the common you can pick up the River Teign Walk near Chudleigh . The long river walk explores the Teign Valley. You could follow it south, for example, to visit the Chudleigh Knighton Heath Nature Reserve.",
-  "county": "Devon",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Shattered_flint%2C_Ideford_Common_-_geograph.org.uk_-_1371415.jpg",
+            "title": "Robin Stott / Shattered flint, Ideford Common, via Wikimedia Commons",
+            "caption": "Shattered flint, Ideford Common"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Encampment%2C_Ideford_Common_-_geograph.org.uk_-_1371447.jpg",
+            "title": "Robin Stott / Encampment, Ideford Common, via Wikimedia Commons",
+            "caption": "Encampment, Ideford Common"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Not_a_pile_of_pallets%2C_encampment%2C_Ideford_Common_-_geograph.org.uk_-_1371468.jpg",
+            "title": "Robin Stott / Not a pile of pallets, encampment, Ideford Common, via Wikimedia Commons",
+            "caption": "In the valley is the village of Ideford and beyond the ridge is the broad valley of the Teign estuary."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Bridleway_on_Ideford_Common_-_geograph.org.uk_-_158216.jpg",
+            "title": "Derek Harper / Bridleway on Ideford Common, via Wikimedia Commons",
+            "caption": "Bridleway on Ideford Common. An old bank runs alongside this woodland ride not far from the northern car park on Ideford Common. A fire beater at the junction on the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Track%2C_across_Ideford_Common_-_geograph.org.uk_-_1532991.jpg",
+            "title": "Roger Cornfoot / Track, across Ideford Common, via Wikimedia Commons",
+            "caption": "Nice tree lined track across the common"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Path%2C_on_Ideford_Common_-_geograph.org.uk_-_1533022.jpg",
+            "title": "Roger Cornfoot / Path, on Ideford Common, via Wikimedia Commons",
+            "caption": "Path, on Ideford Common"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Forestry_near_Ideford_Common_-_geograph.org.uk_-_1371560.jpg",
+            "title": "Robin Stott / Forestry near Ideford Common, via Wikimedia Commons",
+            "caption": "Forestry near Ideford Common. Logs of pine have been stacked on a disused stretch of road, whose mossy boundary bank is in the foreground. Rixafer Road was diverted for the construction of the A380 Ashcombe Cross interchange."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Bridleway%2C_on_Ideford_Common_-_geograph.org.uk_-_1532997.jpg",
+            "title": "Roger Cornfoot / Bridleway, on Ideford Common, via Wikimedia Commons",
+            "caption": "Bridleway, on Ideford Common"
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "This area of common land near Newton Abbot has some nice footpaths to try. The common is located just a half mile north of the Devon village if Ideford. You could start the walk from there if you like but this route starts from the car park at the northern edge of the common. From here you can pick up footpaths heading south through the woodland, heathland and grassland on the site. Look out for birdlife including nightjars and Dartford warbler as you go. The common is in an elevated position so there are nice views down to the village and across the broad valley of the Teign Estuary. It's a very attractive and peaceful area so you could easily spend a couple of hours strolling along the various paths. There's also the option of heading north and exploring the adjacent Haldon Forest if you have time. To the west of the common you can pick up the River Teign Walk near Chudleigh . The long river walk explores the Teign Valley. You could follow it south, for example, to visit the Chudleigh Knighton Heath Nature Reserve.",
+    "county": "Devon",
+    "region": "South West",
+    "country": "England"
 }

@@ -1,73 +1,73 @@
 {
-  "objectID": "373e82c29341827945aaf7768088b153",
-  "created_at": "2024-12-18T16:18:04.785340+00:00",
-  "ref": "laugharne-walking-route",
-  "title": "Laugharne Walk - Castle and Dylan Thomas Boathouse Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Laugharne_Castle_%2817273349591%29.jpg/512px-Laugharne_Castle_%2817273349591%29.jpg",
-  "nearby": [
-    {
-      "description": "Pembrey Country Park",
-      "objectID": "404176d761a6f038672b008d4b0f0774",
-      "ref": "pembrey-country-park-walking-and-cycle-route"
+    "objectID": "373e82c29341827945aaf7768088b153",
+    "created_at": "2024-12-18T16:18:04.785340+00:00",
+    "ref": "laugharne-walking-route",
+    "title": "Laugharne Walk - Castle and Dylan Thomas Boathouse Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Laugharne_Castle_%2817273349591%29.jpg/512px-Laugharne_Castle_%2817273349591%29.jpg",
+    "nearby": [
+        {
+            "description": "Pembrey Country Park",
+            "objectID": "404176d761a6f038672b008d4b0f0774",
+            "ref": "pembrey-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Llansteffan",
+            "objectID": "2061f66607b753daeb4da87abe9e2131",
+            "ref": "llansteffan-walking-route"
+        },
+        {
+            "description": "Pendine to Amroth Coastal Path",
+            "objectID": "4a807453d018ecaa588cde2f80123bb4",
+            "ref": "pendine-to-amroth-coastal-path-walking-route"
+        },
+        {
+            "description": "Dylan Thomas Birthday Walk",
+            "objectID": "f02f7d66b63dcdce7387b3d1b181c9b6",
+            "ref": "dylan-thomas-birthday-walk"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/300132E066EDBC5E80258402004F3B0F/$FILE/Laugharne.gpx",
+    "_geoloc": {
+        "lat": 51.7691971738,
+        "lng": -4.4629543843
     },
-    {
-      "description": "Llansteffan",
-      "objectID": "2061f66607b753daeb4da87abe9e2131",
-      "ref": "llansteffan-walking-route"
-    },
-    {
-      "description": "Pendine to Amroth Coastal Path",
-      "objectID": "4a807453d018ecaa588cde2f80123bb4",
-      "ref": "pendine-to-amroth-coastal-path-walking-route"
-    },
-    {
-      "description": "Dylan Thomas Birthday Walk",
-      "objectID": "f02f7d66b63dcdce7387b3d1b181c9b6",
-      "ref": "dylan-thomas-birthday-walk"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/300132E066EDBC5E80258402004F3B0F/$FILE/Laugharne.gpx",
-  "_geoloc": {
-    "lat": 51.7691971738,
-    "lng": -4.4629543843
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Laugharne_Castle_%2817273349591%29.jpg/512px-Laugharne_Castle_%2817273349591%29.jpg",
-      "title": "Bryan Ledgard [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Laugharne Castle"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dylan_Thomas_%281914-53%29_lived_and_worked_at_his_Boathouse_with_its_clifftop_writing_shed_and_spectacular_views_in_the_seaside_town_of_Laugharne_on_the_fringes_of_Carmarthen_Bay._%2817247880856%29.jpg/512px-thumbnail.jpg",
-      "title": "Bryan Ledgard [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
-      "caption": "Dylan Thomas lived and worked at this Boathouse with its clifftop writing shed"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LaugharneBoatHouse.JPG/512px-LaugharneBoatHouse.JPG",
-      "title": "User LinguisticDemographer on en.wikipedia [Public domain], via Wikimedia Commons",
-      "caption": "Boathouse viewed across the foreshore from the south, with rolling hills in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dylan_Thomas_Gravesite_-_geograph.org.uk_-_666297.jpg",
-      "title": "Ceridwen Attwood\u00a0/\u00a0Dylan Thomas Gravesite, via Wikimedia Commons",
-      "caption": "Dylan Thomas Gravesite"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wales_Laugharne_Dylans_writing_hut.jpg/512px-Wales_Laugharne_Dylans_writing_hut.jpg",
-      "title": "Tony in Devon [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "Reconstruction of the 'writing shed'"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taf_Estuary_at_Laugharne_%285920%29.jpg/512px-Taf_Estuary_at_Laugharne_%285920%29.jpg",
-      "title": "Nilfanion [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "Taf Estuary at Laugharne"
-    }
-  ],
-  "distance_km": 3.5,
-  "description": "This lovely, coastal circular walk around Laugharne visits Laugharne Castle and the Dylan Thomas Boathouse. The delightful Carmarthenshire town lies on the estuary of the River Taf. It is well known for having been the home of the author Dylan Thomas from 1949 until his death in 1953. It is thought to have been the inspiration for the fictional town of Llareggub in his famous play 'Under Milk Wood'. You can start the walk from car park in the town. It is a short stroll from here to the castle, which is in a great position overlooking the estuary. The castle was originally established in 1116 and then rebuilt as a Norman stronghold in 1215. It later became a Tudor fortified manor house in the sixteenth century. The two robust round towers date from the rebuilding work done in the late thirteenth century, however. \u00a0The site is a scheduled ancient monument\u00a0and Grade I listed building, described as being 'amongst the most substantial castle remain in Wales'. After exploring the castle the route continues a short distance to the north where you will find the Dylan Thomas boathouse. The house is very photogenic, being set in a cliff overlooking the estuary. It was at this house that he wrote many major pieces including part of 'Under Milk Wood'. The house now serves as a museum which is\u00a0open to the public for most of the year.\u00a0\u00a0It contains various memorabilia and some of the original furniture, including Dylan's father's desk. Items on show include a bust of Dylan Thomas, formerly owned by\u00a0Richard Burton\u00a0and\u00a0Elizabeth Taylor, a letter from former US President\u00a0Jimmy Carter, and a 1936 photograph of Thomas, notable for having been taken into space on board the\u00a0Space Shuttle\u00a0Columbia\u00a0in 1998. Also close to the main house is a reconstruction of the 'writing shed' where Thomas spent much of his time. The route then continues along the coastal footpath where you can look out for a variety of wildlife on the estuary. The mud flats are rich in wildlife with all kinds of visiting wading birds, fish and seals and the occasional peregrine falcon. The route then returns to the town on an inland public footpath to create a circular walk. You can extend the walk by continuing south along the coastal path on Dylan Thomas Birthday Walk . This takes you along a lovely path which inspired a\u00a0poem Thomas wrote on his 30th birthday - 'A Poem in October'. The path will eventually take you to Sir John's Hill where there's some fine countryside views. To continue your walking around the bay head to Pembrey Country Park where there's fine views of the Gower Peninsula and Carmarthen Bay. To the east you can enjoy walks along the lovely Towy Estuary in the village of Llansteffan . There's also a Norman castle to see here too.",
-  "video_url": "https://www.youtube.com/embed/F0xjPq_Ad14",
-  "district": "Talacharn / Laugharne",
-  "county": "Sir Gaerfyrddin - Carmarthenshire",
-  "region": "Wales",
-  "country": "Wales"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Laugharne_Castle_%2817273349591%29.jpg/512px-Laugharne_Castle_%2817273349591%29.jpg",
+            "title": "Bryan Ledgard [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Laugharne Castle"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Dylan_Thomas_%281914-53%29_lived_and_worked_at_his_Boathouse_with_its_clifftop_writing_shed_and_spectacular_views_in_the_seaside_town_of_Laugharne_on_the_fringes_of_Carmarthen_Bay._%2817247880856%29.jpg/512px-thumbnail.jpg",
+            "title": "Bryan Ledgard [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+            "caption": "Dylan Thomas lived and worked at this Boathouse with its clifftop writing shed"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/LaugharneBoatHouse.JPG/512px-LaugharneBoatHouse.JPG",
+            "title": "User LinguisticDemographer on en.wikipedia [Public domain], via Wikimedia Commons",
+            "caption": "Boathouse viewed across the foreshore from the south, with rolling hills in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Dylan_Thomas_Gravesite_-_geograph.org.uk_-_666297.jpg",
+            "title": "Ceridwen Attwood / Dylan Thomas Gravesite, via Wikimedia Commons",
+            "caption": "Dylan Thomas Gravesite"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Wales_Laugharne_Dylans_writing_hut.jpg/512px-Wales_Laugharne_Dylans_writing_hut.jpg",
+            "title": "Tony in Devon [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "Reconstruction of the 'writing shed'"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Taf_Estuary_at_Laugharne_%285920%29.jpg/512px-Taf_Estuary_at_Laugharne_%285920%29.jpg",
+            "title": "Nilfanion [CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "Taf Estuary at Laugharne"
+        }
+    ],
+    "distance_km": 3.5,
+    "description": "This lovely, coastal circular walk around Laugharne visits Laugharne Castle and the Dylan Thomas Boathouse. The delightful Carmarthenshire town lies on the estuary of the River Taf. It is well known for having been the home of the author Dylan Thomas from 1949 until his death in 1953. It is thought to have been the inspiration for the fictional town of Llareggub in his famous play 'Under Milk Wood'. You can start the walk from car park in the town. It is a short stroll from here to the castle, which is in a great position overlooking the estuary. The castle was originally established in 1116 and then rebuilt as a Norman stronghold in 1215. It later became a Tudor fortified manor house in the sixteenth century. The two robust round towers date from the rebuilding work done in the late thirteenth century, however.  The site is a scheduled ancient monument and Grade I listed building, described as being 'amongst the most substantial castle remain in Wales'. After exploring the castle the route continues a short distance to the north where you will find the Dylan Thomas boathouse. The house is very photogenic, being set in a cliff overlooking the estuary. It was at this house that he wrote many major pieces including part of 'Under Milk Wood'. The house now serves as a museum which is open to the public for most of the year.  It contains various memorabilia and some of the original furniture, including Dylan's father's desk. Items on show include a bust of Dylan Thomas, formerly owned by Richard Burton and Elizabeth Taylor, a letter from former US President Jimmy Carter, and a 1936 photograph of Thomas, notable for having been taken into space on board the Space Shuttle Columbia in 1998. Also close to the main house is a reconstruction of the 'writing shed' where Thomas spent much of his time. The route then continues along the coastal footpath where you can look out for a variety of wildlife on the estuary. The mud flats are rich in wildlife with all kinds of visiting wading birds, fish and seals and the occasional peregrine falcon. The route then returns to the town on an inland public footpath to create a circular walk. You can extend the walk by continuing south along the coastal path on Dylan Thomas Birthday Walk . This takes you along a lovely path which inspired a poem Thomas wrote on his 30th birthday - 'A Poem in October'. The path will eventually take you to Sir John's Hill where there's some fine countryside views. To continue your walking around the bay head to Pembrey Country Park where there's fine views of the Gower Peninsula and Carmarthen Bay. To the east you can enjoy walks along the lovely Towy Estuary in the village of Llansteffan . There's also a Norman castle to see here too.",
+    "video_url": "https://www.youtube.com/embed/F0xjPq_Ad14",
+    "district": "Talacharn / Laugharne",
+    "county": "Sir Gaerfyrddin - Carmarthenshire",
+    "region": "Wales",
+    "country": "Wales"
 }

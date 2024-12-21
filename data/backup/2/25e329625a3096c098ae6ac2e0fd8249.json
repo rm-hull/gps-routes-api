@@ -1,83 +1,83 @@
 {
-  "objectID": "25e329625a3096c098ae6ac2e0fd8249",
-  "created_at": "2024-12-19T17:04:52.548933+00:00",
-  "ref": "stanpit-marsh-walking-route",
-  "title": "Stanpit Marsh Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Christchurch%2C_Stanpit_Marsh_-_geograph.org.uk_-_1705320.jpg",
-  "nearby": [
-    {
-      "description": "Highcliffe Castle and Coast",
-      "objectID": "52f8dcf93f00d70ccaa9403fe72b6633",
-      "ref": "highcliffe-castle-and-coast-walking-route"
+    "objectID": "25e329625a3096c098ae6ac2e0fd8249",
+    "created_at": "2024-12-19T17:04:52.548933+00:00",
+    "ref": "stanpit-marsh-walking-route",
+    "title": "Stanpit Marsh Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Christchurch%2C_Stanpit_Marsh_-_geograph.org.uk_-_1705320.jpg",
+    "nearby": [
+        {
+            "description": "Highcliffe Castle and Coast",
+            "objectID": "52f8dcf93f00d70ccaa9403fe72b6633",
+            "ref": "highcliffe-castle-and-coast-walking-route"
+        },
+        {
+            "description": "Bournemouth Coast Path",
+            "objectID": "d50c66d416dab7c728178083d4565e12",
+            "ref": "bournemouth-coast-path-walking-route"
+        },
+        {
+            "description": "Hengistbury Head",
+            "objectID": "2c6884b809e93651240c9e055ca1135c",
+            "ref": "hengistbury-head-walking-route"
+        },
+        {
+            "description": "Stour Valley Way",
+            "objectID": "6815ecc39ffffa3cbc2225ad8d6071ca",
+            "ref": "stour-valley-way-walking-route"
+        },
+        {
+            "description": "Avon Valley Path",
+            "objectID": "61555704a9a0b0749fd1fc084e491f41",
+            "ref": "avon-valley-path-walking-route"
+        },
+        {
+            "description": "Christchurch Harbour",
+            "objectID": "8752182f29690fd1df755e404b4985ba",
+            "ref": "christchurch-harbour-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/552FAC750827F9258025805A0077A10E/$FILE/Stanpit Marsh.gpx",
+    "_geoloc": {
+        "lat": 50.7310027157,
+        "lng": -1.758256769
     },
-    {
-      "description": "Bournemouth Coast Path",
-      "objectID": "d50c66d416dab7c728178083d4565e12",
-      "ref": "bournemouth-coast-path-walking-route"
-    },
-    {
-      "description": "Hengistbury Head",
-      "objectID": "2c6884b809e93651240c9e055ca1135c",
-      "ref": "hengistbury-head-walking-route"
-    },
-    {
-      "description": "Stour Valley Way",
-      "objectID": "6815ecc39ffffa3cbc2225ad8d6071ca",
-      "ref": "stour-valley-way-walking-route"
-    },
-    {
-      "description": "Avon Valley Path",
-      "objectID": "61555704a9a0b0749fd1fc084e491f41",
-      "ref": "avon-valley-path-walking-route"
-    },
-    {
-      "description": "Christchurch Harbour",
-      "objectID": "8752182f29690fd1df755e404b4985ba",
-      "ref": "christchurch-harbour-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/552FAC750827F9258025805A0077A10E/$FILE/Stanpit Marsh.gpx",
-  "_geoloc": {
-    "lat": 50.7310027157,
-    "lng": -1.758256769
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Christchurch%2C_Stanpit_Marsh_-_geograph.org.uk_-_1705320.jpg",
-      "title": "Eugene Birchall\u00a0/\u00a0Christchurch: Stanpit Marsh",
-      "caption": "A prototype of the Bailey Bridge across Ma Sillar's Channel, Stanpit Marsh, Christchurch, Dorset. The Bailey Bridge was designed and constructed at the Christchurch Barracks. Ma Sillar was a notorious 18th century smuggler. The Ma Sillers channel (now all but silted up) lead directly to the rear of her pub, The Ship in Distress."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Crouch_Hill_on_Stanpit_Marshes_-_geograph.org.uk_-_492067.jpg",
-      "title": "Mike Smith\u00a0/\u00a0Crouch Hill on Stanpit Marshes",
-      "caption": "Crouch Hill on Stanpit Marshes. The slight hump on the horizon is called Crouch Hill, although it is only a few feet higher than the surrounding land. It is fenced off to allow flora and fauna to develop without interference from humans or animals."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stanpit_Marsh%2C_Christchurch_-_geograph.org.uk_-_1051238.jpg",
-      "title": "Mike Faherty\u00a0/\u00a0Stanpit Marsh, Christchurch",
-      "caption": "Stanpit Marsh, Christchurch Salt & freshwater marsh, reedbeds & scrub; SSSI. A little egret & curlew can be seen pottering around in the middle ground. Another frequent species is the common twitcher, which overwinters; its breeding habits are however not recorded."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bailey_bridge%2C_Stanpit_Marsh_-_geograph.org.uk_-_1051074.jpg",
-      "title": "Mike Faherty\u00a0/\u00a0Bailey bridge, Stanpit Marsh",
-      "caption": "Bailey bridge, Stanpit Marsh. This is an early example of the Bailey bridge, designed by Donald (later Sir) Bailey at the Experimental Bridging Establishment in nearby Bargates, Chistchurch. A few of the reserve's resident horses can be seen in the background"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trig_point%2C_Stanpit_-_geograph.org.uk_-_1051066.jpg",
-      "title": "Mike Faherty\u00a0/\u00a0Trig point, Stanpit",
-      "caption": "Trig point, Stanpit. Seen from the entrance to Stanpit Marsh Nature Reserve. The trig point's ID is S4376. To the right, Stanpit Recreation Ground, a favourite with dog walkers."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stanpit_Marsh%2C_mare_and_foal_-_geograph.org.uk_-_1431510.jpg",
-      "title": "Mike Faherty\u00a0/\u00a0Stanpit Marsh, mare and foal",
-      "caption": "Stanpit Marsh, mare and foal. One of the twenty ponies (with their foals) allowed to graze on the marsh; on the main footpath North from Grimbury Marsh."
-    }
-  ],
-  "distance_km": 2.5,
-  "description": "Enjoy lovely coastal views and a variety of wading birds in this nature reserve in Christchurch. It's a delightful area with lagoons, marshland, reed beds and splendid views back to Christchurch Harbour and Priory. It's great for wildlife with over 300 birds spotted at the site. Look out for Curlew, Little Egret, Black-tailed  Godwits and Herons. Also keep an eye out for rabbits and the resident horses and their foals. You can park at the Stanpit Recreation Ground car park and then pick up the walking trails through the reserve. National Cycle Network Route 2 runs from Christchurch to the reserve on a nice traffic free path too. To extend your walking in the area you can pick up the Stour Valley Way or the Avon Valley Path which run through Christchurch. Also nearby is the splendid Mudeford Quay and Hengistbury Head where you can enjoy coastal views towards the Purbeck Hills and the Isle of Wight. To reach Hengistbury Head you can walk east to Mudeford Quay and catch the ferry to Mudeford . The Bournemouth Coast Path also runs past the reserve so you can pick this up and head along the coast to Highcliffe Castle and Coast too.",
-  "video_url": "https://www.youtube.com/embed/pkzZX_R_60Q",
-  "district": "Christchurch",
-  "county": "Bournemouth, Christchurch and Poole",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Christchurch%2C_Stanpit_Marsh_-_geograph.org.uk_-_1705320.jpg",
+            "title": "Eugene Birchall / Christchurch: Stanpit Marsh",
+            "caption": "A prototype of the Bailey Bridge across Ma Sillar's Channel, Stanpit Marsh, Christchurch, Dorset. The Bailey Bridge was designed and constructed at the Christchurch Barracks. Ma Sillar was a notorious 18th century smuggler. The Ma Sillers channel (now all but silted up) lead directly to the rear of her pub, The Ship in Distress."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Crouch_Hill_on_Stanpit_Marshes_-_geograph.org.uk_-_492067.jpg",
+            "title": "Mike Smith / Crouch Hill on Stanpit Marshes",
+            "caption": "Crouch Hill on Stanpit Marshes. The slight hump on the horizon is called Crouch Hill, although it is only a few feet higher than the surrounding land. It is fenced off to allow flora and fauna to develop without interference from humans or animals."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Stanpit_Marsh%2C_Christchurch_-_geograph.org.uk_-_1051238.jpg",
+            "title": "Mike Faherty / Stanpit Marsh, Christchurch",
+            "caption": "Stanpit Marsh, Christchurch Salt & freshwater marsh, reedbeds & scrub; SSSI. A little egret & curlew can be seen pottering around in the middle ground. Another frequent species is the common twitcher, which overwinters; its breeding habits are however not recorded."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bailey_bridge%2C_Stanpit_Marsh_-_geograph.org.uk_-_1051074.jpg",
+            "title": "Mike Faherty / Bailey bridge, Stanpit Marsh",
+            "caption": "Bailey bridge, Stanpit Marsh. This is an early example of the Bailey bridge, designed by Donald (later Sir) Bailey at the Experimental Bridging Establishment in nearby Bargates, Chistchurch. A few of the reserve's resident horses can be seen in the background"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Trig_point%2C_Stanpit_-_geograph.org.uk_-_1051066.jpg",
+            "title": "Mike Faherty / Trig point, Stanpit",
+            "caption": "Trig point, Stanpit. Seen from the entrance to Stanpit Marsh Nature Reserve. The trig point's ID is S4376. To the right, Stanpit Recreation Ground, a favourite with dog walkers."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Stanpit_Marsh%2C_mare_and_foal_-_geograph.org.uk_-_1431510.jpg",
+            "title": "Mike Faherty / Stanpit Marsh, mare and foal",
+            "caption": "Stanpit Marsh, mare and foal. One of the twenty ponies (with their foals) allowed to graze on the marsh; on the main footpath North from Grimbury Marsh."
+        }
+    ],
+    "distance_km": 2.5,
+    "description": "Enjoy lovely coastal views and a variety of wading birds in this nature reserve in Christchurch. It's a delightful area with lagoons, marshland, reed beds and splendid views back to Christchurch Harbour and Priory. It's great for wildlife with over 300 birds spotted at the site. Look out for Curlew, Little Egret, Black-tailed  Godwits and Herons. Also keep an eye out for rabbits and the resident horses and their foals. You can park at the Stanpit Recreation Ground car park and then pick up the walking trails through the reserve. National Cycle Network Route 2 runs from Christchurch to the reserve on a nice traffic free path too. To extend your walking in the area you can pick up the Stour Valley Way or the Avon Valley Path which run through Christchurch. Also nearby is the splendid Mudeford Quay and Hengistbury Head where you can enjoy coastal views towards the Purbeck Hills and the Isle of Wight. To reach Hengistbury Head you can walk east to Mudeford Quay and catch the ferry to Mudeford . The Bournemouth Coast Path also runs past the reserve so you can pick this up and head along the coast to Highcliffe Castle and Coast too.",
+    "video_url": "https://www.youtube.com/embed/pkzZX_R_60Q",
+    "district": "Christchurch",
+    "county": "Bournemouth, Christchurch and Poole",
+    "region": "South West",
+    "country": "England"
 }

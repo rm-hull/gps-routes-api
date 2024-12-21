@@ -1,84 +1,84 @@
 {
-  "objectID": "bcf02e1d3af221a6df13636e41c914c6",
-  "created_at": "2024-12-18T11:23:07.705693+00:00",
-  "ref": "undercliff-walk-brighton-walking-route",
-  "title": "Undercliff Walk Brighton Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
-  "nearby": [
-    {
-      "description": "Brighton to Newhaven",
-      "objectID": "d2611da83e9ea2d4b21cf874be281030",
-      "ref": "brighton-to-newhaven-walking-and-cycle-route"
+    "objectID": "bcf02e1d3af221a6df13636e41c914c6",
+    "created_at": "2024-12-18T11:23:07.705693+00:00",
+    "ref": "undercliff-walk-brighton-walking-route",
+    "title": "Undercliff Walk Brighton Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
+    "nearby": [
+        {
+            "description": "Brighton to Newhaven",
+            "objectID": "d2611da83e9ea2d4b21cf874be281030",
+            "ref": "brighton-to-newhaven-walking-and-cycle-route"
+        },
+        {
+            "description": "Brighton to Eastbourne",
+            "objectID": "426a04cc4f6904f72627e94480ea1e2c",
+            "ref": "brighton-to-eastbourne-walking-route"
+        },
+        {
+            "description": "Rottingdean",
+            "objectID": "fe1e4ffead2244931831e88d2fdba02a",
+            "ref": "rottingdean-walking-route"
+        },
+        {
+            "description": "Castle Hill National Nature Reserve",
+            "objectID": "bd0bd40c208e22a1f00a20fa4bfdedbf",
+            "ref": "castle-hill-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/F08567736D7C5B75802580A7007870EB/$FILE/Undercliff Walk Brighton.gpx",
+    "_geoloc": {
+        "lat": 50.8143995067,
+        "lng": -0.1060496492
     },
-    {
-      "description": "Brighton to Eastbourne",
-      "objectID": "426a04cc4f6904f72627e94480ea1e2c",
-      "ref": "brighton-to-eastbourne-walking-route"
-    },
-    {
-      "description": "Rottingdean",
-      "objectID": "fe1e4ffead2244931831e88d2fdba02a",
-      "ref": "rottingdean-walking-route"
-    },
-    {
-      "description": "Castle Hill National Nature Reserve",
-      "objectID": "bd0bd40c208e22a1f00a20fa4bfdedbf",
-      "ref": "castle-hill-nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/F08567736D7C5B75802580A7007870EB/$FILE/Undercliff Walk Brighton.gpx",
-  "_geoloc": {
-    "lat": 50.8143995067,
-    "lng": -0.1060496492
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
-      "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-      "caption": "Brighton Undercliff Walk"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brighton_Undercliff_Walk_and_beach.JPG/512px-Brighton_Undercliff_Walk_and_beach.JPG",
-      "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-      "caption": "Brighton Undercliff Walk and beach"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brighton_Undercliff_Walk.JPG/512px-Brighton_Undercliff_Walk.JPG",
-      "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
-      "caption": "Photo shows the shared walk and cycle sign with Pedestrian priority."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Undercliff_Walk_-_geograph.org.uk_-_1333819.jpg",
-      "title": "Paul Gillett [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Undercliff Walk. Eastern end of the walk from Saltdean"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Brighton_Marina_-_geograph.org.uk_-_3082643.jpg",
-      "title": "Brighton Marina by\u00a0David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Brighton Marina at the start of the walk"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beaches_east_of_Brighton_marina_-_geograph.org.uk_-_3075952.jpg/512px-Beaches_east_of_Brighton_marina_-_geograph.org.uk_-_3075952.jpg",
-      "title": "Beaches east of Brighton marina by\u00a0Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Beaches east of Brighton marina"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cliffs_at_Ovingdean_Beach_-_geograph.org.uk_-_370081.jpg",
-      "title": "Simon Carey\u00a0/\u00a0Cliffs at Ovingdean Beach",
-      "caption": "Cliffs at Ovingdean Beach. Looking towards the cliffs from the beach. Toilets and cafe to the left of the steps, beach huts to the right."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Undercliff_Walk%2C_Rottingdean_-_geograph.org.uk_-_2212371.jpg/512px-Undercliff_Walk%2C_Rottingdean_-_geograph.org.uk_-_2212371.jpg",
-      "title": "Undercliff Walk, Rottingdean by\u00a0Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Undercliff Walk, Rottingdean"
-    }
-  ],
-  "distance_km": 5.0,
-  "description": "Follow the Undercliff Walk from Brighton Marina to Saltdean on this exhilarating coastal walk or cycle. The path runs for about 3 miles along the sea wall with the wonderful white cliffs on one side and the shingle beach and sea on the other. It can be a very exciting walk when the waves are crashing against the sea wall but do take care on particularly windy days as the water can come right over onto the path. The route passes along National Cycle Network route 2 so it's open to cyclists as well. Please note that pedestrians have priority so please keep to a reasonable speed on your ride. The path is flat and well surfaced so it's a nice easy ride for beginners or families to try. The path starts from the marina about a mile east from the town centre. You pass Roedean and Rottingdean before finishing at the village of Saltdean. Here you will find the Grade II Listed Saltdean Lido built in 1937-38 to designs by the architect\u00a0Richard Jones. There's plenty of nice cafes along the way where you can stop for refreshments before starting the return leg. You could return via Ovingdean and the East Brighton Golf course on more elevated paths as an alternative. If you felt like extending your walk you can continue to Newhaven along the wonderful Brighton to Newhaven clifftop path .",
-  "video_url": "https://www.youtube.com/embed/4GrFd2BUgkg",
-  "postcode": "BN2 5UB",
-  "district": "Brighton",
-  "county": "The City of Brighton and Hove",
-  "region": "South East",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Brighton_Undercliff_Walk_2.JPG/512px-Brighton_Undercliff_Walk_2.JPG",
+            "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+            "caption": "Brighton Undercliff Walk"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Brighton_Undercliff_Walk_and_beach.JPG/512px-Brighton_Undercliff_Walk_and_beach.JPG",
+            "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+            "caption": "Brighton Undercliff Walk and beach"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brighton_Undercliff_Walk.JPG/512px-Brighton_Undercliff_Walk.JPG",
+            "title": "By Editor5807 (Own work) [GFDL (http://www.gnu.org/copyleft/fdl.html) or CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons",
+            "caption": "Photo shows the shared walk and cycle sign with Pedestrian priority."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Undercliff_Walk_-_geograph.org.uk_-_1333819.jpg",
+            "title": "Paul Gillett [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Undercliff Walk. Eastern end of the walk from Saltdean"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Brighton_Marina_-_geograph.org.uk_-_3082643.jpg",
+            "title": "Brighton Marina by David Dixon, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Brighton Marina at the start of the walk"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Beaches_east_of_Brighton_marina_-_geograph.org.uk_-_3075952.jpg/512px-Beaches_east_of_Brighton_marina_-_geograph.org.uk_-_3075952.jpg",
+            "title": "Beaches east of Brighton marina by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Beaches east of Brighton marina"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/71/Cliffs_at_Ovingdean_Beach_-_geograph.org.uk_-_370081.jpg",
+            "title": "Simon Carey / Cliffs at Ovingdean Beach",
+            "caption": "Cliffs at Ovingdean Beach. Looking towards the cliffs from the beach. Toilets and cafe to the left of the steps, beach huts to the right."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Undercliff_Walk%2C_Rottingdean_-_geograph.org.uk_-_2212371.jpg/512px-Undercliff_Walk%2C_Rottingdean_-_geograph.org.uk_-_2212371.jpg",
+            "title": "Undercliff Walk, Rottingdean by Paul Gillett, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Undercliff Walk, Rottingdean"
+        }
+    ],
+    "distance_km": 5.0,
+    "description": "Follow the Undercliff Walk from Brighton Marina to Saltdean on this exhilarating coastal walk or cycle. The path runs for about 3 miles along the sea wall with the wonderful white cliffs on one side and the shingle beach and sea on the other. It can be a very exciting walk when the waves are crashing against the sea wall but do take care on particularly windy days as the water can come right over onto the path. The route passes along National Cycle Network route 2 so it's open to cyclists as well. Please note that pedestrians have priority so please keep to a reasonable speed on your ride. The path is flat and well surfaced so it's a nice easy ride for beginners or families to try. The path starts from the marina about a mile east from the town centre. You pass Roedean and Rottingdean before finishing at the village of Saltdean. Here you will find the Grade II Listed Saltdean Lido built in 1937-38 to designs by the architect Richard Jones. There's plenty of nice cafes along the way where you can stop for refreshments before starting the return leg. You could return via Ovingdean and the East Brighton Golf course on more elevated paths as an alternative. If you felt like extending your walk you can continue to Newhaven along the wonderful Brighton to Newhaven clifftop path .",
+    "video_url": "https://www.youtube.com/embed/4GrFd2BUgkg",
+    "postcode": "BN2 5UB",
+    "district": "Brighton",
+    "county": "The City of Brighton and Hove",
+    "region": "South East",
+    "country": "England"
 }

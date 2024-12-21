@@ -1,133 +1,133 @@
 {
-  "objectID": "3de9c2fab4b85e41c173b00deff2140c",
-  "created_at": "2024-12-18T09:54:30.958398+00:00",
-  "ref": "elmley-castle-walking-route",
-  "title": "Elmley Castle Walks",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elmley_Castle_-_geograph.org.uk_-_852017.jpg",
-  "nearby": [
-    {
-      "description": "Bredon Hill",
-      "objectID": "1938aabe055c1f51548f641b2e70b06e",
-      "ref": "bredon-hill-walking-route"
+    "objectID": "3de9c2fab4b85e41c173b00deff2140c",
+    "created_at": "2024-12-18T09:54:30.958398+00:00",
+    "ref": "elmley-castle-walking-route",
+    "title": "Elmley Castle Walks",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elmley_Castle_-_geograph.org.uk_-_852017.jpg",
+    "nearby": [
+        {
+            "description": "Bredon Hill",
+            "objectID": "1938aabe055c1f51548f641b2e70b06e",
+            "ref": "bredon-hill-walking-route"
+        },
+        {
+            "description": "Pershore",
+            "objectID": "4559216c392e0d7d8b704da6abbdd685",
+            "ref": "pershore-walking-route"
+        },
+        {
+            "description": "Tiddesley Wood",
+            "objectID": "07c36efe430c0b60686477e83ccbb570",
+            "ref": "tiddesley-wood-walking-route"
+        },
+        {
+            "description": "Croome Court",
+            "objectID": "075885bb44df0b389d1ee94479e0fde2",
+            "ref": "croome-court-walking-route"
+        },
+        {
+            "description": "Warwickshire Millennium Way",
+            "objectID": "30d2afd2703efebe52cc7944fa3f7559",
+            "ref": "warwickshire-millennium-way-walking-route"
+        },
+        {
+            "description": "Evesham Country Park",
+            "objectID": "4e27178d265d2f78d62f22f8d2c3ff20",
+            "ref": "evesham-country-park-walking-route"
+        },
+        {
+            "description": "Tewkesbury",
+            "objectID": "c1728308faa1cfb6875fc9a6acb41daa",
+            "ref": "tewkesbury-walking-route"
+        },
+        {
+            "description": "Twyning",
+            "objectID": "7fe6f6c07614946e2fbd464a354be7a7",
+            "ref": "twyning-walking-route"
+        },
+        {
+            "description": "Hanley Swan",
+            "objectID": "679d14b04178b50890d151de68955347",
+            "ref": "hanley-swan-walking-route"
+        },
+        {
+            "description": "Upton Upon Severn",
+            "objectID": "7c1b4c50330734cfeebc84527ff63975",
+            "ref": "upton-upon-severn-walking-route"
+        },
+        {
+            "description": "Ashton Under Hill",
+            "objectID": "8b7d86a3c00dfafad03e3b9733cf7f88",
+            "ref": "ashton-under-hill-walking-route"
+        },
+        {
+            "description": "Evesham Abbey Park River Walk",
+            "objectID": "d2eb71d3c46f50811c6e08085c8de2d1",
+            "ref": "evesham-walking-route"
+        },
+        {
+            "description": "Kemerton",
+            "objectID": "fa6585666449797cec3f1f772354c1c9",
+            "ref": "kemerton-walking-route"
+        },
+        {
+            "description": "Beckford Nature Reserve",
+            "objectID": "4c721ec7eb095b90645e68c28dbec5b2",
+            "ref": "beckford-nature-reserve-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/28F510270FC12907862586270034EB84/$FILE/Elmsley Castle.gpx",
+    "_geoloc": {
+        "lat": 52.0681876065,
+        "lng": -2.0276357976
     },
-    {
-      "description": "Pershore",
-      "objectID": "4559216c392e0d7d8b704da6abbdd685",
-      "ref": "pershore-walking-route"
-    },
-    {
-      "description": "Tiddesley Wood",
-      "objectID": "07c36efe430c0b60686477e83ccbb570",
-      "ref": "tiddesley-wood-walking-route"
-    },
-    {
-      "description": "Croome Court",
-      "objectID": "075885bb44df0b389d1ee94479e0fde2",
-      "ref": "croome-court-walking-route"
-    },
-    {
-      "description": "Warwickshire Millennium Way",
-      "objectID": "30d2afd2703efebe52cc7944fa3f7559",
-      "ref": "warwickshire-millennium-way-walking-route"
-    },
-    {
-      "description": "Evesham Country Park",
-      "objectID": "4e27178d265d2f78d62f22f8d2c3ff20",
-      "ref": "evesham-country-park-walking-route"
-    },
-    {
-      "description": "Tewkesbury",
-      "objectID": "c1728308faa1cfb6875fc9a6acb41daa",
-      "ref": "tewkesbury-walking-route"
-    },
-    {
-      "description": "Twyning",
-      "objectID": "7fe6f6c07614946e2fbd464a354be7a7",
-      "ref": "twyning-walking-route"
-    },
-    {
-      "description": "Hanley Swan",
-      "objectID": "679d14b04178b50890d151de68955347",
-      "ref": "hanley-swan-walking-route"
-    },
-    {
-      "description": "Upton Upon Severn",
-      "objectID": "7c1b4c50330734cfeebc84527ff63975",
-      "ref": "upton-upon-severn-walking-route"
-    },
-    {
-      "description": "Ashton Under Hill",
-      "objectID": "8b7d86a3c00dfafad03e3b9733cf7f88",
-      "ref": "ashton-under-hill-walking-route"
-    },
-    {
-      "description": "Evesham Abbey Park River Walk",
-      "objectID": "d2eb71d3c46f50811c6e08085c8de2d1",
-      "ref": "evesham-walking-route"
-    },
-    {
-      "description": "Kemerton",
-      "objectID": "fa6585666449797cec3f1f772354c1c9",
-      "ref": "kemerton-walking-route"
-    },
-    {
-      "description": "Beckford Nature Reserve",
-      "objectID": "4c721ec7eb095b90645e68c28dbec5b2",
-      "ref": "beckford-nature-reserve-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/28F510270FC12907862586270034EB84/$FILE/Elmsley Castle.gpx",
-  "_geoloc": {
-    "lat": 52.0681876065,
-    "lng": -2.0276357976
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elmley_Castle_-_geograph.org.uk_-_852017.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Elmley Castle",
-      "caption": "The picturesque main street in the centre of the village of Elmley Castle, the building on the left is the Queen's Head which is currently closed and for sale."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Site_of_Elmley_Castle_-_geograph.org.uk_-_759488.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Site of Elmley Castle",
-      "caption": "Site of Elmley Castle. The village takes its name from a castle which once stood on high ground above the present village. Viewed here from the northern slopes of Bredon Hill all that remains are earthworks which are clearly visible here. The castle was built by Robert le Despenser in the late 11th century and was for a time the principal seat of the Beauchamps. By the late 15th century the castle had been demolished."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pond_at_Elmley_Castle_-_geograph.org.uk_-_850258.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Pond at Elmley Castle",
-      "caption": "Pond at Elmley Castle. A pair of Canada geese and three goslings on a pond near the village church."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Elmley_Castle_Church_-_geograph.org.uk_-_728618.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Elmley Castle Church",
-      "caption": "Elmley Castle church is dedicated to St Mary. Parts of the nave with herring-bone masonry probably date from around 1100. The tower is later, dating from the 13th century. Inside the church there are monuments to the Savage family and also the First Earl of Coventry from Croome Court. The memorial was intended for Croome church but due to a family dispute it ended up in Elmley Castle church."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bredon_Hill_-_geograph.org.uk_-_52743.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Bredon Hill",
-      "caption": "Slopes of Bredon Hill in the evening light, St Catherine's Farm can been seen on the hillside."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Banbury_Stone%2C_Bredon_Hill_-_geograph.org.uk_-_1336449.jpg",
-      "title": "Philip Halling\u00a0/\u00a0The Banbury Stone, Bredon Hill",
-      "caption": "The Banbury Stone, Bredon Hill. The Banbury Stone is located in a hollow below Parsons Folly near the summit of Bredon Hill. This stone is also known as the 'Elephant Stone' and seen here in evening sun the resemblence to an elephant is quite remarkable."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_%27Elizabeth_Queen_of_England%27%2C_Elmley_Castle%2C_Worcestershire_-_geograph.org.uk_-_893810.jpg",
-      "title": "Dr Neil Clifton\u00a0/\u00a0The 'Elizabeth Queen of England', Elmley Castle, Worcestershire",
-      "caption": "The 'Elizabeth Queen of England inn. According to legend, the eponymous monarch either visited or stayed in the house on 20 August 1573."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sundial%2C_Elmley_Castle_-_geograph.org.uk_-_852021.jpg/256px-Sundial%2C_Elmley_Castle_-_geograph.org.uk_-_852021.jpg",
-      "title": "Philip Halling\u00a0/\u00a0Sundial, Elmley Castle",
-      "caption": "Sundial, in the church"
-    }
-  ],
-  "distance_km": 11.2,
-  "description": "This little village is generally agreed to be one of the prettiest in Worcestershire. With delightul little cottages, a village pond and an old church dating from the 12th century, it's a typical picture postcard English village. This circular walk from Elmley takes you to Bredon Hill and the Banbury Stone Tower. The walk starts in the village and follows footpaths south east to join with the Wychavon Way . This long distance trail will take you south west past the deer park and the site of the old castle after which the village is named. Continue past Fillder's Knap and you can pick up bridleways leading towards Bredon Hill. The hill summit stands at a height of 299\u00a0m (981\u00a0ft), providing wonderful views over the Cotswold Hills. It's also a historically significant area with the Iron Age Hill Fort of Kemerton Camp and a small stone tower known as Parsons Folly or Banbury Stone Tower. The route rounds the hill, passing the neighbouring village of Overbury before descending past Comberton Wood and Windmill Hill to Elmley.",
-  "video_url": "https://www.youtube.com/embed/-h1vJfMFgIQ",
-  "district": "Elmley Castle",
-  "county": "Worcestershire",
-  "region": "West Midlands",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Elmley_Castle_-_geograph.org.uk_-_852017.jpg",
+            "title": "Philip Halling / Elmley Castle",
+            "caption": "The picturesque main street in the centre of the village of Elmley Castle, the building on the left is the Queen's Head which is currently closed and for sale."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Site_of_Elmley_Castle_-_geograph.org.uk_-_759488.jpg",
+            "title": "Philip Halling / Site of Elmley Castle",
+            "caption": "Site of Elmley Castle. The village takes its name from a castle which once stood on high ground above the present village. Viewed here from the northern slopes of Bredon Hill all that remains are earthworks which are clearly visible here. The castle was built by Robert le Despenser in the late 11th century and was for a time the principal seat of the Beauchamps. By the late 15th century the castle had been demolished."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Pond_at_Elmley_Castle_-_geograph.org.uk_-_850258.jpg",
+            "title": "Philip Halling / Pond at Elmley Castle",
+            "caption": "Pond at Elmley Castle. A pair of Canada geese and three goslings on a pond near the village church."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Elmley_Castle_Church_-_geograph.org.uk_-_728618.jpg",
+            "title": "Philip Halling / Elmley Castle Church",
+            "caption": "Elmley Castle church is dedicated to St Mary. Parts of the nave with herring-bone masonry probably date from around 1100. The tower is later, dating from the 13th century. Inside the church there are monuments to the Savage family and also the First Earl of Coventry from Croome Court. The memorial was intended for Croome church but due to a family dispute it ended up in Elmley Castle church."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Bredon_Hill_-_geograph.org.uk_-_52743.jpg",
+            "title": "Philip Halling / Bredon Hill",
+            "caption": "Slopes of Bredon Hill in the evening light, St Catherine's Farm can been seen on the hillside."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Banbury_Stone%2C_Bredon_Hill_-_geograph.org.uk_-_1336449.jpg",
+            "title": "Philip Halling / The Banbury Stone, Bredon Hill",
+            "caption": "The Banbury Stone, Bredon Hill. The Banbury Stone is located in a hollow below Parsons Folly near the summit of Bredon Hill. This stone is also known as the 'Elephant Stone' and seen here in evening sun the resemblence to an elephant is quite remarkable."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_%27Elizabeth_Queen_of_England%27%2C_Elmley_Castle%2C_Worcestershire_-_geograph.org.uk_-_893810.jpg",
+            "title": "Dr Neil Clifton / The 'Elizabeth Queen of England', Elmley Castle, Worcestershire",
+            "caption": "The 'Elizabeth Queen of England inn. According to legend, the eponymous monarch either visited or stayed in the house on 20 August 1573."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Sundial%2C_Elmley_Castle_-_geograph.org.uk_-_852021.jpg/256px-Sundial%2C_Elmley_Castle_-_geograph.org.uk_-_852021.jpg",
+            "title": "Philip Halling / Sundial, Elmley Castle",
+            "caption": "Sundial, in the church"
+        }
+    ],
+    "distance_km": 11.2,
+    "description": "This little village is generally agreed to be one of the prettiest in Worcestershire. With delightul little cottages, a village pond and an old church dating from the 12th century, it's a typical picture postcard English village. This circular walk from Elmley takes you to Bredon Hill and the Banbury Stone Tower. The walk starts in the village and follows footpaths south east to join with the Wychavon Way . This long distance trail will take you south west past the deer park and the site of the old castle after which the village is named. Continue past Fillder's Knap and you can pick up bridleways leading towards Bredon Hill. The hill summit stands at a height of 299 m (981 ft), providing wonderful views over the Cotswold Hills. It's also a historically significant area with the Iron Age Hill Fort of Kemerton Camp and a small stone tower known as Parsons Folly or Banbury Stone Tower. The route rounds the hill, passing the neighbouring village of Overbury before descending past Comberton Wood and Windmill Hill to Elmley.",
+    "video_url": "https://www.youtube.com/embed/-h1vJfMFgIQ",
+    "district": "Elmley Castle",
+    "county": "Worcestershire",
+    "region": "West Midlands",
+    "country": "England"
 }

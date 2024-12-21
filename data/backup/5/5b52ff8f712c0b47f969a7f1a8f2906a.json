@@ -1,119 +1,119 @@
 {
-  "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
-  "created_at": "2024-12-19T19:12:27.202269+00:00",
-  "ref": "taff-trail-walking-and-cycle-route",
-  "title": "Taff Trail Walking and Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taff_Trail_leaving_Pontypridd.jpg",
-  "nearby": [
-    {
-      "description": "Pontypridd",
-      "objectID": "bef173622c09cca2e623cdfc34b3a8a3",
-      "ref": "pontypridd-walking-route"
+    "objectID": "5b52ff8f712c0b47f969a7f1a8f2906a",
+    "created_at": "2024-12-19T19:12:27.202269+00:00",
+    "ref": "taff-trail-walking-and-cycle-route",
+    "title": "Taff Trail Walking and Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taff_Trail_leaving_Pontypridd.jpg",
+    "nearby": [
+        {
+            "description": "Pontypridd",
+            "objectID": "bef173622c09cca2e623cdfc34b3a8a3",
+            "ref": "pontypridd-walking-route"
+        },
+        {
+            "description": "Blaen y Glyn Waterfalls",
+            "objectID": "bf451b644ab660923473f607a28f559c",
+            "ref": "blaen-y-glyn-waterfalls-walking-route"
+        },
+        {
+            "description": "Talybont Reservoir",
+            "objectID": "01b6b699f491a1a39600ee3164835641",
+            "ref": "talybont-reservoir-walking-and-cycle-route"
+        },
+        {
+            "description": "Pontsticill Reservoir",
+            "objectID": "44ffe9c90ec508b49df7cbf2678a6a1c",
+            "ref": "pontsticill-reservoir-walking-route"
+        },
+        {
+            "description": "Castle Coch",
+            "objectID": "ac8c0484a5bf7113c66d338a19708b46",
+            "ref": "castle-coch-walking-and-cycle-route"
+        },
+        {
+            "description": "Forest Farm Country Park",
+            "objectID": "81d3659173d56a946b21b12bb1553691",
+            "ref": "forest-farm-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Monmouthshire and Brecon Canal",
+            "objectID": "e87e5e7130541ca0d1d1f076e62a48d7",
+            "ref": "monmouthshire-and-brecon-canal-walking-and-cycle-route"
+        },
+        {
+            "description": "Merthyr Tydfil",
+            "objectID": "3d81174b0cd27ee3509c43d12a127b96",
+            "ref": "merthyr-tydfil-walking-route"
+        },
+        {
+            "description": "Bute Park",
+            "objectID": "f3154ce4347fb0c275aebd026f9cf367",
+            "ref": "bute-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Pen y Crug",
+            "objectID": "497873a9c82d6125a60a245ed246861c",
+            "ref": "pen-y-crug-walking-route"
+        },
+        {
+            "description": "Glamorganshire Canal",
+            "objectID": "59cab641cb5884aaf28d1b2d666a5ad3",
+            "ref": "glamorganshire-canal-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/A86AA5007DA5BE0480257AD4007FD980/$FILE/Taff Trail.gpx",
+    "_geoloc": {
+        "lat": 51.4647597536,
+        "lng": -3.1658954234
     },
-    {
-      "description": "Blaen y Glyn Waterfalls",
-      "objectID": "bf451b644ab660923473f607a28f559c",
-      "ref": "blaen-y-glyn-waterfalls-walking-route"
-    },
-    {
-      "description": "Talybont Reservoir",
-      "objectID": "01b6b699f491a1a39600ee3164835641",
-      "ref": "talybont-reservoir-walking-and-cycle-route"
-    },
-    {
-      "description": "Pontsticill Reservoir",
-      "objectID": "44ffe9c90ec508b49df7cbf2678a6a1c",
-      "ref": "pontsticill-reservoir-walking-route"
-    },
-    {
-      "description": "Castle Coch",
-      "objectID": "ac8c0484a5bf7113c66d338a19708b46",
-      "ref": "castle-coch-walking-and-cycle-route"
-    },
-    {
-      "description": "Forest Farm Country Park",
-      "objectID": "81d3659173d56a946b21b12bb1553691",
-      "ref": "forest-farm-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Monmouthshire and Brecon Canal",
-      "objectID": "e87e5e7130541ca0d1d1f076e62a48d7",
-      "ref": "monmouthshire-and-brecon-canal-walking-and-cycle-route"
-    },
-    {
-      "description": "Merthyr Tydfil",
-      "objectID": "3d81174b0cd27ee3509c43d12a127b96",
-      "ref": "merthyr-tydfil-walking-route"
-    },
-    {
-      "description": "Bute Park",
-      "objectID": "f3154ce4347fb0c275aebd026f9cf367",
-      "ref": "bute-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Pen y Crug",
-      "objectID": "497873a9c82d6125a60a245ed246861c",
-      "ref": "pen-y-crug-walking-route"
-    },
-    {
-      "description": "Glamorganshire Canal",
-      "objectID": "59cab641cb5884aaf28d1b2d666a5ad3",
-      "ref": "glamorganshire-canal-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/A86AA5007DA5BE0480257AD4007FD980/$FILE/Taff Trail.gpx",
-  "_geoloc": {
-    "lat": 51.4647597536,
-    "lng": -3.1658954234
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taff_Trail_leaving_Pontypridd.jpg",
-      "title": "Colin Bell [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Taff Trail leaving Pontypridd"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Abercanaid_Taff_Trail.jpg/256px-Abercanaid_Taff_Trail.jpg",
-      "title": "By BMarvell2016 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
-      "caption": "Abercanaid Taff Trail"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Taff_Trail_-_geograph.org.uk_-_1424908.jpg",
-      "title": "Gareth James [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Missing railway bridge on the trail, just north of Taffs Well."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Taff_trail_-_geograph.org.uk_-_49360.jpg",
-      "title": "Steve Chapple [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "The Taff trail just off Longwood Drive Coryton Cardiff, the bridge crossing carries the M4."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cycleway_bridge_on_River_Taff_-_geograph.org.uk_-_115005.jpg",
-      "title": "nantcoly\u00a0/\u00a0Cycleway bridge on River Taff",
-      "caption": "Cycleway bridge on River Taff. This bridge is on the Lady Windsor Colliery Cycleway a branch off the Taff Trail and goes up the isolated valley of the Clydach to Ynysybwl, local youths regularly swim under this bridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Taff_Trail_passing_under_Quaker%27s_Yard_viaduct_-_geograph.org.uk_-_3295097.jpg",
-      "title": "Younger1978, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The trail about to pass under the Goitre Coed Viaduct. There is access to Quaker's Yard train station about 100 metres past the viaduct on a grassy path to the right of the trail - best suited to walkers or mountain bikes."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_view_%28SE%29_from_Cefn_Coed_Viaduct%2C_Merthyr_Tydfil_-_geograph.org.uk_-_3452781.jpg",
-      "title": "The view (SE) from Cefn Coed Viaduct, Merthyr Tydfil by\u00a0Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The view (SE) from Cefn Coed Viaduct. You'll pass over this impressive viaduct in Merthyr Tydfil.  It is the third largest viaduct in Wales providing excellent views from the top."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Talybont_reservoir_-_geograph.org.uk_-_477009.jpg",
-      "title": "Trevor Rickard\u00a0/\u00a0Talybont reservoir",
-      "caption": "Talybont reservoir. From just south of the reservoir on the trail. The old Merthyr to Brecon rail track cuts through the forest ahead."
-    }
-  ],
-  "distance_km": 88.0,
-  "description": "Follow the River Taff, from Cardiff to Brecon , on this fantastic waterside cycling and walking route. You start on the River Taff in Cardiff and head along the river northwards passing the Millennium Stadium and Cardiff Castle. There are also views of the attractive riverside Bute Park and the Weir on the Taff near Maindy as you leave the centre of Cardiff. You soon come to Radyr where you will pass the splendid Forest Farm Country Park and Castle Coch (the red castle) before passing through the village of Nantgarw. The route continues along the river through Glyntaff and on to Pontypridd where you join the trackbed of a disused railway to Merthyr Tydfil . The final section runs from Merthyr to Brecon passing the beautiful Pontsticill , Pentwyn and Talybont Reservoirs. You'll also pass the beautiful Blaen y Glyn Waterfalls before joining the Monmouthshire and Brecon Canal taking you into Brecon. There are splendid views of the Brecon Beacon mountains as you approach Brecon. The trail is waymarked with a black and yellow disc.",
-  "video_url": "https://www.youtube.com/embed/Da-Sl5eT_9k",
-  "postcode": "CF10 5AS",
-  "district": "Cardiff / Caerdydd",
-  "county": "Caerdydd - Cardiff",
-  "region": "Wales",
-  "country": "Wales"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Taff_Trail_leaving_Pontypridd.jpg",
+            "title": "Colin Bell [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Taff Trail leaving Pontypridd"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Abercanaid_Taff_Trail.jpg/256px-Abercanaid_Taff_Trail.jpg",
+            "title": "By BMarvell2016 (Own work) [CC BY-SA 4.0 (http://creativecommons.org/licenses/by-sa/4.0)], via Wikimedia Commons",
+            "caption": "Abercanaid Taff Trail"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Taff_Trail_-_geograph.org.uk_-_1424908.jpg",
+            "title": "Gareth James [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "Missing railway bridge on the trail, just north of Taffs Well."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Taff_trail_-_geograph.org.uk_-_49360.jpg",
+            "title": "Steve Chapple [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+            "caption": "The Taff trail just off Longwood Drive Coryton Cardiff, the bridge crossing carries the M4."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Cycleway_bridge_on_River_Taff_-_geograph.org.uk_-_115005.jpg",
+            "title": "nantcoly / Cycleway bridge on River Taff",
+            "caption": "Cycleway bridge on River Taff. This bridge is on the Lady Windsor Colliery Cycleway a branch off the Taff Trail and goes up the isolated valley of the Clydach to Ynysybwl, local youths regularly swim under this bridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Taff_Trail_passing_under_Quaker%27s_Yard_viaduct_-_geograph.org.uk_-_3295097.jpg",
+            "title": "Younger1978, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The trail about to pass under the Goitre Coed Viaduct. There is access to Quaker's Yard train station about 100 metres past the viaduct on a grassy path to the right of the trail - best suited to walkers or mountain bikes."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_view_%28SE%29_from_Cefn_Coed_Viaduct%2C_Merthyr_Tydfil_-_geograph.org.uk_-_3452781.jpg",
+            "title": "The view (SE) from Cefn Coed Viaduct, Merthyr Tydfil by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The view (SE) from Cefn Coed Viaduct. You'll pass over this impressive viaduct in Merthyr Tydfil.  It is the third largest viaduct in Wales providing excellent views from the top."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Talybont_reservoir_-_geograph.org.uk_-_477009.jpg",
+            "title": "Trevor Rickard / Talybont reservoir",
+            "caption": "Talybont reservoir. From just south of the reservoir on the trail. The old Merthyr to Brecon rail track cuts through the forest ahead."
+        }
+    ],
+    "distance_km": 88.0,
+    "description": "Follow the River Taff, from Cardiff to Brecon , on this fantastic waterside cycling and walking route. You start on the River Taff in Cardiff and head along the river northwards passing the Millennium Stadium and Cardiff Castle. There are also views of the attractive riverside Bute Park and the Weir on the Taff near Maindy as you leave the centre of Cardiff. You soon come to Radyr where you will pass the splendid Forest Farm Country Park and Castle Coch (the red castle) before passing through the village of Nantgarw. The route continues along the river through Glyntaff and on to Pontypridd where you join the trackbed of a disused railway to Merthyr Tydfil . The final section runs from Merthyr to Brecon passing the beautiful Pontsticill , Pentwyn and Talybont Reservoirs. You'll also pass the beautiful Blaen y Glyn Waterfalls before joining the Monmouthshire and Brecon Canal taking you into Brecon. There are splendid views of the Brecon Beacon mountains as you approach Brecon. The trail is waymarked with a black and yellow disc.",
+    "video_url": "https://www.youtube.com/embed/Da-Sl5eT_9k",
+    "postcode": "CF10 5AS",
+    "district": "Cardiff / Caerdydd",
+    "county": "Caerdydd - Cardiff",
+    "region": "Wales",
+    "country": "Wales"
 }

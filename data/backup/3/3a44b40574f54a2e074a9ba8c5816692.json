@@ -1,83 +1,83 @@
 {
-  "objectID": "3a44b40574f54a2e074a9ba8c5816692",
-  "created_at": "2024-12-19T04:56:21.802182+00:00",
-  "ref": "cammo-estate-walking-route",
-  "title": "Cammo Estate Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cammo_Park_-_geograph.org.uk_-_1523957.jpg",
-  "nearby": [
-    {
-      "description": "Cramond to South Queensferry Walk",
-      "objectID": "55a3c8caefe9b4ef4f5d017d3c4886f7",
-      "ref": "cramond-to-south-queensferry-walk-walking-route"
+    "objectID": "3a44b40574f54a2e074a9ba8c5816692",
+    "created_at": "2024-12-19T04:56:21.802182+00:00",
+    "ref": "cammo-estate-walking-route",
+    "title": "Cammo Estate Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cammo_Park_-_geograph.org.uk_-_1523957.jpg",
+    "nearby": [
+        {
+            "description": "Cramond to South Queensferry Walk",
+            "objectID": "55a3c8caefe9b4ef4f5d017d3c4886f7",
+            "ref": "cramond-to-south-queensferry-walk-walking-route"
+        },
+        {
+            "description": "John Muir Way",
+            "objectID": "003c712c8320e6d0880db2081ffe01bb",
+            "ref": "john-muir-way-walking-route"
+        },
+        {
+            "description": "Blackness to South Queensferry Walk",
+            "objectID": "0b9c9b986d63e960f031ca8357410d7f",
+            "ref": "blackness-to-south-queensferry-walk-walking-route"
+        },
+        {
+            "description": "Cramond Island",
+            "objectID": "8d2ed1807fd406544932cbbe946d4a31",
+            "ref": "cramond-island-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7AC2A242362C47F78625882A004741C3/$FILE/Cammo Estate.gpx",
+    "_geoloc": {
+        "lat": 55.9560917401,
+        "lng": -3.3189160416
     },
-    {
-      "description": "John Muir Way",
-      "objectID": "003c712c8320e6d0880db2081ffe01bb",
-      "ref": "john-muir-way-walking-route"
-    },
-    {
-      "description": "Blackness to South Queensferry Walk",
-      "objectID": "0b9c9b986d63e960f031ca8357410d7f",
-      "ref": "blackness-to-south-queensferry-walk-walking-route"
-    },
-    {
-      "description": "Cramond Island",
-      "objectID": "8d2ed1807fd406544932cbbe946d4a31",
-      "ref": "cramond-island-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7AC2A242362C47F78625882A004741C3/$FILE/Cammo Estate.gpx",
-  "_geoloc": {
-    "lat": 55.9560917401,
-    "lng": -3.3189160416
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cammo_Park_-_geograph.org.uk_-_1523957.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Cammo Park",
-      "caption": "Cammo Park. Ungrazed parkland, now with scattered young trees to replace the aging oaks. Being a public city park, old trees are not allowed to decay for too long for fear of bits falling off them, a thought not far away on this extremely windy day"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cammo_Tower_-_geograph.org.uk_-_965135.jpg",
-      "title": "Sandy Gemmill\u00a0/\u00a0Cammo Tower",
-      "caption": "Cammo Tower"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cammo_-_geograph.org.uk_-_13249.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Cammo",
-      "caption": "Cammo House. Once a large house, it is now a ruin, the grounds reverting to wild woodland with some fine specimen trees. The estate is managed as a park by the city council."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Carved_stonework%2C_Cammo_-_geograph.org.uk_-_1523946.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Carved stonework, Cammo",
-      "caption": "Carved stonework. The gardens at Cammo had a large collection of stone carvings, including an ornate cubic sundial (now in the visitor centre). The house burned down in the 1970s"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cammo_Park_-_geograph.org.uk_-_1518642.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Cammo Park",
-      "caption": "Grazing seems to have stopped in the fields between the lodge and the ruins of the house. There has been a lot of recent tree planting in an attempt to regenerate the parkland landscape."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Woodland%2C_Cammo_-_geograph.org.uk_-_1518644.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Woodland, Cammo",
-      "caption": "A woodland path in the Cammo Estate. Taken during a small orienteering event."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Barley_stubble%2C_Cammo_-_geograph.org.uk_-_1523963.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Barley stubble, Cammo",
-      "caption": "Barley stubble. The southern part of the Cammo Estate is usually planted with barley. The field has a well worn path around it, but during the Autumn and Winter, it can be crossed directly. View to the water tower and hilltop wood."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Urban_fringe_arable_-_geograph.org.uk_-_1523954.jpg",
-      "title": "Richard Webb\u00a0/\u00a0Urban fringe arable",
-      "caption": "Urban fringe arable Stubble opposite West Craigs, just south of the Cammo Estate. The city has reached the A902, just visible as street lights in the distance. It was due to jump westward again, as the city bypass would have continued through here to join up with the A90 thus completing the route from shore to shore either side of Edinburgh. It may never happen now due to the traffic being routed around by the M9 spur. This should remain green belt land."
-    }
-  ],
-  "distance_km": 1.7,
-  "description": "This walk visits the Cammo Estate Nature Reserve on the north western fringes of the city of Edinburgh. The historic park is a lovely place for a walk with a number of trails taking you to pretty pools, a walled garden, wildflower meadows, old ruins and the striking 19th century Cammo Tower. The peaceful park is a great place for wildlife with deer, foxes, owls and other birds of prey to look out for. You can start the walk from the car park at the south eastern end next to Cammo Walk Road.",
-  "video_url": "https://www.youtube.com/embed/biY75Wq-xdk",
-  "district": "Edinburgh",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cammo_Park_-_geograph.org.uk_-_1523957.jpg",
+            "title": "Richard Webb / Cammo Park",
+            "caption": "Cammo Park. Ungrazed parkland, now with scattered young trees to replace the aging oaks. Being a public city park, old trees are not allowed to decay for too long for fear of bits falling off them, a thought not far away on this extremely windy day"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Cammo_Tower_-_geograph.org.uk_-_965135.jpg",
+            "title": "Sandy Gemmill / Cammo Tower",
+            "caption": "Cammo Tower"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Cammo_-_geograph.org.uk_-_13249.jpg",
+            "title": "Richard Webb / Cammo",
+            "caption": "Cammo House. Once a large house, it is now a ruin, the grounds reverting to wild woodland with some fine specimen trees. The estate is managed as a park by the city council."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Carved_stonework%2C_Cammo_-_geograph.org.uk_-_1523946.jpg",
+            "title": "Richard Webb / Carved stonework, Cammo",
+            "caption": "Carved stonework. The gardens at Cammo had a large collection of stone carvings, including an ornate cubic sundial (now in the visitor centre). The house burned down in the 1970s"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cammo_Park_-_geograph.org.uk_-_1518642.jpg",
+            "title": "Richard Webb / Cammo Park",
+            "caption": "Grazing seems to have stopped in the fields between the lodge and the ruins of the house. There has been a lot of recent tree planting in an attempt to regenerate the parkland landscape."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Woodland%2C_Cammo_-_geograph.org.uk_-_1518644.jpg",
+            "title": "Richard Webb / Woodland, Cammo",
+            "caption": "A woodland path in the Cammo Estate. Taken during a small orienteering event."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Barley_stubble%2C_Cammo_-_geograph.org.uk_-_1523963.jpg",
+            "title": "Richard Webb / Barley stubble, Cammo",
+            "caption": "Barley stubble. The southern part of the Cammo Estate is usually planted with barley. The field has a well worn path around it, but during the Autumn and Winter, it can be crossed directly. View to the water tower and hilltop wood."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Urban_fringe_arable_-_geograph.org.uk_-_1523954.jpg",
+            "title": "Richard Webb / Urban fringe arable",
+            "caption": "Urban fringe arable Stubble opposite West Craigs, just south of the Cammo Estate. The city has reached the A902, just visible as street lights in the distance. It was due to jump westward again, as the city bypass would have continued through here to join up with the A90 thus completing the route from shore to shore either side of Edinburgh. It may never happen now due to the traffic being routed around by the M9 spur. This should remain green belt land."
+        }
+    ],
+    "distance_km": 1.7,
+    "description": "This walk visits the Cammo Estate Nature Reserve on the north western fringes of the city of Edinburgh. The historic park is a lovely place for a walk with a number of trails taking you to pretty pools, a walled garden, wildflower meadows, old ruins and the striking 19th century Cammo Tower. The peaceful park is a great place for wildlife with deer, foxes, owls and other birds of prey to look out for. You can start the walk from the car park at the south eastern end next to Cammo Walk Road.",
+    "video_url": "https://www.youtube.com/embed/biY75Wq-xdk",
+    "district": "Edinburgh",
+    "county": "City of Edinburgh",
+    "region": "Scotland",
+    "country": "Scotland"
 }

@@ -1,138 +1,138 @@
 {
-  "objectID": "29b140d5a10051599dd8ad97424c27de",
-  "created_at": "2024-12-18T11:27:46.196515+00:00",
-  "ref": "kirtlington-quarry-walking-route",
-  "title": "Kirtlington Quarry Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg/512px-Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg",
-  "nearby": [
-    {
-      "description": "Kidlington Circular Walk",
-      "objectID": "4bd9628943546e512d92208718c6ce1f",
-      "ref": "kidlington-circular-walk-walking-route"
+    "objectID": "29b140d5a10051599dd8ad97424c27de",
+    "created_at": "2024-12-18T11:27:46.196515+00:00",
+    "ref": "kirtlington-quarry-walking-route",
+    "title": "Kirtlington Quarry Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg/512px-Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg",
+    "nearby": [
+        {
+            "description": "Kidlington Circular Walk",
+            "objectID": "4bd9628943546e512d92208718c6ce1f",
+            "ref": "kidlington-circular-walk-walking-route"
+        },
+        {
+            "description": "Bicester",
+            "objectID": "41d8efa189cbc27d063501af109e3898",
+            "ref": "bicester-walking-route"
+        },
+        {
+            "description": "Stoke Wood",
+            "objectID": "9e8ec3dd3dd70379faa18e5b94b1c720",
+            "ref": "stoke-wood-walking-route"
+        },
+        {
+            "description": "Oxford Canal Walk",
+            "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
+            "ref": "oxford-canal-walk-walking-route"
+        },
+        {
+            "description": "Piddington",
+            "objectID": "498d7f7e7fa5a5f050920fdfc52e4172",
+            "ref": "piddington-walking-route"
+        },
+        {
+            "description": "Brill Windmill",
+            "objectID": "c105fc1cc5ae62e258222c69386313d0",
+            "ref": "brill-walking-route"
+        },
+        {
+            "description": "Brill Tramway Trail",
+            "objectID": "724d2478db0a564db5672878e7fd8ce5",
+            "ref": "tramway-trail-walking-route"
+        },
+        {
+            "description": "Tusmore Park Estate",
+            "objectID": "42a50524e14a2e4dbd57d17c3d89501c",
+            "ref": "tusmore-park-estate-walking-route"
+        },
+        {
+            "description": "Aynho",
+            "objectID": "b8dbfb386bbe911ff0b2a9aa1270784f",
+            "ref": "aynho-walking-route"
+        },
+        {
+            "description": "Blenheim Park",
+            "objectID": "3a352e052f7f69b1c93a6c14bb922f2c",
+            "ref": "blenheim-park-walking-route"
+        },
+        {
+            "description": "Wytham Woods",
+            "objectID": "848c85b132f4bfdc0009abdd36922266",
+            "ref": "wytham-woods-walking-route"
+        },
+        {
+            "description": "Woodstock",
+            "objectID": "a6f52a3a73f46cbae06d3e172e9884c0",
+            "ref": "woodstock-walking-route"
+        },
+        {
+            "description": "Rousham Park",
+            "objectID": "2efe50d9d18092ddaa38ffbe205cf2b6",
+            "ref": "rousham-park-walking-route"
+        },
+        {
+            "description": "Upper And Lower Heyford Canal Walk",
+            "objectID": "cec1b527df7df6826a0927a38de453f6",
+            "ref": "upper-and-lower-heyford-canal-walk"
+        },
+        {
+            "description": "Weston On The Green",
+            "objectID": "542e19fe9cab9e088661ba7fe01127db",
+            "ref": "weston-on-the-green-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/55922BDB5B3C95F4862589E000445C11/$FILE/Kirtlington Quarry.gpx",
+    "_geoloc": {
+        "lat": 51.87333,
+        "lng": -1.27467
     },
-    {
-      "description": "Bicester",
-      "objectID": "41d8efa189cbc27d063501af109e3898",
-      "ref": "bicester-walking-route"
-    },
-    {
-      "description": "Stoke Wood",
-      "objectID": "9e8ec3dd3dd70379faa18e5b94b1c720",
-      "ref": "stoke-wood-walking-route"
-    },
-    {
-      "description": "Oxford Canal Walk",
-      "objectID": "7dac2fdaf42e1348ecd8d2e4b59e7953",
-      "ref": "oxford-canal-walk-walking-route"
-    },
-    {
-      "description": "Piddington",
-      "objectID": "498d7f7e7fa5a5f050920fdfc52e4172",
-      "ref": "piddington-walking-route"
-    },
-    {
-      "description": "Brill Windmill",
-      "objectID": "c105fc1cc5ae62e258222c69386313d0",
-      "ref": "brill-walking-route"
-    },
-    {
-      "description": "Brill Tramway Trail",
-      "objectID": "724d2478db0a564db5672878e7fd8ce5",
-      "ref": "tramway-trail-walking-route"
-    },
-    {
-      "description": "Tusmore Park Estate",
-      "objectID": "42a50524e14a2e4dbd57d17c3d89501c",
-      "ref": "tusmore-park-estate-walking-route"
-    },
-    {
-      "description": "Aynho",
-      "objectID": "b8dbfb386bbe911ff0b2a9aa1270784f",
-      "ref": "aynho-walking-route"
-    },
-    {
-      "description": "Blenheim Park",
-      "objectID": "3a352e052f7f69b1c93a6c14bb922f2c",
-      "ref": "blenheim-park-walking-route"
-    },
-    {
-      "description": "Wytham Woods",
-      "objectID": "848c85b132f4bfdc0009abdd36922266",
-      "ref": "wytham-woods-walking-route"
-    },
-    {
-      "description": "Woodstock",
-      "objectID": "a6f52a3a73f46cbae06d3e172e9884c0",
-      "ref": "woodstock-walking-route"
-    },
-    {
-      "description": "Rousham Park",
-      "objectID": "2efe50d9d18092ddaa38ffbe205cf2b6",
-      "ref": "rousham-park-walking-route"
-    },
-    {
-      "description": "Upper And Lower Heyford Canal Walk",
-      "objectID": "cec1b527df7df6826a0927a38de453f6",
-      "ref": "upper-and-lower-heyford-canal-walk"
-    },
-    {
-      "description": "Weston On The Green",
-      "objectID": "542e19fe9cab9e088661ba7fe01127db",
-      "ref": "weston-on-the-green-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/55922BDB5B3C95F4862589E000445C11/$FILE/Kirtlington Quarry.gpx",
-  "_geoloc": {
-    "lat": 51.87333,
-    "lng": -1.27467
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg/512px-Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg",
-      "title": "Kirtlington Quarry by\u00a0Dylan Moore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Kirtlington Quarry view over the countryside."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kirtlington_quarry_-_geograph.org.uk_-_636272.jpg",
-      "title": "Jim Thornton\u00a0/\u00a0Kirtlington quarry",
-      "caption": "Kirtlington quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stone_Maze_in_the_Quarry_-_geograph.org.uk_-_4318059.jpg/512px-Stone_Maze_in_the_Quarry_-_geograph.org.uk_-_4318059.jpg",
-      "title": "Stone Maze in the Quarry by\u00a0Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Stone Maze in the Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Old_Wharf_at_Kirtlington_Quarry_-_geograph.org.uk_-_2083442.jpg",
-      "title": "Old Wharf at Kirtlington Quarry by\u00a0Mike Todd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Old Wharf at Kirtlington Quarry"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wooded_stretch_of_the_Oxford_Canal_-_geograph.org.uk_-_4521614.jpg/512px-Wooded_stretch_of_the_Oxford_Canal_-_geograph.org.uk_-_4521614.jpg",
-      "title": "Wooded stretch of the Oxford Canal by\u00a0Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Wooded stretch of the Oxford Canal"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Signpost_on_the_Green_-_geograph.org.uk_-_4322638.jpg/512px-Signpost_on_the_Green_-_geograph.org.uk_-_4322638.jpg",
-      "title": "Signpost on the Green by\u00a0Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Signpost on the Green in Kirtlington village"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_village_pond_in_Kirtlington_-_geograph.org.uk_-_4657688.jpg/512px-The_village_pond_in_Kirtlington_-_geograph.org.uk_-_4657688.jpg",
-      "title": "The village pond in Kirtlington by\u00a0Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The village pond in Kirtlington"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirtlington_Park_-_geograph.org.uk_-_3491483.jpg/512px-Kirtlington_Park_-_geograph.org.uk_-_3491483.jpg",
-      "title": "Kirtlington Park by\u00a0Dave Price, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Kirtlington Park from a distance"
-    }
-  ],
-  "distance_km": 3.0,
-  "description": "This walk explores the Oxfordshire village of Kirtlington visiting the Kirtlington Quarry Nature Reserve, the River Cherwell and the Oxford Canal Walk . The quarry is located just north west of the village and is designated as a Site of Special Scientific Interest. The site dates to the\u00a0Upper Bathonian, around 166 million years ago with several species of extinct mammal having been found.\u00a0There are also fossils of\u00a0theropod dinosaurs,\u00a0crocodilians,\u00a0pterosaurs, fishes and many shark teeth. Starting on the South Green in the village you can pick up the Oxfordshire Way and follow it west along Mill Lane to the quarry. You can follow footpaths around the fascinating site with some splendid views over the surrounding countryside from the high points. After exploring the quarry head west and you can pick up the canal towpath and enjoy an easy waterside stroll. The walk also passes Kirklington Park where there's a Grade I, 18th-century Palladian mansion set in 3,000 acres of parkland designed by Capability Brown, with views to the Chiltern Hills. The return leg includes a detour which follows a public footpath north east across the estate. You can also pick up the Palladian Way here. The long distance trail runs through the counties of Buckinghamshire, Gloucestershire, Oxfordshire and Wiltshire and is named after Andre Palladio's Italian architecture.",
-  "video_url": "https://www.youtube.com/embed/tGZs8t-smb8",
-  "district": "Kirtlington",
-  "county": "Oxfordshire",
-  "region": "South East",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg/512px-Kirtlington_Quarry_-_geograph.org.uk_-_4225257.jpg",
+            "title": "Kirtlington Quarry by Dylan Moore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Kirtlington Quarry view over the countryside."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Kirtlington_quarry_-_geograph.org.uk_-_636272.jpg",
+            "title": "Jim Thornton / Kirtlington quarry",
+            "caption": "Kirtlington quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Stone_Maze_in_the_Quarry_-_geograph.org.uk_-_4318059.jpg/512px-Stone_Maze_in_the_Quarry_-_geograph.org.uk_-_4318059.jpg",
+            "title": "Stone Maze in the Quarry by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Stone Maze in the Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Old_Wharf_at_Kirtlington_Quarry_-_geograph.org.uk_-_2083442.jpg",
+            "title": "Old Wharf at Kirtlington Quarry by Mike Todd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Old Wharf at Kirtlington Quarry"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Wooded_stretch_of_the_Oxford_Canal_-_geograph.org.uk_-_4521614.jpg/512px-Wooded_stretch_of_the_Oxford_Canal_-_geograph.org.uk_-_4521614.jpg",
+            "title": "Wooded stretch of the Oxford Canal by Mat Fascione, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Wooded stretch of the Oxford Canal"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Signpost_on_the_Green_-_geograph.org.uk_-_4322638.jpg/512px-Signpost_on_the_Green_-_geograph.org.uk_-_4322638.jpg",
+            "title": "Signpost on the Green by Des Blenkinsopp, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Signpost on the Green in Kirtlington village"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/The_village_pond_in_Kirtlington_-_geograph.org.uk_-_4657688.jpg/512px-The_village_pond_in_Kirtlington_-_geograph.org.uk_-_4657688.jpg",
+            "title": "The village pond in Kirtlington by Steve Daniels, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "The village pond in Kirtlington"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kirtlington_Park_-_geograph.org.uk_-_3491483.jpg/512px-Kirtlington_Park_-_geograph.org.uk_-_3491483.jpg",
+            "title": "Kirtlington Park by Dave Price, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Kirtlington Park from a distance"
+        }
+    ],
+    "distance_km": 3.0,
+    "description": "This walk explores the Oxfordshire village of Kirtlington visiting the Kirtlington Quarry Nature Reserve, the River Cherwell and the Oxford Canal Walk . The quarry is located just north west of the village and is designated as a Site of Special Scientific Interest. The site dates to the Upper Bathonian, around 166 million years ago with several species of extinct mammal having been found. There are also fossils of theropod dinosaurs, crocodilians, pterosaurs, fishes and many shark teeth. Starting on the South Green in the village you can pick up the Oxfordshire Way and follow it west along Mill Lane to the quarry. You can follow footpaths around the fascinating site with some splendid views over the surrounding countryside from the high points. After exploring the quarry head west and you can pick up the canal towpath and enjoy an easy waterside stroll. The walk also passes Kirklington Park where there's a Grade I, 18th-century Palladian mansion set in 3,000 acres of parkland designed by Capability Brown, with views to the Chiltern Hills. The return leg includes a detour which follows a public footpath north east across the estate. You can also pick up the Palladian Way here. The long distance trail runs through the counties of Buckinghamshire, Gloucestershire, Oxfordshire and Wiltshire and is named after Andre Palladio's Italian architecture.",
+    "video_url": "https://www.youtube.com/embed/tGZs8t-smb8",
+    "district": "Kirtlington",
+    "county": "Oxfordshire",
+    "region": "South East",
+    "country": "England"
 }

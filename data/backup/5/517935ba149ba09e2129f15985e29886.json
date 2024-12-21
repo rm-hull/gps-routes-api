@@ -1,133 +1,133 @@
 {
-  "objectID": "517935ba149ba09e2129f15985e29886",
-  "created_at": "2024-12-19T04:17:18.887673+00:00",
-  "ref": "dartmoor-way-walking-route",
-  "title": "Dartmoor Way Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dartmoor_Way_-_geograph.org.uk_-_1207021.jpg",
-  "nearby": [
-    {
-      "description": "Becky Falls",
-      "objectID": "36732f5924ad9051f2e293e791fb6cc3",
-      "ref": "becky-falls-walking-route"
+    "objectID": "517935ba149ba09e2129f15985e29886",
+    "created_at": "2024-12-19T04:17:18.887673+00:00",
+    "ref": "dartmoor-way-walking-route",
+    "title": "Dartmoor Way Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dartmoor_Way_-_geograph.org.uk_-_1207021.jpg",
+    "nearby": [
+        {
+            "description": "Becky Falls",
+            "objectID": "36732f5924ad9051f2e293e791fb6cc3",
+            "ref": "becky-falls-walking-route"
+        },
+        {
+            "description": "Castle Drogo",
+            "objectID": "f6c966e23c25bf8f635b039f2fb63eea",
+            "ref": "castle-drogo-walking-route"
+        },
+        {
+            "description": "Lydford Gorge",
+            "objectID": "0ff9bdbdb039a023d1044e62672e2fb5",
+            "ref": "lydford-gorge-walking-route"
+        },
+        {
+            "description": "Meldon Reservoir",
+            "objectID": "1d5341b9b1c74e75ed47c0541598cf9d",
+            "ref": "meldon-reservoir-walking-route"
+        },
+        {
+            "description": "Wistman's Wood",
+            "objectID": "7a5c41c4147dc159ce9aa56084802569",
+            "ref": "wistmans-wood-walking-route"
+        },
+        {
+            "description": "Abbot's Way",
+            "objectID": "d9f4cb8d57bdeea1fdfe3d8949ee261e",
+            "ref": "abbots-way-walking-route"
+        },
+        {
+            "description": "Lustleigh Cleave",
+            "objectID": "dc9854fb9514199e8bdfdd36bc82da42",
+            "ref": "lustleigh-cleave-walking-route"
+        },
+        {
+            "description": "Princetown",
+            "objectID": "e262f139bed90e80eb60a8565de92a2c",
+            "ref": "princetown-walking-route"
+        },
+        {
+            "description": "Dartmeet",
+            "objectID": "261be4af8d326296957d4bf0490595e4",
+            "ref": "dartmeet-walking-route"
+        },
+        {
+            "description": "Belstone",
+            "objectID": "afc066de913f2f1444888e116dc31b10",
+            "ref": "belstone-walking-route"
+        },
+        {
+            "description": "Foggintor Quarry",
+            "objectID": "70083df2005329dc08d8bc36b082e719",
+            "ref": "foggintor-quarry-walking-route"
+        },
+        {
+            "description": "Moretonhampstead",
+            "objectID": "cedf66f196ad63bb77ad479cde21c934",
+            "ref": "moretonhampstead-walking-route"
+        },
+        {
+            "description": "Scorhill Stone Circle",
+            "objectID": "8fe91fd19baadf3701a0c727c44b575b",
+            "ref": "scorhill-stone-circle-walking-route"
+        },
+        {
+            "description": "South Brent",
+            "objectID": "b463525da2b70c86b6fd0522e280f06b",
+            "ref": "south-brent-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7A9BD80EE0582E52802577F6000771BB/$FILE/Dartmoor Way.gpx",
+    "_geoloc": {
+        "lat": 50.4819124934,
+        "lng": -3.7744507079
     },
-    {
-      "description": "Castle Drogo",
-      "objectID": "f6c966e23c25bf8f635b039f2fb63eea",
-      "ref": "castle-drogo-walking-route"
-    },
-    {
-      "description": "Lydford Gorge",
-      "objectID": "0ff9bdbdb039a023d1044e62672e2fb5",
-      "ref": "lydford-gorge-walking-route"
-    },
-    {
-      "description": "Meldon Reservoir",
-      "objectID": "1d5341b9b1c74e75ed47c0541598cf9d",
-      "ref": "meldon-reservoir-walking-route"
-    },
-    {
-      "description": "Wistman's Wood",
-      "objectID": "7a5c41c4147dc159ce9aa56084802569",
-      "ref": "wistmans-wood-walking-route"
-    },
-    {
-      "description": "Abbot's Way",
-      "objectID": "d9f4cb8d57bdeea1fdfe3d8949ee261e",
-      "ref": "abbots-way-walking-route"
-    },
-    {
-      "description": "Lustleigh Cleave",
-      "objectID": "dc9854fb9514199e8bdfdd36bc82da42",
-      "ref": "lustleigh-cleave-walking-route"
-    },
-    {
-      "description": "Princetown",
-      "objectID": "e262f139bed90e80eb60a8565de92a2c",
-      "ref": "princetown-walking-route"
-    },
-    {
-      "description": "Dartmeet",
-      "objectID": "261be4af8d326296957d4bf0490595e4",
-      "ref": "dartmeet-walking-route"
-    },
-    {
-      "description": "Belstone",
-      "objectID": "afc066de913f2f1444888e116dc31b10",
-      "ref": "belstone-walking-route"
-    },
-    {
-      "description": "Foggintor Quarry",
-      "objectID": "70083df2005329dc08d8bc36b082e719",
-      "ref": "foggintor-quarry-walking-route"
-    },
-    {
-      "description": "Moretonhampstead",
-      "objectID": "cedf66f196ad63bb77ad479cde21c934",
-      "ref": "moretonhampstead-walking-route"
-    },
-    {
-      "description": "Scorhill Stone Circle",
-      "objectID": "8fe91fd19baadf3701a0c727c44b575b",
-      "ref": "scorhill-stone-circle-walking-route"
-    },
-    {
-      "description": "South Brent",
-      "objectID": "b463525da2b70c86b6fd0522e280f06b",
-      "ref": "south-brent-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/7A9BD80EE0582E52802577F6000771BB/$FILE/Dartmoor Way.gpx",
-  "_geoloc": {
-    "lat": 50.4819124934,
-    "lng": -3.7744507079
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dartmoor_Way_-_geograph.org.uk_-_1207021.jpg",
-      "title": "Guy Wareham\u00a0/\u00a0Dartmoor Way, via Wikimedia Commons",
-      "caption": "The bridleway, near Cholake Head and the Crock of gold, heading for Bull Park with North Hessary tower on the skyline."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gateways_on_the_Dartmoor_Way_-_geograph.org.uk_-_593557.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Gateways on the Dartmoor Way, via Wikimedia Commons",
-      "caption": "Gateways on the Dartmoor Way. West of Hexworthy, the Way (following Dartmoor Forest Bridleway 14) enters open moorland via this contrasting pair of gateways."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dartmoor_Way_below_Rora_Down_%284%29_-_geograph.org.uk_-_1013148.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Dartmoor Way below Rora Down (4)",
-      "caption": "Dartmoor Way below Rora Down. The line of trees enclosing the footpath breaks up at this point, allowing sun to cross the path, and giving a view up the large meadow to the left. This area is located just south west of Liverton."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dartmoor_Way_on_Neadon_Cleave_-_geograph.org.uk_-_742488.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Dartmoor Way on Neadon Cleave",
-      "caption": "On Neadon Cleave. The path passes the wheel and reaches the end of a level stretch before plunging down towards Neadon. It descends through open birch woodland with colourful gorse\u00a0around here. Located near the River Bovey at Foxworthy Bridge."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dartmoor_Way_at_Whiddon_Wood_-_geograph.org.uk_-_145330.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Dartmoor Way at Whiddon Wood",
-      "caption": "Whiddon Wood. Looking west from the Way as it drops towards the River Ashburn. The buildings in the distance are at Bowdley in the next square west."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dartmoor_Way_approaching_Dickford_Bridge_-_geograph.org.uk_-_163061.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Dartmoor Way approaching Dickford Bridge",
-      "caption": "Approaching Dickford Bridge. The route descends, sunken a little between banks; through the trees is a glimpse of Easdon Down."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dartmoor_Way_near_Royal_Mile_-_geograph.org.uk_-_1501666.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Dartmoor Way near Royal Mile",
-      "caption": "The Way near Royal Mile. The Way follows Dartmoor Forest Bridleway 14 past a slight depression above the head of Rue Lake, to the east of Royal Hill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/On_the_Dartmoor_Way_-_geograph.org.uk_-_597342.jpg",
-      "title": "Derek Harper\u00a0/\u00a0On the Dartmoor Way",
-      "caption": "Dartmoor Forest Bridleway 14 approaches Hexworthy. In the background are Snider Park Plantation, and Yar Tor, on either side of Dartmeet."
-    }
-  ],
-  "distance_km": 138.0,
-  "description": "This epic long distance circular walk takes you on a tour of the wonderful Dartmoor National Park .\nOn the circular route you will pass Okehampton , Chagford , Moretonhampstead , Buckfastleigh, Princetown , Foggintor Quarry and Tavistock as you make your way around this circular route. The scenery is varied with wild upland, valleys,  and waterfalls among the features of the park. Route highlights include lovely waterside sections along the River Bovey near Bovey Tracey and then along the River Teign approaching Chagford. The fine castle at Okehampton, the National Trust owned Castle Drogo , the waterfalls and woodland at Becky Falls , the picturesque villages of Lustleigh and Sticklepath , and the splendid Lydford Gorge with its waterfall and water pools are other attractions on this interesting and varied walk.",
-  "video_url": "https://www.youtube.com/embed/_e1lWLI2cGw",
-  "district": "Buckfastleigh",
-  "county": "Devon",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dartmoor_Way_-_geograph.org.uk_-_1207021.jpg",
+            "title": "Guy Wareham / Dartmoor Way, via Wikimedia Commons",
+            "caption": "The bridleway, near Cholake Head and the Crock of gold, heading for Bull Park with North Hessary tower on the skyline."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Gateways_on_the_Dartmoor_Way_-_geograph.org.uk_-_593557.jpg",
+            "title": "Derek Harper / Gateways on the Dartmoor Way, via Wikimedia Commons",
+            "caption": "Gateways on the Dartmoor Way. West of Hexworthy, the Way (following Dartmoor Forest Bridleway 14) enters open moorland via this contrasting pair of gateways."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dartmoor_Way_below_Rora_Down_%284%29_-_geograph.org.uk_-_1013148.jpg",
+            "title": "Derek Harper / Dartmoor Way below Rora Down (4)",
+            "caption": "Dartmoor Way below Rora Down. The line of trees enclosing the footpath breaks up at this point, allowing sun to cross the path, and giving a view up the large meadow to the left. This area is located just south west of Liverton."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Dartmoor_Way_on_Neadon_Cleave_-_geograph.org.uk_-_742488.jpg",
+            "title": "Derek Harper / Dartmoor Way on Neadon Cleave",
+            "caption": "On Neadon Cleave. The path passes the wheel and reaches the end of a level stretch before plunging down towards Neadon. It descends through open birch woodland with colourful gorse around here. Located near the River Bovey at Foxworthy Bridge."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dartmoor_Way_at_Whiddon_Wood_-_geograph.org.uk_-_145330.jpg",
+            "title": "Derek Harper / Dartmoor Way at Whiddon Wood",
+            "caption": "Whiddon Wood. Looking west from the Way as it drops towards the River Ashburn. The buildings in the distance are at Bowdley in the next square west."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Dartmoor_Way_approaching_Dickford_Bridge_-_geograph.org.uk_-_163061.jpg",
+            "title": "Derek Harper / Dartmoor Way approaching Dickford Bridge",
+            "caption": "Approaching Dickford Bridge. The route descends, sunken a little between banks; through the trees is a glimpse of Easdon Down."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dartmoor_Way_near_Royal_Mile_-_geograph.org.uk_-_1501666.jpg",
+            "title": "Derek Harper / Dartmoor Way near Royal Mile",
+            "caption": "The Way near Royal Mile. The Way follows Dartmoor Forest Bridleway 14 past a slight depression above the head of Rue Lake, to the east of Royal Hill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/On_the_Dartmoor_Way_-_geograph.org.uk_-_597342.jpg",
+            "title": "Derek Harper / On the Dartmoor Way",
+            "caption": "Dartmoor Forest Bridleway 14 approaches Hexworthy. In the background are Snider Park Plantation, and Yar Tor, on either side of Dartmeet."
+        }
+    ],
+    "distance_km": 138.0,
+    "description": "This epic long distance circular walk takes you on a tour of the wonderful Dartmoor National Park .\nOn the circular route you will pass Okehampton , Chagford , Moretonhampstead , Buckfastleigh, Princetown , Foggintor Quarry and Tavistock as you make your way around this circular route. The scenery is varied with wild upland, valleys,  and waterfalls among the features of the park. Route highlights include lovely waterside sections along the River Bovey near Bovey Tracey and then along the River Teign approaching Chagford. The fine castle at Okehampton, the National Trust owned Castle Drogo , the waterfalls and woodland at Becky Falls , the picturesque villages of Lustleigh and Sticklepath , and the splendid Lydford Gorge with its waterfall and water pools are other attractions on this interesting and varied walk.",
+    "video_url": "https://www.youtube.com/embed/_e1lWLI2cGw",
+    "district": "Buckfastleigh",
+    "county": "Devon",
+    "region": "South West",
+    "country": "England"
 }

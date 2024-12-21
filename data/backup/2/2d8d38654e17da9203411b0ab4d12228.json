@@ -1,83 +1,83 @@
 {
-  "objectID": "2d8d38654e17da9203411b0ab4d12228",
-  "created_at": "2024-12-18T16:18:51.537187+00:00",
-  "ref": "weston-woods-walking-route",
-  "title": "Weston Woods Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Footpath_to_Kewstoke_-_geograph.org.uk_-_1026894.jpg",
-  "nearby": [
-    {
-      "description": "West Mendip Way",
-      "objectID": "ae4e6d155e5bd663f57deea08ad1ed66",
-      "ref": "west-mendip-way-walking-route"
+    "objectID": "2d8d38654e17da9203411b0ab4d12228",
+    "created_at": "2024-12-18T16:18:51.537187+00:00",
+    "ref": "weston-woods-walking-route",
+    "title": "Weston Woods Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Footpath_to_Kewstoke_-_geograph.org.uk_-_1026894.jpg",
+    "nearby": [
+        {
+            "description": "West Mendip Way",
+            "objectID": "ae4e6d155e5bd663f57deea08ad1ed66",
+            "ref": "west-mendip-way-walking-route"
+        },
+        {
+            "description": "Sand Point",
+            "objectID": "35dac309c5cb1e5d82a9b711683ebfcb",
+            "ref": "sand-point-walking-route"
+        },
+        {
+            "description": "Brean Down",
+            "objectID": "d1f5fb4be2ed4c5b94095a405585288a",
+            "ref": "brean-down-walking-route"
+        },
+        {
+            "description": "Bleadon Hill",
+            "objectID": "3e1566d7c2f889c322422d6bafe7b8a3",
+            "ref": "bleadon-hill-walking-route"
+        },
+        {
+            "description": "Weston-Super-Mare",
+            "objectID": "96368a3408d04585f5a42acb4b6c55de",
+            "ref": "weston-super-mare-walking-route"
+        },
+        {
+            "description": "Clevedon to Weston-Super-Mare",
+            "objectID": "3b9f923b8ddd47a03a59c29f7dae7677",
+            "ref": "clevedon-to-weston-super-mare-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D5716D6586B648AD80258112006B232C/$FILE/Weston Woods.gpx",
+    "_geoloc": {
+        "lat": 51.3595028977,
+        "lng": -2.9610332455
     },
-    {
-      "description": "Sand Point",
-      "objectID": "35dac309c5cb1e5d82a9b711683ebfcb",
-      "ref": "sand-point-walking-route"
-    },
-    {
-      "description": "Brean Down",
-      "objectID": "d1f5fb4be2ed4c5b94095a405585288a",
-      "ref": "brean-down-walking-route"
-    },
-    {
-      "description": "Bleadon Hill",
-      "objectID": "3e1566d7c2f889c322422d6bafe7b8a3",
-      "ref": "bleadon-hill-walking-route"
-    },
-    {
-      "description": "Weston-Super-Mare",
-      "objectID": "96368a3408d04585f5a42acb4b6c55de",
-      "ref": "weston-super-mare-walking-route"
-    },
-    {
-      "description": "Clevedon to Weston-Super-Mare",
-      "objectID": "3b9f923b8ddd47a03a59c29f7dae7677",
-      "ref": "clevedon-to-weston-super-mare-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/D5716D6586B648AD80258112006B232C/$FILE/Weston Woods.gpx",
-  "_geoloc": {
-    "lat": 51.3595028977,
-    "lng": -2.9610332455
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Footpath_to_Kewstoke_-_geograph.org.uk_-_1026894.jpg",
-      "title": "Derek Harper\u00a0/\u00a0Footpath to Kewstoke",
-      "caption": "Footpath to Kewstoke. One of many paths through Weston Woods. This one slants diagonally down from Worlebury Hill to join Kewstoke Road."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Memorial_Angel_in_Weston_Woods.jpg/512px-Memorial_Angel_in_Weston_Woods.jpg",
-      "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "A memorial angel tucked between the roots of a tree in Weston Woods, Somerset."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cleared_ground_facing_the_sea_in_Worlebury_Camp.jpg/512px-Cleared_ground_facing_the_sea_in_Worlebury_Camp.jpg",
-      "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Cleared ground in the Iron Age Worlebury Camp."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Weston-super-Mare%2C_Worlebury_hillfort_-_geograph.org.uk_-_134707.jpg",
-      "title": "Martin Bodman\u00a0/\u00a0Weston-super-Mare: Worlebury hillfort",
-      "caption": "Weston-super-Mare: Worlebury hillfort. Recent tree clearance of part of the 10-acre site, in the hands of North Somerset Council, has revealed some of the 93 storage pits first discovered in the 1850s, when the site was excavated by a group of antiquarians. Grain was found in a number of the pits, which are unusually large at 6 to 8 feet in diameter and typically 6 feet deep. For a good guide to the hillfort, see \u0091Worlebury. The story of the Iron Age hill-fort at Weston-super-Mare\u0092, obtainable from Woodspring Museum, Burlington Street, Weston-super-Mare BS23 1PR."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Birnbeck_Pier_from_Weston_Woods.jpg/512px-Birnbeck_Pier_from_Weston_Woods.jpg",
-      "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Birnbeck Pier as seen from the west of Weston Woods. The pier is notable as the only pier in the country which links the mainland to an island. The Grade II listed pier dates from 1867 and is located just north of the town. The pier has been closed to the public since 1994 and is now on the\u00a0Buildings at Risk Register. Sadly it remains in a largely derelict state."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Old_Town_Quarry%2C_Weston_Super_Mare_-_geograph.org.uk_-_1555125.jpg",
-      "title": "Christine Johnstone\u00a0/\u00a0Old Town Quarry, Weston Super Mare",
-      "caption": "Old Town Quarry, Weston Super Mare. Now a nature reserve, with craft workshops, a wonderful organic cafe and Weston's only composting toilet."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "These pretty woods in Weston-Super-Mare have a series of good footpaths to try. The woods are also a local nature reserve covering 130 hectares (321 acres) on Worlebury Hill above the town. From the elevated position of the woods there are nice views over Sand Bay towards Wales. \u00a0There's also an Iron Age hillfort at the western tip of the site where the defensive ramparts can be clearly seen. You can park at the car park on Worlebury Hill Road at the eastern tip of the woods. Then pick up the trails heading west towards the coast. To extend your walking in the area you could pick up the West Mendip Way long distance path and explore the Mendip Hills from Weston-Super-Mare. Just to the north of the woods you will find the splendid Sand Point where you can enjoy fine views across the Bristol Channel on a beautiful coastal peninsula. Just to the south you can enjoy more great coastal views on Brean Down or climb to the nearby Bleadon Hill .",
-  "postcode": "BS22 9SG",
-  "district": "Weston-super-Mare",
-  "county": "North Somerset",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Footpath_to_Kewstoke_-_geograph.org.uk_-_1026894.jpg",
+            "title": "Derek Harper / Footpath to Kewstoke",
+            "caption": "Footpath to Kewstoke. One of many paths through Weston Woods. This one slants diagonally down from Worlebury Hill to join Kewstoke Road."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Memorial_Angel_in_Weston_Woods.jpg/512px-Memorial_Angel_in_Weston_Woods.jpg",
+            "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "A memorial angel tucked between the roots of a tree in Weston Woods, Somerset."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cleared_ground_facing_the_sea_in_Worlebury_Camp.jpg/512px-Cleared_ground_facing_the_sea_in_Worlebury_Camp.jpg",
+            "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Cleared ground in the Iron Age Worlebury Camp."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Weston-super-Mare%2C_Worlebury_hillfort_-_geograph.org.uk_-_134707.jpg",
+            "title": "Martin Bodman / Weston-super-Mare: Worlebury hillfort",
+            "caption": "Weston-super-Mare: Worlebury hillfort. Recent tree clearance of part of the 10-acre site, in the hands of North Somerset Council, has revealed some of the 93 storage pits first discovered in the 1850s, when the site was excavated by a group of antiquarians. Grain was found in a number of the pits, which are unusually large at 6 to 8 feet in diameter and typically 6 feet deep. For a good guide to the hillfort, see \u0091Worlebury. The story of the Iron Age hill-fort at Weston-super-Mare\u0092, obtainable from Woodspring Museum, Burlington Street, Weston-super-Mare BS23 1PR."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Birnbeck_Pier_from_Weston_Woods.jpg/512px-Birnbeck_Pier_from_Weston_Woods.jpg",
+            "title": "Ethan Doyle White, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Birnbeck Pier as seen from the west of Weston Woods. The pier is notable as the only pier in the country which links the mainland to an island. The Grade II listed pier dates from 1867 and is located just north of the town. The pier has been closed to the public since 1994 and is now on the Buildings at Risk Register. Sadly it remains in a largely derelict state."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Old_Town_Quarry%2C_Weston_Super_Mare_-_geograph.org.uk_-_1555125.jpg",
+            "title": "Christine Johnstone / Old Town Quarry, Weston Super Mare",
+            "caption": "Old Town Quarry, Weston Super Mare. Now a nature reserve, with craft workshops, a wonderful organic cafe and Weston's only composting toilet."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "These pretty woods in Weston-Super-Mare have a series of good footpaths to try. The woods are also a local nature reserve covering 130 hectares (321 acres) on Worlebury Hill above the town. From the elevated position of the woods there are nice views over Sand Bay towards Wales.  There's also an Iron Age hillfort at the western tip of the site where the defensive ramparts can be clearly seen. You can park at the car park on Worlebury Hill Road at the eastern tip of the woods. Then pick up the trails heading west towards the coast. To extend your walking in the area you could pick up the West Mendip Way long distance path and explore the Mendip Hills from Weston-Super-Mare. Just to the north of the woods you will find the splendid Sand Point where you can enjoy fine views across the Bristol Channel on a beautiful coastal peninsula. Just to the south you can enjoy more great coastal views on Brean Down or climb to the nearby Bleadon Hill .",
+    "postcode": "BS22 9SG",
+    "district": "Weston-super-Mare",
+    "county": "North Somerset",
+    "region": "South West",
+    "country": "England"
 }

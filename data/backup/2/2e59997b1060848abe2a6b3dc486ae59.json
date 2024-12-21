@@ -1,143 +1,143 @@
 {
-  "objectID": "2e59997b1060848abe2a6b3dc486ae59",
-  "created_at": "2024-12-19T10:15:10.493906+00:00",
-  "ref": "carn-marth-walking-route",
-  "title": "Carn Marth Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carn_Marth_Theatre_Quarry_-_geograph.org.uk_-_145429.jpg",
-  "nearby": [
-    {
-      "description": "Redruth",
-      "objectID": "493c97517db66a4daa76c71ec7387fb0",
-      "ref": "redruth-walking-route"
+    "objectID": "2e59997b1060848abe2a6b3dc486ae59",
+    "created_at": "2024-12-19T10:15:10.493906+00:00",
+    "ref": "carn-marth-walking-route",
+    "title": "Carn Marth Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carn_Marth_Theatre_Quarry_-_geograph.org.uk_-_145429.jpg",
+    "nearby": [
+        {
+            "description": "Redruth",
+            "objectID": "493c97517db66a4daa76c71ec7387fb0",
+            "ref": "redruth-walking-route"
+        },
+        {
+            "description": "Portreath",
+            "objectID": "a6a538b4d4da10d30b8d99de5dadc135",
+            "ref": "portreath-walking-route"
+        },
+        {
+            "description": "St Agnes Head - St Agnes Beacon - Wheal Coates",
+            "objectID": "fea68a666fe47a092d0dd957c153b958",
+            "ref": "st-agnes-head---st-agnes-beacon---wheal-coates-walking-route"
+        },
+        {
+            "description": "Falmouth",
+            "objectID": "e86f0c92eb400470fc995e8c7ebd394c",
+            "ref": "falmouth-walking-route"
+        },
+        {
+            "description": "Carn Brea",
+            "objectID": "7d4ba7283ef508571ca14223d423ec94",
+            "ref": "carn-brea-walking-route"
+        },
+        {
+            "description": "Stithians Lake",
+            "objectID": "e3d8daada933d78351c9945947c77c85",
+            "ref": "stithians-lake-walking-and-cycle-route"
+        },
+        {
+            "description": "Great Flat Lode Trail",
+            "objectID": "96a48ed86c6f82c4fb8c9f351aa63567",
+            "ref": "great-flat-lode-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Kennall Vale",
+            "objectID": "811f4721d06f789eb9c22b389fddfd0d",
+            "ref": "kennall-vale-walking-route"
+        },
+        {
+            "description": "Truro",
+            "objectID": "d1fdaebb691313b8fe16c12c4398543e",
+            "ref": "truro-walking-route"
+        },
+        {
+            "description": "Tehidy Country Park",
+            "objectID": "02de964df8fef56dfa46c91f747915f9",
+            "ref": "tehidy-country-park-walking-and-cycle-route"
+        },
+        {
+            "description": "Mineral Tramways Trail",
+            "objectID": "880927ab5556acc7ca7836d38217e3bf",
+            "ref": "mineral-tramways-trail-walking-and-cycle-route"
+        },
+        {
+            "description": "Portreath",
+            "objectID": "a6a538b4d4da10d30b8d99de5dadc135",
+            "ref": "portreath-walking-route"
+        },
+        {
+            "description": "Hayle Estuary",
+            "objectID": "f9be624b89a94f94894c2f4b6960e398",
+            "ref": "hayle-estuary-walking-and-cycle-route"
+        },
+        {
+            "description": "Perranporth to St Agnes Walk",
+            "objectID": "badf8364c166bab4e5c8896e734f6c5e",
+            "ref": "perranporth-to-st-agnes-walk-walking-route"
+        },
+        {
+            "description": "Poldice Valley",
+            "objectID": "66115e133fdc6f4995c121cae61984c4",
+            "ref": "poldice-valley-walking-and-cycle-route"
+        },
+        {
+            "description": "Gwennap Pit",
+            "objectID": "bbc9b119825296b554f9861307bddc4c",
+            "ref": "gwennap-pit-walking-route"
+        }
+    ],
+    "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/DB42326C84B1F515862586DF002FE67A/$FILE/Carn Marth.gpx",
+    "_geoloc": {
+        "lat": 50.2207658774,
+        "lng": -5.2075106685
     },
-    {
-      "description": "Portreath",
-      "objectID": "a6a538b4d4da10d30b8d99de5dadc135",
-      "ref": "portreath-walking-route"
-    },
-    {
-      "description": "St Agnes Head - St Agnes Beacon - Wheal Coates",
-      "objectID": "fea68a666fe47a092d0dd957c153b958",
-      "ref": "st-agnes-head---st-agnes-beacon---wheal-coates-walking-route"
-    },
-    {
-      "description": "Falmouth",
-      "objectID": "e86f0c92eb400470fc995e8c7ebd394c",
-      "ref": "falmouth-walking-route"
-    },
-    {
-      "description": "Carn Brea",
-      "objectID": "7d4ba7283ef508571ca14223d423ec94",
-      "ref": "carn-brea-walking-route"
-    },
-    {
-      "description": "Stithians Lake",
-      "objectID": "e3d8daada933d78351c9945947c77c85",
-      "ref": "stithians-lake-walking-and-cycle-route"
-    },
-    {
-      "description": "Great Flat Lode Trail",
-      "objectID": "96a48ed86c6f82c4fb8c9f351aa63567",
-      "ref": "great-flat-lode-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Kennall Vale",
-      "objectID": "811f4721d06f789eb9c22b389fddfd0d",
-      "ref": "kennall-vale-walking-route"
-    },
-    {
-      "description": "Truro",
-      "objectID": "d1fdaebb691313b8fe16c12c4398543e",
-      "ref": "truro-walking-route"
-    },
-    {
-      "description": "Tehidy Country Park",
-      "objectID": "02de964df8fef56dfa46c91f747915f9",
-      "ref": "tehidy-country-park-walking-and-cycle-route"
-    },
-    {
-      "description": "Mineral Tramways Trail",
-      "objectID": "880927ab5556acc7ca7836d38217e3bf",
-      "ref": "mineral-tramways-trail-walking-and-cycle-route"
-    },
-    {
-      "description": "Portreath",
-      "objectID": "a6a538b4d4da10d30b8d99de5dadc135",
-      "ref": "portreath-walking-route"
-    },
-    {
-      "description": "Hayle Estuary",
-      "objectID": "f9be624b89a94f94894c2f4b6960e398",
-      "ref": "hayle-estuary-walking-and-cycle-route"
-    },
-    {
-      "description": "Perranporth to St Agnes Walk",
-      "objectID": "badf8364c166bab4e5c8896e734f6c5e",
-      "ref": "perranporth-to-st-agnes-walk-walking-route"
-    },
-    {
-      "description": "Poldice Valley",
-      "objectID": "66115e133fdc6f4995c121cae61984c4",
-      "ref": "poldice-valley-walking-and-cycle-route"
-    },
-    {
-      "description": "Gwennap Pit",
-      "objectID": "bbc9b119825296b554f9861307bddc4c",
-      "ref": "gwennap-pit-walking-route"
-    }
-  ],
-  "gpx_url": "http://gps-routes.co.uk/A55CD9/home.nsf/All/DB42326C84B1F515862586DF002FE67A/$FILE/Carn Marth.gpx",
-  "_geoloc": {
-    "lat": 50.2207658774,
-    "lng": -5.2075106685
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carn_Marth_Theatre_Quarry_-_geograph.org.uk_-_145429.jpg",
-      "title": "Tony Atkin\u00a0/\u00a0Carn Marth Theatre Quarry",
-      "caption": "Carn Marth Theatre Quarry. This open air theatre on the southern side of Carn Marth was built in an old quarry on the southern side of Carn Marth by the Carn Marth Trust. Performances are held every year on Summer evenings."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lake_near_the_Summit_of_Carn_Marth_-_geograph.org.uk_-_145432.jpg",
-      "title": "Tony Atkin\u00a0/\u00a0Lake near the Summit of Carn Marth",
-      "caption": "Lake near the Summit of Carn Marth. This lake is formed in an old granite quarry. In 1986 there were plans to reopen quarrying on Carn Marth which would have effectively destroyed the heathland vegetation and the amenity value of this hill. Local people formed the Carn Marth Trust which raised funds and grants to purchase land on Carn Marth to stop this happening. The Trust takes responsibility for maintaining the amenity value and biodiversity on the hill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Carn_Marth_Trig_Point_-_geograph.org.uk_-_530792.jpg",
-      "title": "Damon Knight\u00a0/\u00a0Carn Marth Trig Point",
-      "caption": "Trig Point. View from the trig point on Carn Marth over Redruth and towards Portreath."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Carn_Marth_-_geograph.org.uk_-_145433.jpg",
-      "title": "Tony Atkin\u00a0/\u00a0Carn Marth",
-      "caption": "Looking west to the summit from the eastern path."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Carn_Marth_looking_towards_St_Agnes_Beacon_-_geograph.org.uk_-_1419272.jpg",
-      "title": "Paul Pollard\u00a0/\u00a0Carn Marth looking towards St Agnes Beacon",
-      "caption": "Looking towards St Agnes Beacon. A beautiful summer morning on Carn Marth looking towards St Agnes Beacon in the distance."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mine_shaft_on_Carn_Marth_-_geograph.org.uk_-_1312654.jpg",
-      "title": "Rod Allday\u00a0/\u00a0Mine shaft on Carn Marth",
-      "caption": "Mine shaft. The fence surrounds an open mine shaft, a common feature in this heavily mined area. The woodland in the distance is on the Trevince estate\u00a0and the brown bare area to the left of this is the landfill site at United Downs which is in the process of being landscaped. On a clear day there are views from here to the sea beyond Falmouth."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flooded_quarry_on_Carn_Marth_-_geograph.org.uk_-_1312629.jpg/256px-Flooded_quarry_on_Carn_Marth_-_geograph.org.uk_-_1312629.jpg",
-      "title": "Rod Allday\u00a0/\u00a0Flooded quarry on Carn Marth",
-      "caption": "Flooded quarry."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Baronet%27s_Engine_House%2C_Pennance_Consols_-_geograph.org.uk_-_145190.jpg",
-      "title": "Tony Atkin\u00a0/\u00a0Baronet's Engine House, Pennance Consols",
-      "caption": "Baronet's Engine House, Pennance Consols. A classic Cornish Engine House. Pennance Consols mine was previously known as Wheal Amelia and mined tin and copper on the southern slope of Carn Marth."
-    }
-  ],
-  "distance_km": 2.0,
-  "description": "This circular walk visits the Carn Marth outdoor theatre and the surrounding quarries in the Redruth area of Cornwall. The walk starts just north of Pennance where you can pick up footpaths taking you around the interesting theatre to the Carn Marth Hill summit which stands at 235 metres. Here you'll find a trig point and a picturesque quarry lake. There's also an outdoor Amphitheatre where you can enjoy performances during the warmer months. From the elevated spot there are also some fine views over the area to nearby Portreath , St Agnes Beacon , Falmouth and the coast. The site includes plenty of interesting flora with Lowland Heath, Gorse, Bracken and a generous mixture of wildflowers during the summer.",
-  "video_url": "https://www.youtube.com/embed/A6gp76tbtRE",
-  "district": "Lanner",
-  "county": "Cornwall",
-  "region": "South West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Carn_Marth_Theatre_Quarry_-_geograph.org.uk_-_145429.jpg",
+            "title": "Tony Atkin / Carn Marth Theatre Quarry",
+            "caption": "Carn Marth Theatre Quarry. This open air theatre on the southern side of Carn Marth was built in an old quarry on the southern side of Carn Marth by the Carn Marth Trust. Performances are held every year on Summer evenings."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Lake_near_the_Summit_of_Carn_Marth_-_geograph.org.uk_-_145432.jpg",
+            "title": "Tony Atkin / Lake near the Summit of Carn Marth",
+            "caption": "Lake near the Summit of Carn Marth. This lake is formed in an old granite quarry. In 1986 there were plans to reopen quarrying on Carn Marth which would have effectively destroyed the heathland vegetation and the amenity value of this hill. Local people formed the Carn Marth Trust which raised funds and grants to purchase land on Carn Marth to stop this happening. The Trust takes responsibility for maintaining the amenity value and biodiversity on the hill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Carn_Marth_Trig_Point_-_geograph.org.uk_-_530792.jpg",
+            "title": "Damon Knight / Carn Marth Trig Point",
+            "caption": "Trig Point. View from the trig point on Carn Marth over Redruth and towards Portreath."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Carn_Marth_-_geograph.org.uk_-_145433.jpg",
+            "title": "Tony Atkin / Carn Marth",
+            "caption": "Looking west to the summit from the eastern path."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Carn_Marth_looking_towards_St_Agnes_Beacon_-_geograph.org.uk_-_1419272.jpg",
+            "title": "Paul Pollard / Carn Marth looking towards St Agnes Beacon",
+            "caption": "Looking towards St Agnes Beacon. A beautiful summer morning on Carn Marth looking towards St Agnes Beacon in the distance."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Mine_shaft_on_Carn_Marth_-_geograph.org.uk_-_1312654.jpg",
+            "title": "Rod Allday / Mine shaft on Carn Marth",
+            "caption": "Mine shaft. The fence surrounds an open mine shaft, a common feature in this heavily mined area. The woodland in the distance is on the Trevince estate and the brown bare area to the left of this is the landfill site at United Downs which is in the process of being landscaped. On a clear day there are views from here to the sea beyond Falmouth."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Flooded_quarry_on_Carn_Marth_-_geograph.org.uk_-_1312629.jpg/256px-Flooded_quarry_on_Carn_Marth_-_geograph.org.uk_-_1312629.jpg",
+            "title": "Rod Allday / Flooded quarry on Carn Marth",
+            "caption": "Flooded quarry."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Baronet%27s_Engine_House%2C_Pennance_Consols_-_geograph.org.uk_-_145190.jpg",
+            "title": "Tony Atkin / Baronet's Engine House, Pennance Consols",
+            "caption": "Baronet's Engine House, Pennance Consols. A classic Cornish Engine House. Pennance Consols mine was previously known as Wheal Amelia and mined tin and copper on the southern slope of Carn Marth."
+        }
+    ],
+    "distance_km": 2.0,
+    "description": "This circular walk visits the Carn Marth outdoor theatre and the surrounding quarries in the Redruth area of Cornwall. The walk starts just north of Pennance where you can pick up footpaths taking you around the interesting theatre to the Carn Marth Hill summit which stands at 235 metres. Here you'll find a trig point and a picturesque quarry lake. There's also an outdoor Amphitheatre where you can enjoy performances during the warmer months. From the elevated spot there are also some fine views over the area to nearby Portreath , St Agnes Beacon , Falmouth and the coast. The site includes plenty of interesting flora with Lowland Heath, Gorse, Bracken and a generous mixture of wildflowers during the summer.",
+    "video_url": "https://www.youtube.com/embed/A6gp76tbtRE",
+    "district": "Lanner",
+    "county": "Cornwall",
+    "region": "South West",
+    "country": "England"
 }
