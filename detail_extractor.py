@@ -152,8 +152,8 @@ async def main():
     # markup = requests.get(url).text
     # soup = BeautifulSoup(markup, "lxml")
 
-    test_file = "example-data/deils-cauldron-walking-route.html"
-    # test_file = "example-data/aber-falls-walking-route.html"
+    test_file = "data/examples/deils-cauldron-walking-route.html"
+    # test_file = "data/examples/aber-falls-walking-route.html"
 
     with open(test_file, "r", encoding="utf-8", errors="replace") as fp:
         result = DetailExtractor(fp.read().replace("\uFFFD", " ")).process()

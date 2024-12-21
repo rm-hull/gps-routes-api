@@ -1,0 +1,87 @@
+{
+  "settings": {
+    "minWordSizefor1Typo": 4,
+    "minWordSizefor2Typos": 8,
+    "hitsPerPage": 20,
+    "maxValuesPerFacet": 100,
+    "attributesToIndex": [
+      "unordered(title)",
+      "unordered(overview)",
+      "unordered(description)",
+      "unordered(images.title)",
+      "unordered(nearby.description)"
+    ],
+    "numericAttributesForFiltering": [
+      "distance_km"
+    ],
+    "attributesToRetrieve": null,
+    "unretrievableAttributes": null,
+    "optionalWords": null,
+    "attributesForFaceting": [
+      "country",
+      "searchable(county)",
+      "distance_km",
+      "searchable(district)",
+      "region"
+    ],
+    "attributesToSnippet": null,
+    "attributesToHighlight": null,
+    "paginationLimitedTo": 1000,
+    "attributeForDistinct": null,
+    "exactOnSingleWordQuery": "attribute",
+    "ranking": [
+      "typo",
+      "geo",
+      "words",
+      "filters",
+      "proximity",
+      "attribute",
+      "exact",
+      "custom"
+    ],
+    "customRanking": [
+      "desc(distance_km)"
+    ],
+    "separatorsToIndex": "",
+    "removeWordsIfNoResults": "none",
+    "queryType": "prefixLast",
+    "highlightPreTag": "<em>",
+    "highlightPostTag": "</em>",
+    "alternativesAsExact": [
+      "ignorePlurals",
+      "singleWordSynonym"
+    ],
+    "renderingContent": {
+      "facetOrdering": {
+        "facets": {
+          "order": [
+            "distance_km",
+            "country",
+            "region",
+            "county",
+            "district"
+          ]
+        },
+        "values": {
+          "country": {
+            "sortRemainingBy": "count"
+          },
+          "county": {
+            "sortRemainingBy": "count"
+          },
+          "distance_km": {
+            "sortRemainingBy": "count"
+          },
+          "district": {
+            "sortRemainingBy": "count"
+          },
+          "region": {
+            "sortRemainingBy": "count"
+          }
+        }
+      }
+    }
+  },
+  "rules": [],
+  "synonyms": []
+}

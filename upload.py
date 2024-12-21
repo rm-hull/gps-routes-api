@@ -18,7 +18,5 @@ for file in tqdm(files, desc="Uploading", unit="record"):
             client.save_objects(index_name=ROUTES_INDEX, objects=batch)
             batch = []
 
-            break
-
 if batch:
     client.save_objects(index_name=ROUTES_INDEX, objects=batch)
