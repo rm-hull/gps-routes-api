@@ -14,37 +14,6 @@ algolia_client = get_search_client()
 datahub = get_datahub_client()
 
 
-def extract_next_link(soup: BeautifulSoup) -> str | None:
-    next_text = soup.find(string="Next")
-    if next_text:
-        parent_a_tag = next_text.find_parent("a", href=True)
-        if parent_a_tag:
-            return parent_a_tag.get("href")
-
-    return None
-
-
-def extract_links(soup: BeautifulSoup) -> list[str]:
-    results = []
-    target_div = soup.find(
-        "div",
-        align="center",
-        string=lambda text: text and "RoutesLinksWalks" in text,
-    )
-    if target_div:
-        target_table = target_div.find_next("table")
-        if target_table:
-            td_elements = target_table.find_all("td")
-            for td in td_elements:
-                links = td.find_all("a")
-                for link in links:
-                    href = link.get("href")
-                    if href:
-                        results.append(href)
-
-    return results
-
-
 def store_objects(records: list):
     return algolia_client.save_objects(
         index_name=ROUTES_INDEX,
@@ -54,11 +23,11 @@ def store_objects(records: list):
 
 def gazetteer_info(record: dict) -> dict:
     if "_geoloc" not in record:
-        return {}
+        return {"gazetteer_found": False}
 
     gazetteer = datahub.nearby(record["_geoloc"]["lat"], record["_geoloc"]["lng"])
     if gazetteer is None:
-        return {}
+        return {"gazetteer_found": False}
 
     result = {}
     if gazetteer["LOCAL_TYPE"] == "Postcode":
@@ -76,6 +45,8 @@ def gazetteer_info(record: dict) -> dict:
     if "COUNTRY" in gazetteer:
         result["country"] = gazetteer["COUNTRY"]
 
+    result["gazetteer_found"] = bool(result)
+
     return result
 
 
@@ -85,7 +56,7 @@ def oversized(record: dict) -> bool:
 
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("data/missing-geoloc.txt", mode="r") as fp:
+    with open("data/new-list.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
@@ -101,9 +72,12 @@ def select_unprocessed_route() -> tuple[int, str | None]:
             resp = algolia_client.get_object(
                 index_name=ROUTES_INDEX,
                 object_id=get_object_id(ref),
-                attributes_to_retrieve=["country", "_geoloc"],
+                attributes_to_retrieve=["country", "_geoloc", "gazetteer_found"],
             )
             if "_geoloc" not in resp:
+                continue
+
+            if "gazetter_found" in resp:
                 continue
 
             if "country" not in resp:
@@ -172,23 +146,6 @@ def unprocessed_entries_crawl():
 async def main():
     # random_page_crawl()
     unprocessed_entries_crawl()
-
-    # base_url = "https://www.gps-routes.co.uk"
-    # path = "/A55CD9/home.nsf/RoutesLinksWalks?OpenView&Start=1"
-    # prev = None
-
-    # while path != prev:
-    #     print(f"checking path {path}, current={len(hrefs)}")
-
-    #     markup = requests.get(f"{base_url}{path}").text
-    #     soup = BeautifulSoup(markup, "lxml")
-
-    #     prev = path
-    #     path = extract_next_link(soup)
-    #     hrefs.extend(extract_links(soup))
-
-    # for href in hrefs:
-    #     print(href)
 
 
 asyncio.run(main())
