@@ -18,4 +18,6 @@ To remove escaped new-lines & non-breaking spaces:
 ```console
 find data/backup -type f -exec perl -i -pe 's/\\u00a0/ /g' {} +
 find data/backup -type f -exec perl -i -pe 's/\\n/ /g' {} +
+find data/backup -type f -exec perl -i -pe 's/ , /,  /g' {} +
+find data/backup -type f -exec perl -i -pe 's/ \. /. /g' {} +
 ```
