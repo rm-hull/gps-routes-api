@@ -1,5 +1,4 @@
 import json
-from operator import index
 from tqdm import tqdm
 from utils import get_search_client, ROUTES_INDEX, walk_files
 
