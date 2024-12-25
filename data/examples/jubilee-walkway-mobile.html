@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta charset='utf-8' />
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no' />
+    <link rel='stylesheet' href='https://labs.os.uk/public/os-api-branding/v0.2.0/os-api-branding.css' />
+    <link rel='stylesheet' href='https://unpkg.com/leaflet@1.7.1/dist/leaflet.css' />
+    <style>
+        body { margin:0; padding:0; }
+
+    </style><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'> 
+<link rel='stylesheet' href='/A55CD9/home.nsf/styles.css' type='text/css'> 
+<link rel='stylesheet' href='/A55CD9/home.nsf/mobile.css' type='text/css'> 
+<script src='/A55CD9/home.nsf/OpenLayers.mobile.js'></script>
+<link href='/A55CD9/home.nsf/openmap.css' rel='stylesheet'>
+    <style type='text/css'>
+      html, body, #map {
+          width: 100%;
+
+          margin: 0;
+      }
+#map{height:90%}
+	.small
+	{
+	 font-size:12px
+	}
+#OpenLayers_Control_Attribution_7{display:none} 
+    </style><!-- Google tag (gtag.js) -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-HMJS8N6QM7'></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HMJS8N6QM7');
+</script>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+var startPoint;var map;var latitudevar longitudevar gpxLayervar trackfunction hideLayer() {map.removeLayer(gpxLayer);document.getElementById('hide').style.display='none';document.getElementById('show').style.display='inline';}function showLayer() {map.addLayer(gpxLayer);document.getElementById('show').style.display='none';document.getElementById('hide').style.display='inline';}function hideLayerTrack() {document.getElementById('track').style.display='none';document.getElementById('stoptrack').style.display='inline';}function showLayerTrack() {document.getElementById('stoptrack').style.display='none';document.getElementById('track').style.display='inline';}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t, h) {
+  var form = document._OSMapMobile;
+  if (form.onsubmit) {
+     var retVal = form.onsubmit();
+     if (typeof retVal == "boolean" && retVal == false)
+       return false;
+  }
+  var target = document._domino_target;
+  if (o.href != null) {
+    if (o.target != null)
+       target = o.target;
+  } else {
+    if (t != null)
+      target = t;
+  }
+  form.target = target;
+  form.__Click.value = v;
+  if (h != null)
+    form.action += h;
+  form.submit();
+  return false;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" onload="if(window.location.hostname==&quot;apps02.prominic.net&quot;){textStr=window.location.toString();resStr =textStr.replace(&quot;apps02.prominic.net/A55CD9&quot;, &quot;www.gps-routes.co.uk/routes&quot;);window.location=resStr} var apiKey = 'WGAfg5IOKer8AllaAqKdJrcKCXyooSrV';    var serviceUrl = 'https://api.os.uk/maps/raster/v1/wmts'; // Setup the EPSG:27700 (British National Grid) projection.    var crs = new L.Proj.CRS('EPSG:27700', '+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=446.448,-125.157,542.06,0.15,0.247,0.842,-20.489 +units=m +no_defs', {        resolutions: [ 896.0, 448.0, 224.0, 112.0, 56.0, 28.0, 14.0, 7.0, 3.5, 1.75 ],        origin: [ -238375.0, 1376256.0 ]    });  // Define parameters object.    var params = {        key: apiKey,        service: 'WMTS',        request: 'GetTile',        version: '2.0.0',        height: 256,        width: 256,        outputFormat: 'image/png',        style: 'default',        layer: 'Leisure_27700',        tileMatrixSet: 'EPSG:27700',        tileMatrix: '{z}',        tileRow: '{y}',        tileCol: '{x}'    };// Construct query string parameters from object.    var queryString = Object.keys(params).map(function(key) {        return key + '=' + params[key];    }).join('&amp;');    // Initialize the map.    var mapOptions = {   crs: crs,      //  minZoom: 7,        maxZoom: 9,        zoom: 8,        attributionControl: false    };     map = L.map('map', mapOptions);// Load and display WMTS tile layer on the map.    var basemap = L.tileLayer(serviceUrl + '?' + queryString).addTo(map);    // Add the GPX route layer (with a custom style).    var customLayer = L.geoJson(null, {        style: function(feature) {            return { color: '#fa0202', weight: 6, opacity: 0.8 };        }    });   v=document.getElementById('viewname').value   f=document.getElementById('filename').value   r=document.getElementById('routename').value   gpxFile=&quot;/A55CD9/home.nsf/&quot;+v+&quot;/&quot;+r +&quot;/$FILE/&quot;+f    gpxLayer = omnivore.gpx(gpxFile, null, customLayer)        .on('ready', function() { // Add a 'ready' event handler which is fired when all data is loaded into the layer.            // Get the feature coordinates for the GPX route.            var coordinates = gpxLayer.toGeoJSON().features[0].geometry.coordinates;            // Add a marker for the start of the route to the map.            startPoint = getLatLng(coordinates[0]);            var startIcon = getIconStart('green');            var startMarker = L.marker(startPoint, { icon: startIcon }).addTo(map);   //map.setMaxBounds(gpxLayer.getBounds().pad(30));**uncomment this to add bounds - if you do you'll have to remove 'go to my location' button		map.panTo(startPoint);        })        .addTo(map);    /**     * Returns a LatLng array from a position.     */    function getLatLng(pnt) {        return pnt.slice(0, 2).reverse();    }    /**     * Returns a custom icon to provide when creating a marker.     * Reference: https://github.com/pointhi/leaflet-color-markers     */    function getIcon(color) {        return new L.Icon({            iconUrl: '/A55CD9/home.nsf/marker2.png',            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/images/marker-shadow.png',            iconSize: [ 25, 41 ],            iconAnchor: [ 12, 41 ],            popupAnchor: [ 1, -34 ],            shadowSize: [ 41, 41 ]        });    }          function getIconStart(color) {        return new L.Icon({           iconUrl: '/A55CD9/home.nsf/marker-icon-2x-green.png',            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.6.0/images/marker-shadow.png',            iconSize: [ 25, 41 ],            iconAnchor: [ 12, 41 ],            popupAnchor: [ 1, -34 ],            shadowSize: [ 41, 41 ]        });    }if(navigator.geolocation){var options = {timeout:25000,enableHighAccuracy: true, maximumAge: 0};geoLoc = navigator.geolocation;watchID = geoLoc.watchPosition(showLocation, errorHandler, options);}var watchID;var geoLoc;var layerGroup = L.layerGroup().addTo(map);function showLocation(position) { latitude = position.coords.latitude; longitude = position.coords.longitude;var locationIcon = getIcon('red');//alert(&quot;Latitude : &quot; + latitude + &quot; Longitude: &quot; + longitude);//53.7362432, -2.9720576//var locPoint = getLatLng(position[0]);if(latitude!=&quot;&quot;)	{		layerGroup.clearLayers();     var locMarker = L.marker([latitude,longitude], { icon: locationIcon }).addTo(layerGroup);	if(track==&quot;1&quot;){map.panTo([latitude,longitude])}	} }function errorHandler(err) {if(err.code == 1) {alert(&quot;Error: GPS Access is denied!&quot;);}else if( err.code == 2) {alert(&quot;Error: Position is unavailable!&quot;); }}function getLocationUpdate(){if(navigator.geolocation){var options = {timeout:100000};geoLoc = navigator.geolocation;watchID = geoLoc.watchPosition(showLocation, errorHandler, options);}else{alert(&quot;Sorry, browser does not support geolocation!&quot;);}}">
+
+<form method="post" action="/A55CD9/home.nsf/osmapmobile?OpenForm&amp;Seq=1&amp;route=jubilee-walkway-walking-route" name="_OSMapMobile">
+<input type="hidden" name="__Click" value="0"><script src="/A55CD9/home.nsf/os-api-branding.js"></script>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="/A55CD9/home.nsf/proj4.js"></script>
+<script src="/A55CD9/home.nsf/proj4leaflet.min.js"></script>
+<script src="/A55CD9/home.nsf/leaflet-omnivore.min.js"></script>
+
+
+<div  style="display:none">
+<input name="routename" value="jubilee-walkway-walking-route" id="routename">
+<input name="viewname" value="routeslinkswalks" id="viewname">
+<input name="lat" value="51.502452" id="lat">
+<input name="long" value="-0.141023" id="long">
+<input name="filename" value="Jubilee Walkway.gpx" id="filename">
+<input name="r_name" value="Jubilee Walkway" id="long_1"></div>
+<style>
+@media print
+{.no-print{display: none !important;}
+}
+</style>
+<div style="width:350px;height:50px;position:static;">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4788561930599376"
+     crossorigin="anonymous"></script>
+<!-- mobilemapstop -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:350px;height:50px"
+     data-ad-client="ca-pub-4788561930599376"
+     data-ad-slot="1406625325"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div id="mapbuttons" class="no-print">
+<a target="_blank" class="mapbuttonlinks" href="https://amzn.to/4bfdRe6"><font size="2" face="Verdana">🥾</font>Walking Shoes</a>
+<a target="_blank" class="mapbuttonlinks" href="https://amzn.to/3UXKW8M"><font size="2" face="Verdana">🏕️</font>Camping Gear</a>
+<a target="_blank" class="mapbuttonlinks" href="https://amzn.to/3VhNv5m">🛍️Today's Deals ££</a>
+</div>
+<div id="mapbuttons" class="no-print">
+<a id="showloc" href="#"  onclick="map.panTo([latitude, longitude]);"><img style="width:18px" src="/A55CD9/home.nsf/marker2.png">My Location</a>
+<a id="showloc" href="#"  onclick="map.panTo(startPoint)">Route Start</a>
+<a id="hide" href="#"  onclick="hideLayer();">Hide Route</a>
+<a id="show" href="#"  onclick="showLayer()" style='display:none'>Show Route</a>
+<a id="track" class="track" href="#"  onclick="map.panTo([latitude, longitude]);track='1';hideLayerTrack()">Auto Pan Map</a>
+<a style="display:none" id="stoptrack" class="track" href="#"  onclick="track='0',showLayerTrack()">Stop Auto Pan</a></div>
+<div id="map" ></div>
+
+
+<input name="Query_String" type="hidden" value="openform&amp;route=jubilee-walkway-walking-route">
+<input name="Query_String_Decoded" type="hidden" value="openform&amp;route=jubilee-walkway-walking-route">
+<input name="ArgNames" type="hidden" value="route">
+<input name="ArgValues" type="hidden" value="jubilee-walkway-walking-route">
+<input name="tmp" type="hidden" value=""></form>
+</body>
+</html>

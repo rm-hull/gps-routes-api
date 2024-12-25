@@ -8,12 +8,10 @@ for file in walk_files("data/backup"):
         record = json.load(fp)
 
         if "_geoloc" not in record:
-            continue
-
-        if "country" not in record:
             targetted.append(
                 f"http://www.gps-routes.co.uk/routes/home.nsf/routeslinkswalks/{record['ref']}"
             )
+            
 
 with open("data/missing-geoloc.txt", "w") as fp:
     for line in targetted:
