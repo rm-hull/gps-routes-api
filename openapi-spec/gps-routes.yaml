@@ -8,6 +8,8 @@ servers:
 paths:
   /v1/gps-routes/{objectID}:
     get:
+      tags:
+        - routes
       operationId: fetchRoute
       summary: Retrieve metadata for the specific walking route
       description: Returns data in JSON format.
@@ -65,6 +67,8 @@ components:
           format: url
           description: The main image URL associated with the route
           example: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Daneshill_Lakes_-_Car_Park_Entrance_-_geograph.org.uk_-_674042.jpg"
+        _geoloc:
+          $ref: "#/components/schemas/GeoLoc"
 
     RouteMetadata:
       allOf:
@@ -86,21 +90,6 @@ components:
               type: string
               format: url
               description: URL pointing to the associated GPX route data
-            _geoloc:
-              type: object
-              description: A pair of lat/lng co-ordinates (WSG84) typically indicating the start point of the route
-              required:
-                - lat
-                - lng
-              properties:
-                lat:
-                  type: number
-                  description: Latitude
-                  example: 53.3712125339
-                lng:
-                  type: number
-                  description: Longitude
-                  example: -0.9960077399
             images:
               type: array
               items:
@@ -173,3 +162,19 @@ components:
           type: string
           description: Appropriate image caption
           example: Footpath and meadow
+
+    GeoLoc:
+      type: object
+      description: A pair of lat/lng co-ordinates (WSG84) typically indicating the start point of the route
+      required:
+        - lat
+        - lng
+      properties:
+        lat:
+          type: number
+          description: Latitude
+          example: 53.3712125339
+        lng:
+          type: number
+          description: Longitude
+          example: -0.9960077399
