@@ -1,0 +1,50 @@
+openapi: 3.0.3
+info:
+  title: GPS Routes API
+  version: 0.0.1
+  description: API to retrieve and search GPS Walking Routes
+paths:
+  /v1/gps-routes/{objectID}:
+    get:
+      summary: Retrieve metadata for the specific walking route
+      description: Returns data in JSON format.
+      parameters:
+        - name: objectID
+          in: path
+          required: true
+          description: The object ID exactly describing the GPS route (typically this is the MD5 hash of the route reference)
+          schema:
+            type: string
+            example: 4a2bb897585c84113beeb3f2691d9042
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/GreetingResponse"
+        "400":
+          description: Invalid request, e.g., missing or invalid path parameter.
+        "404":
+          description: Not found, e.g., no such record for the specified object ID.
+        "500":
+          description: Internal server error
+
+components:
+  schemas:
+    GreetingResponse:
+      type: object
+      properties:
+        message:
+          type: string
+          description: The personalized greeting message.
+          example: Hello, Alice!
+        timestamp:
+          type: string
+          format: date-time
+          description: The time the greeting was generated.
+          example: 2024-12-30T12:34:56Z
+        requestId:
+          type: string
+          description: A unique identifier for the request.
+          example: abc123xyz
