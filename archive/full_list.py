@@ -6,7 +6,7 @@ import random
 from bs4 import BeautifulSoup
 import requests
 
-from detail_extractor import DetailExtractor
+from archive.detail_extractor import DetailExtractor
 from utils import get_datahub_client, get_object_id, get_search_client, ROUTES_INDEX
 from algoliasearch.http.exceptions import RequestException
 
