@@ -214,9 +214,9 @@ components:
           description: Search phrase
           example: coffee -tea shop
         offset:
-          type: number
+          type: integer
         limit:
-          type: number
+          type: integer
         boundingBox:
           type: array
           items:
@@ -244,7 +244,7 @@ components:
         - hits
       properties:
         total:
-          type: number
+          type: integer
         hits:
           type: array
           items:
@@ -252,4 +252,4 @@ components:
         facets:
           type: object
           additionalProperties:
-            type: number
+            type: integer

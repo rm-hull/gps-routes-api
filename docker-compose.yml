@@ -1,0 +1,51 @@
+name: gps-routes
+
+networks:
+  homelab-net:
+    external: true
+
+services:
+  gps-routes-api:
+    container_name: gps_routes_api
+    image: ghcr.io/rm-hull/gps-routes-api:main
+    env_file:
+      - .env
+    depends_on:
+      - mongodb
+    restart: always
+    healthcheck:
+      disable: false
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.gps_routes.entrypoints=websecure"
+      - "traefik.http.routers.gps_routes.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
+      - "traefik.http.services.gps_routes.loadbalancer.server.port=8080"
+    networks:
+      - homelab-net
+
+  mongodb:
+    container_name: mongodb
+    image: mongo:7-jammy
+    restart: always
+    env_file:
+      - .env
+    volumes:
+      - ./mongo/data:/data/db
+    networks:
+      - homelab-net
+
+  mongo-express:
+    container_name: mongo_express
+    image: mongo-express
+    restart: always
+    env_file:
+      - .env
+    depends_on:
+      - mongodb
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.mongoexpress.entrypoints=websecure"
+      - "traefik.http.routers.mongoexpress.rule=Host(`mongo-express.homelab.destructuring-bind.org`)"
+      - "traefik.http.services.mongoexpress.loadbalancer.server.port=8081"
+    networks:
+      - homelab-net

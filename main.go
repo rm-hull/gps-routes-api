@@ -12,6 +12,8 @@ package main
 import (
 	"log"
 
+	"github.com/gin-contrib/cors"
+
 	// WARNING!
 	// Pass --git-repo-id and --git-user-id properties when generating the code
 	//
@@ -24,6 +26,7 @@ func main() {
 	log.Printf("Server started")
 
 	router := sw.NewRouter(routes)
+	router.Use(cors.Default())
 
 	log.Fatal(router.Run(":8080"))
 }

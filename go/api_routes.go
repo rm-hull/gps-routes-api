@@ -18,8 +18,14 @@ type RoutesAPI struct {
 
 // Get /v1/gps-routes/:objectID
 // Retrieve metadata for the specific walking route
-func (api *RoutesAPI) FetchRoute(c *gin.Context) {
+func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	// Your handler implementation
 	c.JSON(200, gin.H{"status": "OK"})
 }
 
+// Post /v1/gps-routes/search
+// Search for routes according to various criteria
+func (api *RoutesAPI) Search(c *gin.Context) {
+	// Your handler implementation
+	c.JSON(200, gin.H{"status": "OK"})
+}

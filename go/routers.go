@@ -69,10 +69,16 @@ type ApiHandleFunctions struct {
 func getRoutes(handleFunctions ApiHandleFunctions) []Route {
 	return []Route{ 
 		{
-			"FetchRoute",
+			"FetchRecord",
 			http.MethodGet,
 			"/v1/gps-routes/:objectID",
-			handleFunctions.RoutesAPI.FetchRoute,
+			handleFunctions.RoutesAPI.FetchRecord,
+		},
+		{
+			"Search",
+			http.MethodPost,
+			"/v1/gps-routes/search",
+			handleFunctions.RoutesAPI.Search,
 		},
 	}
 }
