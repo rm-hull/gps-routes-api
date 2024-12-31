@@ -1,16 +1,13 @@
 FROM golang:1.23 AS build
 WORKDIR /go/src
-COPY go ./go
-COPY main.go .
-COPY go.sum .
-COPY go.mod .
+COPY . .
 
 ENV CGO_ENABLED=0
 
-RUN go build -o gps-routes-api .
+RUN go build -o gps-routes-server .
 
 FROM scratch AS runtime
 ENV GIN_MODE=release
-COPY --from=build /go/src/gps-routes-api ./
+COPY --from=build /go/src/gps-routes-server ./
 EXPOSE 8080/tcp
-ENTRYPOINT ["./gps-routes-api"]
+ENTRYPOINT ["./gps-routes-server"]
