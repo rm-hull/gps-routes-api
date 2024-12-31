@@ -2,7 +2,7 @@ import functools
 import hashlib
 import os
 from dotenv import load_dotenv
-from archive.osdatahub_names import OSDataHub
+from osdatahub_names import OSDataHub
 from algoliasearch.search.client import SearchClientSync
 
 load_dotenv()

@@ -9,57 +9,55 @@
 
 package openapi
 
-import (
-	"time"
-)
+import "time"
 
 type RouteMetadata struct {
 
 	// The object ID identifies the GPS route (typically this is the MD5 hash of the route reference)
-	ObjectID string `json:"objectID"`
+	ObjectID string `json:"objectID" bson:"objectID"`
 
 	// A human friendly unique identifier for the route.
-	Ref string `json:"ref"`
+	Ref string `json:"ref" bson:"ref"`
 
 	// The route title
-	Title string `json:"title"`
+	Title string `json:"title" bson:"title"`
 
 	// Typically a long passage of text describing aspects of the route
-	Description string `json:"description"`
+	Description string `json:"description" bson:"description"`
 
 	// The main image URL associated with the route
-	HeadlineImageUrl string `json:"headline_image_url"`
+	HeadlineImageUrl string `json:"headline_image_url" bson:"headline_image_url"`
 
-	Geoloc GeoLoc `json:"_geoloc,omitempty"`
+	Location GeoJson `json:"location,omitempty" bson:"location,omitempty"`
 
 	// The time the route was generated.
-	CreatedAt time.Time `json:"created_at"`
+	CreatedAt time.Time `json:"created_at" bson:"created_at"`
 
-	Nearby []Nearby `json:"nearby,omitempty"`
+	Nearby []Nearby `json:"nearby,omitempty" bson:"nearby,omitempty"`
 
 	// URL pointing to the associated GPX route data
-	GpxUrl string `json:"gpx_url,omitempty"`
+	GpxUrl string `json:"gpx_url,omitempty" bson:"gpx_url,omitempty"`
 
-	Images []Image `json:"images,omitempty"`
+	Images []Image `json:"images,omitempty" bson:"images,omitempty"`
 
 	// A rough distance indicating the length of the route
-	DistanceKm float32 `json:"distance_km,omitempty"`
+	DistanceKm float32 `json:"distance_km,omitempty" bson:"distance_km,omitempty"`
 
 	// A link to a (YouTube) video associated with the route
-	VideoUrl string `json:"video_url,omitempty"`
+	VideoUrl string `json:"video_url,omitempty" bson:"video_url,omitempty"`
 
 	// Where exists, a nearby postcode
-	Postcode string `json:"postcode,omitempty"`
+	Postcode string `json:"postcode,omitempty" bson:"postcode,omitempty"`
 
 	// The district in which the route starts
-	District string `json:"district,omitempty"`
+	District string `json:"district,omitempty" bson:"district,omitempty"`
 
 	// The county in which the route starts
-	County string `json:"county,omitempty"`
+	County string `json:"county,omitempty" bson:"county,omitempty"`
 
 	// The region in which the route starts
-	Region string `json:"region,omitempty"`
+	Region string `json:"region,omitempty" bson:"region,omitempty"`
 
 	// The country in which the route starts
-	Country string `json:"country,omitempty"`
+	Country string `json:"country,omitempty" bson:"country,omitempty"`
 }

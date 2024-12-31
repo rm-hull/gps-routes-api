@@ -92,8 +92,8 @@ components:
           format: url
           description: The main image URL associated with the route
           example: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Daneshill_Lakes_-_Car_Park_Entrance_-_geograph.org.uk_-_674042.jpg"
-        _geoloc:
-          $ref: "#/components/schemas/GeoLoc"
+        location:
+          $ref: "#/components/schemas/GeoJSON"
 
     RouteMetadata:
       allOf:
@@ -188,21 +188,23 @@ components:
           description: Appropriate image caption
           example: Footpath and meadow
 
-    GeoLoc:
+    GeoJSON:
       type: object
-      description: A pair of lat/lng co-ordinates (WSG84) typically indicating the start point of the route
+      description: A GeoJSON object
       required:
-        - lat
-        - lng
+        - type
+        - coordinates
       properties:
-        lat:
-          type: number
-          description: Latitude
-          example: 53.3712125339
-        lng:
-          type: number
-          description: Longitude
-          example: -0.9960077399
+        type:
+          description: GeoJSON type
+          type: string
+          example: Point
+        coordinates:
+          type: array
+          description: Longitude, Latitude
+          items:
+            type: float64
+          example: [-0.9960077399, 53.3712125339]
 
     SearchRequest:
       type: object

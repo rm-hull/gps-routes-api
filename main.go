@@ -10,23 +10,57 @@
 package main
 
 import (
+	"context"
 	"log"
+	"os"
+	"time"
 
 	"github.com/gin-contrib/cors"
+	"github.com/gin-gonic/gin"
+	"github.com/joho/godotenv"
+	"go.mongodb.org/mongo-driver/mongo"
+	"go.mongodb.org/mongo-driver/mongo/options"
 
-	// WARNING!
-	// Pass --git-repo-id and --git-user-id properties when generating the code
-	//
-	sw "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/middlewares"
+	"github.com/rm-hull/gps-routes-api/repositories"
+	"github.com/rm-hull/gps-routes-api/routes"
+	"github.com/rm-hull/gps-routes-api/services"
 )
 
 func main() {
-	routes := sw.ApiHandleFunctions{}
+	if err := godotenv.Load(); err != nil {
+		log.Println("No .env file found")
+	}
+
+	mongoURI := os.Getenv("MONGO_URI")
+	if mongoURI == "" {
+		log.Fatal("Environment variable MONGO_URI is not set")
+	}
+
+	// Connect to MongoDB
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	defer cancel()
+
+	clientOptions := options.Client().ApplyURI(mongoURI)
+	client, err := mongo.Connect(ctx, clientOptions)
+	if err != nil {
+		log.Fatalf("Failed to connect to MongoDB: %v", err)
+	}
+
+	repo := repositories.NewMongoRouteRepository(client, "gps-routes", "routes")
+	service := services.NewRoutesService(repo)
 
 	log.Printf("Server started")
 
-	router := sw.NewRouter(routes)
-	router.Use(cors.Default())
+	engine := gin.Default()
+	engine.Use(cors.Default())
+	engine.Use(middlewares.ErrorHandler())
+
+	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
+		RoutesAPI: routes.RoutesAPI{
+			Service: service,
+		},
+	})
 
 	log.Fatal(router.Run(":8080"))
 }

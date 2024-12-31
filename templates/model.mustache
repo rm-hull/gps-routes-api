@@ -1,0 +1,10 @@
+type {{className}} struct {
+    {{#vars}}
+    {{#required}}
+    {{name}} {{#isArray}}[]{{/isArray}}{{#isMap}}map[{{{datatype}}}]{{/isMap}}{{#isBoolean}}bool{{/isBoolean}}{{^isBoolean}}{{datatype}}{{/isBoolean}} `json:"{{name}}" bson:"{{name}}"` // {{description}}
+    {{/required}}
+    {{^required}}
+    {{name}} {{#isArray}}[]{{/isArray}}{{#isMap}}map[{{{datatype}}}]{{/isMap}}{{#isBoolean}}bool{{/isBoolean}}{{^isBoolean}}{{datatype}}{{/isBoolean}} `json:"{{name}},omitempty" bson:"{{name}},omitempty"` // {{description}}
+    {{/required}}
+    {{/vars}}
+}

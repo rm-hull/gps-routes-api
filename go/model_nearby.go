@@ -12,11 +12,11 @@ package openapi
 type Nearby struct {
 
 	// The object ID identifies the GPS route (typically this is the MD5 hash of the route reference)
-	ObjectID string `json:"objectID"`
+	ObjectID string `json:"objectID" bson:"objectID"`
 
 	// A human friendly unique identifier for the route.
-	Ref string `json:"ref"`
+	Ref string `json:"ref" bson:"ref"`
 
 	// The route title
-	Description string `json:"description"`
+	Description string `json:"description" bson:"description"`
 }

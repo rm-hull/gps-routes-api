@@ -23,7 +23,8 @@
 #!docs/README.md
 
 Dockerfile
-# go/api_routes.go
-# main.go
+go/api_routes.go
+go/routers.go
+main.go
 go.mod
 go.sum
