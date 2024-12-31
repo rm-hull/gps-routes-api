@@ -6,11 +6,36 @@ info:
 servers:
   - url: https://api.destructuring-bind.org
 paths:
+  /v1/gps-routes/search:
+    post:
+      tags:
+        - routes
+      operationId: search
+      summary: Search for routes according to various criteria
+      description: Returns multiple matching summary results in JSON format.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/SearchRequest"
+      responses:
+        "200":
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/SearchResults"
+        "400":
+          description: Invalid request, e.g., missing or invalid request body attributes.
+        "500":
+          description: Internal server error
+
   /v1/gps-routes/{objectID}:
     get:
       tags:
         - routes
-      operationId: fetchRoute
+      operationId: fetchRecord
       summary: Retrieve metadata for the specific walking route
       description: Returns data in JSON format.
       parameters:
@@ -178,3 +203,53 @@ components:
           type: number
           description: Longitude
           example: -0.9960077399
+
+    SearchRequest:
+      type: object
+      required:
+        - query
+      properties:
+        query:
+          type: string
+          description: Search phrase
+          example: coffee -tea shop
+        offset:
+          type: number
+        limit:
+          type: number
+        boundingBox:
+          type: array
+          items:
+            type: number
+          description: the bounding box with bottom-left lat/lng, followed by top-right lat/lng
+          example:
+            [
+              54.43847718997843,
+              -2.945623397827149,
+              54.41890499817318,
+              -2.9769945144653325,
+            ]
+        facets:
+          type: object
+          description: Filtering by facet values
+          additionalProperties:
+            type: array
+            items:
+              type: string
+
+    SearchResults:
+      type: object
+      required:
+        - total
+        - hits
+      properties:
+        total:
+          type: number
+        hits:
+          type: array
+          items:
+            $ref: "#/components/schemas/RouteSummary"
+        facets:
+          type: object
+          additionalProperties:
+            type: number
