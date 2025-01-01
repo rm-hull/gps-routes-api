@@ -246,7 +246,7 @@ components:
         - hits
       properties:
         total:
-          type: integer
+          type: int64
         hits:
           type: array
           items:
@@ -256,4 +256,4 @@ components:
           additionalProperties:
             type: object
             additionalProperties:
-              type: integer
+              type: int64

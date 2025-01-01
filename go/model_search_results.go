@@ -10,9 +10,9 @@
 package openapi
 
 type SearchResults struct {
-	Total int32 `json:"total"`
+	Total int64 `json:"total"`
 
 	Hits []RouteSummary `json:"hits"`
 
-	Facets map[string]map[string]int32 `json:"facets,omitempty"`
+	Facets map[string]map[string]int64 `json:"facets,omitempty"`
 }

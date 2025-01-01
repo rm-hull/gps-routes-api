@@ -15,6 +15,7 @@ type RouteRepository interface {
 	FindByObjectID(ctx context.Context, objectID string) (*openapi.RouteMetadata, error)
 	CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error)
 	SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error)
+	FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int) (*map[string]int64, error)
 }
 
 type MongoRouteRepository struct {
@@ -73,11 +74,14 @@ func buildQuery(criteria *openapi.SearchRequest) bson.M {
 		}
 	}
 
-	if len(filters) > 0 {
+	switch len(filters) {
+	case 0:
+		return bson.M{}
+	case 1:
+		return filters[0]
+	default:
 		return bson.M{"$and": filters}
 	}
-
-	return bson.M{}
 }
 
 func sortOrder(criteria *openapi.SearchRequest) bson.M {
@@ -94,7 +98,7 @@ func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi
 		SetLimit(int64(criteria.Limit)).
 		SetSkip(int64(criteria.Offset)).
 		SetProjection(bson.M{
-			"object_id":          1,
+			"objectID":           1,
 			"ref":                1,
 			"title":              1,
 			"description":        1,
@@ -122,4 +126,55 @@ func (r *MongoRouteRepository) CountAll(ctx context.Context, criteria *openapi.S
 		return 0, fmt.Errorf("failed while counting matching documents: %v", err)
 	}
 	return total, nil
+}
+
+type NamedCount struct {
+	Name  string
+	Count int
+}
+
+func (r *MongoRouteRepository) FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int) (*map[string]int64, error) {
+	pipeline := []bson.M{
+		{
+			"$match": buildQuery(criteria),
+		},
+		{
+			"$group": bson.M{
+				"_id":   "$" + facetField,
+				"count": bson.M{"$sum": 1},
+			},
+		},
+		{
+			"$sort": bson.M{"count": -1},
+		},
+		{
+			"$limit": limit,
+		},
+		{
+			"$match": bson.M{"_id": bson.M{"$ne": nil}},
+		},
+	}
+
+	cursor, err := r.collection.Aggregate(ctx, pipeline)
+	if err != nil {
+		return nil, fmt.Errorf("aggregation failed: %v", err)
+	}
+	defer cursor.Close(ctx)
+
+	type resultType struct {
+		ID    string `bson:"_id"`
+		Count int64  `bson:"count"`
+	}
+
+	var results []resultType
+	if err := cursor.All(ctx, &results); err != nil {
+		return nil, fmt.Errorf("failed to decode results: %v", err)
+	}
+
+	counts := make(map[string]int64, 0)
+	for _, result := range results {
+		counts[result.ID] = result.Count
+	}
+
+	return &counts, nil
 }

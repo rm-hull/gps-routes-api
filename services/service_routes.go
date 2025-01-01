@@ -24,34 +24,58 @@ func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*openapi.RouteM
 }
 
 func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*openapi.SearchResults, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 500*time.Second)
 	defer cancel()
+
+	type Facet struct {
+		Name   string
+		Values map[string]int64
+	}
 
 	totalChan := make(chan int64, 1)
 	resultsChan := make(chan []openapi.RouteSummary, 1)
+	facetsChan := make(chan Facet, 4)
 	errorChan := make(chan error, 2)
 
-	go func() {
+	fetchCounts := func() {
 		total, err := service.Repository.CountAll(ctx, criteria)
 		if err != nil {
 			errorChan <- err
 			return
 		}
 		totalChan <- total
-	}()
+	}
 
-	go func() {
+	fetchResults := func() {
 		results, err := service.Repository.SearchHits(ctx, criteria)
 		if err != nil {
 			errorChan <- err
 			return
 		}
 		resultsChan <- *results
-	}()
+	}
+
+	fetchFacet := func(fieldName string, limit int) {
+		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit)
+		if err != nil {
+			errorChan <- err
+		}
+
+		facetsChan <- Facet{Name: fieldName, Values: *results}
+	}
+
+	go fetchResults()
+	go fetchCounts()
+	go fetchFacet("district", 20)
+	go fetchFacet("county", 100)
+	go fetchFacet("region", 20)
+	go fetchFacet("country", 10)
 
 	var total int64
 	var results []openapi.RouteSummary
-	remaining := 2
+
+	facets := make(map[string]map[string]int64, 0)
+	remaining := 6
 
 	for remaining > 0 {
 		select {
@@ -61,14 +85,18 @@ func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*open
 			remaining--
 		case results = <-resultsChan:
 			remaining--
+		case facet := <-facetsChan:
+			remaining--
+			facets[facet.Name] = facet.Values
 		case <-ctx.Done():
 			return nil, ctx.Err()
 		}
 	}
 
 	return &openapi.SearchResults{
-		Hits:  results,
-		Total: int32(total),
+		Hits:   results,
+		Total:  total,
+		Facets: facets,
 	}, nil
 }
 
