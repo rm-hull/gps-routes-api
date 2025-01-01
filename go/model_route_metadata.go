@@ -9,7 +9,9 @@
 
 package openapi
 
-import "time"
+import (
+	"time"
+)
 
 type RouteMetadata struct {
 

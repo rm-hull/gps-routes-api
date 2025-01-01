@@ -310,10 +310,10 @@ components:
     SearchRequest:
       example:
         boundingBox:
-        - 54.43847718997843
         - -2.945623397827149
-        - 54.41890499817318
+        - 54.43847718997843
         - -2.9769945144653325
+        - 54.41890499817318
         offset: 0
         query: coffee -tea shop
         limit: 6
@@ -331,15 +331,15 @@ components:
         limit:
           type: integer
         boundingBox:
-          description: "the bounding box with bottom-left lat/lng, followed by top-right\
-            \ lat/lng"
+          description: "the bounding box with bottom-left lng/lat, followed by top-right\
+            \ lng/lat"
           example:
-          - 54.43847718997843
           - -2.945623397827149
-          - 54.41890499817318
+          - 54.43847718997843
           - -2.9769945144653325
+          - 54.41890499817318
           items:
-            type: number
+            type: float64
           type: array
         facets:
           additionalProperties:
@@ -396,19 +396,22 @@ components:
           title: Daneshill Lakes - Retford Walking Route
           objectID: 0a0cafcd50f17284dc578271968f8341
           headline_image_url: https://upload.wikimedia.org/wikipedia/commons/e/e5/Daneshill_Lakes_-_Car_Park_Entrance_-_geograph.org.uk_-_674042.jpg
-        total: 0
+        total: ""
         facets:
-          key: 6
+          key:
+            key: ""
       properties:
         total:
-          type: integer
+          type: int64
         hits:
           items:
             $ref: '#/components/schemas/RouteSummary'
           type: array
         facets:
           additionalProperties:
-            type: integer
+            additionalProperties:
+              type: int64
+            type: object
           type: object
       required:
       - hits
