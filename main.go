@@ -15,8 +15,14 @@ import (
 	"os"
 	"time"
 
+	"github.com/aurowora/compress"
 	"github.com/gin-contrib/cors"
+	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
+	healthcheck "github.com/tavsec/gin-healthcheck"
+	"github.com/tavsec/gin-healthcheck/checks"
+	"github.com/tavsec/gin-healthcheck/config"
+
 	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
@@ -25,9 +31,6 @@ import (
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/rm-hull/gps-routes-api/routes"
 	"github.com/rm-hull/gps-routes-api/services"
-
-	"github.com/aurowora/compress"
-	limits "github.com/gin-contrib/size"
 )
 
 func main() {
@@ -60,6 +63,9 @@ func main() {
 	engine.Use(middlewares.ErrorHandler())
 	engine.Use(compress.Compress())
 	engine.Use(limits.RequestSizeLimiter(10 * 1024))
+	healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
+		checks.NewMongoCheck(10, client),
+	})
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{
