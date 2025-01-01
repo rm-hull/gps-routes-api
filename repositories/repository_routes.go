@@ -2,15 +2,19 @@ package repositories
 
 import (
 	"context"
+	"fmt"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
+	"go.mongodb.org/mongo-driver/mongo/options"
 
 	openapi "github.com/rm-hull/gps-routes-api/go"
 )
 
 type RouteRepository interface {
 	FindByObjectID(ctx context.Context, objectID string) (*openapi.RouteMetadata, error)
+	CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error)
+	SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error)
 }
 
 type MongoRouteRepository struct {
@@ -33,4 +37,48 @@ func (r *MongoRouteRepository) FindByObjectID(ctx context.Context, objectID stri
 		return nil, err
 	}
 	return &routeMetadata, nil
+}
+
+func buildQuery(criteria *openapi.SearchRequest) bson.M {
+	return bson.M{
+		"$text": bson.M{
+			"$search": criteria.Query,
+		},
+	}
+}
+
+func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error) {
+	options := options.Find().
+		SetSort(bson.M{"score": bson.M{"$meta": "textScore"}}).
+		SetLimit(int64(criteria.Limit)).
+		SetSkip(int64(criteria.Offset)).
+		SetProjection(bson.M{
+			"object_id":          1,
+			"ref":                1,
+			"title":              1,
+			"description":        1,
+			"headline_image_url": 1,
+			"location":           1,
+		})
+
+	cursor, err := r.collection.Find(ctx, buildQuery(criteria), options)
+	if err != nil {
+		return nil, fmt.Errorf("failed while finding with search query: %v", err)
+	}
+	defer cursor.Close(ctx)
+
+	var results []openapi.RouteSummary
+	if err := cursor.All(ctx, &results); err != nil {
+		return nil, fmt.Errorf("failed while marshalling results: %v", err)
+	}
+	return &results, nil
+
+}
+
+func (r *MongoRouteRepository) CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error) {
+	total, err := r.collection.CountDocuments(ctx, buildQuery(criteria))
+	if err != nil {
+		return 0, fmt.Errorf("failed while counting matching documents: %v", err)
+	}
+	return total, nil
 }

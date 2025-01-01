@@ -10,10 +10,12 @@
 package routes
 
 import (
+	"log"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
 
+	model "github.com/rm-hull/gps-routes-api/go"
 	svc "github.com/rm-hull/gps-routes-api/services"
 )
 
@@ -46,6 +48,20 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 // Post /v1/gps-routes/search
 // Search for routes according to various criteria
 func (api *RoutesAPI) Search(c *gin.Context) {
-	// Your handler implementation
-	c.JSON(200, gin.H{"status": "OK"})
+	var payload model.SearchRequest
+	err := c.ShouldBind(&payload)
+	if err != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
+		log.Printf("Error: %v", err)
+		return
+	}
+
+	matches, err := api.Service.Search(&payload)
+	if err != nil {
+		c.Error(err)
+		return
+	}
+
+	c.JSON(200, matches)
+
 }

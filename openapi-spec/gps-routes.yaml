@@ -254,4 +254,6 @@ components:
         facets:
           type: object
           additionalProperties:
-            type: integer
+            type: object
+            additionalProperties:
+              type: integer
