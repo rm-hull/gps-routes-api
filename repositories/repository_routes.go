@@ -40,16 +40,57 @@ func (r *MongoRouteRepository) FindByObjectID(ctx context.Context, objectID stri
 }
 
 func buildQuery(criteria *openapi.SearchRequest) bson.M {
-	return bson.M{
-		"$text": bson.M{
-			"$search": criteria.Query,
-		},
+	filters := make([]bson.M, 0)
+
+	if criteria.Query != "" {
+		filters = append(filters, bson.M{
+			"$text": bson.M{
+				"$search": criteria.Query,
+			},
+		})
 	}
+
+	if criteria.BoundingBox != nil {
+		filters = append(filters, bson.M{
+			"location": bson.M{
+				"$geoWithin": bson.M{
+					"$box": [][]float64{
+						{criteria.BoundingBox[0], criteria.BoundingBox[1]},
+						{criteria.BoundingBox[2], criteria.BoundingBox[3]},
+					},
+				},
+			},
+		})
+	}
+
+	if criteria.Facets != nil {
+		for facet, values := range criteria.Facets {
+			filters = append(filters, bson.M{
+				facet: bson.M{
+					"$in": values,
+				},
+			})
+		}
+	}
+
+	if len(filters) > 0 {
+		return bson.M{"$and": filters}
+	}
+
+	return bson.M{}
+}
+
+func sortOrder(criteria *openapi.SearchRequest) bson.M {
+	if criteria.Query == "" {
+		return bson.M{"created_at": -1}
+	}
+
+	return bson.M{"score": bson.M{"$meta": "textScore"}}
 }
 
 func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error) {
 	options := options.Find().
-		SetSort(bson.M{"score": bson.M{"$meta": "textScore"}}).
+		SetSort(sortOrder(criteria)).
 		SetLimit(int64(criteria.Limit)).
 		SetSkip(int64(criteria.Offset)).
 		SetProjection(bson.M{

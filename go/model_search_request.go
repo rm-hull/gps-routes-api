@@ -19,7 +19,7 @@ type SearchRequest struct {
 	Limit int32 `json:"limit,omitempty"`
 
 	// the bounding box with bottom-left lat/lng, followed by top-right lat/lng
-	BoundingBox []float32 `json:"boundingBox,omitempty"`
+	BoundingBox []float64 `json:"boundingBox,omitempty"`
 
 	// Filtering by facet values
 	Facets map[string][]string `json:"facets,omitempty"`

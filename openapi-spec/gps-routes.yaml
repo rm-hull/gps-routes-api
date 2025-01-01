@@ -222,14 +222,14 @@ components:
         boundingBox:
           type: array
           items:
-            type: number
-          description: the bounding box with bottom-left lat/lng, followed by top-right lat/lng
+            type: float64
+          description: the bounding box with bottom-left lng/lat, followed by top-right lng/lat
           example:
             [
-              54.43847718997843,
               -2.945623397827149,
-              54.41890499817318,
+              54.43847718997843,
               -2.9769945144653325,
+              54.41890499817318,
             ]
         facets:
           type: object
