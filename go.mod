@@ -3,13 +3,16 @@ module github.com/rm-hull/gps-routes-api
 go 1.23
 
 require (
+	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/gin-contrib/cors v1.7.3
+	github.com/gin-contrib/size v1.0.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/joho/godotenv v1.5.1
 	go.mongodb.org/mongo-driver v1.17.1
 )
 
 require (
+	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/bytedance/sonic v1.12.6 // indirect
 	github.com/bytedance/sonic/loader v0.2.1 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
@@ -23,7 +26,7 @@ require (
 	github.com/goccy/go-json v0.10.4 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.13.6 // indirect
+	github.com/klauspost/compress v1.15.9 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.9 // indirect
 	github.com/leodido/go-urn v1.4.0 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect

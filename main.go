@@ -25,6 +25,9 @@ import (
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/rm-hull/gps-routes-api/routes"
 	"github.com/rm-hull/gps-routes-api/services"
+
+	"github.com/aurowora/compress"
+	limits "github.com/gin-contrib/size"
 )
 
 func main() {
@@ -55,6 +58,8 @@ func main() {
 	engine := gin.Default()
 	engine.Use(cors.Default())
 	engine.Use(middlewares.ErrorHandler())
+	engine.Use(compress.Compress())
+	engine.Use(limits.RequestSizeLimiter(10 * 1024))
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{
