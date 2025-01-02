@@ -58,11 +58,16 @@ func main() {
 
 	log.Printf("Server started")
 
-	engine := gin.Default()
-	engine.Use(cors.Default())
-	engine.Use(middlewares.ErrorHandler())
-	engine.Use(compress.Compress())
-	engine.Use(limits.RequestSizeLimiter(10 * 1024))
+	engine := gin.New()
+	engine.Use(
+		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
+		gin.Recovery(),
+		cors.Default(),
+		middlewares.ErrorHandler(),
+		compress.Compress(),
+		limits.RequestSizeLimiter(10 * 1024),
+	)
+	
 	healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
 		checks.NewMongoCheck(10, client),
 	})
