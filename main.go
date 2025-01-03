@@ -16,14 +16,15 @@ import (
 	"time"
 
 	"github.com/aurowora/compress"
+	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
+	"github.com/joho/godotenv"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	"github.com/tavsec/gin-healthcheck/config"
 
-	"github.com/joho/godotenv"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
@@ -56,7 +57,7 @@ func main() {
 	repo := repositories.NewMongoRouteRepository(client, "gps-routes", "routes")
 	service := services.NewRoutesService(repo)
 
-	log.Printf("Server started")
+	log.Printf("Server started, version: %s", versioninfo.Short())
 
 	engine := gin.New()
 	engine.Use(
@@ -65,9 +66,9 @@ func main() {
 		cors.Default(),
 		middlewares.ErrorHandler(),
 		compress.Compress(),
-		limits.RequestSizeLimiter(10 * 1024),
+		limits.RequestSizeLimiter(10*1024),
 	)
-	
+
 	healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
 		checks.NewMongoCheck(10, client),
 	})
