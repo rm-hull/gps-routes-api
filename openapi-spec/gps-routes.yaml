@@ -120,7 +120,7 @@ components:
               items:
                 $ref: "#/components/schemas/Image"
             distance_km:
-              type: number
+              type: float64
               description: A rough distance indicating the length of the route
               example: 1.7
             video_url:

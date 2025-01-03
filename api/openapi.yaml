@@ -154,7 +154,7 @@ components:
           distance_km:
             description: A rough distance indicating the length of the route
             example: 1.7
-            type: number
+            type: float64
           video_url:
             description: A link to a (YouTube) video associated with the route
             example: https://www.youtube.com/embed/U8pyBfqKKhE

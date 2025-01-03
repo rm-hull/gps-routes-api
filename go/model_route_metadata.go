@@ -43,7 +43,7 @@ type RouteMetadata struct {
 	Images []Image `json:"images,omitempty" bson:"images,omitempty"`
 
 	// A rough distance indicating the length of the route
-	DistanceKm float32 `json:"distance_km,omitempty" bson:"distance_km,omitempty"`
+	DistanceKm float64 `json:"distance_km,omitempty" bson:"distance_km,omitempty"`
 
 	// A link to a (YouTube) video associated with the route
 	VideoUrl string `json:"video_url,omitempty" bson:"video_url,omitempty"`
