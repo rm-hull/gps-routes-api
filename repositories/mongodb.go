@@ -8,29 +8,22 @@ import (
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 
-	openapi "github.com/rm-hull/gps-routes-api/go"
+	model "github.com/rm-hull/gps-routes-api/go"
 )
 
-type RouteRepository interface {
-	FindByObjectID(ctx context.Context, objectID string) (*openapi.RouteMetadata, error)
-	CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error)
-	SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error)
-	FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int) (*map[string]int64, error)
-}
-
-type MongoRouteRepository struct {
+type MongoDbRepository struct {
 	collection *mongo.Collection
 }
 
-func NewMongoRouteRepository(client *mongo.Client, dbName, collectionName string) *MongoRouteRepository {
+func NewMongoRouteRepository(client *mongo.Client, dbName, collectionName string) *MongoDbRepository {
 	collection := client.Database(dbName).Collection(collectionName)
-	return &MongoRouteRepository{collection: collection}
+	return &MongoDbRepository{collection: collection}
 }
 
-func (r *MongoRouteRepository) FindByObjectID(ctx context.Context, objectID string) (*openapi.RouteMetadata, error) {
-	var routeMetadata openapi.RouteMetadata
+func (repo *MongoDbRepository) FindByObjectID(ctx context.Context, objectID string) (*model.RouteMetadata, error) {
+	var routeMetadata model.RouteMetadata
 	filter := bson.M{"objectID": objectID}
-	err := r.collection.FindOne(ctx, filter).Decode(&routeMetadata)
+	err := repo.collection.FindOne(ctx, filter).Decode(&routeMetadata)
 	if err == mongo.ErrNoDocuments {
 		return nil, nil // No document found
 	}
@@ -40,7 +33,7 @@ func (r *MongoRouteRepository) FindByObjectID(ctx context.Context, objectID stri
 	return &routeMetadata, nil
 }
 
-func buildQuery(criteria *openapi.SearchRequest) bson.M {
+func buildQuery(criteria *model.SearchRequest) bson.M {
 	filters := make([]bson.M, 0)
 
 	if criteria.Query != "" {
@@ -84,7 +77,7 @@ func buildQuery(criteria *openapi.SearchRequest) bson.M {
 	}
 }
 
-func sortOrder(criteria *openapi.SearchRequest) bson.M {
+func sortOrder(criteria *model.SearchRequest) bson.M {
 	if criteria.Query == "" {
 		return bson.M{"created_at": -1}
 	}
@@ -92,7 +85,7 @@ func sortOrder(criteria *openapi.SearchRequest) bson.M {
 	return bson.M{"score": bson.M{"$meta": "textScore"}}
 }
 
-func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error) {
+func (repo *MongoDbRepository) SearchHits(ctx context.Context, criteria *model.SearchRequest) (*[]model.RouteSummary, error) {
 	options := options.Find().
 		SetSort(sortOrder(criteria)).
 		SetLimit(int64(criteria.Limit)).
@@ -106,13 +99,13 @@ func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi
 			"location":           1,
 		})
 
-	cursor, err := r.collection.Find(ctx, buildQuery(criteria), options)
+	cursor, err := repo.collection.Find(ctx, buildQuery(criteria), options)
 	if err != nil {
 		return nil, fmt.Errorf("failed while finding with search query: %v", err)
 	}
 	defer cursor.Close(ctx)
 
-	var results []openapi.RouteSummary
+	var results []model.RouteSummary
 	if err := cursor.All(ctx, &results); err != nil {
 		return nil, fmt.Errorf("failed while marshalling results: %v", err)
 	}
@@ -120,20 +113,15 @@ func (r *MongoRouteRepository) SearchHits(ctx context.Context, criteria *openapi
 
 }
 
-func (r *MongoRouteRepository) CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error) {
-	total, err := r.collection.CountDocuments(ctx, buildQuery(criteria))
+func (repo *MongoDbRepository) CountAll(ctx context.Context, criteria *model.SearchRequest) (int64, error) {
+	total, err := repo.collection.CountDocuments(ctx, buildQuery(criteria))
 	if err != nil {
 		return 0, fmt.Errorf("failed while counting matching documents: %v", err)
 	}
 	return total, nil
 }
 
-type NamedCount struct {
-	Name  string
-	Count int
-}
-
-func (r *MongoRouteRepository) FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int) (*map[string]int64, error) {
+func (repo *MongoDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int) (*map[string]int64, error) {
 	pipeline := []bson.M{
 		{
 			"$match": buildQuery(criteria),
@@ -155,7 +143,7 @@ func (r *MongoRouteRepository) FacetCounts(ctx context.Context, criteria *openap
 		},
 	}
 
-	cursor, err := r.collection.Aggregate(ctx, pipeline)
+	cursor, err := repo.collection.Aggregate(ctx, pipeline)
 	if err != nil {
 		return nil, fmt.Errorf("aggregation failed: %v", err)
 	}

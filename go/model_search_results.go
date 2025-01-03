@@ -10,7 +10,6 @@
 package openapi
 
 type SearchResults struct {
-
 	Total int64 `json:"total"`
 
 	Hits []RouteSummary `json:"hits"`

@@ -4,26 +4,26 @@ import (
 	"context"
 	"time"
 
-	openapi "github.com/rm-hull/gps-routes-api/go"
+	model "github.com/rm-hull/gps-routes-api/go"
 	repo "github.com/rm-hull/gps-routes-api/repositories"
 )
 
 type RoutesService interface {
-	GetRouteByID(objectID string) (*openapi.RouteMetadata, error)
-	Search(criteria *openapi.SearchRequest) (*openapi.SearchResults, error)
+	GetRouteByID(objectID string) (*model.RouteMetadata, error)
+	Search(criteria *model.SearchRequest) (*model.SearchResults, error)
 }
 
 type RoutesServiceImpl struct {
-	Repository repo.RouteRepository
+	Repository repo.DbRepository
 }
 
-func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*openapi.RouteMetadata, error) {
+func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*model.RouteMetadata, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Second)
 	defer cancel()
 	return service.Repository.FindByObjectID(ctx, objectID)
 }
 
-func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*openapi.SearchResults, error) {
+func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.SearchResults, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 500*time.Second)
 	defer cancel()
 
@@ -33,7 +33,7 @@ func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*open
 	}
 
 	totalChan := make(chan int64, 1)
-	resultsChan := make(chan []openapi.RouteSummary, 1)
+	resultsChan := make(chan []model.RouteSummary, 1)
 	facetsChan := make(chan Facet, 4)
 	errorChan := make(chan error, 2)
 
@@ -72,7 +72,7 @@ func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*open
 	go fetchFacet("country", 10)
 
 	var total int64
-	var results []openapi.RouteSummary
+	var results []model.RouteSummary
 
 	facets := make(map[string]map[string]int64, 0)
 	remaining := 6
@@ -93,13 +93,13 @@ func (service *RoutesServiceImpl) Search(criteria *openapi.SearchRequest) (*open
 		}
 	}
 
-	return &openapi.SearchResults{
+	return &model.SearchResults{
 		Hits:   results,
 		Total:  total,
 		Facets: facets,
 	}, nil
 }
 
-func NewRoutesService(repo repo.RouteRepository) *RoutesServiceImpl {
+func NewRoutesService(repo repo.DbRepository) *RoutesServiceImpl {
 	return &RoutesServiceImpl{Repository: repo}
 }
