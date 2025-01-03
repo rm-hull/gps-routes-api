@@ -17,7 +17,7 @@ ENV CGO_ENABLED=0
 ENV GOOS=linux
 ENV GOARCH=amd64
 
-RUN go build -ldflags="-w -s" -o gps-routes-server .
+RUN go build -ldflags="-w -s" -o gps-routes .
 
 FROM alpine:latest AS runtime
 ENV GIN_MODE=release
@@ -29,7 +29,7 @@ RUN apk --no-cache add curl ca-certificates tzdata && \
 RUN adduser -D -g '' appuser
 WORKDIR /app
 
-COPY --from=build /app/gps-routes-server .
+COPY --from=build /app/gps-routes .
 COPY --from=build /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
 COPY --from=build /usr/share/zoneinfo /usr/share/zoneinfo
 
@@ -39,4 +39,4 @@ EXPOSE 8080/tcp
 HEALTHCHECK --interval=30s --timeout=3s --start-period=5s --retries=3 \
     CMD curl -f http://localhost:8080/healthz || exit 1
 
-ENTRYPOINT ["./gps-routes-server"]
+ENTRYPOINT ["./gps-routes server"]

@@ -9,7 +9,16 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "main.go"
+            "program": "main.go",
+            "args": ["server"]
+        },
+        {
+            "name": "Import data",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "main.go",
+            "args": ["import", "./data/backup"]
         }
     ]
 }

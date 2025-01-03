@@ -10,28 +10,15 @@
 package main
 
 import (
-	"context"
+	"fmt"
 	"log"
 	"os"
-	"time"
 
-	"github.com/aurowora/compress"
 	"github.com/earthboundkid/versioninfo/v2"
-	"github.com/gin-contrib/cors"
-	limits "github.com/gin-contrib/size"
-	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
-	healthcheck "github.com/tavsec/gin-healthcheck"
-	"github.com/tavsec/gin-healthcheck/checks"
-	"github.com/tavsec/gin-healthcheck/config"
+	"github.com/spf13/cobra"
 
-	"go.mongodb.org/mongo-driver/mongo"
-	"go.mongodb.org/mongo-driver/mongo/options"
-
-	"github.com/rm-hull/gps-routes-api/middlewares"
-	"github.com/rm-hull/gps-routes-api/repositories"
-	"github.com/rm-hull/gps-routes-api/routes"
-	"github.com/rm-hull/gps-routes-api/services"
+	cmds "github.com/rm-hull/gps-routes-api/cmd"
 )
 
 func main() {
@@ -39,45 +26,42 @@ func main() {
 		log.Println("No .env file found")
 	}
 
-	mongoURI := os.Getenv("MONGO_URI")
-	if mongoURI == "" {
-		log.Fatal("Environment variable MONGO_URI is not set")
+	var rootCmd = &cobra.Command{
+		Use:  "gps-routes",
+		Long: `HTTP server, DB migration and data import/export`,
 	}
 
-	// Connect to MongoDB
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
-	defer cancel()
-
-	clientOptions := options.Client().ApplyURI(mongoURI)
-	client, err := mongo.Connect(ctx, clientOptions)
-	if err != nil {
-		log.Fatalf("Failed to connect to MongoDB: %v", err)
-	}
-
-	repo := repositories.NewMongoRouteRepository(client, "gps-routes", "routes")
-	service := services.NewRoutesService(repo)
-
-	log.Printf("Server started, version: %s", versioninfo.Short())
-
-	engine := gin.New()
-	engine.Use(
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
-		gin.Recovery(),
-		cors.Default(),
-		middlewares.ErrorHandler(),
-		compress.Compress(),
-		limits.RequestSizeLimiter(10*1024),
-	)
-
-	healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
-		checks.NewMongoCheck(10, client),
-	})
-
-	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
-		RoutesAPI: routes.RoutesAPI{
-			Service: service,
+	var importCmd = &cobra.Command{
+		Use:   "import [path]",
+		Short: "Import JSON data from specified path",
+		Args:  cobra.ExactArgs(1),
+		Run: func(cmd *cobra.Command, args []string) {
+			fmt.Printf("TODO: Importing data from: %s\n", args[0])
 		},
-	})
+	}
 
-	log.Fatal(router.Run(":8080"))
+	var serverCmd = &cobra.Command{
+		Use:   "server",
+		Short: "Start HTTP server",
+		Run: func(cmd *cobra.Command, args []string) {
+			cmds.NewHttpServer()
+		},
+	}
+
+	var versionCmd = &cobra.Command{
+		Use:   "version",
+		Short: "Show version",
+		Run: func(cmd *cobra.Command, args []string) {
+			fmt.Println(versioninfo.Short())
+		},
+	}
+
+	rootCmd.AddCommand(importCmd)
+	rootCmd.AddCommand(serverCmd)
+	rootCmd.AddCommand(versionCmd)
+
+	if err := rootCmd.Execute(); err != nil {
+		fmt.Println(err)
+		os.Exit(1)
+	}
 }
