@@ -56,9 +56,12 @@ func NewHttpServer() {
 		limits.RequestSizeLimiter(10*1024),
 	)
 
-	healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
+	err = healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
 		checks.NewMongoCheck(10, client),
 	})
+	if err != nil {
+		log.Fatalf("failed to initialize healthcheck: %v", err)
+	}
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{
