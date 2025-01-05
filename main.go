@@ -18,7 +18,7 @@ import (
 	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 
-	cmds "github.com/rm-hull/gps-routes-api/cmd"
+	"github.com/rm-hull/gps-routes-api/cmds"
 )
 
 func main() {
@@ -36,7 +36,7 @@ func main() {
 		Short: "Import JSON data from specified path",
 		Args:  cobra.ExactArgs(1),
 		Run: func(cmd *cobra.Command, args []string) {
-			fmt.Printf("TODO: Importing data from: %s\n", args[0])
+			cmds.ImportData(args[0])
 		},
 	}
 
@@ -45,6 +45,23 @@ func main() {
 		Short: "Start HTTP server",
 		Run: func(cmd *cobra.Command, args []string) {
 			cmds.NewHttpServer()
+		},
+	}
+
+	var pingDbCmd = &cobra.Command{
+		Use:   "ping",
+		Short: "Ping Postgres database",
+		Run: func(cmd *cobra.Command, args []string) {
+			cmds.PingDatabase()
+		},
+	}
+
+	var migrationCmd = &cobra.Command{
+		Use:   "migration [up|down] <migrations_path>",
+		Short: "Run DB migration",
+		Args:  cobra.ExactArgs(2),
+		Run: func(cmd *cobra.Command, args []string) {
+			cmds.RunMigration(args[0], args[1])
 		},
 	}
 
@@ -58,6 +75,8 @@ func main() {
 
 	rootCmd.AddCommand(importCmd)
 	rootCmd.AddCommand(serverCmd)
+	rootCmd.AddCommand(pingDbCmd)
+	rootCmd.AddCommand(migrationCmd)
 	rootCmd.AddCommand(versionCmd)
 
 	if err := rootCmd.Execute(); err != nil {

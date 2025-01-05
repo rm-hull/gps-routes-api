@@ -34,8 +34,10 @@ Once the image is built, just run
 docker run --rm -it openapi
 ```
 
-### Known Issue
+### DB Setup
 
-Endpoints sharing a common path may result in issues. For example, `/v2/pet/findByTags` and `/v2/pet/:petId` will result in an issue with the Gin framework. For more information about this known limitation, please refer to [gin-gonic/gin#388](https://github.com/gin-gonic/gin/issues/388) for more information.
-
-A workaround is to manually update the path and handler. Please refer to [gin-gonic/gin/issues/205#issuecomment-296155497](https://github.com/gin-gonic/gin/issues/205#issuecomment-296155497) for more information.
+```sql
+CREATE SCHEMA gps_routes;
+GRANT ALL PRIVILEGES ON SCHEMA gps_routes TO CURRENT_USER;
+GRANT USAGE ON SCHEMA gps_routes TO CURRENT_USER;
+```

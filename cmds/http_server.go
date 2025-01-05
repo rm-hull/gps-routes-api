@@ -1,9 +1,8 @@
-package cmd
+package cmds
 
 import (
 	"context"
 	"log"
-	"os"
 	"time"
 
 	"github.com/aurowora/compress"
@@ -11,13 +10,12 @@ import (
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
+	"github.com/jackc/pgx/v5/stdlib"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
-	"github.com/tavsec/gin-healthcheck/config"
+	hc_config "github.com/tavsec/gin-healthcheck/config"
 
-	"go.mongodb.org/mongo-driver/mongo"
-	"go.mongodb.org/mongo-driver/mongo/options"
-
+	"github.com/rm-hull/gps-routes-api/db"
 	"github.com/rm-hull/gps-routes-api/middlewares"
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/rm-hull/gps-routes-api/routes"
@@ -26,22 +24,18 @@ import (
 
 func NewHttpServer() {
 
-	mongoURI := os.Getenv("MONGO_URI")
-	if mongoURI == "" {
-		log.Fatal("Environment variable MONGO_URI is not set")
-	}
-
-	// Connect to MongoDB
+	// Connect to Postgres
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	clientOptions := options.Client().ApplyURI(mongoURI)
-	client, err := mongo.Connect(ctx, clientOptions)
+	config := db.ConfigFromEnv()
+	pool, err := db.NewDBPool(ctx, config)
 	if err != nil {
-		log.Fatalf("Failed to connect to MongoDB: %v", err)
+		log.Fatalf("failed to create database pool: %v", err)
 	}
+	defer pool.Close()
 
-	repo := repositories.NewMongoRouteRepository(client, "gps-routes", "routes")
+	repo := repositories.NewPostgresRouteRepository(pool, config.Schema)
 	service := services.NewRoutesService(repo)
 
 	log.Printf("Server started, version: %s", versioninfo.Short())
@@ -56,8 +50,10 @@ func NewHttpServer() {
 		limits.RequestSizeLimiter(10*1024),
 	)
 
-	err = healthcheck.New(engine, config.DefaultConfig(), []checks.Check{
-		checks.NewMongoCheck(10, client),
+	db := stdlib.OpenDB(*pool.Config().ConnConfig)
+	defer db.Close()
+	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
+		checks.SqlCheck{Sql: db},
 	})
 	if err != nil {
 		log.Fatalf("failed to initialize healthcheck: %v", err)

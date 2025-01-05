@@ -30,7 +30,8 @@ type RouteMetadata struct {
 	// The main image URL associated with the route
 	HeadlineImageUrl string `json:"headline_image_url" bson:"headline_image_url"`
 
-	Location GeoJson `json:"location,omitempty" bson:"location,omitempty"`
+	Location GeoLoc `json:"_geoloc,omitempty" bson:"_geoloc,omitempty"`
+	// Location GeoJson `json:"location,omitempty" bson:"location,omitempty"`
 
 	// The time the route was generated.
 	CreatedAt time.Time `json:"created_at" bson:"created_at"`

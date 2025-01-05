@@ -20,6 +20,10 @@ func NewMongoRouteRepository(client *mongo.Client, dbName, collectionName string
 	return &MongoDbRepository{collection: collection}
 }
 
+func (repo *MongoDbRepository) Store(ctx context.Context, route *model.RouteMetadata) error {
+	panic("unimplemented")
+}
+
 func (repo *MongoDbRepository) FindByObjectID(ctx context.Context, objectID string) (*model.RouteMetadata, error) {
 	var routeMetadata model.RouteMetadata
 	filter := bson.M{"objectID": objectID}
