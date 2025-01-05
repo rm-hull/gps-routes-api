@@ -30,8 +30,7 @@ type RouteMetadata struct {
 	// The main image URL associated with the route
 	HeadlineImageUrl string `json:"headline_image_url" bson:"headline_image_url"`
 
-	Location GeoLoc `json:"_geoloc,omitempty" bson:"_geoloc,omitempty"`
-	// Location GeoJson `json:"location,omitempty" bson:"location,omitempty"`
+	StartPosition GeoLoc `json:"_geoloc,omitempty" bson:"_geoloc,omitempty"`
 
 	// The time the route was generated.
 	CreatedAt time.Time `json:"created_at" bson:"created_at"`
@@ -47,20 +46,20 @@ type RouteMetadata struct {
 	DistanceKm float64 `json:"distance_km,omitempty" bson:"distance_km,omitempty"`
 
 	// A link to a (YouTube) video associated with the route
-	VideoUrl string `json:"video_url,omitempty" bson:"video_url,omitempty"`
+	VideoUrl *string `json:"video_url,omitempty" bson:"video_url,omitempty"`
 
 	// Where exists, a nearby postcode
-	Postcode string `json:"postcode,omitempty" bson:"postcode,omitempty"`
+	Postcode *string `json:"postcode,omitempty" bson:"postcode,omitempty"`
 
 	// The district in which the route starts
-	District string `json:"district,omitempty" bson:"district,omitempty"`
+	District *string `json:"district,omitempty" bson:"district,omitempty"`
 
 	// The county in which the route starts
-	County string `json:"county,omitempty" bson:"county,omitempty"`
+	County *string `json:"county,omitempty" bson:"county,omitempty"`
 
 	// The region in which the route starts
-	Region string `json:"region,omitempty" bson:"region,omitempty"`
+	Region *string `json:"region,omitempty" bson:"region,omitempty"`
 
 	// The country in which the route starts
-	Country string `json:"country,omitempty" bson:"country,omitempty"`
+	Country *string `json:"country,omitempty" bson:"country,omitempty"`
 }

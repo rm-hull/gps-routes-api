@@ -10,8 +10,6 @@ services:
     image: ghcr.io/rm-hull/gps-routes-api:main
     env_file:
       - .env
-    depends_on:
-      - mongodb
     restart: always
     healthcheck:
       disable: false

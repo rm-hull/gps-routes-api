@@ -6,11 +6,12 @@ import (
 
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/rm-hull/gps-routes-api/db"
 	model "github.com/rm-hull/gps-routes-api/go"
 )
 
 type PostgresDbRepository struct {
-	pool *pgxpool.Pool
+	pool   *pgxpool.Pool
 	schema string
 }
 
@@ -40,9 +41,9 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 			video_url = EXCLUDED.video_url, postcode = EXCLUDED.postcode,
 			district = EXCLUDED.district, county = EXCLUDED.county,
 			region = EXCLUDED.region, country = EXCLUDED.country`, repo.schema),
-		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl,
-		route.GpxUrl, route.Location.Longitude, route.Location.Latitude, route.DistanceKm, route.Description, route.VideoUrl,
-		route.Postcode, route.District, route.County, route.Region, route.Country,
+		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl, route.GpxUrl,
+		route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm, route.Description,
+		route.VideoUrl, route.Postcode, route.District, route.County, route.Region, route.Country,
 	)
 
 	batch.Queue(
@@ -88,12 +89,12 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 
 	mainQuery := `
 		SELECT
-			r.object_id, r.ref, r.title, r.description, r.headline_image_url,
-			ST_X(r._geoloc) AS longitude, ST_Y(r._geoloc) AS latitude,
-			r.created_at, r.gpx_url, r.distance_km, r.video_url,
-			r.postcode, r.district, r.county, r.region, r.country
-		FROM routes r
-		WHERE r.object_id = $1`
+			object_id, ref, title, description, headline_image_url,
+			ST_X(_geoloc) AS longitude, ST_Y(_geoloc) AS latitude,
+			created_at, gpx_url, distance_km, video_url,
+			postcode, district, county, region, country
+		FROM routes
+		WHERE object_id = $1`
 
 	var route model.RouteMetadata
 	var latitude, longitude float64
@@ -109,8 +110,8 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 		return nil, fmt.Errorf("failed to fetch route with ObjectID %s: %v", objectID, err)
 	}
 
-	// Map the location to the GeoLoc struct.
-	route.Location = model.GeoLoc{
+	// Map the start position to the GeoLoc struct.
+	route.StartPosition = model.GeoLoc{
 		Latitude:  latitude,
 		Longitude: longitude,
 	}
@@ -143,31 +144,114 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 
 	rows, err = repo.pool.Query(ctx, nearbyQuery, objectID)
 	if err != nil {
-		return nil, fmt.Errorf("failed to fetch nearby: %w", err)
+		return nil, fmt.Errorf("failed to fetch nearby: %v", err)
 	}
 	defer rows.Close()
 
 	for rows.Next() {
 		var nearby model.Nearby
 		if err := rows.Scan(&nearby.Description, &nearby.ObjectID, &nearby.Ref); err != nil {
-			return nil, fmt.Errorf("failed to scan nearby: %w", err)
+			return nil, fmt.Errorf("failed to scan nearby: %v", err)
 		}
 		route.Nearby = append(route.Nearby, nearby)
 	}
 	return &route, nil
 }
 
-// CountAll implements DbRepository.
 func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.SearchRequest) (int64, error) {
-	panic("unimplemented")
+
+	var count int64
+	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).Build()
+	err := repo.pool.QueryRow(ctx, query, params...).Scan(&count)
+	return count, err
 }
 
-// FacetCounts implements DbRepository.
-func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int) (*map[string]int64, error) {
-	panic("unimplemented")
+func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32) (*map[string]int64, error) {
+	results := make(map[string]int64, 0)
+
+	selectPart := fmt.Sprintf(`SELECT %s, COUNT(*) AS value FROM routes`, facetField)
+	query, params := db.NewQueryBuilder(selectPart, criteria).
+		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
+		WithGroupBy(facetField).
+		WithOrderBy("value").
+		WithLimit(limit).
+		Build()
+
+	rows, err := repo.pool.Query(ctx, query, params...)
+	if err != nil {
+		return nil, fmt.Errorf("failed to execute %s-facet query: %v", facetField, err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var name string
+		var value int
+
+		err := rows.Scan(&name, &value)
+		if err != nil {
+			return nil, fmt.Errorf("failed to scan %s-facet row: %v", facetField, err)
+		}
+
+		results[name] = int64(value)
+	}
+
+	return &results, nil
 }
 
-// SearchHits implements DbRepository.
 func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *model.SearchRequest) (*[]model.RouteSummary, error) {
-	panic("unimplemented")
+
+	selectPart := `
+		SELECT
+			object_id, ref,
+			CASE
+				WHEN LENGTH(title) > 50 THEN SUBSTRING(title, 1, 47) || '...'
+				ELSE title
+			END AS title,
+			CASE
+				WHEN LENGTH(description) > 150 THEN SUBSTRING(description, 1, 147) || '...'
+				ELSE description
+			END AS description,
+			headline_image_url,
+			ST_X(_geoloc) AS longitude,
+			ST_Y(_geoloc) AS latitude
+		FROM routes`
+
+	sortField := "created_at"
+	if criteria.Query != "" {
+		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32)"
+	}
+
+	query, params := db.NewQueryBuilder(selectPart, criteria).
+		WithOrderBy(sortField).
+		WithOffset(criteria.Offset).
+		WithLimit(criteria.Limit).
+		Build()
+
+	results := make([]model.RouteSummary, 0)
+	rows, err := repo.pool.Query(ctx, query, params...)
+	if err != nil {
+		return nil, fmt.Errorf("failed to execute search query: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var summary model.RouteSummary
+		var latitude, longitude float64
+
+		err := rows.Scan(
+			&summary.ObjectID, &summary.Ref, &summary.Title,
+			&summary.Description, &summary.HeadlineImageUrl,
+			&longitude, &latitude)
+		if err != nil {
+			return nil, fmt.Errorf("failed to scan summary: %v", err)
+		}
+
+		summary.Location = model.GeoLoc{
+			Latitude:  latitude,
+			Longitude: longitude,
+		}
+
+		results = append(results, summary)
+	}
+	return &results, nil
 }

@@ -55,7 +55,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 		resultsChan <- *results
 	}
 
-	fetchFacet := func(fieldName string, limit int) {
+	fetchFacet := func(fieldName string, limit int32) {
 		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit)
 		if err != nil {
 			errorChan <- err
