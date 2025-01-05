@@ -72,6 +72,19 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 		)
 	}
 
+	batch.Queue(
+		fmt.Sprintf(`DELETE FROM "%s"."details" WHERE route_object_id = $1`, repo.schema),
+		route.ObjectID,
+	)
+
+	for _, detail := range route.Details {
+		batch.Queue(fmt.Sprintf(`
+			INSERT INTO "%s"."details" (route_object_id, subtitle, content)
+			VALUES ($1, $2, $3)`, repo.schema),
+			route.ObjectID, detail.Subtitle, detail.Content,
+		)
+	}
+
 	results := repo.pool.SendBatch(ctx, batch)
 	defer results.Close()
 
@@ -154,6 +167,26 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 			return nil, fmt.Errorf("failed to scan nearby: %v", err)
 		}
 		route.Nearby = append(route.Nearby, nearby)
+	}
+
+	// Query details
+	detailsQuery := `
+		SELECT subtitle, content
+		FROM details
+		WHERE route_object_id = $1`
+
+	rows, err = repo.pool.Query(ctx, detailsQuery, objectID)
+	if err != nil {
+		return nil, fmt.Errorf("failed to fetch details: %v", err)
+	}
+	defer rows.Close()
+
+	for rows.Next() {
+		var detail model.Detail
+		if err := rows.Scan(&detail.Subtitle, &detail.Content); err != nil {
+			return nil, fmt.Errorf("failed to scan detail: %v", err)
+		}
+		route.Details = append(route.Details, detail)
 	}
 	return &route, nil
 }
@@ -246,7 +279,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 			return nil, fmt.Errorf("failed to scan summary: %v", err)
 		}
 
-		summary.Location = model.GeoLoc{
+		summary.StartPosition = model.GeoLoc{
 			Latitude:  latitude,
 			Longitude: longitude,
 		}

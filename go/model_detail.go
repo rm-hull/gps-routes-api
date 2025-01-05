@@ -9,12 +9,8 @@
 
 package openapi
 
-// GeoJson - A GeoJSON object
-type GeoJson struct {
+type Detail struct {
+	Subtitle string `json:"subtitle"`
 
-	// GeoJSON type
-	Type string `json:"type"`
-
-	// Longitude, Latitude
-	Coordinates []float64 `json:"coordinates"`
+	Content string `json:"content"`
 }

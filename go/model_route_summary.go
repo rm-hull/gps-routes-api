@@ -12,20 +12,19 @@ package openapi
 type RouteSummary struct {
 
 	// The object ID identifies the GPS route (typically this is the MD5 hash of the route reference)
-	ObjectID string `json:"objectID" bson:"objectID"`
+	ObjectID string `json:"objectID"`
 
 	// A human friendly unique identifier for the route.
-	Ref string `json:"ref" bson:"ref"`
+	Ref string `json:"ref"`
 
 	// The route title
-	Title string `json:"title" bson:"title"`
+	Title string `json:"title"`
 
 	// Typically a long passage of text describing aspects of the route
-	Description string `json:"description" bson:"description"`
+	Description string `json:"description"`
 
 	// The main image URL associated with the route
-	HeadlineImageUrl string `json:"headline_image_url" bson:"headline_image_url"`
+	HeadlineImageUrl string `json:"headline_image_url"`
 
-	Location GeoLoc `json:"_geoloc,omitempty" bson:"_geoloc,omitempty"`
-	// Location GeoJson `json:"location,omitempty" bson:"location,omitempty"`
+	StartPosition GeoLoc `json:"_geoloc,omitempty"`
 }
