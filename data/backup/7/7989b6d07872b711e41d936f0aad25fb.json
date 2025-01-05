@@ -1,59 +1,59 @@
 {
-  "objectID": "7989b6d07872b711e41d936f0aad25fb",
-  "created_at": "2024-12-24T22:58:12.941766+00:00",
-  "ref": "nidderdale-greenway-cycle-route",
-  "title": "Nidderdale Greenway - Harrogate to Ripley Cycle Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cycle_Routes_-_geograph.org.uk_-_144615.jpg",
-  "nearby": [
-    {
-      "description": "Nidd Gorge",
-      "objectID": "f79c5f16cea4a71ce5c530d2774545bf",
-      "ref": "nidd-gorge-walking-route"
+    "objectID": "7989b6d07872b711e41d936f0aad25fb",
+    "created_at": "2024-12-24T22:58:12.941766+00:00",
+    "ref": "nidderdale-greenway-cycle-route",
+    "title": "Nidderdale Greenway - Harrogate to Ripley Cycle Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cycle_Routes_-_geograph.org.uk_-_144615.jpg",
+    "nearby": [
+        {
+            "description": "Nidd Gorge",
+            "objectID": "f79c5f16cea4a71ce5c530d2774545bf",
+            "ref": "nidd-gorge-walking-route"
+        },
+        {
+            "description": "Ripley Castle",
+            "objectID": "18a7ae70632725d3ff3682f3aaf4897c",
+            "ref": "ripley-castle-walking-route"
+        },
+        {
+            "description": "Beryl Burton Cycleway",
+            "objectID": "fa0600e1580d49f20c09cdcf080136b8",
+            "ref": "beryl-burton-cycleway-walking-and-cycle-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7989b6d07872b711e41d936f0aad25fb.gpx",
+    "_geoloc": {
+        "lat": 53.9983276162,
+        "lng": -1.5350408501
     },
-    {
-      "description": "Ripley Castle",
-      "objectID": "18a7ae70632725d3ff3682f3aaf4897c",
-      "ref": "ripley-castle-walking-route"
-    },
-    {
-      "description": "Beryl Burton Cycleway",
-      "objectID": "fa0600e1580d49f20c09cdcf080136b8",
-      "ref": "beryl-burton-cycleway-walking-and-cycle-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7989b6d07872b711e41d936f0aad25fb.gpx",
-  "_geoloc": {
-    "lat": 53.9983276162,
-    "lng": -1.5350408501
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cycle_Routes_-_geograph.org.uk_-_144615.jpg",
-      "title": "DS Pugh\u00a0/\u00a0Cycle Routes",
-      "caption": "Cycle Routes"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nidd_Gorge_Viaduct_-_geograph.org.uk_-_234724_%28cropped%29.jpg",
-      "title": "manonabike [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Nidd Gorge Viaduct"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ripley_Castle_reflections_-_geograph.org.uk_-_1490758.jpg",
-      "title": "Steve  F [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
-      "caption": "Ripley Castle reflections"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Riverside_view_-_Killinghall_Bridge_-_geograph.org.uk_-_1261342.jpg",
-      "title": "Betty Longbottom\u00a0/\u00a0Riverside view - Killinghall Bridge",
-      "caption": "Riverside view"
-    }
-  ],
-  "distance_km": 6.5,
-  "description": "This traffic free route, follows the Nidderdale Greenway from Harrogate to Ripley in Yorkshire. It follows National Cycle Network Route 67 along a dismantled railway line for a distance of about 4 miles. The route starts in the centre of Harrogate, just to the north of the train station and the bus station. You then head north east to Old Bilton, before coming to the Nidd Viaduct over the River Nidd. Around here you can pick up walking trails through the lovely Nidd Gorge where there's ancient woodland and a wide variety of wildlife. After passing the viaduct you follow the course of the river toward Ripley where the route finishes. At the end of the route you can visit the fascinating Ripley Castle . It's a lovely place for a walk with beautiful grounds surrounding the Grade I listed\u00a014th-century country house. The Beryl Burton Cycleway also links with this route. You can pick it up at Old Bilton and follow it to Knaresborough.",
-  "postcode": "HG1 5DB",
-  "district": "Harrogate",
-  "county": "North Yorkshire",
-  "region": "Yorkshire and the Humber",
-  "country": "England",
-  "gazetteer_found": true
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Cycle_Routes_-_geograph.org.uk_-_144615.jpg",
+            "title": "DS Pugh / Cycle Routes",
+            "caption": "Cycle Routes"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nidd_Gorge_Viaduct_-_geograph.org.uk_-_234724_%28cropped%29.jpg",
+            "title": "manonabike [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Nidd Gorge Viaduct"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ripley_Castle_reflections_-_geograph.org.uk_-_1490758.jpg",
+            "title": "Steve  F [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)]",
+            "caption": "Ripley Castle reflections"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Riverside_view_-_Killinghall_Bridge_-_geograph.org.uk_-_1261342.jpg",
+            "title": "Betty Longbottom / Riverside view - Killinghall Bridge",
+            "caption": "Riverside view"
+        }
+    ],
+    "distance_km": 6.5,
+    "description": "This traffic free route, follows the Nidderdale Greenway from Harrogate to Ripley in Yorkshire. It follows National Cycle Network Route 67 along a dismantled railway line for a distance of about 4 miles. The route starts in the centre of Harrogate, just to the north of the train station and the bus station. You then head north east to Old Bilton, before coming to the Nidd Viaduct over the River Nidd. Around here you can pick up walking trails through the lovely Nidd Gorge where there's ancient woodland and a wide variety of wildlife. After passing the viaduct you follow the course of the river toward Ripley where the route finishes. At the end of the route you can visit the fascinating Ripley Castle . It's a lovely place for a walk with beautiful grounds surrounding the Grade I listed 14th-century country house. The Beryl Burton Cycleway also links with this route. You can pick it up at Old Bilton and follow it to Knaresborough.",
+    "postcode": "HG1 5DB",
+    "district": "Harrogate",
+    "county": "North Yorkshire",
+    "region": "Yorkshire and the Humber",
+    "country": "England",
+    "gazetteer_found": true
 }
