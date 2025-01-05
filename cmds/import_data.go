@@ -77,7 +77,10 @@ func ImportData(path string) {
 
 	bar := progressbar.Default(int64(len(files)))
 	for _, file := range files {
-		bar.Add(1)
+		if err := bar.Add(1); err != nil {
+			log.Fatalf("issue with progress bar: %v", err)
+
+		}
 		data, err := loadJson(file)
 		if err != nil {
 			log.Fatalf("failed to load file: %s: %v", file, err)
