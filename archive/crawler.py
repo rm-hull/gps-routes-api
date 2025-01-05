@@ -1,24 +1,29 @@
 import asyncio
 import functools
 import json
+import os
 import random
 from bs4 import BeautifulSoup
 import requests
 
-from archive.detail_extractor import DetailExtractor
+from detail_extractor import DetailExtractor
 from utils import get_datahub_client, get_object_id, get_search_client, ROUTES_INDEX
-from algoliasearch.http.exceptions import RequestException
+
+# from algoliasearch.http.exceptions import RequestException
 
 
-algolia_client = get_search_client()
 datahub = get_datahub_client()
 
 
 def store_objects(records: list):
-    return algolia_client.save_objects(
-        index_name=ROUTES_INDEX,
-        objects=records,
-    )
+    # return algolia_client.save_objects(
+    #     index_name=ROUTES_INDEX,
+    #     objects=records,
+    # )
+    for record in records:
+        object_id = record["objectID"]
+        with open(f"../data/backup/{object_id[0]}/{object_id}.json", mode="w") as fp:
+            json.dump(record, fp, ensure_ascii=False, indent=2)
 
 
 def gazetteer_info(record: dict) -> dict:
@@ -56,7 +61,7 @@ def oversized(record: dict) -> bool:
 
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("../data/full-list.txt", mode="r") as fp:
+    with open("../data/unprocessed-list.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
@@ -68,26 +73,31 @@ def select_unprocessed_route() -> tuple[int, str | None]:
     for attempt in range(20):
         route = pick_random_route()
         ref = route.split("/")[-1]
-        try:
-            resp = algolia_client.get_object(
-                index_name=ROUTES_INDEX,
-                object_id=get_object_id(ref),
-                attributes_to_retrieve=["country", "_geoloc", "gazetteer_found"],
-            )
-            if "_geoloc" not in resp:
-                continue
+        object_id = get_object_id(ref)
 
-            if "gazetter_found" in resp:
-                continue
+        if not os.path.exists(f"../data/backup/{object_id[0]}/{object_id}.json"):
+            return attempt, route
 
-            if "country" not in resp:
-                return attempt, route
+        # try:
+        #     resp = algolia_client.get_object(
+        #         index_name=ROUTES_INDEX,
+        #         object_id=get_object_id(ref),
+        #         attributes_to_retrieve=["country", "_geoloc", "gazetteer_found"],
+        #     )
+        #     if "_geoloc" not in resp:
+        #         continue
 
-        except RequestException as ex:
-            if ex.status_code == 404:
-                return attempt, route
-            else:
-                continue
+        #     if "gazetter_found" in resp:
+        #         continue
+
+        #     if "country" not in resp:
+        #         return attempt, route
+
+        # except RequestException as ex:
+        #     if ex.status_code == 404:
+        #         return attempt, route
+        #     else:
+        #         continue
 
     return attempt, None
 
@@ -110,12 +120,11 @@ def random_page_crawl():
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
 
-        if oversized(record):
-            print(f"WARN: {url} is oversized")
-        else:
-            records.append(record)
-
-    store_objects(records)
+        # if oversized(record):
+        #     print(f"WARN: {url} is oversized")
+        # else:
+        # records.append(record)
+        store_objects([record])
 
 
 def unprocessed_entries_crawl():
@@ -135,12 +144,13 @@ def unprocessed_entries_crawl():
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
 
-        if oversized(record):
-            print(f"WARN: {url} is oversized")
-        else:
-            records.append(record)
+        # if oversized(record):
+        #     print(f"WARN: {url} is oversized")
+        # else:
+        #     records.append(record)
+        store_objects([record])
 
-    store_objects(records)
+    # store_objects(records)
 
 
 async def main():

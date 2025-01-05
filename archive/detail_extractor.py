@@ -22,7 +22,7 @@ class DetailExtractor:
         self.extract_photos()
         self.extract_distance_km()
         self.extract_description()
-        # self.extract_details()
+        self.extract_details()
         self.extract_video_link()
         return self.result
 
@@ -61,7 +61,7 @@ class DetailExtractor:
                     ref = href.split("/")[-1]
                     nearby.append(
                         {
-                            "description": text,
+                            "description": sanitize_text(text),
                             "objectID": get_object_id(ref),
                             "ref": ref,
                         }
@@ -101,7 +101,7 @@ class DetailExtractor:
                     {
                         "src": image_img["src"],
                         "title": image_link.get("title", "No title"),
-                        "caption": caption.text.strip(),
+                        "caption": sanitize_text(caption.text),
                     }
                 )
 
@@ -128,8 +128,8 @@ class DetailExtractor:
         if panel_body:
             paragraph = panel_body.find("p")
             if paragraph:
-                self.result["description"] = paragraph.get_text(
-                    separator=" ", strip=True
+                self.result["description"] = sanitize_text(
+                    paragraph.get_text(separator=" ", strip=True)
                 )
 
     def extract_details(self):
@@ -138,11 +138,24 @@ class DetailExtractor:
             paragraph = h2.find_next_sibling("p", class_="para")
             if paragraph:
                 sections.append(
-                    {"subtitle": h2.text.strip(), "content": paragraph.text.strip()}
+                    {
+                        "subtitle": sanitize_text(h2.text),
+                        "content": sanitize_text(paragraph.text),
+                    }
                 )
 
         if sections:
             self.result["details"] = sections
+
+
+def sanitize_text(text: str) -> str:
+    return (
+        text.replace(" , ", ", ")
+        .replace(" . ", ". ")
+        .replace("\\u00a0", " ")
+        .replace(" ", " ")
+        .strip()
+    )
 
 
 async def main():
