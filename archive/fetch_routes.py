@@ -6,12 +6,12 @@ import requests
 from utils import walk_files
 
 
-for file in tqdm(list(walk_files("data/backup")), desc="Extracting GPX", unit="record"):
+for file in tqdm(list(walk_files("../data/backup")), desc="Extracting GPX", unit="record"):
     with open(file, "r") as fp:
         record = json.load(fp)
 
     object_id = record["objectID"]
-    base_folder = f"data/routes/{object_id[0]}"
+    base_folder = f"../data/routes/{object_id[0]}"
     if not os.path.exists(base_folder):
         os.mkdir(base_folder)
 

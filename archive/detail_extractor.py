@@ -100,7 +100,7 @@ class DetailExtractor:
                 image_details.append(
                     {
                         "src": image_img["src"],
-                        "title": image_link.get("title", "No title"),
+                        "title": sanitize_text(image_link.get("title", "No title")),
                         "caption": sanitize_text(caption.text),
                     }
                 )
@@ -152,8 +152,11 @@ def sanitize_text(text: str) -> str:
     return (
         text.replace(" , ", ", ")
         .replace(" . ", ". ")
+        .replace("\n", " ")
         .replace("\\u00a0", " ")
+        .replace("\u00a0", " ")
         .replace(" ", " ")
+        .replace("  ", " ")
         .strip()
     )
 
