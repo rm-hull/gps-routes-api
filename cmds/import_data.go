@@ -59,7 +59,7 @@ func loadJson(filename string) (*model.RouteMetadata, error) {
 
 func ImportData(path string) {
 	config := db.ConfigFromEnv()
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Minute)
+	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
 
 	pool, err := db.NewDBPool(ctx, config)
