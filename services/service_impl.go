@@ -34,7 +34,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 
 	totalChan := make(chan int64, 1)
 	resultsChan := make(chan []model.RouteSummary, 1)
-	facetsChan := make(chan Facet, 4)
+	facetsChan := make(chan Facet, 5)
 	errorChan := make(chan error, 2)
 
 	fetchCounts := func() {
@@ -69,13 +69,14 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	go fetchFacet("district", 20)
 	go fetchFacet("county", 100)
 	go fetchFacet("region", 20)
+	go fetchFacet("state", 20)
 	go fetchFacet("country", 10)
 
 	var total int64
 	var results []model.RouteSummary
 
 	facets := make(map[string]map[string]int64, 0)
-	remaining := 6
+	remaining := 7
 
 	for remaining > 0 {
 		select {

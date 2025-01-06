@@ -27,23 +27,25 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 		INSERT INTO "%s"."routes" (
 		    object_id, created_at, ref, title, headline_image_url,
 		    gpx_url, _geoloc, distance_km, description, video_url,
-		    postcode, district, county, region, country
+		    display_address, postcode, district, county, region,
+			state, country
 		) VALUES (
 			$1, $2, $3, $4, $5,
 			$6, ST_SetSRID(ST_MakePoint($7, $8), 4326), $9, $10, $11,
-			$12, $13, $14, $15, $16
+			$12, $13, $14, $15, $16, $17, $18
 		)
 		ON CONFLICT (object_id) DO UPDATE SET
 			created_at = EXCLUDED.created_at, ref = EXCLUDED.ref,
 			title = EXCLUDED.title, headline_image_url = EXCLUDED.headline_image_url,
 			gpx_url = EXCLUDED.gpx_url, _geoloc = EXCLUDED._geoloc,
 			distance_km = EXCLUDED.distance_km, description = EXCLUDED.description,
-			video_url = EXCLUDED.video_url, postcode = EXCLUDED.postcode,
-			district = EXCLUDED.district, county = EXCLUDED.county,
-			region = EXCLUDED.region, country = EXCLUDED.country`, repo.schema),
+			video_url = EXCLUDED.video_url, display_address = EXCLUDED.display_address,
+			postcode = EXCLUDED.postcode, district = EXCLUDED.district, county = EXCLUDED.county,
+			region = EXCLUDED.region, state = EXCLUDED.state, country = EXCLUDED.country`, repo.schema),
 		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl, route.GpxUrl,
 		route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm, route.Description,
-		route.VideoUrl, route.Postcode, route.District, route.County, route.Region, route.Country,
+		route.VideoUrl, route.DisplayAddress, route.Postcode, route.District, route.County, route.Region,
+		route.State, route.Country,
 	)
 
 	batch.Queue(
@@ -105,7 +107,8 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 			object_id, ref, title, description, headline_image_url,
 			ST_X(_geoloc) AS longitude, ST_Y(_geoloc) AS latitude,
 			created_at, gpx_url, distance_km, video_url,
-			postcode, district, county, region, country
+			display_address, postcode, district, county,
+			region, state, country
 		FROM routes
 		WHERE object_id = $1`
 
@@ -116,8 +119,9 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	err := repo.pool.QueryRow(ctx, mainQuery, objectID).Scan(
 		&route.ObjectID, &route.Ref, &route.Title, &route.Description,
 		&route.HeadlineImageUrl, &longitude, &latitude, &route.CreatedAt,
-		&route.GpxUrl, &route.DistanceKm, &route.VideoUrl, &route.Postcode,
-		&route.District, &route.County, &route.Region, &route.Country,
+		&route.GpxUrl, &route.DistanceKm, &route.VideoUrl, &route.DisplayAddress,
+		&route.Postcode, &route.District, &route.County, &route.Region,
+		&route.State, &route.Country,
 	)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch route with ObjectID %s: %v", objectID, err)

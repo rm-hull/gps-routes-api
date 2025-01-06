@@ -50,6 +50,8 @@ type RouteMetadata struct {
 	// A link to a (YouTube) video associated with the route
 	VideoUrl *string `json:"video_url,omitempty"`
 
+	DisplayAddress *string `json:"display_address,omitempty"`
+
 	// Where exists, a nearby postcode
 	Postcode *string `json:"postcode,omitempty"`
 
@@ -61,6 +63,8 @@ type RouteMetadata struct {
 
 	// The region in which the route starts
 	Region *string `json:"region,omitempty"`
+
+	State *string `json:"state,omitempty"`
 
 	// The country in which the route starts
 	Country *string `json:"country,omitempty"`
