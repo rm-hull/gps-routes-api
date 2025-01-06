@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T07:54:10.170215+00:00",
+  "created_at": "2025-01-06T18:49:39.590145+00:00",
   "objectID": "f6664ae76f6345b5034730072b5c36bc",
   "ref": "falls-of-rha-walking-route",
   "title": "Falls Of Rha Walk Route",
@@ -42,6 +42,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f6664ae76f6345b5034730072b5c36bc.gpx",
+  "_geoloc": {
+    "lat": 57.59213,
+    "lng": -6.35882
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Waterfall_on_the_River_Rha_-_geograph.org.uk_-_111558.jpg",
@@ -83,5 +87,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/t3wEI1oRPRY",
-  "gazetteer_found": false
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

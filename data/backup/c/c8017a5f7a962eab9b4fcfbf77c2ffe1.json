@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T03:00:45.635335+00:00",
+  "created_at": "2025-01-06T18:46:03.457743+00:00",
   "objectID": "c8017a5f7a962eab9b4fcfbf77c2ffe1",
   "ref": "belfast-castle-walking-route",
   "title": "Belfast Castle Walk Route",
@@ -9,9 +9,18 @@
       "description": "Cave Hill Country Park",
       "objectID": "6339010b9bccde36413a071b0d11f9fd",
       "ref": "cave-hill-country-park-walking-route"
+    },
+    {
+      "description": "Carnmoney Hill",
+      "objectID": "c8f4b611d4b4d0fb4f665e6757bfc07f",
+      "ref": "carnmoney-hill-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c8017a5f7a962eab9b4fcfbf77c2ffe1.gpx",
+  "_geoloc": {
+    "lat": 54.64277,
+    "lng": -5.94191
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Belfast_Castle_-_geograph.org.uk_-_589077.jpg",
@@ -64,6 +73,10 @@
     {
       "subtitle": "Dog Walking",
       "content": "The woodland and parkland make for a fine dog walk. You will probably see other dog owners on your walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north you can enjoy a climb to Carnmoney Hill where there are some peaceful woodland trails and more fine views over the area."
     }
   ],
   "video_url": "https://www.youtube.com/embed/VPVIwSwKW50",

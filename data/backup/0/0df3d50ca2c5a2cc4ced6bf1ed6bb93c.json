@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T02:15:17.426009+00:00",
+  "created_at": "2025-01-06T18:52:04.960466+00:00",
   "objectID": "0df3d50ca2c5a2cc4ced6bf1ed6bb93c",
   "ref": "dewsbury-country-park-walking-route",
   "title": "Dewsbury Country Park Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Restored_waste_tip%2C_Spen_Valley%2C_Dewsbury_-_geograph.org.uk_-_263164.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0df3d50ca2c5a2cc4ced6bf1ed6bb93c.gpx",
+  "_geoloc": {
+    "lat": 53.68486,
+    "lng": -1.6616
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Restored_waste_tip%2C_Spen_Valley%2C_Dewsbury_-_geograph.org.uk_-_263164.jpg",
@@ -60,5 +64,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/N6vZ9ZLiMao",
-  "gazetteer_found": false
+  "district": "Dewsbury",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true
 }

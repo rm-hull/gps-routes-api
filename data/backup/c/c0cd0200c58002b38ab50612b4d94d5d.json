@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T01:48:01.737364+00:00",
+  "created_at": "2025-01-06T19:01:46.982641+00:00",
   "objectID": "c0cd0200c58002b38ab50612b4d94d5d",
   "ref": "padiham-greenway-walking-and-cycle-route",
   "title": "Padiham Greenway Walking and Cycle Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c0cd0200c58002b38ab50612b4d94d5d.gpx",
+  "_geoloc": {
+    "lat": 53.7856318,
+    "lng": -2.294635
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Padiham_-_Bridges_over_River_Calder.jpg?20110119022642",
@@ -52,5 +56,8 @@
       "content": "Head east into Burnley and you can pick up the epic Pennine Cycleway."
     }
   ],
-  "gazetteer_found": false
+  "county": "Lancashire",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

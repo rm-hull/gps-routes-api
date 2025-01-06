@@ -51,7 +51,7 @@ def gazetteer_info(record: dict) -> dict:
 
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("../data/full-list.txt", mode="r") as fp:
+    with open("../data/missing-geoloc.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
@@ -67,7 +67,7 @@ def select_unprocessed_route() -> tuple[int, str | None]:
 
         with open(f"../data/backup/{object_id[0]}/{object_id}.json", "r") as fp:
             record = json.load(fp)
-            if "details" not in record:
+            if "_geoloc" not in record:
                 return attempt, route
 
     return attempt, None
@@ -115,7 +115,8 @@ def unprocessed_entries_crawl():
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
 
-        store_objects([record])
+        if "_geoloc" in record:
+            store_objects([record])
 
     # store_objects(records)
 

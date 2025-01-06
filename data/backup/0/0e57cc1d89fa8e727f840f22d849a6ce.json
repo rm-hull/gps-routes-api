@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-05T22:30:59.863642+00:00",
+  "created_at": "2025-01-06T18:46:28.315040+00:00",
   "objectID": "0e57cc1d89fa8e727f840f22d849a6ce",
   "ref": "limerick-3-bridges-walking-route",
   "title": "3 Bridges River Walk Limerick Route",
@@ -48,7 +48,7 @@
     {
       "description": "Castleconnell River Walk",
       "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell river-walk"
+      "ref": "castleconnell\u00a0river-walk"
     },
     {
       "description": "Clareabbey River Walk",
@@ -67,6 +67,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0e57cc1d89fa8e727f840f22d849a6ce.gpx",
+  "_geoloc": {
+    "lat": 52.66576,
+    "lng": -8.62713
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg/512px-Limerick_-_Arthur%27s_Quay_Park_%285770732371%29.jpg",

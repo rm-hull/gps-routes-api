@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:31:02.385847+00:00",
+  "created_at": "2025-01-06T19:03:54.588877+00:00",
   "objectID": "23696ec56f21a08fe7bce7aa52b9dfb4",
   "ref": "drumtochty-forest-walking-route",
   "title": "Drumtochty Forest Walks ",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/23696ec56f21a08fe7bce7aa52b9dfb4.gpx",
+  "_geoloc": {
+    "lat": 56.91074,
+    "lng": -2.49556
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Southwest_tower_of_Drumtochty_Castle_-_geograph.org.uk_-_894777.jpg",
@@ -53,5 +57,9 @@
   "description": "This walk explores Drumtochty Castle and forest near Stonehaven in Kincardineshire. You can start off at the car park near the castle and then follow the trails into the peaceful woodland. The route then climbs up to Goyle Hill where there's lots of pretty heather and some fine views over the surrounding hills and countryside. The forest includes some good mountain bike tracks as well. See the video towards the bottom of the page for an idea of the MTB trails you can try at the site. You can see the trails on openstreetmap below marked in blue. To the east there's also Maryculter Woods where you can enjoy some lovely views of the Crynoch Burn. To the north is Durris Forest and the climb to the viewpoint at Cairn-mon-earn. Fetteresso Forest also lies to the north east.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/JD5xgqfECiM?si=848F7Pkm3UoqY52b",
-  "gazetteer_found": false
+  "postcode": "AB30 1TP",
+  "county": "Aberdeenshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

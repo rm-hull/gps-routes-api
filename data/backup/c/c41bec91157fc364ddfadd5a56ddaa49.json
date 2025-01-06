@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T11:18:51.563285+00:00",
+  "created_at": "2025-01-06T18:52:32.055685+00:00",
   "objectID": "c41bec91157fc364ddfadd5a56ddaa49",
   "ref": "loch-druidibeg-walking-route",
   "title": "Loch Druidibeg Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Loch_Druidibeg_Nature_Reserve_-_geograph.org.uk_-_176606.jpg?20100131141821",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c41bec91157fc364ddfadd5a56ddaa49.gpx",
+  "_geoloc": {
+    "lat": 57.32117,
+    "lng": -7.33547
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Loch_Druidibeg_Nature_Reserve_-_geograph.org.uk_-_176606.jpg?20100131141821",
@@ -30,5 +34,8 @@
   "distance_km": 6.2,
   "description": "This walk visits Loch Druidibeg on the island of South Uist, in the Outer Hebrides. The loch is a designated National Nature Reserve and includes some pleasant walking trails and lots of interesting flora and fauna. There is a parking area on the northern side of the loch where you can pick up the nature trail. This will take you south west through the site, passing over little bridges dotted around the site. Other highlights include a woodland area with a variety of birds and pretty heather in the autumn. Keep your eyes peeled for Hen Harriers, Merlins and White-tailed Eagles as you make your way along the paths.",
   "details": [],
-  "gazetteer_found": false
+  "county": "Na h-Eileanan an Iar",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

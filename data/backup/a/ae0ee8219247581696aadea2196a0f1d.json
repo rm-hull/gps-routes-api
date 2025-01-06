@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:11:09.793539+00:00",
+  "created_at": "2025-01-06T18:44:16.270146+00:00",
   "objectID": "ae0ee8219247581696aadea2196a0f1d",
   "ref": "river-hamble-country-park-walking-route",
   "title": "River Hamble Country Park Walks",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae0ee8219247581696aadea2196a0f1d.gpx",
+  "_geoloc": {
+    "lat": 50.8974,
+    "lng": -1.2926
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/River_Hamble_-_geograph.org.uk_-_1375204.jpg",
@@ -53,5 +57,8 @@
   "description": "This country park and nature reserve is located in a lovely spot on the River Hamble in Hampshire. It's a fine place for a walk with bluebell woodland, pretty wildflowers, riverside trails and lots of wildlife including roe deer, curlews and skylarks. Within the park you'll also find Manor Farm and Country Park. The historic site includes 600 year old farm buildings and the 13th century St Bartholomew's church. You can also pick up the Strawberry Trail in the park.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/1meAac98F3Y?si=atF1kL7oHLuDW5kX",
-  "gazetteer_found": false
+  "county": "Hampshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T03:21:55.411307+00:00",
+  "created_at": "2025-01-06T19:04:46.962601+00:00",
   "objectID": "11f87e2a3b44309978dabb386cd806e7",
   "ref": "snowdonia-slate-trail-walking-route",
   "title": "Snowdonia Slate Trail Walking Route",
@@ -117,6 +117,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/11f87e2a3b44309978dabb386cd806e7.gpx",
+  "_geoloc": {
+    "lat": 53.233867,
+    "lng": -4.111744
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Penrhyn_Quarry_-_geograph.org.uk_-_1495778.jpg",
@@ -172,5 +176,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Smo_r2joKwU",
-  "gazetteer_found": false
+  "county": "Gwynedd - Gwynedd",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true
 }

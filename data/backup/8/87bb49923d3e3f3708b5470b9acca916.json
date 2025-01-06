@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T04:14:23.074486+00:00",
+  "created_at": "2025-01-06T19:05:23.361063+00:00",
   "objectID": "87bb49923d3e3f3708b5470b9acca916",
   "ref": "edins-hall-broch-walking-route",
   "title": "Edin's Hall Broch Walk Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/87bb49923d3e3f3708b5470b9acca916.gpx",
+  "_geoloc": {
+    "lat": 55.84107,
+    "lng": -2.33886
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Edin%E2%80%99s_Hall_Broch_-_geograph.org.uk_-_3814459.jpg?20220918100339",
@@ -53,5 +57,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/n5bjrKV22iM?si=A3JhubtjQ9SZSOYf",
-  "gazetteer_found": false
+  "county": "Scottish Borders",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

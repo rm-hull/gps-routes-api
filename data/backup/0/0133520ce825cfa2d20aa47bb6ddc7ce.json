@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:31:14.290451+00:00",
+  "created_at": "2025-01-06T19:00:36.381017+00:00",
   "objectID": "0133520ce825cfa2d20aa47bb6ddc7ce",
   "ref": "chesterfield-round-walking-route",
   "title": "Chesterfield Round Walk Route",
@@ -42,6 +42,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0133520ce825cfa2d20aa47bb6ddc7ce.gpx",
+  "_geoloc": {
+    "lat": 53.1908139,
+    "lng": -1.3814113
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/62/Williamthorpe_Ponds_%28middle_pond%29_-_geograph.org.uk_-_2031697.jpg?20210521013336",
@@ -78,5 +82,8 @@
   "description": "This circular walk explores the countryside, villages and lakes surrounding the Derbyshire town of Chesterfield. On the western side of the route you can enjoy some splendid views over the Peak District and a visit to the lovely Linacre Reservoirs. From the high points there are also fine views over the town. Other highlights include the wildlife rich Williamthorpe Ponds Nature Reserve and Grassmoor Country Park near the southern end of the route. On the eastern side there's some local historical interest at Sutton Scarsdale Hall. The Georgian ruined house is run by English Heritage and has a fascinating history. The walk is waymarked and runs for just over 33 miles so experienced walkers could complete it in a day. To continue your walking you enjoy a nice waterside stroll along the Chesterfield Canal .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/0OC2ynlkT1w?si=DXTpuD0UvgWEzqXn",
-  "gazetteer_found": false
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "England",
+  "gazetteer_found": true
 }

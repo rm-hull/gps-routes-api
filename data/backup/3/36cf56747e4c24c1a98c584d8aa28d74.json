@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T04:23:33.617013+00:00",
+  "created_at": "2025-01-06T18:48:15.015003+00:00",
   "objectID": "36cf56747e4c24c1a98c584d8aa28d74",
   "ref": "ballyboley-forest-walking-route",
   "title": "Ballyboley Forest Walk Route",
@@ -64,9 +64,18 @@
       "description": "Antrim Six Mile Water",
       "objectID": "de711208ae631b4d8d1738993e86a1a5",
       "ref": "antrim-six-mile-water-walking-and-cycle-route"
+    },
+    {
+      "description": "Tardree Forest",
+      "objectID": "9ad95e14c8f16a878f497ed989e1931d",
+      "ref": "tardree-forest-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/36cf56747e4c24c1a98c584d8aa28d74.gpx",
+  "_geoloc": {
+    "lat": 54.81941,
+    "lng": -5.9951
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ballyboley_forest_near_Larne_%2810%29_-_geograph.org.uk_-_533508.jpg",
@@ -110,7 +119,7 @@
     }
   ],
   "distance_km": 9.5,
-  "description": "This walk explore Ballyboley Forest near Ballyclare in County Antrim. The expansive forest is about a 30 minute drive north from Belfast so makes for a pleasant day trip from the city. The walk starts at the Kilylane Reservoir car park at the western side of the site. Here you can pick up some pleasant trails running along the water towards the woodland. There's a nice circular loop walk to follow along the forest tracks and the pretty Kilylane Burn. It's a peaceful place with lots of woodland birds and views of the Antrim Hills. To continue your walking in the area head a few miles south east to visit Woodburn Forest and Reservoirs in Carrickfergus.",
+  "description": "This walk explore Ballyboley Forest near Ballyclare in County Antrim. The expansive forest is about a 30 minute drive north from Belfast so makes for a pleasant day trip from the city. The walk starts at the Kilylane Reservoir car park at the western side of the site. Here you can pick up some pleasant trails running along the water towards the woodland. There's a nice circular loop walk to follow along the forest tracks and the pretty Kilylane Burn. It's a peaceful place with lots of woodland birds and views of the Antrim Hills. To continue your walking in the area head a few miles south east to visit Woodburn Forest and Reservoirs in Carrickfergus. There's more woodland trails in the nearby Tardree Forest too.",
   "details": [
     {
       "subtitle": "Further Information and Other Local Ideas",

@@ -25,3 +25,5 @@ for file in tqdm(list(walk_files("../data/backup")), desc="Extracting GPX", unit
         if resp.status_code == 200:
             with open(filename, "w") as fp:
                 fp.write(resp.text)
+        else:
+            print(f"Error fetching {gpx_url}: HTTP {resp.status_code}")

@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T00:47:34.949282+00:00",
+  "created_at": "2025-01-06T18:49:59.250203+00:00",
   "objectID": "282f14497a0b90eee9afbca0d4654af3",
   "ref": "horsford-woods-walking-route",
   "title": "Horsford Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Track_in_Horsford_Woods_-_geograph.org.uk_-_2287499.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/282f14497a0b90eee9afbca0d4654af3.gpx",
+  "_geoloc": {
+    "lat": 52.71211,
+    "lng": 1.23308
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Track_in_Horsford_Woods_-_geograph.org.uk_-_2287499.jpg",
@@ -64,5 +68,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/glSByRRYmfA",
-  "gazetteer_found": false
+  "postcode": "NR10 3EE",
+  "district": "Horsford",
+  "county": "Norfolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

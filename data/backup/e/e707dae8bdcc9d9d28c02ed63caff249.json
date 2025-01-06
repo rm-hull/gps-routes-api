@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T02:46:29.343122+00:00",
+  "created_at": "2025-01-06T18:59:43.649590+00:00",
   "objectID": "e707dae8bdcc9d9d28c02ed63caff249",
   "ref": "hubberholme-walking-route",
   "title": "Hubberholme and Langstrothdale Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg/512px-The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e707dae8bdcc9d9d28c02ed63caff249.gpx",
+  "_geoloc": {
+    "lat": 54.20006,
+    "lng": -2.11415
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg/512px-The_George_Inn%2C_Hubberholme_-_geograph.org.uk_-_3509461.jpg",
@@ -60,5 +64,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/86MNcPJ9gNA",
-  "gazetteer_found": false
+  "district": "Hubberholme",
+  "county": "North Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true
 }

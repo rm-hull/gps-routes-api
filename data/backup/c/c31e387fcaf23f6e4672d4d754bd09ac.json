@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:28:59.824185+00:00",
+  "created_at": "2025-01-06T19:04:26.791824+00:00",
   "objectID": "c31e387fcaf23f6e4672d4d754bd09ac",
   "ref": "porth-yr-ogof-walking-route",
   "title": "Porth Yr Ogof Waterfall Walk Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c31e387fcaf23f6e4672d4d754bd09ac.gpx",
+  "_geoloc": {
+    "lat": 51.79981,
+    "lng": -3.55601
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Porth_yr_Ogof_-_geograph.org.uk_-_1657608.jpg",
@@ -57,5 +61,9 @@
   "distance_km": 6.0,
   "description": "This walk visits the cave and waterfalls at Porth yr Ogof, near the village of Ystradfellte on the southern boundary of the Brecon Beacons National Park. The cave is located on the Afon Mellte at a point where the river travels for a short distance under ground. It's a an intriguing sight, though care must be taken if entering the murky cave. There is the Cwm Porth car park next to the cave where you can start the walk. From here you can follow a riverside path south towards a series of beautiful waterfalls. The circular trail visits 4 stunning falls on a series of woodland trails before returning to the car park. For an alternative walk through the area see the Four Waterfalls Walk page.",
   "details": [],
-  "gazetteer_found": false
+  "postcode": "CF44 9JF",
+  "county": "Powys - Powys",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true
 }

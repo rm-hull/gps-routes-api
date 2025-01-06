@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:29:35.499382+00:00",
+  "created_at": "2025-01-06T18:59:55.676090+00:00",
   "objectID": "ab4acd94f053b15b66d921ea92affa79",
   "ref": "steam-coast-trail-phase-2-walking-and-cycle-route",
   "title": "Steam Coast Trail Phase 2 Walking and Cycle Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ab4acd94f053b15b66d921ea92affa79.gpx",
+  "_geoloc": {
+    "lat": 51.16029,
+    "lng": -3.37828
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Steam_train_entering_cutting_just_past_Washford_Station_-_geograph.org.uk_-_943949.jpg",
@@ -28,5 +32,8 @@
   "description": "This is Phase 2 of the Steam Coast Trail running from Old Cleeve (Dragon's Cross) to Washford (Cobbler's Steps). The route runs along the West Somerset Coast Railway along a shared cycling and walking path. Please click here to see the Steam Coast Trail Phase 1 running from Dunster Beach to Blue Anchor .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ebuEDJ6QIJ8",
-  "gazetteer_found": false
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

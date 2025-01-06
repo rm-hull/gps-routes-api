@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T02:38:54.712924+00:00",
+  "created_at": "2025-01-06T18:43:37.210697+00:00",
   "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
   "ref": "tillicoultry-glen-walking-route",
   "title": "Tillicoultry\u00a0Glen Walk Route",
@@ -27,6 +27,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/311c9ce8da92b32a34a3ac2c9ea5ff24.gpx",
+  "_geoloc": {
+    "lat": 56.1538,
+    "lng": -3.74826
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Tillicoultry_Glen_Walkway_-_geograph.org.uk_-_5759020.jpg?20231118164643",
@@ -68,5 +72,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/g09aFo7MCIE?si=f_u-Iair5iPo3Z98",
-  "gazetteer_found": false
+  "postcode": "FK13 6AT",
+  "district": "Tillicoultry",
+  "county": "Clackmannanshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

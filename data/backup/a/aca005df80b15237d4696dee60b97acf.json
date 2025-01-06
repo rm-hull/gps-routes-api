@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T02:20:05.285834+00:00",
+  "created_at": "2025-01-06T19:01:59.710420+00:00",
   "objectID": "aca005df80b15237d4696dee60b97acf",
   "ref": "knockan-crag-walking-route",
   "title": "Knockan Crag Walk Route",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/aca005df80b15237d4696dee60b97acf.gpx",
+  "_geoloc": {
+    "lat": 58.0335,
+    "lng": -5.07085
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Knockan_Crag_-_geograph.org.uk_-_2971704.jpg?20211231051428",
@@ -58,5 +62,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/llA7jP9afm8?si=uWsVCgjw0y39VwdQ",
-  "gazetteer_found": false
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

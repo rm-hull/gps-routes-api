@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:00:30.507224+00:00",
+  "created_at": "2025-01-06T18:49:08.576966+00:00",
   "objectID": "14207eb591443fc4731cfb171e301ac0",
   "ref": "weardale-walk-walk",
   "title": "Weardale Walk Kent Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/14207eb591443fc4731cfb171e301ac0.gpx",
+  "_geoloc": {
+    "lat": 51.2476418,
+    "lng": 0.0815422
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/A_picture_of_Weardale_Manor_-_geograph.org.uk_-_4462446.jpg/512px-A_picture_of_Weardale_Manor_-_geograph.org.uk_-_4462446.jpg?20230226145404",
@@ -48,5 +52,8 @@
   "description": "This circular walk explores the National Trust area around Toys Hill and Octavia Hill in Kent. The waymarked trail visits the Weardale Manor Ruins where you can enjoy some splendid views over the area. You'll find an information panel here detailing the history of the manor. Weardale was a Tudor mansion owned by Lord and Lady Stanhope. The house fell into decline after Lord Stanhope died and was finally destroyed by a bomb in the Second World War. Today you can explore the ruins which include the old terrace. At the eastern end there's also the beautiful Emmetts Garden where you can see many exotic trees and shrubs from around the world. At the other end there's the historic historic Chartwell House with its fine parkland and gardens.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/e6NqQABzvTw?si=teq63wfpv6oICrK-",
-  "gazetteer_found": false
+  "county": "Kent",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true
 }

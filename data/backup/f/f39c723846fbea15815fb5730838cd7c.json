@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T00:18:53.614296+00:00",
+  "created_at": "2025-01-06T19:04:53.838981+00:00",
   "objectID": "f39c723846fbea15815fb5730838cd7c",
   "ref": "madingley-hall-walking-route",
   "title": "Madingley Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Madingley_Hall_and_lake_-_geograph.org.uk_-_986964.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f39c723846fbea15815fb5730838cd7c.gpx",
+  "_geoloc": {
+    "lat": 52.22516,
+    "lng": 0.0369
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/Madingley_Hall_and_lake_-_geograph.org.uk_-_986964.jpg",
@@ -56,5 +60,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/0pzUGnZwjvY",
-  "gazetteer_found": false
+  "postcode": "CB23 8AQ",
+  "county": "Cambridgeshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

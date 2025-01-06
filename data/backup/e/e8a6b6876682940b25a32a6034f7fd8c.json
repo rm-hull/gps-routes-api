@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:17:12.380656+00:00",
+  "created_at": "2025-01-06T18:48:55.630066+00:00",
   "objectID": "e8a6b6876682940b25a32a6034f7fd8c",
   "ref": "creag-meagaidh-walking-route",
   "title": "Creag Meagaidh Walk Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e8a6b6876682940b25a32a6034f7fd8c.gpx",
+  "_geoloc": {
+    "lat": 56.9521462,
+    "lng": -4.4962128
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lochan_a%27_Choire_-_geograph.org.uk_-_1580662.jpg?20110304001305",
@@ -48,5 +52,8 @@
   "description": "This circular walk follows the Creag Meagaidh Trail through a beautiful nature reserve on the northern side of Glen Spean in the Highlands of Scotland. The waymarked trail takes you to the summit of Creag Meagaidh mountain where you can enjoy some wonderful views over the surrounding mountains. The area is great for flora and fauna with several nationally important plant species present at the site. You can also look out for several species of bird including the dotterel, which is one of Britain's rarest birds. Also keep your eyes peeled for mountain hares and red, roe and sika deer. The reserve is located on the northern side of Loch Laggan where you can continue your walking along the lovely sandy beach at the eastern end.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/Ys6OBxhAtOM?si=N1kQo7ll5SO8g8t_",
-  "gazetteer_found": false
+  "county": "Highland",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

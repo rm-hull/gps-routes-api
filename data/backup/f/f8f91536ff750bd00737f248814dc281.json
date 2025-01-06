@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T00:22:50.891050+00:00",
+  "created_at": "2025-01-06T19:06:48.603670+00:00",
   "objectID": "f8f91536ff750bd00737f248814dc281",
   "ref": "cringleford-walking-route",
   "title": "Cringleford Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Vicarage%2C_Cringleford_-_geograph.org.uk_-_1969825.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f8f91536ff750bd00737f248814dc281.gpx",
+  "_geoloc": {
+    "lat": 52.60764,
+    "lng": 1.24869
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/The_Vicarage%2C_Cringleford_-_geograph.org.uk_-_1969825.jpg",
@@ -46,5 +50,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/JqL7KPZxxI4",
-  "gazetteer_found": false
+  "district": "Norwich",
+  "county": "Norfolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

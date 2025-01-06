@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-05T23:45:05.789770+00:00",
+  "created_at": "2025-01-06T18:51:43.062876+00:00",
   "objectID": "e659902d3711d355043b9e9d71193314",
   "ref": "adstone-hill-walking-route",
   "title": "Adstone Hill Walk Route",
@@ -77,6 +77,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e659902d3711d355043b9e9d71193314.gpx",
+  "_geoloc": {
+    "lat": 52.562634,
+    "lng": -2.8962854
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Adstone_Hill_-_geograph.org.uk_-_3107408.jpg/512px-Adstone_Hill_-_geograph.org.uk_-_3107408.jpg?20220122191348",
@@ -128,5 +132,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/bJqPkOO_G8o?si=o4hqdFpKEKp2r0Zu",
-  "gazetteer_found": false
+  "county": "Shropshire",
+  "region": "West Midlands",
+  "country": "England",
+  "gazetteer_found": true
 }

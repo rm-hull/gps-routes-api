@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T11:08:29.901015+00:00",
+  "created_at": "2025-01-06T18:53:56.933810+00:00",
   "objectID": "4ecfa22cf60764cf9e49c60c37d19018",
   "ref": "abbots-langley-walking-route",
   "title": "Abbots Langley and Leavesden Country Park Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Manor_House_Grounds%2C_Gallows_Hill_Lane%2C_WD5_-_geograph.org.uk_-_3053390.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4ecfa22cf60764cf9e49c60c37d19018.gpx",
+  "_geoloc": {
+    "lat": 51.70387,
+    "lng": -0.40451
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Manor_House_Grounds%2C_Gallows_Hill_Lane%2C_WD5_-_geograph.org.uk_-_3053390.jpg",
@@ -31,5 +35,10 @@
   "description": "This large Hertfordshire village is located near Watford. This walk in the village visits Leavesden Country Park where you will find some pleasant walking and cycling trails. The park is split into two sections with the south side the best for a walk. This includes 50 acres of typical English parkland with a variety of apple trees, a pergola and the largest Monkey Puzzle tree in Hertfordshire. The north side includes two children\u2019s play areas, three football pitches, an adult outdoor gym, a BMX track and over 20 acres of woodland area. You can start your walk from the free car park and then pick up the well laid out trails. To continue your walking in the area head east to vist Bricket Wood Common where there's miles of woodland and heathland trails. To the west you can enjoy an easy waterside walk along the Grand Union Canal Walk. You could follow the trail south to visit the lovely Cassiobury Park and the wildlife rich Whippendell Woods. Heading north would take you to Hemel Hempstead with views of the River Gade on the way.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/JhnEwn0vQ8Y",
-  "gazetteer_found": false
+  "postcode": "WD5 0GU",
+  "district": "Abbots Langley",
+  "county": "Hertfordshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

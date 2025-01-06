@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T01:28:28.210096+00:00",
+  "created_at": "2025-01-06T18:42:03.108582+00:00",
   "objectID": "c31ac489197f56118bab56796509c29d",
   "ref": "menstrie-glen-walking-route",
   "title": "Menstrie Glen Walk Route",
@@ -27,6 +27,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c31ac489197f56118bab56796509c29d.gpx",
+  "_geoloc": {
+    "lat": 56.15151,
+    "lng": -3.85369
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Menstrie_Glen_-_geograph.org.uk_-_2600590.jpg?20210910061337",
@@ -68,5 +72,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Zh2KdJ00BwY?si=qBXW0-eHThckopyb",
-  "gazetteer_found": false
+  "postcode": "FK11 7BH",
+  "district": "Menstrie",
+  "county": "Clackmannanshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

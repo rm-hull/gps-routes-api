@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-05T23:39:14.275737+00:00",
+  "created_at": "2025-01-06T18:42:37.246364+00:00",
   "objectID": "245fa70afc011435f81020ea71f45d8a",
   "ref": "polden-way-walking-route",
   "title": "Polden Hills Way Walk Route",
@@ -72,6 +72,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/245fa70afc011435f81020ea71f45d8a.gpx",
+  "_geoloc": {
+    "lat": 51.11416,
+    "lng": -2.77027
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Grassland%2C_with_windmill%2C_Walton_Hill%2C_Polden_Hills%2C_Somerset_%28geograph_2806755%29.jpg",
@@ -127,5 +131,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/xp3auqpfoxk",
-  "gazetteer_found": false
+  "postcode": "BA16 9RD",
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

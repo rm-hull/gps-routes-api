@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:11:00.714647+00:00",
+  "created_at": "2025-01-06T18:51:05.235233+00:00",
   "objectID": "eef22913bbe57496d64e283ad71be957",
   "ref": "haughton-dale-nature-reserve-walking-route",
   "title": "Haughton Dale Nature Reserve Walking Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eef22913bbe57496d64e283ad71be957.gpx",
+  "_geoloc": {
+    "lat": 53.44026,
+    "lng": -2.09243
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg/512px-Footpath_in_Haughton_Dale_-_geograph.org.uk_-_3649323.jpg",
@@ -48,5 +52,9 @@
   "description": "This walk visits the Haughton Dale Nature Reserve in the village of Haughton Green in Tameside. In the reserve you can enjoy ancient woodland trails, scenic meadows and riverside paths along the River Tame. Highlights include the bluebells in spring and a variety of wildlife including woodpeckers, owls, buzzards, bullfinches and nuthatches. The Tameside Trail passes through the reserve providing an opportunity to extend your walk along the river. One nice idea is to follow it west to visit Reddish Vale Country Park where there are some fine walking and cycling trails to try. The Peak Forest Canal can also be picked up on the southern side of the park.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ncbAS-O6vq4",
-  "gazetteer_found": false
+  "postcode": "M34 7GS",
+  "district": "Denton",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

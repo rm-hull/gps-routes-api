@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:54:26.201958+00:00",
+  "created_at": "2025-01-06T19:06:51.717466+00:00",
   "objectID": "a8da7399b3f410bbd42272f0c0f8ff03",
   "ref": "fowlsheugh-walking-route",
   "title": "Fowlsheugh Walk Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a8da7399b3f410bbd42272f0c0f8ff03.gpx",
+  "_geoloc": {
+    "lat": 56.91105,
+    "lng": -2.20008
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Fowlsheugh_Cliff_Viewpoint.jpg/512px-Fowlsheugh_Cliff_Viewpoint.jpg?20240731145304",
@@ -38,5 +42,9 @@
   "description": "This circular walk takes you around RSPB Fowlsheugh on the Kincardineshire coast in Crawton, near Stonehaven. The reserve includes some wonderful cliff top paths and a wide variety of seabirds. Look out for nesting puffins, razorbills, kittiwakes, fulmars and guillemots as you make your way around the site. You may also see grey seals, dolphins and minke whales in the waters below. There is a car park where you can pick up the trails to create a circular walk using the coastal paths and the quiet lanes. You can continue your walking in the area on the Stonehaven to Dunnottar Castle Walk or the Dunnottar Woods Walk .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/i4dBX0TyQBE?si=AT6x6v35zdLXnB6z",
-  "gazetteer_found": false
+  "postcode": "AB39 2TP",
+  "county": "Aberdeenshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

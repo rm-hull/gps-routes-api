@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T09:03:09.218507+00:00",
+  "created_at": "2025-01-06T19:03:35.872481+00:00",
   "objectID": "dbe4faf3aa82e6fb97e7d53441f11550",
   "ref": "witton-weavers-way-walking-route",
   "title": "Witton Weavers Way Walking Route",
@@ -67,6 +67,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dbe4faf3aa82e6fb97e7d53441f11550.gpx",
+  "_geoloc": {
+    "lat": 53.7399203835,
+    "lng": -2.5173588762
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Witton_Weavers_Way_-_geograph.org.uk_-_450062.jpg",
@@ -122,5 +126,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/czAzQcRj0Bo",
-  "gazetteer_found": false
+  "county": "Blackburn with Darwen",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

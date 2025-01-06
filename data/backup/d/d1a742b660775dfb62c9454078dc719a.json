@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:07:45.704305+00:00",
+  "created_at": "2025-01-06T18:46:46.401506+00:00",
   "objectID": "d1a742b660775dfb62c9454078dc719a",
   "ref": "whelnetham-railway-walk-walking-route",
   "title": "Whelnetham Railway Walk Route",
@@ -32,6 +32,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1a742b660775dfb62c9454078dc719a.gpx",
+  "_geoloc": {
+    "lat": 52.1985149,
+    "lng": 0.7710105
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Footpath_to_Little_Whelnetham_-_geograph.org.uk_-_1379733.jpg?20110228144800",
@@ -78,5 +82,9 @@
   "description": "An easy waymarked walk along the old railway line in the village of Little Whelnetham in West Suffolk. From the pleasant, grassy path there are some nice views of the surrounding countryside. The route runs along the old Long Melford\u2013Bury St Edmunds branch line. The railway ran between Long Melford on the Stour Valley Railway and Bury St Edmunds on the Ipswich to Ely Line. The line opened on 9 August 1865 and closed to passengers on 10 April 1961 and freight on 19 April 1965. To extend your walking head north west to visit the lovely Nowton Park .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/7raPOBW1bTA?si=GoU1rpjZehg8Ms3z",
-  "gazetteer_found": false
+  "postcode": "IP30 0DS",
+  "county": "Suffolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

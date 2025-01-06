@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:14:06.312255+00:00",
+  "created_at": "2025-01-06T18:42:58.199303+00:00",
   "objectID": "c657b032f9727bfe89ca3e1b87979208",
   "ref": "fenns-whixall-and-bettisfield-mosses-walking-route",
   "title": "Fenns, Whixall and Bettisfield Mosses Walks",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c657b032f9727bfe89ca3e1b87979208.gpx",
+  "_geoloc": {
+    "lat": 52.90832,
+    "lng": -2.77418
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Whixall_Moss_-_geograph.org.uk_-_190814.jpg/256px-Whixall_Moss_-_geograph.org.uk_-_190814.jpg",
@@ -63,5 +67,9 @@
   "description": "This walk explores the Fenns, Whixall and Bettisfield Mosses National Nature Reserve near Whixall in Shropshire and Bettisfield in Wales. The reserve includes some pleasant footpaths taking you around the three peat bogs. Other features include lakes, heathland and bluebell woodland. On the way you can look out for a wide variety of flora and fauna including dragonfly, damselfly and butterflies. Birds include curlew, curlew, teal, shoveller and hen harrier. This circular walk starts from the World's End car park at Bettisfield Moss, just east of Bettisfield. From here you can pick up trails heading to the Bettisfield Windmill before heading into Whixall Moss and Fenn's Moss. The Llangollen Canal passes along the reserve so you could extend your walk by picking up the towpath. Head south west for a couple of miles and you could visit Colemere Country Park where there's a lovely lake and more birdlife to see.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ojCyiPl22NE",
-  "gazetteer_found": false
+  "postcode": "SY13 2QE",
+  "county": "Shropshire",
+  "region": "West Midlands",
+  "country": "England",
+  "gazetteer_found": true
 }

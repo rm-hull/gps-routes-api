@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T08:05:14.689367+00:00",
+  "created_at": "2025-01-06T19:03:42.072628+00:00",
   "objectID": "b58f701763a404cb323051f07cc3b728",
   "ref": "fairlie-glen-circular-walk",
   "title": "Fairlie Glen Circular Walk Route",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b58f701763a404cb323051f07cc3b728.gpx",
+  "_geoloc": {
+    "lat": 55.75268,
+    "lng": -4.85366
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Fairlie_Glen_-_geograph.org.uk_-_173873.jpg?20100131134808",
@@ -48,5 +52,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/XdLtuKgVn9s?si=VdgusWuqAdAddZkJ",
-  "gazetteer_found": false
+  "postcode": "KA29 0DJ",
+  "district": "Fairlie",
+  "county": "North Ayrshire",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

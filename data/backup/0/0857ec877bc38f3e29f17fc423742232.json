@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T00:25:06.219067+00:00",
+  "created_at": "2025-01-06T18:47:01.735647+00:00",
   "objectID": "0857ec877bc38f3e29f17fc423742232",
   "ref": "baiter-park-walking-and-cycle-route",
   "title": "Baiter Park, Whitecliff Park and Parkstone Bay Walking and Cycle Route",
@@ -32,6 +32,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0857ec877bc38f3e29f17fc423742232.gpx",
+  "_geoloc": {
+    "lat": 50.713496,
+    "lng": -1.956099
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Baiter_slipway%2C_Poole_Harbour_-_geograph.org.uk_-_388852.jpg",
@@ -86,5 +90,10 @@
       "content": "Baiter is a great place for dog walking with wide lawns next to the footpaths where your dog can run around."
     }
   ],
-  "gazetteer_found": false
+  "postcode": "BH14 8EW",
+  "district": "Poole",
+  "county": "Bournemouth, Christchurch and Poole",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

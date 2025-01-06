@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T01:51:06.473014+00:00",
+  "created_at": "2025-01-06T19:04:32.825219+00:00",
   "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
   "ref": "hafod-estate-walking-route",
   "title": "Hafod Estate Walks",
@@ -32,6 +32,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/57838da3fb5aaeb7ebc414bfb4065a43.gpx",
+  "_geoloc": {
+    "lat": 52.3472,
+    "lng": -3.81
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/512px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
@@ -87,5 +91,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/UbjjJnoBwuo",
-  "gazetteer_found": false
+  "county": "Sir Ceredigion - Ceredigion",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true
 }

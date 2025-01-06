@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:14:11.663032+00:00",
+  "created_at": "2025-01-06T18:49:45.923845+00:00",
   "objectID": "a11c2d073f98097c5398161d2f049df0",
   "ref": "dooagh-loop-walk-walk",
   "title": "Dooagh Loop Walk Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a11c2d073f98097c5398161d2f049df0.gpx",
+  "_geoloc": {
+    "lat": 53.9742538,
+    "lng": -10.1257388
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/View_of_Dooagh_and_Croaghaun_-_geograph.org.uk_-_918126.jpg?20110222003518",
@@ -66,7 +70,7 @@
   ],
   "distance_km": 4.6,
   "description": "This circular walk explores the area around the village of Dooagh on Achill Island in County Mayo. The waymarked trail runs for about 4.5km with some wonderful views over the beautiful Keem Bay, the Dingle peninsula and the surrounding Achill mountains and countryside. You can continue your walking around the island by heading east to the Valley Loop Walk. There's also the beautiful beach at the horseshoe-shaped Keem Bay and the wonderful viewpoint at Minaun Heights .",
+  "details": [],
   "video_url": "https://www.youtube.com/embed/OnMvEME1KZs?si=6f95ROqBQSlm_KbU",
-  "gazetteer_found": false,
-  "details": []
+  "gazetteer_found": false
 }

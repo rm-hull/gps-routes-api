@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T08:05:17.639816+00:00",
+  "created_at": "2025-01-06T19:04:04.480989+00:00",
   "objectID": "fe04265eb3813aa7d306dff666c486dd",
   "ref": "silverdale-country-park-walking-and-cycle-route",
   "title": "Silverdale Country Park Walking and Cycle Route",
@@ -27,6 +27,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fe04265eb3813aa7d306dff666c486dd.gpx",
+  "_geoloc": {
+    "lat": 53.02038,
+    "lng": -2.28802
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lakes_near_Black_Bank_-_geograph.org.uk_-_400560.jpg",
@@ -72,5 +76,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/WBNnBykHwJg",
-  "gazetteer_found": false
+  "district": "Newcastle-under-Lyme",
+  "county": "Staffordshire",
+  "region": "West Midlands",
+  "country": "England",
+  "gazetteer_found": true
 }

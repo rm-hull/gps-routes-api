@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:35:13.574786+00:00",
+  "created_at": "2025-01-06T19:00:51.960270+00:00",
   "objectID": "346ebdad15e762ec8c6608d0ba1125b0",
   "ref": "combestone-tor-walking-route",
   "title": "Combestone Tor Walk Route",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/346ebdad15e762ec8c6608d0ba1125b0.gpx",
+  "_geoloc": {
+    "lat": 50.53061,
+    "lng": -3.87788
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Combestone_Tor%2C_Dartmoor_%2834331632361%29.jpg/512px-Combestone_Tor%2C_Dartmoor_%2834331632361%29.jpg",
@@ -43,5 +47,8 @@
   "description": "This circular walk visits Combestone Tor in the Dartmoor National Park. There is a car park next to the tor where you can start your walk. Footpaths can then be followed along the Holne Moor Leat to create a lovely circular walk. On the route you will pass some impressive rock formations and enjoy fantastic views over the surrounding Dartmoor countryside and hills. The walk can be extended by heading north to the river trails at Dartmeet and the climb to Yar Tor. The lakeside trails at Venford Reservoir lie just to the east.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/74QB-oCGolM?si=nkhob5UJyBKbp5YA",
-  "gazetteer_found": false
+  "county": "Devon",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

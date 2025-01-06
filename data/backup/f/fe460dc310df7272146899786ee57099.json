@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T10:27:56.721478+00:00",
+  "created_at": "2025-01-06T19:06:12.437723+00:00",
   "objectID": "fe460dc310df7272146899786ee57099",
   "ref": "beetley-and-hoe-rough-walking-route",
   "title": "Beetley and Hoe Rough Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/View_west_along_stream_-_geograph.org.uk_-_1310215.jpg?20110227185406",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fe460dc310df7272146899786ee57099.gpx",
+  "_geoloc": {
+    "lat": 52.7131637,
+    "lng": 0.9274304
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/View_west_along_stream_-_geograph.org.uk_-_1310215.jpg?20110227185406",
@@ -41,5 +45,10 @@
   "description": "This circular walk explores the Hoe Rough and Beetley Meadows Nature Reserve near the village of Beetley in the Breckland district of Norfolk. You can pick up the waymarked trail just south of Beetley and follow it east through the reserve. Here you will find peaceful riverside trails with wildlife such as otter, water vole and great crested newt to see. There is a car park at the route start giving access to the trails. After exploring the reserve the trail then heads through the countryside to Hoe village. To continue your walking in the area head west to Gressenhall to pick up the Wendling Way. Part of the walk also uses a section of the Wensum Way. Please scroll down for the full list of walks near and around Beetley. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/ZOMJYwoWa6g?si=0jTgdwStRinRUFSl",
-  "gazetteer_found": false
+  "postcode": "NR20 4BL",
+  "district": "Beetley",
+  "county": "Norfolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

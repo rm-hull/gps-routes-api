@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T01:27:37.372768+00:00",
+  "created_at": "2025-01-06T19:03:48.277304+00:00",
   "objectID": "5cfa90f816c54ea30d634b1443b57fe9",
   "ref": "borth-y-gest-walking-route",
   "title": "Borth-Y-Gest Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/512px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5cfa90f816c54ea30d634b1443b57fe9.gpx",
+  "_geoloc": {
+    "lat": 52.91581,
+    "lng": -4.13616
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg/512px-Borth-y-Gest_harbour_-_geograph.org.uk_-_2461295.jpg",
@@ -56,5 +60,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/5XxEgbxtC5g",
-  "gazetteer_found": false
+  "district": "Borth-y-Gest",
+  "county": "Gwynedd - Gwynedd",
+  "region": "Wales",
+  "country": "Wales",
+  "gazetteer_found": true
 }

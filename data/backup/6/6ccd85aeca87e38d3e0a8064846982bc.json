@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T04:41:44.235831+00:00",
+  "created_at": "2025-01-06T18:52:41.265575+00:00",
   "objectID": "6ccd85aeca87e38d3e0a8064846982bc",
   "ref": "glenoe-waterfall-walking-route",
   "title": "Glenoe Waterfall Walk Route",
@@ -44,9 +44,18 @@
       "description": "Carrickfergus",
       "objectID": "10dcb656611444897e8e0a16304be164",
       "ref": "carrickfergus-walking-route"
+    },
+    {
+      "description": "Tardree Forest",
+      "objectID": "9ad95e14c8f16a878f497ed989e1931d",
+      "ref": "tardree-forest-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6ccd85aeca87e38d3e0a8064846982bc.gpx",
+  "_geoloc": {
+    "lat": 54.79992,
+    "lng": -5.83223
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Autumn_at_Glenoe_2010-3_-_geograph.org.uk_-_2136496.jpg",
@@ -74,7 +83,7 @@
   "details": [
     {
       "subtitle": "Further Information and Other Local Ideas",
-      "content": "To the south there's the Woodburn Forest near Carrickfergus. Here you'll find miles of good woodland trails and a number of attractive reservoirs. Head east and you could visit the Blackhead Lighthouse. There's some fine coastal trails around the lighthouse with views over the Belfast Lough. The popular and dramatic Gobbins Cliff Path can also be picked up in this area. To the south west there's the wonderful viewpoints at Cave Hill Country Park, Belfast Castle and Black Mountain to explore. To the north west there's Ballyboley Forest where you'll find more peaceful woodland trails and waterside walks along the Kilylane Reservoir."
+      "content": "To the south there's the Woodburn Forest near Carrickfergus. Here you'll find miles of good woodland trails and a number of attractive reservoirs. Head east and you could visit the Blackhead Lighthouse. There's some fine coastal trails around the lighthouse with views over the Belfast Lough. The popular and dramatic Gobbins Cliff Path can also be picked up in this area. To the south west there's the wonderful viewpoints at Cave Hill Country Park, Belfast Castle and Black Mountain to explore. To the north west there's Ballyboley Forest where you'll find more peaceful woodland trails and waterside walks along the Kilylane Reservoir. Tardree Forest can also be found in this area."
     }
   ],
   "video_url": "https://www.youtube.com/embed/BdO58f65IXk?si=aKyPxi05q_6lL_TC",

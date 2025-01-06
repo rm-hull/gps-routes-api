@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T00:22:57.002604+00:00",
+  "created_at": "2025-01-06T18:51:30.211063+00:00",
   "objectID": "6de773f19e5e64d26b1c817fa9f0944c",
   "ref": "dean-village-walking-route",
   "title": "Water of Leith Walkway Dean Village Route",
@@ -32,6 +32,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6de773f19e5e64d26b1c817fa9f0944c.gpx",
+  "_geoloc": {
+    "lat": 55.95206,
+    "lng": -3.21748
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Dean_Village_-_geograph.org.uk_-_55517.jpg",
@@ -83,5 +87,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/thu5o6ICgIo",
-  "gazetteer_found": false
+  "postcode": "EH4 3BG",
+  "district": "Edinburgh",
+  "county": "City of Edinburgh",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

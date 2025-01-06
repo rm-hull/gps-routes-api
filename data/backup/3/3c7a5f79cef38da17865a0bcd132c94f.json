@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T10:57:13.504074+00:00",
+  "created_at": "2025-01-06T18:45:19.357884+00:00",
   "objectID": "3c7a5f79cef38da17865a0bcd132c94f",
   "ref": "argyll-forest-park-walking-route",
   "title": "Argyll Forest Park Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/512px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3c7a5f79cef38da17865a0bcd132c94f.gpx",
+  "_geoloc": {
+    "lat": 56.01225,
+    "lng": -4.97381
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Puck%27s_Glen_20170416_1027.jpg/512px-Puck%27s_Glen_20170416_1027.jpg?20170419174251",
@@ -41,5 +45,8 @@
   "description": "This expansive forest park is located on the Cowal Peninsula in Argyll and Bute, Scottish Highlands. This circular walk in the park visits Pucks Glen and Benmore Botanical Gardens before a walk along the River Eachaig. The walk starts at the car park in Puck's Glen. From here you can pick up tracks through the delightful glen with its pretty burn and waterfalls. The walk then heads north to visit the beautiful Benmore Botanical Gardens, one of the real highlights of the area. After exploring the gardens the walk then heads along the River Eachaig with some fine views over the water to the surrounding hills. You can continue your walking through the nearby Glen Massan. Please scroll down for the full list of walks near and around Argyll Forest Park. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/8uTpFqW8gQY?si=aYKFKlJYvo2eM9C1&start=134",
-  "gazetteer_found": false
+  "county": "Argyll and Bute",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

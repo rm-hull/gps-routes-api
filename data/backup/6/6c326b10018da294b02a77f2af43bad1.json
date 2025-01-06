@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T11:01:21.997017+00:00",
+  "created_at": "2025-01-06T18:52:07.906373+00:00",
   "objectID": "6c326b10018da294b02a77f2af43bad1",
   "ref": "dormansland-four-counties-walking-route",
   "title": "Dormansland Four Counties Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/512px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6c326b10018da294b02a77f2af43bad1.gpx",
+  "_geoloc": {
+    "lat": 51.1607412,
+    "lng": 0.0257446
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg/512px-The_Royal_Oak%2C_Public_House%2C_Dormansland_-_geograph.org.uk_-_2506835.jpg?20210822082639",
@@ -30,5 +34,8 @@
   "distance_km": 8.9,
   "description": "This circular walk explores the area around the Surrey village of Dormansland. The walk visits 4 different counties including Surrey, Kent, West Sussex and East Sussex. The waymarked trail uses footpaths and bridleways to explore the local countryside and woodland. It links with both the Sussex Border Path and the Vanguard Way if you would like to continue your outing. Please scroll down for the full list of walks near and around Dormansland. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
   "details": [],
-  "gazetteer_found": false
+  "county": "Surrey",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true
 }

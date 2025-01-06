@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T08:46:18.676990+00:00",
+  "created_at": "2025-01-06T18:51:24.049874+00:00",
   "objectID": "ec94f8c58f45d688851bd7db130d3e60",
   "ref": "ballyconnell-canal-walk",
   "title": "Ballyconnell Canal Walk Route",
@@ -29,9 +29,18 @@
       "description": "Ballinamore Canal Walk",
       "objectID": "98d04a210aca59b1c01f160d7619b2d2",
       "ref": "ballinamore-canal-walk"
+    },
+    {
+      "description": "Crom Castle",
+      "objectID": "24111c778d913993e4c563cd22bfb417",
+      "ref": "crom-castle-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ec94f8c58f45d688851bd7db130d3e60.gpx",
+  "_geoloc": {
+    "lat": 54.1153809,
+    "lng": -7.5826071
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sailing_on_the_Woodford_canal_-_geograph.org.uk_-_2914068.jpg?20211221064104",

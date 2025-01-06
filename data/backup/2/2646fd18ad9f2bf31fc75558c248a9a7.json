@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T00:02:00.644037+00:00",
+  "created_at": "2025-01-06T18:51:14.402670+00:00",
   "objectID": "2646fd18ad9f2bf31fc75558c248a9a7",
   "ref": "beverley-westwood-walking-route",
   "title": "Beverley Westwood Walk Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2646fd18ad9f2bf31fc75558c248a9a7.gpx",
+  "_geoloc": {
+    "lat": 53.84365,
+    "lng": -0.44043
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Beverley_Westwood_Pasture_-_geograph.org.uk_-_1315341.jpg",
@@ -81,5 +85,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/H4ndSqZdcJs?si=CuGNbRgoANYdTpLX",
-  "gazetteer_found": false
+  "postcode": "HU17 8GA",
+  "district": "Beverley",
+  "county": "East Riding of Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true
 }

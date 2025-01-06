@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:51:39.489285+00:00",
+  "created_at": "2025-01-06T18:42:43.031091+00:00",
   "objectID": "be8ed02e9cbf84d116eb2f6aec65a53a",
   "ref": "elgin-walking-route",
   "title": "Elgin River Walk Route",
@@ -12,6 +12,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/be8ed02e9cbf84d116eb2f6aec65a53a.gpx",
+  "_geoloc": {
+    "lat": 57.6523,
+    "lng": -3.31599
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_River_Lossie_in_Elgin_-_geograph.org.uk_-_2053306.jpg",
@@ -48,5 +52,9 @@
   "description": "This circular walk takes you along the River Lossie to visit the ruins of Elgin Cathedral. You'll also explore the pretty Cooper Park with its walking trails and lake. The walk starts in the town centre next to the bridge over the river. You can then head east along the river to the historic cathedral. The medieval cathedral is known as the \u2018Lantern of the North\u2019 and includes some extensive ruins to explore. The walk then takes you through the pleasant Cooper Park where there is a Boating pond and a Biblical garden. There is a car park here as well. You can continue your walking in the area by heading east to visit the remote Loch Oire .",
   "details": [],
   "video_url": "https://www.youtube.com/embed/fHRoGDfYPyg?si=IxB2t6Y7jlbLmSAe",
-  "gazetteer_found": false
+  "district": "Elgin",
+  "county": "Moray",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

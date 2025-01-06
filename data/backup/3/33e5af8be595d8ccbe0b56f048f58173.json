@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-05T23:52:24.267199+00:00",
+  "created_at": "2025-01-06T18:44:29.160058+00:00",
   "objectID": "33e5af8be595d8ccbe0b56f048f58173",
   "ref": "dunbar-bear-walking-route",
   "title": "Dunbar Bear Walk Route",
@@ -48,10 +48,14 @@
     {
       "description": "Seacliff Beach",
       "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
-      "ref": "seacliff beach-walking-route"
+      "ref": "seacliff\u00a0beach-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33e5af8be595d8ccbe0b56f048f58173.gpx",
+  "_geoloc": {
+    "lat": 55.99061,
+    "lng": -2.51048
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg/256px-FREE_Andy_Scott_Giant_Bear_Sculpture_Dunbar_MED_RES_01.jpg",
@@ -73,5 +77,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/6xktISmneVk",
-  "gazetteer_found": false
+  "postcode": "EH42 1BF",
+  "district": "Dunbar",
+  "county": "East Lothian",
+  "region": "Scotland",
+  "country": "Scotland",
+  "gazetteer_found": true
 }

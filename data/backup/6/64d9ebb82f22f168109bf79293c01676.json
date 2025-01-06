@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T02:04:24.133232+00:00",
+  "created_at": "2025-01-06T18:42:23.946252+00:00",
   "objectID": "64d9ebb82f22f168109bf79293c01676",
   "ref": "sandford-on-thames-walking-route",
   "title": "Sandford on Thames Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sandford_Lock_-_geograph.org.uk_-_3401200.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/64d9ebb82f22f168109bf79293c01676.gpx",
+  "_geoloc": {
+    "lat": 51.70839,
+    "lng": -1.2321
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Sandford_Lock_-_geograph.org.uk_-_3401200.jpg",
@@ -56,5 +60,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/qolbag4tWpM",
-  "gazetteer_found": false
+  "postcode": "OX4 4YE",
+  "district": "Sandford-on-Thames",
+  "county": "Oxfordshire",
+  "region": "South East",
+  "country": "England",
+  "gazetteer_found": true
 }

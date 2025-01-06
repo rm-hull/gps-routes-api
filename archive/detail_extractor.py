@@ -78,15 +78,27 @@ class DetailExtractor:
                 self.result["gpx_url"] = url
 
                 try:
+                    object_id = self.result["objectID"]
                     payload = requests.get(url).text
+                    with open(f"../data/routes/{object_id[0]}/{object_id}.gpx", "w") as fp:
+                        fp.write(payload)
+
                     gpx = gpxpy.parse(payload)
                     if gpx.routes:
                         self.result["_geoloc"] = {
                             "lat": gpx.routes[0].points[0].latitude,
                             "lng": gpx.routes[0].points[0].longitude,
                         }
-                except:
-                    pass  # TODO: add logging
+                    elif gpx.tracks:
+                        self.result["_geoloc"] = {
+                            "lat": gpx.tracks[0].segments[0].points[0].latitude,
+                            "lng": gpx.tracks[0].segments[0].points[0].longitude,
+                        }
+                    else:
+                        print(f"No routes found in GPX file: {gpx}")
+
+                except Exception as e:
+                    print("Failed to process URL: ", e)
 
     def extract_photos(self):
         image_containers = self.soup.find_all("div", class_="thumbnail")

@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:51:15.577074+00:00",
+  "created_at": "2025-01-06T18:41:46.665136+00:00",
   "objectID": "10d948626238da3f0a4583f2959b3be7",
   "ref": "perranporth-railway-walk",
   "title": "Perranporth Railway Walk Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/10d948626238da3f0a4583f2959b3be7.gpx",
+  "_geoloc": {
+    "lat": 50.34561,
+    "lng": -5.15022
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Walkers_at_Perranporth_-_geograph.org.uk_-_172896.jpg",
@@ -57,5 +61,10 @@
   "distance_km": 5.0,
   "description": "This walk from Perranporth takes you to Goonhavern along the old Truro and Newquay railway line. The route runs for about 3 miles following the Saints Trail east along the dismantled track. On the way you will pass Bolingey, Cocks Viaduct and the old railway bridges. There's some nice views over the Cornish countryside to enjoy too. To extend your walking in the area you could pick up the Perranporth to St Agnes Walk .",
   "details": [],
-  "gazetteer_found": false
+  "postcode": "TR6 0LR",
+  "district": "Perranporth",
+  "county": "Cornwall",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T00:55:28.800806+00:00",
+  "created_at": "2025-01-06T18:42:40.137723+00:00",
   "objectID": "71897b89cecfc5dbc2270c56b83fce20",
   "ref": "tynemouth-walking-route",
   "title": "Tynemouth Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/512px-The_Collingwood_Monument_%2828576442291%29.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/71897b89cecfc5dbc2270c56b83fce20.gpx",
+  "_geoloc": {
+    "lat": 55.01561,
+    "lng": -1.41987
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/The_Collingwood_Monument_%2828576442291%29.jpg/512px-The_Collingwood_Monument_%2828576442291%29.jpg",
@@ -60,5 +64,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/IVHfWQ9muzc",
-  "gazetteer_found": false
+  "postcode": "NE30 4DB",
+  "district": "Tynemouth",
+  "region": "North East",
+  "country": "England",
+  "gazetteer_found": true
 }

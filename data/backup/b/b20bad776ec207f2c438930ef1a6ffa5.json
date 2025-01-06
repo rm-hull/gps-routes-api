@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T11:16:55.680503+00:00",
+  "created_at": "2025-01-06T18:44:07.466742+00:00",
   "objectID": "b20bad776ec207f2c438930ef1a6ffa5",
   "ref": "steam-coast-trail-walking-and-cycle-route",
   "title": "Steam Coast Trail Walking and Cycle Route",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b20bad776ec207f2c438930ef1a6ffa5.gpx",
+  "_geoloc": {
+    "lat": 51.19154,
+    "lng": -3.42591
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg/512px-Dunster_Beach_The_River_Avill_-_geograph.org.uk_-_4058150.jpg",
@@ -38,5 +42,8 @@
   "description": "The Steam Coast Trail is a series of shared cycling and walking trails around the Somerset coast near Dunster. The section shown below is Phase 1, running from Dunster Beach to Blue Anchor. You'll pass along a safe surfaced path running along the West Somerset Railway line. Along the way there's fine views of Dunster Beach with its nature reserve and wildlife. It's a nice easy ride for families to try. Please click here to see the Steam Coast Trail Phase 2 running from Old Cleeve to Washford.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/W_j5EOF6Slw",
-  "gazetteer_found": false
+  "county": "Somerset",
+  "region": "South West",
+  "country": "England",
+  "gazetteer_found": true
 }

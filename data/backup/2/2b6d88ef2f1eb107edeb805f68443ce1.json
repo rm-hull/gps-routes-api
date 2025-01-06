@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T02:34:20.011166+00:00",
+  "created_at": "2025-01-06T19:07:52.597042+00:00",
   "objectID": "2b6d88ef2f1eb107edeb805f68443ce1",
   "ref": "millstone-edge-walking-route",
   "title": "Millstone Edge Walk Route",
@@ -32,6 +32,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b6d88ef2f1eb107edeb805f68443ce1.gpx",
+  "_geoloc": {
+    "lat": 53.31721,
+    "lng": -1.62343
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surprise_View_Car_Park%2C_Peak_District_National_Park_-_geograph.org.uk_-_2655448.jpg/512px-Surprise_View_Car_Park%2C_Peak_District_National_Park_-_geograph.org.uk_-_2655448.jpg",
@@ -87,5 +91,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/iD2dVUPNJQM",
-  "gazetteer_found": false
+  "county": "Derbyshire",
+  "region": "East Midlands",
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T00:15:11.902510+00:00",
+  "created_at": "2025-01-06T18:46:25.070006+00:00",
   "objectID": "b17cfc6012e8c4c855b5f6d62ac368bc",
   "ref": "scafell-pike-walking-route",
   "title": "Scafell Pike Walk - Easiest Route Route",
@@ -27,6 +27,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b17cfc6012e8c4c855b5f6d62ac368bc.gpx",
+  "_geoloc": {
+    "lat": 54.45562,
+    "lng": -3.26242
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Scafell_from_Scafell_Pike_-_geograph.org.uk_-_535718.jpg",
@@ -78,5 +82,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Rbz5awNAQdw",
-  "gazetteer_found": false
+  "county": "Cumberland",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

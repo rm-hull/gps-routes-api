@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:48:20.935311+00:00",
+  "created_at": "2025-01-06T18:46:52.378099+00:00",
   "objectID": "acbe1acfa6e06f07542a036e2866c18c",
   "ref": "the-three-shires-way-walking-and-cycle-route",
   "title": "The Three Shires Way Walking and Cycle Route",
@@ -17,6 +17,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/acbe1acfa6e06f07542a036e2866c18c.gpx",
+  "_geoloc": {
+    "lat": 52.2978317601186,
+    "lng": -0.290569264984834
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Three_Shires_Way_-_geograph.org.uk_-_1552457.jpg",
@@ -63,5 +67,9 @@
   "description": "The Three Shires Way is a long distance bridleway which runs between Tathall End in north-east Buckinghamshire and Grafham Water in Cambridgeshire. The shared cycling and walking route traces the outline of ancient trackways and passes through a beautiful rural landscape. Along the way it skirts several small, historic villages, meanders through remnants of ancient woodland, and has many spectacular views. The route is (sometimes) signposted with the Three Shires Way logo and officially runs for 37 miles, though it's nearer 39 miles long if starting/finishing at the Grafham Water Car Park. I'd recommend cycling north to south (unless faced by a strong south or south-west wind), hence : Start at Grafham Water Car Park, Cambs : TL166680 Finish at Tathall End, Milton Keynes : SP820468 A circular route around Grafham Water is also available, which extends the total distance to almost 47 miles. It passes through Easton, Spaldwick, Covington, Shelton, Yielden, Knotting, Lavendon and Emberton before arriving at Tathall End. It is generally a quiet rural route, much of it on clay and very muddy at certain times of the year. Some parts are classified as a 'Byway Open to All Traffic' or a 'Road Used as a Public Path' (generally open April to October), and are therefore legally accessible by motor vehicles. These tracks can be very rutted indeed; a notable example is Forty Foot Lane. Beware! Note : Mapped on the 1:25,000 series Submitted by:Mark Worthington November 2008",
   "details": [],
   "video_url": "https://www.youtube.com/embed/8la5Z_CagYg",
-  "gazetteer_found": false
+  "postcode": "PE28 0BH",
+  "county": "Cambridgeshire",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

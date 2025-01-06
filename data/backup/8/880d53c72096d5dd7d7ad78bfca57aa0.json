@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T10:58:26.089400+00:00",
+  "created_at": "2025-01-06T19:00:16.702719+00:00",
   "objectID": "880d53c72096d5dd7d7ad78bfca57aa0",
   "ref": "west-windermere-way-walking-route",
   "title": "West Windermere Way Walking Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/880d53c72096d5dd7d7ad78bfca57aa0.gpx",
+  "_geoloc": {
+    "lat": 54.2691807,
+    "lng": -2.9700379
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Newby_Bridge_-_geograph.org.uk_-_2487625.jpg/512px-Newby_Bridge_-_geograph.org.uk_-_2487625.jpg?20210818075920",
@@ -58,5 +62,10 @@
   "description": "This new waymarked walk or cycle takes you along the south western side of Lake Windermere. The route starts at Newby Bridge and heads north to Lakeside, Finsthwaite and Stott Park. The purpose of the trail is to provide travel alternatives along the western shore of Windermere. It offers a safe walking route for families to enjoy the breathtaking views along the west side of Windermere and to access key visitor attractions in the area. By linking these attractions using the trail, people can extend their stay and explore the area without relying on a car. The route minimises road use and prioritises accessibility, making it suitable for walkers, families with young children and strollers, cyclists, and horse riders. On the route you can also take a small detour to visit High Dam where you'll find two pretty tarns and more excellent views of the surrounding fells. For a longer walk around the whole lake see the Windermere Way page.",
   "details": [],
   "video_url": "https://www.youtube.com/embed/D5n0AF33lE4?si=IEoWlmkSKGa4OBNi",
-  "gazetteer_found": false
+  "postcode": "LA12 8NB",
+  "district": "Newby Bridge",
+  "county": "Westmorland and Furness",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T03:44:18.885604+00:00",
+  "created_at": "2025-01-06T18:47:10.756147+00:00",
   "objectID": "fa7a8224780929ec4837602559642b9f",
   "ref": "taverham-mill-walking-route",
   "title": "Taverham Mill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Weir_pool_at_Taverham_Mill_-_geograph.org.uk_-_3962593.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fa7a8224780929ec4837602559642b9f.gpx",
+  "_geoloc": {
+    "lat": 52.6785214,
+    "lng": 1.1916727
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Weir_pool_at_Taverham_Mill_-_geograph.org.uk_-_3962593.jpg",
@@ -50,5 +54,9 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/nhL0ZibrOuQ",
-  "gazetteer_found": false
+  "postcode": "NR8 6TA",
+  "county": "Norfolk",
+  "region": "Eastern",
+  "country": "England",
+  "gazetteer_found": true
 }

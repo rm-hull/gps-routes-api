@@ -1,10 +1,14 @@
 {
-  "created_at": "2025-01-06T02:56:15.828549+00:00",
+  "created_at": "2025-01-06T18:50:50.318220+00:00",
   "objectID": "d022510952ba40c7d54c35daa9f9984e",
   "ref": "backbarrow-walking-route",
   "title": "Backbarrow Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Whitewater_Hotel%2C_Backbarrow_-_geograph.org.uk_-_2186466.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d022510952ba40c7d54c35daa9f9984e.gpx",
+  "_geoloc": {
+    "lat": 54.25815,
+    "lng": -2.98897
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Whitewater_Hotel%2C_Backbarrow_-_geograph.org.uk_-_2186466.jpg",
@@ -46,5 +50,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/ZCUaUAKbamw",
-  "gazetteer_found": false
+  "postcode": "LA12 8PX",
+  "district": "Backbarrow",
+  "county": "Westmorland and Furness",
+  "region": "North West",
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,5 +1,5 @@
 {
-  "created_at": "2025-01-06T09:46:51.433281+00:00",
+  "created_at": "2025-01-06T18:50:43.783336+00:00",
   "objectID": "79d0ae3f0aeee4be7ea8e681b662a137",
   "ref": "studley-park-and-fountains-abbey-walking-route",
   "title": "Studley Park and Fountains Abbey Walking Route",
@@ -22,6 +22,10 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/79d0ae3f0aeee4be7ea8e681b662a137.gpx",
+  "_geoloc": {
+    "lat": 54.282812,
+    "lng": -1.612791
+  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Studley_Park_-_geograph.org.uk_-_1262270.jpg",
@@ -81,5 +85,8 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/T-px_DcqZsw",
-  "gazetteer_found": false
+  "county": "North Yorkshire",
+  "region": "Yorkshire and the Humber",
+  "country": "England",
+  "gazetteer_found": true
 }
