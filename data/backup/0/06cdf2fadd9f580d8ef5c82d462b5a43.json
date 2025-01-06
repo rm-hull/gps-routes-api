@@ -70,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tardebigge_Flight_and_Reservoir_-_geograph.org.uk_-_314169.jpg",
       "title": "Paul Huntley / Tardebigge Flight & Reservoir",
-      "caption": "Tardebigge Flight & Reservoir. Serving the Worcester & Birmingham Canal, towards the top the Tardebigge Flight of 30 locks raising the canal up 220 just South East of Bromsgrove, Worcestershire"
+      "caption": "Tardebigge Flight & Reservoir. Serving the Worcester & Birmingham Canal, towards the top the Tardebigge Flight of 30 locks raising the canal up 220\u0092 just South East of Bromsgrove, Worcestershire"
     }
   ],
   "distance_km": 50.0,
@@ -86,5 +86,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/CAAkyddKH4Q",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/06cdf2fadd9f580d8ef5c82d462b5a43.gpx",
+  "_geoloc": {
+    "lat": 52.1824176479,
+    "lng": -2.2229858892
+  }
 }

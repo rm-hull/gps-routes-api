@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Cowdray_Castle_-_geograph.org.uk_-_595426.jpg",
       "title": "Mark Percy / Cowdray Castle",
-      "caption": "Cowdray Castle. The Cowdray Heritage Ruins are located just east of the town. It is one of England’s most important early Tudor houses and was visited by both King Henry VIII and Queen Elizabeth I."
+      "caption": "Cowdray Castle. The Cowdray Heritage Ruins are located just east of the town. It is one of England\u2019s most important early Tudor houses and was visited by both King Henry VIII and Queen Elizabeth I."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/The_Elizabeth_Oak_in_Cowdray_Park_-_geograph.org.uk_-_1022046.jpg",
@@ -51,7 +51,7 @@
   "details": [
     {
       "subtitle": "Pubs/Cafes",
-      "content": "In Midhurst The Royal Oak is a good choice. The 17th century pub includes a splendid large garden area with an outdoor grill. It's a lovely place to relax with a meal on finer days. You can find them near Goodwood on Oaklands Lane at a postcode of GU29 0EP for your sat navs. In Arundel head to the St Mary’s Gate Inn. The pub has a fascinating history having been built in the 26th year of the reign of Henry VIII in 1525. The two other letting rooms which have been part of the building since the 16th century housed Oliver Cromwell and his guardsmen during the mid-1600. The pub has a great menu, good selection of ales and a cosy log fire. You can find it near the castle on London Rd at Postcode BN18 9BA.The Red Lion on the High Street is another great option. This one dates back to the 18th century and includes a large beer garden to relax in. You can find it at postcode BN18 9AG."
+      "content": "In Midhurst The Royal Oak is a good choice. The 17th century pub includes a splendid large garden area with an outdoor grill. It's a lovely place to relax with a meal on finer days. You can find them near Goodwood on Oaklands Lane at a postcode of GU29 0EP for your sat navs. In Arundel head to the St Mary\u2019s Gate Inn. The pub has a fascinating history having been built in the 26th year of the reign of Henry VIII in 1525. The two other letting rooms which have been part of the building since the 16th century housed Oliver Cromwell and his guardsmen during the mid-1600. The pub has a great menu, good selection of ales and a cosy log fire. You can find it near the castle on London Rd at Postcode BN18 9BA.The Red Lion on the High Street is another great option. This one dates back to the 18th century and includes a large beer garden to relax in. You can find it at postcode BN18 9AG."
     },
     {
       "subtitle": "Dog Walking",
@@ -63,5 +63,10 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/sDDJQhM6CM8",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/845705544ed938877ca9e35d73469ba4.gpx",
+  "_geoloc": {
+    "lat": 50.9888809181,
+    "lng": -0.7379392333
+  }
 }
