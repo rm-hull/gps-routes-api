@@ -68,10 +68,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/0TRHElYRAhc",
-  "postcode": "SP11 6QB",
-  "district": "Longparish",
+  "postcode": "SP11 6QX",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "North Acre, East Aston, Longparish, Middleton, Test Valley, Hampshire, England, SP11 6QX, United Kingdom",
+  "state": "England"
 }

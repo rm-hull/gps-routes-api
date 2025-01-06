@@ -68,9 +68,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/SAYKkDknNB4",
-  "district": "Bishop's Waltham",
+  "district": "Winchester",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bishop's Lane, Northbrook, Bishop's Waltham, Winchester, Hampshire, England, SO32 1DP, United Kingdom",
+  "postcode": "SO32 1DP",
+  "state": "England"
 }

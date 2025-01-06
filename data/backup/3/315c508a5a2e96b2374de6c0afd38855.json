@@ -118,9 +118,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/2OhiRyziihA",
   "postcode": "TQ1 4TS",
-  "district": "Torquay",
+  "district": null,
   "county": "Torbay",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Steep Hill, Maidencombe, Torbay, England, TQ1 4TS, United Kingdom",
+  "state": "England"
 }

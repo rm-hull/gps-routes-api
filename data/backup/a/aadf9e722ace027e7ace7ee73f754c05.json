@@ -122,7 +122,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/mNROWxtwQHc",
   "county": "Cumberland",
-  "region": "North West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B5289, Longthwaite, Seatoller, Borrowdale, Cumberland, England, CA12 5XQ, United Kingdom",
+  "postcode": "CA12 5XQ",
+  "district": "Seatoller",
+  "state": "England"
 }

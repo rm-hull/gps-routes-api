@@ -97,9 +97,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/7rs4TTV4Zp4",
-  "district": "St Mawes",
+  "district": "St. Mawes",
   "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "St Mawes Castle, Castle Drive, St. Just-in-Roseland, St. Mawes, Cornwall, England, TR2 5DE, United Kingdom",
+  "postcode": "TR2 5DE",
+  "state": "England"
 }

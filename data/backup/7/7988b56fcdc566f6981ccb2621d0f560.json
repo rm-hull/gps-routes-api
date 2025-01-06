@@ -93,8 +93,11 @@
   ],
   "postcode": "E14 8BG",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Drake House, 4, Victory Place, Limehouse, London Borough of Tower Hamlets, London, Greater London, England, E14 8BG, United Kingdom",
+  "state": "England"
 }

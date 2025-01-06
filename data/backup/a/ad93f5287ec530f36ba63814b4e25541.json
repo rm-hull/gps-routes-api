@@ -110,7 +110,12 @@
     }
   ],
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Approach, West Malling, East Malling, Tonbridge and Malling, Kent, England, ME19 6HJ, United Kingdom",
+  "postcode": "ME19 6HJ",
+  "district": "Tonbridge and Malling",
+  "state": "England"
 }

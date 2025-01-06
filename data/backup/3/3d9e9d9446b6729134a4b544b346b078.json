@@ -77,9 +77,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Ku-YZ3r4FkU",
-  "district": "Swindon",
+  "district": null,
   "county": "Swindon",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "AND, Taw Hill, Haydon Wick, Swindon, England, SN25 1WR, United Kingdom",
+  "postcode": "SN25 1WR",
+  "state": "England"
 }

@@ -86,8 +86,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/_g88fCD-sco",
   "postcode": "BR6 7JH",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "High Elms Country Park, High Elms Road, Farnborough, London Borough of Bromley, London, Greater London, England, BR6 7JH, United Kingdom",
+  "district": "London",
+  "state": "England"
 }

@@ -202,8 +202,12 @@
     }
   ],
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Unity Way, Charlton Riverside, Royal Borough of Greenwich, London, Greater London, England, SE18 5TF, United Kingdom",
+  "postcode": "SE18 5TF",
+  "state": "England"
 }

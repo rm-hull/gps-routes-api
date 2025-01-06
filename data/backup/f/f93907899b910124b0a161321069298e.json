@@ -112,8 +112,11 @@
   "video_url": "https://www.youtube.com/embed/WmN6JDt2ypI",
   "postcode": "N20 8PP",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Garden Hill House, 43, Totteridge Village, Totteridge, London Borough of Barnet, London, Greater London, England, N20 8PP, United Kingdom",
+  "state": "England"
 }

@@ -72,8 +72,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/QAbMkKDuY5A",
-  "county": "The City of Brighton and Hove",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "county": "Brighton and Hove",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Brighton & Hove Bypass, Coldean, Stanmer, Brighton and Hove, England, BN1 9GW, United Kingdom",
+  "postcode": "BN1 9GW",
+  "district": "Stanmer",
+  "state": "England"
 }

@@ -101,8 +101,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/xrFIia57cGI",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A5, Capel Curig, Conwy, Cymru / Wales, LL24 0EU, United Kingdom",
+  "postcode": "LL24 0EU",
+  "district": null,
+  "state": "Cymru / Wales"
 }

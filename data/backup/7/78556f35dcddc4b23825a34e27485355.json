@@ -66,8 +66,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/fty6q2HQlyw",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "U86, Newyears Green, London Borough of Hillingdon, London, Greater London, England, UB9 6LZ, United Kingdom",
+  "postcode": "UB9 6LZ",
+  "district": "London",
+  "state": "England"
 }

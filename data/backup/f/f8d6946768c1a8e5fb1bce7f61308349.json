@@ -60,7 +60,12 @@
     }
   ],
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Gracechurch Street, Mid Suffolk, Suffolk, England, IP14 6RG, United Kingdom",
+  "postcode": "IP14 6RG",
+  "district": "Mid Suffolk",
+  "state": "England"
 }

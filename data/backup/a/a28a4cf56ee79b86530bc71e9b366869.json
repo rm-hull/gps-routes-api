@@ -62,9 +62,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/0c8jewHTMkA",
-  "district": "Croydon",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bankside, Selsdon, London Borough of Croydon, London, Greater London, England, CR2 7BP, United Kingdom",
+  "postcode": "CR2 7BP",
+  "state": "England"
 }

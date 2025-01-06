@@ -82,9 +82,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/rGMJd3ml37Y",
-  "district": "Sidcup",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Rectory Lane, Foots Cray Estate, North Cray, London Borough of Bexley, London, Greater London, England, DA14 5BP, United Kingdom",
+  "postcode": "DA14 5BP",
+  "state": "England"
 }

@@ -72,8 +72,11 @@
   ],
   "postcode": "HA3 6SQ",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Harrow Viewpoint, Old Redding, Sandringham Community, London Borough of Harrow, London, Greater London, England, HA3 6SQ, United Kingdom",
+  "state": "England"
 }

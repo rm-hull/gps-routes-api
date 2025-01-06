@@ -65,9 +65,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/LtNlpMeHwIU",
   "postcode": "SO51 8AA",
-  "district": "Romsey",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Oasis House, 38, Winchester Road, Tadburn, Romsey, Test Valley, Hampshire, England, SO51 8AA, United Kingdom",
+  "state": "England"
 }

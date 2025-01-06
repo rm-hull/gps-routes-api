@@ -122,7 +122,12 @@
     }
   ],
   "county": "East Riding of Yorkshire",
-  "region": "Yorkshire and the Humber",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Main Street, Brantingham, East Riding of Yorkshire, England, HU15 1QJ, United Kingdom",
+  "postcode": "HU15 1QJ",
+  "district": "Brantingham",
+  "state": "England"
 }

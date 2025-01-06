@@ -69,8 +69,11 @@
   "video_url": "https://www.youtube.com/embed/xwJWFH3oNWs",
   "postcode": "RG1 3FD",
   "district": "Reading",
-  "county": "Reading",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "St James Catholic Church, Forbury Road, Caversham, Reading, England, RG1 3FD, United Kingdom",
+  "state": "England"
 }

@@ -68,9 +68,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/TqufA-GPbUA",
-  "district": "Llanfair Talhaiarn",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "district": "Llanfair Talhaearn",
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "L\u00f4n yr Ysgol, Llanfair Talhaiarn, Llanfair Talhaearn, Conwy, Cymru / Wales, LL22 8YT, United Kingdom",
+  "postcode": "LL22 8YT",
+  "state": "Cymru / Wales"
 }

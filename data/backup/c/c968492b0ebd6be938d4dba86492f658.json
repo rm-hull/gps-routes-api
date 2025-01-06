@@ -110,10 +110,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/BoxKW_9CA2E",
-  "postcode": "BA5 3BE",
+  "postcode": "BA5 3BP",
   "district": "Priddy",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Townsend, Priddy, Somerset, England, BA5 3BP, United Kingdom",
+  "state": "England"
 }

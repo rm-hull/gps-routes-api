@@ -96,8 +96,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/KAibWvH-j2g",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Shirley Hills Road, Shirley, London Borough of Croydon, London, Greater London, England, CR0 5FB, United Kingdom",
+  "postcode": "CR0 5FB",
+  "state": "England"
 }

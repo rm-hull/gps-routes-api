@@ -95,9 +95,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/GhUnKZu5Sr8",
-  "district": "Kilnsea",
+  "district": null,
   "county": "East Riding of Yorkshire",
-  "region": "Yorkshire and the Humber",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Easington Road, Cliff Farm, Easington, East Riding of Yorkshire, England, HU12 0UH, United Kingdom",
+  "postcode": "HU12 0UH",
+  "state": "England"
 }

@@ -76,9 +76,12 @@
     }
   ],
   "postcode": "TN14 7QB",
-  "district": "Cudham",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Cudham Lane South, Berry's Green, London Borough of Bromley, London, Greater London, England, TN14 7QB, United Kingdom",
+  "state": "England"
 }

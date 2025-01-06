@@ -73,9 +73,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/GrKvnrcZ51g",
   "postcode": "HG4 3HD",
-  "district": "Eavestone",
+  "district": null,
   "county": "North Yorkshire",
-  "region": "Yorkshire and the Humber",
-  "country": "England",
-  "gazetteer_found": true
+  "region": "York and North Yorkshire",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Hill Top Farm, Eavestone, North Yorkshire, York and North Yorkshire, England, HG4 3HD, United Kingdom",
+  "state": "England"
 }

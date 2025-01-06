@@ -123,9 +123,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/XmTFwiFhTtc",
   "postcode": "NG1 6AA",
-  "district": "Nottingham",
-  "county": "City of Nottingham",
+  "district": "City of Nottingham",
+  "county": null,
   "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Castle Road, Lace Market, The Meadows, City of Nottingham, East Midlands, England, NG1 6AA, United Kingdom",
+  "state": "England"
 }

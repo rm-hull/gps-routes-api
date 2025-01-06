@@ -73,9 +73,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/mrBEj2oAVyU",
   "postcode": "W2 3XA",
-  "district": "City of Westminster",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "West Carriage Drive, Knightsbridge, London, Greater London, England, W2 3XA, United Kingdom",
+  "state": "England"
 }

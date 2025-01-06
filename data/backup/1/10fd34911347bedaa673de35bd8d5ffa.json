@@ -127,8 +127,11 @@
   "video_url": "https://www.youtube.com/embed/2NCTDXq2ZMI",
   "postcode": "EN4 0ED",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "6, Crescent East, Hadley Wood, London Borough of Enfield, London, Greater London, England, EN4 0ED, United Kingdom",
+  "state": "England"
 }

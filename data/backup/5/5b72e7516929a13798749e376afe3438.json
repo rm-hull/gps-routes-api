@@ -76,9 +76,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/E0jTsgqew3Y",
-  "district": "Danbury",
+  "district": "Chelmsford",
   "county": "Essex",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Woodhill Road, Danbury, Chelmsford, Essex, England, CM3 4AL, United Kingdom",
+  "postcode": "CM3 4AL",
+  "state": "England"
 }

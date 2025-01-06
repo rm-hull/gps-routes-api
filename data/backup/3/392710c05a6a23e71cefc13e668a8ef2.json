@@ -96,10 +96,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/QBEimY7GkUI",
-  "postcode": "PL14 5LN",
-  "district": "Minions",
+  "postcode": "PL14 5LR",
+  "district": null,
   "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Minions, Linkinhorne, Cornwall, England, PL14 5LR, United Kingdom",
+  "state": "England"
 }

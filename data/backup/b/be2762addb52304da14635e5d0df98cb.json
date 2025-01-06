@@ -100,9 +100,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/gOKhUK-MUCM",
-  "district": "Butteryhaugh",
+  "district": null,
   "county": "Northumberland",
   "region": "North East",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Kielder, Northumberland, North East, England, NE48 1HG, United Kingdom",
+  "postcode": "NE48 1HG",
+  "state": "England"
 }

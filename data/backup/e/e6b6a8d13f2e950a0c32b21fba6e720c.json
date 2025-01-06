@@ -86,7 +86,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/itDK2sAn208",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Castle Road, Eynsford, Sevenoaks, Kent, England, TN14 7UB, United Kingdom",
+  "postcode": "TN14 7UB",
+  "district": "Sevenoaks",
+  "state": "England"
 }

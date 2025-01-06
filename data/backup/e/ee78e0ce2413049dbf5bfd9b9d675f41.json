@@ -77,9 +77,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/5YH0SoNnA68",
-  "district": "Chorleywood",
+  "district": "Three Rivers",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "6, Colleyland, Chorleywood, Three Rivers, Hertfordshire, England, WD3 5LL, United Kingdom",
+  "postcode": "WD3 5LL",
+  "state": "England"
 }

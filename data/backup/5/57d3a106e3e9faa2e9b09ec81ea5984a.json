@@ -62,9 +62,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/XTnG4XqUXOM",
-  "district": "Saddington",
+  "district": "Harborough",
   "county": "Leicestershire",
-  "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Main Street, Manor Farm, Saddington, Harborough, Leicestershire, England, LE8 0QT, United Kingdom",
+  "postcode": "LE8 0QT",
+  "state": "England"
 }

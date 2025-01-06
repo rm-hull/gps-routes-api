@@ -120,8 +120,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/KJn6Yp9235M",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Dollis Valley Greenwalk, towards Barnet Way, London Borough of Barnet, London, Greater London, England, NW7 3AL, United Kingdom",
+  "postcode": "NW7 3AL",
+  "district": "London",
+  "state": "England"
 }

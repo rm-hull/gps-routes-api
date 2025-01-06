@@ -70,7 +70,11 @@
   "video_url": "https://www.youtube.com/embed/sWMUqeLwoNo",
   "district": "Street",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Brooks Road, Street, Somerset, England, BA16 0NU, United Kingdom",
+  "postcode": "BA16 0NU",
+  "state": "England"
 }

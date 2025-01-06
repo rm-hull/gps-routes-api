@@ -82,8 +82,11 @@
   ],
   "postcode": "BR2 7EA",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Hill, Pickhurst, Hayes, London Borough of Bromley, London, Greater London, England, BR2 7EA, United Kingdom",
+  "state": "England"
 }

@@ -73,8 +73,11 @@
   "video_url": "https://www.youtube.com/embed/1Ezz9VzJT8Q",
   "postcode": "TW14 8QA",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Clockhouse Lane, Bedfont, London Borough of Hounslow, London, Greater London, England, TW14 8QA, United Kingdom",
+  "state": "England"
 }

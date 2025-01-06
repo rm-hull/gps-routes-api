@@ -40,8 +40,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/BKxOfBLUEk8",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ffordd Bodnant, Eglwysbach, Llansanffraid Glan Conwy, Conwy, Cymru / Wales, LL28 5RE, United Kingdom",
+  "postcode": "LL28 5RE",
+  "district": "Llansanffraid Glan Conwy",
+  "state": "Cymru / Wales"
 }

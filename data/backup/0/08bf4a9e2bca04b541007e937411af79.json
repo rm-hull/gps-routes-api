@@ -87,9 +87,12 @@
     }
   ],
   "postcode": "TR26 2EA",
-  "district": "St Ives",
+  "district": "St. Ives",
   "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "20, Warren, Carbis Bay, St. Ives, Cornwall, England, TR26 2EA, United Kingdom",
+  "state": "England"
 }

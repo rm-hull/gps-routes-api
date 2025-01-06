@@ -82,8 +82,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/lGJiObCKbzU",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Cranford House Stables, St. Dunstans Subway, London Borough of Hillingdon, London, Greater London, England, UB3 4RA, United Kingdom",
+  "postcode": "UB3 4RA",
+  "district": "London",
+  "state": "England"
 }

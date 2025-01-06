@@ -87,7 +87,12 @@
     }
   ],
   "county": "Torbay",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Torbay Road, Torre, Torquay, Torbay, England, TQ2 6NX, United Kingdom",
+  "postcode": "TQ2 6NX",
+  "district": "Torquay",
+  "state": "England"
 }

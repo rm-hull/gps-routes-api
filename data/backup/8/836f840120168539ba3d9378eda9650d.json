@@ -62,9 +62,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/pG9MNVJKhog",
-  "district": "Aylesbury",
+  "district": null,
   "county": "Buckinghamshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Waddesdon Greenway, Berryfields, Buckinghamshire, England, HP18 0PE, United Kingdom",
+  "postcode": "HP18 0PE",
+  "state": "England"
 }

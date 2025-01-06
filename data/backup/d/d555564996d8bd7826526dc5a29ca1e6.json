@@ -72,9 +72,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/NS6E_0IQZN8",
-  "district": "Chilbolton",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Chilbolton Cow Common, Joy's Lane, Chilbolton, Test Valley, Hampshire, England, SO20 6BB, United Kingdom",
+  "postcode": "SO20 6BB",
+  "state": "England"
 }

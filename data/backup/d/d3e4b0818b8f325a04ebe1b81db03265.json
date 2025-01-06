@@ -58,9 +58,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/aQnCihfxC0Y",
-  "district": "Stockbridge",
+  "district": "Test Valley",
   "county": "Hampshire",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Old Swan House, High Street, Winton Hill, Stockbridge, Test Valley, Hampshire, England, SO20 6EU, United Kingdom",
+  "postcode": "SO20 6EU",
+  "state": "England"
 }

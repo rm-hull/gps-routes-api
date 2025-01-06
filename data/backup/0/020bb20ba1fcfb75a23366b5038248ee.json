@@ -71,9 +71,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/tCgp6TiTbuM",
-  "district": "Royal Tunbridge Wells",
+  "district": "Tunbridge Wells",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Halls Hole Road, Hawkenbury, Royal Tunbridge Wells, Tunbridge Wells, Kent, England, TN2 3QN, United Kingdom",
+  "postcode": "TN2 3QN",
+  "state": "England"
 }

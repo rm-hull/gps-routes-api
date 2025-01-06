@@ -91,8 +91,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/JgMmJ5uo0Z8",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Coppermill Bridge, London Borough of Waltham Forest, London, Greater London, England, E5 9BL, United Kingdom",
+  "postcode": "E5 9BL",
+  "state": "England"
 }

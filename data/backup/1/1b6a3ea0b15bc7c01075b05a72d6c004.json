@@ -68,9 +68,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/PIBreBSYOzM",
-  "district": "Barnet",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "New Barnet Station Car Park, Clarence Close, New Barnet, London Borough of Barnet, London, Greater London, England, EN4 8AD, United Kingdom",
+  "postcode": "EN4 8AD",
+  "state": "England"
 }

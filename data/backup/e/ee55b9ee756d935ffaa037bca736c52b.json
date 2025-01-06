@@ -87,8 +87,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/4hYb7Lch51Q",
   "district": "Plymouth",
-  "county": "City of Plymouth",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Seven Stars Lane, Tamerton Foliot, Plymouth, England, PL5 4NN, United Kingdom",
+  "postcode": "PL5 4NN",
+  "state": "England"
 }

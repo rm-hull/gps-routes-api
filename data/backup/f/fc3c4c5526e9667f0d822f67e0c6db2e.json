@@ -78,8 +78,11 @@
   "video_url": "https://www.youtube.com/embed/s5LUYGJA8FM",
   "postcode": "N22 7AX",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Lower Road, Haringey Heartlands, Hornsey, London Borough of Haringey, London, Greater London, England, N22 7AX, United Kingdom",
+  "state": "England"
 }

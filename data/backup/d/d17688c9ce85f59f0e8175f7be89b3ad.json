@@ -106,9 +106,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/rufX-jqAYLQ",
-  "district": "Wrexham / Wrecsam",
-  "county": "Wrecsam - Wrexham",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "district": "Wrexham",
+  "county": "Wrexham",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Sontley Road, Coed-y-Glyn, Offa, Wrexham, Cymru / Wales, LL13 7EZ, United Kingdom",
+  "postcode": "LL13 7EZ",
+  "state": "Cymru / Wales"
 }

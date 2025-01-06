@@ -105,8 +105,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/hJQwuHRCO9o",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Glan-y-Bala Tunnel, Llanddeiniolen, Llanberis, Gwynedd, Cymru / Wales, LL55 4TY, United Kingdom",
+  "postcode": "LL55 4TY",
+  "district": "Llanberis",
+  "state": "Cymru / Wales"
 }

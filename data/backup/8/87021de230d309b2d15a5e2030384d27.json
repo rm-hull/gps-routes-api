@@ -91,9 +91,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/bZC6_w6ZtpY",
-  "district": "Northampton",
+  "district": null,
   "county": "West Northamptonshire",
-  "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Hunsbury Hill Road, Hunsbury Hill, West Hunsbury, West Northamptonshire, England, NN4 9UF, United Kingdom",
+  "postcode": "NN4 9UF",
+  "state": "England"
 }

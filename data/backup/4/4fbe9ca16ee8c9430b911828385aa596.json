@@ -58,8 +58,12 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/PokyvjwzJtg",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Crab Hill, Shortlands, London Borough of Bromley, London, Greater London, England, BR3 5HE, United Kingdom",
+  "postcode": "BR3 5HE",
+  "state": "England"
 }

@@ -64,7 +64,11 @@
   "video_url": "https://www.youtube.com/embed/NZKqjOjWqGc",
   "postcode": "PL30 3AL",
   "county": "Cornwall",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "St. Breock, Cornwall, England, PL30 3AL, United Kingdom",
+  "district": null,
+  "state": "England"
 }

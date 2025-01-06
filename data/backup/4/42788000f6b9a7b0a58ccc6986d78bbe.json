@@ -105,9 +105,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/-xJFRrdixBY",
-  "district": "Westleton",
+  "district": "East Suffolk",
   "county": "Suffolk",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Mill Street, Westleton, East Suffolk, Suffolk, England, IP17 3BD, United Kingdom",
+  "postcode": "IP17 3BD",
+  "state": "England"
 }

@@ -96,10 +96,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/XPHfx2eSqH0",
-  "postcode": "E12 6BS",
+  "postcode": "E12 5AW",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "102, Carlyle Road, Manor Park, London Borough of Newham, London, Greater London, England, E12 5AW, United Kingdom",
+  "state": "England"
 }

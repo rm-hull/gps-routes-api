@@ -81,9 +81,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/0TBft_8Z_QI",
-  "district": "Sutton Bingham",
+  "district": null,
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Sutton Hill, Sutton Bingham, Closworth, Somerset, England, BA22 9QP, United Kingdom",
+  "postcode": "BA22 9QP",
+  "state": "England"
 }

@@ -87,9 +87,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/lGNcIj8sZFM",
-  "district": "Buckhurst Hill",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Approach, Woodford Bridge, London Borough of Redbridge, London, Greater London, England, IG9 6EY, United Kingdom",
+  "postcode": "IG9 6EY",
+  "state": "England"
 }

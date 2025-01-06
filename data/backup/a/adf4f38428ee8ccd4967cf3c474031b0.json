@@ -65,8 +65,12 @@
     }
   ],
   "district": "Stoke-on-Trent",
-  "county": "City of Stoke-on-Trent",
-  "region": "West Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Central Forest Park, Chell Street, Sneyd Green, Hanley, Stoke-on-Trent, England, ST1 6BD, United Kingdom",
+  "postcode": "ST1 6BD",
+  "state": "England"
 }

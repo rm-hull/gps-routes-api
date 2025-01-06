@@ -76,8 +76,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/e05KtsOMQYw",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Cool Oak Lane, West Hendon, London Borough of Barnet, London, Greater London, England, NW9 7ND, United Kingdom",
+  "postcode": "NW9 7ND",
+  "state": "England"
 }

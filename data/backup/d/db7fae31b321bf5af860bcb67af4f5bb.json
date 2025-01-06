@@ -86,9 +86,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Op-WzUQ7t1o",
-  "district": "City of Westminster",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Broad Walk, Bayswater, London, Greater London, England, W8 4PX, United Kingdom",
+  "postcode": "W8 4PX",
+  "state": "England"
 }

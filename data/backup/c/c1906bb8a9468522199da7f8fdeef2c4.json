@@ -111,9 +111,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/mUz5UHbo-NA",
   "postcode": "NG2 4BE",
-  "district": "Nottingham",
-  "county": "City of Nottingham",
+  "district": "City of Nottingham",
+  "county": null,
   "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Nottingham Racecourse, Racecourse Road, Sneinton, City of Nottingham, East Midlands, England, NG2 4BE, United Kingdom",
+  "state": "England"
 }

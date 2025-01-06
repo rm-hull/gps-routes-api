@@ -72,10 +72,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/yt7x1OcyGhk",
-  "postcode": "SW11 4EX",
+  "postcode": "SW11 4EG",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Carriage Drive South, Battersea, London Borough of Wandsworth, London, Greater London, England, SW11 4EG, United Kingdom",
+  "state": "England"
 }

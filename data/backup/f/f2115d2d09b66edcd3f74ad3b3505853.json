@@ -99,8 +99,11 @@
   "video_url": "https://www.youtube.com/embed/yLpsaz_tJ9s",
   "postcode": "ST4 1ET",
   "district": "Stoke-on-Trent",
-  "county": "City of Stoke-on-Trent",
-  "region": "West Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Glebe Street, Shelton, Stoke, Stoke-on-Trent, England, ST4 1ET, United Kingdom",
+  "state": "England"
 }

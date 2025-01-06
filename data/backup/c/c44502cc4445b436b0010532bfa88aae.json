@@ -100,8 +100,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/z-2bCR4GgLY",
-  "county": "Sir Gaerfyrddin - Carmarthenshire",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Sir Gaerfyrddin / Carmarthenshire",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "B4310, Nant-y-Ffin, Llanfihangel Rhos-y-Corn, Brechfa, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA32 7RG, United Kingdom",
+  "postcode": "SA32 7RG",
+  "district": "Brechfa",
+  "state": "Cymru / Wales"
 }

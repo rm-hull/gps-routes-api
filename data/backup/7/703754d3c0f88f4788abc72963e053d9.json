@@ -92,9 +92,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/Y9IhpFtcU0I",
-  "district": "Penshurst",
+  "district": "Sevenoaks",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "1, High Street, Penshurst, Sevenoaks, Kent, England, TN11 8BU, United Kingdom",
+  "postcode": "TN11 8BU",
+  "state": "England"
 }

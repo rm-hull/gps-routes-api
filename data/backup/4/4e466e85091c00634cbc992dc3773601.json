@@ -93,9 +93,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/pbgpgyNQzyc",
   "postcode": "TQ2 8NW",
-  "district": "Torquay",
+  "district": null,
   "county": "Torbay",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Brunel Avenue, Watcombe, Torbay, England, TQ2 8NW, United Kingdom",
+  "state": "England"
 }

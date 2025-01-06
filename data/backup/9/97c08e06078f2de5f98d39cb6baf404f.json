@@ -77,9 +77,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/llSvKZNpFMs",
-  "district": "Aberdeen",
-  "county": "Aberdeen City",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "district": "Aberdeen City",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Road, Dyce, Dyce and Stoneywood, Aberdeen City, Alba / Scotland, AB21 7BA, United Kingdom",
+  "postcode": "AB21 7BA",
+  "state": "Alba / Scotland"
 }

@@ -111,9 +111,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/q_-9jsAQFDw",
-  "district": "Inbhir Nis / Inverness",
+  "district": "Inverness",
   "county": "Highland",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Canal Road, Scorguie, Muirtown, Inverness, Highland, Alba / Scotland, IV3 8NF, United Kingdom",
+  "postcode": "IV3 8NF",
+  "state": "Alba / Scotland"
 }

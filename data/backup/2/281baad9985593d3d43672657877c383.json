@@ -115,9 +115,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/IO1zRL1zsAg",
-  "district": "Edinburgh",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "district": "City of Edinburgh",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Volunteer's Walk, Willowbrae, Northfield/Willowbrae, City of Edinburgh, Alba / Scotland, EH8 8ES, United Kingdom",
+  "postcode": "EH8 8ES",
+  "state": "Alba / Scotland"
 }

@@ -91,8 +91,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/4a861CrWWX0",
   "district": "Stoke-on-Trent",
-  "county": "City of Stoke-on-Trent",
-  "region": "West Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Westport Lake, Botesworth Gardens, Longport, Tunstall, Stoke-on-Trent, England, ST6 4RZ, United Kingdom",
+  "postcode": "ST6 4RZ",
+  "state": "England"
 }

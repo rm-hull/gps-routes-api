@@ -111,7 +111,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/XSJI7LfmTVs",
   "county": "Essex",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Promenade Way, Brightlingsea, Tendring, Essex, England, CO7 0HH, United Kingdom",
+  "postcode": "CO7 0HH",
+  "district": "Brightlingsea",
+  "state": "England"
 }

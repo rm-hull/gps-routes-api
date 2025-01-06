@@ -66,7 +66,12 @@
     }
   ],
   "county": "Essex",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Norsey Drive, Sunnymede, Billericay, Basildon, Essex, England, CM11 1DB, United Kingdom",
+  "postcode": "CM11 1DB",
+  "district": "Billericay",
+  "state": "England"
 }

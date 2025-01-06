@@ -98,8 +98,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/THMk7VoBFe8",
   "postcode": "EH14 7AS",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Harlaw Road, Balerno, City of Edinburgh, Alba / Scotland, EH14 7AS, United Kingdom",
+  "district": "City of Edinburgh",
+  "state": "Alba / Scotland"
 }

@@ -54,8 +54,11 @@
   "video_url": "https://www.youtube.com/embed/G_S38vS8B8c",
   "postcode": "UB7 0AS",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Accommodation Lane, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, UB7 0AS, United Kingdom",
+  "state": "England"
 }

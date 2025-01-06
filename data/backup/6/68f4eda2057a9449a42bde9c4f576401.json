@@ -71,8 +71,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/XjQ5yXbNvI4",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Caerhun, Rowen, Conwy, Cymru / Wales, LL32 8YP, United Kingdom",
+  "postcode": "LL32 8YP",
+  "district": "Rowen",
+  "state": "Cymru / Wales"
 }

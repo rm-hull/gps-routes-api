@@ -106,9 +106,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/7QrC6wduEss",
-  "district": "Wheathampstead",
+  "district": "St Albans",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Mount Road, Wheathampstead, St Albans, Hertfordshire, England, AL4 8BU, United Kingdom",
+  "postcode": "AL4 8BU",
+  "state": "England"
 }

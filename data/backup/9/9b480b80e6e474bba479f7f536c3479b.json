@@ -68,9 +68,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/4uEz68e53Lg",
-  "district": "Wolsingham",
+  "district": null,
   "county": "County Durham",
   "region": "North East",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Crofts, Wolsingham, County Durham, North East, England, DL13 3BB, United Kingdom",
+  "postcode": "DL13 3BB",
+  "state": "England"
 }

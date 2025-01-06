@@ -82,9 +82,12 @@
     }
   ],
   "postcode": "DT6 6JU",
-  "district": "Seatown",
+  "district": null,
   "county": "Dorset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Sea Hill Lane, Seatown, Chideock, Dorset, England, DT6 6JU, United Kingdom",
+  "state": "England"
 }

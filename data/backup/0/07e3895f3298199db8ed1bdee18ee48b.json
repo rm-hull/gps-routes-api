@@ -116,8 +116,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/w0rGAxD9klA",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A487, Tan-y-bwlch, Maentwrog, Penrhyndeudraeth, Gwynedd, Cymru / Wales, LL41 3YY, United Kingdom",
+  "postcode": "LL41 3YY",
+  "district": "Penrhyndeudraeth",
+  "state": "Cymru / Wales"
 }

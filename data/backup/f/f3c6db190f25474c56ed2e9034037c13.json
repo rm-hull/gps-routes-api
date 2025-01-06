@@ -91,7 +91,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/DB04gxyJ3p0",
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "1, A20, Aycliffe, Dover, Kent, England, CT15 7AB, United Kingdom",
+  "postcode": "CT15 7AB",
+  "district": "Dover",
+  "state": "England"
 }

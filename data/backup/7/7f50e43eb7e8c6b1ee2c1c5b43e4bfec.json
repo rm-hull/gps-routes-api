@@ -65,8 +65,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/oCVlsrccDm0",
-  "district": "Little Hulton",
-  "region": "North West",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "Salford",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "John Street, Walkden, Salford, Greater Manchester, England, M28 3TD, United Kingdom",
+  "postcode": "M28 3TD",
+  "county": null,
+  "state": "England"
 }

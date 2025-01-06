@@ -100,9 +100,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/b8pqgltXTxA",
-  "district": "Goldhanger",
+  "district": "Maldon",
   "county": "Essex",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Church Street, Goldhanger, Maldon, Essex, England, CM9 8AR, United Kingdom",
+  "postcode": "CM9 8AR",
+  "state": "England"
 }

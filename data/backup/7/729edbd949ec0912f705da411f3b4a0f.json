@@ -110,10 +110,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/9ocJRdQ6MF0",
-  "postcode": "BA7 7AL",
+  "postcode": "BA7 7AA",
   "district": "Castle Cary",
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Pitching, Castle Cary, Somerset, England, BA7 7AA, United Kingdom",
+  "state": "England"
 }

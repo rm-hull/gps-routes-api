@@ -86,8 +86,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/neRMTe-nqJE",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Ditches Lane, London Borough of Croydon, London, Greater London, England, CR5 1DF, United Kingdom",
+  "postcode": "CR5 1DF",
+  "district": "London",
+  "state": "England"
 }

@@ -102,9 +102,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/dDJojYpWGMk",
-  "district": "Tring",
+  "district": "Dacorum",
   "county": "Hertfordshire",
-  "region": "Eastern",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Tring Park School for the Performing Arts, Mansion Drive, Tring, Dacorum, Hertfordshire, England, HP23 5LX, United Kingdom",
+  "postcode": "HP23 5LX",
+  "state": "England"
 }

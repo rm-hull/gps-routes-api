@@ -102,8 +102,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/4-q4J1kgcRU",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A4067, Llywel, Powys, Cymru / Wales, SA9 1GS, United Kingdom",
+  "postcode": "SA9 1GS",
+  "district": null,
+  "state": "Cymru / Wales"
 }

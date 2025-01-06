@@ -47,8 +47,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/FUE0BGhgu1M",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Austin's Lane, Ickenham, London Borough of Hillingdon, London, Greater London, England, UB10 8PH, United Kingdom",
+  "postcode": "UB10 8PH",
+  "district": "London",
+  "state": "England"
 }

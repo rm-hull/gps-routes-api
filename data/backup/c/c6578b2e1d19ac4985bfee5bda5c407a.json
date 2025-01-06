@@ -65,9 +65,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/tGRw4ZOIZ-c",
   "postcode": "NG11 7GD",
-  "district": "Wilford",
-  "county": "City of Nottingham",
+  "district": "City of Nottingham",
+  "county": null,
   "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Clifton Lane, Wilford, City of Nottingham, East Midlands, England, NG11 7GD, United Kingdom",
+  "state": "England"
 }

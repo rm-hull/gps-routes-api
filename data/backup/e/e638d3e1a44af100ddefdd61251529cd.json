@@ -102,8 +102,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/cxPF9csoQic",
-  "district": "Warburton",
-  "region": "North West",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "Trafford",
+  "region": "Greater Manchester",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Park Road, Warburton, Trafford, Greater Manchester, England, WA13 9TA, United Kingdom",
+  "postcode": "WA13 9TA",
+  "county": null,
+  "state": "England"
 }

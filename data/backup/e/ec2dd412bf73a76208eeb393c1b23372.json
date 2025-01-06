@@ -126,9 +126,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/tf3OImgkgFw",
-  "district": "Woolwich",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Pier Road, North Woolwich, London Borough of Newham, London, Greater London, England, E16 2JS, United Kingdom",
+  "postcode": "E16 2JS",
+  "state": "England"
 }

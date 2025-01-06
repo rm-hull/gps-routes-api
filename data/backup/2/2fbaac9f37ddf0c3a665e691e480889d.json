@@ -82,9 +82,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/B4--DDVQH3c",
-  "district": "Aberdeen",
-  "county": "Aberdeen City",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "district": "Aberdeen City",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Murray Terrace, Ferryhill, Ferryhill and Ruthrieston, Aberdeen City, Alba / Scotland, AB11 7RX, United Kingdom",
+  "postcode": "AB11 7RX",
+  "state": "Alba / Scotland"
 }

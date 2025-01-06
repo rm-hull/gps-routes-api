@@ -97,7 +97,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/tNBSfsMHOv4",
   "county": "Cumberland",
-  "region": "North West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Grange Coffee, Field Lane, Manesty, Grange, Borrowdale, Cumberland, England, CA12 5UQ, United Kingdom",
+  "postcode": "CA12 5UQ",
+  "district": "Grange",
+  "state": "England"
 }

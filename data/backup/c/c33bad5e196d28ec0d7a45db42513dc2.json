@@ -97,8 +97,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/KXMUFYGncBw?si=Q-XDlV6Wk2OdIi63",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Barnet Way, London Borough of Barnet, London, Greater London, England, NW7 4HU, United Kingdom",
+  "postcode": "NW7 4HU",
+  "district": "London",
+  "state": "England"
 }

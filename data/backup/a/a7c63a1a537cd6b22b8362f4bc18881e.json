@@ -80,8 +80,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/hJA1p_-mI6g",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "May & Baker Way, London Borough of Barking and Dagenham, London, Greater London, England, RM10 7BL, United Kingdom",
+  "postcode": "RM10 7BL",
+  "district": "London",
+  "state": "England"
 }

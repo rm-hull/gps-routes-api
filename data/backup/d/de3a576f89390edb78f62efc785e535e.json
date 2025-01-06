@@ -76,8 +76,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/9LQ7qSCerro",
-  "county": "Powys - Powys",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Powys",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "A470, Glyn Tarell, Powys, Cymru / Wales, LD3 8NL, United Kingdom",
+  "postcode": "LD3 8NL",
+  "district": null,
+  "state": "Cymru / Wales"
 }

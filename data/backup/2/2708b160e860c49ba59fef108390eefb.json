@@ -53,8 +53,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/CgmQJfDkYCA",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Greenwich Pier, Greenwich Foot Tunnel, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, London, Greater London, England, SE10 9HT, United Kingdom",
+  "postcode": "SE10 9HT",
+  "state": "England"
 }

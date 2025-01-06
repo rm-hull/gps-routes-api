@@ -82,8 +82,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/NRrja_HbRCM",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Emerson Road, Gants Hill, London Borough of Redbridge, London, Greater London, England, IG1 4UX, United Kingdom",
+  "postcode": "IG1 4UX",
+  "state": "England"
 }

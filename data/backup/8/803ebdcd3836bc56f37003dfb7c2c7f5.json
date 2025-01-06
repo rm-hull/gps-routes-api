@@ -75,9 +75,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/2e6iNnZC9yw?start=53",
-  "district": "Edinburgh",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "district": "City of Edinburgh",
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Prom, Westbank, Portobello, City of Edinburgh, Alba / Scotland, EH15 1DT, United Kingdom",
+  "postcode": "EH15 1DT",
+  "state": "Alba / Scotland"
 }

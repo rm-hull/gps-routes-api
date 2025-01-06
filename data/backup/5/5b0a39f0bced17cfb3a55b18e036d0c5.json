@@ -86,9 +86,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/mKPCzb49yqo",
-  "district": "Bexley",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Station Approach, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1AQ, United Kingdom",
+  "postcode": "DA5 1AQ",
+  "state": "England"
 }

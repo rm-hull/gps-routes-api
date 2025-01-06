@@ -145,8 +145,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/kiOPv4x3Wqo",
-  "county": "Gwynedd - Gwynedd",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Gwynedd",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Glyn Y Weddw, Llanbedrog, Gwynedd, Cymru / Wales, LL53 7TT, United Kingdom",
+  "postcode": "LL53 7TT",
+  "district": "Llanbedrog",
+  "state": "Cymru / Wales"
 }

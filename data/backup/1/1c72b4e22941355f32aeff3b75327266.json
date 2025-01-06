@@ -80,8 +80,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/m2V_KFW8Qf8",
-  "county": "Conwy - Conwy",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": "Conwy",
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bishop's Quarry Road, Llandudno, Conwy, Cymru / Wales, LL30 2XF, United Kingdom",
+  "postcode": "LL30 2XF",
+  "district": "Llandudno",
+  "state": "Cymru / Wales"
 }

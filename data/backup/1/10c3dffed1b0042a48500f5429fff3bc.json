@@ -57,8 +57,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/f6gNRd8Lbn0",
   "postcode": "EH13 0PB",
-  "county": "City of Edinburgh",
-  "region": "Scotland",
-  "country": "Scotland",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Bonaly Road, Bonaly, City of Edinburgh, Alba / Scotland, EH13 0PB, United Kingdom",
+  "district": "City of Edinburgh",
+  "state": "Alba / Scotland"
 }

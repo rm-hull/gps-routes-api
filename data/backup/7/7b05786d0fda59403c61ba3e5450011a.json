@@ -62,7 +62,12 @@
     }
   ],
   "county": "Kent",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Marine Parade, Merryman's Hill, Minster-on-Sea, Minster, Swale, Kent, England, ME12 2FD, United Kingdom",
+  "postcode": "ME12 2FD",
+  "district": "Swale",
+  "state": "England"
 }

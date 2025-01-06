@@ -122,9 +122,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/WHm-MgqyD8k",
-  "district": "Chingford",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "district": "London",
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Chingford Golf Course, 158, Station Road, Chingford, London Borough of Waltham Forest, London, Greater London, England, E4 6AN, United Kingdom",
+  "postcode": "E4 6AN",
+  "state": "England"
 }

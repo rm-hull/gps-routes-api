@@ -26,8 +26,12 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/b1iUbUBE_9Y",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Home Park House, Home Park Terrace, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4AE, United Kingdom",
+  "postcode": "KT1 4AE",
+  "state": "England"
 }

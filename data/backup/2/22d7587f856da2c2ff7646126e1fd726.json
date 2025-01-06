@@ -73,8 +73,12 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/s85mxeU20YM",
   "district": "London",
-  "county": "Greater London",
-  "region": "London",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": "Greater London",
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Sydenham Hill, The Dulwich Oaks, Upper Sydenham, Dulwich, London Borough of Southwark, London, Greater London, England, SE21 7NA, United Kingdom",
+  "postcode": "SE21 7NA",
+  "state": "England"
 }

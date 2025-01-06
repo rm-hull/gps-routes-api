@@ -81,10 +81,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/nCW4rmmOnQU",
-  "postcode": "NG8 2AD",
-  "district": "Nottingham",
-  "county": "City of Nottingham",
+  "postcode": "NG8 2BB",
+  "district": "City of Nottingham",
+  "county": null,
   "region": "East Midlands",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Wollaton Road, Wollaton Vale, Wollaton, City of Nottingham, East Midlands, England, NG8 2BB, United Kingdom",
+  "state": "England"
 }

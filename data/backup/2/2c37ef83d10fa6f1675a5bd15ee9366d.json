@@ -81,8 +81,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/3d9lwBKr4C0",
-  "county": "Casnewydd - Newport",
-  "region": "Wales",
-  "country": "Wales",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Perry Lane, Nash, Newport, Cymru / Wales, NP18 2BZ, United Kingdom",
+  "postcode": "NP18 2BZ",
+  "district": "Newport",
+  "state": "Cymru / Wales"
 }

@@ -76,10 +76,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/YzrPGAa4sPs",
-  "postcode": "TA20 4DE",
-  "district": "Cricket St Thomas",
+  "postcode": "TA20 4DG",
+  "district": null,
   "county": "Somerset",
-  "region": "South West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Swan Down, Cricket St Thomas, Cricket St. Thomas, Somerset, England, TA20 4DG, United Kingdom",
+  "state": "England"
 }

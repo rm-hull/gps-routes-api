@@ -96,8 +96,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/LeXPhlZ-8lQ",
-  "county": "City of Southampton",
-  "region": "South East",
-  "country": "England",
-  "gazetteer_found": true
+  "county": null,
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "Itchen Bridge, Woolston, Southampton, England, SO19 7BG, United Kingdom",
+  "postcode": "SO19 7BG",
+  "district": "Southampton",
+  "state": "England"
 }

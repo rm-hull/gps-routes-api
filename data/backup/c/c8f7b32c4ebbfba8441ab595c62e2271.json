@@ -52,9 +52,13 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/0bfS7O2vhXA",
-  "district": "Delamere",
+  "district": null,
   "county": "Cheshire West and Chester",
-  "region": "North West",
-  "country": "England",
-  "gazetteer_found": true
+  "region": null,
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Station House Cafe, Station Road, Delamere and Oakmere, Cheshire West and Chester, England, CW8 2HZ, United Kingdom",
+  "postcode": "CW8 2HZ",
+  "state": "England"
 }

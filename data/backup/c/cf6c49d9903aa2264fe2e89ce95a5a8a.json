@@ -69,9 +69,12 @@
   ],
   "video_url": "https://www.youtube.com/embed/5yXtrb-3I4Y",
   "postcode": "DL12 9SE",
-  "district": "Greta Bridge",
+  "district": null,
   "county": "County Durham",
   "region": "North East",
-  "country": "England",
-  "gazetteer_found": true
+  "country": "United Kingdom",
+  "gazetteer_found": true,
+  "nominatim_found": true,
+  "display_address": "The Street, Brignall, County Durham, North East, England, DL12 9SE, United Kingdom",
+  "state": "England"
 }
