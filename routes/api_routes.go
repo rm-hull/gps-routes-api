@@ -10,6 +10,7 @@
 package routes
 
 import (
+	"fmt"
 	"log"
 	"net/http"
 
@@ -47,6 +48,17 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	c.JSON(http.StatusOK, route)
 }
 
+var VALID_FACET_FIELDS = []string{"country", "state", "region", "district", "county"}
+
+func isValidFacetField(facetField string) bool {
+	for _, field := range VALID_FACET_FIELDS {
+		if field == facetField {
+			return true
+		}
+	}
+	return false
+}
+
 // Post /v1/gps-routes/search
 // Search for routes according to various criteria
 func (api *RoutesAPI) Search(c *gin.Context) {
@@ -56,6 +68,13 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
 		log.Printf("Error: %v", err)
 		return
+	}
+
+	for facetField := range payload.Facets {
+		if !isValidFacetField(facetField) {
+			c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("invalid facet: %s", facetField)})
+			return
+		}
 	}
 
 	matches, err := api.Service.Search(&payload)
