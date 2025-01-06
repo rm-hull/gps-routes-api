@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:38:44.534961+00:00",
   "objectID": "017bfc09f3363a5b6b6d2bd9456756b3",
-  "created_at": "2024-12-18T19:26:17.160770+00:00",
   "ref": "mapperton-house-walking-route",
   "title": "Mapperton House Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Mapperton_House_-_geograph.org.uk_-_517671.jpg",
@@ -55,10 +55,21 @@
   ],
   "distance_km": 2.0,
   "description": "This Tudor mansion in Dorset is surrounded by stunningly beautiful gardens, perfect for a peaceful afternoon stroll. There are three levels of gardens descending from the manor house. Highlights include the beautiful Italianate garden with grottoes, stone ornamental birds, animals and fountains. ponds, an orangery and summerhouses. There is also a Wild garden with specimen shrubs and trees. Mapperton is surrounded by lovely countryside and peaceful woodland. You could continue your walk along the Jubilee Trail which runs past the house. The gardens are open during the summer months - click here for details. The circular Beaminster Walk visits the house from the nearby town.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are allowed on leads outside the Coach House but not in the Gardens or the House."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Dorset Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-MXcZaIzMS0",
   "postcode": "DT8 3NR",
   "district": "Mapperton",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:25:31.517607+00:00",
   "objectID": "e8c383b3ad17a8352ca296fe6e9ecedf",
-  "created_at": "2024-12-19T21:28:21.709498+00:00",
   "ref": "park-hall-country-park-walking-and-cycle-route",
   "title": "Park Hall Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Park_Hall_Country_Park_-_geograph.org.uk_-_736961.jpg",
@@ -70,9 +70,24 @@
   ],
   "distance_km": 4.0,
   "description": "Enjoy a cycle or walk in this large country park in Stoke-on-Trent. The park is popular with dog walkers with its nice woodland areas and two ponds. From the high points in the park there are good views over the city. You can extend your exercise by visiting the nearby Hanley Forest Park where there are more cycling and walking paths to try. There's also the Stoke on Trent Canal Walk along the towpath of the Trent and Mersey Canal to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's lots of picnic tables dotted around the site where you can enjoy some rest and refreshment after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are great for dog walking with many off lead areas. You will probably bump into other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the western side of the city there's another fine country park in the shape of Apedale Country Park in Newcastle Under Lyme. The waterside path around Westport Lake is another good local option for an easy stroll."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_8qoLlipKww",
   "district": "Stoke-on-Trent",
   "county": "City of Stoke-on-Trent",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

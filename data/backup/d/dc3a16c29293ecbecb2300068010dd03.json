@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:47:31.033527+00:00",
   "objectID": "dc3a16c29293ecbecb2300068010dd03",
-  "created_at": "2024-12-18T05:33:11.878689+00:00",
   "ref": "matlock-walking-route",
   "title": "Matlock Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bank_Road%2C_Matlock_-_geograph.org.uk_-_937427.jpg",
@@ -134,15 +134,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/77/The_River_Derwent_at_Matlock_Bath_-_geograph.org.uk_-_632784.jpg",
-      "title": "Steve  F / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
+      "title": "Steve F / CC BY-SA (https://creativecommons.org/licenses/by-sa/2.0)",
       "caption": "The River Derwent at Matlock Bath"
     }
   ],
   "distance_km": 8.5,
   "description": "The county town of Matlock is a great base for exploring the south eastern edge of the Peak District. This circular walk from the town takes you to High Tor and past the Heights of Abraham. You'll also enjoy a riverside stretch along the River Derwent on the Derwent Valley Heritage Way. This runs south to Matlock Bath passing High Tor on the way. From the distinctive limestone crag there are splendid views over the town to the Peak District hills beyond. The route then heads north west towards Bonsall before following the Limestone Way back into Matlock.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the town the Sycamore Inn is a nice place for some post walk refreshments. It's set in an old coaching inn and does excellent home-cooked food. There's also a lovely garden area which includes a boules pitch. It's a fine place to relax on a summer day. You can find them at postcode DE4 3HZ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is fine walking country with lots of woodland and river trails for you and your pet. The Sycamore Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Matlock is located near to the village of Crich, known as the location for the setting for the ITV series Peak Practice and the excellent Crich Tramway Village. This fascinating museum contains over 60 trams built between 1873 and 1982 and is set within a recreated period village containing a working pub, cafe, old-style sweetshop and tram depots. It's located just a few miles south east of the town and well worth a visit. Just to the south of the town there's another significant local attraction in the form of Cromford Mill. The site is a significant part of the wider Derwent Valley Mills UNESCO World Heritage Site. It includes the world's first successful water powered cotton spinning mill which was built in 1771 by Sir Richard Arkwright. Head a few miles south west and you could pick up the circular Brassington Walk and visit Middleton Top and the expansive Carsington Water. A few miles to the west there's Birchover where you can visit the Bronze Age Nine Ladies Stone Circle and the wonderful rock formations at Robin Hood's Stride. For more walking ideas in the area see the Derbyshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/nzhNvz8PftU",
   "district": "Matlock",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

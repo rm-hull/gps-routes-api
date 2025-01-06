@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:31:27.548453+00:00",
   "objectID": "13cd7576016d2c1f8124ceae35cbf8e0",
-  "created_at": "2024-12-20T12:54:47.260588+00:00",
   "ref": "poolsbrook-country-park-walking-and-cycle-route",
   "title": "Poolsbrook Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Path_round_Poolsbrook_Lake_-_geograph.org.uk_-_1922586.jpg",
@@ -54,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Entrance_Sign%2C_Poolsbrook_Country_Park_-_geograph.org.uk_-_1999819.jpg/512px-Entrance_Sign%2C_Poolsbrook_Country_Park_-_geograph.org.uk_-_1999819.jpg",
-      "title": "Entrance Sign, Poolsbrook  Country Park by Paul Shreeve, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Entrance Sign, Poolsbrook Country Park by Paul Shreeve, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Entrance Sign"
     },
     {
@@ -79,15 +79,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Meadows_Drive%2C_entrance_to_Pools_Brook_country_park_-_geograph.org.uk_-_3249712.jpg/512px-Meadows_Drive%2C_entrance_to_Pools_Brook_country_park_-_geograph.org.uk_-_3249712.jpg?20220302022703",
-      "title": "Meadows Drive, entrance to Pools Brook country park by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Meadows Drive, entrance to Pools Brook country park by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Meadows Drive, entrance to the park."
     }
   ],
   "distance_km": 3.5,
   "description": "This 180 acre park consists of 85 acres of woodland, 42 acres of grassland and 23 acres of green water. There are several miles of well maintained paths suitable for cyclists or walkers. The park is located in Staveley, very near to Chesterfield and the village of Duckmanton. To extend your walk you can head north from the park and link up with the Chesterfield Canal. You could then follow a nice section of the canal into Chesterfield. The Cuckoo Way long distance trail also runs to the north of the park. Follow it north and you will come to Eckington's Renishaw Hall and Rother Valley Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe where you can enjoy a range of meals and snacks after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is ideal for a dog walk so expect to see plenty of other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Derbyshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JYv7k4el6dM",
   "district": "Staveley",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

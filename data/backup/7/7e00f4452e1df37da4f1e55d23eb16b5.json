@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:13:06.543983+00:00",
   "objectID": "7e00f4452e1df37da4f1e55d23eb16b5",
-  "created_at": "2024-12-19T07:47:38.447785+00:00",
   "ref": "rimrose-valley-country-park-walking-route",
   "title": "Rimrose Valley Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Rimrose_Valley_-_geograph.org.uk_-_105622.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Rimrose_Valley_Nature_Reserve%2C_Litherland%2C_Merseyside_-_geograph.org.uk_-_1446713.jpg",
       "title": "david lawler / Rimrose Valley Nature Reserve, Litherland, Merseyside",
-      "caption": "Rimrose Valley Nature Reserve, Litherland, Merseyside. View of pathway, looking west. This nature reserve is run and managed by the Sefton Ranger Service.  As Sefton's only non-coastal reserve the valley provides a valuable and unique green oasis amongst what is otherwise a heavily populated and industrialised area. With its interesting network of pathways and raised boardwalks, Brookvale and Rimrose Valley as a whole provides opportunities for quiet informal countryside recreation in an area where such activities are scarce."
+      "caption": "Rimrose Valley Nature Reserve, Litherland, Merseyside. View of pathway, looking west. This nature reserve is run and managed by the Sefton Ranger Service. As Sefton's only non-coastal reserve the valley provides a valuable and unique green oasis amongst what is otherwise a heavily populated and industrialised area. With its interesting network of pathways and raised boardwalks, Brookvale and Rimrose Valley as a whole provides opportunities for quiet informal countryside recreation in an area where such activities are scarce."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Entrance_to_Rimrose_Valley_Country_Park_-_geograph.org.uk_-_2764523.jpg",
@@ -65,9 +65,16 @@
   ],
   "distance_km": 4.5,
   "description": "This pretty park in Crosby sits by the side of the Leeds Liverpool Canal and includes the delightful Brook Vale Local Nature Reserve. The park is made up of wetland and dryer grassy areas with an abundance of birdlife including Snipe, Water Rail, Woodcock, Dunnock, Common Whitethroat and Blackcap. It's an ideal place for a peaceful, waterside walk. To continue your walking pick up the Leeds and Liverpool Canal or head to the coast on our Crosby Beach Walk. Here you can visit the famous 'Another Place' sculptures by Antony Gormley.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east there's more canal side trails around Maghull where you can visit the Lunt Meadows Nature Reserve."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MCL02TwljYw",
   "postcode": "L21 9NR",
   "district": "Litherland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

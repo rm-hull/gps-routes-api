@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:52:21.958118+00:00",
   "objectID": "3c7dcedff9ed8759d3ed5769beea0b88",
-  "created_at": "2024-12-19T13:49:48.329366+00:00",
   "ref": "blacko-tower-walking-route",
   "title": "Blacko Tower Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Blacko_Tower_-_geograph.org.uk_-_1138193.jpg",
@@ -50,8 +50,19 @@
   ],
   "distance_km": 5.0,
   "description": "This circular walk takes you around Blacko Tower from the village of Blacko in Lancashire. There's no access to the tower itself but you can follow public footpaths around the monument and enjoy some fine views. It's also known as Stansfield Tower having been built in the late 19th century by John Stansfield, a local grocer who wanted to provide a viewpoint over Ribblesdale. The route starts in the village and uses part of the Pendle Way and other public paths to take you around the site. On the way there are some splendid views over the Yorkshire Dales.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Cross Gaits is a Grade II listed building and has been operating for over 300 years. They serve good quality food and are also dog friendly. You can find them on the Beverley Road at postcode BB9 6RF for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north east is neighbouring Earby where you can visit the delightful Earby Waterfalls on the Wencliffe Brook."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2BvSQ90lDvI",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

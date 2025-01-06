@@ -1,78 +1,93 @@
 {
-  "objectID": "fef29769633a7e49e2e536fe3ccde5ea",
-  "created_at": "2024-12-19T17:44:20.896920+00:00",
-  "ref": "ulverston-lighthouse-walking-route",
-  "title": "Ulverston Lighthouse Hoad Monument Walk Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hoad_Hill_-_geograph.org.uk_-_218848.jpg",
-  "nearby": [
-    {
-      "description": "Ulverston Canal",
-      "objectID": "5fa6be28cae962cb5d46d96eef1bb31f",
-      "ref": "ulverston-canal-walking-route"
+    "created_at": "2025-01-06T00:21:57.697335+00:00",
+    "objectID": "fef29769633a7e49e2e536fe3ccde5ea",
+    "ref": "ulverston-lighthouse-walking-route",
+    "title": "Ulverston Lighthouse Hoad Monument Walk Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hoad_Hill_-_geograph.org.uk_-_218848.jpg",
+    "nearby": [
+        {
+            "description": "Ulverston Canal",
+            "objectID": "5fa6be28cae962cb5d46d96eef1bb31f",
+            "ref": "ulverston-canal-walking-route"
+        },
+        {
+            "description": "Cistercian Way",
+            "objectID": "6065c32d64905642fc209103eec90348",
+            "ref": "cistercian-way-walking-route"
+        },
+        {
+            "description": "Birkrigg Common",
+            "objectID": "37f742c173b9571082e7b42c5fbc3635",
+            "ref": "birkrigg-common-walking-route"
+        },
+        {
+            "description": "Cumbria Way",
+            "objectID": "6612801969693acf2f01237cbb628a00",
+            "ref": "cumbria-way-walking-route"
+        },
+        {
+            "description": "Cumbria Coastal Way",
+            "objectID": "2fcd19e1d9c4bc3c8a117c9c237af3f5",
+            "ref": "cumbria-coastal-way-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fef29769633a7e49e2e536fe3ccde5ea.gpx",
+    "_geoloc": {
+        "lat": 54.1974371,
+        "lng": -3.0921747295
     },
-    {
-      "description": "Cistercian Way",
-      "objectID": "6065c32d64905642fc209103eec90348",
-      "ref": "cistercian-way-walking-route"
-    },
-    {
-      "description": "Birkrigg Common",
-      "objectID": "37f742c173b9571082e7b42c5fbc3635",
-      "ref": "birkrigg-common-walking-route"
-    },
-    {
-      "description": "Cumbria Way",
-      "objectID": "6612801969693acf2f01237cbb628a00",
-      "ref": "cumbria-way-walking-route"
-    },
-    {
-      "description": "Cumbria Coastal Way",
-      "objectID": "2fcd19e1d9c4bc3c8a117c9c237af3f5",
-      "ref": "cumbria-coastal-way-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/fef29769633a7e49e2e536fe3ccde5ea.gpx",
-  "_geoloc": {
-    "lat": 54.1974371,
-    "lng": -3.0921747295
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hoad_Hill_-_geograph.org.uk_-_218848.jpg",
-      "title": "DS Pugh / Hoad Hill",
-      "caption": "Hoad Hill. Taken from the bridleway up to Hoad Hill Monument."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sir_John_Barrow_Memorial%2C_Ulverston_-_geograph.org.uk_-_1457160.jpg",
-      "title": "Gordon Elliott / Sir John Barrow Memorial, Ulverston",
-      "caption": "Sir John Barrow Memorial. The monument, in the shape of a former Eddystone Lighthouse, was erected by public subscription in 1850, on Hoad Hill. Sir John Barrow (1764 \u0096 1848) was a founder member of the Royal Geographical Society in 1830, and promoted British exploration, most notably of West Africa and the North Polar Region, with attempts to find a north west passage from east to west through the Canadian Arctic."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hoad_Hill_-_geograph.org.uk_-_3065.jpg",
-      "title": "Fred Pickstone / Hoad Hill",
-      "caption": "A wintery view up to the tower from the bottom of the hill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hoad_plaque.JPG/256px-Hoad_plaque.JPG",
-      "title": "Yohan euan o4, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "The information board at the site which tells you all about the life of John Barrow."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Outcrop_on_Hoad_Hill_-_geograph.org.uk_-_2066806.jpg",
-      "title": "Outcrop on Hoad Hill by Ian Taylor, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Outcrop on Hoad Hill with a glorious view to the coast."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gateway_to_Hoad_Hill_-_geograph.org.uk_-_2066790.jpg/256px-Gateway_to_Hoad_Hill_-_geograph.org.uk_-_2066790.jpg",
-      "title": "Gateway to Hoad Hill by Ian Taylor, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Gateway to Hoad Hill. Steps and gate on Hoad Lane with a view up to the monument."
-    }
-  ],
-  "distance_km": 4.0,
-  "description": "This circular walk from Ulverston takes you up to the Hoad Monument on Hoad Hill. It's a fairly short but quite steep climb with benches to rest on along the way if you need to. You can start the walk in the town centre and then follow footpaths north east past Town Bank and then up to the hill top which stands at a height of 436 feet/133 metres. Here you will find the distinctive 100 feet (30.5 metre) high tower at the top of Hoad Hill. The tower was built in 1850 to commemorate the life and work of Sir John Barrow who was born in Ulverston in 1764. He is notable as a founding member of the Royal Geographical Society, and held various government posts in the 19th century becoming the Second Secretary to the Admiralty. The monument is often referred to as the Ulverston Lighthouse though it has never functioned as one. It is something of a local landmark and a Grade II listed building. You can climb the tower's 112 steps and enjoy wonderful views of the Furness Peninsula, Morecambe Bay and the southern Lake District. After taking in the views the route descends to the north west, passing the woodland of the Out Rake Plantation. You then head south west past Flan Hill to meet up with the Cumbria Way. You can then follow the waymarked footpath south through Gill Banks Woods and Lawyers Woods. Shortly after you return to the town centre where the route finishes.",
-  "video_url": "https://www.youtube.com/embed/ECnKCis8VLY",
-  "district": "Ulverston",
-  "county": "Westmorland and Furness",
-  "region": "North West",
-  "country": "England"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hoad_Hill_-_geograph.org.uk_-_218848.jpg",
+            "title": "DS Pugh / Hoad Hill",
+            "caption": "Hoad Hill. Taken from the bridleway up to Hoad Hill Monument."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Sir_John_Barrow_Memorial%2C_Ulverston_-_geograph.org.uk_-_1457160.jpg",
+            "title": "Gordon Elliott / Sir John Barrow Memorial, Ulverston",
+            "caption": "Sir John Barrow Memorial. The monument, in the shape of a former Eddystone Lighthouse, was erected by public subscription in 1850, on Hoad Hill. Sir John Barrow (1764 \u0096 1848) was a founder member of the Royal Geographical Society in 1830, and promoted British exploration, most notably of West Africa and the North Polar Region, with attempts to find a north west passage from east to west through the Canadian Arctic."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hoad_Hill_-_geograph.org.uk_-_3065.jpg",
+            "title": "Fred Pickstone / Hoad Hill",
+            "caption": "A wintery view up to the tower from the bottom of the hill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Hoad_plaque.JPG/256px-Hoad_plaque.JPG",
+            "title": "Yohan euan o4, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+            "caption": "The information board at the site which tells you all about the life of John Barrow."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Outcrop_on_Hoad_Hill_-_geograph.org.uk_-_2066806.jpg",
+            "title": "Outcrop on Hoad Hill by Ian Taylor, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Outcrop on Hoad Hill with a glorious view to the coast."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Gateway_to_Hoad_Hill_-_geograph.org.uk_-_2066790.jpg/256px-Gateway_to_Hoad_Hill_-_geograph.org.uk_-_2066790.jpg",
+            "title": "Gateway to Hoad Hill by Ian Taylor, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+            "caption": "Gateway to Hoad Hill. Steps and gate on Hoad Lane with a view up to the monument."
+        }
+    ],
+    "distance_km": 4.0,
+    "description": "This circular walk from Ulverston takes you up to the Hoad Monument on Hoad Hill. It's a fairly short but quite steep climb with benches to rest on along the way if you need to. You can start the walk in the town centre and then follow footpaths north east past Town Bank and then up to the hill top which stands at a height of 436 feet/133 metres. Here you will find the distinctive 100 feet (30.5 metre) high tower at the top of Hoad Hill. The tower was built in 1850 to commemorate the life and work of Sir John Barrow who was born in Ulverston in 1764. He is notable as a founding member of the Royal Geographical Society, and held various government posts in the 19th century becoming the Second Secretary to the Admiralty. The monument is often referred to as the Ulverston Lighthouse though it has never functioned as one. It is something of a local landmark and a Grade II listed building. You can climb the tower's 112 steps and enjoy wonderful views of the Furness Peninsula, Morecambe Bay and the southern Lake District. After taking in the views the route descends to the north west, passing the woodland of the Out Rake Plantation. You then head south west past Flan Hill to meet up with the Cumbria Way. You can then follow the waymarked footpath south through Gill Banks Woods and Lawyers Woods. Shortly after you return to the town centre where the route finishes.",
+    "details": [
+        {
+            "subtitle": "Pubs/Cafes",
+            "content": "Back in the town The Stan Laurel Inn is always a good choice for some refreshments. The pub is named after comedian Stan Laurel who came from the town. The friendly inn serves good home cooked food at reasonable prices. There's also a garden area for the summer. You can find them at 31 The Ellers with a postcode of LA12 0AB. At the end of the Ulverston Canal at the foot of the hill there's The Bay Horse Hotel & Restaurant. The former coaching inn dates back to the 17th century. You can find them at the seaward end of the canal at postcode LA12 9EL."
+        },
+        {
+            "subtitle": "Dog Walking",
+            "content": "The hill makes for a fine walk for a fit dog. The Bay Horse and the Stan Laurel Inn mentioned above are also dog friendly."
+        },
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "At the bottom of the hill you'll pass close to the Ulverston Canal basin. You can pick up a waterside footpath heading south east towards the coast where you can join with the epic Cumbria Coastal Way. For more walking ideas in the area see the Lake District Walks and the Cumbria Walks pages."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/ECnKCis8VLY",
+    "district": "Ulverston",
+    "county": "Westmorland and Furness",
+    "region": "North West",
+    "country": "England",
+    "gazetteer_found": true
 }

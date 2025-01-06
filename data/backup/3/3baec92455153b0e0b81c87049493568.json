@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:40:14.474387+00:00",
   "objectID": "3baec92455153b0e0b81c87049493568",
-  "created_at": "2024-12-18T09:59:48.357230+00:00",
   "ref": "haddington-hill-walking-route",
   "title": "Haddington Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Summit_of_Haddington_Hill_%28Wendover_Woods%29_-_geograph.org.uk_-_1440550.jpg",
@@ -75,8 +75,19 @@
   ],
   "distance_km": 4.5,
   "description": "Enjoy a climb to the highest point in the county of Buckinghamshire on this circular walk in Wendover Woods. There's a car park located very close to the hill summit from which you can start the walk. Follow the path east and you will soon reach the 267 m (876 ft) summit where you will find a rock marking the high point of the Chilterns. The rest of the route explores some of the footpaths to the south of the hill before returning to the car park. The Icknield Way Path and The Ridgeway long distance trails both pass the hill. To continue your hill climbing in the Chilterns, follow the trails west to Coombe Hill. Here you can enjoy fabulous views over the Aylesbury Vale and the Cotswolds.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise you could enjoy refreshments at the Wendover Woods Cafe, located right next to the main car park. There's lots of tables outside where you can enjoy a meal with great views of the trees. It's a lovely spot to relax after your exercise. They serve a wide range of tasty hot and cold locally sourced food (including daily specials), delicious cakes and freshly baked pastries, as well as a range of hot and cold Fairtrade drinks. Just to the north of the cafe there's a bookable BBQ area if you fancy bringing along your own food to cook. Just email wendoverbbq@forestryengland.uk for more info."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for a dog walk. The Wendover Woods Cafe mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xxGvX3AREtE?start=18",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

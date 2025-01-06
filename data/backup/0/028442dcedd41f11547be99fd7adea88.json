@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:47:48.453573+00:00",
   "objectID": "028442dcedd41f11547be99fd7adea88",
-  "created_at": "2024-12-18T22:55:46.019977+00:00",
   "ref": "billingham-beck-valley-country-park-walking-route",
   "title": "Billingham Beck Valley Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Visitor_Centre_Billingham_Beck_Valley_Country_Park_-_geograph.org.uk_-_1619472.jpg",
@@ -65,9 +65,20 @@
   ],
   "distance_km": 1.5,
   "description": "This country park is located on the south western side of Billingham, on the pretty Billingham Beck. There's some pleasant nature trails with ponds, a picnic area and lots of wildlife to look out for. Birds include Herons and Sparrowhawks with water voles, weasels, rabbits, hares, and the odd deer to look out for too. Cowpen Bewley Woodland Park is only a couple of miles to the north east so it's easy to extend your outing here if you have time. The park includes a lake, a beck and some peaceful woodland trails. Wynyard Woodland Park and Coatham Woods are other good local options.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers so you will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For cyclists National Cycle Route 14 runs just past the park. The trail can be followed to Cowpen Bewley."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QjP1uZC3AZA",
   "district": "Billingham",
   "county": "Stockton-on-Tees",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

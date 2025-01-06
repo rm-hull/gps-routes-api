@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:16:21.064340+00:00",
   "objectID": "31a09369f61455be56997399d35410ca",
-  "created_at": "2024-12-18T14:09:45.536806+00:00",
   "ref": "cheddleton-walking-route",
   "title": "Cheddleton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Cheddleton_Flint_Mill_%28geograph_2836060%29.jpg",
@@ -22,7 +22,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Spring%27s_Bridge%2C_Caldon_Canal%2C_Cheddleton%2C_Staffordshire_-_geograph.org.uk_-_589999.jpg",
-      "title": "Roger  Kidd / Spring's Bridge, Caldon Canal, Cheddleton, Staffordshire",
+      "title": "Roger Kidd / Spring's Bridge, Caldon Canal, Cheddleton, Staffordshire",
       "caption": "Spring's Bridge, Caldon Canal, Cheddleton, Staffordshire"
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 4.0,
   "description": "This pretty village is located in the Churnet Valley area of the Staffordshire Moorlands. The area includes a wonderful old mill museum, canalside trails, a fine local country park and the splendid Churnet Valley Heritage Railway. This circular walk from the village visits some of the highlights of the area including Cheddleton Flint Mill, the River Churnet, the Caldon Canal and Deep Hayes Country Park. The walk starts from the Flint Mill in the village centre. The old mill dates from the period of the Industrial Revolution and is Grade II listed. The interesting site features two water mills, a small museum, a period cottage, the canal and many other exhibits. From here you can pick up a path along the Caldon Canal and follow it north past the weir towards Horse Bridge. You can then pick up footpaths heading through Deep Hayes with its woodland and series of pretty lakes. The route then passes Crowpoint Wood before turning east to Shaffalong and back into Cheddleton.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Black Lion is a good choice for some post walk refreshment. The friendly pub is located in a nice spot near St Edward's church. They serve good food and have two outdoor seatings areas for warmer days. You can find them near the Flint Mill at Hollow Lane, ST13 7HP."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The canal, country and woodland trails make for a fine dog walk. The Black Lion mentioned above is also dog friendly with treats available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Oxqdqx83OOU",
   "postcode": "ST13 7HL",
   "district": "Cheddleton",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

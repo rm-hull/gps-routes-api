@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:51:44.010269+00:00",
   "objectID": "c9060cc7e9b3607fe230e1cdf4b33022",
-  "created_at": "2024-12-21T19:47:29.876185+00:00",
   "ref": "pilgrims-way-walking-route",
   "title": "Pilgrims Way Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Ranmore_Common_Bridleway_-_geograph.org.uk_-_560363.jpg",
@@ -90,10 +90,16 @@
   ],
   "distance_km": 214.0,
   "description": "Follow in the footsteps of the pilgrims who followed this ancient track from Winchester in Hampshire, to the shrine of Thomas Becket at Canterbury in Kent. The route runs for over 130 miles with some lovely sections through the Kent Downs AONB and the North Downs. You'll also pass through a series of historic towns and villages with ancient churches and ruined abbeys to explore. For the cycle route that runs from Rochester to Canterbury please see the Pilgrims Way Cycle Route page.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the Kent village of Hollingbourne make a pit stop at the splendidly named Dirty Habit. It's a pub of some note with a history dating back to the 11th century when it began life as a monk’s ale and cider house. The pilgrims who passed on their way to Canterbury would refresh themselves and perhaps stay the night. It is also said that James II stayed here whilst escaping the country to France. They serve high quality dishes and have a lovely garden area to sit out in on warmer days. You can find them on Upper Street at postcode ME17 1UW. The historic village is also worth exploring with over a hundred listed buildings including some fine timber framed structures on Eyhorne Street and the noteworthy All Saints Church which dates from the 14th century. Just to the north of here there's also the lovely Hucking Estate which includes a Norman church, a waymarked sculpture trail and another fine country pub at the north western end. The Kent Downs village of Lenham is a good choice for a pit stop. The worthy settlement includes a pretty square and a historic high street with a number of listed buildings. There's also a Grade I listed Tithe Barn, a notable 14th century church and an early 1600s pub to investigate. The Dog and Bull was originally built in 1602 and visited by Queen Anne in 1704 - her coat of arms is still displayed above the door today. They serve fine food and have a pleasant courtyard garden for the summer months. You can find them on the Square at postcode ME17 2PG for your sat navs. Around Harrietsham you will pass close to the noteworthy Ringlestone Inn, a beautiful grade II listed pub housed in building dating back to 1533 and originally used as a hospice for monks. The pub is worth a small detour and can be found at postcode ME17 1NX."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just east of Canterbury you can visit the Stodmarsh National Nature Reserve which boasts the largest reedbeeds in the South East of England. This area also includes the lovely Grove Ferry Walk which starts at the eastern end of the reserve. There's a car park, picnic area, boat trips and a fine riverside pub here. At the western end of the reserve you'll also find the Westbere Marshes and the noteworthy town of Fordwich. Fordwich is notable as Britain's smallest town and also has a great pub with a dining terrace overlooking the Stour."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/v-lKkpJSWdw",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c9060cc7e9b3607fe230e1cdf4b33022.gpx",
-  "_geoloc": {
-    "lat": 51.0606278082,
-    "lng": -1.3132493795
-  }
+  "gazetteer_found": false
 }

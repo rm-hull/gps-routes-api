@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:24:17.594272+00:00",
   "objectID": "2fe71e7dcb00f1de5e6784ac5ca5d808",
-  "created_at": "2024-12-18T16:28:14.109627+00:00",
   "ref": "sandall-beat-wood-walking-route",
   "title": "Sandall Beat Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Track_in_Sandall_Beat_Wood_-_geograph.org.uk_-_2428865.jpg/512px-Track_in_Sandall_Beat_Wood_-_geograph.org.uk_-_2428865.jpg",
@@ -64,13 +64,24 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cantley_Park_-_geograph.org.uk_-_1061582.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cantley Park. The park makes a nice extension to the walk."
     }
   ],
   "distance_km": 1.7,
   "description": "Enjoy an easy walk around this pleasant area of woodland on the outskirts of Doncaster. The woods include a car park, visitor centre and a circular trail with lots of wildlife to look out for on the way. You can find the woods just to the east of the town centre, next to Doncaster racecourse. The woods border the adjacent Cantley Park where there's a walking trail with more woodlands, wildlife and ponds.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head south and you could visit the Potteric Carr Nature Reserve. Here you'll find 500 acres of marsh, scrub, waterways, grassland and woodland with lots of wildlife to see as well. To the east you can pick up the Peatlands Way to explore Thorne Moors and Hatfield Moors, part of the Humberhead Peatlands National Nature Reserve. The moors are the second largest lowland raised peat bog in England and notable for their diversity of wildlife and plantlife."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6O5RZLRVJiY",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

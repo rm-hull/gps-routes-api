@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:13:41.608756+00:00",
   "objectID": "0dafc8eb9ba16a52abe201304c1e28c3",
-  "created_at": "2024-12-18T00:54:08.303205+00:00",
   "ref": "neigh-bridge-country-park-walking-route",
   "title": "Somerford Keynes and Neigh Bridge Country Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Neigh_Bridge_Lake%2C_Neigh_Bridge_Country_Park_-_geograph.org.uk_-_4916962.jpg/512px-Neigh_Bridge_Lake%2C_Neigh_Bridge_Country_Park_-_geograph.org.uk_-_4916962.jpg",
@@ -70,10 +70,17 @@
   ],
   "distance_km": 1.6,
   "description": "This walk visits Neigh Bridge Lake in the Cotswold Water Park in Gloucestershire. The lake has a nice circular footpath to follow around the water for a distance of just under a mile. There's a car park right next to the lake or you could stroll down from the nearby village of Somerford Keynes. This walk starts from the car park and circles the lake before heading along the Thames Path to visit Kemble Mill and the village. Here you can enjoy views of the 15th century manor house and the 13th century church. Nearby there's also the Cotswold Sculpture Park where there are more than 170 individual sculptures from local and international artists. There's also a nice tea room where you can grab some refreshments here. Just beyond that is Cotswold Country Park where there's the largest inland beach in the UK.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Someford Keynes you could stop off at the Baker's Arms for some refreshments. The historic pub dates back to the 16th century and serves good home-cooked food. They have a nice garden area and are also Dog friendly. You can find them at postcode GL7 6DN."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NDCK_UA0G4E",
   "postcode": "GL7 6DX",
   "district": "Somerford Keynes",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

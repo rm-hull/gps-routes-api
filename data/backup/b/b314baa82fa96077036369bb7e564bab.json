@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:33:48.004796+00:00",
   "objectID": "b314baa82fa96077036369bb7e564bab",
-  "created_at": "2024-12-18T12:58:48.761252+00:00",
   "ref": "cefn-onn-park-walking-route",
   "title": "Cefn Onn Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Cefn_Onn_Park_%28geograph_6315831%29.jpg/512px-Cefn_Onn_Park_%28geograph_6315831%29.jpg",
@@ -70,10 +70,21 @@
   ],
   "distance_km": 2.0,
   "description": "This gem of a park is located on the northern outskirts of Cardiff. It has a large collection of specimen trees, rare plants and flowers with well surfaced, waymarked walking paths to follow. You'll also find rhododendron and azelea bushes, carpets of bluebells and buttercups, ponds and a gently trickling stream. If you'd like to continue your walk you could pick up the Rhymney Valley Ridgeway Walk which runs just to the north of the park and takes you through the countryside surrounding Caerphilly. Parking is available at the southern end of the park. Lisvane & Thornhill train station is just a few minutes walk from the park so you can easily come by train too.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is very popular with dog walkers so you're bound to see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Also in Cardiff you'll find the popular Bute Park. The large park includes beautiful gardens, tree lined avenues, an arboretum and the historic Cardiff Castle. The epic Cambrian Way passes the park. The long distance waymarked route runs for nearly 300 miles through the Brecon Beacons, the Cambrian Mountains and Snowdonia before finishing on the North Wales coast at Conwy."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JaMQq8g4FRc",
   "postcode": "CF14 0UE",
   "district": "Cardiff / Caerdydd",
   "county": "Caerdydd - Cardiff",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

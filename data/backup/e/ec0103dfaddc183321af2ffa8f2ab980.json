@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:17:28.323951+00:00",
   "objectID": "ec0103dfaddc183321af2ffa8f2ab980",
-  "created_at": "2024-12-19T04:36:47.038254+00:00",
   "ref": "osterley-park-walking-route",
   "title": "Osterley Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/25/Osterley_Park_-_geograph.org.uk_-_86321.jpg",
@@ -70,10 +70,25 @@
   ],
   "distance_km": 5.0,
   "description": "A walk around the 350 acres of parkland at Osterley House in Hounslow West London. The country estate is one of the largest open spaces in west London and has miles of nice footpaths to try. In the park you'll find farmland, cattle, lakes and gardens with herbaceous borders, roses and ornamental vegetables beds. The site also includes family cycle trails so it's a great place for outdoor exercise and just a short hop from central London. The Grand Union Canal passes the park on the eastern and northern sides. You can pick up the towpath to extend your exercise. Heading south will take you towards Brentford and Syon Park where there are more good walking trails.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Stables Caf\u00e9 is a nice place to refresh yourself after your exercise. They have a good range of meals, snacks and cakes with seating indoors and out."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is an excellent place to bring your dog for a walk. There are open long grassy areas where they can run around off lead. Please keep them on leads in the short grass areas and on the main paths by the House and Stables Courtyard though. The Stables Caf\u00e9 mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can reach the park by public transport on the London Underground. Osterley station is on the Heathrow branch of the Piccadilly line, between Boston Manor and Hounslow East. It is in Travelcard Zone 4 and located a short walk south of the park. Head a short distance north of the park and you'll soon come to the confluence of the Grand Union Canal and the River Brent. Here you can pick up the Brent River Park Walk and follow the riverside trail through Ealing to Perivale. There's some nice riverside parks and a series of weirs on the way. In leafy Ealing there's nice trails around Ealing Common and the historic Walpole Park. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bdlsa-YjU8o",
   "postcode": "TW7 4QY",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

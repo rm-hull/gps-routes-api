@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:23:31.083543+00:00",
   "objectID": "e0c2117116418f91fdc8b33c8b3949e1",
-  "created_at": "2024-12-18T13:45:38.247557+00:00",
   "ref": "furzton-lake-walking-and-cycle-route",
   "title": "Furzton Lake Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Furzton_Lake%2C_Milton_Keynes._-_geograph.org.uk_-_1475194.jpg",
@@ -38,7 +38,7 @@
     {
       "description": "Bletchley Park",
       "objectID": "a5a7c35cc07c099c702072a1799cb07b",
-      "ref": "bletchley park-walking-route"
+      "ref": "bletchley\u00a0park-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e0c2117116418f91fdc8b33c8b3949e1.gpx",
@@ -80,10 +80,21 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy a short cycle or walk around this pretty lake in Milton Keynes. The lake has a well surfaced path around it's perimeter making it ideal for families looking for a safe cycle path or walkers looking for an easy waterside stroll. You can start the walk from the car park on Watling Street on the eastern side of the lake. About a mile south west of the lake you will find Howe Park Wood where there's some nice shady woodland trails and the 16th century St Giles Church in Tattenhoe.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lakeside path is a popular one with dog owners so you'll probably pass a few on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A couple of miles to the east you can enjoy more waterside walking along the Grand Union Canal and around Caldecotte Lake. There's a free trim trail with outdoor gym equipment and a table tennis table here too. Just to the north west there's the canalside village of Cosgrove. There's a fine 17th century pub and the notweworthy Cosgrove aqueduct here. The cast iron trough structure carries the Grand Union Canal over the River Great Ouse, just to the south east of the village.  On the eastern side of Milton Keynes there's Newport Pagnell to explore. There's some lovely riverside trails, a fine local park and several historic buildings to see in this nearby town. The town is well known for being the original home of the exclusive sports car manufacturer Aston Martin. There's also a Grade I listed iron bridge dating from the early 19th century to see here. Just a couple of miles to the south east you'll find Bletchley Park and its fascinating museum. This historic site is world famous as the location of the crucial Allied code-breaking during World War II. The park is also a nice place for a stroll with some pleasant gardens and an ornamental lake. For more walking ideas in the area see the Buckinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pfT00U0IFJ0",
   "postcode": "MK4 1FB",
   "district": "Milton Keynes",
   "county": "Milton Keynes",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

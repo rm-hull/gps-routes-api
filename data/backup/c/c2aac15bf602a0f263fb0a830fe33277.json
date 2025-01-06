@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:19:16.183636+00:00",
   "objectID": "c2aac15bf602a0f263fb0a830fe33277",
-  "created_at": "2024-12-18T11:53:58.961619+00:00",
   "ref": "north-dorset-trailway-walking-and-cycle-route",
   "title": "North Dorset Trailway Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/North_Dorset_Trailway_-_geograph.org.uk_-_378936.jpg",
@@ -90,10 +90,21 @@
   ],
   "distance_km": 20.7,
   "description": "This splendid walking and cycling path runs along a dismantled railway line from Sturminster Newton to Spetisbury in Dorset. The path has regular views of the River Stour following it for most of the route. You will pass through a series of pretty villages and towns including Sturminster Newton, Stourpaine and Blandford Forum before finishing at Crawford Castle at Spetisbury. On the way there's nice views of the nearby Hod Hill and Hambledon Hill which is a great place to enjoy views over the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route we recommend popping into the White Horse Inn in Stourpaine for some refreshments. It's a quaint pub of some note, dating back to the early 18th Century. Today, the inside provides an open-plan layout with a bar, restaurant, shop, post office, games room, wood burning stoves & an open fire. The external provides a covered outdoor decking area at the rear and a seating area out the front for warm summer days. There's also a village shop within the pub with a deli counter which sells a variety of delicious, fresh products. You can find the pub in the village at postcode DT11 8TA for your sat navs.In Blandford head to the Crown Hotel in the town centre. The pub/hotel is set in a redbrick Georgian property near to the interesting Blandford Town Museum. Highlights include a lounge with leather sofas and a fireplace, and a garden with a terrace seating to relax in on the warmer days. You can find it on West St at postcode DT11 7AJ. Near Spetisbury at the start/end of the route there's the Anchor Inn in the pretty riverside village of Shapwick. It's a lovely pub with a good menu and some outdoor seating for fine days. You can find the at a postcode of DT11 9LB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Spetisbury you will pass the Spetisbury Rings Iron Age Hill Fort. You can climb to the top of the ancient fort for some lovely views over the area. The trail is part of Sustrans National Cycle Route 25 which runs from Longleat in Wiltshire to Bournemouth on the Dorset south coast. For more walking ideas in the area see the Dorset Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Sx6PXJcW1NQ",
   "postcode": "DT10 1BA",
   "district": "Sturminster Newton",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

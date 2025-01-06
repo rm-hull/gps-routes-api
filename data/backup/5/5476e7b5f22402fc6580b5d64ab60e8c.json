@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:10:12.343729+00:00",
   "objectID": "5476e7b5f22402fc6580b5d64ab60e8c",
-  "created_at": "2024-12-19T17:04:19.792372+00:00",
   "ref": "silton-forest-walking-and-cycle-route",
   "title": "Silton Forest Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Silton_Forest_-_geograph.org.uk_-_856672.jpg",
@@ -45,13 +45,20 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Forest_track%2C_Over_Silton_Moor_-_geograph.org.uk_-_717228.jpg/256px-Forest_track%2C_Over_Silton_Moor_-_geograph.org.uk_-_717228.jpg",
       "title": "Gordon Hatton / Forest track, Over Silton Moor",
-      "caption": "Forest track, Over Silton Moor.  A well surfaced forest track which forms part of the national cycle network. Looking south towards Woolmoor."
+      "caption": "Forest track, Over Silton Moor. A well surfaced forest track which forms part of the national cycle network. Looking south towards Woolmoor."
     }
   ],
   "distance_km": 8.0,
   "description": "Enjoy miles of mountain bike trails and footpaths in this large coniferous forest on the North York Moors. You can park on Moor Lane near to the village of Nether Stilton to start your exercise. A cycling and walking trail then runs to the north of the forest along National Cycle Route 65. The tracks are great for mountain bikers with berms, humps, tight turns and drops. The Cleveland Way runs along the eastern fringe of the forest so you can pick this up to continue your walk. Heading north will take you across Thimbleby Moor to Osmotherley where you can enjoy a waterside walk around Cod Beck Reservoir. The video below shows a walk to the forest from there. Heading south will take you to Boltby Forest where there are more good trails to try.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south east you can visit the village of Hawnby and enjoy a climb to the splendid viewpoint at Hawnby Hill. There's wonderful views over Ryedale from this elevated spot."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Ot_adeGUdDk",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:28:28.210096+00:00",
   "objectID": "c31ac489197f56118bab56796509c29d",
-  "created_at": "2024-12-18T09:59:23.666104+00:00",
   "ref": "menstrie-glen-walking-route",
   "title": "Menstrie Glen Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Menstrie_Glen_-_geograph.org.uk_-_2600590.jpg?20210910061337",
@@ -19,6 +19,11 @@
       "description": "Wallace Monument",
       "objectID": "c0178497370997d082599c6d175e21eb",
       "ref": "wallace-monument-walking-route"
+    },
+    {
+      "description": "Tillicoultry Glen",
+      "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
+      "ref": "tillicoultry-glen-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c31ac489197f56118bab56796509c29d.gpx",
@@ -56,5 +61,12 @@
   ],
   "distance_km": 8.0,
   "description": "This walk takes you through Menstrie Glen, a picturesque valley nestled at the foot of the Ochil Hills in Clackmannanshire. Starting from the village of Menstrie, located just west of Alva and east of Stirling, the route heads north into the heart of the glen, following a well-trodden path close to the Menstrie Burn. The path ascends gently, making it accessible for walkers of moderate ability while offering a peaceful escape into the natural beauty of the area. The glen is characterised by its rugged terrain, with steep hillsides rising on either side of the burn. The valley is a haven for wildlife and boasts a variety of flora and fauna. Look out for wildflowers such as harebells, tormentil, and heather, which brighten the hillsides during spring and summer. The burn itself attracts dippers, grey wagtails, and herons, while the surrounding hills are home to red grouse and buzzards, often seen soaring above. You may also spot roe deer grazing in the quieter parts of the glen. As you walk further north, the landscape becomes more open, offering panoramic views of the Ochil Hills and beyond. The glen's history is tied to the agricultural and industrial past of the region, with remnants of old farmsteads and sheep enclosures hinting at its former use. The Menstrie Burn, once a vital resource for local communities, still flows with a sense of timeless vitality, adding to the glen's serene atmosphere. Continuing along the path, you\u2019ll reach the Lossburn Reservoir, a tranquil body of water nestled amid the hills. Originally constructed as a water supply reservoir, it now serves as a quiet spot for reflection and an ideal place to pause and take in the scenery. The reservoir is surrounded by grasslands and scattered trees, attracting additional bird species such as lapwings and curlews. To continue your walking in the area you could try the climb to nearby Dumyat from Stirling University. Alva Glen and the historic Wallace Monument are also very close by.",
-  "video_url": "https://www.youtube.com/embed/Zh2KdJ00BwY?si=qBXW0-eHThckopyb"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east there's Tillicoultry Glen and Mill Glen where you can learn about the interesting industrial past of the area."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Zh2KdJ00BwY?si=qBXW0-eHThckopyb",
+  "gazetteer_found": false
 }

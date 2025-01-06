@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:36:57.983731+00:00",
   "objectID": "cdb9d3229e413d00e7a4e7b4b2ff2136",
-  "created_at": "2024-12-21T20:08:48.824362+00:00",
   "ref": "st-oswalds-way-walking-route",
   "title": "St Oswald's Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gate_on_St_Oswald%27s_Way_-_geograph.org.uk_-_1268543.jpg",
@@ -120,9 +120,15 @@
   ],
   "distance_km": 156.0,
   "description": "Explore the coastline, islands, river valleys, hills, villages, forests and farmland of Northumberland and follow in the footstepts of St. Oswald - the King of Northumbria in the early 7th Century, who played a major part in bringing Christianity to the region. The walk begins on Holy Island next to Lindisfarne Priory (video below) and heads to Belford before starting the wonderful coastal section from Bamburgh to Warkworth. The Northumberland coastline is really beautiful, passing Bamburgh Castle (video below), Beadnell Bay, Embleton Bay, Dunstanburgh Castle and Alnmouth Bay before finishing at Warkworth near the castle. The route then heads inland along the River Coquet to Rothbury before turning south through the Simonside Hills and Harwood Forest to Kirkwhelpington. The final section joins Hadrian's Wall at Halton Shields and leads you to the finish point at St Oswald's Church in Heavenfield. The church is believed to be the location where King Oswald (604 -642) raised a large wooden cross before the Battle of Heavenfield. The walk is often completed in the following sections: 1. Holy Island to Bamburgh (19 miles / 31 km) 2. Bamburgh to Craster (14 miles / 22 km) 3. Craster to Warkworth (13.5 miles / 21.5 km) 4. Warkworth to Felton and Rothbury (18 miles / 29 km) 5. Rothbury to Kirkwhelpington (15 miles / 24 km) 6. Kirkwhelpington to Heavenfield (17.5 miles / 28.5 km)",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdb9d3229e413d00e7a4e7b4b2ff2136.gpx",
-  "_geoloc": {
-    "lat": 55.6680626634,
-    "lng": -1.7992682011
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Rothbury you will pass close to the pretty village of Thropton which is worht a slight detour from the route. Here you'll find the excellent Three Wheat Heads Inn. The main advantage here is a wonderful large beer garden with wide ranging views of the surrounding countryside and hills. If the weather is fine it's the ideal spot to relax outside and enjoy a drink. The pub also has an interesting history, dating all the way back to the 18th century. They are dog friendly and do great food in the bar and the restaurant area. You can find the inn on Front Street at postcode NE65 7LR. The Black Swan in Belford serves good food and real ale. You can find them at the Market Place at postcode NE70 7ND."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Around Felton you'll pass the historic Brinkburn Priory. The 12th century Augustinian Priory church is run by English and Heritage and is a bit of hidden gem of the area. The restored church is one of the best examples of early Gothic architecture in Northumberland. Near Rothbury you'll pass the wonderful Cragside Country Park which is well worth a slight detour from the route. Part of the route is coincident with the Northumberland Coast Path which takes you to Berwick, visiting several of the area's historic castles on the way. For more walking ideas in the area see the Northumberland Walks page."
+    }
+  ],
+  "gazetteer_found": false
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:39:47.571984+00:00",
   "objectID": "79b428a6560d9c1b00b10e9ac7b1fcdb",
-  "created_at": "2024-12-18T10:56:45.622122+00:00",
   "ref": "ladderedge-country-park-walking-route",
   "title": "Ladderedge Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Footbridge_in_Ladderedge_Country_park_-_geograph.org.uk_-_452278.jpg",
@@ -85,10 +85,17 @@
   ],
   "distance_km": 1.0,
   "description": "Explore 70 acres of wetland, meadows and woodlands on this short circular walk in Leek. The park has good footpaths with views of the River Churnet Valley and the Peak District. The Staffordshire Way runs through the park so you could follow it a mile south to Deep Hayes Country Park if you wanted to extend your exercise. The Caldon Canal and Rudyard Lake are also very nearby. You could follow the Canal Feeder north for about two miles to reach Rudyard Lake. This is a lovely waterside walk which starts in Ladderedge Country Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The popular Blue Mugge in Leek is a nice place to go for some refreshments. It's a well priced traditional pub with good food and a decent selection of beers. There's also a small outdoor area partly undercover. You can find the pub on 17 Osborne St with a postcode of ST13 6LJ for your sat navs. Also of interest is the noteworthy Roebuck. Steeped in character and charm this historic pub dates from 1626. It's dog friendly and has a lovely outdoor seating area for warmer days. You can find it at 18 Derby Street with postcode ST13 5AB."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/u-761z4Ch4c",
   "postcode": "ST13 7AB",
   "district": "Leek",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

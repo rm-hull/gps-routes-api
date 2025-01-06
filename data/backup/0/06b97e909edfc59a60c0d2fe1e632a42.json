@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:14:30.545428+00:00",
   "objectID": "06b97e909edfc59a60c0d2fe1e632a42",
-  "created_at": "2024-12-18T12:17:49.568136+00:00",
   "ref": "hillingdon-trail-walking-route",
   "title": "Hillingdon Trail Walking and Cycling Map Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hillingdon_Trail_in_Mad_Bess_Wood%2C_Ruislip_-_geograph.org.uk_-_62479.jpg",
@@ -55,7 +55,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hillingdon_Trail_in_Mad_Bess_Wood%2C_Ruislip_-_geograph.org.uk_-_62479.jpg",
       "title": "David Hawgood / Hillingdon Trail in Mad Bess Wood, Ruislip",
-      "caption": "Hillingdon Trail in Mad Bess Wood, Ruislip. Part of Ruislip Woods National Nature Reserve.  Ruislip Woods covers 726 acres and became the first National Nature Reserve in an urban area of England in 1997. The site includes grassland, ponds, streams, marshland and the delightful Ruislip Lido. The site is popular with Mountain bikers as there are a number of challenging off road trails. However there are also family cycle routes such as the David Brough cycle trail which is located in Bayhurst Wood and is suitable for all abilities of rider."
+      "caption": "Hillingdon Trail in Mad Bess Wood, Ruislip. Part of Ruislip Woods National Nature Reserve. Ruislip Woods covers 726 acres and became the first National Nature Reserve in an urban area of England in 1997. The site includes grassland, ponds, streams, marshland and the delightful Ruislip Lido. The site is popular with Mountain bikers as there are a number of challenging off road trails. However there are also family cycle routes such as the David Brough cycle trail which is located in Bayhurst Wood and is suitable for all abilities of rider."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Hillingdon_Trail_by_Ickenham_Marsh_-_geograph.org.uk_-_18613.jpg",
@@ -95,10 +95,21 @@
   ],
   "distance_km": 30.0,
   "description": "Travel through North London along the Hillingdon trail and enjoy parkland, countryside and waterside walking along the Grand Union Canal. The walk starts in Cranford Country Park and heads through the borough of Hillingdon passing West Ruislip and Harefield before finishing at Springwell Lock on the Grand Union Canal. There's much to enjoy on this walk including sections along the Grand Union Canal, the Yeading Brook and the delightful Ruislip Lido. Here you will find a reservoir with boating and sailing and the Ruislip Lido Railway which runs about one third of the distance around the reservoir. There's also sections through Bayhurst Wood Country Park and Ruislip Woods and Minet Country Park where there's ponds, grassland and a variety of wild plants and flowers. The route is mainly for walkers but some sections are also suitable for cyclists. For example mountain biking is popular in Ruislip Woods and the canal has a nice waterside path for cycles.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Ruislip Lido is a nice place to stop and enjoy a waterside snack. There are two options here with the Waters Edge pub located next to the car park on the western side of the lake. They have a good menu and outdoor seating with views over the water. There's also the Ruislip Lido Cafe at the south eastern edge of the lake. In Harefield there's the splendid The Old Orchard to consider. They have a lovely large garden area where you can enjoy a meal outside on finer days. From there's a wonderful view towards the surrounding countryside, rivers and lakes of the Colne Valley. They also have a charming interior with interesting old photos on the wall. They serve a good range of high quality food and have a good drinks selection as well. You can find them to the north west of the woods at Park Lane with a postcode of UB9 6HJ for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Harefield you can join with the Colne Valley Trail and enjoy a walk or cycle along a series of pretty lakes and the River Colne. In Ruislip you can link up with the Celandine Route. This popular walk will take you along the River Pinn from Pinner to Cowley. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ZdLAwXlhaIU?si=FmaOCDgtG1j78Xq_",
   "postcode": "UB3 5HE",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

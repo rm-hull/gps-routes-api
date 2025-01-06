@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:21:16.582068+00:00",
   "objectID": "5c8a01b887cb0dfe61a8f78fdeeb14ae",
-  "created_at": "2024-12-18T11:11:53.374468+00:00",
   "ref": "greenock-cut-walking-route",
   "title": "Greenock Cut Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Greenock_from_the_Greenock_Cut_-_geograph.org.uk_-_3486601.jpg",
@@ -50,9 +50,16 @@
   ],
   "distance_km": 11.0,
   "description": "This circular walk explores the Greenock Cut in the Clyde Muirshiel Regional Park. The trail starts from the visitor centre at the park and takes you along Loch Thom towards Greenock before turning round towards Dunrod Hill. There are wonderful views to Loch Long and over the surrounding moorland to enjoy on the popular trail. The off road route is also suitable for cyclists with a good mountain bike. You can continue your walking along the Kelly Cut which starts from the same car park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In nearby Gourock you can catch the ferry to Dunoon and try the Dunoon Bishop's Seat Walk. There's a fine viewpoint here and the ruins of the ancient Dunoon Castle to see."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/dNNed4EyDTQ?si=3ulaFvS_aYQJNZbj",
   "postcode": "PA16 9LX",
   "county": "Inverclyde",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

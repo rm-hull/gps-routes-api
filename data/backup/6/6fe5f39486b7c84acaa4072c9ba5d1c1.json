@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:41:47.701486+00:00",
   "objectID": "6fe5f39486b7c84acaa4072c9ba5d1c1",
-  "created_at": "2024-12-19T09:44:52.312177+00:00",
   "ref": "ambleside-walking-route",
   "title": "Ambleside Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Detail_of_Ambleside_Roman_Fort_-_geograph.org.uk_-_170496.jpg",
@@ -124,7 +124,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Church_Road%2C_Ambleside_-_geograph.org.uk_-_1529485.jpg",
-      "title": "Kenneth  Allen / Church Road, Ambleside",
+      "title": "Kenneth Allen / Church Road, Ambleside",
       "caption": "Church Road, Ambleside"
     },
     {
@@ -140,10 +140,21 @@
   ],
   "distance_km": 4.0,
   "description": "Ambleside is one of the most popular bases for walkers in the Lake District. The town has great facilities with lots of shops selling walking equipment, several hotels and lots of pubs and cafes. There's several different walks to try from the town including challenging hill climbs, woodland trails, waterfalls and riverside paths. This short walk around the town takes you to Rothay Park and then along the River Rothay to the Ambleside Roman Fort and Waterhead Pier on Lake Windermere. It's a nice gentle walk with lovely views of the surrounding fells. You can start the walk from the car park in the centre of town and pick up a footpath along Stock Ghyll to Rothay Park. The park has picnic benches, large grassed areas and natural rock outcrops. The River Rothay also runs through the park and there are good views of the surrounding fells as well. Follow the path south along the river and it will lead you through fields to the roman fort. The fort is Grade I listed and dates from the 1st or 2nd century. It was probably built under Hadrian's rule to guard the Roman road from Brougham to Ravenglass. After exploring the fascinating remains of the fort you continue to Borrans Park at Waterhead. From here there are lovely views over Lake Windermere and nice pub where you can enjoy refreshments in the lakeside garden.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The 17th century Wateredge Inn is a great place for refreshments with a lake view. It's located right next to Lake Windermere and includes a large outdoor seating area which is perfect for summer days. You can find it on Borrans Road, Ambleside, with a postcode of LA22 0EP for your sat navs. In the town centre there's the Unicorn Inn to try. This quintessential traditional Lakeland public house is the oldest pub in Ambleside, dating back to the 18th century. They do good home cooked food and have a fine selection of ales. You can find the pub in the town at postcode LA22 9DT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area around the town is great for dog walking with waterside trails and woodland paths in the nearby Stock Ghyll Wood and Skelghyll Wood. The Wateredge Inn and the Unicorn Inn mentioned above are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/dMUVL8Cs8lg",
   "postcode": "LA22 9AZ",
   "district": "Ambleside",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:42:07.847918+00:00",
   "objectID": "7f3770e2d54910c0e6bb092912af1b15",
-  "created_at": "2024-12-18T04:17:08.704403+00:00",
   "ref": "kingsford-country-park-walking-route",
   "title": "Kingsford Forest Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Kingsford_Forest_Park_-_geograph.org.uk_-_495760.jpg",
@@ -64,9 +64,20 @@
     }
   ],
   "distance_km": 7.0,
-  "description": "Explore 200 acres of woodland and heathland in this Worcestershire based forest park. Terrain in the park consists of hills and cliffs, with sandy paths crossing the area.  The park has 4 waymarked trails of varying lenghts to explore. The route below also visits the National Trust owned Kinver Edge. This woodland sandstone ridge offers dramatic views across surrounding counties and miles of heathland walking. Kingsford park is located about four miles west of Stourbridge, and four miles north of Kidderminster. There are three great options for continuing your walk through this lovely part of England. The Staffordshire Way, the North Worcestershire Path, and the Worcestershire Way all run past the park.",
+  "description": "Explore 200 acres of woodland and heathland in this Worcestershire based forest park. Terrain in the park consists of hills and cliffs, with sandy paths crossing the area. The park has 4 waymarked trails of varying lenghts to explore. The route below also visits the National Trust owned Kinver Edge. This woodland sandstone ridge offers dramatic views across surrounding counties and miles of heathland walking. Kingsford park is located about four miles west of Stourbridge, and four miles north of Kidderminster. There are three great options for continuing your walk through this lovely part of England. The Staffordshire Way, the North Worcestershire Path, and the Worcestershire Way all run past the park.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you can imagine the forest trails are ideal for dog walking so you'll probably see plenty of other owners with their pets on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Kidderminster Canal Walk visits the park from the nearby town. It first follows the Staffordshire and Worcestershire Canal to Kinver before heading up to Kinver Edge and then descending into the adjacent Kingsford Forest Country Park. At the end of the route there's a fine canalside pub to enjoy too."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ucUDTdTy1pw",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

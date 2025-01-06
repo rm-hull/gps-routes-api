@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:51:56.375979+00:00",
   "objectID": "ce4f5b399e3a7e6039320476d7cbb3b0",
-  "created_at": "2024-12-21T03:17:53.982750+00:00",
   "ref": "wokingham-way-walking-route",
   "title": "Walk around Wokingham - Wokingham Way Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pine_trees%2C_Caesar%27s_Camp_-_geograph.org.uk_-_1181921.jpg",
@@ -47,11 +47,13 @@
     }
   ],
   "distance_km": 89.0,
-  "description": "This long circular walk follows the Wokingham Borough unitary boundary visiting Reading, Bracknell and Henley-on-Thames. The walk takes you through Wokingham's most delightful areas including : the expansive Bracknell Forest, Tri Lakes Country Park and Wellington Country Park. There's also the Iron Age hill fort at Crowthorne Wood and the splendid deer park at Cudham Court. The walk also includes waterside sections along the Thames Path and the Kennet and Avon Canal Walk around Reading and Henley.",
+  "description": "This long circular walk follows the Wokingham Borough unitary boundary visiting Reading, Bracknell and Henley-on-Thames . The walk takes you through Wokingham's most delightful areas including : the expansive Bracknell Forest, Tri Lakes Country Park and Wellington Country Park. There's also the Iron Age hill fort at Crowthorne Wood and the splendid deer park at Cudham Court. The walk also includes waterside sections along the Thames Path and the Kennet and Avon Canal Walk around Reading and Henley.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For some excellent walking paths and three colour coded mountain bike trails head to the nearby Swinley Forest. There are good facilities here with bike hire and coaching available from the Look Out Centre. Just north of the village of Finchampstead you could take a small detour from the route to visit the Finchampstead Ridges. There's pleasant woodland trails and picturesque ponds to see in this area. For more walking ideas in the area see the Berkshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jxbm7s6F2d0",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/ce4f5b399e3a7e6039320476d7cbb3b0.gpx",
-  "_geoloc": {
-    "lat": 51.5116564969,
-    "lng": -0.8824676638
-  }
+  "gazetteer_found": false
 }

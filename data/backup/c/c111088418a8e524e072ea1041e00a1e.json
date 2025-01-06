@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:36:04.786983+00:00",
   "objectID": "c111088418a8e524e072ea1041e00a1e",
-  "created_at": "2024-12-18T23:11:58.929167+00:00",
   "ref": "penllergare-valley-woods-walking-route",
   "title": "Penllergare Valley Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterfall_in_Penllergare_Valley_Wood_-_geograph.org.uk_-_2219001.jpg",
@@ -55,8 +55,23 @@
   ],
   "distance_km": 2.0,
   "description": "Penllergare Valley Woods in Swansea is a wonderful place for walkers with miles of woodland trails, lakes, and beautiful waterfalls. Once the estate of botanist and pioneer photographer John Dillwyn Llewelyn, the woods have recently been restored by the Penllergare Trust. It's an enchanting place with terraces, waterfalls and cascades and the beautiful stone arched Llewelyn Bridge. There's good walking paths taking you along the river, around the upper and lower lake and through woodland and parkland. There are also good facilities with car parking and a coffee shop.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe with decking area and a good selection of snacks and cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking. You will probably bump into other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could pick up the Swansea Canal Walk or visit the popular Clyne Valley Country Park, the famous Mumbles or the beautiful botanical gardens in Singleton Park. Just to the north west there's the town of Pontarddulais where you can start a walk up to the viewpoint on Graig Fawr."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/v2Dj1JMEmv4",
   "county": "Abertawe - Swansea",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

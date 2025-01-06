@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:34:28.611441+00:00",
   "objectID": "217d399f08dd5130b979169a0d0d7fc8",
-  "created_at": "2024-12-18T23:08:41.329631+00:00",
   "ref": "woodcote-walking-route",
   "title": "Woodcote Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Entering_Birchen_Copse_-_geograph.org.uk_-_590750.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 6.5,
   "description": "This South Oxfordshire based village is a nice place to start a woodland and countryside walk. The village is located near Wallingford and Streatley in the Chiltern Hills AONB so there's plenty of local options for stretching your legs. This circular walk explores the expansive area of Chiltern beech woodland located just south of the village. There's miles of peaceful trails here ideal for leisure or dog walking. Look out for a wide variety of woodland birds as you make your way along the network of footpaths and bridle tracks. To continue your walking in the area head south west to visit the River Thames and the wonderful Basildon Park. Scroll down for a list of further walks near and around Woodcote.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Red Lion is located in a pleasant spot next to the village green. The pub dates back to 1845 and includes a nice outdoor seating area for warmer weather. You can find them on Goring Road at postcode RG8 0SD for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking and the Red Lion mentioned above is also dog friendly."
+    }
+  ],
   "postcode": "RG8 0SD",
   "district": "Woodcote",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

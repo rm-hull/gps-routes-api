@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:46:41.457021+00:00",
   "objectID": "c9dcaa4c761b606932db3157f172c45a",
-  "created_at": "2024-12-18T01:25:56.579384+00:00",
   "ref": "stoke-fleming-walking-route",
   "title": "Stoke Fleming To Dartmouth Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Stoke_Fleming_-_geograph.org.uk_-_3241320.jpg",
@@ -53,9 +53,16 @@
   ],
   "distance_km": 6.4,
   "description": "This small Devon village is located near Dartmouth on the South West Coast Path. From the village you can stroll down to the popular Blackpool Sands and enjoy a beautiful beach, wooded cliffs and turquiose seas. Due to its splendid clifftop location there are some excellent coastal views to enjoy from the village. This walk along the coast path takes you to nearby Dartmouth on a 4 mile stretch of the National Trail. On the way you will pass the historic Dartmouth Castle and enjoy fine views over the River Dart estuary.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Green Dragon is a fine old village pub with a lovely garden area to relax in. They serve good home cooked food and can be found at postcode TQ6 0PX for your sat navs. The pub is also dog friendly."
+    }
+  ],
   "postcode": "TQ6 0RA",
   "district": "Stoke Fleming",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

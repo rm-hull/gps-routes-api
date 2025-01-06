@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:52:30.345801+00:00",
   "objectID": "5670d86315e30e740246732a4e0888a7",
-  "created_at": "2024-12-18T14:53:56.340453+00:00",
   "ref": "school-knott-walking-route",
   "title": "School Knott Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Towards_Ings_from_School_Knott_-_geograph.org.uk_-_135101.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/School_Knott_Tarn_by_Martin_Dawes.jpg/512px-School_Knott_Tarn_by_Martin_Dawes.jpg",
-      "title": "Martin Dawes / School  Knott  Tarn",
+      "title": "Martin Dawes / School Knott Tarn",
       "caption": "View of the footpath along School Knott Tarn"
     },
     {
@@ -75,10 +75,21 @@
   ],
   "distance_km": 3.5,
   "description": "A circular walk to School Knott Fell near Windemere in the Lake District. The walk is a nice one to do if you are staying in the Windermere area. You'll visit a pretty little tarn, follow some peaceful woodland trails and enjoy fine views from the elevated position of the fell. The route runs for just over 2 miles with a fairly easy climb on the way. The walk starts from the Heathwaite area of the town, located just to the south east of the train station. From here you can pick up a trail heading south east up to School Knott. The summit stands at a height of 760 feet (230 m) offering fine views over Windermere Lake below. After taking in the views the route heads east to School Knott Tarn and Grandsire hill which stands at a height of 818 feet (249 m). From the tarn head north and it will take you to the School Knott Plantation. There's some nice woodland trails to follow through hear before returning to Heathwaite.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Windermere town and there is a good selection of bars and cafes. The Crafty Baa is a good option with an excellent selection of craft beers and a good menu. Indoors there's a warming fire and a small patio area outside. The cosy pub can be found at 21 Victoria St with a postcode of LA23 1AB for your sat navs. The inn is also dog friendly if you have your pet with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Dales Way passes the hill, providing an opportunity for extending the walk. If you follow the trail south east it will take you down the hill to Bowness and the lakeside. Head east and the waymarked trail will take you to Staveley. Also nearby is the popular climb to Orrest Head. This viewpoint is located just to the north of the train station and provides more fine views over the town and lake. Similarly the climb to Brant Fell is another good local option which can be climbed from Bowness."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qZsrDvrI3JY",
   "postcode": "LA23 2LZ",
   "district": "Windermere",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

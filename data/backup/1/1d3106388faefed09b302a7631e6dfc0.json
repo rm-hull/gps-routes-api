@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:16:46.223186+00:00",
   "objectID": "1d3106388faefed09b302a7631e6dfc0",
-  "created_at": "2024-12-18T16:48:06.556063+00:00",
   "ref": "symondsbury-walking-route",
   "title": "Symondsbury Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Ilchester_Arms%2C_Symondsbury%2C_Dorset_-_geograph.org.uk_-_1931862.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Ilchester_Arms%2C_Symondsbury%2C_Dorset_-_geograph.org.uk_-_1931862.jpg",
-      "title": "The Ilchester Arms,  Symondsbury, Dorset by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The Ilchester Arms, Symondsbury, Dorset by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Ilchester Arms, Symondsbury, Dorset"
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 17.0,
   "description": "This pretty village lies just to the west of the town of Bridport in Dorset. It's a nice place to start a walk with the countryside of the Marshwood Vale and the wonderful Jurassic Coast to explore on foot. There's an ancient church, several picturesque thatched cottages and a historic pub dating to the 1400s, where you can enjoy some post exercise sustenance. This route from the village uses sections of the Monarch's Way and the South West Coast Path to create a circular walk through the surrounding area. On the way you'll visit several of the local highlights including the viewpoint at Colmers Hill, the pretty coastal village of West Bay and the neighbouring town of Bridport. The walk starts in the village and heads a short distance to the west to climb to Colmers Hill. From the top of the distinctive hill there are fine views towards the coast and countryside. You can then can pick up country tracks heading south across Eype Down to the coast at Hope Corner. Here you can pick up the coastal path and follow it east to West Bay. At West Bay you pick up the Monarch's Way and head north along the River Asker to Bridport. The route continues north east past Walditch before turning north west to St Andrew's Well and Watton Hill. Continue west past Pymore and Bilshay Lane before turning south to return to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some well earned rest and refreshment at the Ilchester Arms. The historic thatched inn dates from the 15th century and includes oak beams and a huge open fireplace. Other features include a car park, skittle alley and a lovely lawned garden for the warmer months. You can find them at postcode DT6 6HD for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and coast trails make for a fine dog walk. The Ilchester Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a couple of miles to the east of Bridport there's Shipton Gorge where you can enjoy a climb to Shipton Hill and visit the splendid 15th century church of St Martin."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3wss0q7wGUo",
   "postcode": "DT6 6HF",
   "district": "Symondsbury",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

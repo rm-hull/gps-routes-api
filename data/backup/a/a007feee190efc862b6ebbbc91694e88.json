@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:47:21.151673+00:00",
   "objectID": "a007feee190efc862b6ebbbc91694e88",
-  "created_at": "2024-12-18T09:32:12.589262+00:00",
   "ref": "hartshill-country-park-walking-route",
   "title": "Hartshill Hayes Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Hartshill_Hayes_-_geograph.org.uk_-_865748.jpg",
@@ -65,8 +65,19 @@
   ],
   "distance_km": 2.5,
   "description": "Enjoy 137 acres of woodland and open hilltop with magnificent views across the Anker Valley. It's particularly lovely in the springtime when there are carpets of bluebells to enjoy. It's also good for wildlife with plenty of woodland birds to look out for on the walk. For cyclists there are also some good mountain bike (mtb) trails to try. There's good facilities with a car park and a visitor centre with information on the trails in the park. The Coventry Canal runs just past the park so there is scope for continuing your walk along this splendid waterway.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails in the park make it ideal for dog walking so you'll probably see plenty of other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Atherstone Walk starts from the nearby market town. It heads along the Coventry Canal before visiting the park. It's a nice way of visiting the park from Atherstone train station if you are coming by public transport. The Nuneaton Circular Walk passes through the park. You can pick up this waymarked trail to explore the area around the nearby town. On the way there's a visit to the historic Arbury Hall and the Ashby Canal. Just to the east is the Weddington Country Walk, a shared cycling and walking trail running along a now disused railway line. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/wt1d90UStLU",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

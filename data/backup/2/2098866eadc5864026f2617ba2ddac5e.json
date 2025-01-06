@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:40:24.622169+00:00",
   "objectID": "2098866eadc5864026f2617ba2ddac5e",
-  "created_at": "2024-12-20T04:35:03.652014+00:00",
   "ref": "alva-glen-walking-route",
   "title": "Alva Glen Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Alva_Burn_in_Alva_Glen_-_geograph.org.uk_-_32398.jpg",
@@ -44,6 +44,11 @@
       "description": "Menstrie Glen",
       "objectID": "c31ac489197f56118bab56796509c29d",
       "ref": "menstrie-glen-walking-route"
+    },
+    {
+      "description": "Tillicoultry Glen",
+      "objectID": "311c9ce8da92b32a34a3ac2c9ea5ff24",
+      "ref": "tillicoultry-glen-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2098866eadc5864026f2617ba2ddac5e.gpx",
@@ -94,11 +99,26 @@
     }
   ],
   "distance_km": 3.2,
-  "description": "This walk visits the beautiful Alva Glen in the Clackmannanshire town of Alva, in the Central Lowlands of Scotland. The route follows the Alva burn north from the town, taking you past pretty waterfalls with fine views of the surrounding Ochil Hills. You can start from the Alva Glen car park and then pick up the steadily rising footpath through the scenic gorge. Towards the end there are some splendid views back down the glen as you rise to over 200 metres. On the way you can also enjoy some lovely flora and fauna with pretty widflowers  and a variety of tree species. Wildlife includes kestrel, the long tailed wagtail and various other woodland birds. There's also the Alva Glen illuminations when the trail and the waterfalls are beautifully lit up with different coloured lights. To continue your walking in the area head south east to visit Gartmorn Dam Country Park. There's a fine waterside path around the Gartmorn Dam reservoir to enjoy here.",
+  "description": "This walk visits the beautiful Alva Glen in the Clackmannanshire town of Alva, in the Central Lowlands of Scotland. The route follows the Alva burn north from the town, taking you past pretty waterfalls with fine views of the surrounding Ochil Hills. You can start from the Alva Glen car park and then pick up the steadily rising footpath through the scenic gorge. Towards the end there are some splendid views back down the glen as you rise to over 200 metres. On the way you can also enjoy some lovely flora and fauna with pretty widflowers and a variety of tree species. Wildlife includes kestrel, the long tailed wagtail and various other woodland birds. There's also the Alva Glen illuminations when the trail and the waterfalls are beautifully lit up with different coloured lights. To continue your walking in the area head south east to visit Gartmorn Dam Country Park. There's a fine waterside path around the Gartmorn Dam reservoir to enjoy here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The No 5 Inn is located very close to the car park at the start of the walk. The inn has some interesting history dating back to 1776. In 1787 it was visited by poet Robert Burns and there is a plaque commemorating the event on the side of the pub. It is thought that it was the 5th pub Burns stoped at on his way from Stirling to the north. Hence the name, No 5 Inn.There's a pleasant interior with a historic bar serving good quality whiskies and a selection of guest beers from the many micro breweries in the area. There's also a fine restaurant with many Scottish favourites on the menu. You can find them at 38 Brook St, Alva FK12 5JL."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The glen is a fine place for a dog walk. It's best to keep them on leads as there are some steep drops. The No 5 Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east is the Ochil Hills Woodland Park where there's some pleasant woodland trails. The park also has good facilities with a car park, a children's play area, picnic sites and display boards. A few miles to the east there's also Dollar Glen. The National Trust owned area includes more picturesque waterfalls and the medieval Castle Campbell which dates from the 16th century. To the west there's Menstrie Glen and the walk to Lossburn Reservoir. To the east there's Tillicoultry Glen and Mill Glen where you can learn about the interesting industrial past of the area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/80Unbmr7XvY?si=7xeDiqK5KiPWMUbK",
   "postcode": "FK12 5JR",
   "district": "Alva",
   "county": "Clackmannanshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

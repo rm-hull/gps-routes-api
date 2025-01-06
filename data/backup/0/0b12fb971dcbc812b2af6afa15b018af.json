@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:49:15.604034+00:00",
   "objectID": "0b12fb971dcbc812b2af6afa15b018af",
-  "created_at": "2024-12-18T09:27:55.824046+00:00",
   "ref": "brancaster-walking-route",
   "title": "Brancaster Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/House_at_Brancaster_-_geograph.org.uk_-_949260.jpg",
@@ -70,8 +70,23 @@
   ],
   "distance_km": 6.0,
   "description": "A circular walk from Brancaster taking you to Brancaster Bay and the Titchwell Nature Reserve on the Norfolk coast. Start the walk from the village and then follow footpaths north up to the beach. There are views to The Royal West Norfolk Golf Club over the sea wall on your eastern side here. At the beach turn west and you will pass along the dunes to the nature reserve where there are lots of water channels and interesting wildlife to look out for. The route then takes you south along Gypsy Lane before heading east along the pavement of the A road to take you back into Brancaster.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Ship Hotel is located in the village and is a nice place for some post walk refreshments. They do very good food and have an outdoor area for finer days. You can find the pub at postcode PE31 8AP for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The coastal trails make for a nice dog walk and The Ship Hotel mentioned above is also very dog friendly. At the top of the hill behind Brancaster Staithe is Barrow Common, which is another great place to take your dog."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Peddars Way and Norfolk Coast Path runs past the village and provides an opportunity to explore the area on a good waymarked trail. You could follow it east to visit Burnham Deepdale, Burnham Overy Staithe and the Holkham Beach Nature Reserve. The reserve is one of the highlights of the area with 9,600 acres of grazing marsh, woodland, salt marsh, sand dunes and foreshore making it England's largest Nature Reserve. Near here you can also visit Holkham Park, pick up the Walsingham Way at the medieval Walsingham Abbey or catch a boat to the Blakeney Point Nature Reserve with its colonies of seals. Heading west will take you to Thornham. The villages of Burnham Market and Burnham Thorpe are also close by. The latter is notable as the the birthplace of Vice Admiral Horatio Nelson, victor at the Battle of Trafalgar. There is a bronze plaque on the wall here which is a nice piece of history to witness in the area. Nelson's father Edmund was also rector of Burnham Market's churches during the 1760s and 1770s. In the village you can enjoy a visit to The Nelson pub which dates all the way back to 1685. For more walking ideas in the area see the Norfolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IRkSnSrwtwA",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

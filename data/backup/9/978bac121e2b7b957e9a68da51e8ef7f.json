@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:46:28.725798+00:00",
   "objectID": "978bac121e2b7b957e9a68da51e8ef7f",
-  "created_at": "2024-12-19T05:44:20.998785+00:00",
   "ref": "ilkeston-walking-route",
   "title": "Ilkeston Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Factory_Building%2C_Ilkeston_-_geograph.org.uk_-_1009961.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 11.0,
   "description": "A walk from the Derbyshire town of Ilkeston visiting the nearby Shipley Country Park. The walk starts near the town centre where you can pick up the Centenary Way. Follow the waymarked trail west and it will link with the Nutbrook Trail. This shared cycling and walking trail runs along a dismantled railway line between Long Eaton to Heanor. Follow the path north and it will take you along the brook to Shipley Park. Here you'll find 700 acres of parkland with lakes a visitor centre, play areas, and a wildlife garden. After exploring the park the route then returns to Ilkeston on similar paths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Durham Ox is the oldest Inn in Ilkeston and dates back to 1780. They serve good quality dishes and can be found at postcode DE7 8FQ. The inn is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Shipley Park you'll come very close to Mapperley Reservoir which is worth a small detour from the route if you have time. The Erewash Canal also runs through the area. You can pick up the towpath and enjoy an easy walk or cycle along this pretty waterway. Here you can visit the impressive Bennerley Viaduct. Just to the east of the town you'll find the Nottingham Canal Nature Reserve at Cossall. There's a nice trail here with lots of water loving wildlife to see. Just to the south west you'll find Dale Abbey where you can visit the ruins of the historic 12th century abbey. The 18th century Locko Park is also located in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/SUUAV6leVqA?si=c2WnC2HuXT8fm2CA",
   "postcode": "DE7 5HS",
   "district": "Ilkeston",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

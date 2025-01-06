@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:02:39.642730+00:00",
   "objectID": "2c028544f55b8bc9ce9c91145c2a92fe",
-  "created_at": "2024-12-20T07:54:25.609776+00:00",
   "ref": "riverside-country-park-walking-and-cycle-route",
   "title": "Riverside Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Saxon_Shore_Way%2C_Sharp%27s_Green_Bay_-_geograph.org.uk_-_1240235.jpg",
@@ -22,10 +22,6 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2c028544f55b8bc9ce9c91145c2a92fe.gpx",
-  "_geoloc": {
-    "lat": 51.3857210034,
-    "lng": 0.5959009874
-  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Saxon_Shore_Way%2C_Sharp%27s_Green_Bay_-_geograph.org.uk_-_1240235.jpg",
@@ -70,10 +66,16 @@
   ],
   "distance_km": 5.0,
   "description": "Explore the Medway Estuary in 250 acres of country park in Gillingham, Kent. The estuary is a haven for wildlife with ducks and waders thriving on the invertebrate-rich mudflats, while the reedbeds are an important breeding area for birds such as the sedge and reed warbler. The park includes waymarked walks, cycle and bridle routes, play areas, and picnic areas while there is also a visitor centre with natural history displays and information panels. At the eastern end of the site you can head up to Horrid Hill. A signed, traffic free National Cycle Network path runs through the park. If you are on your bike you can pick up the trail and head west into Rochester with its fine castle. Heading east will take you through Sittingbourne to the Kent coast at Whitstable. See the London to Whitstable Cycle Route for full details. If you are on foot then the Saxon Shore Way also runs through the park. Follow this long distance trail east and you can explore the Swale Estuary.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site cafe selling a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park trails are a great place for some dog walking. It's a popular place so expect to meet other owners on your visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zGj2i0PgK9I",
-  "postcode": "ME7 2XH",
-  "district": "Lower Twydall",
-  "county": "Medway",
-  "region": "South East",
-  "country": "England"
+  "gazetteer_found": false
 }

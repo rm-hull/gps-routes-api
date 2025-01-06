@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:43:05.520150+00:00",
   "objectID": "5c65518f33f26c6dd5309eb1f6b60a3f",
-  "created_at": "2024-12-21T15:46:03.305883+00:00",
   "ref": "brenig-way-walking-route",
   "title": "Brenig Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Pont_Corwen_-_geograph.org.uk_-_3157546.jpg",
@@ -70,10 +70,16 @@
   ],
   "distance_km": 50.0,
   "description": "Follow the Brenig Way way from Corwen, in the Dee Valley, to the beautiful Llyn Brenig, in the heart of the Denbigh Moors. The walk passes through Cynwyd, Maerdy and Betws Gwerfil Goch, before following the River Clwyd towards Clocaenog Forest where there are fabulous views of the Clwydian Range AONB. At Cyffylliog you then join the River Clywedog leading you to Llyn Brenig where you follow the shoreline to the finish point at the visitor centre. The final section has fabulous views of Snowdonia and also crosses the Brenig dam.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the start/finish point in Corwen the Crown Hotel is worthy of some investigation. The historic inn dates all the way back to 1628. The interior is full of olde worlde character with interesting features including pewter tankards hanging from the ceiling. They serve good food and are designated as a Camra Welsh Heritage pub. There's also a snooker table upstairs. You can find them on Bridge Street at postcode LL21 0AH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Dee Valley also starts in Corwen. The 15 mile trail will take you east to Llangollen on a challenging waymarked trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Apot2voymic",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5c65518f33f26c6dd5309eb1f6b60a3f.gpx",
-  "_geoloc": {
-    "lat": 52.980599132,
-    "lng": -3.3739545406
-  }
+  "gazetteer_found": false
 }

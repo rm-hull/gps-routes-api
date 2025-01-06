@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:43:52.122596+00:00",
   "objectID": "bcb1de9305b1324b8072abf85258cfc0",
-  "created_at": "2024-12-18T12:57:56.413769+00:00",
   "ref": "saltwell-park-walking-route",
   "title": "Saltwell Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Saltwell_Towers%2C_Saltwell_Park%2C_Gateshead_%28geograph_2319658%29.jpg",
@@ -52,9 +52,20 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "This beautiful park in Gateshead was voted Britain's Best Park in 2005.  Highlights in the park include ornamental and woodland gardens, a boating lake, bowling greens, play areas, and a maze. There is also the splendid Saltwell Towers - an eyecatching Gothic Mansion which now serves as the Saltwell Park Visitors Centre. Also look out for the Dene - a delightful  woodland valley with a stream, pools, cascades and a lily pond. There are 55 acres to explore making Saltwell an ideal place for a short walk in beautiful surroundings. For wildlife enthusiasts there's also a small animal farm with peacocks, parrots and rabbits.",
+  "description": "This beautiful park in Gateshead was voted Britain's Best Park in 2005. Highlights in the park include ornamental and woodland gardens, a boating lake, bowling greens, play areas, and a maze. There is also the splendid Saltwell Towers - an eyecatching Gothic Mansion which now serves as the Saltwell Park Visitors Centre. Also look out for the Dene - a delightful woodland valley with a stream, pools, cascades and a lily pond. There are 55 acres to explore making Saltwell an ideal place for a short walk in beautiful surroundings. For wildlife enthusiasts there's also a small animal farm with peacocks, parrots and rabbits.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place to bring your dog for a walk. There's even a special dog park so you can let your dog run about and make friends."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Tyne and Wear Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RyDmBUVscwM",
   "district": "Gateshead",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

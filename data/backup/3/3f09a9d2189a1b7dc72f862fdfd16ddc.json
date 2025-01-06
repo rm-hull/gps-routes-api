@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:25:28.100344+00:00",
   "objectID": "3f09a9d2189a1b7dc72f862fdfd16ddc",
-  "created_at": "2024-12-20T21:45:20.826090+00:00",
   "ref": "milngavie-to-drymen-walking-route",
   "title": "Milngavie to Drymen Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Obelisk%2C_Milngavie_%28geograph_5381116%29.jpg/512px-Obelisk%2C_Milngavie_%28geograph_5381116%29.jpg",
@@ -29,6 +29,11 @@
       "description": "Drymen to Balmaha",
       "objectID": "dd74eb2ecd13967f8aee509da8e22c9d",
       "ref": "drymen-to-balmaha-walking-route"
+    },
+    {
+      "description": "Killearn Glen",
+      "objectID": "0e4166da5139ae360f66457bf18471f5",
+      "ref": "killearn-glen-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3f09a9d2189a1b7dc72f862fdfd16ddc.gpx",
@@ -80,10 +85,17 @@
   ],
   "distance_km": 19.0,
   "description": "This walk follows the opening section of the West Highland Way long distance trail. The route runs for about 12 miles with some moderate climbs on the way. The walk starts in Milngavie, near to the train station. From here you can pick up the trail and follow it north past Mugdock Country Park with its pretty reservoirs. You continue north past Craigallian Loch and Carbeth Loch to Dumgoyach Bridge where you pick up a dismantled railway line. This will take you past Killearn to Gartness where you will cross Endrick Water with its pretty waterfall and weir. The final section follows a country lane past the old Roman Fort before finishing in Drymen. Near Killearn you could take a slight detour west from the route to visit Devil's Pulpit Finnich Glen. The area is something of a hidden gem with a wooded gorge, crystal clear waters and rushing waterfalls. For the next leg of the West Highland journey please see the Drymen to Balmaha Walk page. This will take you onto to beautiful Balmaha on the shores of Loch Lomond.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the southern end the route links up with the Kelvin Walkway which can be followed along the River Kelvin in to the city of Glasgow."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RT4wibxE4YU",
   "postcode": "G62 8BT",
   "district": "Milngavie",
   "county": "East Dunbartonshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

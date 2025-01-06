@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:54:30.467490+00:00",
   "objectID": "17954eaebf3a4761216894fd38e8fe79",
-  "created_at": "2024-12-18T14:10:47.739682+00:00",
   "ref": "loch-einich-walking-route",
   "title": "Loch Einich Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Loch_Einich_-_geograph.org.uk_-_707996.jpg",
@@ -70,8 +70,15 @@
   ],
   "distance_km": 22.0,
   "description": "This tranquil loch is located in a remote place in the Cairngorms National Park. The loch can be reached by following a walking and cycling track south from the popular Loch an Eilein. It's about a 7.5 mile hike or ride from the loch through the beautiful Gleann Einich. The walk starts at the visitor centre and car park at Loch an Eilein. From here you can pick up trails heading south east into the Glen. The track passes along the rushing waters of the Am Beanaidh river which flows through the glen. Eventually you come out at the beautiful loch where you can enjoy a rest and take in the views before the return leg.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Cairngorms Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/UZzXKCHZFQU",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

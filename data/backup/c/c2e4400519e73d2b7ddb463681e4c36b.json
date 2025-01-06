@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:17:42.325642+00:00",
   "objectID": "c2e4400519e73d2b7ddb463681e4c36b",
-  "created_at": "2024-12-18T11:38:00.976906+00:00",
   "ref": "plockton-walking-route",
   "title": "Walk around Plockton Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Plockton_-_geograph.org.uk_-_3357946.jpg/256px-Plockton_-_geograph.org.uk_-_3357946.jpg",
@@ -64,11 +64,22 @@
     }
   ],
   "distance_km": 3.2,
-  "description": "This delightful Scottish village sits in a lovely spot on the shores of Loch Carron. It's considered one of the prettiest in the country and has been described as \"The Jewel of the Highlands\". This walk takes you through the village and along the shores of the loch to nearby Duncraig. On the way you will visit the remote rail stations of Plockton and  Duncraig on the Kyle of Lochalsh Line. It's just over two miles with glorious views over the loch to enjoy on the way. On the opposite side of the loch you can pick up the Lochcarron Walk and visit the highly photogenic ruins of Strome Castle. From here you can enjoy an alternative view back to Plockton as well.",
+  "description": "This delightful Scottish village sits in a lovely spot on the shores of Loch Carron. It's considered one of the prettiest in the country and has been described as \"The Jewel of the Highlands\". This walk takes you through the village and along the shores of the loch to nearby Duncraig. On the way you will visit the remote rail stations of Plockton and Duncraig on the Kyle of Lochalsh Line. It's just over two miles with glorious views over the loch to enjoy on the way. On the opposite side of the loch you can pick up the Lochcarron Walk and visit the highly photogenic ruins of Strome Castle. From here you can enjoy an alternative view back to Plockton as well.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Plockton Inn for some refreshments after your walk. They serve delicious locally-landed fish and shellfish in their seafood restaurant. You can find them on Innes Street at postcode IV52 8TW for your sat navs. The inn is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north there's Applecross where you can enjoy a lovely circular walk around a beautiful peninsula to Sand Bay. To the south east there's Loch Duich and Glen Shiel where you'll find some pleasant waterside trails and views to the historic Eilean Donan Castle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IL_FFhb_s2A",
   "postcode": "IV52 8TH",
   "district": "Am Ploc / Plockton",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:24:16.217405+00:00",
   "objectID": "9449a5c7fabd3ef8433334e631abd087",
-  "created_at": "2024-12-18T00:32:59.172560+00:00",
   "ref": "llanystumdwy-walking-route",
-  "title": "Llanystumdwy River Walk Route",
+  "title": "Llanystumdwy\u00a0River Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Church_in_Llanystumdwy_-_geograph.org.uk_-_3946979.jpg/512px-Church_in_Llanystumdwy_-_geograph.org.uk_-_3946979.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9449a5c7fabd3ef8433334e631abd087.gpx",
   "_geoloc": {
@@ -53,10 +53,17 @@
   ],
   "distance_km": 5.2,
   "description": "This little Welsh village is located in a fine spot on the Llyn Peninsula near Criccieth and Pwllheli. This circular walk takes you along a pleasant section of the Afon Dwyfor which runs through the settlement. You can follow a riverside footpath north to Pont Rhyd-y-benllig before returning to the village through the countryside. It's about a 3 mile walk with some moderate climbing on the way. The village is notable as the location of the grave of former Prime Minister David Lloyd George. Lloyd George lived in Llanystumdwy until he was 16, and it is where he picked up his political nous and hatred of the land-owning aristocracy from his lay preacher uncle. There is an interesting museum where you can learn all about his life. You can find it at postcode LL52 0SH for your sat navs.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Tafarn Y Plu is a community run pub where you can enjoy post walk refreshments in cosy and friendly surroundings. They serve a good range of ales and are located close to the Lloyd George Museum at postcode LL52 0SH."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/z_PEmO3KVLc",
   "postcode": "LL52 0SL",
   "district": "Llanystumdwy",
   "county": "Gwynedd - Gwynedd",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

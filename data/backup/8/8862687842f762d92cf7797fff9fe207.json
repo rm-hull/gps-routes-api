@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:42:08.340990+00:00",
   "objectID": "8862687842f762d92cf7797fff9fe207",
-  "created_at": "2024-12-19T09:54:44.567910+00:00",
   "ref": "goldsworth-park-lake-walking-route",
   "title": "Goldsworth Park Lake Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Goldsworth_Park_Lake_-_geograph.org.uk_-_2019783.jpg/512px-Goldsworth_Park_Lake_-_geograph.org.uk_-_2019783.jpg",
@@ -30,9 +30,16 @@
   ],
   "distance_km": 1.0,
   "description": "Enjoy a short stroll around the lake in this pretty park in Woking. The lake has a well surfaced walking path around its perimeter and attracts a variety of birdlife - look out for coot, geese, great crested grebe and mandarin duck. Horsell Common is only about a mile away and is a good option if you would like to continue your walk.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/1w7SY_h9BDw",
   "district": "Woking",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

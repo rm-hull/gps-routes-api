@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:03:04.133439+00:00",
   "objectID": "a6e9828dbbb0b88e9efda8fee3c0dd11",
-  "created_at": "2024-12-18T10:47:23.743537+00:00",
   "ref": "avon-heath-country-park-walking-route",
   "title": "Avon Heath Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Avon_Heath_Country_Park%2C_Dorset_-_geograph.org.uk_-_84689.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 4.0,
   "description": "This is a short, easy walk around the delightful Avon Heath Country Park near Ringwood. You will follow a series of peaceful woodland paths on this circuit of the park. The park is dominated by lowland and wet heath, acid grassland and heather, and woodland. There is also an abundance of widlife to look out for including Sand Lizards, Smooth Snakes and Dartford Warblers. The park is ideal for families with a Nature Nursery for children which includes den building, pond dipping, mini beast hunting, campfires and outdoor cooking.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes a lovely on site cafe where you can enjoy refreshments after your walk. They have a good menu serving delicious coffee, cake, breakfasts & lunches."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place for dog walking and you'll probably see plenty of other owners on a fine day. It's advised that you please keep them under close control as there is a lot of wildlife in the park. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Castleman Trailway passes through the park and is a great way to continue your exercise. The shared cycling and walking trail runs from Ringwood to Poole along the disused Southampton to Dorchester railway line. On the way it visits two other fine country parks in the area - Moors Valley Country Park and Upton Country Park. Also nearby is the expansive Hurn Forest where there's miles of woodland trails to try. Just to the north you'll find the town of Verwood. Here you can enjoy a walk around Verwood Forest, the Cranborne Common Nature Reserve and the Stephen's Castle Nature Reserve where there's a lovely viewpoint."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/PDTeln_IDjw?si=XoUvHO4Txu-MTSys",
   "postcode": "BH24 2DH",
   "district": "St Leonards",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

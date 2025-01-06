@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:29:49.698940+00:00",
   "objectID": "2fcd19e1d9c4bc3c8a117c9c237af3f5",
-  "created_at": "2024-12-19T07:29:54.870388+00:00",
   "ref": "cumbria-coastal-way-walking-route",
   "title": "Cumbria Coastal Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Shore_Cottages%2C_Silverdale_-_geograph.org.uk_-_1096792.jpg",
@@ -129,13 +129,13 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hodbarrow_lighthouse_-_geograph.org.uk_-_1882695.jpg/512px-Hodbarrow_lighthouse_-_geograph.org.uk_-_1882695.jpg",
-      "title": "Hodbarrow lighthouse by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Hodbarrow lighthouse by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Hodbarrow lighthouse near Millom. This nature reserve is a fine place to look out for birds including Teal, Widgeon, Coot, Mallard, Tufted Duck, Common Pochard, Goldeneye and Red-breasted Merganser."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/St_Bees_Head.JPG/512px-St_Bees_Head.JPG",
       "title": "Dave.Dunford Dave.Dunford, CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-      "caption": "St Bees Head. This headland near Whitehaven is a major route highlight. From the spectacular cliff top path there are glorious views to the Isle of Man and the Cumbrian mountains. The area is also an RSPB Nature Reserve with the largest seabird colony in north-west England.  These include Guillemots, kittiwakes, fulmars and razorbills. You may also see dolphins and porpoises."
+      "caption": "St Bees Head. This headland near Whitehaven is a major route highlight. From the spectacular cliff top path there are glorious views to the Isle of Man and the Cumbrian mountains. The area is also an RSPB Nature Reserve with the largest seabird colony in north-west England. These include Guillemots, kittiwakes, fulmars and razorbills. You may also see dolphins and porpoises."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Broughton-in-Furness_-_geograph.org.uk_-_1867282.jpg",
@@ -145,8 +145,19 @@
   ],
   "distance_km": 293.0,
   "description": "Explore the wonderful coastline of Cumbria on this splendid long distance path. The walk begins at Silverdale and runs through a series of fascinating Cumbrian coastal towns and villages, before finishing near Gretna on the border with Scotland. Spectacular cliff tops, peaceful estuaries, beaches, mountains, rivers and canals are all features on this popular route.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village of St Bees you could head to the 17th century Queens Hotel which has a cosy country pub atmosphere with oak beams and log fires in winter. They do good food which can be taken in the nice conservatory or the terraced garden bar on warmer days. They also provide accommodation if you need to stay over. You can find the hotel near the train station on 130 Main St, with a postcode of CA27 0DE for your sat navs. The climb to the fine viewpoint at Warton Crag can also be started from here. In Allonby there's the 17th century Ship Inn. They serve good quality food and also provide rooms if you wish to stay in the area. Notably the authors Charles Dickens and Wilkie Collins stayed there in 1857. Dickens described The Ship as \"a capital little homely inn looking out upon the sea...a clean nice place in a rough wild country\". You can find them on the Main Street at postcode CA15 6QF for your sat navs. The inn is dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near the start of the walk in Silverdale you could pay a visit to the lovely Leighton Moss Nature Reserve. The RSPB reserve is a great place for wildlife watching with many water loving birds visiting the lakes and marshland."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Ye60cncKRsM",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

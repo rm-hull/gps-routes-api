@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:47:35.680182+00:00",
   "objectID": "db051452220da5265b41364fd0255700",
-  "created_at": "2024-12-18T01:31:26.263913+00:00",
   "ref": "nagshead-nature-reserve-walking-route",
   "title": "Nagshead Nature Reserve Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Clearing%2C_Nagshead_Plantation_-_geograph.org.uk_-_2035282.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Nagshead_Lower_Hide.jpg/512px-Nagshead_Lower_Hide.jpg",
       "title": "Obscurasky at English Wikipedia, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "View of Lower Hide at Nagshead woodland reserve, located on the western edge of Parkend. More than 30 different butterflies and 20 dragonflies and damselflies have been seen at Nagshead.  8 of Britain's 12 reptiles and amphibians breed here; common lizard, slowworm, adder, grass snake, common frog, common toad, smooth newt and palmate newt."
+      "caption": "View of Lower Hide at Nagshead woodland reserve, located on the western edge of Parkend. More than 30 different butterflies and 20 dragonflies and damselflies have been seen at Nagshead. 8 of Britain's 12 reptiles and amphibians breed here; common lizard, slowworm, adder, grass snake, common frog, common toad, smooth newt and palmate newt."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bluebells_at_Nagshead_-_geograph.org.uk_-_4232642.jpg/512px-Bluebells_at_Nagshead_-_geograph.org.uk_-_4232642.jpg",
@@ -90,8 +90,23 @@
   ],
   "distance_km": 4.0,
   "description": "This walk visits the Nagshead Nature Reserve in the Forest of Dean in Gloucestershire. The RSPB run site includes peaceful woodland trails, ponds and glades. The reserve is great for wildlife with woodpeckers, goshawks, treecreepers and redstarts to look out for. The reserve includes good facilities with a Visitor centre, viewing hides, two waymarked trails, a picnic area, information boards and a large car park, just to the north west of the village of Parkend. On the northern side of the reserve you could pay a visit to Cannop Ponds. There's a nice waterside circular route here with lots more wildlife to look out for.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "You could head into nearby Parkend village and enjoy some post walk refreshment at The Woodman. They serve high quality locally source dishes, cooked by high level trained chefs. There's an attractive interior and a lovely courtyard area outside for warmer days. You can find them just east of the reserve car park at postcode GL15 4JF. There's also The Fountain Inn. The inn was built over 200 years ago and then extended when the Severn and Wye Railway reached the village in 1875. There's some interesting local items on display in this historic pub."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Please keep your dog on a short lead due to the wildlife. The Fountain Inn mentioned above is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east there's the New Fancy Viewpoint. Set on the site of the old coal mine the viewpoint is a fine place to watch birds of prey soaring through the skies above. There's also the 'Roll of Honour' sculpture and the Geomap - a map you can walk on showing the underlying geology of the forest. A car park and picnic area add to the attraction. In Parkend you could pick up the Dean Forest Railway and enjoy a ride on one of the splendid heritage steams trains. You can find the station and the informative railway centre about a mile east of the car park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/o4JhkWt07m8",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

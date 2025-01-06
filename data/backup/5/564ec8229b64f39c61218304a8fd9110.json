@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:28:44.175010+00:00",
   "objectID": "564ec8229b64f39c61218304a8fd9110",
-  "created_at": "2024-12-21T20:10:55.153031+00:00",
   "ref": "saffron-trail-walking-route",
   "title": "Saffron Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Southend_Pier_-_geograph.org.uk_-_499976.jpg",
@@ -89,11 +89,17 @@
     }
   ],
   "distance_km": 116.0,
-  "description": "A walk through the Essex countryside from the coast at Southend-on-Sea to Saffron Walden. The walk starts by the pier at Southend and follows the coast to the lovely Hadleigh Country Park. The 400 acre park includes the ruins of the 13th century Hadleigh Castle,  mixed woodland, meadows and marshland. From the park you then head north to Chelmsford, passing Hockley Woods, Rayleigh and Danbury with a waterside stretch along the River Crouch at South Woodham Ferrers. At Chelmsford you'll enjoy a walk along the River Cam before continuing north to Great Dunmow and Newport before finishing at Saffron Walden.",
+  "description": "A walk through the Essex countryside from the coast at Southend-on-Sea to Saffron Walden. The walk starts by the pier at Southend and follows the coast to the lovely Hadleigh Country Park. The 400 acre park includes the ruins of the 13th century Hadleigh Castle, mixed woodland, meadows and marshland. From the park you then head north to Chelmsford, passing Hockley Woods, Rayleigh and Danbury with a waterside stretch along the River Crouch at South Woodham Ferrers. At Chelmsford you'll enjoy a walk along the River Cam before continuing north to Great Dunmow and Newport before finishing at Saffron Walden.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bull Inn is beautifully positioned, right on the edge of Hockley woods. It's a historic pub of some note, dating from the 16th century and Grade II listed. The Bull connects the lovely woodland walks of Hockley with the rolling landscape of the Crouch River Valley to the north. There's a cosy olde worlde interior and outside there's a lovely garden to relax in on finer days. You can find the pub on the northern side of the woods at a postcode of SS5 4RN for your sat navs. It's a nice place to stop for refreshments on the route. At the end of the walk head to the Old English Gentleman in Saffron Walden. The noteworthy pub dates from the 19th century and was named CAMRA Regional Pub of the Year 2012. There's a charming interior with a cosy fire and wood burner. Outside there's a sun trap patio garden for warmer days. You can find them on Gold Street with a postcode of CB10 1EJ for your sat navs. While in the town you could take a small detour to visit the splendid Bridge End Gardens. There are seven interlinked 19th-century gardens here including a particularly fine Dutch garden. There's also a statue fountain, fine topiary and beautiful herbaceous borders to see here. You can find them on Castle Street with a postcode of CB10 1BE for your sat navs. In Great Dunmow there's The Angel and Harp. They have a nice interior with with oak beams and red brick fireplace. They serve good quality food and have a nice garden area to sit out in too. You can find them at 16 Church Street, CM6 2AD. In the riverside village of Battlesbridge there's The Barge Inn. They serve good food and have a lovely garden area for warmer days. You can find them at Hawk Hill at postcode SS11 7RE. The pub is also dog friendly. The village is also worth exploring with a number of well known antiques shops including the noteworthy Battlesbridge Antiques Centre housed in the old mill."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/1EphKwGkKB0",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/564ec8229b64f39c61218304a8fd9110.gpx",
-  "_geoloc": {
-    "lat": 51.5324786508,
-    "lng": 0.7158521607
-  }
+  "gazetteer_found": false
 }

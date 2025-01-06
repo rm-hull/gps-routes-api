@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:48:26.439238+00:00",
   "objectID": "7995cc2b36171002e56651b4537bc565",
-  "created_at": "2024-12-18T11:32:01.946110+00:00",
   "ref": "locko-park-walking-route",
   "title": "Locko Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Locko_Park_-_geograph.org.uk_-_955221.jpg",
@@ -55,9 +55,20 @@
   ],
   "distance_km": 6.5,
   "description": "This circular walk visits the Locko Park Estate in Derbyshire. The 18th century house is privately owned but there are some public footpaths running around the attractive parkland. The walk starts from Stanley village which lies just to the north of the park. From here you can pick up country footpaths heading south to the estate where you'll find woodland paths, a pretty lake and views to the historic Grade II listed house. Part of the walk uses the long distance Midshires Way. You could extend the walk by following the trail east to visit the ruins of the 12th century Dale Abbey and the ancient Hermit's cave.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The White Hart is located at the start of the walk in Stanley. There's a great menu and a lovely garden here with views of the surrounding countryside. You can find them at postcode DE7 6EX for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "It's a fine place for a dog walk though you are requested to keep them on leads on the estate bridleways. The White Hart mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QEQfNF9tAHA",
   "district": "Stanley",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

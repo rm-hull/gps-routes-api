@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:19:14.395675+00:00",
   "objectID": "d54c3c68a7d7ef7173ec33c25103c27f",
-  "created_at": "2024-12-18T01:04:31.755578+00:00",
   "ref": "dinas-mawddwy-walking-route",
   "title": "Dinas Mawddwy Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dinas_Mawddwy_station_site_geograph-3863932-by-Ben-Brooksbank.jpg/512px-Dinas_Mawddwy_station_site_geograph-3863932-by-Ben-Brooksbank.jpg",
@@ -109,16 +109,31 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Old_Railway_Truck_Bwlchcoediog_Nature_Reserve_-_geograph.org.uk_-_450054.jpg",
-      "title": "liz dawson / Old Railway Truck  Bwlchcoediog Nature Reserve",
+      "title": "liz dawson / Old Railway Truck Bwlchcoediog Nature Reserve",
       "caption": "Old Railway Truck Bwlchcoediog Nature Reserve. Next to road at the top of this lovely valley"
     }
   ],
   "distance_km": 9.0,
   "description": "This attractive town in Snowdonia sits at the confluence of three rivers in the lovely Dyfi Valley. There's some nice river trails, an interesting old mill and a large local forest for walkers to explore. This circular walk uses part of the Dyfi Valley Way to visit Meirion Mill before heading into the surrounding countryside. The walk starts at the car park in the town and follows the Dyfi Valley Way south to Minllyn and Meirion Mill. Today the old woolen mill operates as a tourist attraction with a shop selling a range of woven items, crafts and homeware. There's also the old Mawddwy Railway building which now contains a caf\u00e9 and many of the other relics of the old railway still remain. Over the river here there's also a photogenic packhorse bridge which dates back to the 17th century. After exploring the mill the route then heads north east through the countryside to Troed-y-Rhiw. You then follow paths west along the river to return to the town car park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The old mill has a nice cafe where you can enjoy refreshments on the walk. For a pub lunch head to the Red Lion in the town. The pub serves good quality food and has a fine selection of ales. There's also a nice outdoor seating area with views of the surrounding area. You can find them at postcode SY20 9JA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trails around the town make for a fine dog walk. The Meirion Mill and the Red Lion mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west from the town and you could explore the expansive Dyfi Forest on a network of walking and mountain biking trails. The climb to the summit of the famous Cadair Idris is also another local highlight and can be picked up to the west. The wonderful Bala Lake can be reached by following the Dyfi Valley Way north from the town. Heading south will take you to Machynlleth. The worthy town is significant as the ancient capital and parliamentary seat of wales, home to Laura Ashley and lying within the UNESCO Dyfi Biosphere reserve. The Cors Dyfi Nature Reserve is one of the local highlights in the area. Just south is neighbouring Mallwyd where there's a noteworthy 15th century coaching inn to investigate. For more walking ideas in the area see the Snowdonia Walks and the Cambrian Mountains Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/yySuhRBdLF4",
   "postcode": "SY20 9JB",
   "district": "Dinas Mawddwy",
   "county": "Gwynedd - Gwynedd",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

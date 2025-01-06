@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:54:33.501369+00:00",
   "objectID": "1274c139925360b031b1e78a07929c72",
-  "created_at": "2024-12-21T21:44:46.139137+00:00",
   "ref": "woodburn-forest-and-reservoirs-walking-route",
   "title": "Woodburn Forest and Reservoirs Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Path%2C_Woodburn_reservoir_-_geograph.org.uk_-_1584470.jpg",
@@ -79,11 +79,22 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Track_near_Woodburn_forest%2C_Carrickfergus_-_geograph.org.uk_-_1931289.jpg",
-      "title": "Track near Woodburn forest,  Carrickfergus by Albert Bridge, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Track near Woodburn forest, Carrickfergus by Albert Bridge, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Track near the forest. A summer view of the area."
     }
   ],
   "distance_km": 8.0,
   "description": "This circular walk explores the Woodburn Forest and its reservoirs in Carrickfergus, County Antrim. You can start the walk from the Woodburn Forest Lower Car Park at the eastern side of the site. Then follow footpaths heading west to visit the waterfall near the Lower Reservoir. There's some nice waterside paths and good woodland trails to the north of the lakes as well.",
-  "video_url": "https://www.youtube.com/embed/QlZsjk_NDQo"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd expect the woodland trails are ideal for dog walking so you'll probably bump into other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north east and you could visit the Blackhead Lighthouse. There's some fine coastal trails around the lighthouse with views over the Belfast Lough. The popular and dramatic Gobbins Cliff Path can also be picked up in this area. To the south west there's the wonderful viewpoints at Cave Hill Country Park, Belfast Castle and Black Mountain to explore. To the north west there's Ballyboley Forest where you'll find more peaceful woodland trails and waterside walks along the Kilylane Reservoir. To the north there's the lovely Glenoe Waterfall to visit. The picturesque falls are located in the pretty village of Glenoe in County Antrim. It's a fine place for a walk with pleasant trails taking you through peaceful woodland to the 30ft high waterfall."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/QlZsjk_NDQo",
+  "gazetteer_found": false
 }

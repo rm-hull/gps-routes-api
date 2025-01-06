@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:51:50.276323+00:00",
   "objectID": "7d89745d2d3c95081f021e6b5e051bdd",
-  "created_at": "2024-12-18T16:26:15.209745+00:00",
   "ref": "anglezarke-reservoir-walking-and-cycle-route",
   "title": "Anglezarke Reservoir Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Watermans_Cottage%2C_Anglezarke_Reservoir_-_geograph.org.uk_-_1454887.jpg",
@@ -38,7 +38,7 @@
     {
       "description": "Withnell Nature Reserve",
       "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell nature-reserve-walking-route"
+      "ref": "withnell\u00a0nature-reserve-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d89745d2d3c95081f021e6b5e051bdd.gpx",
@@ -80,8 +80,19 @@
   ],
   "distance_km": 7.5,
   "description": "This circular cycle and walk loop takes you around the pretty Anglezarke Reservoir near Chorley. If you're coming by train you can easily reach the reservoir from Chorley or Adlington. Parking is also available at the south eastern end of the reservoir. The route takes you around the reservoir using a series of country lanes. There are some climbs with great views over the Rivington chain of reservoirs which includes Yarrow Reservoir, High Bullough Reservoir and the Rivington Reservoirs. It's easy to extend your outing by heading into the nearby Rivington Country Park where there are more cycle trails. The route below is a cycle route but the reservoir also has some lovely walking trails on the eastern side. If you park in the car park where this route starts then you can pick up a lovely waterside footpath which will take you to High Bullough reservoir. It's a lovely walk with woodland trails. You could extend it by climbing the nearby Winter Hill. You can also climb to the nearby Healey Nab for great views over the reservoir. On the Nab there are lots of footpaths and two colour coded mountain bike trails to try in the woodland area. Just to the north is the delightful hamlet of White Coppice with its idyllic cricket pitch and series of reservoirs.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "If you head south to Rivington you could enjoy some refreshments in the delightful Rivington Village Green Tea Room. There's a cosy interior where you can enjoy a good range of snacks and meals. There's also an outdoor area for warmer days and the cafe is very dog friendly too. You can find the tea rooms on Sheep House Lane with a postcode of BL6 7SD for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Brinscall Walk starts from the village to the north of the reservoir. You can follow a pleasant walking trail south along The Goit Canal to reach the site. The Withnell Nature Reserve and Abbey Village Reservoir can also be accessed near the route. For more walking ideas in the area see the West Pennine Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/C1vK_DXkqjY",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

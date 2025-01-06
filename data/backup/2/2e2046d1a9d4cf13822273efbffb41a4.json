@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:15:31.413695+00:00",
   "objectID": "2e2046d1a9d4cf13822273efbffb41a4",
-  "created_at": "2024-12-19T09:15:01.636588+00:00",
   "ref": "loch-grannoch-walking-route",
   "title": "Loch Grannoch Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Loch_Grannoch_-_geograph.org.uk_-_463539.jpg",
@@ -65,8 +65,15 @@
   ],
   "distance_km": 1.0,
   "description": "This attractive loch is part of the Galloway Forest Park in Dumfries and Galloway. To the east of the loch there's a shared cycling and walking route running through the adjacent forestry. You can follow this trail from the nearby Clatteringshaws Loch to reach the loch. It's a very beautiful and remote place with attractive forestry and hills surrounding the scenic lake. Look out for the black headed gulls on the island in the middle of the loch.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north to visit the Galloway Forest Park visitor centre and car park. Near here there's more waterside trails around Clatteringshaws Loch. Follow the shared cycling and walking trail south through the woodland and it will bring you to the Big Water of Fleet Viaduct. The viaduct is a local historic highlight and provides wonderful views over the area from the top. You can also explore the wonderful wild landscape of the Cairnsmore of Fleet National Nature Reserve in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/H_N1qie1Tg0",
   "county": "Dumfries and Galloway",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

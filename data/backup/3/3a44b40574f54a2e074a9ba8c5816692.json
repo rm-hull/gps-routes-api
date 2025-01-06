@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:43:20.309555+00:00",
   "objectID": "3a44b40574f54a2e074a9ba8c5816692",
-  "created_at": "2024-12-19T04:56:21.802182+00:00",
   "ref": "cammo-estate-walking-route",
   "title": "Cammo Estate Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Cammo_Park_-_geograph.org.uk_-_1523957.jpg",
@@ -75,9 +75,20 @@
   ],
   "distance_km": 1.7,
   "description": "This walk visits the Cammo Estate Nature Reserve on the north western fringes of the city of Edinburgh. The historic park is a lovely place for a walk with a number of trails taking you to pretty pools, a walled garden, wildflower meadows, old ruins and the striking 19th century Cammo Tower. The peaceful park is a great place for wildlife with deer, foxes, owls and other birds of prey to look out for. You can start the walk from the car park at the south eastern end next to Cammo Walk Road.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walking with woodland trails and two open fields for them to run in. You'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north and you can pick up the long distance John Muir Way and enjoy a lovely coastal walk on the Cramond to South Queensferry Walk."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/biY75Wq-xdk",
   "district": "Edinburgh",
   "county": "City of Edinburgh",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

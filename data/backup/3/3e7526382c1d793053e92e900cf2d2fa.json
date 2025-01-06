@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:48:32.276930+00:00",
   "objectID": "3e7526382c1d793053e92e900cf2d2fa",
-  "created_at": "2024-12-18T01:25:43.301282+00:00",
   "ref": "stockton-on-the-forest-walking-route",
   "title": "Stockton on the Forest Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/On_Carrbank_Lane_-_geograph.org.uk_-_1802022.jpg/512px-On_Carrbank_Lane_-_geograph.org.uk_-_1802022.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 9.0,
   "description": "This little village is located a few miles north east of the city of York. There's some nice local trails to follow around some attractive farmland. This circular walk from the village visits the neighbouring settlements of Warthill and Holtby. The walk starts in the village and follows Carrbank Lane through pleasant farmland towards Warthill where there's a nice village pond, a good local pub and an old church. You then head west along Rudcarr Lane before turning south to visit Holtby. The route then returns to Stockton via the farmland around Beanland Lane.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village the Fox Inn is a good choice for some post walk refreshment. The friendly village pub serves good quality food and has an outdoor seating area. You can find them at postcode YO32 9UW for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Fox Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into nearby York and you can pick up the popular York River Walk and the historic York Walls Walk."
+    }
+  ],
   "postcode": "YO32 9WB",
   "district": "Stockton on the Forest",
   "county": "York",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:24:52.871526+00:00",
   "objectID": "cfe0eedf53a1feba8997d3edde99c201",
-  "created_at": "2024-12-19T07:56:31.212360+00:00",
   "ref": "ironbridge-way-walking-route",
   "title": "Ironbridge Way Walking Route",
   "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
@@ -23,9 +23,16 @@
   },
   "distance_km": 13.0,
   "description": "Starting in Leegomery head south to the historic Ironbridge on this 8 mile walk through Shropshire. The path passes Ketley and Little Dawley with pleasant sections through Lawley and Horsehay commons where you will pass the tranquil Horsehay Pool. Other highlights include the interesting Telford Steam Railway and the fascinating Ironbridge Gorge Museum at the end of the path. The route links with the Severn Way long distance trail in Ironbridge. You can pick up the riverside trail to extend your walking in the area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a mile south of the Iron Bridge you could take a small detour from the route and visit the historic Benthall Hall. This National Trust owned hall dates from the 16th century and includes some beautiful gardens. You can tour the fine house and learn all about the interesting family history which dates back to the doomsday."
+    }
+  ],
   "postcode": "TF1 6QN",
   "district": "Telford",
   "county": "Telford and Wrekin",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

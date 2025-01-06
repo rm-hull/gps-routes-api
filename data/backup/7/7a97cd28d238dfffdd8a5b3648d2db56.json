@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:56:13.756323+00:00",
   "objectID": "7a97cd28d238dfffdd8a5b3648d2db56",
-  "created_at": "2024-12-18T22:34:45.117605+00:00",
   "ref": "balgavies-loch-walking-route",
   "title": "Balgavies Loch Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Balgavies_Loch_-_geograph.org.uk_-_418867.jpg",
@@ -65,8 +65,15 @@
   ],
   "distance_km": 2.0,
   "description": "This circular walk takes you around the lovely Balgavies Loch, near Forfar, in the county of Angus. The picturesque loch is also a nature reserve with lots of water loving wildlife to look out for on and around the water. Keep your eyes peeled for water rail, great crested greb, goldeneye, teal, wigeon, ospreys and red squirrels as you make your way around the lake. There's also lots of pretty wildflowers in the summer months. To extend your walking head west to visit the large Rescobie Loch or head into Forfar to Forfar Loch Country Park .",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The circular trail around the loch is a nice one to do with your dog. You are asked to please keep them on leads though."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sa7HLTMSq7U",
   "county": "Angus",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

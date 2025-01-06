@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:04:27.844395+00:00",
   "objectID": "8102bf29bf9eb644bc92df35776572a7",
-  "created_at": "2024-12-18T08:40:58.884053+00:00",
   "ref": "benenden-walking-route",
   "title": "Benenden Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/The_Street%2C_Benenden_-_geograph.org.uk_-_2459519.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 4.3,
   "description": "This Kent based village is located in the High Weald near Tenterden. It's a lovely place to visit with a pretty village green and a noteworthy pub dating back to 1608. The village is on the High Weald Landscape Trail, a long distance waymarked footpath that can be used to explore the surrounding area. The expansive Hemsted Forest, which lies just to the north, is another local walking highlight. This circular walk from the village visits neighbouring Iden Green using public footpaths and a section of the High Weald Landscape Trail. On the way there's some lovely bluebell woodlands in Strawberry Woods and Willerd's Hill Woods, plus fine views of the surrounding High Weald countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bull is a good choice for some post walk refreshment. The early 17th century pub is located in a pleasant spot by the village green and includes fascinating architectural features such as Chinoiserie windows, inglenook fireplaces, carved beams and lots of nooks and crannies. The antique tables and chairs, cosy rugs and cushions, low lighting, candles and antique portraits take you back hundreds of years. They serve good quality food and can be found at postcode TN17 4DE."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and countryside surrounding the village are ideal for dog walking. The Bull mentioned above is also dog friendly."
+    }
+  ],
   "postcode": "TN17 4DE",
   "district": "Benenden",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

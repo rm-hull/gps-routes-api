@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T05:09:55.817355+00:00",
   "objectID": "71ba951da529580023e7b2e433921737",
-  "created_at": "2024-12-18T05:33:22.232126+00:00",
   "ref": "mayfield-walking-route",
-  "title": "Mayfield Circular Walk Route",
+  "title": "Mayfield\u00a0Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mayfield_village_centre%2C_East_Sussex_-_geograph.org.uk_-_2122959.jpg/512px-Mayfield_village_centre%2C_East_Sussex_-_geograph.org.uk_-_2122959.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/71ba951da529580023e7b2e433921737.gpx",
   "_geoloc": {
@@ -53,10 +53,21 @@
   ],
   "distance_km": 6.5,
   "description": "This Sussex based village is located near Crowborough and Tunbridge Wells in the north eastern part of the county. Mayfield is close to the Ashdown Forest where you can enjoy miles of woodland trails in the 'home' of Winnie-the-Pooh. There's also the High Weald AONB where you'll find numerous walking trails in beautiful surroundings. The historic village itself includes some wonderful old listed buildings including a fine 16th century pub and a 15th century church. This circular walk explores the area to the south of the village using various public footpaths. On the way there's pleasant countryside, woodland paths and views of the River Rother.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Grade I listed Middle House Hotel dates all the way back to 1575. The old world pub is set in a splendid black and white timber framed building on the High Street. The house was originally built for the financier, Sir Thomas Gresham, Keeper of the Privy Purse to her Majesty Queen Elizabeth 1st. They serve good quality dishes and have a dog friendly garden where you can relax on warmer days. You can find them at a postcode of TN20 6AB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north west is the neighbouring village of Rotherfield where there are some nice trails across the Rotherfield Millennium Green. The green includes a pond, a stream, grassland, an ancient oak, a heritage orchard and lots of wildlife. In the village you can also visit the Grade I listed 11th century church and a 17th century pub with a particularly fine garden area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NavWs7dRkdE",
   "postcode": "TN20 6BE",
   "district": "Mayfield",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:40:24.202151+00:00",
   "objectID": "3db14b768e9d01c63e18ddeb67beedb3",
-  "created_at": "2024-12-19T04:17:03.255168+00:00",
   "ref": "west-deane-way-walking-route",
   "title": "West Deane Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/West_Deane_Way_approaching_Tolland_-_geograph.org.uk_-_1843456.jpg",
@@ -55,7 +55,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/Wiveliscombe%2C_West_Deane_Way_-_geograph.org.uk_-_169578.jpg",
       "title": "Martin Bodman / Wiveliscombe: West Deane Way",
-      "caption": "Wiveliscombe.  Looking south east along a bridleway also know as Jews Lane: it leads to Wiveliscombe"
+      "caption": "Wiveliscombe. Looking south east along a bridleway also know as Jews Lane: it leads to Wiveliscombe"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sandy_Lane%2C_Langley_-_geograph.org.uk_-_1517568.jpg",
@@ -65,8 +65,19 @@
   ],
   "distance_km": 72.0,
   "description": "This wonderful circular walk takes you through the beautiful Somerset countryside including the Quantocks. The path starts and ends in Taunton on the River Tone and heads north west towards West Bagborough. You continue through Lydeard St Lawrence and Wiveliscombe before a pleasant waterside stretch along the River Tone takes you back to Taunton via Bradford on Tone. In Taunton the trail links with the Bridgwater and Taunton Canal which offers more great opportunities for waterside walking or cycling.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just north of Wellington you will pass the village of Langford Budville where you could enjoy a pit stop at the Martlett Inn. The lovely pub is something of a local gem with its 17th century flagstone floors and inglenook fireplace. Outside there's also a fine courtyard garden to relax in. They serve an excellent Sunday roast and provide rooms and car parking. You can find them in Langford Budville at postcode TA21 0QZ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Somerset Space Walk runs along the towpath of the Bridgwater canal. The route is lined with a number of interesting sculptures representing the planets of the Solar System. You can see the scale model of the sun at Maunsel Lock and the description panels next to the sculptures to find out more."
+    }
+  ],
   "district": "Taunton",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

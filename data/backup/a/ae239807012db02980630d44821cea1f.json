@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:21:32.873945+00:00",
   "objectID": "ae239807012db02980630d44821cea1f",
-  "created_at": "2024-12-18T11:32:15.257854+00:00",
   "ref": "lodge-moor-walking-route",
   "title": "Lodge Moor Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Heather_time_looking_towards_Rivelin_Dams_-_geograph.org.uk_-_1075858.jpg",
@@ -65,9 +65,16 @@
   ],
   "distance_km": 9.5,
   "description": "A circular walk around Sheffield's Lodge Moor visiting several of the area's local highlights including Redmires Reservoir and Rivelin Dams. You'll also pass the woods at Fox Hagg, the pretty Wyming Brook and skirt the edge of the Hallam Moors. On the moors there's lots pretty heather and some glorious views from the high points. The route runs for about 6 miles with some moderate climbs on the way.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Rivelin Valley Nature Trail can be picked up nearby. It will take you through the lovely Rivelin River valley with its pretty weirs and waterfalls."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sPPv95Gqzpg",
   "postcode": "S10 4NH",
   "district": "Sheffield",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

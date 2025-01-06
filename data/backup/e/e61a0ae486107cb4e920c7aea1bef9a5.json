@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:15:17.144536+00:00",
   "objectID": "e61a0ae486107cb4e920c7aea1bef9a5",
-  "created_at": "2024-12-18T07:14:10.808211+00:00",
   "ref": "therfield-walking-route",
   "title": "Therfield Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Therfield_Heath.jpg",
@@ -125,10 +125,25 @@
   ],
   "distance_km": 9.0,
   "description": "A circular walk from the village of Therfield in Hertfordshire. The walk explores the village before visiting Fox Covert Nature Reserve and Therfield Heath. The settlement is very attractive with a picturesque village green, pretty cottages and an historic pub dating back to the early 18th century. The route makes use of the Hertfordshire Chain Walk and the Icknield Way Path to create a circular route, taking you through the countryside surrounding the heath. It's a lovely place for a walk with splendid views from the high points and a wide variety of flora and fauna to enjoy. For an alternative shorter route through the area see the Royston Heath Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Fox and Duck for some post exercise rest and refreshment. This award winning gastropub is located in a lovely spot on the green. The pub dates back to 1700 and includes a charming interior with a rustic and traditional feel. There's also a number of interesting historical artifacts donated by the Royston and District Museum. These include summarised accounts from 1900 to 1926 showing the impact of WW1 on the village pub. The pub serves high quality food which you can enjoy in the garden area with views of the village. You can find them at postcode SG8 9PN for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The heathland, woodland and country trails make for a fine dog walk. The Fox and Duck mentioned above is also very dog friendly with water bowls and free treats in the bar area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Hertfordshire Way can be picked up just to the east of the village. The long distance trail could be followed south into the neighbouring village of Reed. Also to the south is Buntingford where there are number of historic timber framed buildings and the impressive, 19th century Aspenden Hall to see. Just to the north is Shepreth where you could visit the Shepreth Wildlife Park. The park includes some exotic animals including red pandas, llamas, monkeys and tigers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ICmJSXtJTS8",
   "postcode": "SG8 9PJ",
   "district": "Therfield",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

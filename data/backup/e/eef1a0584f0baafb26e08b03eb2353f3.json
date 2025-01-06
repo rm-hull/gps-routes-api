@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:13:30.088294+00:00",
   "objectID": "eef1a0584f0baafb26e08b03eb2353f3",
-  "created_at": "2024-12-21T16:58:05.340228+00:00",
   "ref": "thames-estuary-trail-walking-route",
   "title": "Thames Estuary Path Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Havengore_Island_-_geograph.org.uk_-_916857.jpg",
@@ -60,9 +60,11 @@
   ],
   "distance_km": 185.0,
   "description": "Explore the Thames Estuary on this walk through Essex and Kent. The walk runs from Foulness Island to the Isle of Sheppey, passing Southend, Gravesend and Rochester. The scenery includes salt marshes, mudflats and open beaches, including the North Kent Marshes and the Essex Marshes.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/eef1a0584f0baafb26e08b03eb2353f3.gpx",
-  "_geoloc": {
-    "lat": 51.5988727672,
-    "lng": 0.9363312934
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Three Daws in Gravesend is one of the must see pubs on the route. The historic riverside inn dates back to the 1400s, making it one of the oldest in the country. As such it's steeped with tales of smugglers, Press Gangs, hauntings and the like. It would have been a popular haunt for seamen as at one time large sailing merchant ships used to anchor off the Three Daws. Today you can enjoy lovely British food in the garden area overlooking the River Thames. It's a splendid spot to relax in on warmer days. You can find them at the start of the walk at the Town Pier with a postcode of DA11 0BJ for your sat navs."
+    }
+  ],
+  "gazetteer_found": false
 }

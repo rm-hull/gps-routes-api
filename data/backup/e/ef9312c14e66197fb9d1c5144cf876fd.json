@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:20:09.361268+00:00",
   "objectID": "ef9312c14e66197fb9d1c5144cf876fd",
-  "created_at": "2024-12-19T07:29:43.661995+00:00",
   "ref": "ashtead-common-national-nature-reserve-walking-and-cycle-route",
   "title": "Ashtead Common Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ashtead_Common_-_geograph.org.uk_-_1054432.jpg",
@@ -60,10 +60,25 @@
   ],
   "distance_km": 5.0,
   "description": "This 500 acre ancient wooded common is also a National Nature Reserve. There are miles of quiet cycling and walking paths taking you to woodland, scrub grassland, a meadow, ponds and streams. There are also two ancient Scheduled Monuments - a Roman villa and a triangular earthwork. The route below begins and ends at the conveniently located Ashtead Railway Station at the southern end of the common. The adjacent Epsom Common is a great option if you would like to continue your outing. Horton Country Park is nearby while the Thames Down Link also runs past the site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Epsom Common there's the Cricketers Inn for some post walk refreshments. It's in a lovely spot with views of the picturesque cricket green and duck pond. There's an attractive interior and an outdoor area for warmer days. You can find the pub at 1 Stamford Green Road with a postcode of KT18 7SR for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a nice place for a dog walk with miles of good woodland trails to try."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Chessington Walk starts from the Chessington South train station just to the north of the reserve. It runs past the famous theme park before visiting Ashtead Common and Epsom Common. It then picks up the London Looop to visit Horton Country Park and Chessington village. The walk is a nice way to explore the surrounding countryside and visit some of the other local highlights using public transport. For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/E4hIO8177aQ",
   "postcode": "KT21 1QB",
   "district": "Ashtead",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

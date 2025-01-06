@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:32:53.017799+00:00",
   "objectID": "7292d2f31f3234687941cb2b979a02d0",
-  "created_at": "2024-12-18T00:50:37.106061+00:00",
   "ref": "wigg-island-walking-route",
   "title": "Wigg Island Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Wigg_Island_Visitor_Centre_-_geograph.org.uk_-_836786.jpg",
@@ -75,10 +75,17 @@
   ],
   "distance_km": 5.5,
   "description": "This circular walk visits the lovely Wigg Island park between Runcorn and Widnes in Cheshire. The park sits in an interesting location, between the River Mersey and the Manchester Ship Canal. The area is also deisgnated as a local nature reserve so is popular with local birdwatchers. It is named after Charles Wigg, who started an alkali works there in the 1860s to extract copper from its ore. You can start the walk from the car park and visitor centre at the western end of the site. Then pick up a circular trail heading around the island for just over 3 miles.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you cross the Runcorn Bridge you can pick up the Widnes Walk. This will take you along the Mersey Way to two local highlights at Hale Lighthouse and Speke Hall. Head east and you'll find the worthy village of Daresbury. The village is notable as the birthplace of of Alice's Adventures in Wonderland author Lewis Carroll who was born there in 1832. It includes the Lewis Carroll visitor centre where you can learn all about his life and try the 'Lewis Carroll's Boyhood Walk' which runs from Daresbury church to the site of the parsonage, passing through fields and lanes that the young Carroll would have known. Just to the east there's the picturesque Moore Nature Reserve. It's a lovely place for a walk with lakes, peaceful woodland and attractive meadows to explore. The reserve is also great for wildlife with a wide range of birds to look out for on the water. You can find them on the south western side of Warrington, next to the Manchester Ship Canal at postcode WA4 6XE for your sat navs. For more walking ideas in the area see the Cheshire Walks and the Merseyside Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/z-otz5Ub5Qs",
   "postcode": "WA7 1PJ",
   "district": "Runcorn",
   "county": "Halton",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

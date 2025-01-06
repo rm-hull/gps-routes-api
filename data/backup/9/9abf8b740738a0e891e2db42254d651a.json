@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:20:46.020362+00:00",
   "objectID": "9abf8b740738a0e891e2db42254d651a",
-  "created_at": "2024-12-18T09:53:52.986509+00:00",
   "ref": "northallerton-walking-route",
   "title": "Northallerton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Northallerton_-_geograph.org.uk_-_1346077.jpg",
@@ -43,9 +43,16 @@
   ],
   "distance_km": 1.0,
   "description": "This market town is located in the Hambleton District of North Yorkshire. It's located close to the heather moorland of the North York Moors National Park and the splendid Hambleton Hills where you can pick up the Cleveland Way National Trail. Other highlights include the nearby Mount Grace Priory where there are some fine trails around the historic Carthusian ruins. Near here you can pick up the Lyke Wake Walk and visit the lovely Cod Beck Reservoir at the attractive village of Osmotherley. In the town itself the 12th century Church of All Saints is a must see.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the North York Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GvpYvf3OOLQ",
   "district": "Romanby",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

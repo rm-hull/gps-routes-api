@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:45:33.950738+00:00",
   "objectID": "befce96ab899e3493ca08898655f4a11",
-  "created_at": "2024-12-18T10:03:45.352635+00:00",
   "ref": "loch-treig-walking-route",
   "title": "Loch Treig Walk Map Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Loch_Treig_dam_-_geograph.org.uk_-_59492.jpg?20100130165511",
@@ -80,8 +80,15 @@
   ],
   "distance_km": 5.0,
   "description": "This walk visits Loch Treig near Fort William, in Lochaber, in the Scottish Highlands. Just north of the loch you'll find a parking area at Fersaid Bridge where you can start the walk. From here you can follow a footpath south along the River Treig to the Treig Dam. The path continues south along the lake with fine views across the water to the surrounding mountains. For wonderful views down to the loch you could climb to Stob Coire Sgriodain on its eastern side. To continue your waterside walking in the area head south east to visit Loch Ossian .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north west there's the interesting village of Spean Bridge. Here you can enjoy pleasant walks along the River Spean and climb to the Commando Monument where there is a noteworthy memorial and a splendid viewpoint."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3g_Twe4wR0c?si=SxqFcaY1q1YEnuQy",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

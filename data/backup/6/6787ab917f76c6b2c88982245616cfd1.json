@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:35:28.328461+00:00",
   "objectID": "6787ab917f76c6b2c88982245616cfd1",
-  "created_at": "2024-12-19T19:35:02.613531+00:00",
   "ref": "green-street-green-circular-walking-route",
   "title": "Green Street Green Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Green_Street_Green_village_sign_-_geograph.org.uk_-_1162625.jpg/256px-Green_Street_Green_village_sign_-_geograph.org.uk_-_1162625.jpg",
@@ -59,7 +59,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/The_%27Ship%27%2C_Green_Street_Green%2C_Kent_-_geograph.org.uk_-_246947.jpg",
-      "title": "Dr Neil Clifton / The 'Ship',  Green Street Green, Kent",
+      "title": "Dr Neil Clifton / The 'Ship', Green Street Green, Kent",
       "caption": "The Ship Green Street Green, 2006. It's Sunday lunchtime, and quite a few customers have already arrived at this popular pub and restaurant at the junction of the B260 and B262, as a horse rider passes. The Dutch-gabled cottages beyond are not connected with the pub. The name 'Green Street Green' is not unique to this village: there is another Green Street Green just a few miles away on the A21, and still in Kent."
     },
     {
@@ -80,9 +80,24 @@
   ],
   "distance_km": 11.0,
   "description": "This short circular walk takes you through the woodland, parkland and countryside around Green Street Green in Bromley. The walk visits Pratts Bottom, Chelsfield and the splendid High Elms Country Park. It runs for just over 7 miles with a few small climbs on the way. The park boasts 250 acres of countryside including a 150 acre golf course, woodlands, a nature centre, an ice well, formal gardens and wildflower meadows. You can also pick up the Cudham Circular Walk and the epic London Loop here. Good access points for the walk are Chelsfield railway station or the nearby car park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village The Rose and Crown is a good choice for post walk refreshment. They do a fine Sunsay roast which you can enjoy in the lovely large garden. You can find them at postcode BR6 6BT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk and the Rose and Crown mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Hayes Common and Keston Common are nearby. Both have some nice easy trails to try. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "postcode": "BR6 6AA",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

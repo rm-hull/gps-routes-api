@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:29:16.873602+00:00",
   "objectID": "0ed607e7be4c85a0e5a0b71e6187cc8c",
-  "created_at": "2024-12-18T09:43:51.610158+00:00",
   "ref": "mitford-walking-route",
   "title": "Mitford Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Mitford_Castle.jpg",
@@ -100,10 +100,25 @@
   ],
   "distance_km": 3.4,
   "description": "A short circular walk around the pretty Northumberland village of Mitford visiting the remains of the old castle. The little village is located just to the west of Morpeth. From the village you can pick up country lanes and footpaths to take you over the River Wansbeck and then around the old castle. The Grade I listed castle dates from the 11th century and sits on a small hill above the River Wansbeck in the village. It's a photogenic spot and a nice place for a stroll with the Norman motte and bailey castle surrounded by pleasant countryside and woodland. From the elevated position of the ruins there are fine views of Northumberland to enjoy. You can then enjoy a stroll around the village itself where you can see the confluence of the River Wansbeck and the River Font.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village there's the Plough Inn for some post walk refreshment. It's a fine country pub with a good menu and some outdoor seating. You can find them at postcode NE61 3PR for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The village and surrounding area make for a fine dog walk and the Plough mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head towards Morpeth and you can visit another historic castle and the scenic Wansbeck Riverside Country Park. For more walking ideas in the area see the Northumberland Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Uf22rs4JbU0",
   "postcode": "NE61 3PP",
   "district": "Mitford",
   "county": "Northumberland",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

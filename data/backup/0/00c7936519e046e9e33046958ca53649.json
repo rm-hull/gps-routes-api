@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:19:23.326866+00:00",
   "objectID": "00c7936519e046e9e33046958ca53649",
-  "created_at": "2024-12-18T10:32:00.557940+00:00",
   "ref": "mowbray-way-walking-route",
   "title": "Mowbray Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/The_Mowbray_Way_-_geograph.org.uk_-_594112.jpg",
@@ -64,10 +64,17 @@
     }
   ],
   "distance_km": 14.0,
-  "description": "A short walk through the Leicestershire countryside from Scalford, passing Waltham on the Wolds  and Buckminster park before finishing at Buckminster. Highlights on the route include several small villages and Buckminster Park and Hall at the end of the route.",
+  "description": "A short walk through the Leicestershire countryside from Scalford, passing Waltham on the Wolds and Buckminster park before finishing at Buckminster. Highlights on the route include several small villages and Buckminster Park and Hall at the end of the route.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "From Scalford you can pick up the Jubilee Way and follow it south along the Scalford Brook to Melton Country Park. There's 137 acres to explore here with park features including ponds, lakes and weirs. For more walking ideas in the area see the Leicestershire Walks page."
+    }
+  ],
   "postcode": "LE14 4DL",
   "district": "Scalford",
   "county": "Leicestershire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

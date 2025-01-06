@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:47:04.551050+00:00",
   "objectID": "168515a9e440edc52d544a97324c3297",
-  "created_at": "2024-12-21T20:29:08.080633+00:00",
   "ref": "wylye-way-walking-route",
   "title": "River Wylye Valley Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Ford%2C_River_Wylye_-_geograph.org.uk_-_890912.jpg",
@@ -65,10 +65,16 @@
   ],
   "distance_km": 53.0,
   "description": "Follow the River Wylye through Wiltshire on this interesting and varied waterside walk. You start at the splendid Stourhead - an 18th century landscaped garden owned by the National Trust. The route then follows the river through a series of pretty riverside villages including Kingston Deverill, Monkton Deverill and Longbridge Deverill, before a wooded section through Southleigh Wood on the outskirts of Warminster. The second section takes you through Heytesbury, Codford St Peter and Great Wishford to the finish point at the splendid Wilton House near Salisbury.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the walk stop at The Spread Eagle Inn on the Stourhead Estate for some refreshments. The eighteenth-century inn offers lunches, snacks, evening meals, cakes, tea and coffee, as well as a great selection of wines, beers, and gins. There's also a nice outdoor seating area to relax in during the summer months. You can find the inn at Church Lawn on the estate with postcode BA12 6QE for your sat navs. In Warminster there's the The George Inn at the village of Longbridge Deverill. The main attraction here is the lovely riverside garden, next to the Wylye. You can find it at postcode BA12 7DG."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Wiltshire Walks and the Cranborne Chase Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/m8_5yEhjqwQ",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/168515a9e440edc52d544a97324c3297.gpx",
-  "_geoloc": {
-    "lat": 51.1078243266,
-    "lng": -2.3187319057
-  }
+  "gazetteer_found": false
 }

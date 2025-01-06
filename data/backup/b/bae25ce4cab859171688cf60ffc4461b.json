@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:44:14.940410+00:00",
   "objectID": "bae25ce4cab859171688cf60ffc4461b",
-  "created_at": "2024-12-18T09:57:40.232595+00:00",
   "ref": "edale-to-castleton-walking-route",
   "title": "Edale to Castleton Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Hollins_Cross_-_geograph.org.uk_-_172627.jpg",
@@ -70,8 +70,15 @@
   ],
   "distance_km": 5.0,
   "description": "This walk takes you between these two popular Peak District villages, passing through farmland and climbing to Hollins Cross on the Great Ridge. It's about a 3 mile walk with wonderful views over the Peak District Hills from the Great Ridge. The walk starts at the National Park visitor centre in Edale, heading south, crossing the River Noe before climbing to Hollins Cross. You then descend to Dunscar farm before coming to Castleton where you can visit the splendid Peveril Castle. Here you can also try our Castleton Circular Walk and explore the Hope Valley .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Edale head to The Old Nags Head at Hope Vale, just to the north of the village (Postcode: S33 7ZD). This classic old pub dates back to 1577 and is located a short walk from Edale village, at the start of the Pennine Way.In Castleton head to Ye Olde Nags Head on Cross St (Postcode: S33 8WH). Set in a 17th-century former coaching inn, this traditional village pub serves great food and has a good selection of ales. The pub is very walker friendly and has a a great atmosphere."
+    }
+  ],
   "district": "Edale",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:13:09.950804+00:00",
   "objectID": "fd535697f34142749c4f067d7a37d543",
-  "created_at": "2024-12-18T01:20:19.279811+00:00",
   "ref": "dillington-house-walking-route",
   "title": "Dillington House Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dillington_Park_Lodge_-_geograph.org.uk_-_492446.jpg",
@@ -90,10 +90,21 @@
   ],
   "distance_km": 2.8,
   "description": "This walk visits the 16th century Dillington House near Ilminster in Somerset. The walk starts from the village of Whitelackington, just to the east of the hall. From here you can follow a shared cycling and walking trail west to reach the house. The house dates from the 16th century and is notable as the former home of Prime Minister Lord North. At the house you could enjoy a fine Sunday roast or a lovely afternoon tea before enjoying a stroll around the parkland and gardens. There's also some nice trails through the woodland where you can see bluebells in the spring months.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland on the estate are a nice place to bring your dog for a walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could visit the Iron Age Hillfort at Castle Neroche or enjoy a waterside walk around Chard Reservoir. For more walking ideas in the area see the Blackdown Hills Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QF430vZG9pg",
   "postcode": "TA19 9EH",
   "district": "Whitelackington",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

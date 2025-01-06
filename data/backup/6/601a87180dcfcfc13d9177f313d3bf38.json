@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:07:11.990534+00:00",
   "objectID": "601a87180dcfcfc13d9177f313d3bf38",
-  "created_at": "2024-12-18T11:31:31.285329+00:00",
   "ref": "lochcarron-walking-route",
   "title": "Lochcarron Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ardaneaskan_Museum_-_geograph.org.uk_-_1479396.jpg",
@@ -24,7 +24,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ardaneaskan_Museum_-_geograph.org.uk_-_1479396.jpg",
-      "title": "K  A / Ardaneaskan Museum",
+      "title": "K A / Ardaneaskan Museum",
       "caption": "Ardaneaskan Museum. The museum is the nearer of the two buildings and surely must be the smallest in the country. It contains items that that would be part of a crofter's everyday life. Loch Carron is in the mid distance and on the far shore is Creag an Duilisg"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Ardaneaskan_shoreline_-_geograph.org.uk_-_1479275.jpg",
-      "title": "K  A / Ardaneaskan shoreline",
+      "title": "K A / Ardaneaskan shoreline",
       "caption": "Ardaneaskan shoreline. The houses along Loch Carron's shore at Ardaneaskan. The picture is taken from the end of the public road. The peak on the far shore is Creag Mhaol, and the island is Strome Island where seals can normally be seen resting"
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Strome_Castle_-_geograph.org.uk_-_1479238.jpg",
-      "title": "K  A / Strome Castle",
+      "title": "K A / Strome Castle",
       "caption": "Strome Castle. The castle dates from the early years of the fifteenth century and survived intact for two hundred years or so. It was blown up by members of the Mckenzie Clan when they were in dispute with the rival Clan McDonald. It has been in a ruined condition ever since. It is seen here with Loch Carron stretching out behind it to the open sea, the Strome Islands are also visible"
     },
     {
@@ -65,8 +65,15 @@
   ],
   "distance_km": 3.5,
   "description": "This walk takes you from Ardaneaskan to the ruins of Strome Castle on the shores of Lochcarron. From the lochside country lanes there are splendid views over the water to the surrounding woodland and mountains. The walk passes through Leacanashie before coming to Strome Castle. The ruins overlook the loch making it a great photo opportunity. You can virtually explore this section of the loch using the google street view link below!",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the opposite side of the loch there's the delightful village of Plockton. The picturesque settlement has been described as \"The Jewel of the Highlands\". From here you can enjoy a walk along the loch shoreline and enjoy views back over the water to Lochcarron. To the north there's Applecross where you can enjoy a lovely circular walk around a beautiful peninsula to Sand Bay. To the south east there's Loch Duich and Glen Shiel where you'll find some pleasant waterside trails and views to the historic Eilean Donan Castle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VqAVAteeL1g",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

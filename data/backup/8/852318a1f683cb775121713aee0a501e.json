@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:08:08.142589+00:00",
   "objectID": "852318a1f683cb775121713aee0a501e",
-  "created_at": "2024-12-18T14:03:39.620146+00:00",
   "ref": "dean-castle-country-park-walking-route",
   "title": "Dean Castle Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kilmarnock_Water_at_Dean_Castle_Country_Park_-_geograph.org.uk_-_549767.jpg",
@@ -52,10 +52,21 @@
     }
   ],
   "distance_km": 2.0,
-  "description": "Explore the 200 acres of parkland surrounding the 14th century Dean Castle in Kilmarnock.  There are peaceful woodland trails and a waterside path along Kilmarnock Water to enjoy. The park also contains a wonderful urban farm with llamas, fallow deer, kune pigs, highland cattle, a Clydesdale horse and donkeys.  The castle itself is also well worth a visit with collections of historic weapons, armour and musical instruments. The original keep was built around 1350 with the Palace being added around 1460. Dean Castle also has excellent facilities including a visitor centre, tearoom and a shop.",
+  "description": "Explore the 200 acres of parkland surrounding the 14th century Dean Castle in Kilmarnock. There are peaceful woodland trails and a waterside path along Kilmarnock Water to enjoy. The park also contains a wonderful urban farm with llamas, fallow deer, kune pigs, highland cattle, a Clydesdale horse and donkeys. The castle itself is also well worth a visit with collections of historic weapons, armour and musical instruments. The original keep was built around 1350 with the Palace being added around 1460. Dean Castle also has excellent facilities including a visitor centre, tearoom and a shop.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe where you can enjoy some refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland make for a fine dog walk so you'll probably see other owners on your visit. It's best to keep them on leads because of the deer and other wildlife."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/n2t6lQuDH-o",
   "district": "Kilmarnock",
   "county": "East Ayrshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

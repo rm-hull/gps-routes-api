@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:03:24.542943+00:00",
   "objectID": "608a10e72d7027edfba4a0c40f9e12d9",
-  "created_at": "2024-12-18T09:59:57.286770+00:00",
   "ref": "haddo-country-park-walking-route",
   "title": "Haddo House Country Park Walks ",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Haddo_House_-_geograph.org.uk_-_1690854.jpg/512px-Haddo_House_-_geograph.org.uk_-_1690854.jpg",
@@ -50,8 +50,23 @@
   ],
   "distance_km": 8.5,
   "description": "Explore the beautiful estate of Haddo House on this lovely walk in Aberdeenshire. A number of footpaths will take you around the 100 hectare grounds where you will find a formal terrace garden, lakes, monuments, woodland and a deer park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site National Trust tea room where you can enjoy refreshments after your walk. It includes a lovely garden area where you can sit outside and enjoy a meal or snack if the weather is fine."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland around the house is a fine place for a dog walk. There's even a dog park for them to run around in, and a new outdoor dog agility trail. Please do keep them under close control at all times."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The nearby Fyvie Castle is another lovely place for a walk in the area. The 13th century castle includes splendid grounds with beautiful gardens, woodland trails and the picturesque Fyvie Loch. Near here there's also Gight Castle. There's some nice trails along the Ythan River and the Braes of Gight near this impressive 16th century ruin. Leith Hall Gardens is another good local option."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bwxcRgvskbk",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

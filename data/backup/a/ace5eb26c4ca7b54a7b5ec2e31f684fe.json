@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:44:42.519233+00:00",
   "objectID": "ace5eb26c4ca7b54a7b5ec2e31f684fe",
-  "created_at": "2024-12-18T12:43:39.407939+00:00",
   "ref": "weobley-walking-route",
   "title": "Weobley Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Weobley_Magpie_-_geograph.org.uk_-_3109648.jpg",
@@ -27,7 +27,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Farmland_west_of_Weobley%2C_Herefordshire_-_geograph.org.uk_-_2922719.jpg/512px-Farmland_west_of_Weobley%2C_Herefordshire_-_geograph.org.uk_-_2922719.jpg",
-      "title": "Farmland west of Weobley, Herefordshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Farmland west of Weobley, Herefordshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Farmland west of Weobley, Herefordshire"
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 8.0,
   "description": "This historic Herefordshire based village is a lovely place for a stroll. The former market town includes a number of photogenic timber framed buildings and a noteworthy Norman church. This circular walk from the village visits the ruined castle at Garnstone Park before heading to the neighbouring settlement of Ledgemoor. On the way there's some pleasant countryside views, medieval buildings and two pretty lakes to see. There's also an optional extension to visit The Ley, a Grade-I listed farmhouse dating to 1589 which lies just to the west of the village. Weobley is on the Black and White Village Trail, a long distance circular walk which visits several of Herefordshire's medieval settlements. You could extend your walking in the area by following the waymarked footpath north east to visit Dilwyn and Leominster. Heading west will take you to Woonton, Logaston and Almeley.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to The Sal for some post exercise relaxation and refreshment. The Grade II listed pub includes a fine interior with an oak-beamed bar. They serve delicious food and can be found at Market Pitch, HR4 8SJ."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The farmland is a pleasant place for a dog walk. The Sal mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north to Kington and you could pick up the wonderful Hergest Ridge Walk which takes you along a spectacular ridge from England to Wales. For more walking ideas in the area see the Herefordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/yf3UyyLBqCk",
   "postcode": "HR4 8SJ",
   "district": "Weobley",
   "county": "County of Herefordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

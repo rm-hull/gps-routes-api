@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:02:58.026539+00:00",
   "objectID": "87021de230d309b2d15a5e2030384d27",
-  "created_at": "2024-12-18T16:44:43.480438+00:00",
   "ref": "hunsbury-hill-country-park-walking-route",
   "title": "Hunsbury Hill Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Hunsbury_Hill_Country_Park_-_geograph.org.uk_-_2981353.jpg",
@@ -80,9 +80,20 @@
   ],
   "distance_km": 1.2,
   "description": "This country park and Iron Age hill fort are located just to the south of Northampton. You can enjoy a series of footpaths taking you up to the ancient fort which stands at a height of 113 metres. There's a nice wide lawn which is ideal for picnics on warm days. To continue your walking in the area head just a mile to the east to visit Delapre Abbey Park. You'll find 500 acres of parkland, lakes, woodland and gardens surrounding a fine mansion which was once the site of a 12th century abbey. Just a 10 minute walk west there's also the Grand Union Canal Walk with easy waterside trails along the towpath.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Drovers Return cafe sells a good range of meals and snacks at reasonable prices."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a fine place for a dog walk so you'll probably meet other owners on your visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bZC6_w6ZtpY",
   "district": "Northampton",
   "county": "West Northamptonshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

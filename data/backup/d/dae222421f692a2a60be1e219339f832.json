@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:06:36.458889+00:00",
   "objectID": "dae222421f692a2a60be1e219339f832",
-  "created_at": "2024-12-21T15:45:59.265261+00:00",
   "ref": "east-riding-heritage-way-walking-route",
   "title": "East Riding of Yorkshire Heritage Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Bempton_Cliffs_-_geograph.org.uk_-_604672.jpg",
@@ -65,10 +65,16 @@
   ],
   "distance_km": 136.0,
   "description": "Follow the East Riding Heritage Way from the Humber Bridge to Filey on this trail through the East Yorkshire countryside. The walk starts with a section along the Humber Estaury from Hessle and heads to Beverley, with its wonderful minster. You continue to Driffield where there is a lovely waterside section along the Driffield Canal. The next stage then takes you to the coast and the seaside resort of Bridlington. The rest of the route then follows the spectacular East Yorkshire coastline, passing Bempton Cliffs with its huge seabird colonies, the lighthouse at Flamborough Head (video below) and the interesting cliff arch at Thornwick Bay before finishing at Filey.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you can enjoy refreshments at Thornwick Bay and enjoy wonderful views from the cliff top cafe. The cafe's speciality is locally caught crab which you can enjoy with a glass of wine or cup of tea. On Flamborough Head you can visit the 19th century North Star Hotel for refreshments. There's fine sea views and an award-winning restaurant renowned for its fresh Flamborough seafood and wild game caught on the Yorkshire Wolds."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the end of the route in Filey you can visit Filey Brigg where there's some fascinating geology and wildlife including whales, seals and dolphins."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jN489mDdixE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/dae222421f692a2a60be1e219339f832.gpx",
-  "_geoloc": {
-    "lat": 53.7144896477,
-    "lng": -0.4453719068
-  }
+  "gazetteer_found": false
 }

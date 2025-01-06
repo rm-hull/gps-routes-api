@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:35:09.302491+00:00",
   "objectID": "c89d24f0c84f2e3d0bafd9bbd7eecdc3",
-  "created_at": "2024-12-18T11:53:52.644529+00:00",
   "ref": "north-berwyn-way-walking-route",
   "title": "North Berwyn Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Part_of_the_North_Berwyn_Way_ascends_out_of_the_Dee_Valley_-_geograph.org.uk_-_1862318.jpg",
@@ -85,8 +85,19 @@
   ],
   "distance_km": 24.0,
   "description": "This challenging walk explores the North Berwyn Mountains, to the south of the River Dee, in Denbighshire. The route starts in Llangollen and heads west to Corwen, passing Ceiriog Forest and Cynwyd before a final waterside section along the River Dee takes you to Corwen. The area of the Berwyn Mountains is wild and covered in thick heather with some acidic grassland and bracken. The views of North Wales from the peaks are spectacular. The walk is waymarked with a blue and white disc.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the start/finish point in Corwen the Crown Hotel is worthy of some investigation. The historic inn dates all the way back to 1628. The interior is full of olde worlde character with interesting features including pewter tankards hanging from the ceiling. They serve good food and are designated as a Camra Welsh Heritage pub. There's also a snooker table upstairs. You can find them on Bridge Street at postcode LL21 0AH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south of the trail you can visit the villages of Glyn Ceiriog and Llanarmon Dyffryn Ceiriog where you can explore the beautiful Upper Ceiriog Valley. Around Corwen you can pick up the Dee Valley Way which runs to Llangollen on waymarked paths. The Llangollen Round and Llangollen Canal can also be picked up nearby."
+    }
+  ],
   "district": "Llangollen",
   "county": "Sir Ddinbych - Denbighshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

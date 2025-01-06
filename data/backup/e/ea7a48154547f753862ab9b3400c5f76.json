@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:38:55.689583+00:00",
   "objectID": "ea7a48154547f753862ab9b3400c5f76",
-  "created_at": "2024-12-18T00:50:46.313418+00:00",
   "ref": "wigton-walking-route",
   "title": "Wigton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Monument%2C_Wigton_-_geograph.org.uk_-_60406.jpg",
@@ -13,7 +13,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/The_Monument%2C_Wigton_-_geograph.org.uk_-_60406.jpg",
       "title": "Nigel Monckton / The Monument, Wigton",
-      "caption": "The Monument.  Wigton was originally a wool trading town, but now its major employer is Innovia films. In the market place is an elaborate 19th Century fountain erected in 1872 by George Moore of Whitehall in Mealsgate, in memory of his wife. It is built of granite, and features four fine bronze reliefs of the Acts of Mercy by the Pre-Raphaelite sculptor Thomas Woolner. On the north side (opposite the Kings Arms) is 'Visiting the Afflicted', the east illustrates 'Clothing the Naked', the south has 'Instructing the Ignorant', and the west side has 'Feeding the Hungry'. Above each bronze is a small granite carving of the face of Mrs Moore, surrounded by leaves."
+      "caption": "The Monument. Wigton was originally a wool trading town, but now its major employer is Innovia films. In the market place is an elaborate 19th Century fountain erected in 1872 by George Moore of Whitehall in Mealsgate, in memory of his wife. It is built of granite, and features four fine bronze reliefs of the Acts of Mercy by the Pre-Raphaelite sculptor Thomas Woolner. On the north side (opposite the Kings Arms) is 'Visiting the Afflicted', the east illustrates 'Clothing the Naked', the south has 'Instructing the Ignorant', and the west side has 'Feeding the Hungry'. Above each bronze is a small granite carving of the face of Mrs Moore, surrounded by leaves."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/St_Mary%27s_Church%2C_Wigton_-_geograph.org.uk_-_286321.jpg",
@@ -48,10 +48,21 @@
   ],
   "distance_km": 1.0,
   "description": "This Cumbrian based market town is located on the edge of the Lake District in Allerdale. It's an attractive and historic place, located on the River Wampool and Wiza Beck. There's lots of old buildings, a vibrant range of shops and several friendly local pubs for refreshments after your exercise. The Solway Coast AONB lies just to the north west of the town. There's some lovely walks here with several long distance trails to pick up in the area. These include the Allerdale Ramble, the Cumbria Coastal Way and Hadrian's Wall Path. To the north is the city of Carlisle where you can explore the grounds of the historic castle and enjoy waterside walks along the River Eden. This little circular walk in the town takes you along the Speet Gill and Kirkland Lane where there's some nice countryside views. See the list below for other walks near and around Wigton.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Hare & Hounds - Friendly local pub with a cosy fire and good real ale. Located on West Street at postcode CA7 9NP for sat navs. Lion - Provides Accommodation. Located at 29 High St, Wigton CA7 9NJ"
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the east there's Wreay Woods to explore. Here you can enjoy waterside trails along the River Petteril, peaceful woodland footpaths, countryside views, bridges over the river and old mills. Also to the east you can pick up the Cumbria Way and follow the River Calder north towards Carlisle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HmR6_zciTLM",
   "postcode": "CA7 9AU",
   "district": "Wigton",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

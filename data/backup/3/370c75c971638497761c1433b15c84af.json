@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:15:00.980245+00:00",
   "objectID": "370c75c971638497761c1433b15c84af",
-  "created_at": "2024-12-21T20:13:40.683239+00:00",
   "ref": "salisbury-country-way-walking-route",
   "title": "Salisbury Country Way - Compton Park, Martin Down Reserve, Downton Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Stonehenge_back_wide.jpg/512px-Stonehenge_back_wide.jpg",
@@ -50,15 +50,17 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Martin_Down_-_geograph.org.uk_-_129505.jpg",
       "title": "Oliver Dixon / Martin Down, via Wikimedia Commons",
-      "caption": "Martin Down.  One of the few remaining areas of unaltered chalk downland. A National Nature Reserve. Prehistoric earthworks of Bokerley Ditch in the distance"
+      "caption": "Martin Down. One of the few remaining areas of unaltered chalk downland. A National Nature Reserve. Prehistoric earthworks of Bokerley Ditch in the distance"
     }
   ],
   "distance_km": 98.0,
   "description": "A super circular walk through the countryside around Salisbury. The walk visits the ancient stone circles at Stonehenge, Compton Park, Downton and includes a lovely riverside stretch along the River Avon. You'll also pass through the delightful Martin Down Nature Reserve. This beautiful nature reserve on the Hampshire/Dorset border consists of 350 hectares of unspoiled chalk downland with a variety of flora and fauna. Other highlights include views of the River Wylye Valley and a stretch through Grovely Wood near the village of Great Wishford. You can explore the Stonehenge site below using google street view.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's some pretty villages with nice riverside pubs just to the south of Stonehenge where you could stop for refreshments after your walk. You could head to the Bridge Inn in Upper Woodford for example. The main attraction here is a lovely riverside garden where you can sit out and enjoy lunch with views of the River Avon. You can find it at postcode SP4 6NU.Also consider the 17th century Black Horse in nearby Great Durnford (postcode: SP4 6AY). There's another nice, large outdoor seating area for the summer months here. In Great Durnford you could also visit the interesting Norman Church and admire some delightful thatched cottages. The converted mill is also very picturesque with its riverside location and weeping willows."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-6oxmxPKoSE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/370c75c971638497761c1433b15c84af.gpx",
-  "_geoloc": {
-    "lat": 51.1802625509,
-    "lng": -1.8296686322
-  }
+  "gazetteer_found": false
 }

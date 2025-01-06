@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:18:00.111654+00:00",
   "objectID": "81d3659173d56a946b21b12bb1553691",
-  "created_at": "2024-12-18T23:08:18.827116+00:00",
   "ref": "forest-farm-country-park-walking-and-cycle-route",
   "title": "Forest Farm Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg/512px-Snowdrops_at_Forest_Farm_-_geograph.org.uk_-_1748001.jpg",
@@ -70,8 +70,19 @@
   ],
   "distance_km": 4.5,
   "description": "This lovely country park and nature reserve in Cardiff is a great place for a peaceful cycle or walk. There are 150 acres to explore with a section of the Taff Trail running through the park alongside the River Taff. The Glamorganshire Canal or Cardiff Merthyr canal runs through the site - look out for Kingfishers and Herons on the water in this area. There is also a peaceful woodland section.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trails in the park are good for dog walking and you probably see families with their pets on your outing."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Also in Cardiff you'll find the popular Bute Park. The large park includes beautiful gardens, tree lined avenues, an arboretum and the historic Cardiff Castle."
+    }
+  ],
   "district": "Cardiff / Caerdydd",
   "county": "Caerdydd - Cardiff",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

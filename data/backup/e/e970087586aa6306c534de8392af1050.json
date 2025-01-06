@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:26:31.959491+00:00",
   "objectID": "e970087586aa6306c534de8392af1050",
-  "created_at": "2024-12-19T09:14:49.125203+00:00",
   "ref": "pensthorpe-walking-route",
   "title": "Pensthorpe Park, Fakenham Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Pensthorpe_Waterfowl_Park_-_geograph.org.uk_-_1962572.jpg/512px-Pensthorpe_Waterfowl_Park_-_geograph.org.uk_-_1962572.jpg",
@@ -75,8 +75,19 @@
   ],
   "distance_km": 2.0,
   "description": "This 700 acre natural park in Fakenham has miles of nice walking trails to try. There's lots to see with a number of pretty lakes and ponds with waterside trails to enjoy. There's also large areas of woodland, beautiful gardens, water features, wildflower meadows, views of the River Wensum and lots of wildlife to look out for. Keep your eyes peeled for Grey-Crowned Cranes, Red Squirrels, Cormorant and Lapwing. To continue your wildlife watching in North Norfolk you could head to the wonderful Holkham National Nature Reserve. Here you'll find 9,600 acres of grazing marsh, woodland, salt marsh, sand dunes and foreshore in England's largest Nature Reserve. To extend your walking in the Fakenham area you could head to Fakenham Common and pick up the riverside path along the River Wensum into the town. There's also countryside trails south of the river which run into the village of Great Ryburgh.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Courtyard Cafe is a nice place to enjoy refreshments after your walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south to Great Ryburgh and you could pick up the Walsingham Way. This long distance trail runs from the mediaeval abbey at Great Walsingham to the city of Norwich, passing several fascinating historic sites on the way. If you follow it south you could visit the award winning village of Swanton Morley where you'll find a noteworthy 14th century church and an early 17th century pub with strong connections to the ancestors of Abraham Lincoln. The historic market town of Dereham, the Sparham Pools Nature Reserve at Lyng and the ancient Norman Chapel of North Elmham are also located in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EtyOfCFTxGI",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

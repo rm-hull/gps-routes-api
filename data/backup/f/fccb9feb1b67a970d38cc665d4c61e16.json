@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:17:09.529471+00:00",
   "objectID": "fccb9feb1b67a970d38cc665d4c61e16",
-  "created_at": "2024-12-18T06:42:41.820438+00:00",
   "ref": "filey-brigg-country-park-walking-route",
   "title": "Filey Brigg Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Brigg_End%2C_Filey_-_geograph.org.uk_-_1506690.jpg",
@@ -90,10 +90,25 @@
   ],
   "distance_km": 3.0,
   "description": "This super country park is located on the coast at Filey in North Yorkshire. It is also known as North Cliff Country Park. The elevated position of the park provides splendid views over Filey Bay and the town below. The walk also takes you along Filey Brigg - a long narrow peninsula with steep cliffs and lovely coastal views. The Cleveland Way and the Centenary Way walking routes run past the park so there is scope for continuing your walk along the coast to the nearby town of Scarborough. The Scarborough to Filey Walk gives more details on this stretch of coast which is one of the finest in the country.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site cafe where you can enjoy a good range of refreshments."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is dog friendly and a popular spot for dog walkers."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The park is great for wildlife with lots of seabirds on the rocks and seals, whales and dolphins to see in the waters below. There's also a good sized car park. To continue your walking in the area pick up the Filey to Bridlington Walk and visit the wonderful Bempton Cliffs where you'll find an RSPB bird reserve with thousands of birds to see."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/BxGgnFdJyIA",
   "postcode": "YO14 9FD",
   "district": "Filey",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

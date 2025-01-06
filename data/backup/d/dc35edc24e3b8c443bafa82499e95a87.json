@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:50:02.859006+00:00",
   "objectID": "dc35edc24e3b8c443bafa82499e95a87",
-  "created_at": "2024-12-19T07:30:12.839834+00:00",
   "ref": "inverness-canal-and-forest-walk-walking-route",
   "title": "Inverness Canal and Forest Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Inverness%2C_Muirtown_Locks_-_geograph.org.uk_-_3076718.jpg/512px-Inverness%2C_Muirtown_Locks_-_geograph.org.uk_-_3076718.jpg",
@@ -59,7 +59,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Inverness%2C_Muirtown_Locks_-_geograph.org.uk_-_3076718.jpg/512px-Inverness%2C_Muirtown_Locks_-_geograph.org.uk_-_3076718.jpg",
-      "title": "Inverness:  Muirtown Locks by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Inverness: Muirtown Locks by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Muirtown Locks"
     },
     {
@@ -100,9 +100,20 @@
   ],
   "distance_km": 8.7,
   "description": "This varied walk from the city first takes you along the Caledonian Canal before heading to the nearby Craig Phadrig Forest. The route uses a section of the Great Glen Way and other footpaths to explore this beautiful area. The walk starts on the canal at the Muirtown Locks and follows the towpath south to the Tomnahurich Bridge. You then follow the Great Glen Way west to Dunain Hill and a small reservoir. You then turn north past Leachkin to visit Craig Phadrig Forest. Here you'll find some peaceful woodland trails and an Iron Age Hill Fort which dates to around 300 BC. There's great views from here to the Beauly Firth and the highlands across it. The area is great for wildlife with lots of woodland birds to see. There's also an on site car park. After exploring the forest the route returns to the city on the same paths.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are particularly popular with dog walkers so you should meet other owners on this part of the walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your woodland walking around Inverness head east to visit Culloden Wood near to the historic Culloden Battlefield. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. The Caledonia Way also runs along the canal. This epic cycle route runs for 234 miles from Campbeltown to Inverness. It's a great way of continuing your cycling or walking in the area. A few miles to the west there's the popular village of Beauly. It's a lovely place to visit with a number of independent shops, cherry blossom trees, a pretty square and the ruins of the 13th century priory to see. The Beauly River Walk will take you along the River Beauly with fine views across the Beauly Firth. To the north east there's more interesting local history at Cawdor Castle and Woods. The 15th century castle is surrounded by beautiful grounds and gardens with more trails through the adjacent Cawdor Woods."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/q_-9jsAQFDw",
   "district": "Inbhir Nis / Inverness",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

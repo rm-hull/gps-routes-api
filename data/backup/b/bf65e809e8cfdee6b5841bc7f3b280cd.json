@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:45:20.677377+00:00",
   "objectID": "bf65e809e8cfdee6b5841bc7f3b280cd",
-  "created_at": "2024-12-18T16:21:44.157949+00:00",
   "ref": "galleywood-common-walking-route",
   "title": "Galleywood Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Galleywood_Common_-_geograph.org.uk_-_48183.jpg",
@@ -65,8 +65,23 @@
   ],
   "distance_km": 6.0,
   "description": "This circular walk visits Galleywood Common near Chelmsford. The common was once the site of a racecourse but is now used for walking and kite flying. There's wide areas of grassland and woodland to explore with easy access to the surrounding countryside. It's a picturesque and peaceful place with lots of pretty homes surrounding the common. The walk starts at the north car park next to the Horse and Groom pub. From here you can pick up the Centenary Circle and follow the waymarked path across the common in a south easterly direction. The trail then takes you through the Galleywood countryside to Baddow Park before turning north and returning to the common on a mixture of country lanes and footpaths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Horse and Groom is conveniently located right next to the north car park at the start of the route. They have a number of tables outside where you can enjoy your refreshments with a view across the common."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The open grassland and the woodland trails are ideal for dog walking so you'll probably see other owners on your visit. The Horse and Groom pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend the walk by continuing north along the Centenary Circle to Great Baddow and Chelmsford. There's some riverside trails along the River Can and River Chelmer on the Chelmsford Walk which also visits the interesting Sandford Mill. Head a few miles south of the common and you'll come to Hanningfield Reservoir. There's some nice waterside and woodland trails to be found at the expansive lake. Just to the east you'll find Danbury Common. This National Trust owned area has well maintained footpaths and some very good mountain bike trails. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/R6xkA0zmtOM",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

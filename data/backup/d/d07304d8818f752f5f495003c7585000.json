@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:12:16.293351+00:00",
   "objectID": "d07304d8818f752f5f495003c7585000",
-  "created_at": "2024-12-18T08:55:27.035135+00:00",
   "ref": "glendevon-walking-route",
   "title": "Glendevon Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Glen_Devon_-_geograph.org.uk_-_1248190.jpg",
@@ -39,6 +39,16 @@
       "description": "Ochil Hills",
       "objectID": "3024163882ff91e86d7d3c1461986e92",
       "ref": "ochil-hills-walking-route"
+    },
+    {
+      "description": "Castlehill Reservoir",
+      "objectID": "88242e606b975622aee9ea986bb783fb",
+      "ref": "castlehill-reservoir-walking-route"
+    },
+    {
+      "description": "Glen Sherup",
+      "objectID": "a2c493410453516b29c2e537adfdc9b2",
+      "ref": "glen-sherup-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d07304d8818f752f5f495003c7585000.gpx",
@@ -79,10 +89,25 @@
     }
   ],
   "distance_km": 8.5,
-  "description": "This walk takes you through the beautiful Glendevon in the Ochil Hills in Stirling. On the way you'll visit the lovely Upper and Lower Glendevon Reservoirs and enjoy views of the River Devon. A trail heads west from the A823 along the River Devon past the dam and weir before coming to the reservoirs. You can follow the trail past Corim Hill before finishing at the Boat House at the Upper reservoir. There is a parking area by the roadside near Glenhead Farm and the Meadow Burn where you can start the walk from.",
+  "description": "This walk takes you through the beautiful Glendevon in the Ochil Hills in Stirling. On the way you'll visit the lovely Upper and Lower Glendevon Reservoirs and enjoy views of the River Devon. A trail heads west from the A823 along the River Devon past the dam and weir before coming to the reservoirs. You can follow the trail past Corim Hill before finishing at the Boat House at the Upper reservoir. There is a parking area by the roadside near Glenhead Farm and the Meadow Burn where you can start the walk from. Just to the south you can explore Glen Sherup where you can visit the Glen Sherup Reservoir before a climb to the viewpoint at Ben Shee.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "You could head to the splendid Tormaukin for some post walk refreshment. The 18th century inn is full of olde worlde charm with roaring fires inside and an airy garden room for sunny days. You can find them at Tormaukin House, Glendevon FK14 7JY."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The glen is a fine place for a dog walk and the Tormaukin mentioned above is also very pet friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few mile south east and you could visit Dollar Glen. The National Trust site includes a scenic wooded gorge and the medieval Castle Campbell. Near here there's also Alva Glen where there's more pretty waterfalls and access to the Ochil Hills Woodland Park. Just to the south east you'll find Glensherup Reservoir, Glenquey Reservoir and Castlehill Reservoir."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zkjAbxudjGE",
   "postcode": "FK14 7JZ",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

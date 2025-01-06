@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:58:38.247169+00:00",
   "objectID": "65d9b45ace90ca1f4a28792ac4d40a48",
-  "created_at": "2024-12-18T10:02:58.798509+00:00",
   "ref": "loch-oire-walking-route",
   "title": "Loch Oire Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Loch_Oire_-_geograph.org.uk_-_877443.jpg",
@@ -70,8 +70,15 @@
   ],
   "distance_km": 1.0,
   "description": "Enjoy a little walk along the shores of the lovely Loch Oire in Elgin, Moray. The pretty loch is located just to the east of Lhanbryde. It's a great place for a peaceful stroll with lots of wildlife to see on the water. You can park your car in the small lay-by on the eastern side of the loch at Threapland to start yourself off. The walk can be extended by following a trail south east through the woods to the nearby Loch na Bo.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east towards Fochabers and you could pick up the epic Speyside Way and enjoy a riverside walk. Head west and you could pick up the cycling and walking trails in the expansive Culbin Forest in Nairn."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rsqeYzPaeEk",
   "county": "Moray",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

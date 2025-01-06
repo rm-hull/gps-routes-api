@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:03:10.180372+00:00",
   "objectID": "2c85dac9bb92bbcf7c8250af3bddc79d",
-  "created_at": "2024-12-19T01:10:26.586705+00:00",
   "ref": "ringmer-walking-route",
   "title": "Ringmer Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg/512px-Church_of_St_Mary_the_Virgin%2C_Ringmer_-_geograph.org.uk_-_2594907.jpg",
@@ -17,7 +17,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg/512px-Ringmer_Post_%28Mill%29_-_geograph.org.uk_-_3699427.jpg",
-      "title": "Ringmer Post  (Mill) by Peter Jeffery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Ringmer Post (Mill) by Peter Jeffery, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Ringmer Post (Mill). Ringmer Mill stood for centuries on Mill Plain overlooking Ringmer. This post mill was in operation until 1921 but collapsed in 1925 leaving the mill post, on which the body of the mill rotated, standing as a local landmark."
     },
     {
@@ -53,10 +53,17 @@
   ],
   "distance_km": 12.0,
   "description": "This East Sussex based villlage is located just to the east of Lewes. The village is one of the largest in Southern England and includes a 13th century church and the remains of an old post mill. This circular walk from the village takes you south onto the South Downs to visit two local highlights at Mount Caburn Nature Reserve and the historic Glynde Place. Mount Caburn includes a wide variety of flora and fauna and a fine viewpoint with views over the South Downs. In Glynde there's an Elizabethan Manor House to see. It is a Grade I listed building while the adjacent church was built in the eighteenth century. Please scroll down for the full list of walks near and around Ringmer. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Green Man, Lewes Road, BN8 5NA. This country pub has a decked patio area and serves good quality dishes. They are Dog Friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/vxTIZaH7bXI?si=P0s36aPzkzP0je2N",
   "postcode": "BN8 5HX",
   "district": "Ringmer",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

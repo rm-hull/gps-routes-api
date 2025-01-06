@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:04:32.976448+00:00",
   "objectID": "9fecf42c6853e4fd34e6f45ab32b2dd0",
-  "created_at": "2024-12-19T04:16:58.524885+00:00",
   "ref": "summerseat-walking-route",
   "title": "Summerseat Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Summerseat_Railway_Bridge_-_geograph.org.uk_-_388955.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Summerseat_Railway_Station_-_geograph.org.uk_-_893818.jpg",
       "title": "Paul Anderson / Summerseat Railway Station",
-      "caption": "Summerseat Railway Station. Locomotive No 92214 is seen here about to leave the station and head north for Ramsbottom. This is just one of the six stations on the line known as the East Lancashire Railway. The heritage railway line  runs between Heywood in Greater Manchester and Rawtenstall in Lancashire."
+      "caption": "Summerseat Railway Station. Locomotive No 92214 is seen here about to leave the station and head north for Ramsbottom. This is just one of the six stations on the line known as the East Lancashire Railway. The heritage railway line runs between Heywood in Greater Manchester and Rawtenstall in Lancashire."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Burrs_Weir_Summerseat.jpg",
@@ -53,8 +53,23 @@
   ],
   "distance_km": 5.0,
   "description": "This village near Ramsbottom is a lovely place for a stroll. There's good riverside trails, a heritage railway, old mills and pretty cottages to see in this attractive conservation area. The walk starts from the train station on the East Lancashire Railway and follows the Irwell Sculpture Trail north to visit the river and mills in the village. You'll pass Brooksbottom where there's an interesting old mill and an impressive six arched viaduct over the river. The route continues up to Nuttall Park where there are some nice riverside trails and views of the passing old trains to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to The Hamers Arms for some post walk refreshment. The traditional, stone-built pub includes an open fire and a nice garden area outside. They also do a fine Sunday carvery. You can find them at postcode BL0 9UG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and parkland trails make for a fine dog walk. The Hamers Arms mentioned above is also very dog friendly with water and treats available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west from the village and you can enjoy a climb to Peel Tower where you can enjoy splendid views over the area. Just south of Ramsbottom there's the worthy Redisher Wood to explore. In the woods there are peaceful woodland trails and water features including the Holcombe Brook, a picturesque lake and photogenic waterfalls. Just to the east you can enjoy waterside paths around Ashworth Moor Reservoir before visiting the old mill ruins in the pretty Cheesden Valley. For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EOFtxdYePgw",
   "district": "Summerseat",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

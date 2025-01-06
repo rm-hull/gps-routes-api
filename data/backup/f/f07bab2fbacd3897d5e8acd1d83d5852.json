@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T01:53:42.416250+00:00",
   "objectID": "f07bab2fbacd3897d5e8acd1d83d5852",
-  "created_at": "2024-12-21T21:12:07.596191+00:00",
   "ref": "oxford-island-walking-route",
-  "title": "Oxford Island - Lough Neagh Walking Route",
+  "title": "Oxford Island - Lough Neagh Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Autumn_at_the_Discovery_Centre%2C_Oxford_Island_-_geograph.org.uk_-_1499713.jpg",
   "nearby": [
     {
@@ -14,6 +14,11 @@
       "description": "Brantry Lough",
       "objectID": "4dadeddf7ee0a242829d3aee10fc9715",
       "ref": "brantry-lough-walking-route"
+    },
+    {
+      "description": "Coalisland Canal",
+      "objectID": "875da8ae79cf3cccd7876bc9f7323196",
+      "ref": "coalisland-canal-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f07bab2fbacd3897d5e8acd1d83d5852.gpx",
@@ -30,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/The_Starting_Battery_Oxford_Island_Craigavon_-_geograph.org.uk_-_1005628.jpg",
       "title": "P Flannagan / The Starting Battery Oxford Island Craigavon",
-      "caption": "The Starting Battery Oxford Island Craigavon.  This structure constructed at the end of a short causeway is called \"The Starting Battery\". The Lough Neagh Sailing Club use it to start their boat races. From this point the boats line up with a marker on the far shore thus forming a start line for the races."
+      "caption": "The Starting Battery Oxford Island Craigavon. This structure constructed at the end of a short causeway is called \"The Starting Battery\". The Lough Neagh Sailing Club use it to start their boat races. From this point the boats line up with a marker on the far shore thus forming a start line for the races."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/83/Jet_Ski_at_Island_Point%2C_Oxford_Island_-_geograph.org.uk_-_1004430.jpg",
@@ -65,5 +70,12 @@
   ],
   "distance_km": 2.0,
   "description": "Visit this beautiful nature reserve on the shores of Lough Neagh on this easy circular walk. There's 282 acres (113 hectares) to explore on a series of good footpaths and walking trails. Habitats in the reserve include reed beds, open water, species rich wet grassland, wildlife ponds and wildflower meadows. There's lots of wildlife to look out including a variety of butterflies and birds such as Lapwing, Curlew and Goldeneye. You can also have a stroll along the pretty Kinnego Marina and enjoy wonderful views over Lough Neagh. National Cycle Network route 9 runs right to the reserve so it's easy to visit by bike. The Loughshore Trail which runs right around the Lough also passes Oxford Island on the way. To extend your walking in the area you could visit the nearby Peatlands Park. Here you'll find miles of trails taking you to peatlands, orchards, woodland, boardwalks and two nature reserves. Just to the west is Marghery country park where there are another 3 miles of woodland walking trails with more great views over Lough Neagh.",
-  "video_url": "https://www.youtube.com/embed/3DfkFXutGqo"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "One nice option is to head to the nearby town of Dromore where you can enjoy a stroll along the River Lagan in the attractive town park. The market town is a short drive to the south east of the reserve. Brantry Lough is another good local option. The picturesque lake is located near Dungannon and includes some pleasant waterside trails. Just to the north west you will find the historic town of Coalisland where you can enjoy an easy waterside stroll along the Coalisland Canal"
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/3DfkFXutGqo",
+  "gazetteer_found": false
 }

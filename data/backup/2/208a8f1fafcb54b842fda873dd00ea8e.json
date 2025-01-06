@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:55:11.093751+00:00",
   "objectID": "208a8f1fafcb54b842fda873dd00ea8e",
-  "created_at": "2024-12-18T04:17:19.795734+00:00",
   "ref": "kingswood-walking-route",
   "title": "Kingswood Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Abbey_Gatehouse_Kingswood_-_geograph.org.uk_-_1495091.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 8.0,
   "description": "This pretty Gloucestershire village is located just south of Wotton-under-Edge in the Cotswolds. This circular walk from the village visits Wotton-under-Edge, Wortley and the neighbouring village of Alderley. Part of the walk uses a section of the Cotswold Way, a long distance waymarked footpath which runs through the area. On the walk you will pass the 15th century Abbey Gatehouse on the eastern side of the village. The historic site is owned by English Heritage and is all that survives of the former Cistercian abbey. There's also some moderate hill climbs with splendid views over the surrounding countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Dinneywicks Village Inn is a friendly local in the village. They serve good quality food and have a nice garden area. You can find them at postcode GL12 8RT for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Footpaths to the west lead to Elbury Hill and the neighbouring village of Charfield."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ga-l0tL-Y3E",
   "postcode": "GL12 8RW",
   "district": "Kingswood",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

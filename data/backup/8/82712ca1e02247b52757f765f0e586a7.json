@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:08:05.153206+00:00",
   "objectID": "82712ca1e02247b52757f765f0e586a7",
-  "created_at": "2024-12-18T14:02:12.507877+00:00",
   "ref": "orrest-head-walking-route",
   "title": "Orrest Head Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/The_Way_to_Orrest_Head_-_geograph.org.uk_-_1398768.jpg",
@@ -60,7 +60,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/View_North_from_Orrest_Head_-_geograph.org.uk_-_1398805.jpg",
       "title": "Chris Heaton / View North from Orrest Head",
-      "caption": "View North from the head.  Wainright's first view of the Lake District took place here. He fell in love with the place, leading him to the eventual production of his famous handwritten guidebooks. This view looks north over green pastures and meadows to the Fairfield Horseshoe and part of the Kentmere Horseshoe in the distance."
+      "caption": "View North from the head. Wainright's first view of the Lake District took place here. He fell in love with the place, leading him to the eventual production of his famous handwritten guidebooks. This view looks north over green pastures and meadows to the Fairfield Horseshoe and part of the Kentmere Horseshoe in the distance."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/View_South_West_from_Orrest_Head_-_geograph.org.uk_-_1398790.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 3.4,
   "description": "Orrest Head was the first fell climbed by Alfred Wainwright. It inspired him to a 'to a life made happy by fellwandering' so you can expect some wonderful views over lakeland on this fairly easy climb. It's a great walk to do if you're coming in by train as the start of the climb is located right next to Windermere railway station. The walk involves some lovely woodland sections and fabulous views of Lake Windermere, the Old Man of Coniston, Scafell Pike, Great Gable, Fairfield and the Langdale Pikes. This circular walk begins across the main road from the train station. It climbs steadily to Orrest Head on good footpaths before descending to The Causeway Farm. You then turn south and head to High Hay Wood and Elleray Bank before returning to the start/finish point. To continue your walking in the area, head down the hill to the village of Bowness and try the climb to Brant Fell. It's a similar walk with more lovely views over the lake.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Windermere town and there is a good selection of bars and cafes. The Crafty Baa is a good option with an excellent selection of craft beers and a good menu. Indoors there's a warming fire and a small patio area outside. The cosy pub can be found at 21 Victoria St with a postcode of LA23 1AB for your sat navs. The inn is also dog friendly if you have your pet with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of the station you can enjoy a similar climb to School Knott where there's a pretty tarn and more fine views."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FnlavfnNjp0",
   "district": "Windermere",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

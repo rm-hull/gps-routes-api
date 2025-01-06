@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:29:02.342033+00:00",
   "objectID": "de2d633872f10f4ebabeadddc90b7697",
-  "created_at": "2024-12-21T20:38:41.794990+00:00",
   "ref": "roe-valley-country-park-walking-route",
   "title": "Roe Valley Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Roe_Valley_Country_Park_-_geograph.org.uk_-_716663.jpg",
@@ -51,7 +51,7 @@
       "ref": "binevenagh-walking-route"
     },
     {
-      "description": "Binevenagh Mountain ",
+      "description": "Binevenagh Mountain",
       "objectID": "920e33b3289ea9874b84716a510bbcea",
       "ref": "binevenagh-walking-route"
     }
@@ -64,7 +64,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Roe_Valley_Country_Park_-_geograph.org.uk_-_716663.jpg",
-      "title": "Kenneth  Allen / Roe Valley Country Park, via Wikimedia Commons",
+      "title": "Kenneth Allen / Roe Valley Country Park, via Wikimedia Commons",
       "caption": "Roe Valley Country Park. It is located to the south of Limavady"
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Roe_Valley_Country_Park_plaque_-_geograph.org.uk_-_730690.jpg",
-      "title": "Kenneth  Allen / Roe Valley Country Park plaque, via Wikimedia Commons",
+      "title": "Kenneth Allen / Roe Valley Country Park plaque, via Wikimedia Commons",
       "caption": "Roe Valley Country Park information board. Pictured at Carrick Mills car park, note the calling card at the top right hand side."
     },
     {
@@ -85,5 +85,12 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a waterside walk along the River Roe in this country park near Limavady. You can start your walk from the visitor centre next to the ornamental lake. The footpaths then follow the River Roe which meanders pleasantly through the park. Along the way there are pretty waterfalls, spectacular gorges and attractive woodland. In the warmer months the park is covered with pretty wildlflowers. You can learn about the area's interesting industrial heritage in the museum and visit the remains of industrial buildings and the restored water wheel. National Cycle Network Route 93 runs past the park so you could pick it up from Limavady and head south to visit by bike.",
-  "video_url": "https://www.youtube.com/embed/u-dzB9cZeuM"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a few miles to the north east there's the noteworthy Mussenden Temple. The National Trust owned estate includes the ruins of the historic Downhill House and the wonderfully positioned 18th century cliff top temple. From here there are more outstanding views over the Inishowen Peninsula to enjoy. The spectacular Giant's Causeway is also located in this area, a little further to the east. Head west into Derry city and you can pick up the Foyle Valley Cycle Route. The ride takes you along a dismantled railway and the River Foyle to Lifford and Strabane. The opening section is traffic free so suitable for walkers. In the city you can also try the popular Derry Walls Walk which takes you along the top of the historic ramparts. To the east there's Garvagh Forest where there's some popular mountain bike trails, peaceful walks and an unusual folly in the shape of a pyramid. To the north is the climb to Binevenagh Mountain. The area is a designated AONB and includes a pretty lake, impressive geological features and wonderful hill top views."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/u-dzB9cZeuM",
+  "gazetteer_found": false
 }

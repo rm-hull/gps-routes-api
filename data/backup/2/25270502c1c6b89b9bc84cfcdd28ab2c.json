@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:18:40.771743+00:00",
   "objectID": "25270502c1c6b89b9bc84cfcdd28ab2c",
-  "created_at": "2024-12-18T10:00:21.889240+00:00",
   "ref": "hadrians-wall-path-walking-route",
   "title": "Hadrian's Wall Path National Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Housesteads_Fort_-_geograph.org.uk_-_998560.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hadrian%27s_Wall%2C_Heddon_on_the_Wall_-_geograph.org.uk_-_1736629.jpg/256px-Hadrian%27s_Wall%2C_Heddon_on_the_Wall_-_geograph.org.uk_-_1736629.jpg",
       "title": "Andrew Curtis / Hadrian's Wall, Heddon on the Wall",
-      "caption": "Hadrian's Wall, Heddon on the Wall  near Newcastle. The wall ditch is on the right (north side), now shallow, beyond the level berm next to the wall. Excavations elsewhere suggest that this area may have had its own layer of defences such as sharpened stakes,at least where they were needed for defence. The outer courses of often triangular-shaped stones were in-filled with more random shaped and sized stones, possibly a more accurate restoration than seen elsewhere along the Roman Wall. The vallum can be seen in the field to the left (south side). Why does this short section of the wall have such a pronounced bend (just behind)? Whatever the reason, it did help this small section survive the road building that destroyed many miles of the structure west from Newcastle."
+      "caption": "Hadrian's Wall, Heddon on the Wall near Newcastle. The wall ditch is on the right (north side), now shallow, beyond the level berm next to the wall. Excavations elsewhere suggest that this area may have had its own layer of defences such as sharpened stakes,at least where they were needed for defence. The outer courses of often triangular-shaped stones were in-filled with more random shaped and sized stones, possibly a more accurate restoration than seen elsewhere along the Roman Wall. The vallum can be seen in the field to the left (south side). Why does this short section of the wall have such a pronounced bend (just behind)? Whatever the reason, it did help this small section survive the road building that destroyed many miles of the structure west from Newcastle."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Vindolanda_-_geograph.org.uk_-_30722.jpg",
@@ -84,7 +84,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Reconstructed_section_of_Hadrian%27s_Wall%2C_Vindolanda_-_geograph.org.uk_-_2860960.jpg/512px-Reconstructed_section_of_Hadrian%27s_Wall%2C_Vindolanda_-_geograph.org.uk_-_2860960.jpg",
-      "title": "Reconstructed section of  Hadrian's Wall, Vindolanda by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Reconstructed section of Hadrian's Wall, Vindolanda by Andrew Curtis, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Reconstructed section of Hadrian's Wall, Vindolanda"
     },
     {
@@ -95,9 +95,24 @@
   ],
   "distance_km": 135.0,
   "description": "Starting in Wallsend near the east coast of England, head across the country to Bowness-on-Solway along this wonderful trail that follows the famous Roman wall. The trail runs for a distance of 84 miles (135 km), following close to the wall for most of its length. It's fairly flat for most of the way so it's quite an easy walk in good weather. The trail mostly passes through open countryside and farmland but there are city sections through Newcastle Upon Tyne and Carlisle. Highlights includes the well preserved fort at Birdoswald where there's an excellent English Heritage Visitor Centre and museum. Housesteads is another of the trails highlights. Here there's a barracks block, hospital, Commander's House, granaries and communal toilets which are all still visible today.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near the major fort at Housesteads you can visit The Twice Brewed Inn near Sycamore Gap. Here you can enjoy home-cooked meals in a comfy, cosy restaurant with a roaring fire. There's car parking, cycle storage and a nice beer garden for warmer weather too. They also offer tours of their brew house in an area with a brewing tradition dating back nearly 2,000 years. If you need to stay over they have several rooms with fine views over the area. You can find the pub near the Gap at a postcode of NE47 7AN. Just west of Newcastle in the pretty riverside village of Wylam there's The Boathouse. It's located in a lovely spot on the river next to Wylam Bridge and the train station. You can sit outside and enjoy views of the boats on the river if the weather is good. They serve good quality Thai food and have a decent selection of ales as a CAMRA member. You can find the pub at postcode NE41 8HR for your sat navs. In this area the path also directly passes Stephenson's Cottage, the birthplace of railway pioneer, George Stephenson. It's now a National Trust property where you can learn all about his early life and the Stephenson gauge', the basis for the standard gauge used by most of the world's railways. It's a nice place for railway enthusiasts to stop on the route."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "It's a great walk to do with your dog though it's best to keep them on leads in some areas, particularly around livestock. Some of the major forts along the route require your dog to be on a lead e.g Housesteads. If you're doing the whole route then your pet needs to be in good shape though it is fairly flat for most of the way. There are quite a few stepped stiles on the path too which can be an irritant. The Twice Brewed Inn and Boathouse pubs mentioned above are dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The route is coincident with the Hadrians Cycleway. This long distance route runs from Ravenglass on the east coast to Tynemouth on the east coast. It follows the national trail for part of the route with some good traffic free paths to enjoy."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VD5kWC9q-cM",
   "postcode": "NE28 6HR",
   "district": "Wallsend",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

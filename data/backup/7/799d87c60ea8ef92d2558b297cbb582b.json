@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:27:33.971232+00:00",
   "objectID": "799d87c60ea8ef92d2558b297cbb582b",
-  "created_at": "2024-12-19T19:56:41.712086+00:00",
   "ref": "trosley-country-park-walking-and-cycle-route",
   "title": "Trosley Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Visitor_Centre_in_Trosley_Country_Park_-_geograph.org.uk_-_1177095.jpg",
@@ -50,8 +50,23 @@
   ],
   "distance_km": 7.0,
   "description": "Enjoy magnificent views of the North Downs in 170 acres of beautiful woodland and chalk downland at Trosley Country Park. There are three waymarked trails of varying difficulty and a trim trail for those looking to get super fit! The Woodland walk trail and the Trosley Trail are both open to cyclists. There's plenty of wildlife in the park - look out for green woodpeckers, tawny owls and sparrowhawks. The park also has an excellent cafe, picnic area and a play area. Trosley Country Park is located about 6 miles from Sevenoaks. See the video below from Kent Council for more information.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe serving delicious homemade food including snacks, light meals and cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking. You will probably see other owners on your visit. The cafe mentioned above even serves homemade dog biscuits."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around the park you could visit the interesting Coldrum Long Barrow. The Long Barrow is about 3,000 years old and the only one in the Medway Valley to remain virtually intact. Near Meopham there's the attractive Camer Park with its woodland trails, wide lawns, country views and on site cafe. For more walking ideas in the area see the Kent Walks and North Downs Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_3cg16OmfZ8",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:44:22.640117+00:00",
   "objectID": "18675c2039efd4bcb066b3830ca1c014",
-  "created_at": "2024-12-18T09:34:29.899012+00:00",
   "ref": "dores-beach-walking-route",
   "title": "Dores Beach Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Dores_Beach_and_Tor_Point_-_geograph.org.uk_-_1092879.jpg",
@@ -13,7 +13,7 @@
     {
       "description": "Abriachan Forest",
       "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan forest-walking-route"
+      "ref": "abriachan\u00a0forest-walking-route"
     },
     {
       "description": "Loch Ruthven",
@@ -100,8 +100,23 @@
   ],
   "distance_km": 1.6,
   "description": "This walk visits the lovely Dores Beach and Tor Point on the north eastern shores of the famous Loch Ness. You can start your walk from the parking area at the beach. From here you can pick up the shoreline and follow it west along the beach to Tor Point. It's just over a mile walk there and back, so should take around 30 minutes. Along the way there's excellent views over Dores Bay to the surrounding hills. You can extend the walk by continuing north through the woodland around Tor Point to visit Aldourie Castle.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The excellent Dores Inn is located right next to the beach. The inn serves quality food and has an outdoor area with views across the water."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lochside paths make for a fine dog walk and the Dores Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east there's Loch Ashie and Loch Duntelchaig to visit. The smaller lochs are a more peaceful place for a stroll with most of the visitors heading to the more popular Loch Ness. Right next to it is the RSPB nature reserve at Loch Ruthven where you can look out for some interesting wildlife including Slavonian grebes, osprey and black-throated divers.The 12 mile Loch Ness will take you along a section of the Great Glen Way from Invermoriston to Drumnadrochit. Here you can enjoy a view of Invermoriston Falls from the 19th century Thomas Telford bridge. The old bridge is located just south west of the village and provides fine views over the rushing falls. The Affric Kintail Way can also be picked up at Drumnadrochit. This long distance trail runs from Loch Ness to Morvich via Glen Urquhart and Glen Affric. If you were to follow the trail west it would take you to Loch Meiklie and the village of Cannich. Also near Drumnadrochit you can visit the historic Urquhart Castle. The photogenic 13th century castle ruins are positioned in a dramatic spot overlooking the western side of Loch Ness. On the western side of the loch you can visit the community run Abriachan Forest. The expansive forest area includes a school which encourages learning in the outdoors and health and well being through exercise. The site includes around 40km of trails for walkers while mountain bikers can enjoy a fairly easy 3km green loop and a longer 5km blue trail. You can also visit the smaller Loch Laide in this area too. To the north east there's one of the historic highlights of the area at Culloden Battlefield. There's a circular walking trail here which explores the site of the famous battle of 1746. On the south eastern side of the battlefield there's also the Clava Cairns and the Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn. For more walking ideas in the area see the Scottish Highlands Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/tyiFjGYMs40",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

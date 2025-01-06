@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:59:31.823810+00:00",
   "objectID": "20282ff3861f25661b5d3780f31d5cc1",
-  "created_at": "2024-12-18T16:40:21.309771+00:00",
   "ref": "sutton-on-the-forest-walking-route",
   "title": "Sutton on the Forest Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sutton_park_-_geograph.org.uk_-_1102324.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 2.6,
   "description": "This delightful village is located near York and Easingwold in the Hambleton District of North Yorkshire. The settlement is notable for the 18th-century Georgian English country house of Sutton Park which includes some beautiful landscaped gardens. It's a private house but the gardens are open to the public on certain days of the year. This circular walk follows footpaths past the estate and through the farmland to the south of the village. You'll also pass the Manor House and pond on the eastern side of the settlement. The village is located just a few miles south of the Howardian Hills AONB where there are numerous options for extending your walking in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village there's the Rose & Crown for some post exercise refreshment. The pub serves high quality food and includes a conservatory area and garden area. You can find them on the Main Street at postcode YO61 1DP for your sat navs. The pub is also dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east is the neighbouring village of Sheriff Hutton. The historic settlement includes a photogenic ruined castle, a Grade I listed 12th century church and a fine country pub to relax in after your exercise. The Foss Walk, Ebor Way and the Centenary Way long distance trails can also be picked up in this area. The historic Beningbrough Hall lies a few miles south west. The grounds of this Georgian mansion are a fine place for a stroll with views of the River Ouse and beautiful gardens to enjoy. On the opposite side of the river you can also see the village of Nun Monkton which sits at the confluence of the River Nidd and Ouse. The village has some interesting features including a village green, duck pond, pretty cottages, riverside trails and the impressive 17th century Nun Monkton Priory."
+    }
+  ],
   "postcode": "YO61 1DN",
   "district": "Sutton-on-the-Forest",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:38:13.743818+00:00",
   "objectID": "ebf5d23f77020105d45f8bcd215b27f8",
-  "created_at": "2024-12-20T05:54:03.734680+00:00",
   "ref": "cullen-to-portknockie-walk-walking-route",
   "title": "Cullen to Portknockie Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cullen_Harbour_-_geograph.org.uk_-_3206814.jpg",
@@ -34,6 +34,11 @@
       "description": "Portsoy Railway Walk",
       "objectID": "4d989cb5b5ceddab3ac04ba2e585e9d5",
       "ref": "portsoy-railway-walk"
+    },
+    {
+      "description": "Bow Fiddle Rock",
+      "objectID": "9702c61693865e0bae83bfd03d110b9f",
+      "ref": "bow-fiddle-rock-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ebf5d23f77020105d45f8bcd215b27f8.gpx",
@@ -65,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bow_Fiddle_Rock_-_geograph.org.uk_-_2450027.jpg/512px-Bow_Fiddle_Rock_-_geograph.org.uk_-_2450027.jpg",
       "title": "Bow Fiddle Rock by don cload, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Bow Fiddle Rock. Photogenic rock formation near  Portknockie. A popular site in the large rock stands at about 50 feet high just off the coast. The quartzite structure has a large sea arch, which somewhat resembles the bow of a fiddle, making it an example of a natural arch."
+      "caption": "Bow Fiddle Rock. Photogenic rock formation near Portknockie. A popular site in the large rock stands at about 50 feet high just off the coast. The quartzite structure has a large sea arch, which somewhat resembles the bow of a fiddle, making it an example of a natural arch."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Three_Creeks_and_the_Claries_-_geograph.org.uk_-_2273595.jpg",
@@ -85,8 +90,15 @@
   ],
   "distance_km": 3.0,
   "description": "This walk takes you along a popular section of the Moray Coast Trail from Cullen to Portknockie. The route runs for just under 2 miles along a fairly flat coastal path. There's is a small cliff top climb towards the end of the walk though. The area is very beautiful with a wide sweep of beach, wonderful rock formations and some tremendous coastal views. It's also great for seabirds with common eider, fulmar, black-legged kittiwake, common gull, razorbill and shag to look out for on the walk. The walk starts from Cullen Harbour and follows the waymarked footpath west along Cullen Bay to Cullen Viaduct. The historic photogenic structure is one of the local highlights and often features in tourist guides and Scottish calendars. The walk continues west to Scar Nose and the noteworthy natural arch of Bow Fiddle Rock. Shortly after you descend into the village of Portknockie where the walk finishes. You can return the same way or turn it into a circular walk by following the inland shared cycling and walking trail. This runs along the old railway path on the other side of the golf course. See the Cullen Viaduct Walk for more details.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could try the Cullen to Findlater Castle Walk which will take you east along the coast path to Findlater Castle. The photogenic castle dates back to the 14th century and is positioned in a dramatic coastal location. The Portsoy To Cullen Coastal Walk continues further east to Portsoy via the lovely secluded beach at Sandend Bay. Here you can also try the Portsoy Railway Walk. This short walk takes you along the old railway line to the Loch of Soy where there's some pleasant waterside footpaths. Heading west will take you to Buckie on the longer Buckie to Findochty and Cullen Coastal Walk."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/j7DW_YQ-MJ0",
   "county": "Moray",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:57:34.104342+00:00",
   "objectID": "06047a4d693731f53202b87fc9e83801",
-  "created_at": "2024-12-18T21:18:46.243540+00:00",
   "ref": "osmaston-walking-route",
   "title": "Osmaston Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Osmaston_Pond_-_geograph.org.uk_-_3626554.jpg/512px-Osmaston_Pond_-_geograph.org.uk_-_3626554.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Osmaston_Hall_Terraced_Garden_-_geograph.org.uk_-_1993749.jpg/512px-Osmaston_Hall_Terraced_Garden_-_geograph.org.uk_-_1993749.jpg",
       "title": "Osmaston Hall Terraced Garden by Martyn Glover, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Osmaston Hall Terraced Garden. Osmaston Manor was designed by Henry Isaac Stevens for Francis Wright of the Butterley Iron Company and completed in 1849.  The house was used as a Red Cross hospital during World War II, and demolished in 1964. The terraces of the house's gardens are still apparent today and shown in this lovely photo."
+      "caption": "Osmaston Hall Terraced Garden. Osmaston Manor was designed by Henry Isaac Stevens for Francis Wright of the Butterley Iron Company and completed in 1849. The house was used as a Red Cross hospital during World War II, and demolished in 1964. The terraces of the house's gardens are still apparent today and shown in this lovely photo."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Lake_between_Osmaston_Park_and_Shirley_Park_-_geograph.org.uk_-_3626658.jpg/512px-Lake_between_Osmaston_Park_and_Shirley_Park_-_geograph.org.uk_-_3626658.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 6.7,
   "description": "This estate village is located in the beautiful Derbyshire Dales just south of Ashbourne. It's an attractive place with a pretty village pond, historic church, quaint thatched cottages and some lovely trails through the Osmaston Hall Park Estate. There's also a splendid 18th century pub to relax in after your exercise. This circular walk from the village uses sections of the Bonnie Prince Charlie Walk and the Centenary Way to explore the park and visit the neighbouring village of Shirley. On the way you will follow waymarked paths around the estate which includes scenic lakes and peaceful woodland trails.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Shoulder of Mutton for some post walk refreshment. The pub dates back to at least 1783 and serves good quality dishes. They have a particularly lovely, large lawned garden area with views of the surrounding countryside. You can find them on Moor Lane at postcode DE6 1LW for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland make for a fine dog walk. The local pub mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NzTAl4tgtBY",
   "district": "Osmaston",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

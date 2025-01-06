@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:57:46.023622+00:00",
   "objectID": "39c4e35caed4effeabfe803f398b7929",
-  "created_at": "2024-12-18T10:52:11.414576+00:00",
   "ref": "rowarth-walking-route",
   "title": "Rowarth Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Approaching_the_Little_Mill_Inn%2C_Rowarth_-_geograph.org.uk_-_2542841.jpg/512px-Approaching_the_Little_Mill_Inn%2C_Rowarth_-_geograph.org.uk_-_2542841.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 9.0,
   "description": "This delightful little hamlet is located in the High Peak area of Derbyshire, near New Mills and Marple Bridge. It's a nice place to start a walk with plenty of local trails and a noteworthy old pub for refreshments after your exercise. This route from the village uses sections of the Cown Edge Way and the Pennine Bridleway to create a circular walk through the surrounding area. At the northern end of the route there is a small detour to visit Cown Edge Rocks where there is some wonderful rock formations and tremendous views over the Peak District. To continue your walking around Rowarth head south east and enjoy a climb to Lantern Pike for more great views over the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Little Mill Inn is a well known local pub set in a lovely location. The Grade II listed inn is set in a former candlewick mill, with a waterwheel in the adjacent stream. It also includes a former Brighton Belle Pullman railway coach which was once used as dining and guest accommodation. They serve high quality food and also provide luxury rooms if you'd like to stay in the area. Outdoors there's a splendid garden area, ducks and geese on the river, chickens roaming free and rabbits in a large outdoor pen. You can find them on Hollinsmoor Rd with a postcod of SK22 1EB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The footpaths make for a good walk for fit dogs. The Little Mill Inn mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/AoxC_cmvUYI",
   "district": "Rowarth",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

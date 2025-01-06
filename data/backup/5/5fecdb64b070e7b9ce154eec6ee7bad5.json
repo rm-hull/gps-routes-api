@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:56:18.495903+00:00",
   "objectID": "5fecdb64b070e7b9ce154eec6ee7bad5",
-  "created_at": "2024-12-18T16:44:09.679708+00:00",
   "ref": "portloe-walking-route",
   "title": "Portloe Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Portloe_bay_-_geograph.org.uk_-_75728.jpg",
@@ -115,10 +115,25 @@
   ],
   "distance_km": 11.0,
   "description": "This pretty Cornish village includes a picturesque harbour and some fine walks into the surrounding Cornwall Area of Outstanding Natural Beauty. This circular walk from the village visits Nare Head, Carne Beach and the neighbouring village of Veryan. The walk starts in the village where you can pick up the South West Coast Path and follow the waymarked trail south west to Jacka Point, The Straythe, Blouth Point and Nare Head. From here you turn north west to visit Carne Beach and Pendower Beach. The route then turns north east to follow pleasant country lanes past Gwendra to Veryan. More country lanes then take you east past Sunny Corner to return to Portloe.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village The Lugger is a good choice for some post walk refreshment. The 17th century inn is located in a great spot right next to the coast. They have a sun terrace where you sit outside and enjoy fine views with your drinks. The Sunday Times has selected the inn as the \"Best Seaside Hotel\"."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The coastal and country paths make for a fine dog walk. The Lugger mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of the village is Broom Parc, a cliff-top villa overlooking the sea which was the main location for Channel 4's 1992 serialisation of Mary Wesley's The Camomile Lawn. Head west and you could explore the beautiful Roseland Peninsula. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6fOYYSA30TQ",
   "postcode": "TR2 5QX",
   "district": "Portloe",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

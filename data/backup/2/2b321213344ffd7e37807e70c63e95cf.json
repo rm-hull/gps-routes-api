@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:39:52.784722+00:00",
   "objectID": "2b321213344ffd7e37807e70c63e95cf",
-  "created_at": "2024-12-18T21:19:04.966070+00:00",
   "ref": "capstone-farm-country-park-walking-and-cycle-route",
   "title": "Capstone Farm Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Bridleway_in_Capstone_Country_Park_-_geograph.org.uk_-_1369835.jpg",
@@ -80,9 +80,24 @@
   ],
   "distance_km": 9.0,
   "description": "Enjoy several cycling and walking trails in this delightful country park near Gillingham. The park is located in the beautiful North Downs with ancient woodlands, old orchards, a freshwater lake and wildflower meadows to explore. There's excellent facilities with a Visitor Centre, cafe and picnic areas. You can extend the walk by heading south along public footpaths which will take you to Hook Wood, near Lidsing.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe overlooking the lake where you can enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "With parkland and woodland trails the park is very popular with dog walkers so you're bound to see other dogs on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A couple of miles south west of the park you can visit the Medway Megaliths. Here you can explore a series of early Neolithic chambered long barrows and megalithic monuments located in the lower valley of the River Medway. You can also climb to a splendid North Downs viewpoint at Blue Bell Hill near here. Two long distance trails pass near to the ancient site in the shape of the North Downs Way and the Pilgrims Way. Both of these waymarked paths provide and opportunity for further exploring the surrounding countryside. For more walking ideas in the area see the Kent Walks and North Downs Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jNa7uSydTFk",
   "district": "Capstone",
   "county": "Medway",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

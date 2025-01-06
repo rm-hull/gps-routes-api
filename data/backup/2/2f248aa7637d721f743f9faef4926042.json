@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:31:35.871015+00:00",
   "objectID": "2f248aa7637d721f743f9faef4926042",
-  "created_at": "2024-12-21T21:37:40.235886+00:00",
   "ref": "clyde-valley-woodlands-walking-route",
   "title": "Clyde Valley Woodlands Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Path_in_Cartland_Craigs_Nature_Reserve_-_geograph.org.uk_-_7020950.jpg/512px-Path_in_Cartland_Craigs_Nature_Reserve_-_geograph.org.uk_-_7020950.jpg?20241124234931",
@@ -9,6 +9,16 @@
       "description": "Lanark Park Loch",
       "objectID": "b822256d980042bfa025d13640167316",
       "ref": "lanark-moor-country-park-walking-route"
+    },
+    {
+      "description": "Craignethan Castle",
+      "objectID": "20add96dc555eb7578a54fdc56108796",
+      "ref": "craignethan-castle-walking-route"
+    },
+    {
+      "description": "Carmichael Estate",
+      "objectID": "ce84fe2be22ad7a522bdfbdec926ee30",
+      "ref": "carmichael-estate-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2f248aa7637d721f743f9faef4926042.gpx",
@@ -46,5 +56,11 @@
   ],
   "distance_km": 11.6,
   "description": "This walk takes you through a section of the Clyde Valley Woodlands Nature Reserve in Lanark. You can start the walk from the car park at Cartland Bridge on the north western side of Lanark. From here you can pick up trails through woodland above the Cartland Craigs. You'll continue along a pleasant riverside path along Mouse Water, passing waterfalls before finishing at Cleghorn. Along the way there are some lovely views of the surrounding countryside of the Mouse Valley. You'll also encounter a variety of flora and fauna. In spring and summer, the woodland floor comes alive with wildflowers such as bluebells, wood anemones, and wild garlic, creating a vibrant and fragrant environment. The trees\u2014mainly oak, ash, and birch\u2014provide habitats for birds like wood warblers, treecreepers, and tawny owls. You might also spot signs of mammals like roe deer and badgers, especially near the quieter parts of the trail\u200b. Be sure to stay on marked paths, as the steep and unstable cliffs can pose a hazard in some sections\u200b You can continue your walking in the area by heading to the nearby Lanark Park Loch .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west to Crossford and you can visit the ruins of the ancient Craignethan Castle. You'll also visit the Lower Nethan Gorge Nature Reserve, another section of the Clyde Valley Woodlands."
+    }
+  ],
   "gazetteer_found": false
 }

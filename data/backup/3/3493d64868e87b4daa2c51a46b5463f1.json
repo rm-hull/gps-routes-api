@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:22:13.029066+00:00",
   "objectID": "3493d64868e87b4daa2c51a46b5463f1",
-  "created_at": "2024-12-18T10:55:45.067339+00:00",
   "ref": "knepp-castle-walking-route",
   "title": "Knepp Castle Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Deer%2C_grounds_of_Knepp_Castle._-_geograph.org.uk_-_149493.jpg",
@@ -89,15 +89,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/The_River_Adur_as_a_stream_at_Shipley_-_geograph.org.uk_-_1349077.jpg",
-      "title": "nick macneill / The  River Adur as a stream at Shipley",
+      "title": "nick macneill / The River Adur as a stream at Shipley",
       "caption": "The River Adur as a stream at Shipley"
     }
   ],
   "distance_km": 8.0,
   "description": "The Knepp Castle Estate is a fine place for walking with miles of trails to follow. There's scenic countryside with ponds, woodland, wildflowers, brooks and river views to enjoy. The area is great for wildlife too with wild boar, nesting storks, horses and deer to look out for on the way. This circular walk explores a lovely section of the estate around the ruined castle. Start the walk at the castle, located just to the west of the Worthing A road. Here you will find the remains of the 12th century medieval fortress. Follow the footpaths north west and they will take you past the large Knepmill Pond to Capp's Bridge, Shipley and King's Windmill. Shipley is an attractive old village with a noteworthy historic church and a picturesque windmill to see. Here you turn south to follow a bridle track to Hampshires Farm, Hammer Pond and Pen Bridge. You then turn east to Honeypools Barn and Swallows Farm before crossing the River Adur and returning to the castle.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Countryman Inn is a delightful country pub located on the route near Shipley. The pub is in a great spot, with a lovely large garden surrounded by open countryside and horses. Inside there's a cosy interior with warming wood burning stoves and a variety of Sussex brewers\u2019 craft and traditional ales to try. They serve high quality food with produce sourced from neighbouring farms. You can find them on the western side of the route on Countryman Lane with a postcode of RH13 8PZ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trails on the estate make for a fine dog walk so you'll probably see other owners on your visit. You're advisied to keep them on leads because of the wildlife. The Countryman Inn mentioned above is also dog friendly with water bowls available for your thirsty friend."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north from the site and you could pay a visit to the nearby Southwater Country Park in Horsham. The park has a series of lakes, lots of wildlife and a good visitor centre to explore. For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/aVbkQo5Bkgc",
   "postcode": "RH13 8LH",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

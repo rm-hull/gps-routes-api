@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:31:28.809833+00:00",
   "objectID": "39b20e0f868cb2f3a266f568e45adc87",
-  "created_at": "2024-12-18T11:47:08.653552+00:00",
   "ref": "shotley-peninsula-walking-route",
   "title": "Shotley Peninsula Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Shotley_Marina_entrance_lock_-_geograph.org.uk_-_1543315.jpg",
@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Shotley_Marina_approach_channel_-_geograph.org.uk_-_1543323.jpg",
       "title": "Bob Jones / Shotley Marina approach channel",
-      "caption": "Shotley Marina approach channel.  Seen here at low water, the mud and shingle banks can be seen on either side of the dredged channel in the approach to Shotley Marina, at the confluence of the Stour and Orwell rivers. A yacht waits on the landing stage for the tide to turn, to be able to enter the lock. The three posts, which are high enough to remain exposed at high water, indicate the eastern edge of the channel."
+      "caption": "Shotley Marina approach channel. Seen here at low water, the mud and shingle banks can be seen on either side of the dredged channel in the approach to Shotley Marina, at the confluence of the Stour and Orwell rivers. A yacht waits on the landing stage for the tide to turn, to be able to enter the lock. The three posts, which are high enough to remain exposed at high water, indicate the eastern edge of the channel."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Bloody_Point_at_low_water_-_geograph.org.uk_-_1543310.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 21.0,
   "description": "Starting from Shotley, this circular walk takes you along the banks of the Stour, with good views of Harwich. Cutting back across rolling farmland to Chelmondiston, you then follow the Orwell downstream, opposite Levington, before cutting back up to Shotley. A nice combination of countryside and riverside walking, with opportunities for pub stops on the way, the most notable being at Pin Mill. Here you will find the 17th century Butt and Oyster pub with great views over the little boats in the River Orwell. The walk makes use of the Suffolk Coast Path for part of the way. You could extend your walk by following the long distance path north west from Chelmondiston to the nearby Woolverstone Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route head to the Butt and Oyster pub in Pin Mill. The pub dates from the 17th century and features in the Swallows and Amazons book series by Arthur Ransome, who patronised the inn himself. You can find the pub at postcode IP9 1JW for your sat navs. Back in Shotley village there's The Rose to visit. The pub dates back to 1860 and serves good pub grub. There's also a garden area for warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and country paths make for a nice dog walk and the Rose pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the opposite side of the river on the northern side of the peninsula you can pick up the Levington Walk. The route starts from the nearby village and visits Levington Creek and the delightful Nacton Shores which you can see from this walk. In the village there's also an historic 16th century church and a 14th century thatched pub for refreshment. For more walking ideas in the area see the Suffolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/cf00Glok0B8",
   "postcode": "IP9 1PQ",
   "district": "Shotley",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:53:46.797927+00:00",
   "objectID": "85a0fbacba94241a5fcaa06a39945c80",
-  "created_at": "2024-12-18T11:30:31.740774+00:00",
   "ref": "st-cyrus-beach-walk-walking-route",
   "title": "St Cyrus Beach Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St_Cyrus_National_Nature_Reserve_-_geograph.org.uk_-_3555191.jpg/512px-St_Cyrus_National_Nature_Reserve_-_geograph.org.uk_-_3555191.jpg",
@@ -14,6 +14,11 @@
       "description": "House of Dun",
       "objectID": "9335e863f89a2f25f59ef62de10bb9cb",
       "ref": "house-of-dun-walking-route"
+    },
+    {
+      "description": "Johnshaven to St Cyrus",
+      "objectID": "9040f884827cfa9ad9d7a45473b41f64",
+      "ref": "johnshaven-to-st-cyrus-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/85a0fbacba94241a5fcaa06a39945c80.gpx",
@@ -55,9 +60,16 @@
   ],
   "distance_km": 3.0,
   "description": "This walk visits the St Cyrus National Nature Reserve in the village of St Cyrus in south Aberdeenshire. At the site you will find a lovely beach, sand dunes and grasslands with a fabulous array of flora and fauna. Look out for a variety of waders and other birds such as meadow pipit, stonechat, peregrine falcon, buzzard and skylark. In the summer months there's lots of pretty wildflowers and butterflies to see. Humpback whales have even been spotted around the coastline at St Cyrus. There's also a noteworthy ancient kirkyard with the cliffs behind making a stunning backdrop for a photograph. To continue your walking in the area head south along the coast to Montrose where you can visit the wildlife centre at Montrose Basin. There's more nice nature trails and lots of birdlife to see in this nearby nature reserve. The beautiful grounds and gardens at the historic House of Dun can also be found here.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You could also reach the beach from nearby Johnshaven on the scenic Johnshaven to St Cyrus Coastal Walk."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gyrPv4LBtQo",
   "postcode": "DD10 0DA",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

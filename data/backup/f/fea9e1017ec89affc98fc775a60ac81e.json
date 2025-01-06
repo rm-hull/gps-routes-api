@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:08:29.834529+00:00",
   "objectID": "fea9e1017ec89affc98fc775a60ac81e",
-  "created_at": "2024-12-18T01:37:27.660909+00:00",
   "ref": "long-man-of-wilmington-walking-route",
   "title": "Long Man of Wilmington Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Long_Man_of_Wilmington_%288023873524%29.jpg/256px-Long_Man_of_Wilmington_%288023873524%29.jpg",
@@ -69,16 +69,27 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/The_South_Downs_Way%2C_Windover_Hill_-_geograph.org.uk_-_1818848.jpg",
-      "title": "The South Downs Way,  Windover Hill by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The South Downs Way, Windover Hill by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The South Downs Way, Windover Hill"
     }
   ],
   "distance_km": 8.5,
   "description": "Climb to this iconic hill figure on Windover Hill on this splendid circular walk in the South Downs. The walk begins in the village of Alfriston on the Cuckmere River and follows the South Downs Way to the Long Man. It's a fairly easy climb on a good path with splendid views of the South Downs and the coast to enjoy. From the high point you descend to Litlington passing the delightful Lullington Heath Nature Reserve on the way. It's a lovely area made up of chalk heath with heather, bell heather and gorse bushes. At Litlington you pick up the Vanguard Way and enjoy a lovely waterside section along the Cuckmere River which takes you back to Alfriston. If you enjoy this walk then you could try the Cuckmere River and Cuckmere Haven walk which also starts from Alfriston.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in Alfriston you could try the The George Inn. The historic pub dates all the way back to the 14th century and has a charming interior with low beams and a roaring fire. Outside there's a lovely beer garden to relax in on warmer days. You can find the pub on the High Street at a postcode of BN26 5SY for your sat navs. The pub is also dog friendly if you have your canine friend with you. If you're doing the walk from Wilmington you could head to The Giant\u2019s Rest in the village. The country pub does good food, is dog friendly and also has a beer garden. You can find it at postcode BN26 5SQ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a shorter walk you can climb to the hill from Wilmington. The little village is located less than a mile from the figure and has a public car park next to Wilmington Priory."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/wVyo2lFznDQ",
   "postcode": "BN26 5TD",
   "district": "Alfriston",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

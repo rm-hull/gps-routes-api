@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:23:17.457798+00:00",
   "objectID": "c1f59ee6ee5ec17e204d94ae2d940ded",
-  "created_at": "2024-12-18T01:27:37.691746+00:00",
   "ref": "kelso-walking-route",
   "title": "Kelso Walks - Kelso to Roxburgh Circular Riverside Walk",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Kelso._Bridge_over_the_River_Tweed_-_geograph.org.uk_-_670752.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/The_remains_of_Roxburgh_Castle_-_geograph.org.uk_-_2151677.jpg",
       "title": "The remains of Roxburgh Castle by Walter Baxter, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The remains of Roxburgh Castle.  The site overlooks the junction of the rivers Tweed and Teviot. The town and castle developed into the royal burgh of Roxburgh, which the Scots destroyed along with the castle after capturing it in 1460."
+      "caption": "The remains of Roxburgh Castle. The site overlooks the junction of the rivers Tweed and Teviot. The town and castle developed into the royal burgh of Roxburgh, which the Scots destroyed along with the castle after capturing it in 1460."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Poppies_at_the_field_margin%2C_Roxburgh_Barns_-_geograph.org.uk_-_3073796.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 11.0,
   "description": "This town in the Scottish Borders is a fine place for riverside walking. This circular walk takes you to the historic Roxburgh Castle and the Roxburgh Viaduct. The walk starts on Kelso Bridge where you can pick up the Borders Abbeys Way and follow it west to Roxburgh Castle. The ruined castle sits in a scenic location next to the River Teviot. The route continues south along the river to Roxburgh where you can cross the river on the impressive viaduct. The route then follows the line of the old railway north back to Kelso. To continue your walking around Kelso head just over a mile north to visit Stichill Linn. It's something of a hidden gem with peaceful woodland trails and a picturesque waterfall to see.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south from the town and you could visit nearby Jedburgh and explore the 12th century abbey ruins and enjoy a stroll alond the Jed Water river. On the way you will pass Harestanes where you can climb to the Waterloo Monument on Peniel Heugh hill and enjoy some fine views of the area. The Georgian Monteviot House and Gardens is also located in this area.  Just to the south west of Harestanes there's Fatlips Castle where you can enjoy a climb to a splendid 16th century peel tower and enjoy wonderful views over Teviotdale. For cyclists the 4 Abbeys Cycle Route passes through the area. The circular trail uses a series of quiet country lanes to visit the same 4 abbeys as the Borders Abbey Way. Most of the route is also suitable for walkers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KM_5txq1iGk",
   "postcode": "TD5 7HY",
   "district": "Kelso",
   "county": "Scottish Borders",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:17:30.987778+00:00",
   "objectID": "0f1ef70043f0829ba81accd44c055d26",
-  "created_at": "2024-12-18T00:33:16.511794+00:00",
   "ref": "hatchmere-lake-walking-route",
   "title": "Hatchmere Lake Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Hatch_Mere%2C_a_Cheshire_Wildlife_Trust_SSSI_-_geograph.org.uk_-_2412673.jpg/512px-Hatch_Mere%2C_a_Cheshire_Wildlife_Trust_SSSI_-_geograph.org.uk_-_2412673.jpg",
@@ -45,9 +45,24 @@
   ],
   "distance_km": 1.8,
   "description": "Enjoy a short easy walk around the pretty Hatch Mere on this walk in Delamere Forest. The mere is also a nature reserve run by the Cheshire Wildlife Trust. Here you can look out for a variety of interesting birds including great crested grebe, reed bunting and willow warbler. The reserve also includes the surrounding fens, wet woodland and wet heath with many rare plants to see as well. You can find the site at a postcode of WA6 6NY with the reserve accessed via a footpath off Ashton Road in the village, just as you enter the forest. There's also some nice woodland trails running past the western side of the lake and a pub for refreshments on the eastern side.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Carriers Inn is located on the eastern side of the lake. You can sit outside in the garden area and enjoy a drink with a view over the water."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs on leads are permitted at the mere. The Carries Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south and there are more nice waterside paths around Blakemere Moss. The viewpoint at Old Pale Hill can be found a little further to the south. You can pick up the Baker Way in Delamere Forest. The easy path will take you to Chester with a pleasant stretch along the Shropshire Union Canal."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bwD5OerQxqc",
   "district": "Hatchmere",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:10:07.785533+00:00",
   "objectID": "a66639c14d1ea54c787764d30f234d2f",
-  "created_at": "2024-12-21T20:11:25.941146+00:00",
   "ref": "rathescar-lakeside-walk-walking-route",
   "title": "Rathescar Lakeside Walk Route",
   "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
@@ -29,5 +29,16 @@
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a66639c14d1ea54c787764d30f234d2f.gpx",
   "distance_km": 1.0,
   "description": "This delightful little circular walk is located near Dunleer in County Louth. The loop walk takes around 20 mins and includes woodland trails and lots of wildlife on the water. The site includes a car park which you can find just south east of the Rathescar crossroads. It's particularly lovely during the autumn months when there's some glorious colours in the woodlands. It's good for wildlife with various woodland birds and mallard, teal, moorhen, coot and swans to see on the water. To continue your walking in the area head a few miles south west to visit the historic Slane Castle. The castle is well worth a visit with an interesting history, a whiskey distillery, woodland trails and a natural amphitheatre which has been used for many notable concerts. Near here you can also pick up the Boyne Valley Walk and enjoy a scenic stroll along the River Boyne to Navan.",
-  "video_url": "https://www.youtube.com/embed/EF0Py24i8t0"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods and lakeside trails make for a fine dog walk. You'll probably see other owners on a pleasant weekend day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of Slane Castle is the site of the famous Battle of the Boyne. The area includes an excellent visitor centre and a number of walkways taking you around the site of the historic 17th century battle. There are also pretty gardens and walks along the River Boyne and the Boyne Canal. You can reach the site from nearby Drogheda by following the Drogheda Boyne Greenway west from the town. The shared cycling and walking trail utilises sections of boardwalk and riverside paths along the River Boyne to reach the battlefield. It's a pleasant way to reach the site without a car."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/EF0Py24i8t0",
+  "gazetteer_found": false
 }

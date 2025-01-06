@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:20:57.983004+00:00",
   "objectID": "a04b22ece6f8356f0906a73c80c33928",
-  "created_at": "2024-12-18T16:28:54.079463+00:00",
   "ref": "hedley-on-the-hill-walking-route",
   "title": "Hedley on the Hill Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/The_village_green%2C_Hedley_on_the_Hill_-_geograph.org.uk_-_2707884.jpg/512px-The_village_green%2C_Hedley_on_the_Hill_-_geograph.org.uk_-_2707884.jpg",
@@ -43,9 +43,16 @@
   ],
   "distance_km": 2.0,
   "description": "This Northumberland based village is located west of Newcastle upon Tyne, near the valley of the River Derwent. This walk from the village, follows a pleasant country footpath north to visit the neighbouring settlement of High Mickley. On the way there's some lovely views of the surrounding countryside and woodland. You could extend the walk by continuing north to visit Tyne Riverside Country Park. Here you can pick up the epic Hadrian's Wall Path and the River Tyne Trail .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Feathers Inn is an award winning pub of some note. They have been named County Dining Pub of The Year on several occasions. The pub has an outstanding reputation for food in the dining area and also have a Pop Up Pizzeria and Pop Up Patisserie. The pub is dog friendly."
+    }
+  ],
   "postcode": "NE43 7SW",
   "district": "Hedley on the Hill",
   "county": "Northumberland",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

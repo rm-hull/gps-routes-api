@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:42:38.676911+00:00",
   "objectID": "f763fd83a72be2924eeafb32ed3a52ef",
-  "created_at": "2024-12-18T10:51:16.386121+00:00",
   "ref": "crathes-castle-walking-route",
   "title": "Crathes Castle Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Crathes_Castle_-_geograph.org.uk_-_605313.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 5.0,
   "description": "This 16th-century tower house in Banchory is surrounded by 600 acres of formal gardens, woodland and rolling countryside. It's perfect for a peaceful afternoon stroll with six waymarked walks of varying lengths. Highlights include a lovely walled garden with gravel paths, some marvellous topiary and wonderful specimen plants in herbaceous borders. To continue your walking in the area you could head east and visit the splendid Drum Castle. There's a series of nice trails to try here with woodland, an arboretum and a rose garden. Also in Banchory you can visit the wonderful Falls of Feugh where you can watch the salmon leaping up the cascade.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe with outdoor seating. They sell a good range of meals, snacks and sweet treats."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails at the site are ideal for dog walks. You'll probably bump into other owners on your visit. Please note only assistance dogs are allowed in the public buildings, the Walled Garden and Wild Wood Adventure Play areas though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Deeside Way passes south of the castle. This waymarked trail will take you west along the river to Banchory. Heading east will take you to Peterculter."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IH2mYJlmCHU",
   "postcode": "AB31 5QJ",
   "district": "Crathes",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

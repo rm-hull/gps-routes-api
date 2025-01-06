@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:44:33.270037+00:00",
   "objectID": "8a4f45fa34c2590778e6c0a5d1fdbbbf",
-  "created_at": "2024-12-18T11:45:05.477497+00:00",
   "ref": "clipsham-walking-route",
   "title": "Clipsham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Clipsham_Yew_Avenue_-_geograph.org.uk_-_2462091.jpg",
@@ -27,7 +27,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/The_Olive_Branch%2C_Clipsham_-_geograph.org.uk_-_3715064.jpg/512px-The_Olive_Branch%2C_Clipsham_-_geograph.org.uk_-_3715064.jpg",
-      "title": "The Olive Branch, Clipsham by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The Olive Branch, Clipsham by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Olive Branch, Clipsham"
     },
     {
@@ -43,8 +43,19 @@
   ],
   "distance_km": 1.6,
   "description": "This walk explores the lovely Yew Tree Avenue in the Rutland village of Clipsham. You can park at the car park on the eastern side of the woods and then follow the tree lined path west towards Clipsham Hall. It's a pleasant and peaceful trail with attractive topiary next to the Yews. There's also an information board with some history about the avenue and the village. To continue your woodland walking in the area head a few miles north to Colsterworth to visit Twyford Wood. To the south there's the highlight of the county at the expansive Rutland Water where there are miles of splendid waterside walking and cycling trails.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Olive Branch is an award winning pub with a fine restaurant. Much of the produce is sourced from their own pub paddock or from the surrounding hedgerows and woods. They provide rooms, car parking and also have a lovely garden area for the summer. You can find them on the Main Street in the village with a postcode of LE15 7SH for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's the neighbouring village of Exton. There's a pleasant circular walk here taking you around the parkland of the old Exton Hall before visiting the two pretty lakes at Fort Henry. In the village you could also visit the noteworthy Barnsdale Gardens. The beautiful gardens were created by former Gardener's World presenter Geoff Hamilton during the 1980s and 1990s. They are now open to the public and include Britain's largest collection of individually designed gardens. Highlights are the ornamental kitchen garden, a cottage garden and the Versailles garden."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6u-2fErzIS0",
   "county": "Rutland",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

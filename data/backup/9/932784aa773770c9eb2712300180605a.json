@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:42:30.635848+00:00",
   "objectID": "932784aa773770c9eb2712300180605a",
-  "created_at": "2024-12-18T09:34:20.309651+00:00",
   "ref": "tilgate-country-park-walking-and-cycle-route",
   "title": "Tilgate Forest Park Walks and Mtb",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Tilgate_lake%2CTilgate_park%2CCrawley._-_geograph.org.uk_-_76498.jpg",
@@ -55,8 +55,19 @@
   ],
   "distance_km": 6.0,
   "description": "Tilgate Country Park is a popular large park and forest area in Crawley, Sussex. Here you'll find stunning lakes, lawns, gardens and miles of woodland and bridleways. There are also very good facilties with a Nature Centre, cafe and a delightful Walled Garden with a maze and picnic area. There are many walking trails but Tilgate is popular with mountain bikers too, while National Cycle Route 20 also runs through the park. Our London to Brighton Cycle Route passes through the park and is a good way to continue your exercise. It's a popular route running along signed paths all the way to the coast.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking so you'll probably see plenty of other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Worth Way starts in Crawley. This shared cycling and walking trail runs along a disused railway line to East Grinstead. St Leonard's Forest is also nearby and well worth exploring. For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/p7urLAwLLRs",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

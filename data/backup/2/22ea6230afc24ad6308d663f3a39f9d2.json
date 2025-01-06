@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:43:26.066011+00:00",
   "objectID": "22ea6230afc24ad6308d663f3a39f9d2",
-  "created_at": "2024-12-18T00:57:27.004459+00:00",
   "ref": "along-the-river-dee-from-chester-to-connahs-quay-walking-and-cycle-route",
   "title": "Along the River Dee from Chester to Connah's Quay Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Deeside_%2821140554315%29.jpg/512px-Deeside_%2821140554315%29.jpg",
@@ -38,7 +38,7 @@
     {
       "description": "",
       "objectID": "28458e4edde3fec1a7351ffa3a20f8bb",
-      "ref": "div>           <div class=\"panel-body\"> <div class=\"row\" >    <div class=\"col-sm-6 col-md-6\" >       <div class=\"thumbnail\">          <a target="
+      "ref": "div>\n          <div class=\"panel-body\">\n<div class=\"row\" >\n   <div class=\"col-sm-6 col-md-6\" >\n      <div class=\"thumbnail\">\n         <a target="
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/22ea6230afc24ad6308d663f3a39f9d2.gpx",
@@ -74,10 +74,21 @@
     }
   ],
   "distance_km": 10.0,
-  "description": "Follow the River Dee from England into Wales on this easy waterside walk or cycle. The route starts on the England and Wales border at Chester and follows a good riverside path to Connah's Quay in Wales. You'll pass Saltney Bridge and Queensferry Bridge before finishing at Hawarden Bridge at Connah's Quay. It's a good surfaced path which is great for cyclists looking for a safe, traffic free ride. It runs along National Cycle Route 568 with nice views of the surrounding countryside. Near the end of the route you'll find the delightful Wepre Park. You could extend your exercise by exploring the 160 acre country park with its river, waterfall and the 12th century ruins of Ewloe Castle.  Also nearby is the fascinating ruins of Flint Castle with views over the Dee Estuary. In Chester you can explore the city on the Chester Walls Walk. There's much to enjoy with more views of the River Dee and a visit to a number of interesting historical sites. To turn it into a circular route you could pick up the Chester Millennium Greenway. This popular traffic free ride takes you along a disused railway line from Connah's Quay to Mickle Trafford.",
+  "description": "Follow the River Dee from England into Wales on this easy waterside walk or cycle. The route starts on the England and Wales border at Chester and follows a good riverside path to Connah's Quay in Wales. You'll pass Saltney Bridge and Queensferry Bridge before finishing at Hawarden Bridge at Connah's Quay. It's a good surfaced path which is great for cyclists looking for a safe, traffic free ride. It runs along National Cycle Route 568 with nice views of the surrounding countryside. Near the end of the route you'll find the delightful Wepre Park. You could extend your exercise by exploring the 160 acre country park with its river, waterfall and the 12th century ruins of Ewloe Castle. Also nearby is the fascinating ruins of Flint Castle with views over the Dee Estuary. In Chester you can explore the city on the Chester Walls Walk. There's much to enjoy with more views of the River Dee and a visit to a number of interesting historical sites. To turn it into a circular route you could pick up the Chester Millennium Greenway. This popular traffic free ride takes you along a disused railway line from Connah's Quay to Mickle Trafford.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "GT's Bar and Grill is a great choice for some post walk refreshments. There's a splendid large garden to sit out in on warmer days and it's located just a stones throw away from the famous Wepre Park. It's easily accessible from the A55 and can be found on Wepre Lane at postcode CH5 4JR.On the nearby Hawarden Estate there's a farm shop with a nice cafe which you could head to after your walk. It serves warming breakfasts, delicious light lunches, and tea with scones and cake. There's also an outdoor seating area for the summer months. You can find it on Chester Road at postcode CH5 3FB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The route links with the Burton Marshes Greenway around the Deeside Industrial Park and Hawarden Bridge. The shared cycling and walking trail will take you north through the RSPB's Burton Mere Wetlands where you can look out for a wide variety of birdlife on the River Dee Estuary."
+    }
+  ],
   "postcode": "CH4 8RL",
   "district": "Chester",
   "county": "Sir y Fflint - Flintshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

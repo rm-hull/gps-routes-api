@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:34:40.055794+00:00",
   "objectID": "d1be7faeb8811e89d434233844792b35",
-  "created_at": "2024-12-21T13:46:37.133674+00:00",
   "ref": "pewsey-avon-trail-walking-route",
   "title": "Pewsey Avon Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Pewsey%2C_River_Avon_-_geograph.org.uk_-_1757097.jpg",
@@ -74,10 +74,16 @@
     }
   ],
   "distance_km": 45.0,
-  "description": "A delightful walk along the River Avon from Pewsey to Salisbury that links with the River Avon Trail. You will pass several pretty riverside villages including Upavon, Amesbury and Upper and Lower Woodford. There are fine views of Salisbury Plain and a series of picturesque riverside pubs if you're in need of refreshment. There is also an abundance of water loving wildlife to look out for.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/d1be7faeb8811e89d434233844792b35.gpx",
-  "_geoloc": {
-    "lat": 51.3424950395,
-    "lng": -1.7696659521
-  }
+  "description": "A delightful walk along the River Avon from Pewsey to Salisbury that links with the River Avon Trail . You will pass several pretty riverside villages including Upavon, Amesbury and Upper and Lower Woodford. There are fine views of Salisbury Plain and a series of picturesque riverside pubs if you're in need of refreshment. There is also an abundance of water loving wildlife to look out for.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the little village of Upper Woodford you'll find the splendid Bridge Inn. The main attraction here is the lovely, large riverside garden area where you can relax and enjoy refreshments in an idyllic setting. Indoors there's a nice light country-style decor with sofas. They also have a very good menu and drinks selection. You can find the inn a couple of miles south of Stonehenge, in Upper Woodford, right next to the River Avon. Postcode for your sat navs is SP4 6NU."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Pewsey you can pick up the Kennet and Avon Canal and head east to visit Wilton, Burbage and Great Bedwyn. The Pewsey Walk will take you into the countryside of the Vale of Pewsey and Pewsey Downs where there are splendid views from the high points. At the end of the route you can try the Salisbury River Walk which will take you through the pretty Churchill Gardens near the famous cathedral. For more walking ideas in the area see the Wiltshire Walks page."
+    }
+  ],
+  "gazetteer_found": false
 }

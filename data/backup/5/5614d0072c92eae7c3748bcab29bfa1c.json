@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:00:39.002384+00:00",
   "objectID": "5614d0072c92eae7c3748bcab29bfa1c",
-  "created_at": "2024-12-18T16:38:16.112041+00:00",
   "ref": "ribbesford-walking-route",
   "title": "Ribbesford Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Ribbesford_church_-_geograph.org.uk_-_749635.jpg",
@@ -85,8 +85,23 @@
   ],
   "distance_km": 3.0,
   "description": "This waymarked circular trail explores the countryside and river paths to south of Bewdley. On the trail you'll visit the Blackstone Riverside Park and the Blackstone Rock, where a hermit once lived in the middle ages. You'll also pass the 19th century Ribbesford Hall and the Norman St Leonard's church on this historical trail. You can start the walk from the Gardner's Meadow car park just south of Bewdley. Alternatively there is more parking in the Blackstone Riverside Park on the trail. The trail runs for about 2 miles on fairly flat paths with a small climb on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just north of Bewdley Bridge you'll find the Mug House Inn. This riverside inn has a sun terrace and restaurant overlooking the River Severn. It's a fine place to enjoy a meal on a pleasant summer day. You can find the pub at 12-13 Severn Side N with a postcode of DY12 2EE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a pleasant dog walk with more good woodland trails in Ribbesford woods just to the south of the park and the Button Oak Meadow Nature Reserve in the expansive Wyre Forest just to the north. The Mug House mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To extend your walking in the area you could follow the Severn Way south along the river to visit nearby Stourport. For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "district": "Bewdley",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

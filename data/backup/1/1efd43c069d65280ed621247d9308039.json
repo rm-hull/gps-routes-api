@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:13:37.024840+00:00",
   "objectID": "1efd43c069d65280ed621247d9308039",
-  "created_at": "2024-12-18T22:58:20.432370+00:00",
   "ref": "redwick-walking-route",
   "title": "Redwick Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Redwick%2C_St_Thomas%27s_Church_-_geograph.org.uk_-_69915.jpg/256px-Redwick%2C_St_Thomas%27s_Church_-_geograph.org.uk_-_69915.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Severn_Estuary_at_low_water_-_geograph.org.uk_-_293754.jpg",
-      "title": "Gill  Stott / The Severn Estuary at low water",
+      "title": "Gill Stott / The Severn Estuary at low water",
       "caption": "The Severn Estuary at low water New Severn Crossing in the distance. Bronze Age remains have been discovered intertidally nearby at Goldcliff"
     },
     {
@@ -79,11 +79,22 @@
     }
   ],
   "distance_km": 12.0,
-  "description": "This little Welsh village is located just south east of the city of Newport. There's some nice coastal trails along the Severn Estuary and Bristol Channel to enjoy here.  The village also includes a notable medieval church which is Grade I listed. This circular walk starts in the village and follows a section of the Wales coast path west along the sea wall and Portland Grounds to Goldcliff. Here you'll find the remains of a Benedictine Priory and pretty lagoons arond Golfcliff Pill. The coastal area is great for wildlife with lots of waders to look out for on the water. The walk then heads east, following a mixture of country lanes and footpaths back to Redwick, passing Whitson on the way.",
+  "description": "This little Welsh village is located just south east of the city of Newport. There's some nice coastal trails along the Severn Estuary and Bristol Channel to enjoy here. The village also includes a notable medieval church which is Grade I listed. This circular walk starts in the village and follows a section of the Wales coast path west along the sea wall and Portland Grounds to Goldcliff. Here you'll find the remains of a Benedictine Priory and pretty lagoons arond Golfcliff Pill. The coastal area is great for wildlife with lots of waders to look out for on the water. The walk then heads east, following a mixture of country lanes and footpaths back to Redwick, passing Whitson on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy refreshments at The Rose Inn. The award winning pub stands in its own extensive grounds and forms the third corner of a triangle which defines the centre of Redwick village. There's a nice cosy interior and a good sized garden area for warmer days. You can find them at postcode NP26 3DU for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a longer walk along the sea wall see the Newport Seawall Walk. This will take you along the wall from Goldcliff to Caldicot via Magor Pill. The start point is the Farmers Arms pub in Goldcliff which is well worth a visit. If you continue west you could visit the Newport Wetlands. Here you'll find a large nature reserve with footpaths taking you around the Gwent Levels . The Newport Canal Walk can also be picked up near the city. Head east along the coast and you could visit the historic Caldicot Castle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2TCwSZh68oo",
   "postcode": "NP26 3EA",
   "district": "Redwick",
   "county": "Casnewydd - Newport",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

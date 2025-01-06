@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:38:56.094716+00:00",
   "objectID": "e3eec8ab2b55e682d487fbe0872eaa36",
-  "created_at": "2024-12-18T11:31:36.358929+00:00",
   "ref": "worcestershire-beacon-walking-route",
   "title": "Worcestershire Beacon Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Worcestershire_Beacon_summit.jpg/512px-Worcestershire_Beacon_summit.jpg",
@@ -69,11 +69,22 @@
     }
   ],
   "distance_km": 6.5,
-  "description": "This circular walk takes you to the high point of the Malvern Hills at Worcestershire Beacon. The walk starts in Great Malvern, just to the west of the train station. From the Edward Elgar Statue you can pick up the Worcestershire Way to take you onto the hills. The route then heads to North Hill and Sugarloaf Hill before climbing to Worcestershire Beacon. From the 425 metres (1,394 ft) summit you can see 13 counties of England on a clear day. Other highlights includes views of The Wrekin, Cannock Chase, the Welsh border mountains, the Shropshire Hills and across the valleys of the Severn and Avon to the Cotswold Hills. After soaking in the views the route descends to Lower Wyche before returning to Great Malvern. To explore the full range of this beautiful area try our Malvern Hills Walk .",
+  "description": "This circular walk takes you to the high point of the Malvern Hills at Worcestershire Beacon. The walk starts in Great Malvern, just to the west of the train station. From the Edward Elgar Statue you can pick up the Worcestershire Way to take you onto the hills. The route then heads to North Hill and Sugarloaf Hill before climbing to Worcestershire Beacon. From the 425 metres (1,394 ft) summit you can see 13 counties of England on a clear day. Other highlights includes views of The Wrekin , Cannock Chase, the Welsh border mountains, the Shropshire Hills and across the valleys of the Severn and Avon to the Cotswold Hills. After soaking in the views the route descends to Lower Wyche before returning to Great Malvern. To explore the full range of this beautiful area try our Malvern Hills Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "We recommend stopping at the Chase Inn for some refreshments near the route. There's a great menu and a really splendid garden area with lovely views towards the Black Mountains. You can find the pub in Upper Colwall, just to the south of Worcestershire Beacon, with a postcode of WR13 6DJ for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east there's the delightful village of Hanley Swan. The picturesque settlement includes a pretty village green, a pond, a 17th century pub and walking trails to neighbouring Hanley Castle where you can see the remains of the ancient fort. The river trails and historic 16th century pub at Upton Upon Severn are also in this area. For an alternative circular walk starting from the Colwall train station see the Colwall Walk. Here you can also visit the Colwall Park Hotel where you can enjoy a delicious afternoon tea in the beautiful hotel grounds."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sN8NV86Fn7M",
   "postcode": "WR14 4QG",
   "district": "Great Malvern",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

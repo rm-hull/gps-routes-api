@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:13:58.380549+00:00",
   "objectID": "60c85b7f9f787b5698b4ab08836c6432",
-  "created_at": "2024-12-18T01:48:32.730781+00:00",
   "ref": "farnham-park-walking-route",
   "title": "Farnham Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Information_Centre%2C_Farnham_Park_-_geograph.org.uk_-_1747318.jpg/512px-Information_Centre%2C_Farnham_Park_-_geograph.org.uk_-_1747318.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 3.5,
   "description": "Visit the ruins of the 12th century Farnham Castle and enjoy a stroll through the adjacent medieval deer park on this easy walk in Farnham, Surrey. There's 320 acres (130 hectares) to explore with hidden dells, hills, valleys, ponds and streams. There's also a popular 1km tree lined avenue running along the southern end of the park. From the high points there are great views of the surrounding Surrey countryside. There's lots of parking available at the south western end of the park next to the golf club and cricket club off Folly Hill. The St Swithun's Way long distance trail runs past the park so you could pick this up to explore the countryside around Farnham. You could also pick up the North Downs Way and head east towards Puttenham Common .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice cafe near the golf centre with outdoor seating."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers with the cafe mentioned above also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north east is Aldershot where there's the Gold Valley Lakeside Nature Reserve to explore. There's some easy lakeside trails, lots of wildlife and a lovely cafe to rest in here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xR02gEt2l5Q",
   "postcode": "GU9 0AU",
   "district": "Farnham",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

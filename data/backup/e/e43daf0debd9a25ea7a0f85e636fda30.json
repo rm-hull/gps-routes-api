@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:06:23.502355+00:00",
   "objectID": "e43daf0debd9a25ea7a0f85e636fda30",
-  "created_at": "2024-12-18T19:26:07.697945+00:00",
   "ref": "bonnie-prince-charlie-walk-walking-route",
   "title": "Bonnie Prince Charlie Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/On_the_Bonnie_Prince_Charlie_Walk_-_geograph.org.uk_-_2251298.jpg/512px-On_the_Bonnie_Prince_Charlie_Walk_-_geograph.org.uk_-_2251298.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Osmaston_Hall_Terraced_Garden_-_geograph.org.uk_-_1993749.jpg/512px-Osmaston_Hall_Terraced_Garden_-_geograph.org.uk_-_1993749.jpg",
       "title": "Osmaston Hall Terraced Garden by Martyn Glover, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Osmaston Hall Terraced Garden. Osmaston Manor was designed by Henry Isaac Stevens for Francis Wright of the Butterley Iron Company and completed in 1849.  The house was used as a Red Cross hospital during World War II, and demolished in 1964. The terraces of the house's gardens are still apparent today and shown in this lovely photo."
+      "caption": "Osmaston Hall Terraced Garden. Osmaston Manor was designed by Henry Isaac Stevens for Francis Wright of the Butterley Iron Company and completed in 1849. The house was used as a Red Cross hospital during World War II, and demolished in 1964. The terraces of the house's gardens are still apparent today and shown in this lovely photo."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Osmaston_Pond_-_geograph.org.uk_-_3626554.jpg/512px-Osmaston_Pond_-_geograph.org.uk_-_3626554.jpg",
@@ -50,9 +50,16 @@
   ],
   "distance_km": 28.0,
   "description": "Follow in the footsteps of Bonnie Prince Charlie on this walk which traces the route of his march from Ashbourne to Derby in 1745. The path passes through Derbyshire farmland and woodland starting in Ashbourne town centre and heading south to Shirley via Osmaston and Osmaston park. You continue to Longford following the Shirley brook before turning east to Radbourne, where you will pass the 18th century Radbourne Hall. From here you head to Mackworth, passing the castle ruins, and entering the delightful Markeaton park on the outskirts of Derby. Just to the north of Mackworth is the delightful Kedleston Hall which is well worth a short detour if you have time. The final stretch runs into Derby finishing near the cathedral.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Osmaston we recommend a pit stop at the Shoulder of Mutton. The pub dates back to at least 1783 and serves good quality dishes. They have a particularly lovely, large lawned garden area with views of the surrounding countryside. You can find them on Moor Lane at postcode DE6 1LW for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3BAth-4d-6Y",
   "district": "Ashbourne",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

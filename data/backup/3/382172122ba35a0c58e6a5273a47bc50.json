@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:46:17.570778+00:00",
   "objectID": "382172122ba35a0c58e6a5273a47bc50",
-  "created_at": "2024-12-18T07:14:06.850602+00:00",
   "ref": "the-wrekin-walking-route",
   "title": "The Wrekin Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/The_Wrekin_Summit.jpg",
@@ -69,15 +69,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Shropshire_cropfields_and_The_Wrekin_-_geograph.org.uk_-_1460922.jpg",
-      "title": "Roger  Kidd / Shropshire cropfields and The Wrekin, via Wikimedia Commons",
+      "title": "Roger Kidd / Shropshire cropfields and The Wrekin, via Wikimedia Commons",
       "caption": "Shropshire cropfields and The Wrekin Seen from the Shropshire Union Canal near Soudley Bridge."
     }
   ],
   "distance_km": 8.0,
   "description": "This popular circular walk takes you to the summit of this iconic Shropshire Hill. You start at the car park at Lawrence Hill and follow good footpaths along the Shropshire Way to the 407 m (1,335 ft) summit. Here you will find a large Iron Age hill fort and the Wrekin transmitting station beacon. There are also magnificent views over the beautiful Shropshire Hills AONB and no less than 17 counties of England. Other sights to take in from the summit include the Malvern Hills to the south, the neighbouring Shropshire summits of the Clee Hills, the wooded Wenlock Edge, the Long Mynd and the Berwyn Mountains of Wales. There are also fine views of the River Severn and the Severn Gorge, Coalbrookdale and Iron Bridge, birthplaces of the Industrial Revolution, are just downstream. There's also a handy toposcope detailing all the landmarks you can see. From the summit you descend to the south and then return to the Lawrence Hill car park via the forest paths in Wenlock Woods. If you would like to continue your walk you could pick up the Shropshire Way and head towards the nearby River Severn where you can enjoy waterside walking along the Severn Way. Just to the north east you will find The Ercall. This small hill is surrounded by lovely ancient woodland and 500 million year old rocks. The walk to the hill starts from the same car park. The Wrekin Hill is close to both Wellington and Telford .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into the village of Little Wenlock after your walk for some well earned refreshments. The Huntsman Inn is a great option where you can soak up the sun in the secure outdoor terrace or watch village life pass by from the roadside seating area. There's a great menu including classic British dishes with an emphasis on fresh local produce. You can find the pub at postcode TF6 5BE."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The hill and surrounding woods are a great place for dog walking."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The hill includes an interesting Iron Age hill fort on the summit. It is thought the fort was built by the Cornovii tribe and was once their capital before the Romans moved them to nearby Wroxeter. The remains of the Roman City can be found to the west of the hill and are well worth a visit. Known as Viroconium Cornoviorum, it was the fourth largest city in Roman Britain, and is now gradually being excavated. Extensive remains of the city can still be seen today. The Wellington Walk visits the Ercall and The Wrekin from the nearby town centre. The walk start from close to the bus station and train station making the area accessible by public transport. The town is well worth exploring with its historic market and the splendid Victorian house and garden at the National Trust's Sunnycroft to see."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FgG_QOMxzZ8",
   "postcode": "TF6 5AL",
   "county": "Telford and Wrekin",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

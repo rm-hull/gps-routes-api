@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:37:46.348228+00:00",
   "objectID": "02fa33afce1b113faa7fc3d7ad463e03",
-  "created_at": "2024-12-18T14:10:00.776607+00:00",
   "ref": "st-peters-way-walking-route",
   "title": "St Peters Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/High_Street%2C_Chipping_Ongar_-_geograph.org.uk_-_1144124.jpg",
@@ -65,10 +65,17 @@
   ],
   "distance_km": 66.0,
   "description": "Travel from Chipping Ongar to the 7th century St Peter's Chapel on St Peter's Flat on this walk through Essex. The walk first heads to Maylandsea passing Hanningfield Reservoir and Purleigh on the way. The second section heads to St Peter's Flat via Tillingham. At the end of the route you could head west from the chapel to visit the village of Bradwell on Sea where there's a fine old pub for refreshment.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Hanningfield Reservoir you could stop at the Cafe on the Water for some refreshments on the route. There is a lovely area outside on the decking with spectacular views over the Reservoir, which is open from April to November each year. It's the perfect place to relax on a warm summer day."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FIbDrh4zWPs",
   "postcode": "CM5 9DR",
   "district": "Chipping Ongar",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

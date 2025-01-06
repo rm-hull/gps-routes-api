@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:58:56.829939+00:00",
   "objectID": "643120a6a752b80fbeee339ad7ef3aa2",
-  "created_at": "2024-12-18T16:18:43.430911+00:00",
   "ref": "parc-cwm-darran-walking-and-cycle-route",
   "title": "Parc Cwm Darran Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Visitor_centre%2C_Parc_Cwm_Darran_-_geograph.org.uk_-_653524.jpg",
@@ -39,7 +39,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_southern_end_of_the_lake%2C_Parc_Cwm_Darran_-_geograph.org.uk_-_1880759.jpg",
-      "title": "The southern end of the lake,  Parc Cwm Darran by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The southern end of the lake, Parc Cwm Darran by Robin Drayton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The southern end of the lake"
     },
     {
@@ -49,10 +49,17 @@
     }
   ],
   "distance_km": 5.0,
-  "description": "This cycling and walking route takes you along an abandoned rail track and under a number of historic bridges used to transport coal from nearby collieries dotted around the surrounding countryside. You then head through the delightful Parc Cwm Darran. This country park was built on the site of the former Ogilvie Colliery. It  features one of Wales' last remaining Powder Stores and an interactive learning centre which tells the story of the area's great industrial past. In the park you will find peaceful woodland trails, lakeside paths and sunny wildflower meadows in the Cwmllwydrew Meadows Local Nature Reserve. At the end of your exercise you can refresh yourself in the Lakeside Coffee Shop. The Rhymney Valley Ridgeway Walk runs past the park so you could pick up this long distance trail if you wanted to extend your walk.",
+  "description": "This cycling and walking route takes you along an abandoned rail track and under a number of historic bridges used to transport coal from nearby collieries dotted around the surrounding countryside. You then head through the delightful Parc Cwm Darran. This country park was built on the site of the former Ogilvie Colliery. It features one of Wales' last remaining Powder Stores and an interactive learning centre which tells the story of the area's great industrial past. In the park you will find peaceful woodland trails, lakeside paths and sunny wildflower meadows in the Cwmllwydrew Meadows Local Nature Reserve. At the end of your exercise you can refresh yourself in the Lakeside Coffee Shop. The Rhymney Valley Ridgeway Walk runs past the park so you could pick up this long distance trail if you wanted to extend your walk.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and lakeside trails are great for dog walking. You will probably bump into other owners on your visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0bpVap-jXN0",
   "district": "Deri",
   "county": "Caerffili - Caerphilly",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

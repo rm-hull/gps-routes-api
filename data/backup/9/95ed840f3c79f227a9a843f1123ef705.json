@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:57:03.302778+00:00",
   "objectID": "95ed840f3c79f227a9a843f1123ef705",
-  "created_at": "2024-12-18T21:12:29.130211+00:00",
   "ref": "campsall-country-park-walking-route",
   "title": "Campsall Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/High_Street%2C_Campsall_-_geograph.org.uk_-_1466498.jpg",
@@ -44,7 +44,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/High_Street%2C_Campsall_-_geograph.org.uk_-_1466498.jpg",
-      "title": "Glyn Drury / High Street,  Campsall",
+      "title": "Glyn Drury / High Street, Campsall",
       "caption": "High Street, Campsall village."
     },
     {
@@ -59,10 +59,21 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "Enjoy a short walk around the pretty grounds of Campsall Hall. The estate consists of open grassland, meadow, ponds  and woodland. The landscaped pleasure gardens also contain ornamental specimen trees. The park is located just a few miles north of Doncaster. The long distance Danum Trail passes through the area providing an opportunity to extend your walking.",
+  "description": "Enjoy a short walk around the pretty grounds of Campsall Hall. The estate consists of open grassland, meadow, ponds and woodland. The landscaped pleasure gardens also contain ornamental specimen trees. The park is located just a few miles north of Doncaster. The long distance Danum Trail passes through the area providing an opportunity to extend your walking.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is an ideal place to take your dog for a walk. You'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north west there's the lovely Brockadale Nature Reserve to visit. Here you'll find peaceful trails, woodland, wildflower meadows, views of the River Went and lots of wildlife. Pontefract Park and Fairburn Ings Nature Reserve are other good local options with easy trails to enjoy. The wildlife rich reserve is located near Castleford and Allerton Bywater."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ucXMV_rijE8",
   "postcode": "DN6 9AH",
   "district": "Campsall",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

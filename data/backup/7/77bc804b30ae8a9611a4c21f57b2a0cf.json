@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:27:52.395421+00:00",
   "objectID": "77bc804b30ae8a9611a4c21f57b2a0cf",
-  "created_at": "2024-12-18T11:36:54.640844+00:00",
   "ref": "haigh-hall-country-park-walking-route",
   "title": "Haigh Hall Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Haigh_Hall_-_geograph.org.uk_-_50440.jpg",
@@ -50,8 +50,19 @@
   ],
   "distance_km": 3.5,
   "description": "Enjoy a pleasant walk around this large country park near Wigan in Greater Manchester. The walk includes a stretch along the Leeds and Liverpool Canal before heading through peaceful woodland and parkland. There's 250 acres to explore with magnificent views across the Douglas Valley to the Welsh Hills. There is also a miniature steam railway track around the grounds.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/kCiK9XdVEQU",
   "postcode": "WN2 1PE",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

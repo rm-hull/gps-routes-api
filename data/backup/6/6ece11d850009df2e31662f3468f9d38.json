@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:45:53.078911+00:00",
   "objectID": "6ece11d850009df2e31662f3468f9d38",
-  "created_at": "2024-12-18T16:21:08.164545+00:00",
   "ref": "wetheral-walking-route",
   "title": "Wetheral Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG/512px-The_Cross_-_Wetheral_Village_Green_-_Carlisle_-_Cumbria_-_UK.JPG",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 8.2,
   "description": "This historic Cumbrian village near Carlisle has some lovely riverside trails, peaceful local woods and the remains of ancient priory to see. This walk from the village takes you south along the River Eden to visit Wetheral Woods. The walk starts from the train station, next to Corby Bridge and heads south along a riverside footpath to the National Trust managed woods. You continue to Cote House where you will pass Coathouse Tower and Coathouse Island in the river. The walk finishes at Brackenbank but you could continue south to Edenbrows Wood and Holmwrangle. On the way you can take a slight detour from the route to visit the Wetheral Priory Gatehouse. The ancient structure is the sole survivor of a small Benedictine priory. The miniature 'pele-tower' contains two storeys of comfortable rooms and later became a fortified vicarage.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Wheatsheaf Inn for some post walk refreshment. The pub dates from the early 19th century. They serve a fine Sunday lunch and also have a good selection of ales. There's also a nice garden area for warmer days. You can find them at Steele's Bank, CA4 8HD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and woodland trails make for a fine dog walk. The Wheatsheaf mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south west there's nice waterside trails along the River Petteril at Wreay Woods. The peaceful woods are great for flora and fauna with kingfishers, dippers and otters to see by the river. For more walking ideas in the area see the Cumbria Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/cMvEkRbZkRg",
   "postcode": "CA4 8HB",
   "district": "Wetheral",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

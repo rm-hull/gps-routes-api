@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:50:48.532746+00:00",
   "objectID": "290b90ecebda4bea88df6964b5693a75",
-  "created_at": "2024-12-18T14:03:31.227001+00:00",
   "ref": "tuddenham-walking-route",
   "title": "Tuddenham Mill Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tuddenham_Mill_-_geograph.org.uk_-_2807972.jpg/512px-Tuddenham_Mill_-_geograph.org.uk_-_2807972.jpg",
@@ -13,7 +13,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Tuddenham_Mill_-_geograph.org.uk_-_2807972.jpg/512px-Tuddenham_Mill_-_geograph.org.uk_-_2807972.jpg",
       "title": "Tuddenham Mill by Keith Evans, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Tuddenham Mill. The current mill was designed and built in 1775 by Collins Millwrights of Melton, and its production capacity increased in 1855, when the 53-foot chimney was installed to accommodate a steam engine which drove three further sets of grindstones. The Mill continued grinding for another hundred years, when it finally became derelict.  The mill was rescued in 1972 when it was converted into a restaurant."
+      "caption": "Tuddenham Mill. The current mill was designed and built in 1775 by Collins Millwrights of Melton, and its production capacity increased in 1855, when the 53-foot chimney was installed to accommodate a steam engine which drove three further sets of grindstones. The Mill continued grinding for another hundred years, when it finally became derelict. The mill was rescued in 1972 when it was converted into a restaurant."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tuddenham_St._Mary_village_sign_-_geograph.org.uk_-_1388101.jpg/256px-Tuddenham_St._Mary_village_sign_-_geograph.org.uk_-_1388101.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 14.0,
   "description": "This circular walk explores the countryside around the village of Tuddenham in Suffolk. The route starts and finishes at the historic Tuddenham Mill, an ancient watermill surrounded by 12 acres of gardens and Suffolk countryside. Here you can pick up a section of the epic Icknield Way Path and follow the waymarked trail south west through the countryside to Herringswell. The route then returns to Tuddenham on an alternative country lane. You can then continue east to explore Tuddenham Heath and the Cavenham Heath Nature Reserve. The heaths have miles of footpaths with a large variety of flora and fauna to look out for too. At the eastern end of the reserve you can pick up the Lark Valley Path and enjoy a riverside stroll along the River Lark. Following the trail east would take you into Mildenhall .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is a high quality restaurant at the mill where you can enjoy some refreshment after your exercise. You can sit outside by the river in a very picturesque location."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and heathland trails make for a fine dog walk. The mill is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south is idyllic Moulton where you can enjoy views of the River Kennet, visit the fine 14th century church and photograph the splendid medieval Packhorse Bridge."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/DYi2TqqUrKw",
   "district": "Tuddenham",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

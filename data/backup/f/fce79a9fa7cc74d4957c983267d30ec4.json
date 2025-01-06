@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:07:02.293931+00:00",
   "objectID": "fce79a9fa7cc74d4957c983267d30ec4",
-  "created_at": "2024-12-19T04:56:14.973743+00:00",
   "ref": "rufford-country-park-walking-route",
   "title": "Rufford Abbey Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Rufford_Abbey_%28geograph_3674622%29.jpg",
@@ -129,9 +129,24 @@
     }
   ],
   "distance_km": 5.0,
-  "description": "Visit Rufford Country Park near Mansfield and explore 150 acres of historic parkland. In the park you will find a medieval monastery, a craft centre, formal gardens, woodland walks, a sculpture trail and a lake. Rufford park once formed part of a 12th century Cistercian abbey and its estate.  It is now a country house estate surrounded by beautiful gardens and parkland open to the public. The Robin Hood Way Walk passes through the park so you can head north on to the nearby village of Edwinstowe, Sherwood Forest Country Park, Clumber Country Park and Thoresby Park if you have time. Just a couple of miles to the south east there's also Sherwood Pines Forest Park .",
+  "description": "Visit Rufford Country Park near Mansfield and explore 150 acres of historic parkland. In the park you will find a medieval monastery, a craft centre, formal gardens, woodland walks, a sculpture trail and a lake. Rufford park once formed part of a 12th century Cistercian abbey and its estate. It is now a country house estate surrounded by beautiful gardens and parkland open to the public. The Robin Hood Way Walk passes through the park so you can head north on to the nearby village of Edwinstowe, Sherwood Forest Country Park, Clumber Country Park and Thoresby Park if you have time. Just a couple of miles to the south east there's also Sherwood Pines Forest Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Coach House cafe was the original Coach House forming part of the stables and outer courtyard complex. The building dates back to 1725 and now houses a lovely cafe where you can enjoy some post walk refreshments."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland are ideal for dog walking so you'll probably see other owners on your visit. You are requested to keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east is the International Outdoor Adventure Activity Centre at Walesby Forest and the worthy village of Laxton. It's a historic place and significant as being England\u2019s Last Open Field Village. You can visit the 12th century church, the Norman Motte and find out all about the area's history in the local visitor centre. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/A-7l54HV7sY",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

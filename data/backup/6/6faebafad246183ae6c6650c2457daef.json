@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:43:08.364383+00:00",
   "objectID": "6faebafad246183ae6c6650c2457daef",
-  "created_at": "2024-12-18T20:45:03.252631+00:00",
   "ref": "burgh-castle-walking-route",
   "title": "Burgh Castle Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Burgh_Castle_Marina_-_geograph.org.uk_-_813155.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Burgh_Castle_Church_-_geograph.org.uk_-_258089.jpg",
       "title": "Bob Crook / Burgh Castle Church",
-      "caption": "Burgh Castle Church. The medieval church of  St Peter and St Paul, incorporates Roman brick in its fabric, presumably taken from the fort site."
+      "caption": "Burgh Castle Church. The medieval church of St Peter and St Paul, incorporates Roman brick in its fabric, presumably taken from the fort site."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/View_across_Burgh_Castle_Marshes_-_geograph.org.uk_-_1484278.jpg",
@@ -80,10 +80,25 @@
   ],
   "distance_km": 2.0,
   "description": "Explore the Roman Fort and enjoy a stroll along the River Waveney on this short walk in Norfolk. The fort dates from the 3rd century and still has some of its thick walls in tact. The area around the fort is also very beautiful with nice views across the Norfolk Broads to Breydon Water and the River Yare. You can start the walk from the free car park on Butt Lane. Then pick up the good footpaths through the site to the river where you can enjoy a waterside stroll. There's also helpful information boards at the site which detail the interesting history of the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Fishermans Inn is in a great location right next to the River Yare and the Roman Fort. They have a lovely garden area with views over the lake. It's a splendid spot if the weather is fine. They do good food and can be found at the marina at a postcode of NR31 9PZ for your sat navs. In the village you'll also find the Queens Head which is another good option. They also have a good outdoor area and welcome walkers. You can find them on the High Road at a postcode of NR31 9QQ."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is great for dog walking and the Fishermans Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Angles Way runs past the site along the River Waveney so you can pick up this long distance footpath to extend your walk. If you follow it north east it will take you along Breydon Water to Great Yarmouth. This stretch is great for wildlife watching with thousands of wading birds to look out for. Our Great Yarmouth Walk takes you to Burgh Castle along the waymarked trail. It's about a 6 mile walk to the site from the seafront.At Great Yarmouth you can pick up the Weavers' Way and follow it along the other side of Breydon Water. It will take you to Berney Marshes where there are nice views back across the river to Burgh Castle.If you head south along the Angles Way riverside path it will take you to Belton and then on to Fritton Lake Country Park where you will find nice cycling and walking trails around a large lake. To the west there's the worthy village of Loddon where you'll find an 18th century mill, a 15th century church and some lovely trails along the River Chet to Hardley Marshes. For more walking ideas in the area see the Norfolk Broads Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6VYQ90Lodtg",
   "postcode": "NR31 9QF",
   "district": "Burgh Castle",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

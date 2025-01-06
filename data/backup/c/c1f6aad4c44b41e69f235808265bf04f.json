@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:23:11.105266+00:00",
   "objectID": "c1f6aad4c44b41e69f235808265bf04f",
-  "created_at": "2024-12-20T04:46:07.625655+00:00",
   "ref": "thoresby-park-walking-route",
   "title": "Thoresby Park Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Thoresby_Hall_-_geograph.org.uk_-_114513.jpg",
@@ -70,8 +70,23 @@
   ],
   "distance_km": 1.3,
   "description": "This walk visits the lovely Thoresby Park in Nottinghamshire. There's 1000 acres to explore with a museum, Victorian Courtyard and gallery to see as well. In the park you can enjoy woodland, gardens, a lake and views of the River Meden which runs through the estate. There's waymarked circular walks which are fully accessible, taking you around the woods to St John's church. There's also cycle trails with electric bike hire available on site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Courtyard Coffee Shop is the ideal place to relax for refreshments after your exercise. There are also picnic areas if you wish to bring your own food with you."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive parkland and woodland makes for a fine dog walk, though you are asked to keep them on leads. Bins are dotted around the estate."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area just head a mile south of the park to visit Sherwood Forest Country Park. Here you'll find miles of waymarked cycling and walking trails with a decent visitor centre and cafe. You could pick up the Robin Hood Way which runs to the north of the estate. This long distance waymarked footpath will take you to the forest. Just to the north there's the popular Clumber Park. The National Trust run property includes over 3,800 acres of woodland, open heath and rolling farmland.  Just to the south east is the International Outdoor Adventure Activity Centre at Walesby Forest and the worthy village of Laxton. It's a historic place and significant as being England\u2019s Last Open Field Village. You can visit the 12th century church, the Norman Motte and find out all about the area's history in the local visitor centre. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/d-brlyrKRFg",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

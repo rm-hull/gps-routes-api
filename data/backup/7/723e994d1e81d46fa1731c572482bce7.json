@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:58:24.815352+00:00",
   "objectID": "723e994d1e81d46fa1731c572482bce7",
-  "created_at": "2024-12-18T23:07:28.484557+00:00",
   "ref": "henllan-walking-route",
   "title": "Henllan Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Llindir_Street%2C_Henllan_-_geograph.org.uk_-_2304943.jpg/256px-Llindir_Street%2C_Henllan_-_geograph.org.uk_-_2304943.jpg",
@@ -42,10 +42,21 @@
     }
   ],
   "distance_km": 6.0,
-  "description": "The village of Henllan is located near the town of Denbigh in the Welsh county of Denbighshire.  There's some nice country trails, an old church, a historic ruined house and a noteworthy 13th century inn for refreshments after your exercise. This walk from the village takes you through the countryside to visit one of the historical highlights of the area at Foxhall Newydd. This interesting old country house is Grade I listed and located just to the south east of the settlement. At the site you can see the ruins of the unfinished house which dates all the way back to the late 16th century. After admiring the photogenic ruins you can then follow footpaths south towards Glan Meerchior. Here you turn west and then north to return to the village.",
+  "description": "The village of Henllan is located near the town of Denbigh in the Welsh county of Denbighshire. There's some nice country trails, an old church, a historic ruined house and a noteworthy 13th century inn for refreshments after your exercise. This walk from the village takes you through the countryside to visit one of the historical highlights of the area at Foxhall Newydd. This interesting old country house is Grade I listed and located just to the south east of the settlement. At the site you can see the ruins of the unfinished house which dates all the way back to the late 16th century. After admiring the photogenic ruins you can then follow footpaths south towards Glan Meerchior. Here you turn west and then north to return to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Llindirinn Inn is a historic pub of some note. The ancient thatched inn dates back to 1229 and serves good quality dishes. You can find them at postcode LL16 5BH for your sat navs. The inn is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You could extend the walk by continuing south east into Denbigh. Here you can explore the interesting 13th century castle which includes a drawbridge into a triple-towered gatehouse and portcullis. For fine views over the area head west to Moel Fodiar which stands at a height of 390 metres."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/G72FAHy2Ztw",
   "district": "Henllan",
   "county": "Sir Ddinbych - Denbighshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

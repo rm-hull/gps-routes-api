@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:19:33.626428+00:00",
   "objectID": "c2ae751a35f7d8c74e3e1b0690be3acc",
-  "created_at": "2024-12-18T01:27:43.551213+00:00",
   "ref": "kelvin-walkway-walking-route",
   "title": "Kelvin Walkway Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/River_Kelvin_Walkway_-_geograph.org.uk_-_1516176.jpg",
@@ -85,10 +85,21 @@
   ],
   "distance_km": 14.0,
   "description": "This walk follows the River Kelvin from Milngavie to the Glasgow Heliport on the River Clyde. The walk was created to form a 'green link' from the countryside to the parks, museums, galleries and historical/cultural landmarks in Glasgow. The walk runs through Kelvinside, Kelvingrove Park and Yorkhill with fine views of Glasgow University. The walk links with the Forth and Clyde Canal at the Kelvin Aqueduct so you could enjoy a canalside stroll here too. At the start of the route there are nice walks to be found around Milngavie Reservoir and Mugdock Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Dawsholm Park you'll pass Lock 27 where you'll find a nice canalside pub. There's an outdoor seating area right next to the water with lovely views. It's a great place to stop and relax during the summer months. The pub also has a good menu, a fine looking modern interior and is also dog friendly. You can find it right next to the canal in Anniesland at postcode G13 1JT. You could also leave the canal here and enjoy a stroll around the adjacent Dawsholm Park. The park covers an area of 81.5 acres, and consists mostly of woodland, with some grass and wildflower meadows in the southeast area of the park.  For a classic old pub in the city head to The Old Toll Bar in Kinning Park. This 19th century pub has a wonderfully restored interior with ornate wood panelling, antique photography, decorative mirrors and hand-painted stained glass windows. The place is very friendly and full of character and charm. You can find the pub on the southern side of the river in Kinning Park at 1 Paisley Rd West, with a postcode of G51 1LF for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Glasgow cathedral next to the river you could pick up the popular Glasgow Murals Trail which showcases the talent of local artists. Many of the murals are large, wonderful creations covering an entire side of a building. It's an impressive sight and a must do attraction for lovers of art and walking. Near Milngavie you could take a small detour east to visit the tranquil Bardowie Loch. The Clyde Walkway is another great waterside option in the city centre. This will take you to Strathclyde Loch Country Park, Chatelherault Country Park and the photogenic ruins of the historic 13th century Bothwell Castle. The epic West Highland Way starts in Milngavie. You could pick up the waymarked trail and follow it north to Craigallian Loch and Carbeth Loch on the Milngavie to Drymen Walk."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/dHqoFaOLv38",
   "postcode": "G62 8BT",
   "district": "Milngavie",
   "county": "East Dunbartonshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

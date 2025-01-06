@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:25:46.594656+00:00",
   "objectID": "ac1636a83b832924905c21cc693acd2b",
-  "created_at": "2024-12-18T00:00:36.250150+00:00",
   "ref": "hargate-forest-walking-route",
   "title": "Hargate Forest Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Gated_entrance_to_Hargate_Forest_-_geograph.org.uk_-_1056734.jpg",
@@ -50,9 +50,24 @@
   ],
   "distance_km": 3.0,
   "description": "These peaceful woods are located on the edge of Tunbridge Wells. There's a series of footpaths taking you around the site which includes a mixture of broadleaf and conifer woodland. The area is good for widlife spotting with lots of woodland birds and the possibility of spotting fallow or roe deer. Tunbridge Wells West train station is a short walk from the woods so you can easily come by public transport.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bull is a charming pub located very close to the forest. They do very good food and also have a nice outdoor area for warmer weather. You can find the pub just to the north of the woods at 79 Frant Road with a postcode of TN2 5LH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are ideal for a dog walk and you'll probably see other owners on a fine day. The Bull pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north of the woods and you can visit Tunbridge Wells Common. The expansive common includes woodland, heathland, ponds and a variety of wildlife. You can also pick up the Tunbridge Wells Circular Walk and the High Weald Landscape Trail in the area. The waymarked trails are a good way of exploring the lovely High Weald AONB."
+    }
+  ],
   "postcode": "TN2 5TF",
   "district": "Royal Tunbridge Wells",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

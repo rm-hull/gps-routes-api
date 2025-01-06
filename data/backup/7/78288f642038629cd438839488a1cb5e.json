@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:12:37.304977+00:00",
   "objectID": "78288f642038629cd438839488a1cb5e",
-  "created_at": "2024-12-18T09:44:19.720941+00:00",
   "ref": "moncrieffe-hill-walking-route",
   "title": "Moncrieffe Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Moncrieffe-Perth.jpg/512px-Moncrieffe-Perth.jpg",
@@ -9,6 +9,11 @@
       "description": "Scone Palace",
       "objectID": "9a23bf55cf2663dcca4ca719f273d2b5",
       "ref": "scone-palace-walking-route"
+    },
+    {
+      "description": "River Earn Walk",
+      "objectID": "86c481aaa62b733223952fed9bbaadc9",
+      "ref": "river-earn-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/78288f642038629cd438839488a1cb5e.gpx",
@@ -35,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Looking_Across_Baiglie_Farm_-_geograph.org.uk_-_159028.jpg",
       "title": "Colin Inverarity / Looking Across Baiglie Farm, via Wikimedia Commons",
-      "caption": "Looking Across Baiglie Farm. Looking across the valley of the River Earn to the ridge of Moncrieffe Hill."
+      "caption": "Looking Across Baiglie Farm. Looking across the valley of the River Earn Walk to the ridge of Moncrieffe Hill."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Trig_Point_on_top_of_Moncreiffe_Hill_-_geograph.org.uk_-_1475947.jpg",
@@ -59,9 +64,11 @@
     }
   ],
   "distance_km": 6.0,
-  "description": "This large area of woodland near Perth has miles of nice walking trails and some moderate hill climbs to try. There's lots to see including a nice family sculpture trail. Here you'll find pieces including dragonflies, swinging bees, a wooden bench shaped like a slug and a deer made of metal. There's also lots of wildlife to see on the site. Look out for birds such as great-spotted woodpecker and buzzard, as you make your way through the woods. You can start the walk from the parking area at Wallacetown Wood at the eastern end of the woods. From here you can pick up the woodland footpaths heading west up to Moncrieffe Hill.  The summit area, which is known as Moredun Top, is clear and provides fine views over Perth and the Firth of Tay. The route then follows other paths to an Iron Age hill fort and Tarsappie Hill before returning to the car park. To continue your walking in the Perth area head to the nearby Scone Palace. There's miles of nice trails to try around the extensive grounds and beautiful gardens here.",
+  "description": "This large area of woodland near Perth has miles of nice walking trails and some moderate hill climbs to try. There's lots to see including a nice family sculpture trail. Here you'll find pieces including dragonflies, swinging bees, a wooden bench shaped like a slug and a deer made of metal. There's also lots of wildlife to see on the site. Look out for birds such as great-spotted woodpecker and buzzard, as you make your way through the woods. You can start the walk from the parking area at Wallacetown Wood at the eastern end of the woods. From here you can pick up the woodland footpaths heading west up to Moncrieffe Hill. The summit area, which is known as Moredun Top, is clear and provides fine views over Perth and the Firth of Tay. The route then follows other paths to an Iron Age hill fort and Tarsappie Hill before returning to the car park. To continue your walking in the Perth area head to the nearby Scone Palace. There's miles of nice trails to try around the extensive grounds and beautiful gardens here.",
+  "details": [],
   "video_url": "https://www.youtube.com/embed/AO5TXm9IYcM",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

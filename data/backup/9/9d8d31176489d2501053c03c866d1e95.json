@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:12:37.250132+00:00",
   "objectID": "9d8d31176489d2501053c03c866d1e95",
-  "created_at": "2024-12-18T04:55:26.367166+00:00",
   "ref": "battlesbridge-walking-route",
   "title": "Battlesbridge Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/Battlesbridge_-_the_%27antiques%27_village_-_geograph.org.uk_-_601586.jpg",
@@ -53,8 +53,19 @@
   ],
   "distance_km": 1.0,
   "description": "This Essex based village has some nice local trails along the River Crouch and a well known antiques centre housed in a picturesque old mill. It's a pleasant place for an easy stroll with nice riverside paths and some interesting old buildings to admire.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Barge Inn is a fine place for some post walk refreshment. They serve good food and have a lovely garden area for warmer days. You can find them at Hawk Hill at postcode SS11 7RE. The pub is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east along the river and you could visit the lovely Marsh Farm Country Park near South Woodham Ferrers. Heading west will take you to Wickford where you can visit the Shotgate Thicket Nature Reserve and the pretty Wick Country Park. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0Jsof51LnZo",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

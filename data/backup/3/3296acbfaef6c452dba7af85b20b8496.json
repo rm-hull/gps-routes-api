@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:15:06.676188+00:00",
   "objectID": "3296acbfaef6c452dba7af85b20b8496",
-  "created_at": "2024-12-18T09:27:10.084274+00:00",
   "ref": "barry-sidings-walking-and-cycle-route",
   "title": "Barry Sidings Mtb and Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Waterfall_into_the_Rhondda%2C_Hopkinstown_-_geograph.org.uk_-_952651.jpg",
@@ -54,9 +54,24 @@
     }
   ],
   "distance_km": 3.5,
-  "description": "This popular country park is located in Trehafod near Pontypridd. It's a great place for mountain bike rides with bike hire and a number of good off road trails. The MTB trails have a great mix for intermediate and advanced riders.  The video below will give you a good idea of the downhill trails you can expect to see at the site. Walkers can also enjoy a network of woodland paths with picturesque waterfalls, streams, ponds and a picnic site. You can start off at the car park at the northern end of the site, just east of Trehafod centre and train station. Trails will then take you south towards Mynydd Gelliwion. At the nothern end of the park there are also some nice trails along the River Rhonnda.",
+  "description": "This popular country park is located in Trehafod near Pontypridd. It's a great place for mountain bike rides with bike hire and a number of good off road trails. The MTB trails have a great mix for intermediate and advanced riders. The video below will give you a good idea of the downhill trails you can expect to see at the site. Walkers can also enjoy a network of woodland paths with picturesque waterfalls, streams, ponds and a picnic site. You can start off at the car park at the northern end of the site, just east of Trehafod centre and train station. Trails will then take you south towards Mynydd Gelliwion. At the nothern end of the park there are also some nice trails along the River Rhonnda.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site cafe next to the car park where you can enjoy a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking and the cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Taff Trail and the Rhymney Valley Ridgeway Walk can be picked up to the east at Pontypridd. The Taff trail is a popular shared cycling and walking route running along the river. Just to the north is Llanwonno where there's some peaceful trails through the St Gwynno Forest. The forest includes a secluded waterfall, a small resevoir and a forestry commission picnic area/car park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/28eRpZbR2_E",
   "county": "Rhondda Cynon Taf - Rhondda Cynon Taf",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

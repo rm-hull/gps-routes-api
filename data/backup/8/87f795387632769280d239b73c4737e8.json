@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T08:50:03.966343+00:00",
   "objectID": "87f795387632769280d239b73c4737e8",
-  "created_at": "2024-12-18T14:11:07.953898+00:00",
   "ref": "ramsholt-walking-route",
-  "title": "Ramsholt Walks Walking Route",
+  "title": "Ramsholt\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ramsholt_Arms_Public_House%2C_Dock_Road_-_geograph.org.uk_-_1803136.jpg/512px-Ramsholt_Arms_Public_House%2C_Dock_Road_-_geograph.org.uk_-_1803136.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/87f795387632769280d239b73c4737e8.gpx",
   "_geoloc": {
@@ -53,10 +53,21 @@
   ],
   "distance_km": 14.0,
   "description": "This walk visits the lovely riverside village of Ramsholt in Suffolk. The village is located in a splendid spot for walks along the River Deben. You can start your walk from the public car park next to Ramsholt Quay and the Ramsholt Arms Public House. From here you can pick up a public footpath heading north along the eastern bank of the river. This will take you past the woodland at the Lodge Plantation before coming to the attractive Shottisham Creek. The route then continues to Stonner Point before finishing at the picturesque Methersgate Quay. You can continue north to Ferry Cliff where you can enjoy views over the river to Woodbridge on the other side. In this area you can also pick up the Sutton Hoo Walk and explore a fascinating Anglo-Saxon burial site run by the National Trust. The River Deben Walk runs along the western bank from Woodbridge to Felixstowe Ferry.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Ramsholt Arms is in a beautiful location for some post walk refreshments. The pub has a lovely south facing terrace where you can sit outside and enjoy a meal with views over the river, the neighbouring beach and the crab fishing jetty. Inside there's an attractive interior with photographs on the walls including details of the crew of a World War Two aeroplane which crashed in the adjacent river whilst making a flight from a nearby airfield. Other pictures are from local artists.  They serve delicious seafood dishes and have a fine selection of drinks. There is a car park which is free for 3 hours. You can find them at postcode IP12 3AB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south east there's neighbouring Bawdsey on the River Deben Peninsula. There's another pretty quay and beach here with a nice coastal path to follow to the nearby Bawdsey Manor. This noteworthy site is where radar research took place early in World War II."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6zppB4x3FRQ",
   "postcode": "IP12 3AB",
   "district": "Ramsholt",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

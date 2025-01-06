@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:33:22.339739+00:00",
   "objectID": "d0ee942ffd995cc9523b5bf9b087cf48",
-  "created_at": "2024-12-19T10:57:04.427224+00:00",
   "ref": "esher-common-walking-and-cycle-route",
   "title": "Esher Common Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Black_Pond_-_geograph.org.uk_-_583532.jpg",
@@ -65,8 +65,23 @@
   ],
   "distance_km": 6.0,
   "description": "Enjoy a cycle or walk around this large open space in Surrey. There are miles of peaceful woodland footpaths and a nice off road cycle track. The route will take you to two large ponds and the nearby Fairmile common. The common is a local nature reserve so look out for a variety of wildlife. If you would like to continue your exercise why not visit the nearby Claremont Park with its beautiful landscaped gardens and the adjacent West End Common. To the south east there's also miles trails around Ashtead Common National Nature Reserve and Epsom Common .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the nearby Prince of Wales pub for some refreshments after your walk. The pub has a lovely garden area which is ideal for warm summer days. It enjoys a lovely setting in West End, a hamlet with little more than a few residential streets and a local farm shop, Garson\u2019s, where you can buy local produce and pick your own fruit and vegetables during the summer months. A large pretty green and duck pond are also just 30 metres away from the pub\u2019s front doors. You can find the pub at 48 West End Lane with a postcode of KT10 8LA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The commons are a popular place for dog walkers so you will probably see plenty of other owners with their pets. The Prince of Wales pub mentioned above is also very dog friendly and even have a little dog menu so your pet can enjoy some dinner with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The common has a couple of good sized car parks. One is at Blackhills just off the A307/Portsmouth road, less then half a mile beyond Claremont landscape gardens on your way to Cobham. There's space for about 20+ cars and it can be found at a postcode of KT10 9JL. There's another slighlty smaller one at Winterhouse Farm at postcode KT10 8LT. Garsons Farm Shop is located very close to the common. The award-winning Garden Centre and Farm Shop is a lovely place to stroll around for a couple of hours. There's also a nice restaurant which offers an alternative to the pub mentioned above. The Oxshott Walk visits the common from the train station in the nearby village. It also visits Oxshott Heath and Woods and Fairmile Common. Oxshott is also notable as being one of the most expensive places to live in the country. Residents include several premier league footballers and tennis player Andy Murray."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RSO-9JQ4Bbw",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

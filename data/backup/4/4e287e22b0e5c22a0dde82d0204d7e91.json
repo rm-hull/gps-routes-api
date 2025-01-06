@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:59:32.425909+00:00",
   "objectID": "4e287e22b0e5c22a0dde82d0204d7e91",
-  "created_at": "2024-12-18T01:29:35.188360+00:00",
   "ref": "bridgewater-way-walking-route",
   "title": "Bridgewater Canal Way Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_Basin_on_Bridgewater_Canal%2C_Runcorn_-_geograph.org.uk_-_650200.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Bridgewater_Canal_-_geograph.org.uk_-_55608.jpg",
       "title": "Keith Williamson / Bridgewater Canal",
-      "caption": "A view to the southeast from the East Lancashire Road. Beyond the canal, on the horizon, the buildings of Manchester city centre can just be made out. ."
+      "caption": "A view to the southeast from the East Lancashire Road. Beyond the canal, on the horizon, the buildings of Manchester city centre can just be made out.."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bridgewater_Canal_-_geograph.org.uk_-_55609.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 61.0,
   "description": "A walk along the Bridgewater canal, through Cheshire, Greater Manchester and on into Lancashire. The route passes Salford, Trafford, Altrincham, Manchester, Warrington and Halton. Along the way you'll pass a series of nice parks including Dunham Massey, Worsley Woods and Sale Water Park. The path also forms part of the longer Cheshire Ring Canal Walk which follows six historic canals through Cheshire, Greater Manchester and Staffordshire. When complete the Bridgewater Way will also be open to cyclists.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route there's lots of good options for a pit stop. In Lymm you could stop off at the Golden Fleece which has a large canalside beer garden. It's a lovely place to sit and watch the boats go by on a summer day. You can find them at a postcode of WA13 0HR. In Warrington The Barn Owl Inn also has a garden right on the banks of the canal. The dog friendly pub can be found at postcode WA13 0SW for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Runcorn you'll find the worthy village of Daresbury. The village is notable as the birthplace of of Alice's Adventures in Wonderland author Lewis Carroll who was born there in 1832. It includes the Lewis Carroll visitor centre where you can learn all about his life and try the 'Lewis Carroll's Boyhood Walk' which runs from Daresbury church to the site of the parsonage, passing through fields and lanes that the young Carroll would have known. It's well worth taking a small detour east from the canal to explore the village."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/5gaYvA8AezE",
   "district": "Runcorn",
   "county": "Halton",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

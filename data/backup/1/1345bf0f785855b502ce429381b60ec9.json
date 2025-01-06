@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:17:52.961259+00:00",
   "objectID": "1345bf0f785855b502ce429381b60ec9",
-  "created_at": "2024-12-18T10:51:59.226324+00:00",
   "ref": "roundhay-park-walking-and-cycle-route",
   "title": "Roundhay Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg/512px-Walled_Garden%2C_Roundhay_Park_%28geograph_4011125%29.jpg",
@@ -48,7 +48,7 @@
     {
       "description": "Bramhope Circular Walk",
       "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope circular-walk-walking-route"
+      "ref": "bramhope\u00a0circular-walk-walking-route"
     },
     {
       "description": "Arthington Viaduct",
@@ -104,10 +104,25 @@
     }
   ],
   "distance_km": 2.5,
-  "description": "Explore 700 acres of parkland, lakes, woodland and gardens in one of the largest parks Britain. A number of well laid out footpaths run through the park making it ideal for an afternoon stroll.  Most of the route below is designed for walkers but National Cycle Network route 677 also runs through the park so you can bring your bike too. The park has one smaller lake (Upper Lake) and one large lake (Waterloo Lake) with waterside walking and cycling paths. There's also large areas of woodland and a number of pretty gardens to explore. The Alhambra Garden has a pond with a pretty  fountain and the Canal Gardens feature flower gardens alongside a long canal. Another major attraction is the splendid Tropical World. This large group of glasshouses holds the largest collection of tropical plants in the UK outside of Kew Gardens.  There's also a butterfly house, aquariums, free roaming birds and reptiles, plus an enclosed group of meerkats. The park is also great for birdwatching - look out for Mute Swans, Whooper Swans, Herons, Great Crested Grebes, Common Warblers, and Woodpeckers. If you'd like to continue your walking in the area then you could head to the nearby Eccup Reservoir, Adel Woods or Golden Acre Park for more great waterside walking trails. Just a mile to the south west you'll find the pretty Gledhow Valley Woods. Here you'll find a lovely 1 mile trail running along the Gledhow Beck and around Gledhow Lake. Roundhay Park is located just to the east of Leeds city centre.",
+  "description": "Explore 700 acres of parkland, lakes, woodland and gardens in one of the largest parks Britain. A number of well laid out footpaths run through the park making it ideal for an afternoon stroll. Most of the route below is designed for walkers but National Cycle Network route 677 also runs through the park so you can bring your bike too. The park has one smaller lake (Upper Lake) and one large lake (Waterloo Lake) with waterside walking and cycling paths. There's also large areas of woodland and a number of pretty gardens to explore. The Alhambra Garden has a pond with a pretty fountain and the Canal Gardens feature flower gardens alongside a long canal. Another major attraction is the splendid Tropical World. This large group of glasshouses holds the largest collection of tropical plants in the UK outside of Kew Gardens. There's also a butterfly house, aquariums, free roaming birds and reptiles, plus an enclosed group of meerkats. The park is also great for birdwatching - look out for Mute Swans, Whooper Swans, Herons, Great Crested Grebes, Common Warblers, and Woodpeckers. If you'd like to continue your walking in the area then you could head to the nearby Eccup Reservoir, Adel Woods or Golden Acre Park for more great waterside walking trails. Just a mile to the south west you'll find the pretty Gledhow Valley Woods. Here you'll find a lovely 1 mile trail running along the Gledhow Beck and around Gledhow Lake. Roundhay Park is located just to the east of Leeds city centre.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes a delightful on site cafe located next to Waterloo Lake. It's a splendid place to relax with fine views over the water. The Stew and Oyster is located at the southern end of the park and a popular place to go for park visitors. The pub has an attractive interior with a cosy fire. There's also a nice outdoor area for warmer days. They do great warming stews with delicious fresh oysters so it's a little bit out of the ordinary. You can find it at 488 Roundhay Road with a postcode of LS8 2HU for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "With miles of paths through parkland and woodland the expansive park is a great place for a dog walk. The Stew and Oyster mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east you can explore the villages of Barwick-in-Elmet and Thorner. Here you could visit Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6rfNsm1UjQs",
   "postcode": "LS8 2EP",
   "district": "Leeds",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

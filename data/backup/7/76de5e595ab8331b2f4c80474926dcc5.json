@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:03:10.814609+00:00",
   "objectID": "76de5e595ab8331b2f4c80474926dcc5",
-  "created_at": "2024-12-19T19:35:34.702980+00:00",
   "ref": "loch-freuchie-walking-route",
   "title": "Loch Freuchie Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Loch_Freuchie_-_geograph.org.uk_-_1558426.jpg",
@@ -75,8 +75,15 @@
   ],
   "distance_km": 5.0,
   "description": "This walk visits Loch Freuchie in Glen Quaich in Perth and Kinross. The large freshwater loch is also known as Fraoch, the heatherly loch. On the western side of the water there's a nice country lane which you can walk or cycle along. There's fine views over the water to the surrounding hills, countryside and woodland. The loch is also popular with trout-fishing enthusiasts.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's more nice waterside trails to be found at Loch Turret Reservoir. There is a challenging circular walk which continues up to Ben Chonzie here. Head east and there's the popular Loch of the Lowes near Dunkeld. For more walking ideas in the area see the Loch Lomond and the Trossachs Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/t1iEMeW93-g",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

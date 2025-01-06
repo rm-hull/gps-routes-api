@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:08:32.116635+00:00",
   "objectID": "dac5ae849b40e3277dd77575358e9425",
-  "created_at": "2024-12-18T10:07:14.533795+00:00",
   "ref": "arrow-valley-country-park-walking-and-cycle-route",
   "title": "Arrow Valley Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Arrow_Valley_Country_Park%2C_Redditch_-_geograph.org.uk_-_131481.jpg",
@@ -44,7 +44,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/59/Arrow_Valley_Country_Park%2C_Redditch_-_geograph.org.uk_-_131481.jpg",
-      "title": "peter lloyd / Arrow Valley Country  Park, Redditch",
+      "title": "peter lloyd / Arrow Valley Country Park, Redditch",
       "caption": "Walkers in Arrow Valley Country Park, Redditch. This is a linear country park that runs through the heart of Redditch New town area, with a large lake, recreation areas, walking paths and lots of wide open green space."
     },
     {
@@ -65,9 +65,24 @@
   ],
   "distance_km": 6.0,
   "description": "Enjoy waterside cycling and walking in this splendid country park in Redditch. The park includes the large Arrow Valley Lake and the River Arrow with walking and cycling trails running alongside both. With 900 acres to explore on four waymarked trails there is plenty to see and do in the park. The Miller's trail runs up to Forge Mill Needle Museum in the north end of the park, and there is a Woodland Trail going to the south end of the park. There's also an excellent visitor centre and cafe with panoramic views across Arrow Valley Lake. National Cycle Network Route number 5 also runs through the park so you could continue your ride towards Stratford-Upon-Avon. You could reach the park by following the Miller's Trail from the 12th century Bordesley Abbey on our Redditch Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes a fine on site cafe with a good range of meals and snacks to enjoy."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walking so you'll probably meet other owners on your visit. You are asked to please keep them on a lead within the park."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Coughton Court is another local highlight and well worth a visit. Here you'll find a Tudor court with lovely gardens and walks along the River Arden. The 19th century Studley Castle can also be found in this area. Just to the north you can enjoy more waterside walking along the Bittell Reservoirs near Alvechurch. On the eastern side of the reservoirs you can also pick up the towpath of the Worcester and Birmingham Canal. Just to the east there's the neighbouring village of Tanworth-in-Arden. Here you can enjoy a circular walk around the grounds of the 17th century Umberslade Hall. The village itself is also worth exploring with its picturesque village green and 14th century church For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/D0-Mfn4Ykh0",
   "district": "Redditch",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

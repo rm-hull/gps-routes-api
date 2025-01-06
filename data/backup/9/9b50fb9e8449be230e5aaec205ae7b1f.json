@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:30:34.993229+00:00",
   "objectID": "9b50fb9e8449be230e5aaec205ae7b1f",
-  "created_at": "2024-12-18T19:45:32.228070+00:00",
   "ref": "pegwell-bay-country-park-walking-and-cycle-route",
   "title": "Pegwell Bay Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Chalk_Cliffs%2C_Pegwell_Bay_-_geograph.org.uk_-_1546406.jpg",
@@ -90,10 +90,25 @@
   ],
   "distance_km": 4.0,
   "description": "This park is located near Ramsgate and has splendid views over Pegwell Bay and Sandwich Bay. In the bay is a large nature reserve, known for its migrating waders and wildfowl. A local cycle route runs right through the park so you can take your bike. To extend your walking in the Ramsgate area you can pick up the Thanet Coastal Path and enjoy a splendid coastal walk from Ramsgate to Margate. The Sandwich Walk visits the River Stour and the ancient Roman amphitheatre at Richborough Castle.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe where you can pick up refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The epic Viking Coastal Trail passes the park. The Sustrans signed cycling trails is a great way to extend your exercise in the area. You could follow it to another of the highlights of the area at Reculver Country Park. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9cSktmSeJos",
   "postcode": "CT12 5JB",
   "district": "Cliffs End",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

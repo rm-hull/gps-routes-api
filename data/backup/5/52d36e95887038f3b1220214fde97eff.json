@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:17:13.368037+00:00",
   "objectID": "52d36e95887038f3b1220214fde97eff",
-  "created_at": "2024-12-18T11:26:42.210665+00:00",
   "ref": "button-oak-walking-route",
   "title": "Button Oak Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Looking_towards_the_back_of_the_Button_Oak_pub_-_geograph.org.uk_-_1855602.jpg",
@@ -43,8 +43,23 @@
   ],
   "distance_km": 2.0,
   "description": "This circular walk visits the village of Button Oak in the Wyre Forest near Bewdley. The area includes the Button Oak Meadow nature reserve where you'll find some pleasant woodland trails with lots of flora and fauna to see. Keep your eyes peeled for wildlife like deer, squirrels and various woodland birds. You can start your walk from the car park opposite the meadow. Then follow the trails heading west into the peaceful woodland.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Button Oak Inn is located in the village and a nice place for refreshments after your exercise. You can enjoy a good meal in the spacious garden area if the weather is good."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are great for dog walking. You are requested to keep them on leads in the Button Oak Meadow nature reserve area. The inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and there's some nice waterside trails along the River Severn on the Severn Way. Trimpley Reservoir is also located in this area. For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "district": "Buttonoak",
   "county": "Shropshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

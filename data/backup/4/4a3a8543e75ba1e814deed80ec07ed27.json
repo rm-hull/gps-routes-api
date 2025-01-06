@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:17:52.006012+00:00",
   "objectID": "4a3a8543e75ba1e814deed80ec07ed27",
-  "created_at": "2024-12-18T10:03:27.192822+00:00",
   "ref": "whitby-to-staithes-walking-route",
   "title": "Whitby to Staithes Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Whitby_Abbey_08.jpg/512px-Whitby_Abbey_08.jpg",
@@ -34,12 +34,12 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Whitby_Abbey_08.jpg/512px-Whitby_Abbey_08.jpg",
-      "title": "By Glen Bowman from Newcastle, England (Whitby 09-08-2007 13-06-30) [CC BY 2.0   (https://creativecommons.org/licenses/by/2.0 )], via Wikimedia Commons",
+      "title": "By Glen Bowman from Newcastle, England (Whitby 09-08-2007 13-06-30) [CC BY 2.0  (https://creativecommons.org/licenses/by/2.0 )], via Wikimedia Commons",
       "caption": "Whitby Abbey"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sandsend_Ness_View_-_geograph.org.uk_-_466835.jpg",
-      "title": "Scott Rimmer [CC BY-SA 2.0   (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
+      "title": "Scott Rimmer [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
       "caption": "Sandsend Ness View"
     },
     {
@@ -75,9 +75,20 @@
   ],
   "distance_km": 17.8,
   "description": "Follow the Cleveland Way from Whitby to Staithes on this walk along the North Yorkshire Coast. The walk is just over 11 miles with spectacular coastal scenery, cliff top views, pretty beaches and lovely fishing villages to see on the way. Starting at the striking ruins of Whitby Abbey the walk heads north west to Sandsend. You'll pass along the lovely beaches at Whitby Sands, Upgang Beach and Sandsend Beach. Here you can take a slight detour away from the coast by heading into Mulgrave Woods. There's nice peaceful trails to follow around this site with becks, waterfalls and the interesting ruins of Mulgrave Castle. You continue past Kettleness to the noteworthy Runswick Bay. The picture postcard fishing village is a highlight of the Yorkshire coast with its sandy beach, sheltered bay and pretty little cottages. The final section takes you past Hinderwell and Port Mulgrave where you will pass Rosedale Cliffs. Shortly after you come into Staithes, passing along the attractive harbour before finishing at Staithes Beck. The area is well known for its geology with Jurassic (Lias), strata cliffs and fossils of ammonites to be found at nearby Port Mulgrave. There's also a number of fine pubs where you can refresh yourself after the walk. To extend the walk you can continue along the Cleveland Way to Skinningrove where the ruined remnants of the old mines can be seen from the cliff top.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the walk in Staithes head to the famous Cod and Lobster for some well earned refreshments. The pub is in a great location right next to the harbour where you can sit outside and enjoy sea views with your fish and chips. Indoors there's old photos displaying the history of the area including the violent storms that have visited this little village. You can easily find it on the High Street at a postcode of TS13 5DF for you sat navs. The pub is also very dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Runswick Bay to Kettleness Circular Walk will take you to Kettleness on the cliff top path before returning along an inland dismantled railway line."
+    }
+  ],
   "postcode": "YO22 4JR",
   "district": "Whitby",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

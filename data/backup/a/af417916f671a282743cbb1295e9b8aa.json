@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:14:40.049935+00:00",
   "objectID": "af417916f671a282743cbb1295e9b8aa",
-  "created_at": "2024-12-19T19:54:45.287183+00:00",
   "ref": "st-marys-coast-path---isles-of-scilly-walking-route",
   "title": "St Mary's Coast Path - Isles of Scilly Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Innisidgen_Carn%2C_Upper_Chamber_%28geograph_3446151%29.jpg/512px-Innisidgen_Carn%2C_Upper_Chamber_%28geograph_3446151%29.jpg",
@@ -50,8 +50,15 @@
   ],
   "distance_km": 14.0,
   "description": "Follow the beautiful coast path around St Mary's - the largest of the Isles of Scilly. You will pass lovely beaches, picturesque harbours and rocky clifftops as you make your way around the island's perimeter. There's also some history with a visit to the Woolpack Battery and Garrison Walls. To continue your walking around the Scilly Isles head to the beautiful Tresco Abbey Gardens .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2OIHyLFQ6NA",
   "county": "Isles of Scilly",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

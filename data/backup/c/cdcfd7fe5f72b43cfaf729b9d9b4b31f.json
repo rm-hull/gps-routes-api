@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:31:49.920543+00:00",
   "objectID": "cdcfd7fe5f72b43cfaf729b9d9b4b31f",
-  "created_at": "2024-12-18T09:34:48.080176+00:00",
   "ref": "tinto-hill-walking-route",
   "title": "Tinto Hill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Car_park_at_Fallburn_-_geograph.org.uk_-_1257759.jpg",
@@ -39,6 +39,11 @@
       "description": "Talla Reservoir",
       "objectID": "2ad88b8bc504d82ddacc439d08dc7ff0",
       "ref": "talla-reservoir-walking-route"
+    },
+    {
+      "description": "Carmichael Estate",
+      "objectID": "ce84fe2be22ad7a522bdfbdec926ee30",
+      "ref": "carmichael-estate-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cdcfd7fe5f72b43cfaf729b9d9b4b31f.gpx",
@@ -90,9 +95,24 @@
   ],
   "distance_km": 6.4,
   "description": "This popular walk climbs to Tinto Hill in the Southern Uplands of Scotland. You can start the walk from the Tinto Hill car park just to the south west of Thankerton at Fallburn. The postcode is ML12 6PD for your sat navs. From here you can pick up footpaths heading south to Totherin Hill and Tinto Hill which stands at a height of 711 m (2,333 ft). At the summit you'll find the noteworthy \"Tinto Cairn\". With a diameter of 45 m (148 ft) and a height of 6 m (20 ft) it is one of the largest Bronze Age round cairns in Scotland. From here there are magnificent views over the surrounding hills and countryside. After taking in the views you then descend on the same paths back to the car park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Tinto Hill Tearoom is located very close to the start of the walk near the car park. The walker friendly tea room serves a delicious range of snacks and meals. It's the ideal place to warm up and rest after your exercise. You can find them on Carlisle Road, Thankerton, Biggar ML12 6PD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The walk is a good one for fit dogs and the tea rooms mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles north west and you could enjoy a somewhat easier walk around Lanark Moor Country Park. Here there's a nice circular walk around the pretty Lanark Loch to enjoy. The Falls of Clyde Nature Reserve is also nearby. Here you can enjoy woodlands, waterfalls and a walk along the River Clyde. You can also pick up the Clyde Walkway here. To the south east there's some fine waterside walking at Megget Reservoir, Talla Reservoir, Camps Reservoir and St Mary's Loch to enjoy. Head north and there's the historic Carmichael Estate to explore. Covering over 2,000 acres, the estate has been home to the Carmichael family for over 800 years, with remnants of their ancestral history scattered throughout the landscape."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bkf32hxfQyA",
   "postcode": "ML12 6PD",
   "county": "South Lanarkshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

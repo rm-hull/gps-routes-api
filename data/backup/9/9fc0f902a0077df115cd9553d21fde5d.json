@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:41:17.735421+00:00",
   "objectID": "9fc0f902a0077df115cd9553d21fde5d",
-  "created_at": "2024-12-21T20:11:37.219083+00:00",
   "ref": "bristol-triangular-city-walk-walking-route",
   "title": "Bristol Triangular City Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/River_Avon%2C_Bristol_-_geograph.org.uk_-_1963094.jpg/512px-River_Avon%2C_Bristol_-_geograph.org.uk_-_1963094.jpg",
@@ -55,9 +55,15 @@
   ],
   "distance_km": 29.0,
   "description": "This walk takes you on a tour of this fascinating and historical city, visiting several famous landmarks on the way. It was devised by the Bristol Ramblers and offers wonderful views of the city exploring the Waterfront, Durdham and Clifton Downs, Clifton Suspension Bridge, Avon Gorge and Blaise Castle Estate. Highlights on the route include a waterside section along the River Avon with fabulous views of the stunning Avon Gorge. Also of interest is the 18th century mansion and estate at Blaise Castle. Blaise Castle was immortalised when described as 'the finest place in England' in Jane Austen's Northanger Abbey. The walk also includes a section through the impressive Henbury golf course and the attractive Clifton and Durdham Downs. The walk is easily accessible, starting and finishing at Bristol Temple Meads railway. To continue your walking around Bristol try our Bristol Circular River Walk. It visits several of the highlights of the city, including Temple Church, Castle Park, the SS Great Britain, Britol's Floating Harbour, Cabot Tower and Bristol Cathedral. There's also the popular Bristol and Bath Railway Path which runs along a shared cycling and walking trail.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/9fc0f902a0077df115cd9553d21fde5d.gpx",
-  "_geoloc": {
-    "lat": 51.4487603279,
-    "lng": -2.5839391276
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route we recommend stopping at the Clifton Observatory on the eastern side of the Clifton Suspension Bridge. Here you can enjoy refreshments in the 360 cafe which offers fine views over the Avon Gorge and the city of Bristol. There's also an interesting museum and one of only three of the UK's working camera obscuras."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Gloucestershire Walks page."
+    }
+  ],
+  "gazetteer_found": false
 }

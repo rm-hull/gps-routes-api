@@ -144,8 +144,7 @@ class DetailExtractor:
                     }
                 )
 
-        if sections:
-            self.result["details"] = sections
+        self.result["details"] = sections
 
 
 def sanitize_text(text: str) -> str:
@@ -153,8 +152,7 @@ def sanitize_text(text: str) -> str:
         text.replace(" , ", ", ")
         .replace(" . ", ". ")
         .replace("\n", " ")
-        .replace("\\u00a0", " ")
-        .replace("\u00a0", " ")
+        .replace("\ ", " ")
         .replace(" ", " ")
         .replace("  ", " ")
         .strip()

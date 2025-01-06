@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:06:37.654150+00:00",
   "objectID": "372221477988ddbd0048f803a3a3bc51",
-  "created_at": "2024-12-18T11:32:21.563986+00:00",
   "ref": "lodmoor-country-park-walking-and-cycle-route",
   "title": "Lodmoor Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Lodmoor_Nature_Reserve_-_geograph.org.uk_-_147849.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 3.5,
   "description": "Enjoy a peaceful walk around this country park and nature reserve in Weymouth. The park has a host of facilities with a cafe, outdoor gym, go karts, model railway, circular tree trail and pitch and putt golf course. The adjacent nature reserve has an easy access walking path taking you through various habitats including reedbed, open water, saltmarsh and wet grassland. The reserve attracts a wide variety of birdlife with Cetti's warbler and Little Egrets common visitors. A cycle path runs through part of the park and the south side of the nature reserve. Just a mile to the west there's another fine nature reserve at the RSPB's Radipole Lake. There's views of the River Wey, pleasant lakeside trails and the opportunity to pick up the Rodwell Trail here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is a small on site cafe and the Lodmoor pub for post exercise refreshments."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a pleasant place for a dog walk. You will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The South West Coast Path passes the park. You could pick up the trail and head east to climb up to the Osmington White Horse where there are some wonderful views over the area. Just to the south you can explore the Isle of Portland on our long circular walk. The route visits the famous Portland Bill lighthouse where you can enjoy a cream tea in the Lobster Pot restaurant. You'll also pass the Portland Quarry on the route. Here you will find the noteworthy Tout Quarry Sculpture Park, a popular attraction on the island. The site includes many interesting sculptures by artist's such as Anthony Gormley. There's also a nature reserve with lots of interesting wildflowers and butterflies."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/SjmRgK5EAvg",
   "postcode": "DT4 7TL",
   "district": "Weymouth",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

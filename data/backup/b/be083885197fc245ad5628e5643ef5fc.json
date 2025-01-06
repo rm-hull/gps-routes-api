@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:49:45.395235+00:00",
   "objectID": "be083885197fc245ad5628e5643ef5fc",
-  "created_at": "2024-12-19T20:31:21.534159+00:00",
   "ref": "foss-walk-walking-route",
   "title": "River Foss Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/River_Foss%2C_York.jpg/512px-River_Foss%2C_York.jpg",
@@ -74,7 +74,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Footbridge_over_the_River_Foss_-_geograph.org.uk_-_426755.jpg",
-      "title": "Robert  Neilson / Footbridge over the River Foss",
+      "title": "Robert Neilson / Footbridge over the River Foss",
       "caption": "Footbridge over the River Foss. Taken from the footbridge over Black Dike, as it crosses Foss Walk and Ebor Way, the structure visible in mid ground is the footbridge where the trails cross the river. To the left a signpost is visible and this is the point where the Centenary Way, which has followed the Northwestern bank of the river Foss, joins the Foss Walk and Ebor Way, which continues to the North, beyond the belt of riverside trees."
     },
     {
@@ -85,8 +85,19 @@
   ],
   "distance_km": 45.0,
   "description": "Follow the River Foss, from the historic city of York to Easingwold, on this lovely riverside walk through Yorkshire. You will pass several pretty villages including Strensall, Sheriff Hutton, Haxby Crayke and Oulston. The route links with the Ebor Way and the Centenary Way near Strensall.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Crayke the Durham Fox is well worthy of consideration. The historic pub dates back over 300 years and includes a charming olde worlde interior with flag stone floors, exposed beams, oak panelling and roaring fires in winter. You can find them on West Way with a postcode of YO61 4TE. The village also includes some fine old buildings including a 15th century castle. In Sheriff Hutton there's The Highwayman. They serve good quality dishes which you can enjoy in the lovely garden area. You can find them on The Square at postcode YO60 6QZ. The village is also worth exploring with a Grade I listed 12th century church and a photogenic ruined castle dating from a similar period."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Howardian Hills Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/tDXpaCP0gfo",
   "county": "York",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

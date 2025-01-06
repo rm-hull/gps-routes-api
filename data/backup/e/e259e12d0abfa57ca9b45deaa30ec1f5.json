@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:02:52.267720+00:00",
   "objectID": "e259e12d0abfa57ca9b45deaa30ec1f5",
-  "created_at": "2024-12-21T14:11:25.749033+00:00",
   "ref": "green-london-way-walking-route",
   "title": "Green London Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wimbledon_Common_-_geograph.org.uk_-_1339745.jpg",
@@ -45,7 +45,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/Hampstead_Heath_-_geograph.org.uk_-_1003989.jpg",
       "title": "Martin Addison / Hampstead Heath",
-      "caption": "Hampstead Heath. Ladies talk while walking their dogs on a bright autumn morning. This ancient heath sits astride a sandy ridge, one of the highest points in London, running from Hampstead to Highgate, which rests on a band of London Clay. The heath is rambling and hilly, embracing ponds, recent and ancient woodlands, a lido, playgrounds, and a training track, and it adjoins the former stately home of Kenwood House and its estate. The south-east part of the heath is Parliament Hill, from which the view over London is protected by law. Running along its eastern perimeter is a chain of ponds \u2013 including three open-air public swimming pools \u2013 which were originally reservoirs for drinking water from the River Fleet."
+      "caption": "Hampstead Heath. Ladies talk while walking their dogs on a bright autumn morning. This ancient heath sits astride a sandy ridge, one of the highest points in London, running from Hampstead to Highgate, which rests on a band of London Clay. The heath is rambling and hilly, embracing ponds, recent and ancient woodlands, a lido, playgrounds, and a training track, and it adjoins the former stately home of Kenwood House and its estate. The south-east part of the heath is Parliament Hill, from which the view over London is protected by law. Running along its eastern perimeter is a chain of ponds – including three open-air public swimming pools – which were originally reservoirs for drinking water from the River Fleet."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Richmond_Park_-_geograph.org.uk_-_2026163.jpg/512px-Richmond_Park_-_geograph.org.uk_-_2026163.jpg",
@@ -80,10 +80,16 @@
   ],
   "distance_km": 161.0,
   "description": "Explore the best and most beautiful of London's open spaces on this circular walk through the capital. The route has been split up into 18 sections as follows: 1. Stratford to North Woolwich 2. Abbey Wood and Shooters Hill 3. Woolwich to Greenwich 4. Greenwich to Forest Hill 5. Forest Hill to Crystal Palace 6. Crystal Palace to Balham 7. Balham to Wimbledon 8. Wimbledon to Richmond 9. Richmond to Kew Bridge 10. Kew Bridge to Hanwell 11. Hanwell to Greenford 12. Greenford to South Kenton 13. South Kenton to Brent Cross 14. Brent Cross to Hampstead 15. Hampstead to Finsbury Park 16. Finsbury Park to Clapton 17. Clapton to Victoria Park 18. Victoria Park to Stratford You'll pass a series of delightful parks including Wimbledon Common, Richmond Park, Hampstead Heath and Kew Gardens. There are also waterside sections along the River Thames and the Brent River to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Hampstead, one noteworthy place worth consideration is The Spaniards Inn. The pub dates from 1585 and has some interesting literary connections. John Keats apparently penned Ode to a Nightingale in the garden and the pub is also mentioned in Charles Dickens’ Pickwick Papers. There's an attractive interior with oak-panelled walls, chandeliers, beams and log fires. Outside there's a nice garden with a BBQ on warmer days. You can find the inn on Spaniards Road at the north western end of the heath. Postcode for your sat nav is NW3 7JJ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/y5XMv8xgocE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e259e12d0abfa57ca9b45deaa30ec1f5.gpx",
-  "_geoloc": {
-    "lat": 51.5417285621,
-    "lng": -0.0024599577
-  }
+  "gazetteer_found": false
 }

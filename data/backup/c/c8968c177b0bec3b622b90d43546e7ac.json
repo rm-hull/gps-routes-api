@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:07:18.543188+00:00",
   "objectID": "c8968c177b0bec3b622b90d43546e7ac",
-  "created_at": "2024-12-18T21:11:57.724868+00:00",
   "ref": "forest-way-walking-and-cycle-route",
   "title": "Forest Way Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Two-arched_Bridge_-_geograph.org.uk_-_317317.jpg",
@@ -65,10 +65,21 @@
   ],
   "distance_km": 17.0,
   "description": "This cycling and walking route runs from East Grinstead to Groombridge following National Cycle Route 21 along a flat tree lined path. The path is also a designated country park. The trail follows a disused railway line route and has splendid views of the rolling hills of the downs and local farmland. Please click here for more information on this route. Weir Wood Reservoir is just to the west of the route so you could visit this lovely nature reserve if you have time.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In East Grinstead The Ship Inn is a good choice for some refreshments. They do very good food and have an attractive interior with a cosy fire for cold days. If the weather is fine there's a nice terraced garden outside too. You can find the pub on Ship Street at a postcode of RH19 4EG for your sat navs. At the other end of the route there's the Crown Inn in Groombridge. It's located in a great spot just across the road from Groombridge Place. The historic 16th century pub is one of the oldest in the South of England. There's a charming interior with a cosy beamed restaurant and log fires. They do high quality food and can be found at a postcode of TN3 9QH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the end of the route you'll find Groombridge Place Gardens. Here you can explore beautiful, award winning gardens surrounding a fine moated manor house. For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GV2NcspkhPg?si=uLa6A2dy44xwGcxs",
   "postcode": "RH19 4HG",
   "district": "East Grinstead",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

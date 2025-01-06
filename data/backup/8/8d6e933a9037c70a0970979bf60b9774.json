@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:34:40.269731+00:00",
   "objectID": "8d6e933a9037c70a0970979bf60b9774",
-  "created_at": "2024-12-18T01:37:21.650509+00:00",
   "ref": "long-eaton-walking-route",
   "title": "Long Eaton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Long_Eaton_Town_Hall_garden_-_geograph.org.uk_-_751796.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_flood_gates_near_Shardlow%2C_Derbyshire_-_geograph.org.uk_-_1618547.jpg",
-      "title": "Roger  Kidd / Canal flood gates near Shardlow, Derbyshire",
+      "title": "Roger Kidd / Canal flood gates near Shardlow, Derbyshire",
       "caption": "Canal flood gates near Shardlow, Derbyshire"
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 18.0,
   "description": "This Derbyshire based town has some nice waterside walking along the canals and river that run through the area. This walk from the town uses sections of the Erewash Canal and the Trent and Mersey Canal to visit the popular Trent Lock and the village of Shardlow. The walk starts in the town centre where you can pick up the Erewash Canal and follow the towpath south to Trent Lock. It's a noteworthy spot as it marks the point where the River Trent and River Soar meet with the beginning of the Erewash canal. It also sits on the border of three counties: Leicestershire, Nottinghamshire and Derbyshire. At the lock you head west along the river and canal to visit the Sawley Marina and Shardlow. The village is considered Britain's most complete surviving example of a canal village, with over 50 Grade II listed buildings and a large number of surviving public houses.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Mill & Brook is located in a nice spot near the canal. The friendly pub serves good food and has a small garden area out the back. You can find them on Derby Road at postcode NG10 4QB."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The waterside trails make for a fine dog walk and the Mill & Brook mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head north along the canal you could visit the neighbouring town of ref='/routes/home.nsf/RoutesLinksWalks/ilkeston-walking-route'>Ilkeston. Just east of Ilkeston there's some more nice waterside trails along the Nottingham Canal Nature Reserve at Cossall. The pretty village also includes a noteworthy 13th century church and the 17th century Willoughby Almshouses. To the south there's the market town of Castle Donington. Here you can visit Donington Park which is famously used as a motor racing track and is also the venue for the Download Music Festival. Just to the west there's some nice waterside trails around St Chad's Water and Church Wilne Reservoir. St Chad's includes a nice circular lakeside footpath with a wildflower meadow and the historic 13th century St Chad's Church. For more walking ideas in the area see the Derbyshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/iczesbqvLA4",
   "postcode": "NG10 1PD",
   "district": "Long Eaton",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

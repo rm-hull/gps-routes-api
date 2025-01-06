@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:53:23.524660+00:00",
   "objectID": "240a148fd586df37872e1e539dee6ec0",
-  "created_at": "2024-12-18T01:18:25.279148+00:00",
   "ref": "downley-common-walking-route",
   "title": "Downley Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Downley_Common_-_geograph.org.uk_-_971603.jpg",
@@ -48,9 +48,24 @@
   ],
   "distance_km": 3.0,
   "description": "This walk visits Downley Common next to the Buckinghamshire village of Downley in the Chilterns near High Wycombe. There's a series of nice footpaths taking you around the woodland and grassland of the common. It's a good place for an easy stroll with lots of woodland birds to look out for on the way. You can easily extend the walk by visiting the National Trust's Hughenden Park which lies just to the east. Heading north will take you to Naphill Common.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Le De Spencers Arms is nicely positioned next to the common for post walk refreshments. They have a charming interior with open fires and cosy low-beamed ceilings. Outside there's a splendid large garden area for the warmer months. They serve good quality food and have a fine selection of ales, having featured in CAMRA\u2019s Good Beer Guide 2014.The pub is titled after Francis Dashwood, 15th Baron le Despencer. It is his estate on which the pub lies. You can find them at postcode HP13 5YQ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails on the common are ideal for dog walking. You'll probably bump into other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The National Trust's West Wycombe Park is located just to the west and another of the area's highlights. For more walking ideas in the area see the Chilterns Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/W_MnaxVcyOc",
   "district": "Downley",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:47:57.144357+00:00",
   "objectID": "09d646991e4ef882b779fc988c326add",
-  "created_at": "2024-12-19T11:13:07.521835+00:00",
   "ref": "latrigg-walking-route",
   "title": "Latrigg Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/View_across_Keswick_from_Latrigg_Summit_-_geograph.org.uk_-_1612437.jpg",
@@ -74,12 +74,12 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Skiddaw_Little_Man_from_the_path_up_Latrigg_-_geograph.org.uk_-_1557225.jpg",
-      "title": "Derek Voller / Skiddaw Little Man from the path   up Latrigg",
+      "title": "Derek Voller / Skiddaw Little Man from the path  up Latrigg",
       "caption": "Skiddaw Little Man from the path up Latrigg. This lovely flower meadow is adjacent to the path of direct ascent of the hill from the East. To the right of picture can be seen the main \"tourist\" path up Skiddaw, the summit of which remains out of sight beyond Little Man."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Footpath_on_Latrigg_-_geograph.org.uk_-_107847.jpg",
-      "title": "Bob Jenkins / Footpath  on Latrigg",
+      "title": "Bob Jenkins / Footpath on Latrigg",
       "caption": "Footpath on Latrigg. Blencathra is to left, with Little Mell Fell and Great Mell Fell in far distance."
     },
     {
@@ -110,9 +110,20 @@
   ],
   "distance_km": 8.5,
   "description": "Climb this popular fell near Keswick on this lovely circular walk in the Lake District National Park. The walk starts in the town of Keswick and ascends Latrigg using the Cumbria Way and other footpaths. You continue towards Brundholme before returning through Brundholme Wood with a section along the Keswick Railway Path leading back into Keswick. This final section includes waterside walking along the River Greta. The summit stands at 368 m (1,207 ft) and the views of Derwent Water, Keswick and down the valley of Borrowdale are stunning. This is a popular walk because of its proximity to Keswick. It is also a relatively straightforward climb on well defined paths. Another popular fell is the nearby Catbells which gives faboulous views across Derwent Water. Also nearby is the fascinating Castlerigg Stone Circle. The ancient stone circle is located about a mile from Kewswick and is well worth a visit.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Keswick and you can visit the Lake Road Inn for some post walk refreshments. The pub does good food and also has a nice garden area to sit out in if the weather is fine. You can find the pub on 10 Lake Road with a postcode of CA12 5BT for your sat navs. It's also dog friendly inside and outside if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Keswick Railway Path will take you east through the River Great Valley on the old railway line to Threlkeld. Here you could visit Threlkeld Quarry Museum and enjoy a ride on the narrow gauge railway that runs into the old quarry. There's also a collection of historic machinery, such as locomotives and cranes, an underground tour of a realistic mine, a comprehensive geological and mining museum, and mineral panning."
+    }
+  ],
   "postcode": "CA12 4NL",
   "district": "Keswick",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

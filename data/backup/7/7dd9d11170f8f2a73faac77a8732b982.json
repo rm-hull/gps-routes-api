@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:09:09.141384+00:00",
   "objectID": "7dd9d11170f8f2a73faac77a8732b982",
-  "created_at": "2024-12-18T21:54:48.868399+00:00",
   "ref": "ewelme-walking-route",
   "title": "Ewelme Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Watercress_beds_in_Ewelme_Brook_-_geograph.org.uk_-_3499785.jpg/512px-Watercress_beds_in_Ewelme_Brook_-_geograph.org.uk_-_3499785.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ewelme_church_-_geograph.org.uk_-_3834053.jpg",
       "title": "Ewelme church by Robin Webster, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Ewelme church. Politician Thomas Chaucer, son of poet Geoffrey Chaucer, his wife Matilda, and their daughter, Alice de la Pole, Duchess of Suffolk, are buried in the Church of England parish church of Saint Mary the Virgin adjoining the almshouses.  Jerome K. Jerome (1859\u20131927), author of Three Men In A Boat, lived at Gould's Grove just southeast of Ewelme. He and his wife Ettie (died 1938) are buried in St. Mary's churchyard"
+      "caption": "Ewelme church. Politician Thomas Chaucer, son of poet Geoffrey Chaucer, his wife Matilda, and their daughter, Alice de la Pole, Duchess of Suffolk, are buried in the Church of England parish church of Saint Mary the Virgin adjoining the almshouses. Jerome K. Jerome (1859\u20131927), author of Three Men In A Boat, lived at Gould's Grove just southeast of Ewelme. He and his wife Ettie (died 1938) are buried in St. Mary's churchyard"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Fords_Farm%2C_Ewelme_%28geograph_6444634%29.jpg/512px-Fords_Farm%2C_Ewelme_%28geograph_6444634%29.jpg",
@@ -53,8 +53,23 @@
   ],
   "distance_km": 15.0,
   "description": "This delightful Oxfordshire village sits in a lovely spot in the Chiltern Hills, close to the River Thames. This circular walk from the village uses several of the local waymarked trails to explore the surrounding area. On the walk you will pass along sections of The Swan's Way, The Ridgeway and the Thames Path National Trail. The route visits the Ewelme Watercress Beds Local Nature Reserve, Wallingford and the neighbouring village of Benson with some lovely countryside trails along the way. Highlights include a lovely riverside stretch along the Thames through Wallingford, the picturesque Benson Lock and Ewelme's own nature reserve. The reserve can be found on the High Street on the western side of the village. Here you'll find beautiful open gardens backing onto the watercress stream with a wide variety of interesting plantlife to see as well. It's a fine place for an easy stroll and one of the highlights of the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Shepherd's Hut serves a fine Sunday lunch and includes a pleasant garden area. You can find the pub on the High Street at postcode OX10 6HQ for your sat navs. In Benson you'll find The Crown Inn which dates back to the 1700s and is a Grade II-listed, timber-framed former coaching inn. They have an outdoor seating area and also provide rooms if you would like to stay in the area. You can find them on the High Street at postcode OX10 6RP for your sat navs. You could also enjoy a stroll around the village to visit the noteworthy Norman church."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk. The local pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just south east is the worthy village of Stoke Row where there are some interesting historical features. The village includes the distinctive Maharajah's Well, a pretty cherry orchard and a noteworthy 17th century pub reputed to be the former haunt of notorious highwayman Dick Turpin. To the south there's also Ipsden where you can explore the trails on Ipsden Heath and visit the 12th century Norman church."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HSp-qdU3QoI",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

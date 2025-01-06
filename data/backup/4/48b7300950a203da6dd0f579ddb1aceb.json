@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:17:05.325584+00:00",
   "objectID": "48b7300950a203da6dd0f579ddb1aceb",
-  "created_at": "2024-12-18T11:23:53.212898+00:00",
   "ref": "leeds-country-way-walking-route",
   "title": "Leeds Country Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Saw_Wood%2C_Leeds_Country_Way_-_geograph.org.uk_-_140439.jpg",
@@ -63,7 +63,7 @@
     {
       "description": "Bramhope Circular Walk",
       "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope circular-walk-walking-route"
+      "ref": "bramhope\u00a0circular-walk-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/48b7300950a203da6dd0f579ddb1aceb.gpx",
@@ -110,8 +110,19 @@
   ],
   "distance_km": 99.0,
   "description": "A super circular walk through the countryside surrounding this major Yorkshire city. The walk has been split into 4 manageable sections: Golden Acre Park to Barwick-in-Elmet Barwick-in-Elmet to Carlton Carlton to Cockersdale Cockersdale to Golden Acre Park. Highlights on the route include",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Eccup Reservoir you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the water. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs. In West Ardsley, near Wakefield, you can visit the Hare and Hounds. There's a lovely large beer garden here which is the perfect spot for relaxing on a summer afternoon. You can find the pub in West Ardsley at 7 Batley Road with a postcode of WF2 0AA for your sat navs. The pub is located very close to Ardsley Reservoir which is worth a small detour from the route if you have time. There's a nice, easy circular footpath running round the water with good views of Haigh Moor and Emley Moor. In Garforth a visit to the Gaping Goose is recommended. It's a friendly place with a good selection of real ales and an outdoor seating area. You can find them at 41 Selby Rd with a postcode of LS25 1LR for your sat navs. They are also dog friendly. In Ossett there's the Brewers Pride located right next to Osset brewery. There's a great selection of ales and fine home cooked food here. You can find them on Low Mill Road at postcode WF5 8ND. In Bardsey village and you could visit the noteworthy Bingley Arms Pub. It's a significant establishment, thought to be the oldest pub in Britain and dating back over 1000 years to a time when Vikings were conquering parts of the country and before England had its first King. There's a charming old interior with an original Dutch oven in the lounge and ancient priest holes hidden in the chimney. Outside there's a lovely garden area with a yew tree that pre-dates the pub. You can find them at Church Ln, Bardsey, LS17 9DR."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east of Leeds around Thorner the route passes close to the noteworthy Bramham Park. There are hundreds of acres of parkland, gardens, woodland and countryside to explore on the expansive estate. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MaxKRZg_45w",
   "postcode": "LS16 8LZ",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

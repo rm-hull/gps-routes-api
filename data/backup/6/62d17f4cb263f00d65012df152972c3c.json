@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:15:20.088244+00:00",
   "objectID": "62d17f4cb263f00d65012df152972c3c",
-  "created_at": "2024-12-18T17:32:04.348512+00:00",
   "ref": "baker-way-walking-route",
   "title": "Baker Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Towpath%2C_part_of_the_13mile_Baker_Way_footpath_-_geograph.org.uk_-_474269.jpg",
@@ -75,9 +75,16 @@
   ],
   "distance_km": 18.0,
   "description": "Take a stroll along the Baker Way from Chester to Delamere Forest on this pleasant, varied walk. The walk starts at Chester railway station and heads east along the Shropshire Union Canal to Rowton. You then leave the canal and head through the countryside to Tarvin which is an excellent place to stop for a pub lunch. The final section of the walk takes you from Tarvin to the lovely Delamere Forest Park where the route finishes at Delamere Station. This is a pleasant and fairly easy walk with waterside, countryside and woodland sections to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Christleton the Cheshire Cat is located in a lovely spot next to the canal. The dog friendly inn dates back to 1801 and serves good quality food. You can find them at Whitchurch Rd, Christleton, CH3 6AE."
+    }
+  ],
   "postcode": "CH1 3DR",
   "district": "Chester",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

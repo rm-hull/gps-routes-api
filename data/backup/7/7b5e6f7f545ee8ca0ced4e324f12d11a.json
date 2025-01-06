@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:54:29.925343+00:00",
   "objectID": "7b5e6f7f545ee8ca0ced4e324f12d11a",
-  "created_at": "2024-12-19T04:36:41.356239+00:00",
   "ref": "croston-walking-route",
   "title": "Croston Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Croston_Village_Green_-_geograph.org.uk_-_3443974.jpg/512px-Croston_Village_Green_-_geograph.org.uk_-_3443974.jpg",
@@ -17,7 +17,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Grape_Lane%2C_Croston_-_geograph.org.uk_-_3041538.jpg/512px-Grape_Lane%2C_Croston_-_geograph.org.uk_-_3041538.jpg",
-      "title": "Grape Lane, Croston by K  A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Grape Lane, Croston by K A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Grape Lane, Croston"
     },
     {
@@ -53,9 +53,16 @@
   ],
   "distance_km": 10.8,
   "description": "This rural Lancashire village sits in a lovely spot on the River Yarrow. It's a pretty place with a picturesque village green and some nice local pubs. This circular walk takes you along the River Yarrow and the River Douglas to the historic Rufford Old Hall. Here you can enjoy more waterside walking along the Leeds and Liverpool Canal. The walk start in the village and follows footpaths west along the Yarrow to its confluence with the River Douglas. You then head south along the river, passing Great Hanging Bridge before coming to Rufford where you cross the river on White Bridge. Here you can pick up the canal and follow it towards the National Trust owned hall. The fine black and white house dates back to 1530 and is surrounded by some lovely parkland, woodland and gardens.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north is Hesketh Bank where you can explore the RSPB's Hesketh Out Marshes Nature Reserve. The reserve is a great place for bird spotting on the Ribble Estuary."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_3Gg1NrNL1Y",
   "district": "Croston",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

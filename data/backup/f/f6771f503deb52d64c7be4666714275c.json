@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:56:00.886822+00:00",
   "objectID": "f6771f503deb52d64c7be4666714275c",
-  "created_at": "2024-12-21T14:39:17.610879+00:00",
   "ref": "valentia-island-walking-route",
   "title": "Valentia Island Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Cromwell_Point_Lighthouse_2019_08_16.jpg/512px-Cromwell_Point_Lighthouse_2019_08_16.jpg",
@@ -8,7 +8,7 @@
     {
       "description": "Glenbeigh and Rossbeigh Hill Loop",
       "objectID": "00b7568ff23766e320793d9ead9adcf3",
-      "ref": "glenbeigh and-rossbeigh-hill-loop-walking-route"
+      "ref": "glenbeigh\u00a0and-rossbeigh-hill-loop-walking-route"
     },
     {
       "description": "Caragh Lake",
@@ -51,5 +51,12 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits the Cromwell Point Lighthouse on Valentia Island in the southwest of County Kerry. The island is one of Ireland's most westerly points and includes a wonderful, rugged coastline. There is a car parking area just south of the lighthouse where you can start your walk. From here head north along a track to the lighthouse where you can enjoy some stunning views over the coast to the surrounding mountains and islands. Valentia Lighthouse is home to the most westerly harbour light on mainland Ireland. The light guides vessels from the sea and leads them through the northern entrance of the harbour and up past Harbour Rock.",
-  "video_url": "https://www.youtube.com/embed/-7uqHhhKGb8?si=Ia4PRTrRhNx1Xa82"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Over a century and a half ago, the first successful transatlantic telegraph cable was established, stretching from Valentia Island in Ireland to Heart's Content in Newfoundland, Canada. This landmark achievement, often referred to as the 'Eighth Wonder of the World', dramatically reduced the time it took to send messages across the ocean from weeks to mere minutes, marking the dawn of global communication. The story of the Transatlantic Cable, a tale of human resilience, scientific discovery, adventure, and innovation, is vividly narrated at the immersive visitor experience at the Valentia Cable Station. There, you can hear the tales of entrepreneur Cyrus Field I and the Knight of Kerry, try your hand at sending a Morse code message, decipher codes, and explore the evolution of underwater cables and communication technologies. To the north east you can continue your walking on the Glenbeigh and Rossbeigh Hill Loop which visits the beautiful beach at Rossbeigh Strand and a fine viewpoint overlooking the village. Near here there's also the picturesque Caragh Lake where you can climb to a splendid viewpoint with views over Inch beach, the Dingle peninsula and MacGillycuddy's Reeks mountains."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/-7uqHhhKGb8?si=Ia4PRTrRhNx1Xa82",
+  "gazetteer_found": false
 }

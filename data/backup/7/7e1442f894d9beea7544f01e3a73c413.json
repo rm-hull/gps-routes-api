@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:52:27.028830+00:00",
   "objectID": "7e1442f894d9beea7544f01e3a73c413",
-  "created_at": "2024-12-18T06:54:45.886773+00:00",
   "ref": "corstorphine-hill-walking-route",
   "title": "Corstorphine Hill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Edinburgh_from_Corstorphine_Hill_-_geograph.org.uk_-_1117542.jpg",
@@ -45,10 +45,21 @@
   ],
   "distance_km": 3.0,
   "description": "This walk climbs to the tower and viewpoint on Corstorphine Hill in the city of Edinburgh. There's a nice woodland trail leading up to the hill summit where there are fine views over the city to be enjoyed. There's also a walled garden, a Cold War bunker and a 19th century tower to see. To continue your climbing in the city head up to the popular Arthur's Seat. The John Muir Way also runs across the hill. You could pick up this waymarked footpath to further explore the area.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails around the hill are popular with dog walkers so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Edinburgh Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/vRSwtK5jItA",
   "postcode": "EH4 7AH",
   "district": "Edinburgh",
   "county": "City of Edinburgh",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

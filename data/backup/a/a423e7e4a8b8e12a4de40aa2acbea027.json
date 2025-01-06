@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:50:33.582774+00:00",
   "objectID": "a423e7e4a8b8e12a4de40aa2acbea027",
-  "created_at": "2024-12-18T12:57:47.116529+00:00",
   "ref": "porthkerry-country-park-walking-and-cycle-route",
   "title": "Porthkerry Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Busy_day_at_Porthkerry_Park%2C_Vale_of_Glamorgan%2C_Wales_%2827404153876%29.jpg/256px-Busy_day_at_Porthkerry_Park%2C_Vale_of_Glamorgan%2C_Wales_%2827404153876%29.jpg",
@@ -55,9 +55,24 @@
   ],
   "distance_km": 6.5,
   "description": "Explore 220 acres of woodland, meadows and coast in this super country park near Barry in the Vale of Glamorgan. The route starts at the car park on the coast and takes you along the pretty pebble beach before turning inland into the woodland on nature trails. You will pass through the pretty grassland with its wildflower meadow and calming stream. You will also pass Viaduct wood with super views of the impressive Porthkerry Viaduct. The route below is designed for walkers but a nice easy cycle track runs through the centre of the park just up from the coast. It makes for a nice, safe ride for families. Facilities in the park include an excellent cafe, chidlren's play area and a 12 hole golf course.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park has an on site cafe selling a good range of snacks and meals. Marcos in the Park is situated in the main car park and sells a fine range of delicious cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The pretty park is a great place to bring your dog for a walk so you'll probably see plenty of other owners on your visit. The woodland trails and beach area make it a very popular area for dog walkers. The onsite cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For cyclists National Cycle Route 88 passes the park. The signed Sustrans route will take you from Barry Island to Ewenny, just outside Bridgend. The Valeways Millennium Heritage Trail passes the park and provides an opportunity for continuing your walking in the area. The epic circular trail explores the beautiful countryside of the Vale of Glamorgan and the stunning Glamorgan Heritage Coast. The park is also located near the city of Cardiff where there are lots more walking trails to try. See the Cardiff Walks page for more details."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qDdfUZP_sTs",
   "district": "Barri / Barry",
   "county": "Bro Morgannwg - the Vale of Glamorgan",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

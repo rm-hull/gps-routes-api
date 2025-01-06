@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:18:20.789831+00:00",
   "objectID": "d05b8cd2a93ca861917df7ba65d6e7a6",
-  "created_at": "2024-12-18T09:57:15.949787+00:00",
   "ref": "eccles-pike-walking-route",
   "title": "Eccles Pike Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Eccles_Pike_summit_-_geograph.org.uk_-_92376.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Eccles_Pike_topograph_-_geograph.org.uk_-_92380.jpg",
       "title": "Dave Dunford / Eccles Pike topograph, via Wikimedia Commons",
-      "caption": "Eccles Pike topograph. Looking south to Combs Reservoir, Combs Moss  and Ladder Hill"
+      "caption": "Eccles Pike topograph. Looking south to Combs Reservoir, Combs Moss and Ladder Hill"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Buxworth_from_Eccles_Pike_-_geograph.org.uk_-_340957.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 6.0,
   "description": "This is a popular climb to Eccles Pike from Whaley Bridge in the Peak District. It's about a two mile walk from the train station/centre of Whaley Bridge to the hill. You follow footpaths east through the countryside, passing Buxworth before climbing to the 370 metres (1,210 ft) summit of Eccles Pike. From here there are fabulous views over the Peak District towards Windgather Rocks, Combs Edge, Combs Reservoir, Cat\u2019s Tor and Shining Tor. At the summit you will find a topograph which shows all the sights you can see from the top. It's a lovely spot with the surrounding fields covered in various wildflowers in the summer months. After descending from the summit you could return the same way or follow Eccles Road back to Whaley Bridge to create a longer circular walk. This quiet country lane will take you past Hilltop and New Horwich. If you would like to extend your walk then you could visit Toddbrook Reservoir or Chinley Churn. The Peak Forest Canal and the Peak Forest Tramway Trail also start from Buxworth.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your walk head to The White Hart pub on Market St in Whaley Bridge (postcode SK23 7HN). It's a popular and friendly pub with a beer garden overlooking the stream.The Cock is another really good option and can be found on Buxton Road at postcode SK23 7JE. It has a nice interior and a beer garden to relax in during the warmer months."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The Pike is a nice, bracing walk for fit dogs. The White Hart pub mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/k8--3thDMtE",
   "district": "Whaley Bridge",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

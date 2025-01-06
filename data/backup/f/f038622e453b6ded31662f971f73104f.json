@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T08:38:27.149612+00:00",
   "objectID": "f038622e453b6ded31662f971f73104f",
-  "created_at": "2024-12-18T16:26:20.583192+00:00",
   "ref": "stanton-walking-route",
-  "title": "Stanton Circular Walk Walking Route",
+  "title": "Stanton Circular\u00a0Walk Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Houses_in_Stanton%2C_Gloucestershire_-_geograph.org.uk_-_4480883.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f038622e453b6ded31662f971f73104f.gpx",
   "_geoloc": {
@@ -37,7 +37,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Church_beside_Stanway_House_-_geograph.org.uk_-_1468628.jpg",
-      "title": "Kenneth  Allen / Church beside Stanway House",
+      "title": "Kenneth Allen / Church beside Stanway House",
       "caption": "Church beside Stanway House"
     },
     {
@@ -53,8 +53,19 @@
   ],
   "distance_km": 11.0,
   "description": "This pretty Cotswolds village is located in Gloucestershire at the foot of the Cotswold escarpment on the Cotswold Way National Trail. It's a delightful and historic place with several ancient houses built from the honey coloured limestone quarried from the nearby Shenberrow Hill. There's also a Norman church and a fine 17th century pub to relax in after your exercise. This circular walk from the village visits two of the historic highlights of the area at Stanway House and Snowshill Manor. Starting in the village you first follow the Cotswold Way and the Winchcombe Way south to Stanway House. The Jacobean manor house dates to the 16th century and is famous for its 300 feet single-jet fountain, the highest in Britain and the highest gravity fountain in the world. There's also some lovely grounds where you can stroll to the 18th-century water-garden, 14th century Tithe Barn and attractive woodland. The route then heads north east through the peaceful woodland trails at Lidcombe Wood before coming to the neighbouring village of Snowshill. Here you can visit the National Trust's Snowshill Manor. The 16th century manor includes a fine exhibition of eclectic objects collected by the architect and poet Charles Paget Wade. Outside there's some picturesque grounds with gardens, terraces, a model village, a Victorian church and ponds. The route then heads west through Littleworth Wood before passing Shenberrow Hill where there is a hill fort thought to date to the Iron Age. Shortly after you descend back into Stanton where the walk finishes.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some post walk refreshments at the Mount Inn. The attractive 17th century pub sits in an elevated position on a mount at the end of the village. You can sit outside in the garden area and enjoy views across the Vale of Evesham towards the Malvern Hills & even the Black Welsh mountains beyond. They have a great food menu and a good selection of drinks. The ancient building has an interesting history having originally been a farmhouse. Sometime later it became a \"cobbler shop\", a tea room and then an off-licence.  You can find the inn on the High Street at postcode WR12 7NE for your sat navs. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north of the village there's one of the area highlights at Broadway Tower Country Park. From the wonderful 18th century tower there are glorious views across the Cotswolds AONB."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/yYQWidSE8hs",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:54:26.136214+00:00",
   "objectID": "eee1ee4a2fa2462581d8bcc3e2546201",
-  "created_at": "2024-12-18T03:55:02.884142+00:00",
   "ref": "langold-country-park-walking-route",
   "title": "Langold Lake Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Langold_Lake_Country_Park_car_park_-_geograph.org.uk_-_801449.jpg",
@@ -39,7 +39,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Langold_Lake_Country_Park_car_park_-_geograph.org.uk_-_801449.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Langold Lake Country Park car park. A view of the car park and one of the footpaths heading into the lush green parkland on this summer day."
     },
     {
@@ -70,10 +70,25 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy woodland, wildlife meadows and two pretty lakes in this 300 acre country park near Worksop. The walk starts at the car park and takes you along Langold Lake and through Dyscarr Woods before returning to the start point. There's also plenty of wildlife to see with the park designated as a Local Nature Reserve. The park is great for children with a play area and water park for them to splash about in. The park is located a few miles north of Worksop where you can continue your walking along the Chesterfield Canal .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a small on site cafe selling meals and hot drinks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is very dog friendly with a waymarked Dogs Trust walking route to try. The woodland trails and lakeside paths are popular with dog owners so you'll probably bump into a few on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles south west of the site there's another fine country park in the shape of Rother Valley Country Park. There's a series of lakes and a watersports centre here. Harthill Reservoir and Pebley Reservoir are also located just east the site. Just to the south of Worksop there's one of the highlights of the area at Clumber Park. There's 3,800 acres of woodland, open heath and rolling farmland to explore here. A couple of miles to the south east there's Hodsock Priory to explore. The historic park is open to the public in February for the annual snowdrop walks. All year round you can explore the wider estate on a circular public footpath though. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/92VriwdDGi0",
   "postcode": "S81 9NW",
   "district": "Langold",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

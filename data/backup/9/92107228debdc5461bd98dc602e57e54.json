@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:38:04.836248+00:00",
   "objectID": "92107228debdc5461bd98dc602e57e54",
-  "created_at": "2024-12-19T23:45:52.714637+00:00",
   "ref": "broad-campden-walking-route",
   "title": "Broad Campden Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Broad_Campden_-_geograph.org.uk_-_557594.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 8.0,
   "description": "This splendid Cotswolds village includes a number of picturesque thatched buildings, a photogenic old church and a noteworthy pub dating back to the early 18th century. This circular walk from the village visits the neighbouring village of Chipping Campden before exploring a lovely section of the Monarch's Way to the south west of the settlement. The walk starts in the village and follows the Monarch's Way north to visit the more well known village of Chipping Campden, crossing the pretty River Cam as you go. Head through the village and you can pick up the Heart of England Way and follow it south towards Briar Hill Farm. The route then head south west through some attractive countryside to Campden Hill Farm before returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The award winning Baker's Arms is a fine place for rest and refreshment after your exercise. It's a classic Cotswolds pub dating back to 1724 and including Cotswold stone walls, exposed beams and a fine inglenook. They serve good quality food and have a lovely garden area for warmer days. You can find them at postcode GL55 6UR for your sat navs. The pub is also known as the 'local' of Father Brown, the crime-solving priest who stars in the BBC drama filmed in the Cotswolds."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Baker's Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Upper Quinton Walk also visits Hidcote from the village to the north. The sister village of Lower Quinton includes a noteworthy 16th century pub once owned by Henry VIII."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QLoXshWuU0g",
   "postcode": "GL55 6US",
   "district": "Broad Campden",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

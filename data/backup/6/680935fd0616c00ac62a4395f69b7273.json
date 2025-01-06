@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:44:15.213175+00:00",
   "objectID": "680935fd0616c00ac62a4395f69b7273",
-  "created_at": "2024-12-18T16:17:45.418796+00:00",
   "ref": "southwater-country-park-walking-route",
   "title": "Southwater Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orienteering_Marker%2C_Southwater_Country_Park%2C_Southwater%2C_West_Sussex_-_geograph.org.uk_-_23839.jpg/256px-Orienteering_Marker%2C_Southwater_Country_Park%2C_Southwater%2C_West_Sussex_-_geograph.org.uk_-_23839.jpg",
@@ -70,9 +70,24 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy peaceful lakeside walking at this pretty country park in Horsham. As well as the delightful lakes the park also includes a beautiful wildlife area which supports wildlife such as lizards, Kingfishers, Nightingales and various butterflies and dragonflies. There are also excellent facilities with a Visitor Centre, Cafe, an adventure-style play area, an orienteering course and tuition in canoeing and sailing. The Downs Link footpath runs just past the park. You can pick this up to extend your walk. Heading south will take you through the countryside towards the attractive village of Henfield .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe selling a good range of meals and snacks. The Hornbrook Inn is worth a detour from the park. It's located just to the south of Horsham town centre on the Riverside Walk. This rustic pub has a good menu, beamed ceilings, wood panelling, stone floors and a beer garden to relax in. It's located next to Huxley Birds of Prey Centre which is a good option for a day out. This attraction features falcon & owl flying demonstrations & hands-on visitor encounters."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place for dog walking so you'll probably bump into other owners on your visit. The Hornbrook Inn mentioned above is also dog friendly. The nearby St Leonard's Forest is another good local spot to take your dog."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The nearby village of Henfield makes for a nice extension to your outing. The attractive settlement includes some historic buildings including a 13th century church and 17th century pub. The circular Henfield Walk explores the area, visiting the River Adur and the surrounding farmland. If you head north east towards Horsham you can visit St Leonard's Forest. The expansive forest has miles of woodland walking trails to try. Head south and you can explore the expansive Knepp Castle Estate. The estate is one of the walking highlights of the area with miles of trails, a 12th century castle and interesting wildlife including wild boar, nesting storks, horses and deer to look out for on the way. For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ezF9h_NMz6g",
   "district": "Southwater",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

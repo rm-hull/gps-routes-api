@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:20:37.898816+00:00",
   "objectID": "b48a2153f63ffc3e7557f0dc120c239d",
-  "created_at": "2024-12-19T03:55:19.985643+00:00",
   "ref": "cannon-hall-country-park-walking-route",
   "title": "Cannon Hall Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cannon_Hall_and_flowerbeds_-_geograph.org.uk_-_768281.jpg",
@@ -59,7 +59,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/97/Cannon_Hall_country_park_the_path_from_the_car_park_-_geograph.org.uk_-_1056825.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Map and information board next to path from the car park. The hall is also a museum with a fine collection of Moorcroft pottery."
     },
     {
@@ -75,8 +75,23 @@
   ],
   "distance_km": 3.0,
   "description": "Explore the beautiful lansdscaped gardens of Cannon Hall in Cawthorne, Yorkshire. The park includes sweeping grasslands, woodlands, a stream and a lake with a waterfall nearby. The hall itself is also worth a visit, housing collections of fine furniture, paintings, ceramics and glassware. The park is located on the Barnsley Boundary Walk and Penistone Boundary Walk so there is scope for continuing your walk along these walking paths. You could also head north west and try the woodland trails through Deffer Wood where there's lots of bluebells in the spring. At the northern edge of the wood you can pick up our Denby Dale Circular Walk which visits the River Dearne. Cannon Hall is located just a few miles west of Barnsley.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There are good facilities at the site with an excellent cafe, a garden centre, farm shop and ice cream shop."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland trails make for a fine dog walk. You'll probably see other owners out walking their pets on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north you'll find one of the local highlights at Bretton Country Park. The 500 acre site includes the splendid Yorkshire Sculpture Park where you'll find some wonderful artistic pieces, surrounded by lovely countryside. The shady footpaths around Coxley Woods can also be found in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/idZay-yjlRA",
   "postcode": "S75 4AR",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

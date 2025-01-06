@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:33:07.167139+00:00",
   "objectID": "b645cde4d2b53b48bba3c40dcc82361d",
-  "created_at": "2024-12-18T21:45:59.142084+00:00",
   "ref": "bromham-walking-route",
   "title": "Bromham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/The_17th_century_watermill_at_Bromham_-_geograph.org.uk_-_370536.jpg",
@@ -43,8 +43,23 @@
   ],
   "distance_km": 1.2,
   "description": "This walk explores Bromham Park and the Bromham Mill Nature Reserve on the eastern side of this pretty Bedfordshire based village. There's nice footpaths here taking you to the 18th century mill which sits next to the river Great Ouse. Part of the route uses a section of the John Bunyan Trail which runs through the village. You could extend the walk by following the waymarked trail north to neighbouring Stevington or south to Wootton.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Swan is located close to the river and mill. The Georgian Inn serves a good Sunday lunch and has a good selection of ales. You can find them at Bridge End with postcode MK43 8LS for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The footpaths make for a pleasant dog walk. The Swan mentioned above is also dog friendly with water bowls available for your thirsty friend."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you can explore the lovely Bedford Park in Bedford. The park includes mature woodland and a pretty lake. The Clay Way walking and cycling trail starts in the village and heads to Cranfield, passing through Hanger Wood, Astey Wood and Stagsden on the way. For more walking ideas in the area see the Bedfordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/A17-Anaz5jc",
   "county": "Bedford",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

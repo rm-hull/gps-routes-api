@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:48:21.787629+00:00",
   "objectID": "882026f14b2d7b9d2015c80543b4f2a0",
-  "created_at": "2024-12-18T16:41:17.173291+00:00",
   "ref": "point-of-ayr-walking-route",
   "title": "Point of Ayr Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Point_of_Ayr_Lighthouse_-_geograph.org.uk_-_613331.jpg",
@@ -60,7 +60,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ripples_in_the_sand_-_geograph.org.uk_-_484175.jpg",
       "title": "Chris Downer / Ripples in the sand",
-      "caption": "Ripples in the sand Low tide at Point of Ayr, the northernmost tip of the Welsh mainland. Across the River Dee, the Wirral  is in the distance."
+      "caption": "Ripples in the sand Low tide at Point of Ayr, the northernmost tip of the Welsh mainland. Across the River Dee, the Wirral is in the distance."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Outer_Dunes_behind_Talacre_Beach_-_geograph.org.uk_-_70608.jpg",
@@ -95,9 +95,16 @@
   ],
   "distance_km": 1.0,
   "description": "This beautiful coastal Nature Reserve on the Dee Estuary is a great place for a walk with splendid views and an abundance of wildlife. There are nice sandy paths through the dunes with thousands of feeding birds to look out for. These include Curlew, Peregrine and Oystercatcher. Also look out for natterjack toads. You can also enjoy a walk along the lovely Talacre beach and visit the 18th century Point of Ayr lighthouse providing it is not high tide! Talacre beach has miles of golden sand with great views over the Irish Sea. To extend the walk you could continue south along the Wales coast path to Holywell and the historic Flint Castle .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The reserve is located just a few miles west of Prestatyn. Here you could pick up the circular Prestatyn Walk and follow the Offa's Dyke Path to Dyserth. Here you can try the Dyserth Waterfall Walk and visit the 70ft falls. There's also caves, woodland trails, a 16th century church and some nice tea rooms to see in this area. Just north of the village there's the climb to Graig Fawr where you can enjoy some wonderful views to the coast."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VswSWQ_ux24",
   "district": "Talacre",
   "county": "Sir y Fflint - Flintshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

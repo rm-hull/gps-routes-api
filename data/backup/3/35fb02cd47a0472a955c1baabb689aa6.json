@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:56:42.596104+00:00",
   "objectID": "35fb02cd47a0472a955c1baabb689aa6",
-  "created_at": "2024-12-18T01:38:09.110357+00:00",
   "ref": "longton-walking-route",
   "title": "Longton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg/512px-Longton_Brickcroft_Visitor%27s_Centre_-_geograph.org.uk_-_2422957.jpg",
@@ -33,10 +33,17 @@
   ],
   "distance_km": 1.2,
   "description": "This walk visits the Longton Brickcroft Nature Reserve in the Lancashire village of Longton. The reserve is situated just south of the village and includes a number of picturesque ponds, pleasant footpaths and a visitor centre with displays about the reserve's habitats and wildlife. These include water loving birds such as ducks, moorhens and herons. The village is located just east of the Ribble Way long distance footpath. Here you could visit the mouth of the Ribble where the waymarked walk begins. Head west to pick up the trail and you can also enjoy views of the River Douglas.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Golden Ball of Longton dates from 1822 and can be found at 150 Liverpool Road PR4 5AU."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/G77bFxNr3kk",
   "postcode": "PR4 5YY",
   "district": "Longton",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

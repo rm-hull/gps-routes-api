@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:08:26.160175+00:00",
   "objectID": "ae46926b4990b2a1ecb7d0265befc6b0",
-  "created_at": "2024-12-18T00:24:36.581081+00:00",
   "ref": "kerry-ridgeway-walking-and-cycle-route",
   "title": "Kerry Ridgeway Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Kerry_Ridgeway_-_geograph.org.uk_-_1095107.jpg",
@@ -70,9 +70,24 @@
   ],
   "distance_km": 24.0,
   "description": "This is an exceptionally beautiful walk or cycle through Powys and then into Shropshire. The route runs along a ridge top overlooking Wales on the one side and England on the other with spectacular views for the duration of the ride. It runs for about 15 miles with a gradual descent when going from west to east. You start at Cider House Farm near Kerry and head east to Bishop's Castle passing through Ceri Forest on the way. You will pass through heather moors, woodlands and bilberry rich heaths with fabulous views of the Welsh and Shropshire Hills.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Three Tuns Inn is a good place for some refreshments at the end of the walk. It's a historic pub of some note, dating all the way back to 1642. The associated brewery is possibly the oldest in the country, with records showing that King Charles 1st issued the first brewing licences in that year to raise funds to pay for his army fighting the civil war. It's a cosy place with an excellent selection of real ales. You can find the pub at Salop Street with a postcode of SY9 5BW."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The ridgeway is a fine place for a dog walk with fine woodland trails in Ceri Forest on the way. The Three Tuns mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the eastern end of the route you can pick up the circular Bishop's Castle Ring Walk and the Shropshire Way. You could use a section of either of these long distance trails to create a circular walk from the ridgeway. For more walking ideas in the area see the Shropshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pejCfPOxQq8",
   "postcode": "SY16 4AY",
   "county": "Powys - Powys",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

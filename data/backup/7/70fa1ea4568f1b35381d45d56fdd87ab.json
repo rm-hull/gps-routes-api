@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:36:03.296228+00:00",
   "objectID": "70fa1ea4568f1b35381d45d56fdd87ab",
-  "created_at": "2024-12-21T14:30:39.405017+00:00",
   "ref": "glamorgan-ridgeway-walk-walking-route",
   "title": "Glamorgan Ridgeway Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Margam_Castle_-_geograph.org.uk_-_1308540.jpg",
@@ -39,7 +39,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Llantrisant_Forest_-_geograph.org.uk_-_916859.jpg",
-      "title": "Alan Burke / Llantrisant  Forest",
+      "title": "Alan Burke / Llantrisant Forest",
       "caption": "Llantrisant Forest"
     },
     {
@@ -75,9 +75,11 @@
   ],
   "distance_km": 53.0,
   "description": "Follow the Glamorgan Ridgeway from Margam Country Park, near Port Talbot, through beautiful upland and valley scenery, to Caerphilly Castle. There are fabulous panoramic views of the Brecon Beacons to the north, the Bristol Channel and Devon and Somerset to the south. The walk begins at the splendid Margam Country Park (video below). The attraction includes the magnificent Margam Castle, an 18th Century Orangery with ornamental gardens and the Deer Park, all set within 1000 acres of beautiful countryside. From Margam you begin by heading east to Bettws and Blackmill. You then pass through Llantrisant forest, Llantrisant, Garth Hill and Caerphilly Common. From Garth Hill there are fine views of Cardiff and the Taff valley. It is thought to be the inspiration for 'Ffynnon Garw', the fictional mountain (or hill) featured in the book, and film, The Englishman Who Went Up a Hill But Came Down a Mountain. The walk also passes near to Taff's Well - the only thermal spring in Wales located in Taff's Well park. You also climb Caerphilly Mountain with more tremendous views to enjoy as shown in the latter part of the video below. The final section descends into Caerphilly, finishing near the castle.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/70fa1ea4568f1b35381d45d56fdd87ab.gpx",
-  "_geoloc": {
-    "lat": 51.5628139192,
-    "lng": -3.723541731
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the start of the route in Margam you could follow a footpath north to visit Brombil Reservoir. The picturesque turquiose coloured lake is a lovely place for a peaceful stroll. From the hills surrounding the lake there are fine views to the coast too. You can find the site just a mile north of the route start point in Margam Country Park."
+    }
+  ],
+  "gazetteer_found": false
 }

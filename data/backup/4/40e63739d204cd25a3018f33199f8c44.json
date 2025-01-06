@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:14:20.260760+00:00",
   "objectID": "40e63739d204cd25a3018f33199f8c44",
-  "created_at": "2024-12-18T12:56:05.615712+00:00",
   "ref": "centenary-circle-walking-route",
   "title": "Centenary Circle Chelmsford Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_edge_of_Broomfield_-_geograph.org.uk_-_783415.jpg",
@@ -27,10 +27,6 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/40e63739d204cd25a3018f33199f8c44.gpx",
-  "_geoloc": {
-    "lat": 51.728269103,
-    "lng": 0.5179732897
-  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/99/The_edge_of_Broomfield_-_geograph.org.uk_-_783415.jpg",
@@ -66,8 +62,6 @@
   "distance_km": 33.0,
   "description": "This circular walk takes you through the parks and countryside around Chelmsford. The walk starts on Sandford Mill bridge on the Chelmer and Blackwater Navigation and passes Sandon, Chignal Smealey, Galleywood, Writtle and Broomfield. Highlights on this walk include Hylands Park with the Grade II listed Hylands House and gardens. South of Chelmsford you'll pass Galleywood Common. It's a very pleasant and peaceful area with woodland trails and open grassland. Also look out for the 17th century New Hall school. Founded in 1642 it is one of the oldest Catholic schools in England. Finally there is a lovely waterside section along the Chelmer and Blackwater Navigation taking you back to Sandford Mill and route end.",
   "video_url": "https://www.youtube.com/embed/5a2JPBJaja4",
-  "postcode": "CM2 6NX",
-  "county": "Essex",
-  "region": "Eastern",
-  "country": "England"
+  "gazetteer_found": false,
+  "details": []
 }

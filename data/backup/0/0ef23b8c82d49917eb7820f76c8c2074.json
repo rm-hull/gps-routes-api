@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:39:13.914174+00:00",
   "objectID": "0ef23b8c82d49917eb7820f76c8c2074",
-  "created_at": "2024-12-18T01:47:17.168969+00:00",
   "ref": "burghley-house-walking-route",
   "title": "Walks around Burghley Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Burghley_House_Grounds_-_geograph.org.uk_-_661487.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 3.0,
   "description": "Explore the stunning grounds surrounding this grand 16th-century country house in Stamford, Lincolnshire. The grounds were laid out by Capability Brown and include a 26 acre lake, a deer park and a sculpture park. The Hereward Way long distance walk runs past the park so is a good option if you would like to continue your walk.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is an in site cafe offering a full range of meals and snacks, from a cup of coffee and homemade cake to a full lunch."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place for a dog walk. Please keep them on leads as there is a herd of deer. They are not allowed in the gardens."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north of the house you can pick up the Torpel Way. The waymarked footpath will take you east into Peterborough, passing picturesque countryside and agricultural land on the way. If you follow the Hereward Way south east you will soon come to the Barnack Hills And Holes National Nature Reserve. There's a rather interesting and unusual landscape here with grassy undulating slopes in an ancient medieval quarry. The site is noted for some signficant flora and fauna as well. You can find the reserve on the western side of Barnack village. Postcode for sat navs is PE9 3EU."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sY21y7sd8G0",
   "postcode": "PE9 3JY",
   "county": "City of Peterborough",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

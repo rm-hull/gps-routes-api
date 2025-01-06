@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:34:19.403922+00:00",
   "objectID": "06b542f656590b1c1a69ff70cf3b1883",
-  "created_at": "2024-12-18T11:30:45.445597+00:00",
   "ref": "st-fillans-to-comrie-railway-walking-route",
   "title": "St Fillans to Comrie Railway Walk  Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Lochearnhead%2C_St_Fillans_and_Comrie_Railway_-_geograph.org.uk_-_2247083.jpg",
@@ -19,6 +19,11 @@
       "description": "Deil's Cauldron",
       "objectID": "0d9674570030ba2b66e7e0a6cf73faa3",
       "ref": "deils-cauldron-walking-route"
+    },
+    {
+      "description": "River Earn Walk",
+      "objectID": "86c481aaa62b733223952fed9bbaadc9",
+      "ref": "river-earn-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/06b542f656590b1c1a69ff70cf3b1883.gpx",
@@ -34,7 +39,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Concrete_viaduct_on_dismantled_Comrie_to_St_Fillans_railway_-_geograph.org.uk_-_660088.jpg",
-      "title": "Dr Richard Murray / Concrete viaduct on dismantled  Comrie to St Fillans railway",
+      "title": "Dr Richard Murray / Concrete viaduct on dismantled Comrie to St Fillans railway",
       "caption": "Concrete viaduct on dismantled Comrie to St Fillans railway. Several of the bridges on this line were made of concrete, which was unusual in the 1890's"
     },
     {
@@ -49,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Dismantled_railway_near_River_Earn%2C_Dalchonzie%2C_Perthshire_-_geograph.org.uk_-_1578236.jpg",
-      "title": "Anthony O'Neil / Dismantled railway near River Earn,  Dalchonzie, Perthshire",
+      "title": "Anthony O'Neil / Dismantled railway near River Earn, Dalchonzie, Perthshire",
       "caption": "Dismantled railway near River Earn, Dalchonzie, Perthshire. The railway which once connected Loch Earn, and beyond, with Perth was a victim of the Beeching cuts in the 1960s. The old track has been removed to provide a delightful path for walkers along parts of the route from Comrie to St Fillans, thus avoiding the busy main road and revealing parts of the river not visible from the roadway."
     },
     {
@@ -69,11 +74,13 @@
     }
   ],
   "distance_km": 9.0,
-  "description": "This walk takes you along the old St Fillans and Comrie Railway from St Fillans to Dalchonzie and Comrie. Along the way you'll pass the old stations and viaducts with views of the River Earn and the surrounding hills to enjoy as well. You start off in the little village of St Fillans on the eastern shores of Loch Earn. Here you can still see the well preserved old St Filans station buildings which closed in 1951. The route then follows the dismantled railway line south east, passing St Fillans Hill and crossing the River Earn as you approach Dalchonzie. Here the walk picks up a quiet country lane taking you past Dalchonzie House and then into Comrie. To extend the walk head north to visit the splendid Deil's Cauldron. Here you'll find a cascading waterfall and several pools resembling a boiling cauldron. To continue your walking in the area try the Loch Earn Walk which takes you to a fine viewpoint above the loch. You could also pick up the Lochearnhead to St Fillans Railway Walk which will take you west along another section of the railway to Lochearnhead.",
+  "description": "This walk takes you along the old St Fillans and Comrie Railway from St Fillans to Dalchonzie and Comrie. Along the way you'll pass the old stations and viaducts with views of the River Earn Walk and the surrounding hills to enjoy as well. You start off in the little village of St Fillans on the eastern shores of Loch Earn. Here you can still see the well preserved old St Filans station buildings which closed in 1951. The route then follows the dismantled railway line south east, passing St Fillans Hill and crossing the River Earn as you approach Dalchonzie. Here the walk picks up a quiet country lane taking you past Dalchonzie House and then into Comrie. To extend the walk head north to visit the splendid Deil's Cauldron. Here you'll find a cascading waterfall and several pools resembling a boiling cauldron. To continue your walking in the area try the Loch Earn Walk which takes you to a fine viewpoint above the loch. You could also pick up the Lochearnhead to St Fillans Railway Walk which will take you west along another section of the railway to Lochearnhead.",
+  "details": [],
   "video_url": "https://www.youtube.com/embed/c31mB_TUItw",
   "postcode": "PH6 2NE",
   "district": "St Fillans",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

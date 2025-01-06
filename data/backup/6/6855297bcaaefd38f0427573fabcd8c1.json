@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:27:37.870863+00:00",
   "objectID": "6855297bcaaefd38f0427573fabcd8c1",
-  "created_at": "2024-12-19T01:10:49.605226+00:00",
   "ref": "torpel-way-walking-route",
   "title": "Torpel Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/The_fields_towards_Bainton_from_the_Torpel_Way_-_geograph.org.uk_-_356822.jpg",
@@ -65,10 +65,21 @@
   ],
   "distance_km": 18.0,
   "description": "This walk runs from Peterborough to Stamford through countryside and agricultural land. The path passes Marholm, Helpston and Barnack before finishing with a riverside stretch along the River Welland into Stamford. In Stamford you can extend your walk by visiting Burghley House. Head south from the trail to explore the stunning Capability Brown landscaped grounds.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Barnack there's the Millstone pub for a pit stop. It's an historic pub of some note, dating to 1672. They have bistro dining and a beautiful courtyard with it\u2019s own outside bar. You can find them at a postcode of PE9 3ET for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Barnack you could take a small detour from the route to visit the Barnack Hills And Holes National Nature Reserve. There's a rather interesting and unusual landscape here with grassy undulating slopes in an ancient medieval quarry. The site is noted for some signficant flora and fauna as well. You can find the reserve on the western side of Barnack village near Stamford. Postcode for sat navs is PE9 3EU."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9eXlTlhbMvM",
   "postcode": "PE3 8AA",
   "district": "Peterborough",
   "county": "City of Peterborough",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:55:46.465712+00:00",
   "objectID": "855b52c3a38e1120ecc97bca49689ab8",
-  "created_at": "2024-12-18T01:30:03.139369+00:00",
   "ref": "brighouse-boundary-walk-walking-route",
   "title": "Brighouse Boundary Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rail_Crossing_on_Brighouse_Boundary_Walk_-_geograph.org.uk_-_675039.jpg",
@@ -80,8 +80,19 @@
   ],
   "distance_km": 29.0,
   "description": "A circular walk exploring the area around the town of Brighouse in West Yorkshire. The 18 mile walk visits Norwood Green and Hartshead and includes a waterside stretch along the River Calder.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Millers Bar in Brighouse is a great place for refreshments. It's located on the Calder and Hebble Navigation Canal slightly off the route. There's a good menu and a lovely canalside beer garden to relax in on warmer days. From the garden you can also watch as climbers dare to risk the UKs tallest outdoor climbing wall, ROKTFACE which is located right next to the pub. It's a fine, award winning place and can be found at a postcode of HD6 1EB for your sat navs. In Bradley you could try the White Cross. Standing at the busy Leeds Road, Bradley crossroads the inn is a multi-award winning pub. It dates from 1806 and has a good menu and a beer garden to relax in. You can find it close to the canal at postcode HD2 1XD. Near here there's also The Royal and Ancient. The pub dates back to 1780 and does a fine Sunday lunch. You can find them at Colne Bridge, 19 Dalton Bank Road, HD5 0RE."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Brighouse you could follow the canal and the River Calder to nearby Mirfield on the Brighouse to Mirfield Canal Walk. It's about a 5 mile walk with lots of pretty locks and old bridges to see on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/C1fhyCEGhFU",
   "district": "Brighouse",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:34:26.625248+00:00",
   "objectID": "894fa036b4c15bcc13e110070520242a",
-  "created_at": "2024-12-18T13:59:23.428965+00:00",
   "ref": "sywell-country-park-walking-route",
   "title": "Sywell Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Sywell_Reservoir_-_geograph.org.uk_-_1906525.jpg",
@@ -95,8 +95,23 @@
   ],
   "distance_km": 4.5,
   "description": "Follow the waterside path around the delightful Sywell Reservoir on this easy walk in Northamptonshire. The reservoir gets a variety of winged visitors and there are two bird hides to use. Look out for terns, swallows, and many different ducks and geese. In the park you will find a small arboretum of exotic trees and a number of interesting Edwardian buildings. There is also an amphibian pond with a viewing boardwalk and a pretty butterfly garden. The park is located between Wellingborough and Northampton .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Pump house cafe sells a good range of meals, snacks and treats for you to enjoy after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland are great for dog walking so you'll probably see other owners on your visit. There are off lead areas, bins and water bowls at the cafe."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head about a mile south east to Earls Barton you could pick up the Nene Way and enjoy a nice waterside stroll along the towpath of the River Nene. There are a number of lakes in this area and the Summer Leys Nature Reserve as well. On the southern side of the river and canal you will find Delapre Abbey Park. There's 500 acres of parkland, lakes, woodland and gardens to explore on this popular historic site. A few miles to the north west there's the expansive Pitsford Reservoir and the adjacent Brixworth Country Park. The Northamptonshire Round long distance circular walk passes through the park. It takes you on a tour of the countryside and villages of the area. For more walking ideas in the area see the Northamptonshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Py8-fCo6UUM?start=119",
   "county": "North Northamptonshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

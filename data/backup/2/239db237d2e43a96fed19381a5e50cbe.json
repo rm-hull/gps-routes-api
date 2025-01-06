@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:42:16.993784+00:00",
   "objectID": "239db237d2e43a96fed19381a5e50cbe",
-  "created_at": "2024-12-20T09:15:34.942289+00:00",
   "ref": "stenbury-trail-walking-route",
   "title": "Stenbury Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Stenbury_trail_-_geograph.org.uk_-_1035172.jpg",
@@ -70,10 +70,21 @@
   ],
   "distance_km": 16.0,
   "description": "This trail follows bridleways along the river valley from Newport, passing Appuldurcombe, Stenbury and Week Downs before finishing at the delightful Ventnor botanic gardens on the coast. The walk involves a decent climb but you are rewarded with fabulous views of the island and coast. Highlights include the thatched cottages in the pretty village of Godshill and the English Heritage owned Appuldurcombe House .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Godshill you can enjoy a pit stop at The Taverners. The ancient inn dates to the 17th century and includes a charming old interior with oak beams, flagstone flooring and open fireplaces. They sell good quality food and also have a garden to sit out in. You can find them at postcode PO38 3HZ for your sat navs. The pub is dog friendly in the bar area. The village is also worth exploring with its thatched cottages and ancient church."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the north western outskirts of Newport you'll find the expansive Parkhurst Forest. The forest is criss crossed with miles of good walking and cycling trails and a fine place to extend your outing. It's also great for wildlife spotting with the resident red squirrels of particular note. The Ventnor to Steephill Cove Walk uses a section of the trail in the Ventnor area. It takes you to a popular little cove with kiosks, self catering cottages and a beach. The circular walk also visits the splendid Ventnor Botanical Gardens where you can enjoy a variety of Mediterranean plants and flowers. For more walking ideas in the area see the Isle of Wight Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/k1Z46zc8geY?si=21f4ycZtkcyyhvXQ",
   "postcode": "PO30 3BB",
   "district": "Newport",
   "county": "Isle of Wight",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

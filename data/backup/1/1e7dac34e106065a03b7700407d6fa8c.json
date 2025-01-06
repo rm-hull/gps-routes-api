@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:03:11.856919+00:00",
   "objectID": "1e7dac34e106065a03b7700407d6fa8c",
-  "created_at": "2024-12-18T17:54:46.171092+00:00",
   "ref": "ammanford-walking-route",
   "title": "Ammanford Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ammanford_Park_%28Recreated%29_-_geograph.org.uk_-_299160.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Old_Pontamman_road_bridge_-_geograph.org.uk_-_19214.jpg",
       "title": "Hywel Williams / Old Pontamman road bridge",
-      "caption": "Quay Street.  Looking north up Quay St, from near the junction with Hall St and angled towards the east side. The street is pedestrianised, and the terraced red brick buildings in the extreme distance have had their pinnacled dormer windows removed when the roof was replaced."
+      "caption": "Quay Street. Looking north up Quay St, from near the junction with Hall St and angled towards the east side. The street is pedestrianised, and the terraced red brick buildings in the extreme distance have had their pinnacled dormer windows removed when the roof was replaced."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ammanford%2C_Quay_Street.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 3.0,
   "description": "This former coal mining town is located in Carmarthenshire on the Heart of Wales Line. Local walking highlights include Llyn Llech Owain which lies just to the west. The country park includes peaceful woodland and some pleasant waterside trails around the pretty lake. To the north is the splendid Dinefwr Park in nearby Llandeilo. This walk in the town takes you through Ammanford Park to Betws Park where there are some nice trails along the River Amman. The Amman Valley Route is a shared cycling and walking trail running from Pantyffynnon to Brynamman via Ammanford. The traffic free path runs along the river with some splendid views to enjoy on the way. Scroll down for a list of walks in the local area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Heart of Wales Line Trail passes through the town. The 143 mile trail explores the Heart of Wales Railway Line, a wonderful rural railway running between Swansea and Shrewsbury. The trail visit several train stations, old railway lines and photogenic railway viaducts. Following the path south would take you to Pontarddulais where you could enjoy a climb to the splendid viewpoint at Graig Fawr."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/L7ltuYe_6Zg",
   "postcode": "SA18 3AL",
   "district": "Ammanford / Rhydaman",
   "county": "Sir Gaerfyrddin - Carmarthenshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:27:43.289737+00:00",
   "objectID": "300b530a9ac7d229e6cbfd8833943903",
-  "created_at": "2024-12-18T10:02:19.371742+00:00",
   "ref": "wheddon-cross-walking-route",
   "title": "Wheddon Cross Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg/512px-Wheddon_Cross_%2C_The_Rest_and_be_Thankful_Inn_-_geograph.org.uk_-_4435064.jpg",
@@ -47,16 +47,23 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Dunkery_Beacon_Exmoor_-_geograph.org.uk_-_2395874.jpg",
-      "title": "Dunkery Beacon  Exmoor by John Jennings, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Dunkery Beacon Exmoor by John Jennings, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dunkery Beacon Exmoor"
     }
   ],
   "distance_km": 11.0,
   "description": "Wheddon Cross is a Somerset based settlement notable as the highest village in the Exmoor National Park. As such it's a fine place to start a walk with miles of footpaths heading into the hills and surrounding countryside. There's also the Snowdrop Valley walks in February when the privately owned estate is opened to the public. Click here for more information on this popular winter walk. This circular walk takes you along the public footpaths that run past part of the Snowdrop valley to the north east of the settlement. Along the way there's some pleasant woodland trails and views of the River Avill which runs through the area. You'll then climb to Dunkery Beacon where there are some splendid views over Exmoor. Also of interest is the climb to Lype Hill in the Brendon Hills which can be accessed just to the south east of the village. This is a good choice for continuing your walking in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Rest and Be Thankful Inn is a fine village pub for some post walk refreshments. The 19th century coaching inn has an interesting history having originally been a staging post for travellers on their way between Dunster and Dulverton about 200 years ago. The bar area has a traditional country pub atmosphere, with log fires in winter and a good menu. There is a skittle alley and a pool table here too. You can find the inn at a postcode of TA24 7DR for your sat navs. The pub is nicely positioned in the Snowdrop Valley with tours and walks to the valley accessible from the bus leaving right from the door. They are dog friendly and also provide good quality accommodation if you need to stay over."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/u5XaPRVP4SM",
   "postcode": "TA24 7DP",
   "district": "Wheddon Cross",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

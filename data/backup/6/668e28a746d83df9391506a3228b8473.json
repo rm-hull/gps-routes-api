@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:53:21.435083+00:00",
   "objectID": "668e28a746d83df9391506a3228b8473",
-  "created_at": "2024-12-18T13:59:06.740795+00:00",
   "ref": "forfar-loch-country-park-walking-and-cycle-route",
   "title": "Forfar Loch Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Forfar_Loch_-_geograph.org.uk_-_405416.jpg",
@@ -79,11 +79,22 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "Follow the 2.5 mile trail around the beautiful Forfar Loch on this circular cycle or walk route in Angus. The loch is  surrounded by woodland, grassland and some lovely countryside. Other attractions include pitch and putt, crazy golf and the Lochside Leisure Centre. It's a great area for wildlife with kingfisher, otter, fox, roe deer and ospreys to look out for. There's also a Wildlife Garden with a variety of habitats to explore.",
+  "description": "Follow the 2.5 mile trail around the beautiful Forfar Loch on this circular cycle or walk route in Angus. The loch is surrounded by woodland, grassland and some lovely countryside. Other attractions include pitch and putt, crazy golf and the Lochside Leisure Centre. It's a great area for wildlife with kingfisher, otter, fox, roe deer and ospreys to look out for. There's also a Wildlife Garden with a variety of habitats to explore.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lochside path and the surrounding woodland are great for dog walking so you'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of the town you'll fine two more scenic lochs in the shape of Rescobie Loch and Balgavies Loch. The latter has some nice footpaths and is also a wildlife reserve. Here you'll find reedbeds and willow carr, attracting water rail, great crested grebe and a number of wintering wildfowl, including goldeneye, teal and wigeon. The reserve is also a haven for red squirrel and ospreys. The reserve has a car park and can be found at postcode DD8 2SE for your sat navs. Rescobie Loch sits just to its west and is a popular spot for anglers. If you head south east towards Angus you'll find a couple of other fine country parks to explore. Crombie Country Park and Monikie Country Park are located close to each other and both are well worth a visit. A few miles to the north west you could visit Kirriemuir and the Loch of Kinnordy. The RSPB nature reserve includes a wide variety of wildlife and nice waterside trails."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fwX7KZRknko",
   "postcode": "DD8 1RL",
   "district": "Forfar",
   "county": "Angus",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

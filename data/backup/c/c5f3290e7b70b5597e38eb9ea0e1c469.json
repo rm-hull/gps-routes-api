@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:40:01.939062+00:00",
   "objectID": "c5f3290e7b70b5597e38eb9ea0e1c469",
-  "created_at": "2024-12-18T01:21:46.812530+00:00",
   "ref": "chipstead-lake-walking-route",
   "title": "Chipstead Lake Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/View_of_Chipstead_Lake_-_geograph.org.uk_-_1450242.jpg",
@@ -40,10 +40,17 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a walk along this pretty lake in Sevenoaks. The walk takes you along the eastern and northern side of the water using part of the Darent Valley Path. Parking is available at the south eastern corner of the lake. The Sevenoaks Wildlife Reserve is just to the east and has more nice footpaths along several lakes.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise head to the splendid Bricklayers Arms for some post walk refreshments. The lakeside public house, includes three terraced cottages and has a fine menu. There's also a nice outdoor seating area with views overlooking the pretty Chipstead village green and the lake. The pub's sign represents Sir Winston Churchill, an expert bricklayer and whose home was at nearby Chartwell. You can find it in the village at postcode TN132RZ for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FkXrvap2tNo",
   "postcode": "TN13 2RX",
   "district": "Sevenoaks",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

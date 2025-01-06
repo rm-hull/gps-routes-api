@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:23:55.773800+00:00",
   "objectID": "65af6c1b42b841eb0a30b0c58afafc9b",
-  "created_at": "2024-12-19T05:44:34.133442+00:00",
   "ref": "wolves-wood-walking-route",
   "title": "Wolves Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Car_park_at_Wolves_Wood_RSPB_reserve_-_geograph.org.uk_-_1464336.jpg",
@@ -59,9 +59,16 @@
     }
   ],
   "distance_km": 1.6,
-  "description": "This short walk takes you around the RSPB's Wolves Wood near Hadleigh and Ipswich in Suffolk. You can start the walk from the car park off Lady Lane, just to the east of Hadleigh. From here follow the pleasant trails north into the reserve. It's a very peaceful and serene place with lots of interesting flora and fauna to see. There's a variety of woodland birds and several species of butterfly to see in the warmer months too. To continue your walking in the area head west to pick up the Hadleigh Railway Walk and enjoy a stroll along the  trackbed of the Hadleigh Railway line from Hadleigh to Raydon Wood.",
+  "description": "This short walk takes you around the RSPB's Wolves Wood near Hadleigh and Ipswich in Suffolk. You can start the walk from the car park off Lady Lane, just to the east of Hadleigh. From here follow the pleasant trails north into the reserve. It's a very peaceful and serene place with lots of interesting flora and fauna to see. There's a variety of woodland birds and several species of butterfly to see in the warmer months too. To continue your walking in the area head west to pick up the Hadleigh Railway Walk and enjoy a stroll along the trackbed of the Hadleigh Railway line from Hadleigh to Raydon Wood.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are not allowed at the reserve."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gTPH3MSisb4",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

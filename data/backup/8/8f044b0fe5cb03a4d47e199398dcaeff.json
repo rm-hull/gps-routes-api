@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:08:47.414517+00:00",
   "objectID": "8f044b0fe5cb03a4d47e199398dcaeff",
-  "created_at": "2024-12-18T11:27:37.197784+00:00",
   "ref": "kirkintilloch-to-bishopbriggs-canal-walk-walking-route",
   "title": "Kirkintilloch to Bishopbriggs Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Luggie_Water%2C_Kirkintilloch_-_geograph.org.uk_-_434129.jpg",
@@ -70,9 +70,24 @@
   ],
   "distance_km": 6.5,
   "description": "This walk runs along a pleasant section of the Forth and Clyde Canal from Kirkintilloch to Bishopbriggs. It's about a 4 mile walk along the flat towpath, passing several bridges, old stables and the site of Roman Forts on the way. The walk starts in Kirkintilloch and follows the towpath west to Westermains and Cadder where you pass the Hungryside Bridge. Shortly after passing Cadder you come to Farm Bridge at Bishopbriggs where the route finishes.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Stables is a good choice for refreshments on the walk. This Georgian canalside pub has a great menu and an outdoor seating area with views of the canal. The Stables was built to serve the watermen and horses using the Forth and Clyde Canal. When the canal was first built the boats that used it were pulled by horses, as a horse could go a few miles before needing a rest stables were built along the route. You can find the pub at Kirkintilloch with a postcode of G66 1RH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The towpath is a nice place to take your dog for a walk and the Stables pub mentioned above is also very dog friendly. They will provide water and treats for your four legged friend."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To extend the walk continue west along the canal to Glasgow, passing the Possil Loch on the way. In the city you can pick up the Clyde Walkway and the Kelvin Walkway and enjoy more waterside walking along these two rivers."
+    }
+  ],
   "postcode": "G66 1LR",
   "district": "Kirkintilloch",
   "county": "East Dunbartonshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

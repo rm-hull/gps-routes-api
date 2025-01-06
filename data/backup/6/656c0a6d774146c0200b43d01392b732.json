@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:17:48.138641+00:00",
   "objectID": "656c0a6d774146c0200b43d01392b732",
-  "created_at": "2024-12-19T05:34:02.722770+00:00",
   "ref": "epsom-common-walking-and-cycle-route",
   "title": "Epsom Common Walk and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Epsom_Common_-_geograph.org.uk_-_1054321.jpg",
@@ -85,8 +85,23 @@
   ],
   "distance_km": 4.0,
   "description": "Follow this cycle and walking track around this large open space in Surrey. There are peaceful woodland trails, several ponds, fields with grazing cows and a wide variety of wildlife (the site is also a local nature reserve). If you would like to continue your exercise why not visit the nearby Horton Country Park or follow the Thames Down Link which passes through the common. The adjacent Ashtead Common National Nature Reserve also has miles of cycling and walking paths to enjoy. Just to the south east you will find Epsom Downs. You can follow a footpath across the famous racecourse and enjoy attractive chalk downland, grassland and woodland.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Cricketers Inn is conveniently located right next to the common. It's in a lovely spot with views of the picturesque cricket green and duck pond. There's an attractive interior and an outdoor area for warmer days. You can find the pub at 1 Stamford Green Road with a postcode of KT18 7SR for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a popular place for dog walking and you'll likely see plenty of other dogs on your outing. The Cricketers Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Chessington Walk starts from the Chessington South train station just to the north of the reserve. It runs past the famous theme park before visiting Ashtead Common and Epsom Common. It then picks up the London Looop to visit Horton Country Park and Chessington village. The walk is a nice way to explore the surrounding countryside and visit some of the other local highlights using public transport. Just to the north west of the common there's Oxshott Heath and Woods to visit. The village is also notable as being one of the most expensive places to live in the country. Residents include several premier league footballers and tennis player Andy Murray. For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MYaCn8OcZv0",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

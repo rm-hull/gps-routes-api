@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:18:01.211201+00:00",
   "objectID": "dd572bb886bb1656d0af60b0e8f63d14",
-  "created_at": "2024-12-18T15:54:24.302802+00:00",
   "ref": "inversnaid-falls-walking-route",
   "title": "Inversnaid Falls Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Inversnaid_Falls_-_geograph.org.uk_-_1129656.jpg",
@@ -65,8 +65,19 @@
   ],
   "distance_km": 2.0,
   "description": "Visit these beautiful falls next to Loch Lomond on this short walk. The route starts at the Inversnaid Hotel before a short stroll takes you to the falls on Arklet Water. You can then continue your walk by climbing through the surrounding woodland and heading along the loch using the West Highland Way. You could also extend your walk by visiting the RSPB Inversnaid Nature Trail where you can look out for a variety of wildlife.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Inversnaid Hotel sits in a splendid location right next to the loch. It has some interesting history having previously been a hunting lodge for the Duke of Montrose. There are also links to Scotland's famous clan warfare and the clearances in the 18th century. From here there are fine views of nearby Arklet falls, the muse of Wordsworth and Sir Walter Scott."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you catch the boat to the western side of the loch at Inveruglas you could pick up the epic Cowal Way. The long distance route takes you to Portavadie on the banks of Loch Fyne. The Rowardennan to Inversnaid Walk will take you along the West Highland Way to Rowardennan where you can pick up the popular climb to Ben Lomond. The next stage is on the Inversnaid to Tyndrum Walk which takes you through Glen Falloch to Crianlarich and Tyndrum. For more walking ideas in the area see the Loch Lomond and the Trossachs Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/K7ylCdXKrVc",
   "county": "Stirling",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

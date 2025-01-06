@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:33:37.789001+00:00",
   "objectID": "b0d91ef3de8063faa322d7cbb16c0a6e",
-  "created_at": "2024-12-21T19:54:14.474191+00:00",
   "ref": "ayrshire-coastal-path-walking-route",
   "title": "Ayrshire Coastal Path and Map Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Maidenhead_Bay_View_-_geograph.org.uk_-_1705908.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Maidenhead_Bay_View_-_geograph.org.uk_-_1705908.jpg",
       "title": "Mary and Angus Hogg / Maidenhead Bay View, via Wikimedia Commons",
-      "caption": "Maidenhead Bay View.  Looking towards Maidenhead Bay and the caravan site at the end of the beach. Viewed from a barley field above the village on a fine February afternoon."
+      "caption": "Maidenhead Bay View. Looking towards Maidenhead Bay and the caravan site at the end of the beach. Viewed from a barley field above the village on a fine February afternoon."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Turnberry_Bay_View_-_geograph.org.uk_-_1138626.jpg",
@@ -75,9 +75,11 @@
   ],
   "distance_km": 161.0,
   "description": "A walk along the beautiful Ayrshire Coast from Glenapp Kirk, just north of Stranaraer, to Skelmorlie, near Greenock. The route passes Ayr, Prestwick, Saltcoats, Troon and Largs. As well as the fabulous coastal scenery there is the beautiful backdrop of the mountains of Arran across the Firth of Clyde to enjoy. There is also a variety of wildlife including 135 species of bird, seals, otters, roe deer and foxes. Other highlights include the dramatic Culzean Castle Country Park. Here you'll find an 18th century castle perched on a clifftop on the Ayrshire coast. It's well worth exploring the extensive grounds containing lush woodland, landscaped gardens. In Ayr the route links with the River Ayr Walk. The route follows the whole length of the River Ayr from the coast to the source at Glenbuck Loch. The Ayrshire Coastal Path is waymarked with a green and white disc.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b0d91ef3de8063faa322d7cbb16c0a6e.gpx",
-  "_geoloc": {
-    "lat": 55.0284124639,
-    "lng": -5.0150766521
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Largs you could take a small detour to climb to the excellent viewpoint and Iron Age Hillfort at Knock Hill. Also near Largs you can take a detour from the route to pick up the popular Fairlie Glen Circular Walk. It's a delightful walk with babbling streams, woodland trails, open glens, photogenic waterfalls and fine coastal views."
+    }
+  ],
+  "gazetteer_found": false
 }

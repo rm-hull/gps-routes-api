@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T04:47:41.932945+00:00",
   "objectID": "e1bfc0c7af3970a38463966c6b81f734",
-  "created_at": "2024-12-18T01:10:38.455098+00:00",
   "ref": "stalham-walking-route",
-  "title": "Stalham Circular Walk Route",
+  "title": "Stalham\u00a0Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Stalham_Staithe_-_geograph.org.uk_-_3591024.jpg/512px-Stalham_Staithe_-_geograph.org.uk_-_3591024.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e1bfc0c7af3970a38463966c6b81f734.gpx",
   "_geoloc": {
@@ -23,7 +23,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Sutton_Mill_and_Broads_Museum_-_geograph.org.uk_-_43593.jpg/256px-Sutton_Mill_and_Broads_Museum_-_geograph.org.uk_-_43593.jpg",
       "title": "Christine Matthews / Sutton Mill and Broads Museum",
-      "caption": "Sutton Mill and Broads Museum. Sutton Mill is a Tower Mill and is Britain's tallest windmill. This historic corn mill was built over 200 years ago and was in use until 1940. A few years ago the then derelict mill was bought by the Nunn family who began the lengthy restoration work, which was still in progress at the time of my visit in 1996. A policy of traditional replacement was being pursued, using materials as near to the original as possible. The mill contains complete milling machinery, four sets of mill-stones, sack hoist and nine floors. The corn milling machinery is considered to be the finest in the area. The mill housed a museum  with examples of everyday household items, some long forgotten or unknown by people today. Sutton Mill is situated on the edge of the village of Sutton on New Road not far from Sutton Hall."
+      "caption": "Sutton Mill and Broads Museum. Sutton Mill is a Tower Mill and is Britain's tallest windmill. This historic corn mill was built over 200 years ago and was in use until 1940. A few years ago the then derelict mill was bought by the Nunn family who began the lengthy restoration work, which was still in progress at the time of my visit in 1996. A policy of traditional replacement was being pursued, using materials as near to the original as possible. The mill contains complete milling machinery, four sets of mill-stones, sack hoist and nine floors. The corn milling machinery is considered to be the finest in the area. The mill housed a museum with examples of everyday household items, some long forgotten or unknown by people today. Sutton Mill is situated on the edge of the village of Sutton on New Road not far from Sutton Hall."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hickling_Staithe_-_geograph.org.uk_-_4030474.jpg/512px-Hickling_Staithe_-_geograph.org.uk_-_4030474.jpg",
@@ -53,9 +53,16 @@
   ],
   "distance_km": 11.0,
   "description": "This circular walk explores the countryside around the market town of Stalham in the Norfolk Broads. The route uses a mixture of country lanes and local footpaths to visit Hickling Broad and the neighbouring village of Sutton. On the way there's some lovely waterside paths and views of the attractive countryside. You'll also pass the historic Sutton corn mill, the tallest mill in the country. See the ITV Anglia video below for details of the mill restoration and views of the area. Start the walk from the attractive Stalham Staithe where there's an information centre, musueum and boat trips. From here you can follow a section of the Weaver Way south east to the Sutton Corn Mill and then on to Hickling village where you can enjoy views across the expansive Hickling Broad. The route then heads west to Sutton village before returning to the village via Stalham Green.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a few miles to the east there's the coast at Sea Palling. Here you can visit the blue flag beach, explore the sand dunes and enjoy a cliff top coastal walk. For more walking ideas in the area see the Norfolk Broads Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/x38NltPdumk",
   "district": "Stalham",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

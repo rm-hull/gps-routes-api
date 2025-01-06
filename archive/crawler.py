@@ -9,17 +9,11 @@ import requests
 from detail_extractor import DetailExtractor
 from utils import get_datahub_client, get_object_id, get_search_client, ROUTES_INDEX
 
-# from algoliasearch.http.exceptions import RequestException
-
 
 datahub = get_datahub_client()
 
 
 def store_objects(records: list):
-    # return algolia_client.save_objects(
-    #     index_name=ROUTES_INDEX,
-    #     objects=records,
-    # )
     for record in records:
         object_id = record["objectID"]
         with open(f"../data/backup/{object_id[0]}/{object_id}.json", mode="w") as fp:
@@ -55,13 +49,9 @@ def gazetteer_info(record: dict) -> dict:
     return result
 
 
-def oversized(record: dict) -> bool:
-    return len(json.dumps(record)) > 10000
-
-
 @functools.cache
 def load_all_routes() -> list[str]:
-    with open("../data/unprocessed-list.txt", mode="r") as fp:
+    with open("../data/full-list.txt", mode="r") as fp:
         return fp.read().splitlines()
 
 
@@ -75,29 +65,10 @@ def select_unprocessed_route() -> tuple[int, str | None]:
         ref = route.split("/")[-1]
         object_id = get_object_id(ref)
 
-        if not os.path.exists(f"../data/backup/{object_id[0]}/{object_id}.json"):
-            return attempt, route
-
-        # try:
-        #     resp = algolia_client.get_object(
-        #         index_name=ROUTES_INDEX,
-        #         object_id=get_object_id(ref),
-        #         attributes_to_retrieve=["country", "_geoloc", "gazetteer_found"],
-        #     )
-        #     if "_geoloc" not in resp:
-        #         continue
-
-        #     if "gazetter_found" in resp:
-        #         continue
-
-        #     if "country" not in resp:
-        #         return attempt, route
-
-        # except RequestException as ex:
-        #     if ex.status_code == 404:
-        #         return attempt, route
-        #     else:
-        #         continue
+        with open(f"../data/backup/{object_id[0]}/{object_id}.json", "r") as fp:
+            record = json.load(fp)
+            if "details" not in record:
+                return attempt, route
 
     return attempt, None
 
@@ -129,7 +100,7 @@ def random_page_crawl():
 
 def unprocessed_entries_crawl():
     records = []
-    limit = 30
+    limit = 5000
 
     for index in range(limit):
         num_attempts, url = select_unprocessed_route()
@@ -144,10 +115,6 @@ def unprocessed_entries_crawl():
         record = DetailExtractor(markup).process()
         record.update(gazetteer_info(record))
 
-        # if oversized(record):
-        #     print(f"WARN: {url} is oversized")
-        # else:
-        #     records.append(record)
         store_objects([record])
 
     # store_objects(records)

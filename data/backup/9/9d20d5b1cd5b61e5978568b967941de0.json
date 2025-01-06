@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:07:42.286075+00:00",
   "objectID": "9d20d5b1cd5b61e5978568b967941de0",
-  "created_at": "2024-12-18T01:34:49.932537+00:00",
   "ref": "abermawr-woods-walking-route",
   "title": "Abermawr Beach and Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Abermawr_Woods_-_geograph.org.uk_-_984348.jpg",
@@ -39,7 +39,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Cable_hut%2C_Abermawr_-_geograph.org.uk_-_685341.jpg",
-      "title": "ceridwen / Cable hut,  Abermawr",
+      "title": "ceridwen / Cable hut, Abermawr",
       "caption": "Cable hut. This tiny building, now a holiday let, played a significant role in history as the place where the first underwater cable link between Ireland and Great Britain came ashore in 1862, and a second one in 1880. Equipment here received the messages and operators relayed them to London. During WW1 the terminal was deemed important enough to warrant an armed guard to be stationed here."
     },
     {
@@ -70,8 +70,15 @@
   ],
   "distance_km": 2.5,
   "description": "This short walk takes you along Abermawr Beach and through Abermawr Woods on the Pembrokeshire Coast. You'll pass along the pretty shingle beach and enjoy peaceful woodland trails in the adjacent wood. It's a lovely spot with great coastal views and bluebells in the wood in the spring. Parking is available at the turning circle near the beach from which this walk starts.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north along the Pembrokeshire Coast Path and you could visit the beautiful Strumble Head. The town of Fishguard is also not far along the coast. For more walking ideas in the area see the Pembrokeshire Coast Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/A8msTe2J93E",
   "county": "Sir Benfro - Pembrokeshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

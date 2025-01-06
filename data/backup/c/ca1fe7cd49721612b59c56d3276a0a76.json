@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:52:50.220882+00:00",
   "objectID": "ca1fe7cd49721612b59c56d3276a0a76",
-  "created_at": "2024-12-20T03:32:21.547011+00:00",
   "ref": "cairn-gorm-walking-route",
   "title": "Cairn Gorm Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/512px-Cairngorm_mountains_with_cumulus_clouds.JPG",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Cairngorm_mountains_with_cumulus_clouds.JPG/512px-Cairngorm_mountains_with_cumulus_clouds.JPG",
       "title": "Oliver Arend, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
-      "caption": "Cairngorm mountains, looking north, taken from the \"Windy Ridge Path\" to the Cairn Gorm summit, showing cumulus clouds"
+      "caption": "Cairngorm mountains, looking north, taken from the \"Windy Ridge Path\" to the Cairn Gorm summit, showing cumulus clouds. The walk traverses a range of habitats, each supporting distinctive flora and fauna. At lower elevations, remnants of Caledonian pine forests feature Scots pine, birch, and juniper, providing habitats for species such as red squirrels and crossbills. As the altitude increases, the landscape transitions to heather moorland, dominated by ling heather and blaeberry, which support insects like the mountain bumblebee. In the alpine zone, hardy plants such as moss campion and dwarf willow adapt to the harsh conditions, and ptarmigans, well-camouflaged birds, can often be spotted among the rocks."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Stacan_Dubha_-_geograph.org.uk_-_886049.jpg",
@@ -74,9 +74,16 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "This walk follows the signed 'Windy Ridge Path' from the Cairngorm Ski Centre car park to the summit of the mountain.  At 1245 metres (4084 ft) Cairn Gorm is the sixth highest mountain in the United Kingdom. The route passes the Ptarmigan Restaurant, the highest restaurant in the UK. It is located at the Ptarmigan Train Station of the CairnGorm Mountain railway. It's just over half way from the summit so it's a great place to stop for refreshments and enjoy wonderful views of Loch Morlich, the Rothiemurchus Forest, Ben Nevis and Ben Hope. You continue to the summit where you will find a cairn and a weather station building. The views of the surrounding area are truly wonderful. You descend via the same path with the option of catching the funicular railway back to the base at Ptarmigan. The Ben Macdui and Coire an t-Sneachda walks start from the same car park so if you'd like to continue your walking in the area then these are good options.",
+  "description": "This walk follows the signed 'Windy Ridge Path' from the Cairngorm Ski Centre car park to the summit of the mountain. At 1245 metres (4084 ft) Cairn Gorm is the sixth highest mountain in the United Kingdom. The route passes the Ptarmigan Restaurant, the highest restaurant in the UK. It is located at the Ptarmigan Train Station of the CairnGorm Mountain railway. It's just over half way from the summit so it's a great place to stop for refreshments and enjoy wonderful views of Loch Morlich, the Rothiemurchus Forest, Ben Nevis and Ben Hope. You continue to the summit where you will find a cairn and a weather station building. The views of the surrounding area are truly wonderful. You descend via the same path with the option of catching the funicular railway back to the base at Ptarmigan. The Ben Macdui and Coire an t-Sneachda walks start from the same car park so if you'd like to continue your walking in the area then these are good options.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south you can enjoy a circular walk around the beautiful Loch Avon and along the River Avon. There's also the smaller Loch Etchachan, a popular place with wild swimmers and wild campers. A few miles to the north west there's nice trails around Loch Morlich and the unusual Green Loch in the Glenmore Forest Park. There's good facilities here with a visitor centre and car park. For more walking ideas in the area see the Cairngorms Walks page."
+    }
+  ],
   "postcode": "PH22 1RB",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

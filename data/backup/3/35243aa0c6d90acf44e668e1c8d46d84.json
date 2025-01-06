@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:36:48.103089+00:00",
   "objectID": "35243aa0c6d90acf44e668e1c8d46d84",
-  "created_at": "2024-12-18T15:54:19.303797+00:00",
   "ref": "castle-donington-walking-route",
   "title": "Walk around Castle Donington Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Castle_Donington_churchyard_-_geograph.org.uk_-_1437362.jpg",
@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jolly_Potters_-_geograph.org.uk_-_1437257.jpg",
       "title": "Alan Murray-Rust / Jolly Potters",
-      "caption": "Jolly Potters in the town.  An attractive example of a basic 19th century public house. The painted panel can just be made out to show 'Offilers', a Derby-based brewery."
+      "caption": "Jolly Potters in the town. An attractive example of a basic 19th century public house. The painted panel can just be made out to show 'Offilers', a Derby-based brewery."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Hemington_village_-_geograph.org.uk_-_714619.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 4.0,
   "description": "This historic market town in Leicestershire, is located near the National Forest, just north of East Midlands Airport. The attractive town includes a number of Tudor houses and a noteworthy 13th century church. This walk from the town heads east to visit Hemington, Daleacre Hill and Lockington. There's some nice countryside views and some interesting old buildings to see in the nearby villages. The walk starts on the northern side of the town where you can pick up footpaths heading east past the remains of the old 13th century castle to the neighbouring village of Hemington. You continue east past Daleacre Hill to Lockington where you can see Lockington Hall. The hall is Grade II listed and dates from the 17th century. You then pick up Church Lane and follow it west back to Hemington. You'll pass the ruins of the old chapel which has not been used since the 16th century. From here you retrace your steps to Castle Donington.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the town the Castle Inn is a good choice for post walk refreshment. The 18th Century Coaching inn serves fine wood fired pizzas and has a nice roof top terrace garden to sit out in. You can find them at 2 High Street, DE74 2PP."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The footpaths make for a nice dog walk and the Castle Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head south west from the town you can visit some highlights of the area at the Melbourne Hall and Staunton Harold Reservoir. A couple of miles to the west is Donington Park. It is famously used as a motor racing track and is also the venue for the Download Music Festival. To the north you can pick up the towpath of the Trent and Mersey Canal around Shardlow and Long Eaton. To the east at Kegworth there's the long distance Midshires Way to try. For more walking ideas in the area see the Leicestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gvbo-xgMAtU",
   "postcode": "DE74 2EF",
   "district": "Castle Donington",
   "county": "Leicestershire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

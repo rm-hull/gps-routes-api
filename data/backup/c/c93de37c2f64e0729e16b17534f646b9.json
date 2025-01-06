@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:14:42.147142+00:00",
   "objectID": "c93de37c2f64e0729e16b17534f646b9",
-  "created_at": "2024-12-18T12:42:37.268131+00:00",
   "ref": "wansfell-pike-walking-route",
   "title": "Wansfell Pike Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_southern_side_of_Wansfell_Pike_-_geograph.org.uk_-_1761159.jpg/512px-The_southern_side_of_Wansfell_Pike_-_geograph.org.uk_-_1761159.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Looking_west_from_Wansfell_Pike_-_geograph.org.uk_-_844336.jpg",
       "title": "David Pickersgill / Looking west from Wansfell Pike",
-      "caption": "Looking west from Wansfell Pike.  Ridge after ridge of mountains including the Langdale Pikes, Bow Fell and - just visible in the furthest distance toward the left - Scafell Pike. The lakes are Grasmere (centre) and Rydal Water (right)."
+      "caption": "Looking west from Wansfell Pike. Ridge after ridge of mountains including the Langdale Pikes, Bow Fell and - just visible in the furthest distance toward the left - Scafell Pike. The lakes are Grasmere (centre) and Rydal Water (right)."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Tracks_by_the_wall%2C_Wansfell_-_geograph.org.uk_-_2881519.jpg",
@@ -69,11 +69,22 @@
     }
   ],
   "distance_km": 10.0,
-  "description": "This circular walk in the Lake District takes you up Wansfell Pike fell to Troutbeck, and then back through Skelghyll woods. It's popular with walkers as it begins and ends in the accessible town of Ambleside. The first section of the walk takes you from the centre of Ambleside to Stock Ghyll Force, a spectacular 70 foot waterfall which can be viewed safely from a railed viewpoint. You continue the ascent to the peak of Wansfell Pike where there are stunning views of the Coniston Fells, Fairfield, Lake Windermere and Red Screes. You descend along Nanny Lane to the village of Troutbeck before country lanes take you on to Townend. This 17th century  stone and slate farmhouse is run by the National Trust and open to the public. Inside you will find intricately carved furniture, a traditional farmhouse kitchen with a real fire and a fine collection of books which are of international importance. From Townend you follow Robin Lane to Skelghyll woods before returing to Ambleside. The route is also often started from Troutbeck - see the lovely video on the right for details.",
+  "description": "This circular walk in the Lake District takes you up Wansfell Pike fell to Troutbeck, and then back through Skelghyll woods. It's popular with walkers as it begins and ends in the accessible town of Ambleside. The first section of the walk takes you from the centre of Ambleside to Stock Ghyll Force, a spectacular 70 foot waterfall which can be viewed safely from a railed viewpoint. You continue the ascent to the peak of Wansfell Pike where there are stunning views of the Coniston Fells, Fairfield, Lake Windermere and Red Screes. You descend along Nanny Lane to the village of Troutbeck before country lanes take you on to Townend. This 17th century stone and slate farmhouse is run by the National Trust and open to the public. Inside you will find intricately carved furniture, a traditional farmhouse kitchen with a real fire and a fine collection of books which are of international importance. From Townend you follow Robin Lane to Skelghyll woods before returing to Ambleside. The route is also often started from Troutbeck - see the lovely video on the right for details.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Ambleside head to the Unicorn Inn for some refreshments after your walk. This quintessential traditional Lakeland public house is the oldest pub in Ambleside, dating back to the 18th century. They do good home cooked food and have a fine selection of ales. You can find the pub in the town at postcode LA22 9DT for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a shorter and easier climb you could head to the nearby Jenkin's Crag. It's located just to the south of the town and includes a visit to the pretty Stagshaw Gardens before climbing to the viewpoint over Windermere. For more walking ideas in the area see the Lake District Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LHTzdUFN9cQ",
   "postcode": "LA22 0AB",
   "district": "Ambleside",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:56:41.634111+00:00",
   "objectID": "b864f930ed61f1ddefe5725216d3f7be",
-  "created_at": "2024-12-19T07:56:27.724828+00:00",
   "ref": "alban-way-walking-and-cycle-route",
   "title": "Alban Way - St Albans to Hatfield Cycle Route Map",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cmglee_Alban_Way_cyclists.jpg/256px-Cmglee_Alban_Way_cyclists.jpg",
@@ -55,7 +55,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/St_Albans_Cathedral_grounds_-_geograph.org.uk_-_844293.jpg",
       "title": "HENRY CLARK / St Albans Cathedral grounds",
-      "caption": "St Albans Cathedral grounds. The grounds of the cathedral are a pleasant place for a stroll. The abbey itself is well worth exploring with architecture dating from Norman times. It has a fascinating history having previously been an abbey until its dissolution in the 16th century. It later became a cathedral in 1877.  At 85 metres long, it has the longest nave of any cathedral in England."
+      "caption": "St Albans Cathedral grounds. The grounds of the cathedral are a pleasant place for a stroll. The abbey itself is well worth exploring with architecture dating from Norman times. It has a fascinating history having previously been an abbey until its dissolution in the 16th century. It later became a cathedral in 1877. At 85 metres long, it has the longest nave of any cathedral in England."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Cmglee_Alban_Way_Nast_Hyde_Halt_platform.jpg/512px-Cmglee_Alban_Way_Nast_Hyde_Halt_platform.jpg",
@@ -70,10 +70,29 @@
   ],
   "distance_km": 9.2,
   "description": "Follow the disused Hatfield to St Albans railway line on this popular route from St Albans to Hatfield. It is a shared cycle and walk path and makes for an easy and safe stroll or ride. The route runs for about 6 miles with nice views of the countryside along the way. If you enjoy this ride then you could also try the Cole Green Way. It's another traffic free rail trail running from Welwyn Garden City to Hertford. See the St Albans Cycle Routes page for more rides around the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you could stop off at the little hamlet of Sleapshyde and visit The Plough. It's a historic pub of some note with the primary alehouse dating back to 1690. There's a cosy interior featuring wooden beams, lime plastered walls, two fireplaces and low ceilings. Outside there's a lovely garden area and terrace where you can enjoy views of the surrounding fields with your meal. The inn is located just south of the route as you approach Nast Hyde Halt and Hatfield. You can find them on Sleapshyde Lane with a postcode of AL4 0SE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The path is nice for dog walking though on weekends it can get busy with cyclists. As such it's best to bring your dog on quieter days or keep them on leads if there are lots of bikes around. The Plough pub mentioned above is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To extend your exercise you could explore the extensive grounds of the historic Hatfield House. The grounds include several waymarked walking trails with woodland, parkland and gardens to see. It's also steeped in history having been the childhood home of Queen Elizabeth I. On the northern outskirts of St Albans there's miles of good cycling and walking trails to be found around the Heartwood Forest near Sandridge. For more walking ideas in the area see the Hertfordshire Walks page."
+    },
+    {
+      "subtitle": "Visitor Reviews",
+      "content": "\"A pleasant, flat ride through old railway tracks, perfect for family outings. Loved spotting the abandoned stations along the way. Could use a few more signposts, though.\" \"Alban Way is ideal for commuting between Hatfield and St Albans. Smooth tarmac, no hills\u2014just pure cycling joy. Great way to enjoy greenery without straying too far from civilisation.\" \"It\u2019s lovely for a stroll, but the cyclists zoom by without warning. Be sure to keep pets on a leash. Nice bit of history with the old platforms, though!\" \"Highly recommend for beginners and casual cyclists. It\u2019s safe, traffic-free, and offers a glimpse into the area's railway past. Perfect on a sunny afternoon.\" \"Great trail, but some crossings can be tricky if you're not familiar with the route. That said, the peaceful atmosphere and lack of steep gradients make up for it!\""
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/DsYpoGnIWyE",
   "postcode": "AL1 2DG",
   "district": "St Albans",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

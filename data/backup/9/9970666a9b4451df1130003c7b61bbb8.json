@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:16:59.295090+00:00",
   "objectID": "9970666a9b4451df1130003c7b61bbb8",
-  "created_at": "2024-12-18T17:13:02.965745+00:00",
   "ref": "shaw-forest-park-walking-route",
   "title": "Shaw Forest Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/512px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg/512px-Evergreen_trees%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1705791.jpg",
       "title": "Brian Robert Marshall / Evergreen trees, Shaw Forest Park, Swindon, via Wikimedia Commons",
-      "caption": "Evergreen trees, Shaw Forest Park, Swindon.  The bright colour of stand of conifers contrasts with the rather sere-looking winter grass. The houses beyond are in Sparcells, a 1980s residential development."
+      "caption": "Evergreen trees, Shaw Forest Park, Swindon. The bright colour of stand of conifers contrasts with the rather sere-looking winter grass. The houses beyond are in Sparcells, a 1980s residential development."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg/512px-Pylon%2C_Shaw_Forest_Park%2C_Swindon_-_geograph.org.uk_-_1704955.jpg",
@@ -55,8 +55,15 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy some nice walking trails in this community woodland in Swindon. You can park in the car park on Forest Park Road off Mead Way. From here you can pick up the trails to the ash/willow woodland, wildflower meadows, grassland and ponds. Look out for wildlife including roe deer, foxes and various wildfowl. At the north western edge of the park you can visit the pretty Peatmoor Lake. To extend your outing you can head a mile north and visit Mouldon Hill Country Park. Here you'll find a lake, the River Ray, a section of the North Wilts Canal and nice views from the high points. Also nearby is Lydiard Country Park. Here you'll find 260 acres of lawns, woodlands and pasture to walk or cycle through. Our circular Swindon Cycle Route visits all these parks using signed cycle routes which run through the town.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west there's neighbouring Wootton Bassett where you could visit the Jubilee Lake Nature Reserve on the northern side of the town. There's some pleasant waterside footpaths with lots of wildlife to see here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9TSsE0L7eCc",
   "county": "Swindon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:11:22.449560+00:00",
   "objectID": "9cce20d45cd68785674da3aa419c117b",
-  "created_at": "2024-12-18T19:45:10.403067+00:00",
   "ref": "regents-park-walking-route",
   "title": "Regent's Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Regent%27s_Park_open_air_theatre.jpg",
@@ -65,10 +65,17 @@
   ],
   "distance_km": 3.5,
   "description": "This walk takes you around the beautiful Regent's Park in North London. There's 395 acres to explore with highlights including the stunning Queen Mary's Gardens which features 400 varieties of roses and a lovely waterfall. Stroll down long wide footpaths lined with pretty flowers and dotted with beautiful statues and fountains. There's also a large boating lake and the famous zoo to visit. You can extend the walk by crossing the Regent's Canal and climbing Primrose Hill for great views over the city. The waymarked 60km Jubilee Greenway also passes through the park so you could pick this up to explore the capital further. Cyclists can pass through the northern end of the park along the canal. You can virtually explore the park using the google street view link below!",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Boathouse Cafe is a family restaurant with a large terrace seating area where you can sit outside and enjoy views of the lake. It is located on The Boating Lake near Hanover Gate and sells sandwiches, toasties, flat bread pizza\u2019s, soup, stew, cakes and snacks. The Regent's Bar & Kitchen is located in the middle of Regent's Park on the Inner Circle, close to the Open Air Theatre and to the Queen Mary's Gardens. In good weather it includes a terrace BBQ offering burgers, hot dogs and vegetarian options alongside ice cold draft beer and Pimm's during the summer."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/V_bmQLSm1dE",
   "postcode": "NW1 4LL",
   "district": "City of Westminster",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

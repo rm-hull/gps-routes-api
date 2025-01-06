@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:12:57.969687+00:00",
   "objectID": "ad9bed919f8e4384c62230f6d4566d1c",
-  "created_at": "2024-12-18T23:07:21.909654+00:00",
   "ref": "ossett-walking-route",
   "title": "Ossett Walks - Near and Around",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ossett_Town_Hall_%28geograph_5250873%29.jpg/512px-Ossett_Town_Hall_%28geograph_5250873%29.jpg",
@@ -43,9 +43,24 @@
   ],
   "distance_km": 11.0,
   "description": "This West Yorkshire market town is located in the Wakefield area of the county. There's some nice country trails and a series of nearby reservoirs to visit in the area. To the west there's also some riverside trails along the River Calder and the Kirklees Way near Dewsbury. This walk from the town follows a section of the Leeds Country Way north to visit West Ardsley and Ardsley Reservoir. You can start the walk on the northern side of the town and then follow the waymarked trail north to lake. Here you 'll find a nice circular walk running around the perimeter.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Brewers Pride is located right next to Osset brewery. There's a great selection of ales and fine home cooked food here. You can find them on Low Mill Road at postcode WF5 8ND for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a nice dog walk and the Brewers Pride mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The town is located just east of Wakefield where there are more waterside walks around Pugneys Country Park and Newmillerdam Country Park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/StM-3aR4JzI",
   "postcode": "WF5 9LB",
   "district": "Ossett",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

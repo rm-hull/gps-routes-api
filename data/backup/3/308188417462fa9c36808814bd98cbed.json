@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:52:26.869326+00:00",
   "objectID": "308188417462fa9c36808814bd98cbed",
-  "created_at": "2024-12-18T23:12:28.563046+00:00",
   "ref": "clatto-country-park-walking-and-cycle-route",
   "title": "Clatto Reservoir Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Frosty_dam_wall_-_geograph.org.uk_-_1597926.jpg",
@@ -50,9 +50,20 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy miles of well laid out cycling and walking trails in this lovely country park in Dundee. The route starts by taking you around the large reservoir on the waterside path. Look out for a variety of birdlife including Pochard, Goldeneye, Tufted Ducks, Moorhen, and Coot. The route then heads into the peaceful Templeton Woods where you can look out for red squirrels. If you would like to continue your outing you could visit the adjacent Camperdown Park where you will find another 400 acres of pretty parkland and a Wildlife Centre.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west from the park and you could visit the tranquil Lairds Loch and enjoy a climb to Northballo Hill in the lovely Sidlaw Hills. To the south there's the popular Dudhope Park and Dundee Law where you can enjoy fine views over the city. To the north is the village of Newtyle where you can pick up the Newtyle Railway Walk along the old Dundee and Newtyle Railway."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JIhhOXgWsjo",
   "district": "Dundee",
   "county": "Dundee City",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

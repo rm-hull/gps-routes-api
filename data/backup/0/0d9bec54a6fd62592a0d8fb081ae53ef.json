@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:49:42.361319+00:00",
   "objectID": "0d9bec54a6fd62592a0d8fb081ae53ef",
-  "created_at": "2024-12-18T16:44:56.103235+00:00",
   "ref": "windrush-way-walking-route",
   "title": "Windrush Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Bridge-over_Bourton_Waters.jpg/256px-Bridge-over_Bourton_Waters.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 22.0,
   "description": "This lovely walk through the Cotswolds runs from Bourton on the Water to Winchcombe. The path follows the River Windrush to Naunton and proceeds through Hawling and onto Winchcombe. Walk highlights are the easy riverside walking paths and the 15th century, Sudeley Castle with its beautiful, award winning gardens and lovely chapel. At the western end of the walk the route links up with the Winchcombe Way which can be used to further explore the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Bourton head to The Mousetrap Inn for some refreshments. The pub does excellent food and also has its own art gallery with landscape paintings in oil by local artist Silvi Schaumloeffel. There's a cosy, attractive interior with a log fire while outside there's a garden area for warmer days. You can find the inn at Lansdowne with a postcode of GL54 2AR for your sat navs. The pub is also dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "We'd recommend a visit to the Cotswold Motoring Museum or Birdland in Bourton. They are two of the most popular attractions in the area and well worth a visit if you have time. For a longer walk along the trail try the Windrush Way Circular Walk. This uses the trail and several other waymarked paths to create a circular route around the area. You'll return to Bourton using parts of the Gloucestershire Way, the Warden's Way and the Heart of England Way passing the picturesque villages of Guiting Power, Naunton and The Slaughters on the way. For more walking ideas in the area see the Gloucestershire Walks and the Cotswolds Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/V3ESxfV9cL4",
   "district": "Bourton-on-the-Water",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

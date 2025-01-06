@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:40:20.534695+00:00",
   "objectID": "7e272a6a9cdc42188cb951c602fa765f",
-  "created_at": "2024-12-18T13:53:48.829757+00:00",
   "ref": "loch-achilty-walking-route",
   "title": "Loch Achilty Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Loch_Achilty_-_geograph.org.uk_-_603188.jpg",
@@ -60,9 +60,16 @@
   ],
   "distance_km": 3.2,
   "description": "This walk visits the lovely Loch Achilty in the Scottish Highlands. You can start the walk from the car park at the western end of the loch and then follow the country lane along the northern shore. It's a very tranquil place with fine views over the waters to the surrounding hills. The picturesque loch also has a pebble beach and is surrounded by birch and oakwoods with lots of wildflowers in the summer. The walk can be extended by heading north to visit the wonderful Rogie Falls .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north east there's splendid peaceful trails along the remote Loch Glass and Loch Morie to try. To the east there's the town of Dingwall where you can enjoy a walk along the old Dingwall Canal. It's a nice easy waterside walk with splendid views over the Cromarty Firth at the coastal end. Also nearby is the village of Strathpeffer where you can enjoy a circular walk to the ancient rocks at the Touchstone Maze, the splendid Cat's Back Ridge and the picturesque Loch Ussie. For more walking ideas in the area see the Scottish Highlands Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FNwbLPwX-kI",
   "postcode": "IV14 9EN",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

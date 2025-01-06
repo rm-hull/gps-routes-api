@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:24:52.024212+00:00",
   "objectID": "010a9ab0c9a0c9e63ad1eca8070f70e1",
-  "created_at": "2024-12-18T11:31:32.869709+00:00",
   "ref": "worcester-woods-country-park-walking-route",
   "title": "Worcester Woods Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Worcester_Woods_Countryside_Centre_-_geograph.org.uk_-_1108296.jpg",
@@ -60,10 +60,25 @@
   ],
   "distance_km": 2.0,
   "description": "This 100 acre park in Worcester consists of two nature reserves, a huge open field and a busy Countryside Centre with cafe facilities. There are also bluebell woods, wildflower meadows and a pond which attracts a wide variety of wildlife. The site includes two waymarked walking trails to follow through the park. Worcester Woods is located on the outskirts of Worcester, just over a mile from the city centre and cathedral. At the cathedral you can extend your walking and try our Worcester Riverside Walk along the River Severn. There's more waterside walking along the towpath of the Worcester and Birmingham Canal too.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Orchard Cafe is a nice place for some post walk refreshment. They have a good range of meals using locally sourced, organic, fair trade products."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking so you'll probably see other owners on your visit. The on site cafe mentioned above is also very dog friendly with Water, Treats and even a Doggy Ice Cream available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a short distance east from the park and you could visit Spetchley Park. Here you'll find a country mansion standing in 4500 acres of gardens and parkland. It's a lovely place for a stroll with wonderfully laid out gardens and fine views towards the Malvern Hills. For a longer circular walk in the city you could try the Wild About Worcester Way. The waymarked walk explores the green spaces around the city including nature reserves, city parks, woodland trails, pretty meadows and historic buildings. For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/V91sfon5OqI",
   "postcode": "WR5 1HW",
   "district": "Worcester",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

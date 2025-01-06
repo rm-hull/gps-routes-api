@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:57:33.503937+00:00",
   "objectID": "7461a7c9e0199bda3c94807d306dd3dd",
-  "created_at": "2024-12-19T09:28:12.830747+00:00",
   "ref": "westwood-country-park-walking-route",
   "title": "Westwood Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Reservoir_by_Westwood_Country_Park_-_geograph.org.uk_-_1402021.jpg",
@@ -59,7 +59,18 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "This pretty country park is located near Wentworth and Rotherham in Yorkshire. In the park you will find miles of  woodland walking trails and a waterside path along a small reservoir. The Barnsley Boundary Walk runs through the park so you could pick this up to continue your walking in the area. You could also head a few miles east to Wentworth Woodhouse where you will find miles of walking trails through the parkland and gardens surrounding the large country house.",
+  "description": "This pretty country park is located near Wentworth and Rotherham in Yorkshire. In the park you will find miles of woodland walking trails and a waterside path along a small reservoir. The Barnsley Boundary Walk runs through the park so you could pick this up to continue your walking in the area. You could also head a few miles east to Wentworth Woodhouse where you will find miles of walking trails through the parkland and gardens surrounding the large country house.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails in the park are ideal for dog walking so expect to see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head to the nearby Wharncliffe Woods and Grenoside Woods to extend your walking. There's miles of good walking paths, mountain bike trails and a nature reserve to enjoy here."
+    }
+  ],
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:02:49.620664+00:00",
   "objectID": "7207b20575fbab1ef8d038624d384989",
-  "created_at": "2024-12-18T16:17:29.681692+00:00",
   "ref": "waddington-walking-route",
   "title": "Waddington Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Waddington%2C_Waddington_Brook_-_geograph.org.uk_-_3085854.jpg/512px-Waddington%2C_Waddington_Brook_-_geograph.org.uk_-_3085854.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Waddington%2C_Waddington_Brook_-_geograph.org.uk_-_3085854.jpg/512px-Waddington%2C_Waddington_Brook_-_geograph.org.uk_-_3085854.jpg",
-      "title": "Waddington:  Waddington Brook by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Waddington: Waddington Brook by Dr Neil Clifton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Waddington Brook in the attractive village. Waddington is a regular winner of the Lancashire Best Kept Village awards."
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 6.5,
   "description": "This delightful Lancashire village sits on the southern edge of the Forest of Bowland AONB in the beautiful Ribble Valley. It's a very pretty place with some historic buildings, the lovely Coronation Gardens and the picturesque Waddington Brook flowing through the village. This circular walk from the village takes you through the surrounding countryside to visit Eaves Hall, West Bradford and the River Ribble. The walk starts in the village and follows footpaths north east to Eaves House before coming to Eaves Hall. This fine Georgian mansion is surrounded by beautiful gardens and is now used as a wedding venue. The route then heads through the village of West Bradford where you can pick up a section of the Ribble Way and follow it south along the river to Horrocksford and Clitheroe. You then cross the river at Brungeley Bridge before following country lanes back into Waddington.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a few lovely pubs in the village including the splendid Higher Buck. They serve particularly fine food and have a good selection of ales. You can find them on the Square at postcode BB7 3HZ for your sat navs. The pub also provides rooms if you'd like to stay over. There's also the sister pub of the Lower Buck and the Waddington Arms which have nice garden areas."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and river trails make for a fine dog walk and the Higher Buck mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east there's some fascinating history to be found in neighbouring Sawley. Here you can visit the ruins of the 12th century Sawley Abbey which is run by English Heritage. Also in this area is the worthy village of Bolton by Bowland where there's two pretty village greens and views of the Skirden Beck. For more walking ideas in the area see the Forest of Bowland Walks and the Ribble Valley Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VyH5RR1T4Kc",
   "postcode": "BB7 3JB",
   "district": "Waddington",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

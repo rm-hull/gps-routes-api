@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:44:59.111980+00:00",
   "objectID": "9605679036455d06e528d4ee1eb1fbf7",
-  "created_at": "2024-12-18T12:45:49.239013+00:00",
   "ref": "debdale-park-walking-and-cycle-route",
   "title": "Debdale Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Big_house_and_barn%2C_Debdale_Park_-_geograph.org.uk_-_1716882.jpg",
@@ -105,8 +105,23 @@
   ],
   "distance_km": 4.5,
   "description": "This 130 acre park includes waterside cycling and walking trails around Lower Gorton Reservoir. The park is the start point for the traffic free Fallowfield Loop cycle route which runs along the National Cycle Network to Chorlton. Our Audenshaw Reservoir Walk visits the park from Guide Bridge train station. It uses a section of the Ashton Canal and the Tameside Trail to visit the reservoirs and the park. It's a nice way to reach the park, particularly if you are coming by public transport.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site cafe where you can enjoy a range of refreshments after your exercise. In the warner months there's often and ice cream van too."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is very popular with dog walkers so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The waymarked Tameside Trail passes through the park. You could pick up the path and follow it south for a couple of miles to visit the nearby Reddish Vale Country Park. The popular park includes nice trails along the River Tame, a Visitor Centre, Community Orchard and Garden, Butterfly Conservation Field and a Dipping Pond. Near here there's also the bluebell woodland and wildlife in Haughton Dale Nature Reserve at Haughton Green. The epic Trans Pennine Trail and the Midshires Way can also be picked up here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/T9kzlrqjUMA",
   "district": "Manchester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

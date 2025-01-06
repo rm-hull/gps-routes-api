@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:42:10.979498+00:00",
   "objectID": "ce11732bb80d08f154a9e1991622f2ef",
-  "created_at": "2024-12-18T01:47:44.827220+00:00",
   "ref": "burnswark-hill-walking-route",
   "title": "Burnswark Hill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Burnswark_Hill_-_geograph.org.uk_-_178698.jpg",
@@ -50,8 +50,15 @@
   ],
   "distance_km": 1.8,
   "description": "This walk climbs to the fine viewpoint at Burnswark Hill near Lockerbie in Dumfries and Galloway. The hill is of some archeological significance having been the site of ancient Iron Age fort. There's also evidence of a Bronze Age burial cairn, Roman camps, some medieval enclosures and a potential Civil War battery in this fascinating area. From the 287 metre high summit there are also some great views over the surrounding countryside and hills of Annandale.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west towards Lockerbie and you could pick up the Annandale Way, a 90-kilometre (56 mi) hiking trail, which is officially designated by NatureScot as one of Scotland's Great Trails. The trail provides great views of the River Annan which flows through the area. In this area you can also visit Lochmaben and enjoy a circular walk around the loch with a vist to the remains of the 12th century Lochmaben Castle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GTJb0gaZMkE",
   "county": "Dumfries and Galloway",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

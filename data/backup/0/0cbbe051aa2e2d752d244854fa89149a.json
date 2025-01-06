@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T01:36:27.322691+00:00",
   "objectID": "0cbbe051aa2e2d752d244854fa89149a",
-  "created_at": "2024-12-18T09:58:22.890738+00:00",
   "ref": "edwinstowe-walking-route",
-  "title": "Edwinstowe Walks Walking Route",
+  "title": "Edwinstowe\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/High_Street%2C_Edwinstowe_-_geograph.org.uk_-_2501398.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0cbbe051aa2e2d752d244854fa89149a.gpx",
   "_geoloc": {
@@ -37,7 +37,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/%22Temple%22_at_Clumber_Park%2C_looking_South_East_across_the_lake_-_geograph.org.uk_-_285507.jpg",
-      "title": "Robert  Neilson / \"Temple\" at Clumber Park, looking South East across the lake",
+      "title": "Robert Neilson / \"Temple\" at Clumber Park, looking South East across the lake",
       "caption": "Clumber Park. \"Temple\", looking South East across the lake. This \"temple\" is one of many focal points, built in a classical style, that are found in Clumber Park. It affords a sheltered resting place for those who venture on a walk around the lake. This view is from the North West shore of the lake and also features Canada geese swimming line astern in the North Easterly direction of flow. This temple can also be seen from a smaller temple which is set back from the North West shore of the lake, near Clumber Chapel."
     },
     {
@@ -53,9 +53,24 @@
   ],
   "distance_km": 27.7,
   "description": "This Nottinghamshire based village sits in a pleasant spot, on the edge of Sherwood Forest near Mansfield. The village includes an attractive High Street and a noteworthy medieval church with connections to the legend of Robin Hood. This long circular walk from the village uses a section of the Robin Hood Way to visit Sherwood Forest Country Park, Clumber Country Park and the neighbouring town of Ollerton. The walk starts in the village centre where you can pick up the Robin Hood Way and follow the waymarked footpath north into Sherwood Forest Country Park. This area of woodland includes a visitor centre, lots of wildlife and woodland trails suitable for cycling and walking. You'll also pass the Major Oak, an ancient tree thought to be over 1000 years old. Follow the trail north and it will take you over the River Meden to the Gleadthorpe Breck Plantation. Here you head east to the Budby Corner Plantation before turning north to enter the splendid Clumber Park. You can follow the trails east to take you along the lovely lake to Hardwick Village. Here you cross the River Poulter, heading south towards Ollerton. This section passes Thoresby Park to the west. From Ollerton you can follow the pavement along the A road west to return to Edinstowe.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Royal Oak for some well earned refreshments. They have an ample car park, an attractive interior with log fires and a fine menu. You can find them on the High Street at postcode NG21 9QP for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails on the route are ideal for dog walking. The Royal Oak mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of the village you'll find Rufford Country Park. There's a pretty lake and some pleasant woodland trails here. Sherwood Pines Forest Park is also located near here and well worth a visit. Just to the east is the International Outdoor Adventure Activity Centre at Walesby Forest and the worthy village of Laxton. It's a historic place and significant as being England\u2019s Last Open Field Village. You can visit the 12th century church, the Norman Motte and find out all about the area's history in the local visitor centre. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/1APqszC9yAU",
   "postcode": "NG21 9HN",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

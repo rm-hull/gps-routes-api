@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:39:36.999742+00:00",
   "objectID": "669fbdaa5c693e9f6bc8abad80802420",
-  "created_at": "2024-12-20T13:45:35.119527+00:00",
   "ref": "hurst-green-to-oxted-walk-walking-route",
   "title": "Hurst Green to Oxted Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/512px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
@@ -24,7 +24,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg/512px-Hurst_Green_station_SE_geograph-3695589-by-Ben-Brooksbank.jpg",
-      "title": "Ben Brooksbank [CC BY-SA 2.0   (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
+      "title": "Ben Brooksbank [CC BY-SA 2.0  (https://creativecommons.org/licenses/by-sa/2.0 )], via Wikimedia Commons",
       "caption": "Hurst Green Station"
     },
     {
@@ -45,9 +45,16 @@
   ],
   "distance_km": 2.7,
   "description": "A walk from Hurst Green station to Oxted station in Surrey. The walk uses a section of the Greensand Way trail to take you along country lanes and footpaths with views of the River Eden on the way. Starting at Hurst Green Station follow footpaths west to Oast Road, Church Way and Tanhouse Road. Towards the end of Tanhouse Road turn right to pick up the Greensand Way which will take you into Oxted via Stonehall Farm and Oxted Mill.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area try the popular Oxted Circular Walk. This 10 mile walk visits some of the highlights of the area."
+    }
+  ],
   "postcode": "RH8 0LL",
   "district": "Oxted",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:40:45.008550+00:00",
   "objectID": "3e902389bf74e8cbc004f9c801b3193c",
-  "created_at": "2024-12-18T14:02:54.826329+00:00",
   "ref": "frieth-walking-route",
   "title": "Frieth Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg/512px-The_Prince_Albert_Pub%2C_Frieth_-_geograph.org.uk_-_3009281.jpg",
@@ -53,9 +53,16 @@
   ],
   "distance_km": 6.0,
   "description": "This Buckinghamshire based village has some nice walks into the surrounding countryside of the Chiltern Hills. The village lies just to the east of the pretty neighbouring villages of Turville and Fingest where you can pick up the waymarked Chiltern Way and visit the famous Chitty Chitty Bang Bang Windmill. This walk from the village follows footpaths west through woodland to visit the two settlements. On the way there's some peaceful woodland in Mousells Wood and fine views of the surrounding countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Prince Albert is a friendly village pub serving good food and ales. There is a cosy fire indoors and a nice secluded garden outside. They provide car parking and are also dog friendly."
+    }
+  ],
   "postcode": "RG9 6NY",
   "district": "Little Frieth",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

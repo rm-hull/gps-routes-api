@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:20:28.903186+00:00",
   "objectID": "16a4c68d32c8dc3aa5be47db3a7bbdf8",
-  "created_at": "2024-12-19T04:48:14.827384+00:00",
   "ref": "argal-reservoir-walking-route",
   "title": "Argal Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Argal_Reservoir_Dam_-_geograph.org.uk_-_162835.jpg",
@@ -115,9 +115,24 @@
   ],
   "distance_km": 3.4,
   "description": "This walk visits the lovely Argal Reservoir near Penryn and Falmouth in Cornwall. It's a lovely place for a walk with fine views across the water to the surrounding Cornish countryside. You can follow a 2 mile circular walk around the water, crossing the dam on the way. The walk can be started from the car park at the northern end of the lake near the dam and on site cafe. Then pick up the trails heading south towards Treverva. On the western side you will pass close to the noteworthy Mabe church where there's an ancient cross and standing stone to see in the churchyard.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the northern end of the reservoir there's the Wild Vibes Lakeside Cafe for some post walk refreshment. They serve excellent coffee and cakes with an outdoor area where you can enjoy fine views of the surrounding countryside on a sunny day."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reservoir trails make for a fine dog walk though you are requested to keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north there's a boardwalk trail along the adjacent College Reservoir to try. Head east and you could pick up the Falmouth Walk and visit Pendennis Point, Pendennis Castle and the pretty Swanpool lake nature reserve. Also to the east is the Penryn Walk which will take you along the Penryn River to Flushing where you can catch a ferry to Falmouth. The town itself is also worth exploring with a historic conservation area where you'll find a number of Tudor, Jacobean and Georgian properties. The pretty harbour and wharf also includes a fine riverside cafe. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GrLNNUvovmA",
   "postcode": "TR10 9JG",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:03:16.775884+00:00",
   "objectID": "a42046c1de50c23cbfc9e04b3aa966f7",
-  "created_at": "2024-12-19T04:37:35.327152+00:00",
   "ref": "blanchland-walking-route",
   "title": "Blanchland Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Blanchland_centre_-_geograph.org.uk_-_762726.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy a circular river walk on this easy route in the pretty Northumberland village of Blanchland. It's a gem of place with picturesque cottages, set against a backdrop of deep woods and open moors. The village was largely built of stone from the remains of the 12th-century Abbey. It's situated in a great spot in the Derwent Valley area of the North Pennines Area of Outstanding Natural Beauty. The walk follows a section of the River Derwent from Blanchland to Baybridge, with the option of returning through the countryside or on the opposite side of the river.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The historic Lord Crewe Arms Hotel is a fine choice for some post walk refreshments. They have a good menu and a lovely, large garden area to relax in on warmer days. Inside there's the atmospheric Crypt bar, tucked away in a medieval vaulted chamber and lit with a candle-like ambience. The hotel also has a long and interesting history having been built in 1165 as a guest house to the newly-formed Blanchland Abbey. The guest house enjoyed 400 years of self-sufficiency and hospitality, until the dissolution of the Abbeys of England in 1539. It later became the Lord Crewe Arms providing the local lead miners with a place to relax after their shifts. The hotel also provides good quality accommodation with the rooms maintaining medieval features such as ogee-arched windows and stone chimneypieces. You can find the hotel on the Square at postcode DH8 9SP for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river trails are a nice place to bring your dog for a walk. The Lord Crewe Arms mentioned above is also dog friendly. The nearby Slalely Forest also has some nice woodland trails which are popular with dog walkers."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend your walking around Blanchland by visiting Pow Hill Country Park and Derwent Reservoir. There's nice woodland trails here, great views across the water and lots of interesting flora and fauna. You can also visit the nearby village of Edmundbyers in this area.The Weardale Way long distance trail passes right through the village. You could pick up the trail and follow it north to Slalely Forest and Hexham. Heading south takes you towards Rookhope and Stanhope. For more walking ideas around Blanchland see the North Pennines Walks and Northumberland Walks pages."
+    }
+  ],
   "postcode": "DH8 9SS",
   "district": "Blanchland",
   "county": "Northumberland",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

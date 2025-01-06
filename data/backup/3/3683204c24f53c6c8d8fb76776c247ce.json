@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:41:26.073045+00:00",
   "objectID": "3683204c24f53c6c8d8fb76776c247ce",
-  "created_at": "2024-12-18T13:33:29.521654+00:00",
   "ref": "rackham-woods-walking-route",
   "title": "Rackham Woods Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nr_Rackham_Plantation_-_geograph.org.uk_-_48877.jpg",
@@ -34,7 +34,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Nr_Rackham_Plantation_-_geograph.org.uk_-_48877.jpg",
-      "title": "Chris Shaw / Nr Rackham  Plantation",
+      "title": "Chris Shaw / Nr Rackham Plantation",
       "caption": "Nr Rackham Plantation"
     },
     {
@@ -74,10 +74,21 @@
     }
   ],
   "distance_km": 11.0,
-  "description": "This circular walk explores Rackham Woods on the South Downs, in the Horsham District of West Sussex. The route then heads south to pick up the South Downs Way and climb to the viewpoint at Rackham Hill. The walk starts at the car park next to Rackham Common and follows footpaths through the woodland. The trail then heads south, through the village to the South Downs trail and the hill. This area is connected to the Rackham Urnfields - a set of Iron Age Urnfields, with tumuli containing the cremated remains of prehistory people in clay pots. You can see more detail on this in the video below. From the hill you can then head west to visit neighbouring Amberley before following a country lane back towards Rackham. The route runs very close to Parham House where you can extend the walk through the lovely grounds and the adjacent Northpark Wood. Pulborough Brooks nature reserve is also just to the north and another good option.",
+  "description": "This circular walk explores Rackham Woods on the South Downs , in the Horsham District of West Sussex. The route then heads south to pick up the South Downs Way and climb to the viewpoint at Rackham Hill. The walk starts at the car park next to Rackham Common and follows footpaths through the woodland. The trail then heads south, through the village to the South Downs trail and the hill. This area is connected to the Rackham Urnfields - a set of Iron Age Urnfields, with tumuli containing the cremated remains of prehistory people in clay pots. You can see more detail on this in the video below. From the hill you can then head west to visit neighbouring Amberley before following a country lane back towards Rackham. The route runs very close to Parham House where you can extend the walk through the lovely grounds and the adjacent Northpark Wood. Pulborough Brooks nature reserve is also just to the north and another good option.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and country trails make for a fine dog walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance West Sussex Literary Trail passes through the area, providing an opportunity to extend your walk on a waymared footpath. For more walking ideas in the area see the South Downs Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MxZh_KFG-88",
   "postcode": "RH20 2EU",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

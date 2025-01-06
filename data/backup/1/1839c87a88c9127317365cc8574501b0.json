@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:18:15.320051+00:00",
   "objectID": "1839c87a88c9127317365cc8574501b0",
-  "created_at": "2024-12-18T01:10:58.283108+00:00",
   "ref": "stanney-woods-walking-route",
   "title": "Stanney Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Stanney_Woods%2C_Ellesmere_Port_%281%29.jpg/512px-Stanney_Woods%2C_Ellesmere_Port_%281%29.jpg",
@@ -45,8 +45,19 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy a series of woodland trails in this country park and nature reserve in Ellesmere Port. In the park you'll find ancient woodland of oak and silver birch and a wide variety of birdlife.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking so you'll probably see other owner on a fine, weekend day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head to the northern side of the town and you can try the Ellesmere Port Walk. The walk explores the National Waterways Museum at the town's docks before heading along the canal. The fascinating museum is concerned with the history of the UK's rivers and canals, with exhibits including canal boats, traditional clothing and steam engines. It's a nice place for a stroll with a number of surfaced footpaths to follow around the site. You can also pick up the Shropshire Union Canal here and follow the towpath south in the countryside. On the western outskirts of the town there's  Rivacre Valley Country Park. It's a pretty place which is popular for its springtime bluebells and wildflower meadows. For more walking ideas in the area see the Cheshire Walks page."
+    }
+  ],
   "district": "Ellesmere Port",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

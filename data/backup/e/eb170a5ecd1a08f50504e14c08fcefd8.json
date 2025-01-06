@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:58:46.543496+00:00",
   "objectID": "eb170a5ecd1a08f50504e14c08fcefd8",
-  "created_at": "2024-12-18T09:44:24.008141+00:00",
   "ref": "monkland-canal-walking-route",
   "title": "Monkland Canal Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MonklandCanalHomeFarmBridge1.JPG/512px-MonklandCanalHomeFarmBridge1.JPG",
@@ -90,9 +90,16 @@
   ],
   "distance_km": 3.2,
   "description": "This walk follows the old Monkland Canal from Coatbridge to Drumpellier Country Park. The walk starts in Coatbridge just to south of the train station at the Bank Street Basin. Here you can pick up a walking and cycling trail heading west for about 2 miles to the country park. It's an easy and pleasant walk with waterside sections in the park. You can extend the walk by exploring the 500 acres of lowland heath, mixed woodlands, lochs and open grassland in the expansive park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west and you can enjoy some pleasant waterside cycling and walking trails along Hillend Reservoir. The reservoir was established between 1797 and 1799 when the North Calder Water was dammed to supply water for the Monkland Canal. The loch still supplies water to the Forth & Clyde Canal and the remains of the Monkland Canal."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oHqOp7kNdU8",
   "district": "Coatbridge",
   "county": "North Lanarkshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

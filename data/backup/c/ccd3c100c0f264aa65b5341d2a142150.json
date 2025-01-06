@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:50:52.125843+00:00",
   "objectID": "ccd3c100c0f264aa65b5341d2a142150",
-  "created_at": "2024-12-19T14:54:13.104110+00:00",
   "ref": "royal-victoria-park-bath-walking-route",
   "title": "Royal Victoria Park Bath Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flowerbed_in_Royal_Victoria_Park_-_geograph.org.uk_-_2068144.jpg/512px-Flowerbed_in_Royal_Victoria_Park_-_geograph.org.uk_-_2068144.jpg",
@@ -55,9 +55,24 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy a stroll around this popular, 57 acre park in the centre of Bath. The park was opened in 1830 by Queen Victoria at the age of 11. Tree lined footpaths take you through the park to the beautiful botanical gardens at the western edge. You can continue your walking in the city by picking up the popular Bath Canal Walk and the Bath Skyline Walk for great views over the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the on site Royal Pavilion Cafe for some post walk refreshment. They sell a good range of meals, snacks and treats."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers so you'll probably see other owners on your visit. You are requested to keep them on leads in most areas."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Somerset Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9aj--o4P7LI",
   "district": "Bath",
   "county": "Bath and North East Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

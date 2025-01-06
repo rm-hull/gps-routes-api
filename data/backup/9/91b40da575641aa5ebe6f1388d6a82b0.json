@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:48:44.282418+00:00",
   "objectID": "91b40da575641aa5ebe6f1388d6a82b0",
-  "created_at": "2024-12-18T01:29:56.827251+00:00",
   "ref": "brierley-forest-park-walking-route",
   "title": "Brierley Forest Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Brierley_Forest_Park_-_Footpath_-_geograph.org.uk_-_573776.jpg",
@@ -42,11 +42,26 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "This circular walk takes you around the pretty Brierley Forest Park near Mansfield.  At the park you will find Wildflower meadows, a sculpture trail and a visitor centre. Look out for foxes, owls, deer, meadow pipits and lapwings as you make your way through the park. There's also bridleways and paths that are suitable for cycling in some parts of the park.",
+  "description": "This circular walk takes you around the pretty Brierley Forest Park near Mansfield. At the park you will find Wildflower meadows, a sculpture trail and a visitor centre. Look out for foxes, owls, deer, meadow pipits and lapwings as you make your way through the park. There's also bridleways and paths that are suitable for cycling in some parts of the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good value cafe at the site with a good range of snacks and nice outdoor seating."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park and woodland are a great place for a dog walk. In fine weather you'll probably see plenty of other owners on your vist. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Norfolk Walks page."
+    }
+  ],
   "video_url": "https://player.vimeo.com/video/39227343",
   "postcode": "NG17 2PL",
   "district": "Sutton in Ashfield",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

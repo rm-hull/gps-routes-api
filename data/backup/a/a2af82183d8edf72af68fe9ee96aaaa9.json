@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:41:51.374874+00:00",
   "objectID": "a2af82183d8edf72af68fe9ee96aaaa9",
-  "created_at": "2024-12-18T11:23:49.898905+00:00",
   "ref": "upper-quinton-walking-route",
   "title": "Upper Quinton Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/The_Green%2C_Upper_Quinton_-_geograph.org.uk_-_1984090.jpg",
@@ -53,8 +53,23 @@
   ],
   "distance_km": 12.7,
   "description": "This pretty Warwickshire village sits on the edge of the Cotswolds, just south of Stratford Upon Avon. The attractive area includes the sister village of Lower Quinton where you'll find a noteworthy inn dating back to the 1500s. This route from the village uses sections of the Monarch's Way and the Heart of England Way to create a circular walk through the surrounding countryside. On the way you'll pass Meon Hill, the neighbouring village of Mickleton, the lovely Kiftsgate Court gardens and the splendid Hidcote Manor Garden. The route runs for nearly 8 miles, including a moderate hill climb around Baker's Hill at the southern end.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Lower Quinton there's the College Arms for some post exercise relaxation and refreshment. The historic country inn dates from the 16th century and was once owned by Henry VIII. There's a charming old interior with flag stoned floors, inglenook fireplace and wooden beams. They serve traditional home cooked food and can be found at postcode CV37 8SG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the College Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The epic Warwickshire Centenary Way starts/finishes in the village. It will take you through the county to Kingsbury Water Park passing the nearby Ilmington Downs on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/d2vDMMbjstc",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:57:52.911436+00:00",
   "objectID": "5036da68e507b14afdd10bc88735c111",
-  "created_at": "2024-12-18T20:45:29.554028+00:00",
   "ref": "tolworth-walking-route",
   "title": "Tolworth Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Tolworth_Court_Farm_Fields_-_geograph.org.uk_-_41910.jpg",
@@ -65,7 +65,14 @@
   ],
   "distance_km": 5.0,
   "description": "This walk in Tolworth was submitted by The Community Brain, a community initiative based in Tolworth, Kingston upon Thames. It passes through 2 nature reserves and 1 country park. Starting from Tolworth Station, the route passes along the Thames Down Link, heading through Kingston's biggest nature reserve at Tolworth Court Farm Fields, through Castle Hill Nature reserve, Horton Country Park and then towards Chessington South railway station. If the walker wants to end the walk at Chessington they can, or they could take the train from Chessington South towards Tolworth, as it is on the same line.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend the walk by heading south from Chessington to Epsom Common. You can also pick up the Hogsmill River Walk in the area. For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

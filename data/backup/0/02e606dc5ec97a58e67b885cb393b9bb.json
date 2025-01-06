@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:24:04.324558+00:00",
   "objectID": "02e606dc5ec97a58e67b885cb393b9bb",
-  "created_at": "2024-12-19T05:16:00.510384+00:00",
   "ref": "tadworth-walking-route",
   "title": "Tadworth Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Tadworth_Station_-_geograph.org.uk_-_20149.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 9.5,
   "description": "This Surrey based village is surrounded by some lovely North Down scenery. It sits right on the edge of Banstead Heath where there are miles of good walking and cycling trails to try. To the north is Epsom Downs where you can enjoy views of the famous Epsom Racecourse. This circular walk starts from the train station and visits these two local highlights using a series of good public footpaths. There's much to enjoy with peaceful woodland trails and moderate hill climbs providing excellent views over the surrounding countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Grumpy Mole is in a lovely spot for some post exercise refreshment. The black and white Edwardian pub is set back from the main road on a small green where you can sit outside and enjoy a meal in fine surroundings. You can find them on the Dorking Road at postcode KT20 5RX."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a little south of Banstead Heath and you could enjoy a climb to the viewpoint on Colley Hill. You can also pick up the North Downs Way here."
+    }
+  ],
   "postcode": "KT20 5AF",
   "district": "Tadworth",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:48:46.136621+00:00",
   "objectID": "4177464e1cf9a8926d3800526af18249",
-  "created_at": "2024-12-18T23:13:07.770761+00:00",
   "ref": "heydon-walking-route",
   "title": "Heydon Hall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Village_green_%2C_Heydon_-_geograph.org.uk_-_302163.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Village_green_%2C_Heydon_-_geograph.org.uk_-_302163.jpg",
-      "title": "Jurek and Trish  Sienkiewicz / Village green, Heydon",
+      "title": "Jurek and Trish Sienkiewicz / Village green, Heydon",
       "caption": "Village green. Heydon village is privately owned, belonging to the estate of the Bulwer Long family since 1640. There has been no new building in over 100 years, giving a feeling of \"stepping back in time\". It was created a conservation area in 1971 and has often been used as the set for TV and film productions."
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 4.0,
   "description": "This walk visits the delightful Norfolk village of Heydon. The pretty village includes the 16th century Heydon Hall Estate which is open to the public on certain days. There's nice footpaths to follow around the expansive estate or alternative public footpaths if the estate is closed. This circular walk starts from the village green and takes you through the village and around the perimeter of the estate. It's an attractive area which includes a 14th century church and a noteworthy 16th century pub. The area has often been used as a filming location including a Monty Python's Flying Circus sketch about village idiots.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise head to the Earle Arms for some well earned refreshment. The historic pub dates back to the 1500s and has a charming old interior. You can find the inn next to the village green at postcode NR11 6AD for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a fine dog walk though you asked to please keep them on leads in the Heydon Hall estate. The Earle Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and there's one of the area highlights at Blickling Hall in Aylsham. Here you will find five thousand acres of parkland, farmland, lakes and woodland to explore on foot or by bike. You can also pick up the Weavers' Way long distance footpath in this area. To the north west of the Blickling Estate there's Mannington Hall and Gardens near Itteringham. The historic house is surrounded by lovely parkland with delightful gardens, woodland and a lake to see. The 18th century Wolterton Hall can also be visited in this area"
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oFORK6YuHzk",
   "postcode": "NR11 6RQ",
   "district": "Heydon",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

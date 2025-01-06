@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:17:10.066534+00:00",
   "objectID": "af64d718570408a65dd464a55952054a",
-  "created_at": "2024-12-18T03:17:01.881010+00:00",
   "ref": "linton-park-walking-route",
   "title": "Linton Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Trucks_on_Linton_Hill_-_geograph.org.uk_-_2049397.jpg",
@@ -65,9 +65,24 @@
   ],
   "distance_km": 5.0,
   "description": "Explore the stunning 19th-century landscape park surrounding this 18th-century country house in Linton, Kent. The house sits in 330 acres of parkland, woodland and farmland on a south facing greensand slope overlooking the valley of the River Beult. The estate is private property and is not open to the public, but the Greensand Way long distance walk crosses the parkland east-west to the north of the house and a public footpath crosses the southern parkland close to the lake on a similar alignment. The walk route below takes you along these paths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village you can enjoy some post walk refreshment at the Bull. The historic pub dates back to 1674 and includes a splendid decking area with views over the countryside. They serve good quality food and can be found at Linton Hill, ME17 4AW."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Bull mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east along the Greensand Way and it will take you to the delightful village of Sutton Valence. Here you can also visit the ruins of the 12th century Sutton Valence Castle for some more local history. You can then climb up to the castle and enjoy wonderful views over East Sussex and the Weald of Kent."
+    }
+  ],
   "postcode": "ME17 4AW",
   "district": "Linton",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

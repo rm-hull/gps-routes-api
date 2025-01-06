@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:11:27.311267+00:00",
   "objectID": "a2a35598a5e1e3eeac5ac551fc4836af",
-  "created_at": "2024-12-18T09:32:14.884856+00:00",
   "ref": "hartside-pike-walking-route",
   "title": "Hartshead Pike Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hartshead_Pike%2C_Ashton_under_Lyne_-_geograph.org.uk_-_2055.jpg",
@@ -85,13 +85,24 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/The_farm_just_below_Hartshead_Pike_-_geograph.org.uk_-_1595711.jpg",
       "title": "Bill Boaden / The farm just below Hartshead Pike",
-      "caption": "The farm just below the Pike.  The hills surrounding Dovestones are visible in the distance."
+      "caption": "The farm just below the Pike. The hills surrounding Dovestones are visible in the distance."
     }
   ],
   "distance_km": 3.5,
   "description": "Climb this hill in Greater Manchester for great views over Ashton-under-Lyne, Mossley and Oldham. At the summit you will find the 19th century Hartshead Pike Tower, a Grade II Listed building. From the 267 m (876 ft) summit you can enjoy views over the Pennine Hills, the city of Manchester and even Snowdonia in Wales on a clear day. The circular walk starts near Mossley train station and climbs past Luzley Brows and Luzley Hall to Mossley Cross. You continue to Hartshead Pike before descending back to the town via Broad Carr. If you would like to continue your walking in the area then you could pick up the Oldham Way which runs past Hartshead Pike. You could also pick up the Tame Valley Way and enjoy a walk along the River Tame through Mossley. You can also pick up the Huddersfield Narrow Canal and head across the Pennines and the Peak District towards Huddersfield.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your walk head to the Roaches Lock Inn in Mossley for some post walk refreshments. The pub's main attraction is a lovely beer garden with fine views of the Huddersfield Narrow Canal. It's an ideal spot for a rest on a fine day. You can find it at 387 Manchester Road with postcode OL5 9BB for your sat nav. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Tameside Trail passes the hill. The 30 mile circular walk explores several of the highlights of the River Tame Valley. The walk passes close to Knott Hill Reservoir which lies just to the south of the hill. There's woodland paths and a nature reserve with lot of wildlife to see here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ms9CNxfzSAs",
   "district": "Mossley",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

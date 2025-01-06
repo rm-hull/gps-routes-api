@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:36:56.484643+00:00",
   "objectID": "f8106b72b498e7f70d3dbca59210156f",
-  "created_at": "2024-12-18T19:53:58.237778+00:00",
   "ref": "croxteth-country-park-walking-and-cycle-route",
   "title": "Croxteth Hall Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/The_Queen_Anne_Wing%2C_Croxteth_Hall_-_geograph.org.uk_-_930304.jpg",
@@ -94,7 +94,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Horses_in_Paddock_at_Croxteth_Park_-_geograph.org.uk_-_930337.jpg",
-      "title": "Sue Adair / Horses in Paddock at  Croxteth Park",
+      "title": "Sue Adair / Horses in Paddock at Croxteth Park",
       "caption": "Horses in Paddock. There is an established riding school at Croxteth Park Riding Centre, these horses are in a paddock at the rear of the hall."
     },
     {
@@ -120,9 +120,24 @@
   ],
   "distance_km": 4.5,
   "description": "This 500 acre country park in Liverpool has a number of fine cycling and walking paths. The park includes a 16th century hall, wildflower meadow, walled garden and nature reserve. The Liverpool Loop Line and the Trans Pennine Trail pass the western side of the park. You can pick up these trails to extend your exercise in the surrounding area. Just a few miles to the south east there's Stadt Moers Park in Knowsley. The park includes some more fine walking trails and a cycleway.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's two good on site cafes where you can pick up a good range of local produce, hot drinks and sweet treats."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive parkland and woodland are ideal for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south you can continue your walking at Childwall Woods, Calderstones Park and the popular Sefton Park. A few miles to the north you can pick up the Leeds and Liverpool Canal and enjoy a walk around Maghull to the Lunt Meadows Nature Reserve. To the east is Knowsley Hall Park where there's a splendid stately home with beautiful grounds and gardens. The hall is open for guided tours on certain days of the year. For more walking ideas in the area see the Merseyside Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/in0jBFNJQV8",
   "postcode": "L12 5EA",
   "district": "Liverpool",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

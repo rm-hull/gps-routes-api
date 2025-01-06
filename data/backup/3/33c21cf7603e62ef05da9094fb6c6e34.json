@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:42:17.207818+00:00",
   "objectID": "33c21cf7603e62ef05da9094fb6c6e34",
-  "created_at": "2024-12-21T15:11:32.922387+00:00",
   "ref": "brenda-parker-way-walking-route",
   "title": "Brenda Parker Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Highclere_Castle_-_geograph.org.uk_-_1591786.jpg",
@@ -95,9 +95,15 @@
   ],
   "distance_km": 124.0,
   "description": "This splendid walk runs from Aldershot to Andover through the Hampshire countryside. The walk passes through Fleet, Winchfield, Bramley, Tadley, Kingsclere, Ecchinswell, Highclere, Sidley Bottom, and Rag Copse. Highlights include:",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/33c21cf7603e62ef05da9094fb6c6e34.gpx",
-  "_geoloc": {
-    "lat": 51.2428939513,
-    "lng": -0.7549546347
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Kingsclere you could stop off at the The Crown. The classic village pub includes a cosy interior with a log fire for the winter days. In warmer weather there's the outdoor area where you can sit and watch the world go by. They have a good menu and can be found at postcode RG20 5QU for your sat navs. In Tadley there's The Pelican to consider. They serve traditional Pub Grub and Thai Food which you can enjoy in the large garden area. The historic inn dates back to 1860 and can be found at Silchester Road, Pamber Heath, RG26 3EA. The expansive Pamber Forest is located here too so you could enjoy some woodland trails and wildlife if you have time. There's also the Fox & Hounds at Mulfords Hill in Tadley town at postcode RG26 3JG. In Bramley there's the 19th century Bramley Inn. They serve good quality Indian food and have a nice garden area as well. You can find them at postcode RG26 5BT for your sat navs. The village is also worth exploring with a noteworthy 12th century church to see."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Kingsclere you could take a small detour from the route to climb to Watership Down. The hill was made famous by Richard Adams' 1972 novel and the subsequent 1978 animated film. There are some splendid views from the elevated position of the Down. At Sherfield on Loddon you could stop off at the splendid Longbridge Mill. The 15th century mill includes a working flour mill on the banks of the River Loddon with a visitor centre and a fine pub for refreshment. For more walking ideas in the area see the Hampshire Walks page."
+    }
+  ],
+  "gazetteer_found": false
 }

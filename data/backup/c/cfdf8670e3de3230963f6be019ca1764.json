@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:53:45.453791+00:00",
   "objectID": "cfdf8670e3de3230963f6be019ca1764",
-  "created_at": "2024-12-18T12:17:52.641972+00:00",
   "ref": "himley-hall-walking-route",
   "title": "Himley Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Himley_Hall_-_geograph.org.uk_-_1464721.jpg",
@@ -79,20 +79,31 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Island_Pool_in_Baggeridge_Country_Park_near_Wombourne%2C_Staffordshire_-_geograph.org.uk_-_2685121.jpg/512px-Island_Pool_in_Baggeridge_Country_Park_near_Wombourne%2C_Staffordshire_-_geograph.org.uk_-_2685121.jpg",
-      "title": "Island Pool in Baggeridge Country Park near Wombourne, Staffordshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Island Pool in Baggeridge Country Park near Wombourne, Staffordshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Island Pool in Baggeridge Country Park near Wombourne, Staffordshire"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Crop_field_south-east_of_Wombourne%2C_Staffordshire_-_geograph.org.uk_-_2687307.jpg/512px-Crop_field_south-east_of_Wombourne%2C_Staffordshire_-_geograph.org.uk_-_2687307.jpg",
-      "title": "Crop field south-east of Wombourne, Staffordshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Crop field south-east of Wombourne, Staffordshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Crop field south-east of Wombourne, Staffordshire"
     }
   ],
   "distance_km": 1.6,
   "description": "This walk explores Himley Hall Park, near the village of Himley in Staffordshire. The historic 18th century hall is surrounded by wonderful \u2018Capability\u2019 Brown landscaped parkland. Here you can enjoy woodland trails, a large lake, waterfalls, streams, a ha-ha, a nine-hole public golf course and a small log cabin cafe which is open for hot food and drinks. The hall sits right next to Baggeridge Country Park where you will find a series of pretty pools and more woodland trails.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking. You will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The hall is located just east of Wombourne where you can pick up the popular Wombourne Railway Walk and cycle or walk along the old railway line. To the north there's another historical house at the National Trust's Wightwick Manor. The Victorian manor house is surrounded by some beautiful gardens and includes some pleasant waterside trails along the adjacent Staffordshire and Worcestershire Canal. Just up the canal from here is the wildlife rich Smestow Valley Nature Reserve. Nearby there's the village of Perton where there's a nice cyling and walking trail along the River Penk which runs between two pretty lakes. You can then go on to explore the attractive countryside around the historic Wrottesley Park and Wrottesley Hall."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/XoXwZpxVXpE",
   "postcode": "DY3 4DF",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

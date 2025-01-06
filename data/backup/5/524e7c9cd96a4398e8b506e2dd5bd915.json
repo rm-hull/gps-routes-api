@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:17:31.273177+00:00",
   "objectID": "524e7c9cd96a4398e8b506e2dd5bd915",
-  "created_at": "2024-12-18T19:25:59.597770+00:00",
   "ref": "roddlesworth-reservoir-walking-route",
   "title": "Roddlesworth Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Autumn_view_at_Roddlesworth_Reservoir_-_geograph.org.uk_-_729778.jpg",
@@ -53,7 +53,7 @@
     {
       "description": "Withnell Nature Reserve",
       "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell nature-reserve-walking-route"
+      "ref": "withnell\u00a0nature-reserve-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/524e7c9cd96a4398e8b506e2dd5bd915.gpx",
@@ -105,9 +105,20 @@
   ],
   "distance_km": 4.0,
   "description": "Enjoy a circular walk around these pretty reservoirs near Darwen in Lancashire. There are good footpaths running around the water and through the surrounding woodland. It's a very pretty area with woodland streams and bluebells in the spring. The route runs for just under 3 miles on a series of fairly flat paths. You can start your walk from the car park on Tockholes Road at the Roddlesworth Information Centre. It's right next to the Royal Arms pub which is a good place for refreshments after your walk. From here you head west through Tockholes wood to the two reservoirs. You can also visit Rake Brook Reservoir which is just to the west of the lower reservoir. This walk makes use of the Witton Weavers Way so you could extend your outing by heading to the nearby Darwen Tower and Sunnyhurst Woods. You could also follow the River Roddlesworth through Roddlesworth Woods at the southern end of the reservoir.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Royal Arms is conveniently located at the start/end of the walk. The pub was originally built in 1860 as two cottages to house weavers that worked the local Hollinshead Mill. Shortly after they were knocked together to make an Ale house for the thirsty weavers after their long shifts. Inside it retains much of its old world charm with original stone walls, real fires, flagged and wooden floors. In the warmer months you can relax outside in the garden area. The pub has a good menu and fine selection of ales too. Also at the start of the walk there's a nice cafe in the Roddlesworth Information Centre. They do delicious home made pies and have a unique bird watching facility in the cafe. You can view the birds through one way glass with regular visitors such as greater spotted woodpeckers, nuthatches and chaffinches to see. The centre also has a wealth of information on the area with a set of handy leaflets on walks around the area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a longer walk in the area try the circular Tockholes Walk. The route starts from the same car park and takes you along the reservoir before heading to Tockholes village, Darwen Tower, Sunnyhurst Woods and Bold Venture Park. It's a nice way of taking in a few of the walking highlights of the area in one loop. A few miles north west of the reservoir you'll find a historical highlight of the area at Hoghton Tower. The fortified manor house dates from the 16th century and takes its name from the de Hoghton family, its historical owners since at least the 12th century. It's open to the public on certain days and includes lovely grounds and gardens to explore. You can follow the Witton Weavers Way north west for a few miles to reach the castle and the adjacent Samlesbury Bottoms. There's some nice riverside trails along the River Darwen in this area. Just to the west you could visit the village of Brinscall and follow a nice trail along The Goit Canal to White Coppice and Anglezarke Reservoir. The Abbey Village Reservoir Walk starts from the village to the east. The circular trail visits the Abbey Village Reservoir before heading to Roddlesworth. The village has a friendly pub for a drink afterwards. For more walking ideas in the area see the Lancashire Walks and West Pennine Moors Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Zr8Y9VDgzQs",
   "district": "Ryal Fold",
   "county": "Blackburn with Darwen",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

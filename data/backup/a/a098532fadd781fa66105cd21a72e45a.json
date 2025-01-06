@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:34:35.708619+00:00",
   "objectID": "a098532fadd781fa66105cd21a72e45a",
-  "created_at": "2024-12-18T01:20:52.595304+00:00",
   "ref": "chiltern-link-walking-route",
   "title": "Chiltern Link Walking Route",
   "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
@@ -17,10 +17,21 @@
     "lng": -0.7413614977
   },
   "distance_km": 13.0,
-  "description": "Travel through the beautiful Chiltern Hills on this path which links the Chess Valley Walk and the Ridgeway National Trail. The route runs for 8 miles  between Wendover and Chesham passing through some really splendid countryside and the lovely Wendover Woods. Here you can enjoy a climb to Haddington Hill, the highest point in the Chilterns.",
+  "description": "Travel through the beautiful Chiltern Hills on this path which links the Chess Valley Walk and the Ridgeway National Trail. The route runs for 8 miles between Wendover and Chesham passing through some really splendid countryside and the lovely Wendover Woods. Here you can enjoy a climb to Haddington Hill, the highest point in the Chilterns.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Wendover Woods you could stop off at the new on site Wendover Woods Cafe, located right next to the main car park, about half a mile north of the path. There's lots of tables outside where you can enjoy a meal with great views of the trees. It's a lovely spot to take the weight of your feet. They serve a wide range of tasty hot and cold locally sourced food (including daily specials), delicious cakes and freshly baked pastries, as well as a range of hot and cold Fairtrade drinks. Just to the north of the cafe there's a bookable BBQ area if you fancy bringing along your own food to cook. Just email wendoverbbq@forestryengland.uk for more info."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For cyclists Wendover makes a good entry point for the epic Chilterns Cycleway. The signed circular trail runs for about 170 miles through the Chilterns AONB on quiet country lanes, visiting a series of delightful villages."
+    }
+  ],
   "postcode": "HP22 6ND",
   "district": "Wendover",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

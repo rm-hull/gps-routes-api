@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:53:04.270455+00:00",
   "objectID": "0eb5635463bd2a25ab1f5a5d4fa79730",
-  "created_at": "2024-12-19T19:53:36.635246+00:00",
   "ref": "radley-lake-walking-route",
   "title": "Radley Lake Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Radley_Station_-_geograph.org.uk_-_1299695.jpg",
@@ -90,9 +90,20 @@
   ],
   "distance_km": 8.0,
   "description": "This circular walk explores the Radley Lakes near Abingdon in Oxfordshire. There's some nice footpaths around the picturesque lakes where you can look out for a variety of water loving birds. The route starts from the train station in Radley village. From here you can follow country lanes east to Lower Radley before meeting up with the River Thames. Follow the Thames Path south and it will take you past the lakes towards Abingdon. You then follow footpaths north past Thrupp Lake to return to Radley and the train station.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is popular with dog walkers though you are requested to keep them on leads please."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Nearby you can pick up the Abingdon Circular Walk and visit the worthy villages of Sutton Courtenay and Culham. The Oxford River Walk also passes the lakes so you could pick this up to visit the famous university city and the pretty riverside village of Sandford on Thames. For more walking ideas in the area see the Oxfordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MRSmB9qLvTA",
   "district": "Radley",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

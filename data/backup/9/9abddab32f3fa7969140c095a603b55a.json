@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:25:32.164815+00:00",
   "objectID": "9abddab32f3fa7969140c095a603b55a",
-  "created_at": "2024-12-21T19:46:22.448586+00:00",
   "ref": "milton-creek-country-park-walking-and-cycle-route",
   "title": "Milton Creek Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Milton_Creek_Country_Park_Play_Area.JPG/512px-Milton_Creek_Country_Park_Play_Area.JPG",
@@ -71,5 +71,16 @@
   ],
   "distance_km": 4.5,
   "description": "A short circular cycle or walk around Milton Creek Country Park in Sittingbourne in Kent. The park is set in 128 acres and contains Milton Creek, fishing lakes and a network of well laid out paths. The heritage Sittingbourne and Kemsley Light Railway also runs though the Park. The nearby Kemsley railway station makes for a good access point for the route.",
-  "video_url": "https://www.youtube.com/embed/avKq41He2YU"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers so you will probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Sittingbourne Walk starts from the town's train station and visits the park before heading along the Saxon Shore Way and the Swale Heritage Trail to the Little Murston Nature Reserve on the River Swale. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/avKq41He2YU",
+  "gazetteer_found": false
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:39:28.924820+00:00",
   "objectID": "847501100a2a9f86a8f64bb0548db379",
-  "created_at": "2024-12-18T23:47:42.913229+00:00",
   "ref": "wateringbury-walking-route",
   "title": "Wateringbury River Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bow_Bridge_Wateringbury_-_geograph.org.uk_-_1267090.jpg",
@@ -23,7 +23,7 @@
     {
       "description": "Teston Bridge Country Park",
       "objectID": "02935a509bd9bc3db713571c15af43aa",
-      "ref": "teston-bridge country-park-walking-route"
+      "ref": "teston-bridge\u00a0country-park-walking-route"
     },
     {
       "description": "East Peckham",
@@ -70,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/YaldingTwyford0529.JPG/512px-YaldingTwyford0529.JPG",
       "title": "Clem Rutter, Rochester, Kent., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons",
-      "caption": "Twyford Bridge on the River Medway near Yalding - one of the highlights on the walk. 'Twyford' means twin ford, where there was originally a double crossing of the two rivers).  The bridge is one of the finest medieval bridges in the south-east of England. It is just downstream of the automatic sluice where the river drops from +11.2m to +7.41m above mean sea level. The navigation bears left through Hampstead Road Canal and Hampstead Lock; the main stream drops over the weir and sluice and is joined by the River Teise (Lesser Teise) and both pass under Twyford Bridge. The river then flows in a loop towards Yalding, where it is joined by the River Beult which has been joined by the River Teise (the other bit!) and has passed under Town Bridge. Twyford Bridge is not navigable and about 10 miles from Allington Lock."
+      "caption": "Twyford Bridge on the River Medway near Yalding - one of the highlights on the walk. 'Twyford' means twin ford, where there was originally a double crossing of the two rivers). The bridge is one of the finest medieval bridges in the south-east of England. It is just downstream of the automatic sluice where the river drops from +11.2m to +7.41m above mean sea level. The navigation bears left through Hampstead Road Canal and Hampstead Lock; the main stream drops over the weir and sluice and is joined by the River Teise (Lesser Teise) and both pass under Twyford Bridge. The river then flows in a loop towards Yalding, where it is joined by the River Beult which has been joined by the River Teise (the other bit!) and has passed under Town Bridge. Twyford Bridge is not navigable and about 10 miles from Allington Lock."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Swans_and_boats_on_the_River_Medway_east_of_Bow_bridge%2C_Wateringbury_-_geograph.org.uk_-_1267081.jpg",
@@ -85,7 +85,18 @@
   ],
   "distance_km": 9.8,
   "description": "This little Kent based village is situated in a pleasant spot next to the River Medway, a few miles south west of Maidstone. This circular walk from Wateringbury takes you along the River Medway and the Yalding Canal also visiting the neighbouring villages of Nettlestead, Yalding and West Farleigh. The walk starts just south of the village at Wateringbury train station where you can pick up the Medway Valley Walk and follow the waymarked trail south to the Medway Wharf Marina, Nettlestead and Twyford Bridge. The bridge is a very photogenic medieval structure and one of the highlights of the village. You can cross the bridge and then follow country lanes to Yalding. The route then heads north through the countryside to West Farleigh before picking up the river path and heading west to return to the train station.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Wateringbury pub in the village has a good menu and a nice gardena area to sit out in. You can find them on Tonbridge Rd at postcode ME18 5NS. They are also dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head to the lovely Teston Bridge Country Park to continue your walking around the village. There's a 14th century bridge, a rushing weir, river trails and lots of wildlife to see here. Just to the south west you can try the East Peckham River Walk. The village is in a nice location on both the Medway and the River Bourne. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

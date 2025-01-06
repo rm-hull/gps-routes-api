@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:17:48.887520+00:00",
   "objectID": "35e9a3c86f3802e99910ca91435bd632",
-  "created_at": "2024-12-18T03:54:17.387068+00:00",
   "ref": "lampeter-walking-route",
   "title": "Lampeter Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Pont_Steffan_-_geograph.org.uk_-_49760.jpg",
@@ -17,27 +17,27 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Farmland_south-east_of_Lampeter%2C_Carmarthenshire_-_geograph.org.uk_-_1219203.jpg",
-      "title": "Roger  Kidd / Farmland south-east of Lampeter, Carmarthenshire",
+      "title": "Roger Kidd / Farmland south-east of Lampeter, Carmarthenshire",
       "caption": "Farmland south-east of Lampeter, Carmarthenshire. Looking along the southern slopes of Bryn Mawr towards the Teifi valley."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sheep_grazing_above_the_Teifi_Valley%2C_Ceredigion_-_geograph.org.uk_-_566473.jpg",
-      "title": "Roger  Kidd / Sheep grazing above the Teifi Valley, Ceredigion",
+      "title": "Roger Kidd / Sheep grazing above the Teifi Valley, Ceredigion",
       "caption": "Sheep grazing above the Teifi Valley, Ceredigion"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Byway_to_the_Teifi_Valley%2C_Ceredigion_-_geograph.org.uk_-_566441.jpg",
-      "title": "Roger  Kidd / Byway to the Teifi Valley, Ceredigion",
+      "title": "Roger Kidd / Byway to the Teifi Valley, Ceredigion",
       "caption": "Byway to the Teifi Valley, Ceredigion"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Hill_Stream_Landscape_on_Bryn_Mawr%2C_Ceredigion_-_geograph.org.uk_-_566359.jpg/256px-Hill_Stream_Landscape_on_Bryn_Mawr%2C_Ceredigion_-_geograph.org.uk_-_566359.jpg",
-      "title": "Roger  Kidd / Hill Stream Landscape on Bryn Mawr, Ceredigion",
+      "title": "Roger Kidd / Hill Stream Landscape on Bryn Mawr, Ceredigion",
       "caption": "Hill Stream Landscape on Bryn Mawr, Ceredigion"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Byway_and_Teifi_Valley_Landscape%2C_Ceredigion_-_geograph.org.uk_-_564448.jpg",
-      "title": "Roger  Kidd / Byway and Teifi Valley Landscape, Ceredigion",
+      "title": "Roger Kidd / Byway and Teifi Valley Landscape, Ceredigion",
       "caption": "Byway and Teifi Valley Landscape, Ceredigion The byway, \"open to all traffic\", is the stony track seen on the left, leading down towards Bryn Cynon, near Lampeter. A little further south, the byway becomes grassier and softer."
     },
     {
@@ -47,15 +47,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/High_Street%2C_Lampeter._-_geograph.org.uk_-_423404.jpg",
-      "title": "RHYS  WILLIAMS / High Street,  Lampeter.",
+      "title": "RHYS WILLIAMS / High Street, Lampeter.",
       "caption": "High Street, Lampeter."
     }
   ],
   "distance_km": 9.6,
   "description": "This Ceredigion based town sits at the confluence of the Rivers Dulas Teifi. It's surrounded by plenty of footpaths on which to explore the beautiful Teifi Valley. It also includes a campus of the University of Wales making it the smallest university town in the UK. This walk from the town takes you up to the viewpoint at Bryn Mawr to the south of Lampeter. From here you can enjoy splendid views over the countryside of the Teifi Valley. The walk starts in the town next to the River Dulas and follows a footpath south along the water. You then cross the Teifi on Pont Stephen before following country lanes east and then south east up to Bry Mawr. Here you reach a height of over 300 metres with excellent views over the fields to the town below. After taking in the views the route returns to the town on the same footpaths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Royal Oak Hotel on the High Street is a good choice for some post walk refreshments. They do very good food and also have a garden area for warmer days. You can find them at 38 High Street with a postcode of SA48 7BB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and river trails make for a nice walk with your dog. The Royal Oak mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south of the town you can continue your walking in the expansive Brechfa Forest. There's miles of waymarked cycling and walking trails to be found here. The forest is located close to Dinefwr Park which sits on the edge of the Brecon Beacons. Here you'll find a 12th-century Welsh castle, the historic house, the 18th-century landscaped park and the medieval deer park. Near here there's also Gelli Aur Country Park. The park surrounds the Golden Grove mansion and includes a deer park, peacocks, views of the Tywi Valley and an aboretum with some fine specimen trees.The forest is also not far from Llandeilo and Carmarthen where you can pick up the Welsh Coast Path and enjoy some wonderful sea views. To the south east is the interesting town of Llandovery in the Cambrian Mountains. To the east there's the peaceful little village of Rhandirmwyn where you can explore the interesting old lead mines, the River Towy Valley and the local woods."
+    }
+  ],
   "postcode": "SA48 7HP",
   "district": "Lampeter / Llanbedr Pont Steffan",
   "county": "Sir Ceredigion - Ceredigion",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:25:29.287080+00:00",
   "objectID": "497873a9c82d6125a60a245ed246861c",
-  "created_at": "2024-12-18T22:12:54.627943+00:00",
   "ref": "pen-y-crug-walking-route",
   "title": "Pen y Crug Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Old_waymarker_post_on_the_footpath_near_Pen-y-crug_-_geograph.org.uk_-_2437988.jpg",
@@ -80,10 +80,17 @@
   ],
   "distance_km": 4.0,
   "description": "This walk climbs to the ancient hill fort and viewpoint on Pen-y-crug hill in Powys in the Brecon Beacons. The hill is located just to the north west of the town of Brecon. From the town you can follow public footpaths up to the 331 metre high summit. Here you will find an Iron Age hillfort with excellent views over the River Usk Valley and the mountains of the Brecon Beacons.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Taff Trail runs through Brecon town. You could pick up the shared cycling and walking trail and follow it south to climb to another splendid viewpoint at Pen Y Fan. There's also some nice trails along the Monmouthshire and Brecon Canal and the River Usk from the town."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/5OL6irmWEc8",
   "postcode": "LD3 9EB",
   "district": "Aberhonddu / Brecon",
   "county": "Powys - Powys",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

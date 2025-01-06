@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:21:14.197861+00:00",
   "objectID": "0ae48ead2498445f1395d52436985068",
-  "created_at": "2024-12-21T17:38:23.463367+00:00",
   "ref": "basingstoke-canal-walk-walking-route",
   "title": "Basingstoke Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Barge_on_Basingstoke_Canal.jpg/512px-Barge_on_Basingstoke_Canal.jpg",
@@ -100,10 +100,20 @@
   ],
   "distance_km": 53.0,
   "description": "Follow the Basingstoke canal from Up Nately to Woodham, on this delightful waterside walk. The walk passes Fleet, Woking, Farnborough and Aldershot. There's lots of pretty locks and regular views of the lovely Hampshire and Surrey countryside. The walk starts from Up Nately, located just to the east of the town of Basingstoke. You then head east passing the ruins of Odiham Castle which was built by King John in the early part of the 13th century. The route continues past North Warnborough to Dogmersfield Park. The canal runs through the park which also has some nice woodland trails and a pretty lake. You continue east past Crookham Village before heading through the large town of Fleet. The route then passes through the woodland of the Forest of Eversley to Aldershot. Here you head through the lovely Lakeside Nature Reserve where there are a series of lakes and lots of wildlife to look out for. At Aldershot the canal turns north toward Frimley Lodge Park where you turn east to Woking. Shortly after the route comes to an end at Woodham, on the outskirts of Weybridge. Here the canal joins with the River Wey Navigation which you could follow north to Weybridge and the River Thames.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Waterwitch in Odiham is a fine place for a pit stop. The pub is located right next to the canal and includes a lovely garden area stretching right down to the water's edge. It's a great spot to rest and relax on a warm day. The pub has some history too, dating back to the 17th century and retaining many of its original features such as exposed beams, open fires and cosy nooks and crannies. They serve a wide range of cask ales and a fine selection of traditional pub food. You can find them at Colt Hill, London Rd, Odiham with postcode RG29 1AL for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The towpath is a nice place to take your dog for a walk. The trails in nearby Blackwood Forest are also popular with dog walkers. The Waterwitch pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles south west of Basingstoke you could pay a visit to Blackwood Forest. The forest has a number of good walking trails and mountain bikes trails to try. On the eastern outskirts of the town you'll find the historic village of Old Basing. Here you'll find the 16th century Basing House, a Tudor Tithe Barn, Basingstoke Common and the Basing Lime Pits. There's also some nice trails along the River Loddon in this area. Just to the north there's the village of Sherfield on Loddon where you'll find the historic Longbridge Mill on the banks of the river. The 15th century mill includes a working flour mill, a visitor centre and a fine pub for refreshment. At Odiham you can pick up the Three Castles Path. This historically themed long distance trail will take you from Windsor Castle to Winchester Castle, visiting the canal and Odiham Castle on the way. Just to the south of Basingstoke you'll find the noteworthy Hackwood Park. The Grade I listed park has a series of public footpaths taking you past the estate which includes an ornamental bridge, fountains, a statue of George I, deer and the impressive Hackwood House. Just to the east of the park you can pick up the circular Mapledurwell Walk and visit the pretty villages of Mapledurwell and Upton Grey. For more walking ideas in the county see the Hampshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/dFOgBOXRdmE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0ae48ead2498445f1395d52436985068.gpx",
-  "_geoloc": {
-    "lat": 51.2639720271,
-    "lng": -1.0000790014
-  }
+  "gazetteer_found": false
 }

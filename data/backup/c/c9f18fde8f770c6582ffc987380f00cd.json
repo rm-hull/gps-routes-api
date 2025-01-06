@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:46:02.538823+00:00",
   "objectID": "c9f18fde8f770c6582ffc987380f00cd",
-  "created_at": "2024-12-18T20:45:21.854557+00:00",
   "ref": "walton-on-thames-walking-route",
   "title": "Walton on Thames River Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/The_Thames_from_Walton_Bridge_-_geograph.org.uk_-_16519.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Old_Lock_House%2C_Sunbury_Lock%2C_Walton-on-Thames.jpg/512px-Old_Lock_House%2C_Sunbury_Lock%2C_Walton-on-Thames.jpg",
       "title": "Motmit / CC BY-SA (https://creativecommons.org/licenses/by-sa/3.0)",
-      "caption": "Old Lock House, Sunbury Lock, Walton-on-Thames.  View of the lock cut and the old lock house from narrow Sunbury Lock Ait"
+      "caption": "Old Lock House, Sunbury Lock, Walton-on-Thames. View of the lock cut and the old lock house from narrow Sunbury Lock Ait"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hurst_Park_-_geograph.org.uk_-_1331527.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 16.5,
   "description": "This walk takes you along a section of the Thames Path to Hampton Court Park. It's about a 5 mile walk to the historic palace, so 10 miles there and back. The walk starts on Walton Bridge where you can pick up the waymarked footpath and follow it north east towards the riverside park, Sunbury and the pretty Sunbury Lock where there's an old lockkeeper's house and a weir. The route continues past Hurst Park before coming to Hampton Court Bridge. Here you can cross the bridge before finishing at the impressive palace. The 16th century palace has a fascinating history having been one of Henry VIII's most favoured residences.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Anglers is on the route close to the riverside park in Walton. They have some Thameside outdoor seating where you can enjoy a meal with views of the river. You can find the pub at postcode KT12 2PF for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The riverside path is ideal for a dog walk and the Anglers pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You could extend the walk by continuing along the river to Kingston where you can cross to Hampton Wick. Here you could visit the lovely Bushy Park where there are miles of trails and several resident deer.You could also head west along the river and visit Weybridge and Chertsey. The circular Shepperton Walk visits Old Shepperton where there are some fine old buildings surrounding an attractive square. There's also a noteworthy 15th century pub to visit on the walk. For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "postcode": "TW17 8LY",
   "district": "Shepperton",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

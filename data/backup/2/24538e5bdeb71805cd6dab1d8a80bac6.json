@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:26:34.873825+00:00",
   "objectID": "24538e5bdeb71805cd6dab1d8a80bac6",
-  "created_at": "2024-12-18T07:39:11.263048+00:00",
   "ref": "yately-common-country-park-walking-and-cycle-route",
   "title": "Yateley Common Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Yateley_Common_-_geograph.org.uk_-_664659.jpg",
@@ -80,8 +80,23 @@
   ],
   "distance_km": 10.0,
   "description": "Enjoy nearly 500 acres of heathlands, woodlands and ponds on this circular cycle or walk in Yateley, Hampshire. The route begins at the car park by Wyndham's Pool and takes you along a sequence of peaceful woodland trails to Yately Heath Wood and Minley Wood, before returning to the start point. It's easy to extend your walk by heading south to Hawley Woods and Hawley Lake near Farnborough. Head north and you can visit the lovely Tri Lakes Country Park with its numerous pretty lakes and animal park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just south of the car park you'll find The Ely on the London Road. The pub serves good quality food and has a nice garden area to relax in on warmer days. They are conveniently located just a stone's throw from the main car park at a postcode of GU17 9LJ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and heathland paths are ideal for dog walking so you'll probably bump into other owners on your visit. The Ely pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A couple of miles south of the park there's a nice circular trail around Fleet Pond to try. There's lots of water loving birds to look out for on the water and some interesting flora in the nature reserve. It's also notable as the largest freshwater lake in the county at 52 acres. Near the pond you'll find Fleet train station so you could potentially come by public transport and explore the pond before heading to the common. The Three Castles Path passes just to the north of the common. This historically themed long distance trail will take you from Windsor Castle to Winchester Castle, visiting the ruined Odiham Castle on the way. For more walking ideas in the area see the Hampshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/TDelDI0cZus",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

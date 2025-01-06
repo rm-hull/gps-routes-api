@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:15:33.459117+00:00",
   "objectID": "3bfcc648c72c51abf287a17e4b7c3603",
-  "created_at": "2024-12-18T21:37:55.573601+00:00",
   "ref": "moseley-bog-walking-route",
   "title": "Moseley Bog Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Moseley_Bog_-_geograph.org.uk_-_89202.jpg/256px-Moseley_Bog_-_geograph.org.uk_-_89202.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Moseley_Bog_and_Joy%27s_Wood_Local_Nature_Reserve_-_sculpture_gates_%288293646223%29.jpg/512px-Moseley_Bog_and_Joy%27s_Wood_Local_Nature_Reserve_-_sculpture_gates_%288293646223%29.jpg",
       "title": "Elliott Brown (ell brown on Flickr) from Birmingham, United Kingdom, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
-      "caption": "This is Moseley Bog and Joy's Wood Local Nature Reserve. JRR Tolkien lived near here as a child. It might have been the inspiration for the ancient forests in The Hobbit and The Lord of the Rings. New sculpture gates from Yardley Wood Road are pictured here.  The gates and height barrier designed by Adrian Moakes in 2012."
+      "caption": "This is Moseley Bog and Joy's Wood Local Nature Reserve. JRR Tolkien lived near here as a child. It might have been the inspiration for the ancient forests in The Hobbit and The Lord of the Rings. New sculpture gates from Yardley Wood Road are pictured here. The gates and height barrier designed by Adrian Moakes in 2012."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Moseley_Bog_Wood_Sculpture.JPG/512px-Moseley_Bog_Wood_Sculpture.JPG",
@@ -60,9 +60,16 @@
   ],
   "distance_km": 1.2,
   "description": "This local nature reserve in the Moseley area of Birmingham is a nice place for an easy stroll in the city. There's ancient woodland, ponds and lots of wildlife to look out for at the site. The area is also notable as being Tolkien's inspiration for the ancient forests in the famous The Lord of the Rings and The Hobbit books. Just to the east you can visit Sarehole Mill. There's some fine trails along the River Cole around the 16th century mill which is notable as Birmingham's last surviving water mill. You can also pick up the River Cole Valley Walk and visit Kingfisher Country Park at the mill. To the south is Swanshurst Park where there's a short circular footpath around a pretty lake.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north you can pick up the Grand Union Canal Walk and enjoy more waterside walking along the towpath to Solihull. For more walking ideas in the area see the West Midlands Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ABC-RBgCmXA",
   "postcode": "B13 0AJ",
   "district": "Birmingham",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

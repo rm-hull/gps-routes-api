@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:18:03.092185+00:00",
   "objectID": "4d99c26a54189030bf208f643292fe37",
-  "created_at": "2024-12-18T01:20:46.096704+00:00",
   "ref": "chillington-hall-walking-route",
   "title": "Chillington Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Chillington_Pool%2C_Chillington_Estate_-_geograph.org.uk_-_664643.jpg",
@@ -105,9 +105,20 @@
   ],
   "distance_km": 2.0,
   "description": "This Georgian country house includes some lovely Capability Brown landscaped parkland and gardens to explore. There's also a large lake, a canal and peaceful woodland trails which are covered in bluebells during the spring months. There are orgainsed autumn walks and house tours where you can learn about the history of the 18th century hall. The grounds are only open on a select number of days of the year. See the more information link below for detais.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are allowed on leads within the parkland."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Brewood Canal Walk which visits the hall and the Shropshire Union Canal, Wheaton Aston and Belvide Reservoir. The circular Codsall Walk also passes the hall. At nearby Weston Park you'll find another historic 17th century hall with Capability Brown parkland. There's several waymarked walking trails taking you around the 1000 acre site. In nearby Wombourne you could pay a visit to the 18th century Himley Hall. The historic hall is surrounded by \u2018Capability\u2019 Brown landscaped parkland with woodland walks, waterfalls and a large lake. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EQFpL64c4bU",
   "postcode": "WV8 1RE",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

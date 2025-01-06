@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:01:31.975021+00:00",
   "objectID": "02d397ad19dd922f80b044187aa536a6",
-  "created_at": "2024-12-18T12:56:11.318343+00:00",
   "ref": "blue-pool-dorset-walking-route",
   "title": "Blue Pool Dorset Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Blue_Pool_-_geograph.org.uk_-_348379.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/db/Furzebrook%2C_a_clump_of_rhododendrons_-_geograph.org.uk_-_823202.jpg",
       "title": "Chris Downer / Furzebrook: a clump of rhododendrons",
-      "caption": "A large single patch of rhododendrons within the woodland  during the spring month of May."
+      "caption": "A large single patch of rhododendrons within the woodland during the spring month of May."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Furzebrook%2C_the_Little_Pool_-_geograph.org.uk_-_823183.jpg",
@@ -59,9 +59,20 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "This extraordinary lake in Dorset is located near Wareham and Corfe Castle. Particles of clay in the water diffract reflected light, meaning the pool changes colour regularly. At any time it could be a 'cloudy' grey, green, or more typically a beautiful turquoise. Surrounding the lake are a number of sandy walking paths and peaceful woodland trails. Steps take you to a vantage point where you get great views of the pool and the surrounding Purbeck Hills.  The Blue Pool is also a nature reserve. Look out for the Dartford warbler, nightjar, Silka deer, squirrels, rabbits and badgers. The site also contains a Giftshop, Museum, Tea-house and Plant Centre. The Purbeck Way runs past the site so you could pick this up if you would like to continue your walk.  If you head south east along the trail you will soon come to Corfe Castle where you can visit the fascinating castle ruins and enjoy a climb across Corfe Common. The delightful Arne Nature Reserve is also nearby so this is another good option.",
+  "description": "This extraordinary lake in Dorset is located near Wareham and Corfe Castle. Particles of clay in the water diffract reflected light, meaning the pool changes colour regularly. At any time it could be a 'cloudy' grey, green, or more typically a beautiful turquoise. Surrounding the lake are a number of sandy walking paths and peaceful woodland trails. Steps take you to a vantage point where you get great views of the pool and the surrounding Purbeck Hills. The Blue Pool is also a nature reserve. Look out for the Dartford warbler, nightjar, Silka deer, squirrels, rabbits and badgers. The site also contains a Giftshop, Museum, Tea-house and Plant Centre. The Purbeck Way runs past the site so you could pick this up if you would like to continue your walk. If you head south east along the trail you will soon come to Corfe Castle where you can visit the fascinating castle ruins and enjoy a climb across Corfe Common. The delightful Arne Nature Reserve is also nearby so this is another good option.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site tea rooms where you can enjoy refreshments after your walk."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The pool and the surrunding woodland paths make for a lovely dog walk. You are advised to keep them on leads though."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/liNRzCLwGIM",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

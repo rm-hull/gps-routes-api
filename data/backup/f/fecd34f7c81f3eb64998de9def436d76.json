@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:02:56.896595+00:00",
   "objectID": "fecd34f7c81f3eb64998de9def436d76",
-  "created_at": "2024-12-18T05:53:55.261897+00:00",
   "ref": "jeffrey-hill-walking-route",
   "title": "Jeffrey Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Information_Board_on_Jeffrey_Hill_-_geograph.org.uk_-_1868865.jpg",
@@ -90,9 +90,16 @@
   ],
   "distance_km": 1.5,
   "description": "This walk visits the viewpoint at Jeffrey Hill in the Forest of Bowland in Lancashire. You can start the walk from the Jeffrey Hill car park. It's a lovely spot surrounded by heather in the warmer months. From here you can pick up a circular footpath heading east towards a cairn circle and Thornley Hall Fell. There's great views over the hills and surrounding countryside for the duration of the walk. The walk can be extended by following a path further east to visit Longridge Fell .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Forest of Bowland Walk passes the fell and can be picked up to further explore the area. To the west there's the peaceful and atmospheric Bleasdale Circle. This Bronze Age circular earthwork is thought to be aligned with the sunrise of the Summer Solstice. For more walking ideas in the area see the Forest of Bowland Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zflw6adMlts",
   "postcode": "PR3 2TT",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

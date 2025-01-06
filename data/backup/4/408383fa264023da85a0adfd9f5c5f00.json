@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:56:50.328266+00:00",
   "objectID": "408383fa264023da85a0adfd9f5c5f00",
-  "created_at": "2024-12-18T14:03:42.945563+00:00",
   "ref": "par-sands-beach-walking-route",
   "title": "Par Sands Beach South West Coast Path Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Par_Sands_-_geograph.org.uk_-_1238451.jpg",
@@ -100,10 +100,25 @@
   ],
   "distance_km": 3.5,
   "description": "A circular walk around Par Sands Beach, near the little village of Par in Cornwall. The route uses part of the South West Coast Path and the Saints Way to visit Polkerris and Little Hell. You can start the walk from the large Par Sands car park. There's a wide beautiful beach with sand dunes, a lake and a freshwater tributary running along the far eastern side. You can extend the walk by picking up the Fowey to Polkerris Walk and visiting the beautiful Fowey.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "You can often see a coffee van at the beach during the warmer months."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The beach is very popular with dog owners so you will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Continue west along the coast path and you could visit the delightful Charlestown with its Georgian buildings, picturesque harbour and historic tall ships. It's a fine place for a stroll with excellent views over St Austell Bay and a splendid harbourside pub to visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VL32wxQVyMI",
   "postcode": "PL24 2AR",
   "district": "Polmear",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

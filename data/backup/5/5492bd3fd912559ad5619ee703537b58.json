@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:14:14.161366+00:00",
   "objectID": "5492bd3fd912559ad5619ee703537b58",
-  "created_at": "2024-12-18T12:56:28.230564+00:00",
   "ref": "thames-down-link-walking-route",
   "title": "Thames Down Link Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Ashtead_Common%2C_Thames_Downs_Link_path.jpg/512px-Ashtead_Common%2C_Thames_Downs_Link_path.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 24.0,
   "description": "This walk links the Thames Path and North Downs Way National Trails. It runs for about 15 miles through countryside, woodland and common land. The walk starts in Kingston upon Thames and heads south along the Hogsmill River to Epsom Common, Ashtead Common National Nature Reserve, Horton Country Park and Mickelham Downs. The route finishes at Westumble near the pretty Box Hill Country Park in Surrey.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Epsom Common you'll pass near to the delightful Cricketers Inn. It's in a lovely spot with views of the picturesque cricket green and duck pond. There's an attractive interior and an outdoor area for warmer days. You can find the pub at 1 Stamford Green Road with a postcode of KT18 7SR for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The route is coincident with the London Loop. You could pick up this long waymarked trail to further explore the area around the link. You'll also pass the Chessington Countryside Walk which takes you past the famous local theme park and zoo. For more walking ideas in the area see the Greater London Walks and the Surrey Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EVSngoi97t8",
   "district": "Kingston upon Thames",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

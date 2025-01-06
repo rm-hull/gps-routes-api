@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:04:23.216225+00:00",
   "objectID": "5ec5d227b3d193602d23f41cbee72be4",
-  "created_at": "2024-12-18T11:12:08.533395+00:00",
   "ref": "grenoside-woods-walking-and-cycle-route",
   "title": "Grenoside Woods Walks and MTB",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Footpath_through_Greno_Wood_-_geograph.org.uk_-_156698.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/The_road_to_Wortley_from_the_edge_of_Grenoside_Wood_-_geograph.org.uk_-_957026.jpg",
       "title": "Jonathan Clitheroe / The road to Wortley from the edge of Grenoside Wood",
-      "caption": "The road to Wortley from the edge of Grenoside Wood. Stood at the edge of  the wood on a damp afternoon in early September. Hallfield Head Farm is to the left of the road and Wharncliffe Chase is visible on the horizon."
+      "caption": "The road to Wortley from the edge of Grenoside Wood. Stood at the edge of the wood on a damp afternoon in early September. Hallfield Head Farm is to the left of the road and Wharncliffe Chase is visible on the horizon."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pasture_near_Greno_Wood_-_geograph.org.uk_-_1755717.jpg/512px-Pasture_near_Greno_Wood_-_geograph.org.uk_-_1755717.jpg",
@@ -60,7 +60,22 @@
   ],
   "distance_km": 5.0,
   "description": "This route visits Grenoside and Greno Woods in Sheffield. The area of ancient woodland is also a nature reserve and a great place for flora and fauna. On your visit look out for woodland wildflowers including bluebells, honeysuckle and common cow-wheat. It's also great for birdwatching with wren, cuckoos, willow warbler, blackcap, chiffchaff and tree pipit to see. The woods are a popular place for mountain bikers and walkers with a network of trails to follow. The open street map below shows the mountain bike trails in blue. These include the DH3, Pub Run and Steel City DH. The MTB jumps area can be seen on the eastern side of the woods near Sandy Lane. The video below showcases the trails you will find at the site. You can start off from the car park at 4 Woodhead Rd, Wood Seats, Sheffield S35 8RS. From here you can pick up the trails head east into the woods.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The nearby Bolsterstone village is a good choice for some post exercise refreshment. Here you'll find the Castle Inn which is a typical English village pub. The friendly pub does a great Sunday lunch and is likely to have plenty of other walkers there. The pub can be found at postcode S36 3ZB for your sat navs. Just to the south of the woods is Oughtibridge where you could head to the Hare & Hounds. The friendly pub has a nice conservatory and beer garden to enjoy. You can find it at 6 Church St, Oughtibridge with a postcode of S35 0FW."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are popular with dog walkers so you'll probably see other friendly owners on your visit. The Castle Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The woods sit just to the east of Wharncliffe Woods where there are miles more trails to try. You can pick up the Trans Pennine Trail to explore the woods and the surrounding area. The Oughtibridge and Beeley Wood Walk takes you from the village to another pleasant wood which includes a riverside footpath along the River Don. There's also some nearby waterside trails around More Hall Reservoir and Broomhead Reservoir to try."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ByLML0SbHi8",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:27:52.154962+00:00",
   "objectID": "f5840286fdf7aa6126d67c18218305a1",
-  "created_at": "2024-12-18T07:29:38.755020+00:00",
   "ref": "gibraltar-point-walking-route",
   "title": "Gibraltar Point Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Gibraltar_Point_-_geograph.org.uk_-_190680.jpg",
@@ -60,10 +60,25 @@
   ],
   "distance_km": 6.0,
   "description": "Enjoy a walk around this beautiful coastal national nature reserve near Skegness. It's a lovely place for a peaceful stroll with numerous footpaths to follow through the sand, saltmarsh and dunes with several artificial lakes and bird hides along the way. There are lovely views of the Wash and the Lincolnshire coast and countryside. It's fantastic for bird watching with a variety of coastal birds to look out for. These include brent geese, shorelark, redwing and fieldfare. There's also an excellent visitor centre with a Wild Coast Exhibition that includes 3d models of sand dunes and salt marshes. The reserve is located just a few miles south of Skegness so you could easily walk there from the town. Parking is available at the reserve too though.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is an on site cafe located in the visitor centre. They sell a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Please keep dogs on a short lead due to the wildlife and grazing livestock. Dogs are not permitted on the beach or foreshore between 1 April to 1 September."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head north and try our Skegness Walk. This takes you along the seafront, around the pretty boating lake and along the Lagoon Walk."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ONdZsUndzAY",
   "postcode": "PE24 4SU",
   "district": "Gibraltar",
   "county": "Lincolnshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

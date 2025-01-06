@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:21:31.597216+00:00",
   "objectID": "5cb0bbcf30dc4c70f27ff97640d858df",
-  "created_at": "2024-12-19T02:37:46.406928+00:00",
   "ref": "parlington-woods-walking-route",
   "title": "Parlington Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Parlington_Lane_-_geograph.org.uk_-_2582657.jpg/256px-Parlington_Lane_-_geograph.org.uk_-_2582657.jpg",
@@ -60,8 +60,15 @@
   ],
   "distance_km": 6.7,
   "description": "This walk takes you through Parlington Woods near Aberford and Garforth in Yorkshire. The historic woods are part of the old Parlington Estate, seat of the Gascoigne family. There's an interesting grade II* listed Triumphal Arch and some picturesque old cottages here. You can pick up a tarmac path just south of Aberford. Follow the lane west and it will take you through Parlington Park and woods.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Aberford you can pick up the Hazlewood Castle Walk where you can visit the nearby country estate. Here you'll find expansive bluebell woods and a mountain bike trail located to the west of the 18th century mansion which is now run as a hotel. Just to the north you can explore the villages of Barwick-in-Elmet and Thorner. Here you could visit Bramham Park where there are hundreds of acres of parkland, gardens, woodland and countryside to explore. The landscaped park surrounds the historic 18th century Bramham House which is a Grade I listed building."
+    }
+  ],
   "postcode": "LS25 3EF",
   "district": "Aberford",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

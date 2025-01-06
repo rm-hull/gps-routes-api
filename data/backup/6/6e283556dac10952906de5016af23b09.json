@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:50:36.351972+00:00",
   "objectID": "6e283556dac10952906de5016af23b09",
-  "created_at": "2024-12-20T13:45:33.155653+00:00",
   "ref": "sandlings-walk-walking-route",
   "title": "Sandlings Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sandlings_Walk_Bridleway_to_Wantisden_Corner_-_geograph.org.uk_-_2628230.jpg/512px-Sandlings_Walk_Bridleway_to_Wantisden_Corner_-_geograph.org.uk_-_2628230.jpg",
@@ -115,10 +115,21 @@
   ],
   "distance_km": 88.0,
   "description": "A walk through the Suffolk Coast and Heaths Area of Outstanding Natural Beauty from Southwold to Ipswich via Woodbridge. The walk begins on the coast at Southwold before passing through the countryside and a series of forests. Long, peaceful wooded sections through Dunwich Forest, Tunstall Forest and Rendlesham Forest are major highlights of the walk. At Leiston you'll pass the delightful Minsmere Nature Reserve - one of the UK's premier birdwatching sites. There is also a pleasant waterside section along the River Deben in Woodbridge and views of the River Alde to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "South of Woodbridge you will pass the pretty Martlesham Creek where you could make a pit stop at the noteworthy The Red Lion. The historic pub dates back to the 16th century when it was a originally a coaching inn on the old London to Yarmouth turnpike road. Now a Grade II listed country pub it has retained many of its 16th century features, including exposed wooden beams and open fireplace. It's well known in the area for its distinctive Red Lion figurehead which sits on the exterior of the pub. The historic piece was captured in 1672 from a Dutch ship at the Battle of Sole Bay. They have a good menu and can be found at postcode IP12 4RN for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of Leiston is the neighbouring village of Aldringham where you can explore the RSPB's Aldringham Walks. The wildlife rich conservation area includes a number of footpaths taking you to heathland, woodland and scrub."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/52xHA_uKZWc",
   "postcode": "IP18 6HG",
   "district": "Southwold",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

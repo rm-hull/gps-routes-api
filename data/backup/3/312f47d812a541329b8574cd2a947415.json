@@ -1,99 +1,106 @@
 {
-  "objectID": "312f47d812a541329b8574cd2a947415",
-  "created_at": "2024-12-21T20:02:32.859291+00:00",
-  "ref": "lough-gill-walking-route",
-  "title": "Lough Gill Walks Walking Route",
-  "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Trawane_Bay%2C_Lough_Gill_-_geograph.org.uk_-_981231.jpg?20110223021308",
-  "nearby": [
-    {
-      "description": "Knocknarea",
-      "objectID": "e0432a04212686748dceea785dad338f",
-      "ref": "knocknarea-walking-route"
+    "created_at": "2025-01-05T23:23:20.007585+00:00",
+    "objectID": "312f47d812a541329b8574cd2a947415",
+    "ref": "lough-gill-walking-route",
+    "title": "Lough Gill Walks Walking Route",
+    "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Trawane_Bay%2C_Lough_Gill_-_geograph.org.uk_-_981231.jpg?20110223021308",
+    "nearby": [
+        {
+            "description": "Knocknarea",
+            "objectID": "e0432a04212686748dceea785dad338f",
+            "ref": "knocknarea-walking-route"
+        },
+        {
+            "description": "Benbulben Forest",
+            "objectID": "fef8d4791e5930b9f554162f489fc349",
+            "ref": "benbulben-forest-walking-route"
+        },
+        {
+            "description": "Mullaghmore Head",
+            "objectID": "24aadf2f9a81ab47dce1a00cb314f0af",
+            "ref": "mullaghmore-head-walking-route"
+        },
+        {
+            "description": "Rougey Cliff Walk",
+            "objectID": "6c67dffaac3a558aaa8065c0162a688b",
+            "ref": "rougey-cliff-walk-walking-route"
+        },
+        {
+            "description": "Glencar Waterfall",
+            "objectID": "f6ed83ccfdd0d7f6938abf144170e413",
+            "ref": "glencar-waterfall-walking-route"
+        },
+        {
+            "description": "Lough Eske",
+            "objectID": "ff0ec6265e3d4357fd668fb56dcc1efd",
+            "ref": "lough-eske-walking-route"
+        },
+        {
+            "description": "Killaspugbrone Loop",
+            "objectID": "faaea933354a053c2e190599249e8970",
+            "ref": "killaspugbrone-loop-walking-route"
+        },
+        {
+            "description": "Cavan Way",
+            "objectID": "08d19c07173d1be37ae0e9fed3121287",
+            "ref": "cavan-way-walking-route"
+        }
+    ],
+    "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/312f47d812a541329b8574cd2a947415.gpx",
+    "_geoloc": {
+        "lat": 54.2317317685,
+        "lng": -8.3026637136
     },
-    {
-      "description": "Benbulben Forest",
-      "objectID": "fef8d4791e5930b9f554162f489fc349",
-      "ref": "benbulben-forest-walking-route"
-    },
-    {
-      "description": "Mullaghmore Head",
-      "objectID": "24aadf2f9a81ab47dce1a00cb314f0af",
-      "ref": "mullaghmore-head-walking-route"
-    },
-    {
-      "description": "Rougey Cliff Walk",
-      "objectID": "6c67dffaac3a558aaa8065c0162a688b",
-      "ref": "rougey-cliff-walk-walking-route"
-    },
-    {
-      "description": "Glencar Waterfall",
-      "objectID": "f6ed83ccfdd0d7f6938abf144170e413",
-      "ref": "glencar-waterfall-walking-route"
-    },
-    {
-      "description": "Lough Eske",
-      "objectID": "ff0ec6265e3d4357fd668fb56dcc1efd",
-      "ref": "lough-eske-walking-route"
-    },
-    {
-      "description": "Killaspugbrone Loop",
-      "objectID": "faaea933354a053c2e190599249e8970",
-      "ref": "killaspugbrone-loop-walking-route"
-    },
-    {
-      "description": "Cavan Way",
-      "objectID": "08d19c07173d1be37ae0e9fed3121287",
-      "ref": "cavan-way-walking-route"
-    }
-  ],
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/312f47d812a541329b8574cd2a947415.gpx",
-  "_geoloc": {
-    "lat": 54.2317317685,
-    "lng": -8.3026637136
-  },
-  "images": [
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Trawane_Bay%2C_Lough_Gill_-_geograph.org.uk_-_981231.jpg?20110223021308",
-      "title": "Oliver Dixon / Trawane Bay, Lough Gill",
-      "caption": "Trawane Bay, Lough Gill. A short way to the east of the Lake Isle of Inishfree. The lake contains about 20 small islands, including the Isle of Innisfree, made famous by William Butler Yeats's poem \"The Lake Isle of Innisfree\". Other islands include Church Island, and Beezie's Island, which was inhabited until 1951."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sculpture%2C_near_Lough_Gill_-_geograph.org.uk_-_826435.jpg?20110220164816",
-      "title": "Kenneth  Allen / Sculpture, near Lough Gill",
-      "caption": "Sculpture, near Lough Gill. The Lough Gill system consists of the river Bonet that flows into the eastern end of the lake and the River Garavogue which drains the lake to the west near Sligo Town."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Boardwalk_on_the_Sligo_Way_-_geograph.org.uk_-_980441.jpg/256px-Boardwalk_on_the_Sligo_Way_-_geograph.org.uk_-_980441.jpg?20110222231614",
-      "title": "Oliver Dixon / Boardwalk on the Sligo Way",
-      "caption": "Boardwalk on the Sligo Way. The Sligo Way runs across County Sligo from the Mayo border to the Leitrim border. Just west of here it is coincident with the Slish Wood Forest Trail which starts at the R287 and follows forest roads. At this point, the forest road gives up and the path crosses a boardwalk and enters a marshy moorland area high above the south shore of Lough Gill."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slish_Wood_Forest_Trail_-_geograph.org.uk_-_980403.jpg?20110223013221",
-      "title": "Oliver Dixon / Slish Wood Forest Trail",
-      "caption": "Slish Wood Forest Trail. The woods surrounding the lake are dominated by oak (Quercus spp.), rowan (Sorbus aucuparia) and willows (Salix spp.). The shores of the lake are home to the world's northernmost specimens of the rare Mediterranean strawberry tree (Arbutus unedo). It is a small evergreen tree of the family Ericaceae, which in Ireland can grow to be a forest tree, reaching heights of up to 15 metres. Its Irish name is caithne."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Geographer_and_friend_-_geograph.org.uk_-_981224.jpg/256px-Geographer_and_friend_-_geograph.org.uk_-_981224.jpg?20110223000813",
-      "title": "Oliver Dixon / Geographer and friend",
-      "caption": "Geographer and friend. This very friendly donkey followed us all the way along the path to the sculpture overlooking the Inishfree viewpoint."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Slishwood_Island_East_-_geograph.org.uk_-_980421.jpg?20110223013223",
-      "title": "Oliver Dixon / Slishwood Island East",
-      "caption": "Slishwood Island East. One of a pair of small islands in Lough Gill, seen from the Slishwood Forest Trail which runs alongside the south shore of the Lough. The picturesque lake is surrounded by woodlands, such as Slish Wood, Dooney Rock, and Hazelwood all of which contain popular nature trails and viewing points along the lake. The wooded hills of Slieve Killery and Slieve Daean dominate the south shore. It is a popular location for birdwatchers."
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lough_Gill_-_geograph.org.uk_-_825328.jpg?20110220160926",
-      "title": "Kenneth  Allen / Lough Gill",
-      "caption": "Lough Gill"
-    },
-    {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Church_Island_Day.jpg/512px-Church_Island_Day.jpg?20150929205021",
-      "title": "Hollywelltrees, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
-      "caption": "Church Island"
-    }
-  ],
-  "distance_km": 19.0,
-  "description": "This walk visits the picturesque Lough Gill in County Sligo. The walk follows a section of the Sligo Way from the village of Dromahair to the lake. You can follow the waymarked path west to the southern side of the lake, passing Cullentra Forest on the way. The path then runs along Trawane Bay using woodland trails to take you to Bunowen Bay and Slishwood. Along the way you can enjoy lovely views across the lough to its islands and the surrounding hills. Also look out for a variety of birds including breeding common terns on the lake's islands and kingfishers. To continue your walking in the area head west to Knocknarea where you can see one of Ireland's largest cairns and enjoy glorious views over the C\u00fail Irra peninsula. The photogenic Glencar Waterfall is located just to the north as well.",
-  "video_url": "https://www.youtube.com/embed/C7d-mzkycNw?si=PLWq2ujvzyalyfNw"
+    "images": [
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Trawane_Bay%2C_Lough_Gill_-_geograph.org.uk_-_981231.jpg?20110223021308",
+            "title": "Oliver Dixon / Trawane Bay, Lough Gill",
+            "caption": "Trawane Bay, Lough Gill. A short way to the east of the Lake Isle of Inishfree. The lake contains about 20 small islands, including the Isle of Innisfree, made famous by William Butler Yeats's poem \"The Lake Isle of Innisfree\". Other islands include Church Island, and Beezie's Island, which was inhabited until 1951."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sculpture%2C_near_Lough_Gill_-_geograph.org.uk_-_826435.jpg?20110220164816",
+            "title": "Kenneth Allen / Sculpture, near Lough Gill",
+            "caption": "Sculpture, near Lough Gill. The Lough Gill system consists of the river Bonet that flows into the eastern end of the lake and the River Garavogue which drains the lake to the west near Sligo Town."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Boardwalk_on_the_Sligo_Way_-_geograph.org.uk_-_980441.jpg/256px-Boardwalk_on_the_Sligo_Way_-_geograph.org.uk_-_980441.jpg?20110222231614",
+            "title": "Oliver Dixon / Boardwalk on the Sligo Way",
+            "caption": "Boardwalk on the Sligo Way. The Sligo Way runs across County Sligo from the Mayo border to the Leitrim border. Just west of here it is coincident with the Slish Wood Forest Trail which starts at the R287 and follows forest roads. At this point, the forest road gives up and the path crosses a boardwalk and enters a marshy moorland area high above the south shore of Lough Gill."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Slish_Wood_Forest_Trail_-_geograph.org.uk_-_980403.jpg?20110223013221",
+            "title": "Oliver Dixon / Slish Wood Forest Trail",
+            "caption": "Slish Wood Forest Trail. The woods surrounding the lake are dominated by oak (Quercus spp.), rowan (Sorbus aucuparia) and willows (Salix spp.). The shores of the lake are home to the world's northernmost specimens of the rare Mediterranean strawberry tree (Arbutus unedo). It is a small evergreen tree of the family Ericaceae, which in Ireland can grow to be a forest tree, reaching heights of up to 15 metres. Its Irish name is caithne."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Geographer_and_friend_-_geograph.org.uk_-_981224.jpg/256px-Geographer_and_friend_-_geograph.org.uk_-_981224.jpg?20110223000813",
+            "title": "Oliver Dixon / Geographer and friend",
+            "caption": "Geographer and friend. This very friendly donkey followed us all the way along the path to the sculpture overlooking the Inishfree viewpoint."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Slishwood_Island_East_-_geograph.org.uk_-_980421.jpg?20110223013223",
+            "title": "Oliver Dixon / Slishwood Island East",
+            "caption": "Slishwood Island East. One of a pair of small islands in Lough Gill, seen from the Slishwood Forest Trail which runs alongside the south shore of the Lough. The picturesque lake is surrounded by woodlands, such as Slish Wood, Dooney Rock, and Hazelwood all of which contain popular nature trails and viewing points along the lake. The wooded hills of Slieve Killery and Slieve Daean dominate the south shore. It is a popular location for birdwatchers."
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lough_Gill_-_geograph.org.uk_-_825328.jpg?20110220160926",
+            "title": "Kenneth Allen / Lough Gill",
+            "caption": "Lough Gill"
+        },
+        {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Church_Island_Day.jpg/512px-Church_Island_Day.jpg?20150929205021",
+            "title": "Hollywelltrees, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons",
+            "caption": "Church Island"
+        }
+    ],
+    "distance_km": 19.0,
+    "description": "This walk visits the picturesque Lough Gill in County Sligo. The walk follows a section of the Sligo Way from the village of Dromahair to the lake. You can follow the waymarked path west to the southern side of the lake, passing Cullentra Forest on the way. The path then runs along Trawane Bay using woodland trails to take you to Bunowen Bay and Slishwood. Along the way you can enjoy lovely views across the lough to its islands and the surrounding hills. Also look out for a variety of birds including breeding common terns on the lake's islands and kingfishers. To continue your walking in the area head west to Knocknarea where you can see one of Ireland's largest cairns and enjoy glorious views over the C\u00fail Irra peninsula. The photogenic Glencar Waterfall is located just to the north as well.",
+    "details": [
+        {
+            "subtitle": "Further Information and Other Local Ideas",
+            "content": "To the east you can pick up the Cavan Way in Dowra. The waymarked walk will take you through the wonderful Cavan Burren Park with its fascinating geological features."
+        }
+    ],
+    "video_url": "https://www.youtube.com/embed/C7d-mzkycNw?si=PLWq2ujvzyalyfNw",
+    "gazetteer_found": false
 }

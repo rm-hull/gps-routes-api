@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:38:24.558287+00:00",
   "objectID": "0d9674570030ba2b66e7e0a6cf73faa3",
-  "created_at": "2024-12-18T19:54:12.726636+00:00",
   "ref": "deils-cauldron-walking-route",
   "title": "Deil's Cauldron Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/River_Lednock_-_geograph.org.uk_-_1195362.jpg",
@@ -14,6 +14,11 @@
       "description": "St Fillans to Comrie Railway",
       "objectID": "06b542f656590b1c1a69ff70cf3b1883",
       "ref": "st-fillans-to-comrie-railway-walking-route"
+    },
+    {
+      "description": "River Earn Walk",
+      "objectID": "86c481aaa62b733223952fed9bbaadc9",
+      "ref": "river-earn-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0d9674570030ba2b66e7e0a6cf73faa3.gpx",
@@ -55,7 +60,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/View_over_valley_of_River_Earn_above_Comrie_from_Monument_near_The_Milton%2C_Comrie_-_geograph.org.uk_-_37138.jpg",
       "title": "Pete Chapman, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View over valley of River Earn above Comrie from Monument near The Milton, Comrie. The monument (behind the photographer) is situated on a locally prominent rocky knoll. The knoll had a thin screen of trees, but a clear grassy top. View looking W."
+      "caption": "View over valley of River Earn Walk above Comrie from Monument near The Milton, Comrie. The monument (behind the photographer) is situated on a locally prominent rocky knoll. The knoll had a thin screen of trees, but a clear grassy top. View looking W."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Lord_Melville%27s_Monument_%28geograph_5483819%29.jpg/512px-Lord_Melville%27s_Monument_%28geograph_5483819%29.jpg",
@@ -65,10 +70,12 @@
   ],
   "distance_km": 6.5,
   "description": "This walk visits Deil's Cauldron waterfall in Comrie in Perth and Kinross. You can reach the falls by following a footpath north through Laggan Wood and along the River Lednock from Comrie. The falls are an impressive sight with a cascading waterfall and several pools below resembling a boiling cauldron. On the western side of the river there's also the climb to the Melville Monument where you can enjoy some wonderful views over the area. To continue your walking around Comrie head west along the St Fillans to Comrie Railway Path to visit Loch Earn. There's a splendid viewpoint here and the Lochearnhead to St Fillans Railway Walk to try as well.",
+  "details": [],
   "video_url": "https://www.youtube.com/embed/Vpmr9icxYYA",
   "postcode": "PH6 2EA",
   "district": "Comrie",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:58:39.139590+00:00",
   "objectID": "9497d9c300305fc9440b1159b065af6d",
-  "created_at": "2024-12-18T01:12:36.178870+00:00",
   "ref": "lairds-loch-walking-route",
   "title": "Lairds Loch Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Laird%27s_Loch_-_geograph.org.uk_-_79650.jpg",
@@ -75,9 +75,20 @@
   ],
   "distance_km": 1.5,
   "description": "This walk visits the pretty Lairds Loch in the Sidlaw Hills near Dundee. You can start the walk from the roadside parking just to the east of the hill. Then follow footpaths west to reach the loch. You can extend the walk by heading west from the loch to climb to Northballo Hill for great views over the area. There's some good woodland trails surrounding the water as well. To the east there's the Hallyburton Community Woodland while you can find Ballo Woods to the west.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In nearby Coupar Angus there's The Red House Hotel which has an excellent restaurant. You can find them at Station Rd, Coupar Angus, Blairgowrie PH13 9AL."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head towards Dundee to visit Camperdown Park, Monikie Country Park, Crombie Country Park, Clatto Country Park and Dudhope Park. A few miles to the east there's Piperdam Country Park where there is another loch and a visitor centre. To the north is the village of Newtyle where you can pick up the Newtyle Railway Walk along the old Dundee and Newtyle Railway."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/tZSeSgyDVqs",
   "postcode": "PH13 9LA",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

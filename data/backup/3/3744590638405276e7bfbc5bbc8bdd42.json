@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:44:54.733446+00:00",
   "objectID": "3744590638405276e7bfbc5bbc8bdd42",
-  "created_at": "2024-12-21T07:54:37.603155+00:00",
   "ref": "gortin-glen-walking-and-cycle-route",
   "title": "Gortin Glen Walks and MTB Trails",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Gortin_Glen_Forest_Park_-_geograph.org.uk_-_1350776.jpg",
@@ -19,6 +19,16 @@
       "description": "Loughmacrory Lough",
       "objectID": "ed156355f823135e07a40fba7cb0fd5a",
       "ref": "loughmacrory-lough-walking-route"
+    },
+    {
+      "description": "Ballinderry River Walk",
+      "objectID": "02d394328628731f24d9d2d4ac80e72e",
+      "ref": "dunnamore-ballinderry-river-walking-route"
+    },
+    {
+      "description": "An Creagan",
+      "objectID": "9993f3a7e9e779bc2ee27051b6950700",
+      "ref": "an-creagan-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3744590638405276e7bfbc5bbc8bdd42.gpx",
@@ -35,12 +45,12 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Waterfall%2C_Gortin_Glen_Forest_Park_-_geograph.org.uk_-_1350780.jpg",
-      "title": "Kenneth  Allen / Waterfall, Gortin Glen Forest Park",
+      "title": "Kenneth Allen / Waterfall, Gortin Glen Forest Park",
       "caption": "Waterfall, Gortin Glen Forest Park"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Gortin_Glens_Forest_Park_%288%29_-_geograph.org.uk_-_1711718.jpg",
-      "title": "Kenneth  Allen / Gortin Glens Forest Park (8)",
+      "title": "Kenneth Allen / Gortin Glens Forest Park (8)",
       "caption": "Cascade on stream"
     },
     {
@@ -50,21 +60,32 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Gortin_Glens_Forest_Park_%285%29_-_geograph.org.uk_-_3168319.jpg",
-      "title": "Gortin Glens Forest Park (5) by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Gortin Glens Forest Park (5) by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Deer in the park"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Gortin_Glens_Forest_Park_%286%29_-_geograph.org.uk_-_3168323.jpg",
-      "title": "Gortin Glens Forest Park (6) by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Gortin Glens Forest Park (6) by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Picnic area and lovely autumn colours"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Very_steep_steps%2C_Gortin_Glens_Park_-_geograph.org.uk_-_3475282.jpg/512px-Very_steep_steps%2C_Gortin_Glens_Park_-_geograph.org.uk_-_3475282.jpg",
-      "title": "Very steep steps, Gortin Glens Park by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Very steep steps, Gortin Glens Park by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Very steep steps"
     }
   ],
   "distance_km": 5.5,
   "description": "This expansive area of woodland near Omagh includes miles of good footpaths and mountain bike trails. For walkers there's a series of colour coded waymarked paths to try from the main car park. Cyclists can enjoy moderate blue trails and more challenging red trails. On the way there are streams, waterfalls, lots of wildlife and some fine views towards the nearby Sperrin Mountains. Look out for fauna including deer and various woodland birds. To continue your walking in the Sperrins area head east to visit Davagh Forest. There's nice river walks and an exhilarating red graded mountain bike trail to try here.",
-  "video_url": "https://www.youtube.com/embed/jl4jfJ77yZk"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideals for dog walking. A lead is required on the Mullaghcarn Trail due to livestock grazing next to the trail."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north you'll find the Gortin Glen Lakes. There's another lovely path here with splendid views over the water to the surrounding mountains. Further north there's the Banagher Glen Nature Reserve. Here you can explore the Banagher Dam and a series of pretty waterfalls with red squirrels to look out for on the way. To the south east there's Loughmacrory Lough. Here you will find a 2km circular trail running along the shoreline of the pretty lake. Just to the east there's the lovely Ballinderry River Walk in nearby Dunnamore. Near here you can pick up the circular loop walk around An Creagan. There's a visitor centre, a boardwalk over the Creggan Bog Nature Reserve and woodland trails to be found in this interesting area."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/jl4jfJ77yZk",
+  "gazetteer_found": false
 }

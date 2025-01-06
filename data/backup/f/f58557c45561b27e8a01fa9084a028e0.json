@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:09:25.707470+00:00",
   "objectID": "f58557c45561b27e8a01fa9084a028e0",
-  "created_at": "2024-12-18T16:17:49.186320+00:00",
   "ref": "leysdown-coastal-park-walking-route",
   "title": "Leysdown Coastal Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Car_Park_at_Leysdown_Coastal_Park_-_geograph.org.uk_-_1286729.jpg",
@@ -44,8 +44,15 @@
     }
   ],
   "distance_km": 9.0,
-  "description": "Enjoy fabulous views of the Thames Estuary on this circular walk through Leysdon Coastal park and Leysdon Marshes on the Isle of Sheppey. For cyclists please see the Isle of Harty Trail which also runs through the park.",
+  "description": "Enjoy fabulous views of the Thames Estuary on this circular walk through Leysdon Coastal park and Leysdon Marshes on the Isle of Sheppey . For cyclists please see the Isle of Harty Trail which also runs through the park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north towards Sheerness and you can visit Barton's Point Coastal Park. There's more nice trails here and a pretty lake. You can also pick up the Sheerness Way here."
+    }
+  ],
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

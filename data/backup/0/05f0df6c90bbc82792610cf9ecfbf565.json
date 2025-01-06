@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:05:11.079756+00:00",
   "objectID": "05f0df6c90bbc82792610cf9ecfbf565",
-  "created_at": "2024-12-18T09:56:42.985570+00:00",
   "ref": "buchan-country-park-walking-route",
   "title": "Buchan Country Park Map and Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Douster_Pond%2C_Buchan_Country_Park_-_geograph.org.uk_-_238748.jpg",
@@ -55,10 +55,21 @@
   ],
   "distance_km": 7.0,
   "description": "Explore 170 acres of woodland, heath, ponds and meadow in this delightful park on the outskirts of Crawley. There are numerous peaceful trails to follow and a variety of wildlife to look out for such as dragonflies, nightjars, great-crested grebes, adders and grass snakes. Just a couple of miles to the east there's miles of great cycling and walking trails around Tilgate Forest Country Park .",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking so you'll probable see other owners on your visit. There is a dog dip in the island pond where they can enjoy a paddle as well."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Worth Way starts in nearby Crawley. This shared cycling and walking trail runs along a disused railway line to East Grinstead. St Leonard's Forest is also nearby and well worth exploring. For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/PDl0g7GfLtU",
   "postcode": "RH11 9HQ",
   "district": "Crawley",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

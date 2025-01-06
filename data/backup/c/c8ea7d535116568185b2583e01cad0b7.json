@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:01:01.657902+00:00",
   "objectID": "c8ea7d535116568185b2583e01cad0b7",
-  "created_at": "2024-12-18T12:43:11.680241+00:00",
   "ref": "stoney-cove-walking-route",
   "title": "Stoney Cove Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg/256px-The_National_Diving_Centre%2C_Stoney_Cove_-_geograph.org.uk_-_511420.jpg",
@@ -38,7 +38,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/49/Stoney_Stanton-Disused_Quarry_-_geograph.org.uk_-_3221550.jpg",
       "title": "Stoney Stanton-Disused Quarry by Ian Rob, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Stoney Stanton-Disused Quarry.  Historically the area was quarried for its valuable stone."
+      "caption": "Stoney Stanton-Disused Quarry. Historically the area was quarried for its valuable stone."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/The_Blue_Bell_Inn_-_geograph.org.uk_-_511509.jpg",
@@ -52,10 +52,17 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "This walk visits the pretty Stoney Cove in the village of Stoney Stanton, Leicestershire. The flooded quarry is now home to the UK\u2019s National Diving Centre where you can enjoy scuba diving and other activities. This circular walk takes you along the lake and around the old quarry sites to the south of the village. Along the way there's also some nice views of the farmland around the neighbouring village of Sapcote which includes a church with Norman features. To continue your walking in the area head north east to pick up the Croft Hill and Quarry Walk. There's more  fascinating local geology and fine views over the area from the hill top here.",
+  "description": "This walk visits the pretty Stoney Cove in the village of Stoney Stanton, Leicestershire. The flooded quarry is now home to the UK\u2019s National Diving Centre where you can enjoy scuba diving and other activities. This circular walk takes you along the lake and around the old quarry sites to the south of the village. Along the way there's also some nice views of the farmland around the neighbouring village of Sapcote which includes a church with Norman features. To continue your walking in the area head north east to pick up the Croft Hill and Quarry Walk. There's more fascinating local geology and fine views over the area from the hill top here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Stoney Stanton and you could enjoy some post walk refreshments at the Blue Bell Inn. They serve a fine Sunday lunch and provide a good selection of drinks. You can find them on Long Street with a postcode of LE9 4DQ for your sat navs. They are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/G8fLxYLxqFQ",
   "district": "Stoney Stanton",
   "county": "Leicestershire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

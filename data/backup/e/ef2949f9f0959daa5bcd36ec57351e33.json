@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:44:57.612976+00:00",
   "objectID": "ef2949f9f0959daa5bcd36ec57351e33",
-  "created_at": "2024-12-18T00:37:09.388572+00:00",
   "ref": "cateran-trail-walking-route",
   "title": "Cateran Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/The_Cateran_Trail%2C_Bamff_-_geograph.org.uk_-_1533596.jpg",
@@ -70,10 +70,17 @@
   ],
   "distance_km": 100.0,
   "description": "Explore the Perthshire Glens on this circular walk through Kirkmichael, Enochdhu, Spittal of Glenshee, Cray and Alyth. There are lovely waterside sections along the River Ardle, Shee Water and Drumore Loch. The walk begins and ends at Blairgowrie and is waymarked with a heart logo on a white disc.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The route passes close to the Backwater Reservoir in Glen Isla and Loch Clunie near Blairgowrie at the start."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/j33vDIuGkI4",
   "postcode": "PH10 7HW",
   "district": "Blairgowrie and Rattray",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

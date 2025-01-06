@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:31:56.880893+00:00",
   "objectID": "837412ffb868d6c4ec8fadb9be54cf81",
-  "created_at": "2024-12-19T19:35:17.328268+00:00",
   "ref": "mungrisdale-walking-route",
   "title": "Mungrisdale Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Entering_Mungrisdale_-_geograph.org.uk_-_2634484.jpg/512px-Entering_Mungrisdale_-_geograph.org.uk_-_2634484.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 9.0,
   "description": "This small village is located in the north eastern corner of the Lake Disitrict. This circular walk from the village takes you up to The Tongue and Bowscale Fell which lie just to the west of the settlement. The route also includes a riverside walk along the River Glenderamackin at the start and a visit to Bowscale Tarn. From the high points there are glorious views over the surrounding lakeland fells. To continue your walking around the village head south for the popular climb to Blencathra .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some well earned refreshments at the Mill Inn. The 17th century coaching inn serves fine food and a good selection of ales. They are dog friendly."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Just to the east of the village there's the Eycott Hill Nature Reserve. There's some interesting rare plants, a wonderful volcanic landscape and glorious views over the area from the hill top here."
+    }
+  ],
   "postcode": "CA11 0XR",
   "district": "Mungrisdale",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:00:26.922952+00:00",
   "objectID": "bf10c6c8ea7495d80058b0a8043ff422",
-  "created_at": "2024-12-18T15:14:25.112284+00:00",
   "ref": "hampton-loade-walking-route",
   "title": "Hampton Loade Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Hampton_Loade_Station_-_geograph.org.uk_-_5764.jpg",
@@ -47,15 +47,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Across_the_Severn_Valley%2C_near_Hampton_Loade%2C_Shropshire_-_geograph.org.uk_-_404532.jpg",
-      "title": "Roger  Kidd / Across the Severn Valley, near Hampton Loade, Shropshire",
+      "title": "Roger Kidd / Across the Severn Valley, near Hampton Loade, Shropshire",
       "caption": "Across the Severn Valley. Looking westwards across the cereal crop field, the lane (dead end) leads down past the near rape field to Hampton Loade, and the pedestrian ferry to Hampton and the Severn Valley Railway station. In the middle distance the lane leads to the village of Sutton (3.5km/2.5 miles). The Clee Hills mark the skyline."
     }
   ],
   "distance_km": 14.0,
   "description": "This pretty riverside village is located on the Severn Valley Railway in Shropshire. It's a pleasant place to start a walk with waymarked trails, a historic National Trust Property, a local country park and a scenic reservoir to explore. There's also a noteworthy 17th century inn for well earned rest and refreshment after your exercise. This circular walk starts from the train station and begins by heading south along the Severn Way towards Highley. Here you can cross the river to visit the Severn Valley Country Park where there's nice visitor centre with a tea room. The route then heads west to pick up a section of the Jack Mytton Way which you can follow north to Chelmarsh Reservoir. Follow the pleasant waterside trail north towards Crateford and you can then rejoin the river by crossing the Mor Brook. The riverside trail will then take you south back to Hampton. You could extend the walk by heading east to visit Dudmaston Hall. There's pretty lakes, woodland trails and lovely gardens surrounding this National Trust owned property. The area also includes the adjacent Comer Woods. The tranquil woods have their own car park and entrance and are free to access. There's a number of picturesque pools and lots of woodland birds to see in this area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Unicorn Inn is located in a lovely spot on the banks of the river. It dates back to the 17th century and serves a find Sunday lunch. There's also a decent Caravan and Campsite with plots for tents, caravans, campervans and motorhomes with electrical hookups."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and woodland paths make for a fine dog walk. The Unicorn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north along the river path and you will soon come into Bridgnorth. Heading south will take you to Upper Arley where you can enjoy a waterside walk around Trimpley Reservoir."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zU98HBW6BU8",
   "district": "Hampton",
   "county": "Shropshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

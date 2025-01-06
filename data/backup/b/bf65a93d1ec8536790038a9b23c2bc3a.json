@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:49:20.137927+00:00",
   "objectID": "bf65a93d1ec8536790038a9b23c2bc3a",
-  "created_at": "2024-12-18T10:03:46.993613+00:00",
   "ref": "white-coppice-waterfall-walk-walking-route",
   "title": "White Coppice Hatch Brook Waterfall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg/512px-Hatch_Brook_in_Wheelton_Plantation_-_geograph.org.uk_-_2337122.jpg",
@@ -18,7 +18,7 @@
     {
       "description": "Withnell Nature Reserve",
       "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell nature-reserve-walking-route"
+      "ref": "withnell\u00a0nature-reserve-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bf65a93d1ec8536790038a9b23c2bc3a.gpx",
@@ -60,10 +60,17 @@
   ],
   "distance_km": 5.5,
   "description": "This popular walk takes you to the delightful Hatch Brook Waterfall from the Lancashire village of White Coppice. You can start the walk from the parking area next to the picturesque cricket pitch in White Coppice. From here you can follow riverside footpaths north along the River Goit to the Wheeldon Plantation. Cross the little bridge and it will take you into the woodland area where you will find the secluded little waterfall on the Hatch Brook. It's a lovely little spot which is particularly impressive after rainfall. After admiring the falls you can follow peaceful woodland trails back to the river and return to the village. If you would like to extend the walk then continue north to visit the Withnell Nature Reserve. There's a nice nature trail with lots of woodland wildlife to see here. For an alternative walk from the same start point see the White Coppice Walk. This will take you west to explore a series of pretty reservoirs.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Brinscall you could enjoy a pit stop at The Cricketers Arms. There's a good sized outdoor area here with a raised beer garden which consists of a lawned area, paved patio to the rear and a number of picnic benches. You can find them at 94 School Lane with a postcode of PR6 8QP for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rhErbxY_FD8",
   "postcode": "PR6 9DE",
   "district": "White Coppice",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

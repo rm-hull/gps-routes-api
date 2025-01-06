@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:32:44.332894+00:00",
   "objectID": "d82f4cda8f9a8a95a5dd591a32a9d260",
-  "created_at": "2024-12-21T10:31:52.544391+00:00",
   "ref": "lough-derg-way-walking-route",
   "title": "Lough Derg Way Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Lough_Derg_-_geograph.org.uk_-_2517647.jpg",
@@ -48,7 +48,7 @@
     {
       "description": "Castleconnell River Walk",
       "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell river-walk"
+      "ref": "castleconnell\u00a0river-walk"
     },
     {
       "description": "Clareabbey River Walk",
@@ -111,5 +111,12 @@
   ],
   "distance_km": 64.0,
   "description": "Follow the Lough Derg Way from Limerick City to Lough Derg on this long distance walk. The route runs for about 64km and includes some lovely waterside sections along the River Shannon and its canals. On the way you will pass Clonlara, O'Briensbridge, Ballina and Killaloe, where you can visit the historic St Flannan's Cathedral. The route finishes at Lough Derg in County Donegal near the border with Northern Ireland. The lake is best known for St Patrick's Purgatory, a site of pilgrimage on Station Island in the lake.",
-  "video_url": "https://www.youtube.com/embed/fe7NIwmdZCg"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. Just south of Limerick there's Lough Gur to explore. The photogenic horseshoe-shaped lake includes walking trails, picnic areas and ancient sites of historical and archeological interest. A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/fe7NIwmdZCg",
+  "gazetteer_found": false
 }

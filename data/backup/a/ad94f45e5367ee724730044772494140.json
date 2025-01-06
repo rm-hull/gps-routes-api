@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:56:35.877614+00:00",
   "objectID": "ad94f45e5367ee724730044772494140",
-  "created_at": "2024-12-21T14:30:36.006552+00:00",
   "ref": "palladian-way-walking-route",
   "title": "Palladian Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Palladian_Bridge%2C_Stowe_Gardens.jpg/512px-Palladian_Bridge%2C_Stowe_Gardens.jpg",
@@ -85,10 +85,12 @@
   ],
   "distance_km": 190.0,
   "description": "Walk from Buckingham to Bath through the beautiful countryside of Buckinghamshire, Gloucestershire, Oxfordshire and Wiltshire on this trail named after Andre Palladio's Italian architecture. The walk runs from Buckingham to Brackley, Woodstock, Burford, Cirecncester, Malmesbury and then Bath. You can enjoy waterside sections along the Oxford Canal near Kirtlington and along the River Windrush between Woodstock and Burford. There is also a section through the beautiful Cotswolds countryside around Burford. Other route highlights include the National Trust Owned Stowe Park, and the magnificent Blenheim Palace - birthplace of Winston Churchill .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Castle Combe make a stop at the noteworthy Castle Inn. The inn dates from the 12th century with many features of the original construction still in place today. There's an attractive bar, a conservatory or a courtyard for warmer days. You can find the pub on West Street with a postcode of SN14 7HN for your sat navs. In Monkton Combe there's the Wheelwright's Arms. The building dates back to the 18th century and includes a noteworthy large garden which can seat up to 140 people. They serve a fine Sunday lunch and also provide accommodation if you need to stay over. You can find them on Church Lane with postcode BA2 7HB for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rUOvFGh0l4Y",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ad94f45e5367ee724730044772494140.gpx",
-  "_geoloc": {
-    "lat": 52.0009735674,
-    "lng": -0.9862060713
-  }
+  "gazetteer_found": false
 }

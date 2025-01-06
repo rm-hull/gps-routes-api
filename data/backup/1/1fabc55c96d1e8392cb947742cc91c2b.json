@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:08:32.596395+00:00",
   "objectID": "1fabc55c96d1e8392cb947742cc91c2b",
-  "created_at": "2024-12-18T11:25:29.610844+00:00",
   "ref": "seaton-valley-countryside-park-walking-and-cycle-route",
   "title": "Seaton Valley Countryside Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Seaton_Valley_Countryside_Park_-_geograph.org.uk_-_342823.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 3.0,
   "description": "A short circular ride or walk around the delightful Seaton Valley Countryside Park on the Cornish Coast at Seaton, near Looe. The route begins at the parking facilities and takes you on a tour of the park which includes a riverside stretch along the River Seaton, and a coastal stroll by Seaton beach. There is also a sensory garden and a nature reserve with otters, kingfishers, dormice and butterflies.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Beach Cafe is located at the coastal end of the reserve. They serve a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers so you'll probably see other owners on your visit. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The park is located just east of Looe where you can pick up the Looe Island, Looe to Polperro and Looe to Talland Bay Walk. For details of the coast path between Looe and Seaton see the Looe To Seaton Beach Walk page. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3kZ-klQv1Yo",
   "postcode": "PL11 3JF",
   "district": "Seaton",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

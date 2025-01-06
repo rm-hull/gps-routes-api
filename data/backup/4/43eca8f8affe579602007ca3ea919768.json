@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:23:54.198205+00:00",
   "objectID": "43eca8f8affe579602007ca3ea919768",
-  "created_at": "2024-12-18T16:27:04.605494+00:00",
   "ref": "wimpole-way-walking-route",
   "title": "Wimpole Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Wimpole_Way_near_Kingston_-_geograph.org.uk_-_896041.jpg",
@@ -34,7 +34,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Wimpole_Hall_%2828647195451%29.jpg/512px-Wimpole_Hall_%2828647195451%29.jpg",
-      "title": "Airwolfhound from  Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "title": "Airwolfhound from Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Wimpole Hall 1"
     },
     {
@@ -55,9 +55,16 @@
   ],
   "distance_km": 18.0,
   "description": "Follow the Wimpole way through Cambridgeshire's farmland, ancient woodland and gentle rolling countryside from Cambridge to Wimpole Hall. The path starts in Cambridge by the River Cam heading ino the countryside and passing Coton, Caldecote and Kingston before finishing at Wimpole Hall. This 17th century country house has 3,000 acres of parkland and farmland and is owned by the National Trust. Also on the path is Hardwick Wood near Caldecote. The nature reserve includes woodland trails and some nice flora and fauna to look out for.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For some more interesting local history head to the nearby Madingley Hall. Here you will find some beautiful \u2018Capability\u2019 Brown landscaped gardens surrounding a fine 16th century manor house."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ffy8PhoUk-Q",
   "district": "Cambridge",
   "county": "Cambridgeshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

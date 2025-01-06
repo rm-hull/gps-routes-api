@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:56:45.963230+00:00",
   "objectID": "6bf9eecb4fd710a49077bc17101e519e",
-  "created_at": "2024-12-19T19:54:20.135676+00:00",
   "ref": "pooley-country-park-walking-and-cycle-route",
   "title": "Pooley Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Moorings%2C_Pooley_Country_Park_-_geograph.org.uk_-_2432781.jpg/512px-Moorings%2C_Pooley_Country_Park_-_geograph.org.uk_-_2432781.jpg",
@@ -69,16 +69,31 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Coventry_Canal_towards_Alvecote%2C_Warwickshire_-_geograph.org.uk_-_1155037.jpg",
-      "title": "Roger  Kidd / The Coventry Canal towards Alvecote, Warwickshire",
+      "title": "Roger Kidd / The Coventry Canal towards Alvecote, Warwickshire",
       "caption": "The Coventry Canal towards Alvecote. To the right of the canal are several substantial pools caused by mining subsidence."
     }
   ],
   "distance_km": 9.0,
   "description": "This cycle or walk takes you around the lovely Pooley Country Park in Warwickshire. In the park you will find the Coventry Canal, a number of pretty lakes and the ruins of a Benedictine priory. The Alvecote Priory was founded in 1159 with the main entrance arch still standing at around 20 feet high. There's also Pooley Hill to climb where you can enjoy panoramic views over the surrounding area. Park facilities include a Visitor Centre & Tea Room. If you're coming from the centre of Tamworth you could follow the Coventry Canal to the park on our Tamworth Canal Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site visitor centre and tea room selling a good range of meals, snacks and drinks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walkers you'll probably see other owners on your visit. The woodland trails at the nearby Hopwas Woods are another ideal place to walk your dog in the area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of Tamworth you'll find the RSPB's Middleton Lakes Nature reserve. The expansive reserve includes lakes, river trails, meadows and an abundance of wildlife. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-ncvtbGBwgw",
   "postcode": "B78 1JD",
   "district": "Polesworth",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

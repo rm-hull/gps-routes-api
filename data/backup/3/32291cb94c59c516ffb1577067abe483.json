@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:17:15.361020+00:00",
   "objectID": "32291cb94c59c516ffb1577067abe483",
-  "created_at": "2024-12-19T03:44:13.233424+00:00",
   "ref": "dumfries-walking-route",
   "title": "Dumfries Walks - River Walk",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nith_River%2C_Dumfries_-_geograph.org.uk_-_557381.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Nith_River%2C_Dumfries_-_geograph.org.uk_-_557381.jpg",
-      "title": "Kenneth  Allen / Nith River, Dumfries",
+      "title": "Kenneth Allen / Nith River, Dumfries",
       "caption": "Nith River, Dumfries"
     },
     {
@@ -53,9 +53,24 @@
   ],
   "distance_km": 6.0,
   "description": "This market town is located near the mouth of the River Nith and Solway Firth about 15 miles from the border with England. The town has strong associations with the poet Robert Burns who lived here in the late 1700s. You can visit the Robert Burns centre to find out more about his life and works in a series of exhibitions. The centre is housed in an 18th-century watermill, positioned in a lovely spot on the river. This walk in the town takes you along the River Nith to Kingholm Quay. The walk starts at the Robert Burns Centre and follows a pleasant riverside walking and cycling path south for nearly 2 miles. On the way you will pass the pretty Dock Park, where you'll find the Octocentenary walk and a number of benches to rest and enjoy the view. There's also a series of bridges including the Kirkpatrick Macmillan bridge where you can cross to the other side and enjoy a nice view over the river to the surrounding Scottish hills. To continue your walking around Dumfries head south west to explore Mabie Forest where there's miles of good walking and cycling trails to try. Near here there's also the waterside trails around Loch Arthur. Scroll down for a list of walks near the town.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Stop off for refreshments at the Riverside Bar in Dock Park. There's two outside seating areas include a terrace with open views over the Park and down to the River Nith. You can find them at postcode DG1 2RY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The riverside paths make for a pleasant dog walk. The Riverside Bar mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For cyclists the new Kirkpatrick C2C also passes through Dumfries. The epic Coast to Coast route runs across the south of Scotland from Stranraer to Eyemouth."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/AI9XBP-J6GA?start=107",
   "district": "Dumfries",
   "county": "Dumfries and Galloway",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:39:41.715390+00:00",
   "objectID": "61ba1045491f0b44b5ea9ea1e9d3233e",
-  "created_at": "2024-12-18T23:13:11.458543+00:00",
   "ref": "brit-valley-way-walking-route",
   "title": "Brit Valley Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/River_Brit_in_Bridport_-_geograph.org.uk_-_347001.jpg",
@@ -65,10 +65,21 @@
   ],
   "distance_km": 18.0,
   "description": "From the cliffs of the Jurassic Coast at West Bay follow the Brit Valley Way to Chedington, near Beaminster. There is fantastic coastal scenery as well as splendid views of the River Brit to enjoy on this 11 mile walk through Dorset. The walk passes Bridport, Waytown, Netherbury, Buckham Down and Beaminster before finishing at Chedington with stunning views of the West Dorset countryside. The route links with the River Parret Trail at the northern end so you can extend your riverside walking here if you wish.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the route in Chedington there's the Winyards Gap Inn for some post walk refreshment. They serve high quality food and also have a lovely large garden with countryside views. You can find them at postcode DT8 3HY for your sat navs. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Bridport there's the climb to the lovely viewpoint at Colmers Hill from the picturesque village of Symondsbury. The historic village includes an ancient church and a noteworthy 15th century, thatched pub."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sakYzGOr-kQ?si=7R8reJ2q49rR7eWX",
   "postcode": "DT6 4GZ",
   "district": "Bridport",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

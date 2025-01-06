@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:59:18.608707+00:00",
   "objectID": "6e79de961eb7d2ce337c563638b21d40",
-  "created_at": "2024-12-18T09:56:05.686203+00:00",
   "ref": "brownsea-island-walking-route",
   "title": "Brownsea Island Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Brownsea.island.peacock.arp.jpg/512px-Brownsea.island.peacock.arp.jpg",
@@ -59,10 +59,21 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "This circular walk takes you on a tour of the beautiful Brownsea Island off the coast of Poole in Dorset. The island is owned by the National Trust and has a number of delightful paths and tracks for walkers to follow. You will enjoy fabulous views of Poole Harbour on the coastal stretches and see red squirrels and peacocks on the inland woodland sections.  The island also has a number of bird hides where you can look out for the huge variety of birdlife that visit the island all year round. Also of note is the Baden-Powell Outdoor Centre where you can follow in the footsteps of Lord Baden-Powell and the very first Scouts who camped on the island in 1907. Ferries can be caught from Poole Quay or Sandbanks - click here for information and times If you click on the street view link below you can enjoy a virtual tour of the island!",
+  "description": "This circular walk takes you on a tour of the beautiful Brownsea Island off the coast of Poole in Dorset. The island is owned by the National Trust and has a number of delightful paths and tracks for walkers to follow. You will enjoy fabulous views of Poole Harbour on the coastal stretches and see red squirrels and peacocks on the inland woodland sections. The island also has a number of bird hides where you can look out for the huge variety of birdlife that visit the island all year round. Also of note is the Baden-Powell Outdoor Centre where you can follow in the footsteps of Lord Baden-Powell and the very first Scouts who camped on the island in 1907. Ferries can be caught from Poole Quay or Sandbanks - click here for information and times If you click on the street view link below you can enjoy a virtual tour of the island!",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near the ferry there's a cafe with a good choice of meals and snacks. It has a nice garden area with sea views where you can relax on a warm day."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are not allowed on the island as its a nature reserve with a lot of wildlife. You can take dogs on the ferries though and enjoy views of the island from there."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/65wwiWbmzOs",
   "postcode": "BH13 7EE",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

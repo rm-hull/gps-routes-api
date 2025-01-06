@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:59:54.588696+00:00",
   "objectID": "093302b2e3e2ea9111a9b7e9fdf4952c",
-  "created_at": "2024-12-18T01:10:57.195384+00:00",
   "ref": "stanmore-country-park-shropshire-walking-route",
   "title": "Stanmore Country Park Shropshire Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Footpath_into_the_Stanmore_Country_Park_-_geograph.org.uk_-_424238.jpg",
@@ -34,20 +34,31 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Bridleway_past_Stanmore_Country_Park%2C_Shropshire_-_geograph.org.uk_-_2874636.jpg/512px-Bridleway_past_Stanmore_Country_Park%2C_Shropshire_-_geograph.org.uk_-_2874636.jpg",
-      "title": "Bridleway past Stanmore Country Park, Shropshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Bridleway past Stanmore Country Park, Shropshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Bridleway past the eastern end of Stanmore Country Park"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dry_sheep_pasture_and_landscape_east_of_Bridgnorth%2C_Shropshire_-_geograph.org.uk_-_2874819.jpg/512px-Dry_sheep_pasture_and_landscape_east_of_Bridgnorth%2C_Shropshire_-_geograph.org.uk_-_2874819.jpg",
-      "title": "Dry sheep pasture and landscape east of Bridgnorth, Shropshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Dry sheep pasture and landscape east of Bridgnorth, Shropshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Dry sheep pasture and landscape east of the park"
     }
   ],
   "distance_km": 2.5,
   "description": "This 100 acre country park near Bridgnorth is ideal for a peaceful afternoon stroll. The park is the site of a World War II training base and is criss crossed with well maintained tarmac paths taking you through the 80 acre woodland. The park is located just to the east of Bridgnorth town centre. You could continue your walk along the Severn Way which runs through the town.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place to walk the dog so you'll probably see other owners on a fine weekend day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north there's Worfield where you can enjoy some pleasant trails through the valley of the River Worfe. The historic village is also worthy of exploration with its Saxon church, half timbered houses and the 18th century Davenport House."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/SC6BoRr1dsQ?si=3atWCt7bFBfJXbWM",
   "district": "Stanmore",
   "county": "Shropshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

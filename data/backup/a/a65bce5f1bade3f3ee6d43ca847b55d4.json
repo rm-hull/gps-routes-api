@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:33:36.798200+00:00",
   "objectID": "a65bce5f1bade3f3ee6d43ca847b55d4",
-  "created_at": "2024-12-18T09:59:21.184061+00:00",
   "ref": "gypsy-glen-walk-peebles-walking-route",
   "title": "Gypsy Glen Walk Peebles Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Haystoun_Burn_in_Gypsy_Glen_-_geograph.org.uk_-_6009750.jpg/512px-Haystoun_Burn_in_Gypsy_Glen_-_geograph.org.uk_-_6009750.jpg",
@@ -110,8 +110,15 @@
   ],
   "distance_km": 28.9,
   "description": "This circular walk or cycle explores the area around Innerleithen and Peebles in the Scottish Borders. The 18 mile route includes climbs to Kirkhope Law and Kailzie Hill with some wonderful views over the Borders countryside. You'll also enjoy a stretch along the Tweed Valley Railway Path with pleasant views over the River Tweed. Other features include the settlement of Traquair and the expansive Cardrona Forest where there are miles of woodland trails to explore. The route takes place on tracks and bridleways so is suitable for mountain bikers and walkers. It starts and ends at Innerleithen.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Peebles you can explore the old railway line on the Neidpath Tunnel Walk. This will take you along the old line to the Neidpath Viaduct before entering the murky tunnel."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/WlK-y70PjWw?si=jOcmpVIMQUUUJ2FC",
   "county": "Scottish Borders",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

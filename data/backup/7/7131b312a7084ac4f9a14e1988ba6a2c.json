@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:30:17.366325+00:00",
   "objectID": "7131b312a7084ac4f9a14e1988ba6a2c",
-  "created_at": "2024-12-18T17:54:54.329283+00:00",
   "ref": "weavers-way-walking-route",
   "title": "Weavers' Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/East_on_the_Weavers_Way_-_geograph.org.uk_-_631167.jpg/256px-East_on_the_Weavers_Way_-_geograph.org.uk_-_631167.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/To_Halvergate_on_the_Weavers_Way_-_geograph.org.uk_-_1480264.jpg",
       "title": "Evelyn Simak / To Halvergate on the Weavers Way",
-      "caption": "To Halvergate.  This farm track - it is called The Knoll - forms a section of the trail, linking Acle and Halvergate. The long distance footpath bypasses these gates to their right via a stile."
+      "caption": "To Halvergate. This farm track - it is called The Knoll - forms a section of the trail, linking Acle and Halvergate. The long distance footpath bypasses these gates to their right via a stile."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/On_the_Weavers_Way_from_Honing_to_Briggate_-_geograph.org.uk_-_1053550.jpg",
@@ -85,8 +85,19 @@
   ],
   "distance_km": 95.0,
   "description": "Follow the Weavers' Way through the beautiful Norfolk Broads from Cromer to Great Yarmouth via North Walsham. The route meanders through the countryside passing Aylsham, North Walsham, Hickling and Acle before finishing at the popular coastal resort of Great Yarmouth. Highlights on the walk include:",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "One nice idea is to stop off around the splendid Blickling Hall for some refreshment. The estate has a number of good cafes or you could head to the Bucks Arms if you prefer a pub lunch. The 17th century former coaching inn can be found near the main car park at postcode NR11 6NF. They serve good food and have lovely gardens for summer days."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a nice route using the trail see the Weavers Way Circular Walk which uses part of the trail and the River Bure to create a circular route around Acle and Great Yarmouth. For more walking ideas in the area see the Norfolk Broads Walks page."
+    }
+  ],
   "district": "Cromer",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

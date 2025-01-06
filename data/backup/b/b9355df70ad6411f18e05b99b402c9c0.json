@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:46:17.347778+00:00",
   "objectID": "b9355df70ad6411f18e05b99b402c9c0",
-  "created_at": "2024-12-18T07:29:42.416086+00:00",
   "ref": "gight-castle-walking-route",
   "title": "Gight Castle Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Gight_Castle.jpg",
@@ -85,8 +85,19 @@
   ],
   "distance_km": 2.8,
   "description": "This walk visits the ruins of the 16th century Gight Castle in Aberdeenshire. You can start the walk from the Gight Castle car park off the B9005. Then follow trails south west past Badiebath Woods to the castle site. There are some substantial ruins to explore here with the surrounding countryside making a pleasant backdrop. The castle is also notable as the ancestral home of romantic poet Lord Byron. Around here there are also some nice trails along the Ythan River and the Braes of Gight to the south of the castle.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods and river are ideal for dog walking so you'll probably see other owners on a fine weekend day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles to the west and you could visit Fyvie Castle. The 13th century castle grounds include beautiful gardens and Fyvie Loch."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pC2J2EW88uQ",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

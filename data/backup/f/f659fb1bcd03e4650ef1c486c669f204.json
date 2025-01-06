@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:07:21.852367+00:00",
   "objectID": "f659fb1bcd03e4650ef1c486c669f204",
-  "created_at": "2024-12-18T14:13:20.426413+00:00",
   "ref": "trull-waterfall-walking-route",
   "title": "Trull Waterfall Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg/512px-New_bridge_at_Trull_waterfall_-_geograph.org.uk_-_2757152.jpg",
@@ -75,8 +75,23 @@
   ],
   "distance_km": 3.0,
   "description": "This walk visits the picturesque Trull Waterfall near Taunton in Somerset. The falls are something of a hidden gem with pleasant trails and a viewing bridge at the site. You can find the waterfall on the eastern side of the village of Trull. Here there are some nice footpaths along the Sherford Brook leading to the pretty falls and bridge. After admiring the falls you can continue south along the East Deane Way to visit Poundisford Park and neighbouring Pitminster. There is an old stone bridge and another waterfall to see on this section of the path.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Winchester Arms is located very close to the falls. They serve good quality food and have a pleasant garden area next to the stream. You can find them on Church Road at postcode TA3 7LG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The shady trails make for a pleasant dog walk and the Winchester Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your waterside walking in the area head into Taunton where you can pick up the towpath of the Bridgwater and Taunton Canal. For more walking ideas in the area see the Blackdown Hills Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hZ-HWGmZPHM",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

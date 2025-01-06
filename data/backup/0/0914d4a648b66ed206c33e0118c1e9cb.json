@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:36:37.681482+00:00",
   "objectID": "0914d4a648b66ed206c33e0118c1e9cb",
-  "created_at": "2024-12-18T01:24:58.581594+00:00",
   "ref": "tamar-lakes-walking-route",
   "title": "Tamar Lakes Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Tamar_Lake_-_geograph.org.uk_-_407281.jpg",
@@ -105,8 +105,23 @@
   ],
   "distance_km": 6.6,
   "description": "These two pretty reservoirs sit on the border of Cornwall and Devon. The area is popular with water sports enthusiasts with activities including sailing, windsurfing and kayaking. There's also some nice waterside footpaths for walkers to try. You can park at the Lower Tamar Lake and then head north along the River Tamar to the Upper Lake. Then follow a circular path around the upper lake before returning to the car park. There's nice views across the water to some attractive surrounding countryside as you go. You can also look out for various water loving birds from the on site hide at the lower lake.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice cafe at the upper lake activity centre where you can enjoy some post walk refreshment."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lakeside paths make for a fine dog walk though you are asked to keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your waterside walking in the area head south to visit the expansive Roadford Lake. You could also enjoy a walk to the old railway viaducts in the nearby town of Holsworthy.  The Tamara Coast To Coast Way passes the lakes. The 89 mile route runs from Cremyll in south Cornwall to Morwenstow on the northern coast.  For more walking ideas in the area see the Devon Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/tjm5FsH6MX8",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:02:54.642556+00:00",
   "objectID": "9ac44011b02b9e33e1f0bccce309724e",
-  "created_at": "2024-12-18T17:12:35.340013+00:00",
   "ref": "glynllifon-country-park-walking-route",
   "title": "Glynllifon Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ornamental_Bridges%2C_Glynllifon_Country_Park._-_geograph.org.uk_-_97341.jpg/256px-Ornamental_Bridges%2C_Glynllifon_Country_Park._-_geograph.org.uk_-_97341.jpg",
@@ -60,9 +60,20 @@
   ],
   "distance_km": 4.6,
   "description": "Explore the woodland, gardens, parkland and riverside in this beautiful country park in Gwynedd. The park and gardens are Grade One listed and home to some of the rarest flora and fauna in the Wales. Glynllifon contains many lovely walking trails including one through woodland and along the River Llifon with follies and sculptures along the way. There is also a cafe and a maze and exhibits such as steam power pistons restored by Fred Dibnah. The park sits next to the Lon Eifion Cycle/Walk Route which runs along a disused railway line. If you'd like to extend your walking in the area then this is a good option. The surfaced path has great views of the Welsh Highland Railway and Snowdonia National Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Black Cat Cafe is the perfect place for refreshments after your walk. They have a good menu and some outdoor seating with nice views."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a lovely place to walk the dog and you'll probably see plenty of other owners on your outing. You are advised to please keep them on leads. The cafe mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zcqL2rb0IB4",
   "postcode": "LL54 5DU",
   "county": "Gwynedd - Gwynedd",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

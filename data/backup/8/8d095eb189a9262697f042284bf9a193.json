@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:48:56.005302+00:00",
   "objectID": "8d095eb189a9262697f042284bf9a193",
-  "created_at": "2024-12-18T03:43:56.484985+00:00",
   "ref": "manaton-walking-route",
   "title": "Manaton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cottages_and_St_Winifred%27s_Church%2C_Manaton_-_geograph.org.uk_-_6131442.jpg/512px-Cottages_and_St_Winifred%27s_Church%2C_Manaton_-_geograph.org.uk_-_6131442.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 9.0,
   "description": "This pretty Dartmoor village is a lovely place to start a walk. It's located close to several of the National Park's highlights and has a fine pub to relax in after your exercise. This circular walk from the village visits the splendid Lustleigh Cleave, the popular Becky Falls and the fascinating stone stack at Bowerman's Nose. There's much to enjoy with peaceful woodland trails, riverside paths along the River Bovey, stunning waterfalls and fabulous views over the national park from the high points. Please scroll down for the full list of walks near and around Manaton. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy refreshments at the Kestor. They serve good quality dishes and have a nice garden to sit out in. The pub is dog friendly and located at postcode TQ13 9UF."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3tCYQMEvVMg?si=XqKv_8zfse6G99qV",
   "postcode": "TQ13 9UJ",
   "district": "Manaton",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

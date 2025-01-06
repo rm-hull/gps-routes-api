@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:00:47.363764+00:00",
   "objectID": "40f74385f2a8952f38e677ec09c4695a",
-  "created_at": "2024-12-18T17:54:31.255598+00:00",
   "ref": "laxfield-walking-route",
   "title": "Laxfield Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/B1117_High_Street%2C_Laxfield_-_geograph.org.uk_-_4479233.jpg/512px-B1117_High_Street%2C_Laxfield_-_geograph.org.uk_-_4479233.jpg",
@@ -43,9 +43,20 @@
   ],
   "distance_km": 3.8,
   "description": "This walk visits the splendidly preserved medieval village of Laxfield in Suffolk. There are some wonderful old buildings in the village including traditional thatched cottages and timber-framed houses, which add to its quintessential English village atmosphere. Historic highlights include the 14th century church and the 16th century pub for refreshments after your exercise. The walk starts in the village and follows a pleasant country lane into the surrounding farmland. It's a lovely rural area with fine views across the Suffolk countryside. Please scroll down for the full list of walks near and around Laxfield. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Royal Oak dates to the 16th century still has many of its original features, including exposed beams and a cosy fireplace, creating a charming and traditional ambiance for patrons. They serve good food and have a garden area for warmer days. You can find them on the High Street at postcode IP13 8DH. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's neighbouring Dennington. The pretty village includes some historic buildings including a 16th century pub and a Grade I listed church dating to the medieval period."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/w_8pDef1o9I?si=Yhj386JR2GcLUX3s",
   "district": "Laxfield",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

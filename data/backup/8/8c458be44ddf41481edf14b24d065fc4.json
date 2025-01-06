@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:42:49.264304+00:00",
   "objectID": "8c458be44ddf41481edf14b24d065fc4",
-  "created_at": "2024-12-19T21:54:54.210092+00:00",
   "ref": "loch-bradan-walking-route",
   "title": "Loch Bradan Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Loch_Bradan_View_-_geograph.org.uk_-_796398.jpg",
@@ -80,8 +80,19 @@
   ],
   "distance_km": 6.7,
   "description": "Enjoy a walk or cycle along this beautiful loch in the vast Galloway Forest Park. The expansive loch is ideal for walking with miles of trails to follow next to the water or into the surrounding woodland. It's a very peaceful area with other local lochs to visit, rushing brooks and fine views of the surrounding hills. You can start your walk from the car parking area at the north eastern tip of the loch, next to the dam. From here you can pick up a trail heading along the Forestry Road to the much smaller Loch Skelloch, crossing the Water of Girvan as you go. The route then passes through a woodland area to bring you out on the edge of the loch where you'll find a nice picnic area.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lochside paths and the surrounding woodland trails are ideal for dog walking."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south you can visit Loch Riecawr and follow a trail east from there to visit Loch Doon. Here you can visit Loch Doon Castle which dates from the 14th century. To the south east there's the expansive Clatteringshaws Loch. The freshwater reservoir includes the historic Bruce's Stone and a visitor centre. A shared cycling and walking trail heads south from here to the nearby Loch Grannoch and the Big Water of Fleet Viaduct. The viaduct is a local historic highlight and provides wonderful views over the area from the top. You can also explore the wonderful wild landscape of the Cairnsmore of Fleet National Nature Reserve in this area.The epic Southern Upland Way can be picked up at Clatteringshaws and followed west to visit Loch Trool as well. Here you can enjoy a popular circular walk around the loch where you'll pass the site of the Battle of Glen Trool in 1307. To the north east you'll find the remote and peaceful Afton Reservoir near Cumnock."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/O1paZwY2Vjc",
   "county": "South Ayrshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

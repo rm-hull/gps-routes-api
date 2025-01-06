@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:27:52.289880+00:00",
   "objectID": "0ad4fc648f1e6344ae8b87bfe423564c",
-  "created_at": "2024-12-18T00:34:15.163769+00:00",
   "ref": "llyn-llech-owain-walking-and-cycle-route",
   "title": "Llyn Llech Owain Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Water_tower_at_Llyn_Llech_Owain_-_geograph.org.uk_-_539863.jpg",
@@ -80,9 +80,24 @@
   ],
   "distance_km": 2.5,
   "description": "Enjoy waterside paths and woodland trails in this 158-acre country park in Carmarthenshire. The well surfaced paths take you alongside the large lake and then into the surrounding woodland. The park is also open to cyclists with an easy forest track and a more challenging mountain bike trail to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a decent on site cafe where you can enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails in the park are ideal for dog walking. It's a popular place so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles south west of the park you can pick up the Swiss Valley Cycle Route at Tumble. The route will take you to the Swiss Valley Reservoir before heading to the Millennium Coastal Park in Llanelli. To the north there's the splendid Dinefwr Park in Llandeilo. There's an historic 12th century castle and an 18th century landscaped park to see here. Near here there's also Gelli Aur Country Park. The park surrounds the Golden Grove mansion and includes a deer park, peacocks, views of the Tywi Valley and an aboretum with some fine specimen trees. A few miles north east of Llandeilo there's the climb to the viewpoint and two Iron Age Hill Forts on Garn Goch. To the east is Ammanford where you can enjoy nice trails through the River Amman Valley and pick up the Heart of Wales Line Trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/w1VfrKjO9DE",
   "postcode": "SA14 7NG",
   "county": "Sir Gaerfyrddin - Carmarthenshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

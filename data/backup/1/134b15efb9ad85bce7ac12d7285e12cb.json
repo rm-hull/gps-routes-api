@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:35:51.246847+00:00",
   "objectID": "134b15efb9ad85bce7ac12d7285e12cb",
-  "created_at": "2024-12-18T10:07:51.373860+00:00",
   "ref": "ascott-house-walking-route",
   "title": "Ascott House Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Ascott_House_-_geograph.org.uk_-_580007.jpg",
@@ -70,9 +70,16 @@
   ],
   "distance_km": 2.5,
   "description": "This National Trust owned estate is the countryside residence of the Rothschild family. The 16th century manor house is surrounded by over 200 acres of parkland and 30 acres of beautiful formal gardens. The house itself has a superb collection of paintings, furniture and oriental porcelain. Please note the House and Gardens are only open to members of the public between March and September. Ascott House is located near the market town of Leighton Buzzard. It's not far from the Grand Union Canal - a good option if you'd like to continue your walk.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Rushmere Country Park is located near Leighton Buzzard. The expansive park includes a visitor centre, a sculpture trail and some fine cycling and walking trails to try. Just to the south you can visit the historic village of Mentmore where you will find several interesting old buildings associated with the 19th century Mentmore Towers Estate."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/WHgnxBhwrE4",
   "district": "Lower Ascott",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

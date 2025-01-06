@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T07:50:00.197487+00:00",
   "objectID": "4dee1a3c83c867a4de31931122276bc2",
-  "created_at": "2024-12-18T10:07:20.502653+00:00",
   "ref": "birstwith-walking-route",
-  "title": "Birstwith Walks Walking Route",
+  "title": "Birstwith\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Birswith_Weir_-_geograph.org.uk_-_2075576.jpg/512px-Birswith_Weir_-_geograph.org.uk_-_2075576.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4dee1a3c83c867a4de31931122276bc2.gpx",
   "_geoloc": {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 5.6,
   "description": "This pretty village is located in the Harrogate district of North Yorkshire. Birstwith is a nice place to start a riverside walk around a lovely part of the Nidderdale AONB. Notable features in the village include an old mill, a weir, a picturesque mill race, an old packhorse bridge and the Station pub for refreshments. This circular walk uses part of the Nidderdale Way to visit neighbouring Hampsthwaite and Clint. The walk starts in the village where you can pick up the waymarked trail and follow it east to Hampsthwaite. After exploring the village the trail then heads north, crossing the river before coming to Clint. From here you head west, passing the remains of Clint Hall before returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Station Hotel is a nice place to enjoy a rest and a meal after your walk. They serve good quality food in their AA certified restaurant and also provide rooms if you wish to stay in the area. The attractive stone pub has a cosy interior with roaring log fires. Parking is available and there is a lovely large garden area outside for warmer days. You can find them at postcode HG3 3AG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Station Hotel mentioned above is also dog friendly with water bowls available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head east to visit Ripley Castle. The 14th century castle is surrounded by some lovely grounds with an ornamental lake and deer park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/v6WnfIrqTQ4",
   "postcode": "HG3 2NN",
   "district": "Birstwith",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

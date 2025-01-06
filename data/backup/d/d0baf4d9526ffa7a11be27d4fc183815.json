@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:28:48.482045+00:00",
   "objectID": "d0baf4d9526ffa7a11be27d4fc183815",
-  "created_at": "2024-12-19T13:01:35.647598+00:00",
   "ref": "conham-river-park-walking-route",
   "title": "Conham River Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/River_Avon_above_St_Anne%27s_Park_-_geograph.org.uk_-_182018.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 1.0,
   "description": "This pretty riverside park is located to the east of Bristol. It's a popular place for a stroll with a car park, picnic benches, woodland trails and paths along the River Avon. There's a good surfaced stone path taking you along the river to the picturesque lock and weir. Look out for flora including wild garlic and bluebells in the shady woodland. In the warmer months there's also a van selling refreshments. Just to the south you can extend your walk around the nearby Hanham Woods. The park is on the River Avon Trail so there is further scope for extending your walking on this long distance trail.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you can pick up some pleasant nature trails along the Brislington Brook in the Nightingale Valley Nature Reserve."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ZecXpmABBGc",
   "district": "Bristol",
   "county": "City of Bristol",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

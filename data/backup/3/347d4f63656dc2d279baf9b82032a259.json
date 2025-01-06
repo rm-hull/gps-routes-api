@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:14:32.182633+00:00",
   "objectID": "347d4f63656dc2d279baf9b82032a259",
-  "created_at": "2024-12-18T14:54:25.989606+00:00",
   "ref": "craigtoun-country-park-walking-route",
   "title": "Craigtoun Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Boating_Lake_at_Craigtoun_Park_-_geograph.org.uk_-_57960.jpg",
@@ -74,10 +74,25 @@
     }
   ],
   "distance_km": 1.5,
-  "description": "This delightful country park is located just a few miles south-west of St Andrews. The park has a number of attractions including a ruined temple, nature trail, Italian garden, greenhouses, formal gardens, a miniature railway and a large pond where you can hire rowing boats and pedal boats. There is also the Cypress Walk through two parallel rows of cypress trees and the Dutch Village located on an island in the middle of one of the ponds.  The park also has excellent facilities with a cafe, Barbecue area and large on site car park. To extend your walking in the area you could head south and visit Cameron Reservoir. The attractive loch is only about 2 miles away and has a lovely circular footpath running around its perimiter.",
+  "description": "This delightful country park is located just a few miles south-west of St Andrews. The park has a number of attractions including a ruined temple, nature trail, Italian garden, greenhouses, formal gardens, a miniature railway and a large pond where you can hire rowing boats and pedal boats. There is also the Cypress Walk through two parallel rows of cypress trees and the Dutch Village located on an island in the middle of one of the ponds. The park also has excellent facilities with a cafe, Barbecue area and large on site car park. To extend your walking in the area you could head south and visit Cameron Reservoir. The attractive loch is only about 2 miles away and has a lovely circular footpath running around its perimiter.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site cafe where you can enjoy some refreshment after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is dog friendly so you can explore the woodland and parkland with your four legged friend."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north to St Andrews and you could pick up the St Andrews to Anstruther Coastal Walk. This will take you along a lovely section of the Fife Coastal Path with beautiful beaches, interesting geological rock formations and pretty coastal villages to enjoy on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Y9X3heO3jFI",
   "postcode": "KY16 8NX",
   "county": "Fife",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

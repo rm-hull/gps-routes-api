@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:38:53.431371+00:00",
   "objectID": "4caaa7a5581688587153613229aa70e6",
-  "created_at": "2024-12-18T16:18:43.140197+00:00",
   "ref": "sheffield-country-walk-walking-route",
   "title": "Sheffield Country Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg/512px-Sheffield_Country_walk_looking_towards_Strines_Moor_and_Boot%27s_Folly_-_geograph.org.uk_-_2874299.jpg",
@@ -105,9 +105,20 @@
   ],
   "distance_km": 85.0,
   "description": "Explore the countryside around the city of Sheffield on this interesting circular walk. There's some truly splendid Peak District scenery to enjoy including views of Damflask Reservoir, Agden Reservoir and Dale Dike Reservoir. You also pass Treeton Dyke, Rother Valley Country Park and Stanage Edge - a popular spot for climbers and one of the major highlights of the Peak District. The walk is wayamarked with a yellow and green arrow.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a couple of very nice pubs located in the villages of High and Low Bradfield, just to the east of the Agden and Dale Dike reservoirs. The Old Horns Inn is a traditional English pub set in the incredible Bradfield countryside. Located in an enviable position with views over the Bradfield Moors and next to St. Nicholas' church, the Old Horns is established as one of the best pubs in England, having won a number of Thwaites Awards including \u2018Pub of the Year\u2019 and \u2018Best Food.\u2019 There's also a fantastic outdoor terrace and beer garden to relax in on warmer days. The pub is very walker and dog friendly and can be found just to the east of the reservoir on Towngate, with a postcode of S6 6LG for your sat navs. The Plough Inn is another fine option. There's an open fire, with a large beer garden and a great menu. It's located close to the village green, with a picturesque stream, picnic area and fantastic cricket pitch. You can find it at Low Bradfield with a postcode of S6 6HW."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The route is coincident with the Dronfield 2000 Rotary Walk north of the town of Dronfield. The circular walk runs for about 12 miles through the woods and countryside surrounding the Derbyshire town."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/WcOrCxNecPI",
   "district": "Eckington",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

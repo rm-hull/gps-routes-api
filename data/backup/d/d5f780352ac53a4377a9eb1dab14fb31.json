@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:32:02.080611+00:00",
   "objectID": "d5f780352ac53a4377a9eb1dab14fb31",
-  "created_at": "2024-12-18T12:17:20.526530+00:00",
   "ref": "highfield-country-park-walking-and-cycle-route",
   "title": "Highfield Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Highfield_Country_Park_-_geograph.org.uk_-_1376061.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 3.0,
   "description": "This 70 acre park is also a local nature reserve with a number of country walks and a cycle track. It is located in Levenshulme in Manchester - a short walk from the train station. The park has peaceful woodland paths and a variety of plantlife and birdlife. Just to the east you can continue your exercise around Reddish Vale Country Park. The Tameside Trail, the Midshires Way and the epic Trans Pennine Trail can be picked up here too.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trails are ideal for dog walking so you'll probably meet other owners and their pets on your walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Stockport Walk visits the botanic gardens at Fletcher Moss Park in East Didsbury. It starts in the town centre of Stockport and follows the River Mersey for just over 4 miles. Just to the south you can also explore Vernon and Woodbank Park where you can pick up the Etherow Goyt Valley Way and enjoy waterside walks along the River Goyt. Just to the east you can pick up the Tameside Trail and visit Debdale Park. There's some nice trails around the Gorton Reservoir and lots of water based activities to try here. Both the Fallowfield Loop and the Manchester Cycleway pass the park. These cycling trails use an old railway line to explore the area on an off road path. For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/B0f0Ha13Eho",
   "postcode": "M19 2ST",
   "district": "Manchester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

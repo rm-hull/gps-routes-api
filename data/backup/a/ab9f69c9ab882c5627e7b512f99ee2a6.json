@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:26:47.848285+00:00",
   "objectID": "ab9f69c9ab882c5627e7b512f99ee2a6",
-  "created_at": "2024-12-18T12:47:09.599973+00:00",
   "ref": "cullompton-walking-route",
   "title": "Cullompton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Cullompton_Mill_Leat_walk_-_geograph.org.uk_-_1097160.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 1.8,
   "description": "This interesting Mid Devon town is located on the River Culm near Exeter and Tiverton. The historic settlement includes a 15th century church, interesting old mills, a Grade I listed 17th century house and several Grade II listed buildings. For walkers there's lots of good options in the nearby Blackdown Hills AONB and through the pretty Culm Valley. This walk in the town takes you along the pretty mill leat walk on the eastern side of the settlement. There's a nice surfaced footpath taking you along the pretty waterway to the town's historic mills.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Weary Traveller is a good choice for some post walk refreshment. They do a find carvery and also have a lovely large garden area for warmer days. You can find them on Station Road at postcode EX15 1BQ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The easy paths make for a nice easy dog walk. The Weary Traveller mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west you can visit the splendid Bickleigh Mill and pick up the Exe Valley Way for more riverside walking. For an alternative circular walk around the city see the Exeter Green Circle. This 12 mile trail visits the Alphin Brook Valley, the village of Alphington, the Hoopern Valley, Mincinglake Valley Park and The Ludwell Valley. To the north there's Uffculme where you can visit the lovely deer park on the Bridwell Estate. In the village there's also the historic Coldharbour Mill with its fascinating working wool museum. For more walking ideas in the area see the Blackdown Hills Walks and the Devon Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/4_rNJFBoBqg",
   "postcode": "EX15 1AF",
   "district": "Cullompton",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

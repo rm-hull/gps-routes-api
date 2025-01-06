@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:24:55.177836+00:00",
   "objectID": "2b77cdd1c7ac95324a14ac2cd80ad8b0",
-  "created_at": "2024-12-18T06:54:59.147689+00:00",
   "ref": "cossall-walking-route",
   "title": "Cossall Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Church_Lane%2C_Cossall_-_geograph.org.uk_-_1838205.jpg",
@@ -43,7 +43,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/St._Catherine%27s_Church%2C_Cossall_-_geograph.org.uk_-_607922.jpg",
       "title": "Alan Murray-Rust / St. Catherine's Church, Cossall",
-      "caption": "St. Catherine's Church, Cossall.  An attractive little church dating from the 12th or 13th century."
+      "caption": "St. Catherine's Church, Cossall. An attractive little church dating from the 12th or 13th century."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Cossall_Almshouses_-_geograph.org.uk_-_60326.jpg/256px-Cossall_Almshouses_-_geograph.org.uk_-_60326.jpg",
@@ -53,8 +53,15 @@
   ],
   "distance_km": 5.5,
   "description": "This walk from the village of Cossall takes you to the Nottingham Canal Nature Reserve. There's a nice footpath here along the disused canal with lots of wildlife to look out for on the way. The trail runs for just over 1.5 miles to Awsworth and Cossall Common. Keep your eyes peeled for water loving birds such as moorhen and heron as you make your way along the path. Back in the village you can visit the noteworthy 13th century church and see the 17th century Willoughby Almshouses.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west and you could visit Ilkeston and explore Shipley Country Park with its lakeside walking and cycling trails. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/cfc0Io0XvrU",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

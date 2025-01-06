@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:34:14.636596+00:00",
   "objectID": "0ae6d1bbd3f8630b275368f99bb3eb15",
-  "created_at": "2024-12-19T04:36:53.247095+00:00",
   "ref": "arisaig-walking-route",
   "title": "Arisaig Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Beach%2C_Arisaig_-_geograph.org.uk_-_4975358.jpg/512px-Beach%2C_Arisaig_-_geograph.org.uk_-_4975358.jpg?20230621201506",
@@ -65,8 +65,15 @@
   ],
   "distance_km": 3.8,
   "description": "This walk explores the lovely coastal village of Arisaig in Lochaber, Scottish Highlands. You can enjoy a circular walk around the Strath of Arisaig using country lanes and other footpaths. On the walk you can enjoy views of the local canal and across the bay to the Isle of Skye, the small isles and the surrounding mountains. You can continue your walking in the area by heading north to the beautiful Silver Sands Of Morar, Loch Morar and Mallaig .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "From nearby Mallaig you can catch the Knoydart ferry to Inverie where you can visit Britain's remotest Pub. The Knoydart and Inverie Walk will then take you through the mountains along the Old Road to Kingloch Hourn."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0__WXKQNv6w?si=OzjNsN_jkqbfuDeA",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

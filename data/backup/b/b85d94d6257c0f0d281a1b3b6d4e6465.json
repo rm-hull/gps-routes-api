@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:22:20.584629+00:00",
   "objectID": "b85d94d6257c0f0d281a1b3b6d4e6465",
-  "created_at": "2024-12-18T16:19:11.793999+00:00",
   "ref": "craigellachie-nature-reserve-walking-route",
   "title": "Craigellachie Nature Reserve Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cairn_marking_the_highest_point_of_the_Craigellachie_National_Nature_Reserve_-_geograph.org.uk_-_1972525.jpg/512px-Cairn_marking_the_highest_point_of_the_Craigellachie_National_Nature_Reserve_-_geograph.org.uk_-_1972525.jpg",
@@ -60,10 +60,17 @@
   ],
   "distance_km": 6.0,
   "description": "This large nature reserve in Aviemore has a number of splendid walking trails to try. In the reserve you can enjoy several small lochs, woodland trails and stunning views of the Cairngorms. You can follow the easier waymarked trails around the lochs before climbing to wonderful viewpoints. From here there are great views over Aviemore and towards Cairn Gorm. The area is also good for wildlife watching - look out for peregrine falcons on the rocky crags. The reserve is easy to reach, located close to the centre of Aviemore and the train station.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of Aviemore there's some lovely waterside trails around the tranquil Loch Pityoulish. There's also views of Loch Morlich and Loch Insh from the reserve. These picturesque lochs are two more great location to extend your walking in the area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/yWOZExgwpH4",
   "postcode": "PH22 1PD",
   "district": "Aviemore",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:00:29.816595+00:00",
   "objectID": "822753c1cc2f183e96e57583afa3d6c5",
-  "created_at": "2024-12-18T11:37:48.760114+00:00",
   "ref": "plean-country-park-walking-and-cycle-route",
   "title": "Plean Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Plean_Country_Park_-_geograph.org.uk_-_160347.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/President_Kennedy_Driveway_-_geograph.org.uk_-_1898795.jpg/256px-President_Kennedy_Driveway_-_geograph.org.uk_-_1898795.jpg",
       "title": "President Kennedy Driveway by Richard Webb, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "President Kennedy Driveway.  A rather grandly named pathway leading through Plean Country Park."
+      "caption": "President Kennedy Driveway. A rather grandly named pathway leading through Plean Country Park."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Plean_House_Stables_%28ruin%29_-_geograph.org.uk_-_2037968.jpg/512px-Plean_House_Stables_%28ruin%29_-_geograph.org.uk_-_2037968.jpg",
@@ -80,8 +80,19 @@
   ],
   "distance_km": 4.0,
   "description": "Enjoy peaceful walking and cycling trails in this large country park in Stirling. In the park you will find woodlands, flower meadows, ponds, streams and the ruined 18th century Plean Country House. There are several waymarked trails to follow including a nature trail where you can look out for a variety of wildlife including birds, squirrels, rabbits and dragonflies. The park is located just a few miles from Stirling and Falkirk. To continue your outing head south to visit Torwood Castle and Tappoch Broch. These two historic sites can be visited on a fine circular walk from the nearby Glen Road.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for a dog walk so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Stirling you could enjoy a climb to the splendid Wallace Monument. The monument sits on Abbey Craig hill and commemorates Sir William Wallace, the 13th-century Scottish Knight. There are excellent views over the town from the viewpoint.To the south west of Stirling there's a nice circular trail around the picturesque North Third Reservoir to try. Just south of Falkirk there's the lovely Callendar Park. The 14th century French chateau styled house is surrounded by lovely parkland and woodland with a fascinating museum and a Roman Antonine Wall to see."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/07SGqSINxKE",
   "county": "Stirling",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:05:05.546724+00:00",
   "objectID": "1991c8b128d97e8dd1f07672d7b37010",
-  "created_at": "2024-12-19T15:45:29.092999+00:00",
   "ref": "southampton-common-walking-and-cycle-route",
   "title": "Southampton Common Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Southampton_Common_-_geograph.org.uk_-_183346.jpg",
@@ -80,10 +80,25 @@
   ],
   "distance_km": 5.0,
   "description": "Explore 326 acres of woodland, parkland, rough grassland, ponds, wetlands and nature trails on this lovely cycling and walking route in Southampton. The park also has a Wildlife Centre with interactive resources and educational facilities. Southampton Common can be found just north of the city centre near the main university campus. You can start the walk from the car park on Cemetery Road at the southern end of the common where you'll also find the Urban Wildlife Centre. From here you can pick up the footpaths and cycle trails heading north to the lakes and woods.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Cowherds is conveniently located near the car park at the southern end of the common. They have a nice outdoor space where you can enjoy views across the common with your refreshment. The pub also has an interesting history having been built in 1762 on the site of the old cowherd's house. You can find them at postcode SO15 7NN for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The wide trails and woodland paths on the common are very popular with dog walkers so you'll probably see other owners on your visit. The Cowherds pub mentioned above is also very dog friendly with treats and water available for your four legged friend."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east from the park and you can pick up the Itchen Way. This waymarked trail will take you along the River Itchen in the pleasant riverside park near Swaythling and St Denys. The Itchen Valley Country Park is also located near here and is a fine place to stretch your legs. To the south you can pick up the Solent Way and follow it south east along Southampton Water to Royal Victoria Country Park. Near the quay you can also pick up the Southampton Walls Walk which will take you around the historic city walls. Just to the west is the neighbouring town of Totton where you can visit the wildlife rich Testwood Lakes and Lower Test Nature Reserve. The town is also close to the start point for the Test Way where you can visit the noteworthy Eling Tide Mill. The Grade II listed mill is a major local attraction with picturesque walks and some fascinating local history. For more walking ideas in the area see the Hampshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ljGBnFhN8Cs",
   "postcode": "SO15 2TL",
   "district": "Southampton",
   "county": "City of Southampton",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

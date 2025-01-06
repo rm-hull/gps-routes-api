@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:57:12.569136+00:00",
   "objectID": "038846413153fa8c0050735366069bc7",
-  "created_at": "2024-12-21T12:54:41.044470+00:00",
   "ref": "cotswold-canals-walking-route",
   "title": "Cotswold Canals Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Ship_Inn_at_Upper_Framilode_-_geograph.org.uk_-_121093.jpg",
@@ -55,9 +55,11 @@
   ],
   "distance_km": 66.0,
   "description": "Follow a series of delightful waterways from Framilode to Lechlade on this waterside walk through Gloucestershire. The walk starts at Framilode, next to the River Severn and follows the Stroudwater Canal and the River Frome to the market town of Stroud. You continue to Sapperton, following the River Frome and the Thames and Severn Canal. A wooded section through Hayley Wood follows before coming to Kemble where you will pass the source of the River Thames. From Kemble you head to the village of Siddington and then on to South Cerney where you will pass the fabulous Cotswold Water Park which boasts 150 lakes, Nature Reserves and plenty of options for refreshment. The final section takes you through the countryside towards Kempsford, passing the River Colne and the Fairford/Lechlade section of the Cotswold Water Park before arriving at the finish point at Lechlade. There's much to enjoy on this walk with several waterside sections along various canals, rivers and lakes. There are also a series of quaint Cotswold villages with ancient churches, historic watermills and pretty waterside pubs for refreshment.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/038846413153fa8c0050735366069bc7.gpx",
-  "_geoloc": {
-    "lat": 51.7918907014,
-    "lng": -2.3621664536
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The route passes through the little village of South Cerney where there's a few nice pubs for refreshments on the walk. You could head to the historic Old George Inn which is set in a 17th century coaching inn. They do good food and also have a nice gardena area for the summer months. You can find the pub at Clarks Hay with a postcode of GL7 5UA for your sat navs. The Royal Oak is another good option with another good menu and a large garden area. You can find it on the High Street at postcode GL7 5UP. The pub is also dog friendly if you have your four legged friend with you. It's also nice to stroll around the pretty village where there are picturesque views of the River Churn and an old vicarage with a gazebo."
+    }
+  ],
+  "gazetteer_found": false
 }

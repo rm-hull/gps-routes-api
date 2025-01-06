@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:44:12.624660+00:00",
   "objectID": "ac9f0802b6dc81c42ea2b0d2ca6c97f8",
-  "created_at": "2024-12-18T12:45:55.718606+00:00",
   "ref": "marden-walking-route",
   "title": "Marden Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Farmland_and_woodland_south_of_Marden_-_geograph.org.uk_-_2491035.jpg",
@@ -22,7 +22,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/37/Plain_Oast%2C_Plain_Rd_-_geograph.org.uk_-_2491033.jpg",
-      "title": "Plain Oast,  Plain Rd by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Plain Oast, Plain Rd by N Chadwick, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Plain Oast, Plain Rd"
     },
     {
@@ -43,8 +43,15 @@
   ],
   "distance_km": 5.8,
   "description": "This Kent based village has some pleasant countryside footpaths to explore. This circular walk explores the area to the south of the village, visiting nearby Marden Thorn on the way. The area includes pretty orchards, old oast houses and Marden Meadows to the east. In the village there's also a noteworthy 12th century church to see. Marden is accessible by public transport with a railway station on the South Eastern Main Line. There's also a fine local pub for relaxation and refreshment after your exercise.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Unicorn for some post walk refreshment. Here you'll find a a spacious bar and restaurant with a cosy inglenook fireplace for the winter months. Outside there's a good sized and well-kept beer garden for warmer weather. You can find them on the High Street at postcode TN12 9DR for your sat navs."
+    }
+  ],
   "district": "Marden",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

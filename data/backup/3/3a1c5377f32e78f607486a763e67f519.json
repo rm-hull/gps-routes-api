@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:30:45.148019+00:00",
   "objectID": "3a1c5377f32e78f607486a763e67f519",
-  "created_at": "2024-12-18T05:44:33.091122+00:00",
   "ref": "woburn-park-walking-route",
   "title": "Woburn Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Chinese_Pavilion%2C_Woburn_Park_Geograph-3581804-by-Paul-Brooker.jpg",
@@ -54,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Woburn_Abbey_-_geograph.org.uk_-_908962.jpg",
-      "title": "Kenneth  Allen / Woburn Abbey",
+      "title": "Kenneth Allen / Woburn Abbey",
       "caption": "Woburn Abbey. Looking towards the rear of the building"
     },
     {
@@ -80,9 +80,24 @@
   ],
   "distance_km": 8.5,
   "description": "This walk takes you through the beautiful Woburn Park in Befordshire. The park includes tranquil ponds, pretty Orchards, a 3000 acre deer park and the magnificent Woburn Safari Park with its White Rhino, Elephants, Tigers and Black Bears. There's also the splendid Woburn Abbey - a stunning country house which is the seat of the Duke of Bedford. The walk starts in Woburn village where parking is available. Then pick up public footpaths heading east before turning south and following the Greensand Ridge Walk across the splendid deer park towards Brook End where you can enjoy a bite to eat in the cafe. This walk returns to the car park the same way but you can turn it into a longer circular walk by heading south east from Linden Lake to Milton Wood. Other trails will then take you north west past the Hopgarden Ponds and back to the abbey and Woburn village. You can extend your walk by following the Greensand Ridge Walk west to Bow Brickhill Woods and Aspley Woods where there's miles of woodland trails and an excellent red grade mountain bike route. Here you can also pick up the Milton Keynes Boundary Walk and explore the area further.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Birch is located in Woburn village on Newport Rd (Postcode:MK17 9HX) and is a great place to refresh yourself after your walk. It's a splendid family-run pub serving modern British cuisine with a conservatory and leather sofas."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are allowed in the Deer Park but not within the Abbey Grounds or Gardens (except assistance dogs). They must be kept on a lead at all times as they can endanger the park's resident deer."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Woburn Abbey is the family seat of the Duke of Bedford and includes his fine art collection encompassing a wide range of western artwork. The holdings comprise some 250 paintings, including works by Rubens, Van Dyck, Canaletto and Velasquez. The Woburn Sands Walk starts from the train station in the nearby town. It heads through Aspley Woods before arriving at the park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/PlwV8BnnBeI",
   "district": "Woburn",
   "county": "Central Bedfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

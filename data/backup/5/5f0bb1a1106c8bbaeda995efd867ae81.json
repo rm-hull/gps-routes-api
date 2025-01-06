@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:57:51.940541+00:00",
   "objectID": "5f0bb1a1106c8bbaeda995efd867ae81",
-  "created_at": "2024-12-17T23:48:21.507232+00:00",
   "ref": "hollinsclough-walking-route",
   "title": "Hollinsclough Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Hollinsclough_-_geograph.org.uk_-_941011.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 5.8,
   "description": "This Peak District village is located in a fine spot for scenic walks in the National Park. This circular walk from the village takes you up to the splendid viewpoints on Parkhouse Hill and Chrome Hill which lie just to the east of the settlement. You'll also pass Hollins Hill on the northern side of the village. Along the way there are wonderful views over the National Park and some photogenic limeston rock formations to admire. To continue your walking in the area head west onto Axe Edge Moor and you could visit one of the major local highlights at Three Shires Head. Here you will find an ancient packhorse bridge located at the point where the counties of Cheshire, Derbyshire and Staffordshire meet.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The delightful Chapel House tea rooms serve a fine selection of home baked cakes. The friendly cafe's menu also includes some hot food and delicious cream teas. You can find them in the Chapel Hall at postcode SK17 0RH."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The village lies just to the south of the popular town of Buxton where you can explore Poole's Cavern and Buxton Country Park. There's some nice woodland trails and a climb to the viewpoint at Solomon's Temple to enjoy here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/T5fFjlmBnRY?start=29",
   "postcode": "SK17 0RH",
   "district": "Hollinsclough",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

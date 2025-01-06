@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:52:38.426181+00:00",
   "objectID": "02935a509bd9bc3db713571c15af43aa",
-  "created_at": "2024-12-18T16:44:12.702322+00:00",
-  "ref": "teston-bridge country-park-walking-route",
-  "title": "Teston Bridge Country Park Walking Route",
+  "ref": "teston-bridge\u00a0country-park-walking-route",
+  "title": "Teston Bridge\u00a0Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/The_River_Medway_from_Teston_Bridge_-_geograph.org.uk_-_1758584.jpg",
   "nearby": [
     {
@@ -85,9 +85,16 @@
   ],
   "distance_km": 4.5,
   "description": "This country park is set around the picturesque 14th century Teston Bridge on the banks of the River Medway in Teston, near Maidstone. A variety of wildlife can be spotted here \u2013 look out for otters which can be seen along the river. The circular walk starts at the car park next to Teston Bridge and heads along the river to the village of Wateringbury, before crossing the River and returning to the start point on the opposite side.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can easily extend your walking on the waymarked Medway Valley Walk. The Wateringbury River Walk and Yalding River Walk both use part of the trail to create circular walks through the area. You could also head into Maidstone and try the Maidstone River Walk. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oR-Y6mEWzPU",
   "postcode": "ME18 5BX",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

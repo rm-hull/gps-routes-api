@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:30:14.264386+00:00",
   "objectID": "57abee1baa9091eea07bea6e85840857",
-  "created_at": "2024-12-18T13:54:14.440325+00:00",
   "ref": "gorebridge-circular-walk-walking-route",
   "title": "Gorebridge Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Scotland%27s_first_gunpowder_works_at_Stobsmill%2C_Gorebridge_-_geograph.org.uk_-_2751196.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Scotland%27s_first_gunpowder_works_at_Stobsmill%2C_Gorebridge_-_geograph.org.uk_-_2751196.jpg",
-      "title": "Scotland's first  gunpowder works at Stobsmill, Gorebridge by Jim Barton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Scotland's first gunpowder works at Stobsmill, Gorebridge by Jim Barton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Scotland's first gunpowder works at Stobsmill, Gorebridge. It started operating in 1794 and closed in 1875."
     },
     {
@@ -53,10 +53,25 @@
   ],
   "distance_km": 11.0,
   "description": "This circular walk explores the area around the former mining village of Gorebridge in Midlothian. On the way you will pass through pretty local parks, peaceful woodland and enjoy some hill climbs with views over the area. The walk is waymarked with a series of green signs. The walk starts at the train station and heads north east along Gore Water to the remains of Scotland's first gunpowder works at Stobsmill. The path then leads into Gore Glen Woodland Park where there's views of the Pentland Hills and some interesting flora and fauna to see. The walk continues east through Arniston Park towards Whitehouse Quarry where you turn south east towards Monteith Farm and Millstone Brow Cottages. Head west and the path then takes you across the railway line to meet up with Gore Water again. Follow this north east and it will return you to the village and the train station. To continue your walking in the area head a couple of miles to Vogrie Country Park. Here you can enjoy walking and cycling trails around the historic Vogrie House Estate.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Stobsmill Inn for some refreshments on the walk. The cosy, 150 year old village pub serves fine food and has a nice outdoor area for warmer days. You can find them at 25b Powdermill Brae, Gorebridge EH23 4HX."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and country trails make for a fine dog walk. The Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles south west and there's some nice waterside walks around Edgelaw Reservoir and Rosebery Reservoir in the lovely Lammermuir Hills."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/geD9PUHsqTo",
   "postcode": "EH23 4HU",
   "district": "Gorebridge",
   "county": "Midlothian",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

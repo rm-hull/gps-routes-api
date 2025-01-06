@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:41:02.819322+00:00",
   "objectID": "8c47c457a8f7baecf236a64147b098fb",
-  "created_at": "2024-12-19T16:15:24.683923+00:00",
   "ref": "sandon-hall-walking-route",
-  "title": "Sandon Hall Walks",
+  "title": "Sandon\u00a0Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/The_Dog_%5E_Doublet%2C_Sandon_-_geograph.org.uk_-_2144408.jpg/512px-The_Dog_%5E_Doublet%2C_Sandon_-_geograph.org.uk_-_2144408.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8c47c457a8f7baecf236a64147b098fb.gpx",
   "_geoloc": {
@@ -47,16 +47,27 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Weston_Pool_at_Weston%2C_Staffordshire_-_geograph.org.uk_-_4198851.jpg/256px-Weston_Pool_at_Weston%2C_Staffordshire_-_geograph.org.uk_-_4198851.jpg",
-      "title": "Weston Pool at Weston, Staffordshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Weston Pool at Weston, Staffordshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Weston Pool at Weston, Staffordshire"
     }
   ],
   "distance_km": 9.4,
   "description": "This walk takes you around the historic Sandon Hall estate in the Staffordshire village of Sandon. The hall grounds and gardens are generally not open to the public though there are open days and the opportunity to book a tour. See the link below for more details. This circular walk takes you along the public footpaths which run along the sides of the estate. You'll also enjoy a waterside stroll along the Trent and Mersey Canal which runs along the western side of the park. Along there way there's fine views over the countryside and hills of the Trent Valley. You can also visit the noteworthy church which dates to the 13th century and is Grade I listed. The walk starts in the village at the Dog and Doublet, a delightful Arts and Craft period Inn dating from 1906. From here you pick up trails heading east and then south east along the side of the park. These will lead you to Gayton and Weston where you pick up the canal. Follow the towpath north west and it will take you to Sandon Lock where you leave the canal and return to the village. To continue your walking in the area head south into Stafford where you can explore the historic castle and enjoy a nice riverside walk.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The walk starts from The Dog and Doublet in Sandon. The period inn serves good quality food which you can enjoy outside in the large garden area."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland trails make for a fine dog walk. The Dog and Doublet mentioned above is also dog friendly with water bowls and treats available."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NYkxIOzVZVw",
   "postcode": "ST18 0DJ",
   "district": "Sandon",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:44:01.858452+00:00",
   "objectID": "263d3edaedbd061bfe1bad4fe84ace85",
-  "created_at": "2024-12-18T16:38:33.167467+00:00",
   "ref": "brockham-walking-route",
   "title": "Brockham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Brockham_Green%2C_Surrey%2C_old_cottages_by_All_Saints_Church_-_geograph.org.uk_-_525055.jpg",
@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/The_%27Duke%27s_Head%27%2C_Brockham_Green%2C_Surrey_-_geograph.org.uk_-_517265.jpg",
       "title": "Dr Neil Clifton / The 'Duke's Head', Brockham Green, Surrey",
-      "caption": "The 'Duke's Head', Brockham Green, Surrey.  The Duke portayed on the sign is of course the great Duke of Wellington, beside whom all other dukes are lesser men. Now the Inn on the Green."
+      "caption": "The 'Duke's Head', Brockham Green, Surrey. The Duke portayed on the sign is of course the great Duke of Wellington, beside whom all other dukes are lesser men. Now the Inn on the Green."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Bridges_over_the_River_Mole%2C_Brockham%2C_Surrey_-_geograph.org.uk_-_525370.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 18.0,
   "description": "This award winning village sits in a fine spot in the Mole Valley of Surrey. It's a wonderful place for walkers with several major waymarked footpaths passing through the area. It's a picturesque place with a village green, pretty cottages and a fine old church to see. This circular walk from the village makes use of sections of the Greensand Way, the Mole Gap Trail and the North Downs Way to visit some of the highlights of the surrounding area. On the walk you'll pass the popular Box Hill Country Park, Brockham Quarry Nature Reserve, Denbies Hillside, Ranmore Common and the neighbouring town of Dorking. The walk starts in the village and first heads north to Betchworth Park, passing the golf course and Betchworth Castle. After crossing the railway line you will come to Brockham Quarry Nature Reserve. The interesting site was once the site of chalk extraction and the lime making industry during the Victorian Era. After exploring the quarry you come to Box Hill where there are miles of great woodland walking and cycling trails with fine views from the high points. You continue west past Westhumble to Denbies Hillside which contains wildflowers, wayamarked trails and an informative visitor centre and the largest vineyard in England. The route continues through the adjacent Ranmore Common where there's more peaceful woodland and open downland, with great views of the Surrey Hills. From here you head south along the Greensand Way to Westcott where you turn east past Bury Hill and the fishing lake. The final stretch takes you through Dorking town before returning to Brockham.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Inn on the Green for some refreshments after your exercise. The pub sits in a fine spot overlooking the photogenic village green. They serve good quality dishes and have a pleasant outdoor area for warmer days. You can find them at postcode RH3 7JS for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and country trails are ideal for a dog walk. The Inn mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/W-kdv2GTZ8w",
   "postcode": "RH3 7JJ",
   "district": "Brockham",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

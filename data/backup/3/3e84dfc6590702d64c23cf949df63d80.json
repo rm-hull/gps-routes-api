@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:34:55.467041+00:00",
   "objectID": "3e84dfc6590702d64c23cf949df63d80",
-  "created_at": "2024-12-21T11:55:12.596979+00:00",
   "ref": "east-suffolk-line-walks-walking-route",
   "title": "East Suffolk Line Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Round_pond_%2C_Christchurch_Park_-_geograph.org.uk_-_17011.jpg",
@@ -60,10 +60,12 @@
   ],
   "distance_km": 114.0,
   "description": "Follow the 'East Suffolk Line' railway from Ipswich to Lowestoft on this splendid walk through the Suffolk countryside. You'll pass through Woodbridge, Melton, Saxmundham, Halesworth and Beccles. There are also several riverside sections along the Rivers Alde, Deben, Fynn and the final one along the River Waveney from Beccles to Lowesoft. The walk is waymarked with a yellow and blue disc.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Suffolk Walks, Suffolk Coast and Heaths Walks and Norfolk Broads Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/5FynBv9b_-Y",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e84dfc6590702d64c23cf949df63d80.gpx",
-  "_geoloc": {
-    "lat": 52.0507513231,
-    "lng": 1.1443639298
-  }
+  "gazetteer_found": false
 }

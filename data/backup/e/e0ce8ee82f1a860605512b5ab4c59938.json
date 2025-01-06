@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:27:11.465862+00:00",
   "objectID": "e0ce8ee82f1a860605512b5ab4c59938",
-  "created_at": "2024-12-18T00:54:27.281693+00:00",
   "ref": "nesscliffe-hill-country-park-walking-and-cycle-route",
   "title": "Nesscliffe Hill Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Nesscliffe_Hill_Country_Park_-_geograph.org.uk_-_1140.jpg",
@@ -95,10 +95,25 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy woodland trails, heather covered hills and wonderful views over the Shropshire countryside and Welsh hills in this country park near Shrewsbury. Other features in the park include an Iron age hill fort and Kynaston's cave - a cave hewn into the sandstone, said to have been the hideout of medieval outlaw Humphrey Kynaston. It's a lovely area for walking and cycling with waymarked trails to follow through the woodland. You can continue your walking in the area by trying our Shrewsbury River Walk and visiting the delightful Quarry Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Old 3 Pigeons is located in a convenient spot on the western side of the park. The inn has an interesting history dating back 1405 with their most notorious patron being Sir Humphrey Kynaston; Shropshire's answer to Robin Hood. From 1491 to 1518 Humphrey lived the life of a highwayman. He had a reputation of robbing the rich and giving to the poor, and in return the locals protected him giving him and his horse food. Today the pub serves good quality food and has a nice garden area for warmer days. You can find the inn at postcode SY4 1DB."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking so you'll probably meet other owners on your visit. The Old 3 Pigeons mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a mile south to Wilcott and you can pick up the Severn Way. This significant waymarked trail could be followed west to Melverley and Crewgreen where you can enjoy views of the River Severn and River Vyrnwy. If you continue west it will take you to Breidden Forest where you can climb to the viewpoint Rodney's Pillar. To the north there's the 13th century moated castle at Whittington to explore."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/dKVEO9TvJak",
   "postcode": "SY4 1DG",
   "district": "Hopton",
   "county": "Shropshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

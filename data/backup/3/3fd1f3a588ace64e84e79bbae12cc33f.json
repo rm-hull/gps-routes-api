@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:13:49.224582+00:00",
   "objectID": "3fd1f3a588ace64e84e79bbae12cc33f",
-  "created_at": "2024-12-18T00:00:26.528958+00:00",
   "ref": "harestanes-walking-route",
   "title": "Harestanes Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/The_Waterloo_Monument_on_Peniel_Heugh_-_geograph.org.uk_-_74218.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/View_towards_Waterloo_Monument_-_geograph.org.uk_-_5910453.jpg/512px-View_towards_Waterloo_Monument_-_geograph.org.uk_-_5910453.jpg",
       "title": "View towards Waterloo Monument by Les Hull, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "View towards Waterloo Monument. The tower can be climbed using a key which can be borrowed at a small cost from the Lothian Estates Office in nearby Bonjedward. Inside the monument is a spiral staircase with 226 steps leading to the wooden balcony which encircles the top of the tower.  The memorial at the Battle of Waterloo in Belgium also has 226 steps."
+      "caption": "View towards Waterloo Monument. The tower can be climbed using a key which can be borrowed at a small cost from the Lothian Estates Office in nearby Bonjedward. Inside the monument is a spiral staircase with 226 steps leading to the wooden balcony which encircles the top of the tower. The memorial at the Battle of Waterloo in Belgium also has 226 steps."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Start_of_the_track_to_the_Waterloo_Monument_-_geograph.org.uk_-_5447564.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 7.4,
   "description": "This circular walk visits the Harestanes countryside centre near Jedburgh in the Scottish Borders. The area is a fine place for a walk with woodland trails and a climb to the Waterloo Monument on Peniel Heugh hill. From here there are some wonderful views over the surrounding countryside and hills. The 150-foot tower was built between 1817 and 1824 to commemorate the Battle of Waterloo and is something of a local landmark. You can start and end the walk from the Harestanes Visitor Centre where there is a car park and facilities. The route also passes very close to Monteviot House where you can explore the beautiful grounds and gardens of an historic 18th century house. It's a lovely place for a stroll with views of the River Teviot, ornate ponds and an Arboretum to explore. The Borders Abbeys Way and the St Cuthbert's Way both pass through the area. You could pick up either of these long distance trails to extend the walk.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "There is a dog friendly cafe at the visitor centre where you can enjoy some post walk refreshment."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into nearby Jedburgh and you could try the Jedburgh Riverside Walk which takes you along the Jed Water river. You can also admire the splendid Gothic architecture of the 12th century Jedburgh Abbey here. Just to the south west there's Fatlips Castle where you can enjoy a climb to a splendid 16th century peel tower and enjoy wonderful views over Teviotdale."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hDb6p6xHeu0?si=DB1Zv46q96c8To8v",
   "postcode": "TD8 6UQ",
   "county": "Scottish Borders",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

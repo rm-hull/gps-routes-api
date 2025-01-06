@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:02:20.252655+00:00",
   "objectID": "0d722ab42b303d48b13bac52b0616a99",
-  "created_at": "2024-12-19T04:56:04.267918+00:00",
   "ref": "bodicote-circular-walk-walking-route",
   "title": "Bodicote Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Horse_and_Jockey%2C_Bodicote_-_geograph.org.uk_-_168476.jpg",
@@ -54,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/The_Plough_Inn%2C_Bodicote_-_geograph.org.uk_-_168474.jpg",
-      "title": "al partington / The Plough Inn,  Bodicote",
+      "title": "al partington / The Plough Inn, Bodicote",
       "caption": "The Plough Inn, Bodicote. Former home of the Bodicote Brewery; sadly missed. Now under the Wadworth's flag having been a free house with the Blencoe family for nearly 50 years."
     },
     {
@@ -90,8 +90,23 @@
   ],
   "distance_km": 5.5,
   "description": "This short circular walk explores the countryside around the Oxfordshire village of Bodicote near Banbury. The trail runs for just over 3 miles on waymarked footpaths, visiting several of the local highlights. You'll pass near to some of the village's historic buildings including the restored 19th century windmill, the 13th century church and the Georgian Bodicote House which is now the main office for Cherwell District Council. The walk starts on the High Street in the village centre. From here you head north before turning west along the Salt Way. Country trails then lead south past Wykham Farm and Bodicote Lake to Upper Grove Mill. Here you cross the Sorbrook before turning east towards Bloxham Grove, the Bodicote Post Mill and Lower Grove Mill Reservoir. You then turn north along the Austin Road to return to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a couple of nice village pubs and an Indian restaurant back in Bodicote. The Plough serves good food and has a lovely garden area for summer days. It's set in an historic 18th century coaching inn which is also Grade II listed.The Horse and Jockey is just around the corner on Malthouse Lane. They have a large garden and serve particularly tasty pizzas. You can find them on the High Street at postcode OX15 4BZ for your sat navs. There's also the Spice Room Indian restaurant, which used to be the Baker's Arms pub. It was built in 1702."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a nice dog walk and the two village pubs mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of the village you can pick up the Oxford Canal Walk and enjoy an easy stroll along the canal towpath. The Adderbury Circular Walk, the Kings Sutton Walk and Bloxham Walk also pass close to the village. For more walking ideas in the area see the Oxfordshire Walks page."
+    }
+  ],
   "district": "Bodicote",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

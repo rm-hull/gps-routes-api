@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:02:33.686426+00:00",
   "objectID": "94ef5dbde2273713c67ebe8a9bae5805",
-  "created_at": "2024-12-18T09:54:24.693318+00:00",
   "ref": "nutscale-reservoir-walking-route",
   "title": "Nutscale Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Nutscale_Reservoir_%28geograph_3245351%29.jpg/512px-Nutscale_Reservoir_%28geograph_3245351%29.jpg",
@@ -65,8 +65,15 @@
   ],
   "distance_km": 1.5,
   "description": "This small reservoir is located on Exmoor near Minehead. The reservoir is in a lovely spot, surrounded by some attractive countryside and hills. There are footpaths and country lanes to follow south from the reservoir to Wilmersham Common. The lake is part of the wider Holnicote Estate owned by the National Trust. Just to the east is the Dunkery and Horner Wood Nature Reserve where you can climb to Dunkery Beacon for fine views over the area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north you can pick up the lovely coast path on the Minehead to Porlock Walk. For more walking ideas in the area see the Exmoor Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fRsKNq4iofc",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

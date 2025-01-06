@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:20:30.927148+00:00",
   "objectID": "ee3322f4670dbdfb57d62a84fe495281",
-  "created_at": "2024-12-18T16:53:24.590179+00:00",
   "ref": "belhus-woods-country-park-walking-and-cycle-route",
   "title": "Belhus Woods Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Whitehall_Woods_Lake_-_geograph.org.uk_-_607623.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Thames_Chase_at_Belhus_-_geograph.org.uk_-_35419.jpg",
-      "title": "Glyn Baker / Thames Chase at  Belhus",
+      "title": "Glyn Baker / Thames Chase at Belhus",
       "caption": "Thames Chase at Belhus. Newly planted mixed woodland in the park in 2005. Part of Thames Chase the new community forest to the East of London."
     },
     {
@@ -65,9 +65,24 @@
   ],
   "distance_km": 3.5,
   "description": "Enjoy the pretty lakes and peaceful woodland trails in this country park near Ockendon and Dagenham. There's also wildflower meadows, open space grassland, bluebells in the spring and lots of wildlife to see. The park is perfect for a nice waterside cycle or walk while there are also good facilities with a visitor centre selling refreshments and gifts. Just to the west you'll find Hornchurch Country Park where there's nice trails along the River Ingrebourne and the largest freshwater reed bed in London. The Ingrebourne Valley can also be picked up in the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe where you can pick up a good range of refreshments."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking so you're bound to see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Eastbrookend Country Park is located very close by and well worth a visit. It includes the Chase Nature reserve where there's an abundance of wildlife to see. The Upminster Walk and the epic London Loop can be picked up just to the west in Dagenham. You could follow it to the nearby Rainham Marshes for example. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pXoCA90unLw",
   "postcode": "RM15 4XJ",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

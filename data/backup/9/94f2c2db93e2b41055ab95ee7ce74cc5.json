@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:28:00.912145+00:00",
   "objectID": "94f2c2db93e2b41055ab95ee7ce74cc5",
-  "created_at": "2024-12-18T07:39:08.317900+00:00",
   "ref": "yarrow-valley-country-park-walking-route",
   "title": "Yarrow Valley Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Visitor_Centre%2C_Yarrow_Valley_Country_Park_-_geograph.org.uk_-_107574.jpg",
@@ -70,10 +70,25 @@
   ],
   "distance_km": 4.0,
   "description": "Enjoy a long, waterside walk along the River Yarrow in this splendid 700 acre country park in Chorley, Lancashire. The park has a number of well maintained walking paths, lakeside trails and a visitor centre. It is located less than 2 miles from Chorley town centre. The area is also a nature reserve so you can look out for a variety of birds as you make your way along the paths. Public footpaths branch off to the east of the park. You can pick these up and head to the nearby Duxbury Woods to extend your walk. There's more nice woodland trails along the Yarrow here. Just to the north you will find the pretty Astley Park which includes the River Chor, woodland, gardens and a beautiful lake.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Treeface Caf\u00e9 is located in the park and a nice place to go for some refreshments after your exercise. The cafe has a good menu and a cosy interior with a log burner for colder days. There's also an education and information room, incorporating the ethos of the original visitor centre."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trails in the park are great for a dog walk and include on lead and off lead areas. You'll probably see plenty of other dogs on a fine day. The on site cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Chorley Circular Walk explores the area around Chorley on public footpaths. It visits the park and also the canal and the nearby Astley park. Similarly there's also the Chorley Loop Cycle Route for cyclists. This takes you close to Cuerden Valley Park where there are some fine off road trails to try."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/nsYCy33PsDk",
   "postcode": "PR7 3QD",
   "district": "Charnock Richard",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

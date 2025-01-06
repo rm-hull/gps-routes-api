@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:23:56.016654+00:00",
   "objectID": "927ecf6abc292b780f024e877655d0c1",
-  "created_at": "2024-12-18T16:24:38.021318+00:00",
   "ref": "duncombe-park-walking-route",
   "title": "Duncombe Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Duncombe_Park_Eyecatcher_-_geograph.org.uk_-_1869218.jpg",
@@ -55,7 +55,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Pasture%2C_Duncombe_Hall_Grounds_-_geograph.org.uk_-_23284.jpg",
       "title": "Mick Garratt / Pasture, Duncombe Hall Grounds",
-      "caption": "Pasture, in the grounds. The estate is also a nature reserve with woodpecker, nuthatch,  pied flycatcher, redstart and the rare hawfinch to look out for."
+      "caption": "Pasture, in the grounds. The estate is also a nature reserve with woodpecker, nuthatch, pied flycatcher, redstart and the rare hawfinch to look out for."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/The_elaborately_carved_blocks_and_curves_of_the_ha-ha_-_geograph.org.uk_-_432507.jpg",
@@ -70,10 +70,25 @@
   ],
   "distance_km": 4.0,
   "description": "Enjoy woodland trails, a spectacular landscaped garden and the National Centre for Birds of Prey in this large park and nature reserve in Helmsley, Yorkshire. You can enjoy a gentle stroll around the 35 acre 18th century green gardens. Here you will find a great lawn, terraces, temples, a yew tree walk and the scented 'secret garden'. Continue into the wider estate and you can visit the deer parks, explore large areas of woodland and enjoy a waterside stroll along the River Rye. At the National Centre for Birds of Prey you can see owls, falcons, hawks, buzzards and eagles. If you'd like to extend your walk you could follow the Cleveland Way to Rievaulx Abbey. A few miles south east of the park you will find the 17th century manor house of Nunnington Hall. Here you can try the circular Nunnington and the River Rye Walk which explores the countryside surrounding the hall.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Owl House Cafe can be found in the Birds of Prey Centre. There's a selection of freshly made sandwiches, toasted sandwiches and hot soups to enjoy here."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods and parkland on the expansive estate make for a fine dog walk. You will probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the north west you can visit the village of Hawnby and enjoy a climb to the splendid viewpoint at Hawnby Hill. There's wonderful views over Ryedale from this elevated spot. For more walking ideas in the area see the North York Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zOxVJujmT8A?start=83",
   "postcode": "YO62 5EA",
   "district": "Helmsley",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

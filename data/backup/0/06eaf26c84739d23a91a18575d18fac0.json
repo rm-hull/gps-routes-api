@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:30:43.563393+00:00",
   "objectID": "06eaf26c84739d23a91a18575d18fac0",
-  "created_at": "2024-12-18T03:17:04.576148+00:00",
   "ref": "lintrathen-loch-walking-route",
   "title": "Lintrathen Loch Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Loch_of_Lintrathen_-_geograph.org.uk_-_651258.jpg",
@@ -70,8 +70,19 @@
   ],
   "distance_km": 1.0,
   "description": "This lovely reservoir in Angus is a lovely place for a short stroll and some birdwatching. The loch is surrounded by attractive woodland and a number of bird hides. Here you can look out for wildlife including osprey, otter and various wildfowl. To continue your walking in the area head north to Backwater Reservoir. There's a nice circular trail running round the water and the opportunity to pick up the long distance Cateran Trail nearby.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just west of the loch is Peel Farm where there's a nice Coffee Shop for refreshments. You could enjoy a delicious afternoon tea and then enjoy a stroll around the courtyard and farm shop. The area also includes a Nature Trail taking you past the red deer park and then to one of the waterfalls on the River Isla. You can find them at postcode DD8 5JJ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the east you could visit Kirriemuir and the Loch of Kinnordy. The RSPB nature reserve includes a wide variety of wildlife and more nice waterside trails. The remote Loch Shandra is just to the north west."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HIOQXelpyEA",
   "county": "Angus",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

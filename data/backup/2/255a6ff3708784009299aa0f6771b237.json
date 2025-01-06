@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:05:58.894080+00:00",
   "objectID": "255a6ff3708784009299aa0f6771b237",
-  "created_at": "2024-12-18T09:58:35.030433+00:00",
   "ref": "egglestone-abbey-walking-route",
   "title": "Egglestone Abbey Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Egglestone_Abbey_-_geograph.org.uk_-_3120737.jpg/512px-Egglestone_Abbey_-_geograph.org.uk_-_3120737.jpg",
@@ -84,14 +84,21 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Abbey_Bridge_1773_%2C_Egglestone_-_geograph.org.uk_-_241189.jpg",
-      "title": "Hugh Mortimer / Abbey Bridge 1773  : Egglestone",
+      "title": "Hugh Mortimer / Abbey Bridge 1773 : Egglestone",
       "caption": "Abbey Bridge 1773, Egglestone"
     }
   ],
   "distance_km": 5.0,
   "description": "This circular walk visits the remains of the 12th century Egglestone Abbey near Barnard Castle in County Durham. The ancient abbey sits in a scenic riverside location making it an ideal location for a peaceful walk. The site is run by English Heritage and additionally includes a 13th century church. This circular walk starts from the abbey car park where you can directly explore the atmospheric ruins. You can then follow footpaths on both sides of the river to create a circular walk through the area. Cross the river just to the south of the site on Abbey Bridge and you can pick up the Teesdale Way to take you toward Barnard Castle. Other public footpaths will then lead you back to the abbey on the western side of the river. It's about a 5 mile walk on fairly flat paths so should take just under 2 hours to complete.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south east along the river and you will soon come to Greta Bridge and the Meeting of the Waters. It's a scenic spot where the River Tees and the River Greta meet. The village also includes the noteworthy Morrit Arms, an historic hotel dating back to the 17th century. The area has literary connections with Charles Dickens who researched his novel 'Nicholas Nickleby' here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/w8bgwQEqRK8",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

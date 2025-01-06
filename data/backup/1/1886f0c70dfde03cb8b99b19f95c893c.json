@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:03:07.223714+00:00",
   "objectID": "1886f0c70dfde03cb8b99b19f95c893c",
-  "created_at": "2024-12-19T11:37:37.346017+00:00",
   "ref": "loch-humphrey-walking-route",
   "title": "Loch Humphrey Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Loch_Humphrey_-_geograph.org.uk_-_30703.jpg",
@@ -65,8 +65,19 @@
   ],
   "distance_km": 2.5,
   "description": "Enjoy a walk along the pretty Loch Humphrey on this walk in the Kilpatrick Hills. The loch is a very peaceful place for a walk with fine views of the surrounding hills and the nearby Clyde Estuary. There's also some woodland trails on the southern side of the water and a series of smaller lochs nearby. You can find the loch a few miles north east of Dumbarton, near to Duncolm and Clydebank. The loch is also a popular spot for Perch fishing and occasional trout by members of the Bearsden Angling Club, who have a boat and a boatshed at the loch.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At nearby Bowling Harbour there's a nice cafe and the The Bay Inn. The pub can be found at postcode G60 5AQ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east of the reservoir there's Greenside Reservoir, Cochno Loch, Jaw Reservoir and Kilmannan Reservoir to visit. Near here there's also the Burncrooks Reservoir Walk which visits the unusual narrow chasm at the Whangie before heading to the pretty reservoir. Just north of the reservoir there's also something of a hidden gem at the Devil's Pulpit in Finnich Glen. There's a wonderful deep sandstone gorge and rushing waterfall to see in this geologically fascinating area. Head south of the loch to Bowling and there's some nice trails along the River Clyde. You can also visit Bowling Harbour where there's nice walks along the canal. See the Forth and Clyde Canal Walk page for more details."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/OGNHkPO-tRg",
   "county": "West Dunbartonshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

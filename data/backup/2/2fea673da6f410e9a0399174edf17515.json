@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:41:11.558992+00:00",
   "objectID": "2fea673da6f410e9a0399174edf17515",
-  "created_at": "2024-12-18T06:54:14.352002+00:00",
   "ref": "coopers-hill-walking-route",
   "title": "Coopers Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cooper%27s_Hill_-_geograph.org.uk_-_100139.jpg/256px-Cooper%27s_Hill_-_geograph.org.uk_-_100139.jpg",
@@ -80,10 +80,25 @@
   ],
   "distance_km": 3.0,
   "description": "This circular walk takes you around Coopers Hill, site of the famous annual cheese rolling event. The area includes a number of woodland trails, lots of wildlife and nice views over the Gloucestershire countryside from the high points. You can start the walk from the car park, just of Green Street. Then head south to climb to the hill summit which stands at about 240 metres. You can then follow other trails towards High Brotheridge and Buckholt Woods before returning to the car park. See the video below for the full madness of the cheese rolling event!",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "You could head into the nearby Prinknash Abbey Park and enjoy some refreshments at the Monastery cafe. They sell some delicious cakes in a beautiful setting. The cafe is located at Prinknash Abbey, GL4 8EX."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The hill and surrounding woodlands are ideal for a dog walk. The Monastery cafe mentioned above is also dog friendly with water bowls provided."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend the walk by exploring the wider Cranham Woods, heading to the nearby Crickley Hill Country Park or exploring the reservoirs around Birdlip. Just to the south east is English Heritage's Great Witcombe Roman Villa. It was built about AD 250, and lived in until the 5th century. The remains include a bathhouse complex and mosaic pavements.  For more walking ideas in the area see the Gloucestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KEh3wz-92i4",
   "postcode": "GL3 4SB",
   "district": "Cooper's Hill",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

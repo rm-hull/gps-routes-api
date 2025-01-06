@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:47:09.701405+00:00",
   "objectID": "caaf88fd18638c9ae878e66ed9f98e96",
-  "created_at": "2024-12-19T06:55:01.703693+00:00",
   "ref": "singleton-park-walking-route",
   "title": "Singleton Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Singleton_Park_-_geograph.org.uk_-_33207.jpg",
@@ -70,10 +70,21 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a peaceful stroll through the beautiful botanical gardens in this large park in Swansea. The gardens feature Herbaceous borders, a Rock garden, Ornamental gardens, a Japanese bridge, Glasshouses and a Herb garden. There's also a boating lake with pedal boats available for hire. To extend your walk continue south along the Wales Coast Path and visit Clyne Valley Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Botanical Gardens Tea House is located on the northern side of the park. It's a nice place to enjoy a cup of tea and a cake after enjoying the wildflower garden and tropical glasshouses in this area of the park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers so you'll probably bump into other owners on your visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0US9wzP_PvE",
   "postcode": "SA2 8PY",
   "district": "Abertawe / Swansea",
   "county": "Abertawe - Swansea",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:41:13.962209+00:00",
   "objectID": "ec1bc491aaf42468aa3dd548f813bfcc",
-  "created_at": "2024-12-18T11:31:55.767190+00:00",
   "ref": "lochore-meadows-country-park-walking-and-cycle-route",
   "title": "Lochore Meadows Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lochore_Castle_-_geograph.org.uk_-_85020.jpg",
@@ -29,7 +29,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Lochore_Castle_-_geograph.org.uk_-_85020.jpg",
-      "title": "Paul McIlroy / Lochore  Castle, via Wikimedia Commons",
+      "title": "Paul McIlroy / Lochore Castle, via Wikimedia Commons",
       "caption": "Lochore Castle. Standing within Lochore Meadows Country Park this is the remains of a fourteenth century castle."
     },
     {
@@ -59,11 +59,22 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "Enjoy lovely waterside walking and cycling in this country park in Fife.  The centrepiece of park is the beautiful Loch Ore which is surrounded by woodlands, meadows, grasslands, ponds and a Nature Reserve. You can explore the park on four way-marked trails of varying lengths and difficulty. The routes take you to Lochore Castle, Harran Hill Wood (with ancient woodland), Harran Hill (where there are fine views of the park) and over the Clune where there are archaeological features dating back to the Bronze Age. The park is located just north of Cowdenbeath and Dunfermline and just a couple of miles south of Loch Leven. To continue your walking in the area head north to Loch Leven and enjoy the circular heritage trail around the water.",
+  "description": "Enjoy lovely waterside walking and cycling in this country park in Fife. The centrepiece of park is the beautiful Loch Ore which is surrounded by woodlands, meadows, grasslands, ponds and a Nature Reserve. You can explore the park on four way-marked trails of varying lengths and difficulty. The routes take you to Lochore Castle, Harran Hill Wood (with ancient woodland), Harran Hill (where there are fine views of the park) and over the Clune where there are archaeological features dating back to the Bronze Age. The park is located just north of Cowdenbeath and Dunfermline and just a couple of miles south of Loch Leven. To continue your walking in the area head north to Loch Leven and enjoy the circular heritage trail around the water.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Willie Clarke Visitor Centre is also home to the Lochside Caf\u00e9. It offers lovely views across the loch and is open 7 days, offering hot and cold food and drinks. The caf\u00e9 currently serves a selection of breakfast rolls, soup, sandwiches, toasties, hot and cold drinks, cakes and snacks. A takeaway service is also available if you'd prefer to eat outside at the nearby picnic benches."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a couple of miles north east of Dunfermline there's some more peaceful lochside trails along Loch Fitty.  A few miles to the east there's the Cleish Hills to explore around the pretty Loch Glow. A few miles to the north you'll find one of the walking highlights of the area at Maspie Den. The den is located just west of the historic village of Falkland and includes peaceful woodland and series of picturesque waterfalls."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JB-czfKuV14",
   "postcode": "KY5 8AN",
   "district": "Crosshill",
   "county": "Fife",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:24:40.163640+00:00",
   "objectID": "1284e8287477fd544bba5e49bd596eec",
-  "created_at": "2024-12-18T12:58:07.094725+00:00",
   "ref": "peasholm-park-walking-route",
   "title": "Peasholm Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Peasholm_Park_Illuminations_and_the_Tree_Walk_-_geograph.org.uk_-_1725406.jpg",
@@ -65,9 +65,20 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a walk along tree lined paths in this delightful park in Scarborough. The park has nice surfaced footpaths leading you to a pretty lake and gardens with an oriental theme. There's lovely little bridges over the water and a splendid Chinese Pagoda. Just across the road you can continue the walk into Royal Albert Park which leads to the North Sands beach. Just beyond there you will find Scarborough Castle which dates from the 1150s. The coastal path runs around the castle to the harbour with wonderful views over North and South Bay. To extend your walk you can pick up the Cleveland Way on the coast and try the Scarborough to Filey Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe where you can relax and enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a lovely place for a dog walk so you'll probably see other owners with their pets on your visit. You are advised to keep them on leads though."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fG8cQovSFnI",
   "district": "Scarborough",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

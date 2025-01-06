@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:15:23.870519+00:00",
   "objectID": "1e8cc5b2d60b64d4708c9e6477ab60ce",
-  "created_at": "2024-12-18T07:47:28.870982+00:00",
   "ref": "cirencester-park-walking-route",
   "title": "Cirencester Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Polo_at_Cirencester_Park_-_geograph.org.uk_-_18944.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 14.0,
   "description": "Explore 3000 acres of parkland and woodland on this fine circular walk in Cirencester. This extensive park has miles of woodland trails, a large lake and a deer park. You can walk along the wonderful tree lined Broad Ride and visit the 19th century Polo-ground - the oldest in Great Britain. There are also great views into the surrounding Cotswolds countryside. The park entrance is located on the western side of the town centre so is easy to reach. The Monarch's Way and the Macmillan Way both run past the park so you could pick up these trails to continue your walking in the area.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place for a dog walk and the areas where you can walk them are indicated at the park. To protect wildlife, please do not take your dog any further west than the \u2018T-junction\u2019 at the top of the Broad Avenue."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around the Cirencester area, head south from the town to visit the splendid Cotswold Water Park. There's miles of great waterside trails to follow around the lakes here. To the north west of the park you can try our Sapperton Circular Walk and Chalford and the Toadsmoor Valley Walk in a delightul part of the Cotswolds. The pretty village of Frampton Mansell is also not far and well worth a visit.If you were to head to Kemble you would find the Source of the Thames. You can visit the site on foot from the town by following the waymarked Monarch's Way west. It will take you straight to Trewsbury House where you turn south to get to the source. You can also pick up the Thames Path National Trail here. Just to the east there's the villages of Ampney Crucis and Ampney St Peter where you can visit some noteworthy ancient churches."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2Ky9BZsl3S4",
   "postcode": "GL7 2BT",
   "district": "Cirencester",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

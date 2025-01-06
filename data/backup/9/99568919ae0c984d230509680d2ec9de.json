@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:12:26.757234+00:00",
   "objectID": "99568919ae0c984d230509680d2ec9de",
-  "created_at": "2024-12-19T04:55:59.080009+00:00",
   "ref": "chatelherault-country-park-walking-and-cycle-route",
   "title": "Chatelherault Country Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Chatelherault_-_geograph.org.uk_-_119837.jpg",
@@ -79,15 +79,30 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/The_Avon_Water_%28near_Chatelherault%29_-_geograph.org.uk_-_1065331.jpg",
-      "title": "G Laird / The Avon Water (near  Chatelherault)",
+      "title": "G Laird / The Avon Water (near Chatelherault)",
       "caption": "The Avon Water (near Chatelherault) Looking up river from the road bridge which carries the A72 (the main south road the A74 until the late 1960's). The bridge in the foreground is the old Avon Bridge and the bridge in the background carries the recently reopened railway line from Hamilton to Larkhall."
     }
   ],
   "distance_km": 9.0,
-  "description": "Enjoy a cycle or walk around this large country park located between Motherwell and Hamilton.  The park lies along the River Avon gorge with ancient woodland and riverside trails to enjoy. Highlights of the park include the Hunting Lodge and Summer House built in 1732 for the Dukes of Hamilton. In the buildings you will find the visitor centre, the Banqueting Hall and Duke and Duchess Apartments, an Exhibition Gallery with displays, the Gift Shop and Cafe.  There's also a wide variety of wildlife including roe deer, otter, badger and various woodland birds. If you would like to continue your walk/cycle you could follow the River Avon north to the nearby Strathclyde Country Park .",
+  "description": "Enjoy a cycle or walk around this large country park located between Motherwell and Hamilton. The park lies along the River Avon gorge with ancient woodland and riverside trails to enjoy. Highlights of the park include the Hunting Lodge and Summer House built in 1732 for the Dukes of Hamilton. In the buildings you will find the visitor centre, the Banqueting Hall and Duke and Duchess Apartments, an Exhibition Gallery with displays, the Gift Shop and Cafe. There's also a wide variety of wildlife including roe deer, otter, badger and various woodland birds. If you would like to continue your walk/cycle you could follow the River Avon north to the nearby Strathclyde Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park has a visitor centre and cafe where you can enjoy some refreshments after your exercise. In the Oaks Cafe you can purchase a delicious range of sandwiches, toasties, paninis, baguettes, bagels, ciabattas and focaccias."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walking with miles of trails through woodland, parkland and along the river. You will probably see plenty of other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The waymarked Avon Walkway runs through the park so you can extend your outing on this trail. If you were to follow it north you would soon meet with the Clyde Walkway. This trail runs along the River Clyde passing the photogenic ruins of the 13th century Bothwell Castle. Just east of the park there's the Barons Haugh Nature Reserve where there are more riverside trails and lots of wildlife spotting opportunites. A few miles west in East Kilbride there's the delightful Calderglen Country Park. There's more river paths here along the Calder River with pretty waterfalls to see on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/WjF6gpBAA20",
   "district": "Hamilton",
   "county": "South Lanarkshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

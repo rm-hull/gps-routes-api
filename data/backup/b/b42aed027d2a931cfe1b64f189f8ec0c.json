@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:46:37.759533+00:00",
   "objectID": "b42aed027d2a931cfe1b64f189f8ec0c",
-  "created_at": "2024-12-18T16:17:27.026598+00:00",
   "ref": "decoy-country-park-walking-route",
   "title": "Decoy Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Decoy_Country_Park_-_geograph.org.uk_-_1358474.jpg",
@@ -85,10 +85,25 @@
   ],
   "distance_km": 4.5,
   "description": "This is a short walk around the delightful Decoy Country Park in Newton Abbot, Devon. You will pass around the lake and then onto a series of peaceful woodland trails before returning to the start point at the car park. The park includes a Wildlife Discovery Centre, Nature Reserve and a watersports centre. It's located just to the south of the town centre and not far from the train station. To continue your walking in the town try our Newton Abbot Walk. This takes you north from the town along the Stover Canal, leading you to the lovely Stover Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site kiosk where you can pick up drinks, snacks and light bites."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are perfect for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "One nice idea is to head north and pick up the River Teign Walk. You could follow this riverside path east towards Shaldon on the coast and then visit the lovely Labrador Bay RSPB reserve. The River Lemon Walk can be picked up just to the north of the park. The pleasant riverside trail will take you pass the National Trust's Bradley Manor which you can find on the western side of Newton Abbot, about a mile from the park. The medieval limestone manor house has an interesting history and some pleasant trails through the adjacent Bradley Woods. For more walking ideas in the area see the Devon Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/D5UgUdKbvVY",
   "postcode": "TQ12 1DZ",
   "district": "Newton Abbot",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

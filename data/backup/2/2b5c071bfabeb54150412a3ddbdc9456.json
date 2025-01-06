@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:35:34.210125+00:00",
   "objectID": "2b5c071bfabeb54150412a3ddbdc9456",
-  "created_at": "2024-12-18T21:27:46.812176+00:00",
   "ref": "saltburn-valley-gardens-walking-route",
   "title": "Saltburn Valley Gardens Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Folly_in_the_Woodland_Park%2C_Saltburn_-_geograph.org.uk_-_1229210.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 2.0,
   "description": "This attractive park overlooks the lovely coastline at Saltburn in Yorkshire. It contains beautiful formal gardens and woodland with fine views of the ocean. There is also a woodland centre, the Albert Memorial, waterside paths along the Skelton Beck, Victorian Gardens and Italian gardens. The epic Cleveland Way runs right through the park so it's easy to continue your walking if you have time. You could follow it south towards Skelton or east along the coast to Skinningrove on our Saltburn to Whitby Walk. You could also head north west along the coast on our Redcar to Saltburn Beach Walk which visits the nearby village of Marske-by-the-Sea.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site tea rooms where you can enjoy some refreshments after your walk. There's a nice outdoor seating area where you can relax with a view of the park on warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails make for a fine dog walk. You'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east along the coast path and you could visit the popular coastal villages of Staithes and Runswick Bay. Just to the south of the town you can pick up the Cleveland Street Walk. Follow the trail west and it will take you to Guisborough where you can visit the photogenic ruins of the historic Guisborough Priory. Just west of Saltburn there's some peaceful woodland trails to follow around Errington Woods in New Marske. The woods are also a popular spot with bird watchers and mountain bikers. The easy walk along the picturesque Saltburn Gill is another fine local option."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0zA1t0RrUXU",
   "postcode": "TS12 1HH",
   "district": "Saltburn-by-the-Sea",
   "county": "Redcar and Cleveland",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

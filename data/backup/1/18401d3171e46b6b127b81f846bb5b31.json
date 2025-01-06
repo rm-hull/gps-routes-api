@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:41:56.504065+00:00",
   "objectID": "18401d3171e46b6b127b81f846bb5b31",
-  "created_at": "2024-12-18T01:10:44.622175+00:00",
   "ref": "stanborough-park-walking-route",
   "title": "Stanborough Park Lakes Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Egret_%26_Heron_-_Stanborough_Lakes_%2828642090834%29.jpg/512px-Egret_%26_Heron_-_Stanborough_Lakes_%2828642090834%29.jpg",
@@ -24,12 +24,12 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Egret_%26_Heron_-_Stanborough_Lakes_%2828642090834%29.jpg/512px-Egret_%26_Heron_-_Stanborough_Lakes_%2828642090834%29.jpg",
-      "title": "Airwolfhound from  Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "title": "Airwolfhound from Hertfordshire, UK [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Egret & Heron - Stanborough Lakes"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Boathouse_on_Stanborough_Lakes._Welwyn_Garden_City._-_geograph.org.uk_-_80575.jpg",
-      "title": "Robin Hall / Boathouse on Stanborough Lakes.  Welwyn Garden City., via Wikimedia Commons",
+      "title": "Robin Hall / Boathouse on Stanborough Lakes. Welwyn Garden City., via Wikimedia Commons",
       "caption": "Boathouse on Stanborough Lakes. Welwyn Garden City. Taken on a cold November day otherwise there would probably have been people rowing on this lake."
     },
     {
@@ -54,10 +54,17 @@
     }
   ],
   "distance_km": 2.5,
-  "description": "Explore 126 acres of countryside park on the outskirts of Welwyn Garden City at Stanborough Park in Hertfordshire. Attractions include a Watersports Centre, Nature trail, Lakes, a Restaurant and a Coffee Shop. There's also nice waterside paths along the River Lea and the pretty lakes to try. You can extend your walking in the area by continuing along the Lea Valley Walk. If you follow it west you could visit the nearby Lemsford Springs Nature Reserve where there are good wildlife spotting opportunites. Just to the  north there's Sherrardspark Wood where there's lots of good woodland walking trails to try.",
+  "description": "Explore 126 acres of countryside park on the outskirts of Welwyn Garden City at Stanborough Park in Hertfordshire. Attractions include a Watersports Centre, Nature trail, Lakes, a Restaurant and a Coffee Shop. There's also nice waterside paths along the River Lea and the pretty lakes to try. You can extend your walking in the area by continuing along the Lea Valley Walk. If you follow it west you could visit the nearby Lemsford Springs Nature Reserve where there are good wildlife spotting opportunites. Just to the north there's Sherrardspark Wood where there's lots of good woodland walking trails to try.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The waymarked Welwyn Garden City Centenary Walk passes the park. The circular trail is a nice way of exploring the area and visiting some more of the local highlights."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GiZ0qzX3L8Y",
   "postcode": "AL8 6DF",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

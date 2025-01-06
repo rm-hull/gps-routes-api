@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:15:52.294785+00:00",
   "objectID": "bdd3afed4a73cee1a2060898ef624ac4",
-  "created_at": "2024-12-18T00:33:23.989447+00:00",
   "ref": "llyn-brianne-walking-and-cycle-route",
   "title": "Llyn Brianne Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_northern_arms_of_Llyn_Brianne_-_geograph.org.uk_-_540398.jpg",
@@ -22,10 +22,6 @@
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bdd3afed4a73cee1a2060898ef624ac4.gpx",
-  "_geoloc": {
-    "lat": 52.1211403841,
-    "lng": -3.7640111722
-  },
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/13/The_northern_arms_of_Llyn_Brianne_-_geograph.org.uk_-_540398.jpg",
@@ -34,7 +30,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/43/Afon_Tywi_feeding_Llyn_Brianne_-_geograph.org.uk_-_1041550.jpg",
-      "title": "Roger  Kidd / Afon Tywi feeding Llyn Brianne, via Wikimedia Commons",
+      "title": "Roger Kidd / Afon Tywi feeding Llyn Brianne, via Wikimedia Commons",
       "caption": "Afon Tywi feeding Llyn Brianne. About one mile north of here is a weir with a tower containing lime which is automatically released into the river to neutralise its acidity before it enters the reservoir at Llyn Brianne. The cilycwm.com website gives this information: Llyn Brianne reservoir was originally built (1968-1972) to satisfy the growing demands of heavy industry in and around Swansea for water, notably the tin plate works at Felindre and a smelting plant at Llansamlet. Ironically, both these have since closed down and water from Llyn Brianne which is surplus to the Swansea area's needs now goes into the general supply, quenching thirsts all the way from Llanelli, across West and South Wales and as far East as Cardiff."
     },
     {
@@ -44,24 +40,36 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Llyn_Brianne_and_the_Tywi_Forest%2C_Powys_-_geograph.org.uk_-_1041524.jpg",
-      "title": "Roger  Kidd / Llyn Brianne and the Tywi Forest, Powys, via Wikimedia Commons",
+      "title": "Roger Kidd / Llyn Brianne and the Tywi Forest, Powys, via Wikimedia Commons",
       "caption": "Llyn Brianne and the Tywi Forest in autumn, Powys. The yellow-brown hues of the larch trees contrasts with the greens of the other conifers in November."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Llyn_Brianne_through_the_trees%2C_Powys_-_geograph.org.uk_-_1066732.jpg/256px-Llyn_Brianne_through_the_trees%2C_Powys_-_geograph.org.uk_-_1066732.jpg",
-      "title": "Roger  Kidd / Llyn Brianne through the trees, Powys, via Wikimedia Commons",
+      "title": "Roger Kidd / Llyn Brianne through the trees, Powys, via Wikimedia Commons",
       "caption": "View of the lake through the trees.This is towards the northern end of the Tywi arm. If felling of the trees by the water continues, it is likely that replanting will be with native deciduous trees."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Bridleway_near_Llyn_Brianne%2C_Powys_-_geograph.org.uk_-_1501142.jpg/256px-Bridleway_near_Llyn_Brianne%2C_Powys_-_geograph.org.uk_-_1501142.jpg",
-      "title": "Roger  Kidd / Bridleway near Llyn Brianne, Powys, via Wikimedia Commons",
+      "title": "Roger Kidd / Bridleway near Llyn Brianne, Powys, via Wikimedia Commons",
       "caption": "The bridleway from Abergwesyn descends here to the road traversing the slopes above the Tywi arm of Llyn Brianne."
     }
   ],
   "distance_km": 22.0,
   "description": "Enjoy a walk or cycle along this beautiful reservoir in central Wales. The reservoir sits at the head of the River Towy with a dam 299 feet high and 951 feet long. There's a lovely country lane running along the eastern side of the water. It climbs high above the reservoir with wonderful views over the water to the surrounding countryside and hills. The lane is ideal for a quiet cycle ride in beautiful surroundings. The route starts from the car park at the southern end of the water and follows the track through the Tywi Forest before finishing at the bridge at the northern end of the reservoir. Look out for red squirrels as you pass through the forest. You can view the scenery and follow the route using the google street view link below. To extend your walking in the area you could head to the Gwenffrwd-dinas RSPB Nature Reserve which is just to the south of the reservoir. Here you can enjoy great views of the River Towy and look out for red kites and a variety of butterflies. Just to the north west of the lake you will find Soar y mynydd a Calvinist Methodist Church sitting in the valley of the river Camddwr in the Cambrian Mountains. It's claim to fame is that it is the remotest chapel in all Wales. To the north east of the lake you will find the village of Abergwesyn, Vicarage Meadows and the pretty Nant Irfon National Nature Reserve. There's some nice woodland trails here with lots of bluebells in the spring.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head south from the lake into the little village of Rhandirmwyn for some refreshments after your exercise. Here you'll find a lovely old pub in the shape of The Royal Oak Inn. There's a good menu and a nice outdoor seating area with views of the Upper Towy Valley. The cosy interior has a good atmosphere and real log fires. They also provide accommodation so if you need to stay over to further explore the area it's a great choice. You can find the pub in the village at postcode SA20 0NY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lakeside trails and the adjacent forest are ideal for a dog walk. The Royal Oak mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "From the car park at the northern end of the lake you can pick up the Tywi Valley Walk. This will take you north along the river to Dolgoch, with waterfalls, mountains and the option of branching off to explore the expansive Tywi Forest."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/n0kOP8tcmOk",
-  "county": "Sir Ceredigion - Ceredigion",
-  "region": "Wales",
-  "country": "Wales"
+  "gazetteer_found": false
 }

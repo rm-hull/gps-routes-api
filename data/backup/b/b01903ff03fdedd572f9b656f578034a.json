@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:52:07.385490+00:00",
   "objectID": "b01903ff03fdedd572f9b656f578034a",
-  "created_at": "2024-12-18T06:54:07.282389+00:00",
   "ref": "coombe-country-park-walking-route",
   "title": "Coombe Abbey Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Coombe_Abbey_%28geograph_2410448%29.jpg",
@@ -65,9 +65,24 @@
   ],
   "distance_km": 6.0,
   "description": "Explore 500 acres of beautiful gardens, sculptures, woodland and lakes in this country park near Coventry. The park has a number of walking trails taking you through the Wildflower Meadow, the Formal Victorian Gardens and Arboretum, the Capability Brown landscaped deer park and peaceful woodland. There is also a lovely lakeside path with splendid views of Coombe Abbey. The park has very good facilities with a Visitor Centre and Discovery Centre with interactive exhibits. To extend your walking in the area you could visit the nearby Brandon Marsh. This lovely nature reserve has nice footpaths taking you around a series of lakes and lagoons. The Warwickshire Centenary Way long distance trail also runs along the eastern edge of the park. You can pick this up to further explore the countryside surrounding the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe where you can enjoy some refreshments after your walk."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland trails are a great place to bring your dog for a walk with on lead and off lead areas. There are water bowls provided at the visitor centre. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's the suburban village of Binley Woods where you can enjoy some pleasant trails around Brandon Woods. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LtKBvtcIsnE",
   "postcode": "CV3 2AB",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:07:57.261829+00:00",
   "objectID": "bf249e16926212bc5fa57c05f92dc104",
-  "created_at": "2024-12-18T10:08:04.395246+00:00",
   "ref": "ashbury-walking-route",
   "title": "Ashbury Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/High_Street%2C_Ashbury%2C_Oxfordshire_-_geograph.org.uk_-_4525432.jpg/512px-High_Street%2C_Ashbury%2C_Oxfordshire_-_geograph.org.uk_-_4525432.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 16.0,
   "description": "This delightful Oxfordshire village is in a great spot for exploring the surrounding countryside of the Berkshire Downs. It's a very pretty place with quaint thatched cottages, a fine old church, a village pub and lots of great options for walkers. This circular walk from the village uses sections of the D'arcy Dalton Way, the Lambourn Valley Way and The Ridgeway National Trail to visit two of the historic highlights of the area at Wayland's Smithy and the Uffington White Horse. You'll also pass the National Trust's Ashdown House which lies just to the south of the settlement. The 17th-century Dutch-style house is surrounded by scenic woodland and parkland with features including a maze, an ornamental parterre garden and Balleroy Highland ponies. On the route there are also some hill climbs with tremendous views over the surrounding North Wessex Downs AONB.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Rose and Crown is a fine place for some post walk refreshments. The inn includes a charming interior with a cosy fire while outside there's a lovely garden area for warmer weather. You can find them on the High Street at postcode SN6 8NA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The hills and woodland are a great place for fit dogs. The Rose and Crown mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the North Wessex Downs Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/paS-HEHviiY",
   "postcode": "SN6 8NE",
   "district": "Ashbury",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

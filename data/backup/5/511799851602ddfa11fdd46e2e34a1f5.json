@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:46:38.153495+00:00",
   "objectID": "511799851602ddfa11fdd46e2e34a1f5",
-  "created_at": "2024-12-18T14:45:39.540538+00:00",
   "ref": "horton-bank-country-park-walking-route",
   "title": "Horton Bank Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Former_Horton_Bank_reservoir%2C_now_country_park_-_geograph.org.uk_-_850653.jpg",
@@ -85,8 +85,19 @@
   ],
   "distance_km": 1.0,
   "description": "This pretty country park in Bradford has some well laid out walking trails to try. In the park there's a picturesque lake with waterside footpaths and lots of wildlife to see. There are some hills in the park which you can climb for some wonderful views over the surrounding dales countryside and the city of Bradford. You can extend the walk by heading south west and picking up the Bronte Way. The long distance trails could be used to link up with the Calderdale Way to explore the Shibden Valley and the popular Shibden Park near Halifax .",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place to bring your dog for a walk so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles west and there's more nice lakeside trails to be found around Ogden Water on the Pennine Moors. A few miles to the north is the popular Shipley Glen with its old tramway, museum and woodland trails to try. Near here you'll also find Chellow Dene Reservoir."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rb8tnV2lapQ",
   "district": "Bradford",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

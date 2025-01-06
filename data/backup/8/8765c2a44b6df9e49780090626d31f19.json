@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:16:17.363949+00:00",
   "objectID": "8765c2a44b6df9e49780090626d31f19",
-  "created_at": "2024-12-18T07:13:33.178265+00:00",
   "ref": "the-hermitage-woodland-walk-dunkeld-walking-route",
   "title": "The Hermitage Woodland Walk Dunkeld Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Dunkeld_Cathedral_-_geograph.org.uk_-_1505929.jpg",
@@ -29,6 +29,16 @@
       "description": "Loch Treig",
       "objectID": "befce96ab899e3493ca08898655f4a11",
       "ref": "loch-treig-walking-route"
+    },
+    {
+      "description": "Birnam Hill",
+      "objectID": "ddf3ac06805d317f9f38d2b061286b71",
+      "ref": "birnam-hill-walking-route"
+    },
+    {
+      "description": "Birnam Oak",
+      "objectID": "1e410d87bdb55a86d39c81b9c81e6337",
+      "ref": "birnam-oak-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8765c2a44b6df9e49780090626d31f19.gpx",
@@ -80,8 +90,15 @@
   ],
   "distance_km": 6.5,
   "description": "A popular circular walk around the delightful Hermitage Woodland to the west of Dunkeld. The route runs for about 4 miles with magnificent giant Douglas fir trees, the spectacular Black Linn Falls and views of the River Braan to enjoy. The walk starts from the parking area just to the west of Dunkeld near Inver Bridge. Follow the footpath west toward Hermitage Bridge and Ossian Hall. The 18th century folly overlooks the rivers and waterfalls below. The trail continues west to Rumbling Bridge where there are more lovely falls. Here you cross the river and head east through Tomgarrow Wood and the Ladywell Plantation. The route turns north back to the river, where you cross Inver Bridge and return to the car park. To continue your walking in Dunkeld you can pick up the Inver Path and follow a riverside path along the River Tay. You can also try the Tay Forest Park Walk which starts from the car park and heads north through the woodland of Craigvinean Forest.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The climb to Birnam Hill can be found just south of the town. There are some excellent views from this fine vantage point. Heading east along the river will take you to the famous Birnam Oak, an ancient tree mentioned in Shakespeare\u2019s Macbeth. Head east and you could visit the beautiful Loch of the Lowes. The area is a wildlife reserve with nesting ospreys and red squirrels to look out for. The tranquil Loch Clunie and Loch Ordie are also nearby and worth a visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qt1Q9FZG5HY",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

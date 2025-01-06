@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:49:35.703963+00:00",
   "objectID": "4c2f64ca4fc2f9c7b3dcbe8366b01df1",
-  "created_at": "2024-12-19T19:12:42.852172+00:00",
   "ref": "helmsdale-walking-route",
   "title": "Helmsdale Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Helmsdale_Harbour_-_geograph.org.uk_-_6868396.jpg?20241021144019",
@@ -33,9 +33,16 @@
   ],
   "distance_km": 7.0,
   "description": "This walk visits the pretty village of Helmsdale on the east coast of Sutherland. The route takes you along the River Helmsdale which discharges into the Moray Firth at Helmsdale. The walk starts at the picturesque harbour and heads north past the village. The riverside path will then take you north towards Caen Hill with splendid views to the surrounding hills and countryside. You can continue your walking through the Strath of Kildonan by heading west.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south west along the coast and you can pick up the Brora to Golspie Walk along the John O' Groats trail. In this area you can also visit the picturesque Loch Brora. To the north there's the delightful Latheronwheel Fairy Glen, a charming woodland area filled with whimsical \"fairy\" touches created by local volunteers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lAPlBsz-XGQ?si=xEdH2YwXa3L_-oy9",
   "district": "East Helmsdale",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

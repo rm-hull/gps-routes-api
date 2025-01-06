@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:44:32.486389+00:00",
   "objectID": "b7e0771ef41568f896382e726b1d2645",
-  "created_at": "2024-12-18T17:32:23.807966+00:00",
   "ref": "shalford-walking-route",
   "title": "Shalford Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fishing_Lake_and_Church%2C_Shalford_-_geograph.org.uk_-_2600668.jpg/512px-Fishing_Lake_and_Church%2C_Shalford_-_geograph.org.uk_-_2600668.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 1.0,
   "description": "This pretty village is located just north of Braintree in Essex. It's a nice place for a stroll with thatched dwellings, picturesque lakes, a 14th century pub and some nice countryside trails around Shalford Park. The area has artistic connections to War Artist Eric Ravilious whose work was inspired by the surrounding countryside. You can see the Ravilious Bridge over the River Pant just to the south east of the settlement. The local church has a war memorial dedicated to him and there is also a farmhouse he rented shortly before his untimely death in 1942. See the video below for more details. To continue your walking in the area head to nearby Finchingfield. The picture postcard settlement includes a duck pond, a village green, an eighteenth-century windmill and a number of Georgian and medieval cottages.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the George Inn for some refreshments after your walk. The 14th century pub has a nice patio area and roaring log fires indoors. You can find them at postcode CM7 5HH for your sat navs. They have a car parking area and are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9ieis9ELUy0?si=Y97DHBlooXvf9sYj",
   "postcode": "CM7 5HP",
   "district": "Shalford",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

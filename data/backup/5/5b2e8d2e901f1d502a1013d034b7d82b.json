@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:48:59.084267+00:00",
   "objectID": "5b2e8d2e901f1d502a1013d034b7d82b",
-  "created_at": "2024-12-18T16:24:13.041263+00:00",
   "ref": "pathfinder-long-distance-walk-walking-route",
   "title": "Pathfinder Long Distance Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/At_the_entrance_to_RAF_Wyton_-_geograph.org.uk_-_5260346.jpg/512px-At_the_entrance_to_RAF_Wyton_-_geograph.org.uk_-_5260346.jpg",
@@ -75,9 +75,16 @@
   ],
   "distance_km": 74.0,
   "description": "This circular walk in Cambridgeshire is named for the Royal Air Force Pathfinder Force - a group of target-marking squadrons in RAF Bomber Command during World War II. The route takes you to the RAF Pathfinder stations at Wyton, Graveley, Oakington and Warboys. You start from the Wyton Airfield, just east of Huntingdon and west of St Ives. Wyton was the Group Headquarters and has been a military airfield since 1916, when it was used for training by the Royal Flying Corps and then its successor the Royal Air Force. The 46 mile route then takes you through the countryside, visiting a number of pretty villages on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Somersham there's the timber framed Duke of Marlborough for a pit stop. The historic inn dates to the 15th century and has a cosy interior with real fires. There's also a lovely terrace for the summer months. You can find them at postcode IP8 4QA for your sat navs. The pub is dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/83pVbP6GKOQ?si=zZregrKW6_QQ_ehy",
   "postcode": "PE28 2DR",
   "county": "Cambridgeshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

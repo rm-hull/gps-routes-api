@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:03:29.721847+00:00",
   "objectID": "b80f2a2e465f3a3b74c1389a5d8d5a51",
-  "created_at": "2024-12-18T22:13:12.722785+00:00",
   "ref": "slingsby-walking-route",
   "title": "Slingsby Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/The_Grapes%2C_Slingsby_-_geograph.org.uk_-_2947255.jpg/512px-The_Grapes%2C_Slingsby_-_geograph.org.uk_-_2947255.jpg",
@@ -27,12 +27,12 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lawns_Bridge_Slingsby_-_geograph.org.uk_-_3445527.jpg/512px-Lawns_Bridge_Slingsby_-_geograph.org.uk_-_3445527.jpg",
-      "title": "Lawns  Bridge  Slingsby by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Lawns Bridge Slingsby by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lawns Bridge Slingsby"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/All_Saints_Slingsby_built_1869_-_geograph.org.uk_-_3440778.jpg/512px-All_Saints_Slingsby_built_1869_-_geograph.org.uk_-_3440778.jpg",
-      "title": "All  Saints  Slingsby  built  1869 by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "All Saints Slingsby built 1869 by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "All Saints church. The parish church, at the western side of the village, is dedicated to All Saints. The present church was built in the late 1860s in the style of its predecessor on the same site, which was demolished. It is mainly 15th-century in style with Victorian modifications, and is a Grade II listed building. There is also a Methodist Chapel built in 1837 on a site adjacent to the village green. John Wesley himself had preached in Slingsby in 1757."
     },
     {
@@ -53,10 +53,21 @@
   ],
   "distance_km": 9.8,
   "description": "This pretty North Yorkshire village sits just to the east of Hovingham in Ryedale. Local walking highlights include the lakes and woods at nearby Castle Howard and the wonderful Howardian Hills around Terrington. In the village there's a splendid mid 18th century pub for rest and refreshment after your exercise. This circular walk from the village takes you to Slingsby Bank Woods to the south of the settlement. It then picks up a section of the long distance Ebor Way to visit Fryton Woods and Hovingham. Along the way there are peaceful woodland trails, attractive countryside and views of the Wath Beck which runs through the area. Neighbouring Hovingham is particularly appealing with with a historic Saxon Church, a pretty beck and a picturesque cricket pitch by the 18th century Hovingham Hall.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Grapes Inn can be found on Railway St, YO62 4AL. The historic pub dates back to 1759 and is Grade II listed. There's a cosy interior with two log fires and a nice garden area outside. Food is of a high quality and includes excellent pizzas from the wood-fired pizzeria."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and country trails are ideal for dog walking. The Grapes Inn mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/TbpJI2OUWZk",
   "postcode": "YO62 4AJ",
   "district": "Slingsby",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

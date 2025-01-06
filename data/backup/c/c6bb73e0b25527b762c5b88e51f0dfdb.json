@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:04:29.949319+00:00",
   "objectID": "c6bb73e0b25527b762c5b88e51f0dfdb",
-  "created_at": "2024-12-18T21:45:31.138175+00:00",
   "ref": "littondale-walking-route",
   "title": "Littondale Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Stone_Bridge_near_Litton_-_geograph.org.uk_-_319955.jpg",
@@ -70,10 +70,21 @@
   ],
   "distance_km": 7.8,
   "description": "This circular walk explores lovely Littondale in the Yorkshire Dales. The route runs for just under 5 miles with some small climbs on the way. There's lovely river paths and fine views to the surrounding hills to enjoy. The walk starts in the little village of Litton, located on the River Skirfare. From here you can pick up footpath heading north west to Nether Hesleden. You continue following the course of the river to Halton Gill. This little hamlet is situated at the northern end of Littondale. The route then turns around and follows a country lane back to Litton, with more nice river views on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Queens Arms in Litton is a fine place for some post walk refreshments. The country pub is in a delightful spot and includes a garden area with lovely views. They do very good food and have a decent selection of real ale too. You can find them at postcode BD23 5QJ for your sat navs. It's also dog friendly if you have your four legged friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The area is located close to Kettlewell where you can try the circular Kettlewell to Starbotton and Arncliffe Walk. This route visits two pretty villages and explores the more southern section of Littondale. To the north there's the Upper Wharfedale Wildlife Walk from Buckden village. The wildlife rich circular walk explores the area around Yockenthwaite and Hubberholme. The popular climb to Buckden Pike can also be started from here. For more walking ideas in the area see the Nidderdale Walks and the Yorkshire Dales Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lXnXKvAMzZ4",
   "postcode": "BD23 5QJ",
   "district": "Litton",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

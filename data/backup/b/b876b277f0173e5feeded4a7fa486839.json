@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:42:30.497033+00:00",
   "objectID": "b876b277f0173e5feeded4a7fa486839",
-  "created_at": "2024-12-18T21:54:03.169774+00:00",
   "ref": "greenfield-valley-country-park-walking-route",
   "title": "Greenfield Valley Holywell Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Greenfield_Valley_Heritage_Park_%2827450126354%29.jpg/512px-Greenfield_Valley_Heritage_Park_%2827450126354%29.jpg",
@@ -33,10 +33,21 @@
   ],
   "distance_km": 3.0,
   "description": "Explore 70 acres of woodlands, reservoirs, ancient monuments and industrial history near Holywell in North Wales. There is also a museum, maze, adventure treehouse, water play area and Victorian Farm House. The walk also passes the Grade I listed listed ruins of the 12th century Basingwerk Abbey.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Abbey Cafe is located in the park opposite the museum and sells food, ice-cream and hot drinks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great for a dog walk so you'll probably see plenty of other owners on a fine day. The on site museum and cafe are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hvUtjPvHrpE",
   "postcode": "CH8 7EW",
   "district": "Greenfield / Maes-Glas",
   "county": "Sir y Fflint - Flintshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

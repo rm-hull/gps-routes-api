@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:20:06.572299+00:00",
   "objectID": "005c26cd31d3ea7d4d15272a96b33efe",
-  "created_at": "2024-12-18T21:12:10.629006+00:00",
   "ref": "queenswood-country-park-walking-route",
   "title": "Queenswood Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Queenswood_Country_Park_-_geograph.org.uk_-_621543.jpg",
@@ -49,9 +49,24 @@
     }
   ],
   "distance_km": 4.8,
-  "description": "This splendid park is the only designated country park in Herefordshire. At Queenswood you'll find an arboretum, with over 1,200 rare and exotic trees from all over the world. There are a number of waymarked trails as well as a sculpture trail, early autumn tree trail and late autumn tree trail.  Trail highlights include the Lime Avenue, the Autumn and Summer Gardens and Cottrell's Folly. The park is located about 6.5 miles north of the cathedral city of Hereford and 4 miles south of Leominster where you can enjoy some nice trails along the River Lugg. Near here you can also visit Berrington Hall where there are some lovely trails to follow around the 250 acre estate.",
+  "description": "This splendid park is the only designated country park in Herefordshire. At Queenswood you'll find an arboretum, with over 1,200 rare and exotic trees from all over the world. There are a number of waymarked trails as well as a sculpture trail, early autumn tree trail and late autumn tree trail. Trail highlights include the Lime Avenue, the Autumn and Summer Gardens and Cottrell's Folly. The park is located about 6.5 miles north of the cathedral city of Hereford and 4 miles south of Leominster where you can enjoy some nice trails along the River Lugg. Near here you can also visit Berrington Hall where there are some lovely trails to follow around the 250 acre estate.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes an on site cafe where you can enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a lovely place to bring your dog for a walk. You will likely see other owners with their pets on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "On the eastern side of the park you'll find the lovely Bodenham Lake nature reserve. There's some peaceful waterside trails here with lots of water loving wildlife to look out for on the lake. To the west is the delightful village of Weobley where you can see the historic Norman church, several photogenic medieval dwellings and The Ley, a Grade-I listed farmhouse dating to 1589. The Black and White Village Trail can also be picked up here. This long distance footpath explores several of the towns and villages of the county. It's named after the wonderful old timber framed buildings which are typical of the area.  For more walking ideas in the area see the Herefordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/v_LKvYAmHZk",
   "county": "County of Herefordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

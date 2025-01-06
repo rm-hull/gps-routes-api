@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:50:36.575136+00:00",
   "objectID": "b87054083bbdaa1703e13aef01c828f8",
-  "created_at": "2024-12-19T09:53:30.155600+00:00",
   "ref": "ysceifiog-walking-route",
   "title": "Ysceifiog Lake Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Snowy_stone_bridge_-_geograph.org.uk_-_132292.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 3.0,
   "description": "This walk explores the area around the Flintshire village of Ysceifiog, visiting the pretty lake and the surrounding countryside. There's some nice trails along the water with peaceful woodland, streams, a waterfall, a climb to Mynydd Llan and country views to enjoy too.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Fox Inn is a great place for some post walk refreshments. The friendly village pub includes real open fires ond olde world charm. The pub is over 200 years old and serves quality home cooked food. They also You can find them at postcode CH8 8NJ."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/yrUV3NnjCtg",
   "postcode": "CH8 8NL",
   "district": "Ysceifiog",
   "county": "Sir y Fflint - Flintshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

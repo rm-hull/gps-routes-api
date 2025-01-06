@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:31:59.995173+00:00",
   "objectID": "1c69b098e2802ee1c649a83e3b88ec5c",
-  "created_at": "2024-12-18T15:45:48.098165+00:00",
   "ref": "bringsty-common-walking-route",
   "title": "Bringsty Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bringsty_Common_-_geograph.org.uk_-_194898.jpg",
@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/The_Live_and_Let_Live_Inn%2C_Bringsty_Common_-_geograph.org.uk_-_689115.jpg",
       "title": "Philip Halling / The Live and Let Live Inn, Bringsty Common",
-      "caption": "The Live and Let Live Inn, Bringsty Common. After a long period of closure, the Live and Let Live Inn reopened as a pub in November 2007.  having been completely rebuilt. A very attractive reconstruction and a great place to enjoy a meal after your exercise"
+      "caption": "The Live and Let Live Inn, Bringsty Common. After a long period of closure, the Live and Let Live Inn reopened as a pub in November 2007. having been completely rebuilt. A very attractive reconstruction and a great place to enjoy a meal after your exercise"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Bringsty_Common_grassland_-_geograph.org.uk_-_860747.jpg",
@@ -55,8 +55,23 @@
   ],
   "distance_km": 3.0,
   "description": "This large area of common land near Bromyard is a great place for walkers. The area covers over 200 acres with lots of footpaths to follow to the common's lakes, streams and pockets of woodland. Look out for pretty bluebells in the spring and a variety of birdlife on your walk. There's also splendid views towards the Malvern Hills and the surrounding Worcestershire and Herefordshire countryside. You can enjoy refreshments in the common-side cafe or pub after your exercise. It's easy to extend your walk by heading to the Brockhampton Estate which is right next to the common. The 1,700 acre estate has lots of good walking trails, a lake, streams and woodland to explore. The Worcestershire Way runs through Knightwick, just to the east of the common. The path will take you south to Ravenshill Wood and the Suckley Hills. Head north and you can visit Woodbury Hill, the River Teme valley and Abberley .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Live and Let Live is located in a great position right next to the common. The attractive thatched pub has a lovely large beer garden where you can sit out and enjoy a meal with fine views across Bringsty Common to the Malvern Hills."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a popular place for dog walking so you're bound to bump into other dogs on your visit. The Live and Let Live pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west of the common you'll find Bromyard Downs. The Downs are another popular place for walkers with gorse, grassland, woodland, coppice and fine views to the Clee Hills from the high points. For more walking ideas in the county see the Herefordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gmpj8W3cYLA",
   "county": "County of Herefordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:06:01.044190+00:00",
   "objectID": "1695c00b5c8e346413504a32841d942b",
-  "created_at": "2024-12-18T05:54:10.703363+00:00",
   "ref": "john-ray-walk-walking-route",
   "title": "John Ray Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Footpath_junction_on_the_John_Ray_walk_-_geograph.org.uk_-_405616.jpg",
@@ -60,9 +60,16 @@
   ],
   "distance_km": 16.0,
   "description": "Travel along the John Ray Walk from Braintree to Witham on this lovely walk through Essex. You will pass through the delightful countryside of the Brain Valley, the birthplace and home of John Ray. Heralded as the father of English natural history he had a supreme understanding of the natural world. One of Ray's greatest achievements was to lay the foundations for the classification of all living things. At the end of the route you could try the Witham River Walk which continues south along the River Brain to the Whetmead Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of Witham is the pleasant neighbouring village of Wickham Bishops where you'll find an ancient 11th century church and an unusual old wooden railway viaduct."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2nlmxW5yoEo",
   "district": "Braintree",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

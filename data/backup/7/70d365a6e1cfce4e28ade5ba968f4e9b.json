@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:38:02.051775+00:00",
   "objectID": "70d365a6e1cfce4e28ade5ba968f4e9b",
-  "created_at": "2024-12-21T13:29:56.346781+00:00",
   "ref": "jubilee-walkway-walking-route",
   "title": "Jubilee Walkway Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/London_-_Jubilee_Walkway_-_Southwark_Bridge_1921_-_St._Paul%27s_Cathedral_-_ICE_Fisheye.jpg/512px-London_-_Jubilee_Walkway_-_Southwark_Bridge_1921_-_St._Paul%27s_Cathedral_-_ICE_Fisheye.jpg",
@@ -65,10 +65,12 @@
   ],
   "distance_km": 18.0,
   "description": "The capital's premier walking trail designed to connect the majority of London's key attractions. The circular long distance, waymarked trail is a well managed, ideal way of getting to know London. On the route you will pass the Houses of Parliament, St James's Park, Buckingham Palace, The British Museum and several of the famous London bridge's along the River Thames Path .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For cyclists Cycle Superhighway 3 passes through this area. The popular trail runs from Lancaster Gate to Greatfields Park in Barking, passing several of the city's highlights on the way. You could follow it into Hyde Park where there are some lovely traffic free paths to follow."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Jd8_CnWfJ-Y",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/70d365a6e1cfce4e28ade5ba968f4e9b.gpx",
-  "_geoloc": {
-    "lat": 51.5024523068,
-    "lng": -0.1410234376
-  }
+  "gazetteer_found": false
 }

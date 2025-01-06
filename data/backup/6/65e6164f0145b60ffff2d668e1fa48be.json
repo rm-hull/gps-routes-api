@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:17:39.723549+00:00",
   "objectID": "65e6164f0145b60ffff2d668e1fa48be",
-  "created_at": "2024-12-18T17:32:33.954384+00:00",
   "ref": "culverthorpe-walking-route",
   "title": "Culverthorpe Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/View_of_Culverthorpe_Lake_from_footpath_-_geograph.org.uk_-_405725.jpg",
@@ -64,7 +64,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Village_Inn%2C_Oasby._Houblon_Arms_-_geograph.org.uk_-_139872.jpg",
-      "title": "Terry Butcher / Village Inn, Oasby.  Houblon Arms",
+      "title": "Terry Butcher / Village Inn, Oasby. Houblon Arms",
       "caption": "Village Inn, Oasby. Houblon Arms"
     },
     {
@@ -75,8 +75,19 @@
   ],
   "distance_km": 1.6,
   "description": "This circular walk visits Culverthorpe Hall near Grantham in Lincolnshire. In the park you'll find some nice footpaths taking you around a pretty lake with nice views of the surrounding countryside as you go. You'll also pass Culverthorpe Hall, a Grade I listed mansion which dates back to the 18th century. The walk can be extended by heading south west to visit the nearby settlements of Headour and Oasby where there's a nice pub for refreshments.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the west there's the little village of Oasby where you could enjoy some post walk refreshments at the noteworthy Houblon Arms. The country pub is housed in a Grade II listed building dating back to 1650. It was originally call \u2019the Old Red Lion,\u2019 but was later renamed after Sir John Houblon, one of the main landowners in the area and the first governor of the Bank of England. Houblon used to appear on the \u00a350 note until that version was withdrawn in 2014. There's a charming old interior with several original features including oak beams and stone walls. They also have a beautiful garden area for warmer days. You can find them at postcode NG32 3NB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west from the hall and you could enjoy another nice waterside stroll along the Grantham Canal. To the north east is Sleaford where you can enjoy a pleasant walk along the River Slea and pick up the Spires and Steeples long distance footpath. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rSv8KFZz7nA",
   "county": "Lincolnshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

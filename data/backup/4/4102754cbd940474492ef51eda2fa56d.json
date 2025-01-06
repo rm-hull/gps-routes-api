@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:54:16.154336+00:00",
   "objectID": "4102754cbd940474492ef51eda2fa56d",
-  "created_at": "2024-12-18T15:54:16.622186+00:00",
   "ref": "horton-country-park-walking-and-cycle-route",
   "title": "Horton Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Horton_Country_Park_-_geograph.org.uk_-_35094.jpg",
@@ -79,9 +79,24 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "This country park and nature reserve is located near Epsom in Surrey. Here you will find a rural landscape of fields, hedgerows, woods and ponds of great wildlife and historical value.  There are 400 acres of attractive parkland to explore on a series of well laid out trails. The park is open to cycles with lovely flat paths like the one in the video below to enjoy. If you would like to continue your exercise you could head to the nearby Epsom Common or Ashtead Common National Nature Reserve which have more cycling and walking paths. The Three Downs Link and the London Loop trails also run past the park.",
+  "description": "This country park and nature reserve is located near Epsom in Surrey. Here you will find a rural landscape of fields, hedgerows, woods and ponds of great wildlife and historical value. There are 400 acres of attractive parkland to explore on a series of well laid out trails. The park is open to cycles with lovely flat paths like the one in the video below to enjoy. If you would like to continue your exercise you could head to the nearby Epsom Common or Ashtead Common National Nature Reserve which have more cycling and walking paths. The Three Downs Link and the London Loop trails also run past the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Chessington village and you'll find The William Bourne pub. There's a good menu here with a large garden area for warmer days. You can find them in the village on Moor Lane with a postcode of KT9 2BQ for your sat navs.If you'd like to bring your own refreshment then there's a nice picnic area at the site."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is an excellent place for a dog walk and you will probably see plenty of other owners with their pets on your visit. The William Bourne mentioned above also welcomes dogs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Chessington Walk starts from the Chessington South train station just a mile west of the park. It runs past the famous Chessington theme park before visiting Ashtead Common and Epsom Common. It then picks up the London Loop to visit Horton Country Park and Chessington village. The walk is a nice way to explore the surrounding countryside, visit the park and investigate some of the other local highlights using public transport. For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-PbFtjxipms",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

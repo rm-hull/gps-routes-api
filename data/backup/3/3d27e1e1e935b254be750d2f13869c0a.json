@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:56:21.506183+00:00",
   "objectID": "3d27e1e1e935b254be750d2f13869c0a",
-  "created_at": "2024-12-21T05:30:53.139946+00:00",
   "ref": "west-island-way-walking-route",
   "title": "West Island Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Kilchattan_Bay_-_geograph.org.uk_-_3684986.jpg",
@@ -60,10 +60,12 @@
   ],
   "distance_km": 48.0,
   "description": "Explore the beautiful Isle of Bute on this stunning walk. The walk starts near Kilchattan Bay towards the southern end of the island. Here you first head south on a circular loop visiting St Blane's Church and the remains of an ancient monastery. The walk then heads north towards Rothesay, passing a series of lochs on the way. Here you can visit the substantial ruins of the 13th century Rothesay castle. The route continues to the northern part of the island, passing Kilbride Hill before a woodland section. The final section then takes you along the coast and the Kyles of Bute on the eastern part of the island. You'll head south before finishing at Kames Bay in Port Bannatyne.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Five Ferries Cycle Route passes through the island. It uses 5 ferry crossings to explore the Isle of Arran, the Kintyre Peninsula and the Cowal Peninsula. Much of the route is on quiet lanes so suitable for walkers as well. The Rothesay to Ettrick Bay circular walk uses part of the trail to visit the picturesque Ettrick Bay on the western side of the island."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/mLizO1uX5qE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3d27e1e1e935b254be750d2f13869c0a.gpx",
-  "_geoloc": {
-    "lat": 55.7466084343,
-    "lng": -5.0156643511
-  }
+  "gazetteer_found": false
 }

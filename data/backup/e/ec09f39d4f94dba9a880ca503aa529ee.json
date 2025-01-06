@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:37:14.440212+00:00",
   "objectID": "ec09f39d4f94dba9a880ca503aa529ee",
-  "created_at": "2024-12-20T06:18:53.164105+00:00",
   "ref": "tuckenhay-walking-route",
   "title": "Tuckenhay Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Roofs_and_clocktower%2C_Tuckenhay_Mill_-_geograph.org.uk_-_2544775.jpg",
@@ -95,10 +95,25 @@
   ],
   "distance_km": 4.0,
   "description": "Tuckenhay is a pleasant little hamlet in South Devon. It's a nice place to start a walk with a fine local pub, a picturesque old mill and waterside trails along the Bow Creek, one of the River Dart tributaries. This circular walk starts from the car park of The Maltsters Arms pub where you can pick up a section of the Dart Valley Trail. Follow the waymarked footpath east along the Bow Creek and then turn south to visit the neighbouring village of Cornworthy. The route then heads west to Corkscrew Hill before crossing Tuckenhay Bridge and returning to the pub.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Maltsters pub is the start/finish point of the walk. The 18th century pub is located in a lovely riverside spot with fine views over the wide quay. The pub featured in The Times \u2018Best 50 Places to Eat Al Fresco\u2019 and was described by The Independent as \u2018One of Britain\u2019s Best Riverside Locations\u2019. The pub was once owned by the famous TV chef Keith Floyd. They serve fine food and also provide good quality accommodation."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a pleasand dog walk and the Maltsters mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The John Musgrave Heritage Trail runs through the area. The long distance trail takes you to some of the historic highlights of South Devon. You could follow the trail north to visit Totnes and Berry Pomeroy Castle. Just to the north is the Sharpham Estate, a Grade I listed Palladian villa with parkland, gardens and woodland. The estate is now run as a mindfulness retreat but is open to the public on certain days. The beautiful beach at Blackpool Sands is also not far away."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/T2yKbsUMVSo",
   "postcode": "TQ9 7EQ",
   "district": "Tuckenhay",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

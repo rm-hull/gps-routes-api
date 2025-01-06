@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:31:16.070820+00:00",
   "objectID": "abcf4eaf909deba3a26b856cb48995e5",
-  "created_at": "2024-12-19T00:19:59.223331+00:00",
   "ref": "clavering-walking-route",
   "title": "Clavering Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_ford_at_Clavering%2C_Essex_-_geograph.org.uk_-_1932988.jpg/512px-The_ford_at_Clavering%2C_Essex_-_geograph.org.uk_-_1932988.jpg",
@@ -119,16 +119,27 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arkesden._Essex_-_geograph.org.uk_-_2806134.jpg/512px-Arkesden._Essex_-_geograph.org.uk_-_2806134.jpg",
-      "title": "Arkesden.  Essex by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Arkesden. Essex by Derek Voller, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Arkesden. Essex"
     }
   ],
   "distance_km": 10.0,
   "description": "This circular walk explores the countryside to the north of the Essex village of Clavering. The small rural village is a very pleasant place for a stroll with a picturesque cricket pitch, a noteworthy 14th century church, a 16th century pub and some delightful almshouses dating back to the 15th century. On the route you will visit the neighbouring village of Arkesden and enjoy a stretch along the Harcamlow Way, a long distance waymarked footpath running through the area. You'll also pass Clavering Court and the two old windmills which lie just east of the village. Arkesden is another delightful place with a pretty brook, a ford, thatched cottages and another old church to see. To continue your walking in the area follow the Harcamlow Way north east and you could visit nearby Saffron Walden, the fine Tudor buildings at Newport and the wonderful gardens at Audley End. You can also pick up the Saffron Trail and the epic Icknield Way Path in this area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Cricketer's for some post walk refreshments. The pub dates back to the 16th century and serves good quality dishes. You can find them at Wicken Road, Clavering, CB11 4QT."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south and you could try the Bishop's Stortford Canal and River Walk which will take you along the Stort Navigation and the River Lee Navigation. A few miles to the north of here there's also the interesting village of Stansted Mountfitchet. The village includes a number of interesting local attractions including a church dating from the 12th-13th century, an 18th century windmill and a toy museum which claims to be the largest in the world. There's also the noteworthy Mountfitchet Castle which is now run as a wonderful Living History Museum where you can experience life as a villager in 1066. To the north west there's the pretty village of Therfield and the popular Royston Heath. The heath is well worth a vist with its fine viewpoint and interesting wildlife. The site also includes a decent on site cafe with outdoor seating overlooking the heath. To the west is Buntingford where there are number of historic timber framed buildings and the impressive, 19th century Aspenden Hall to see."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/zvhm5SVnWrc",
   "postcode": "CB11 4QN",
   "district": "Clavering",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

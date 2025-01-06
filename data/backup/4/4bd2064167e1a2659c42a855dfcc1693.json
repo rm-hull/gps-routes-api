@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:50:43.172758+00:00",
   "objectID": "4bd2064167e1a2659c42a855dfcc1693",
-  "created_at": "2024-12-18T11:27:51.947015+00:00",
   "ref": "knapps-loch-walking-route",
   "title": "Knapps Loch Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Fishermans_Hut%2C_Knapps_Loch_-_geograph.org.uk_-_706495.jpg",
@@ -60,8 +60,19 @@
   ],
   "distance_km": 1.6,
   "description": "This loch in Kilmacolm in Inverclyde is a lovely place for a peaceful walk. There's a parking area just to the west of the loch, off the Bridge of Weir Road, to the south of Kilmacolm. You can then head east and follow grassy trails around the scenic loch.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The loch is a fine place for a dog walk as they can take a dip in the water and enjoy the surrounding woods."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Inverclyde head to Finlaystone Country Park where there's some nice woodland trails and lots of wildlife to see. To the south there's Castle Semple Loch and the Lochwinnoch RSPB Nature Reserve to explore."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/o5IBzYhJzeI",
   "county": "Inverclyde",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

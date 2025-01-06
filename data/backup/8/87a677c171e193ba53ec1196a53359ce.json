@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:46:34.833557+00:00",
   "objectID": "87a677c171e193ba53ec1196a53359ce",
-  "created_at": "2024-12-18T16:27:38.719913+00:00",
   "ref": "great-rissington-walking-route",
   "title": "Great Rissington Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Cottage_in_Great_Rissington_-_geograph.org.uk_-_1437004.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 2.5,
   "description": "Enjoy a walk from the Great Rissington to Little Rissington on this short walk in the Cotswolds. It's about a 1.5 mile walk through the countryside, using a section of the Donnington Way long distance trail. The villages are located in a lovely part of the Cotswolds with plenty of opportunities for extending your walk. You could head to the picturesque village of Bourton on the Water and pick up the Oxfordshire Way and the Diamond Way long distance trails.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the excellent Lamb Inn for some post walk refreshments. The fine Cotswold stone inn dates back to the 17th century. There's a charming interior and a lovely garden area to sit out in if the weather is fine. You can find the pub in Great Rissington at postcode GL54 2LP for your sat navs. It's also dog friendly if you have your four legged friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For a longer circular walk try the Rissington Round which also starts from Great Rissington. It visits Bourton on the Water and the Cotswolds Carp Farm too. For more walking ideas in the area see the Cotswolds Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/A1brY5-asbA",
   "district": "Great Rissington",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

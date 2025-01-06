@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:05:52.849545+00:00",
   "objectID": "08cea8b165fd73b4fce338356f70285a",
-  "created_at": "2024-12-21T09:54:05.178645+00:00",
   "ref": "lancaster-canal-walking-and-cycle-route",
   "title": "Lancaster Canal Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lancaster_Canal_at_Woodplumpton.jpg/256px-Lancaster_Canal_at_Woodplumpton.jpg",
@@ -95,9 +95,19 @@
   ],
   "distance_km": 91.0,
   "description": "Follow the Lancaster Canal from Preston, in Lancashire, to Kendal, in Cumbria, on this splendid waterside walk or cycle. From the canal there are fine views of the Silverdale Coast, the Forest of Bowland AONB and the lovely Wyre countryside. The route passes Garstang, Lancaster, Morecambe Bay, Bolton le Sands and Carnforth before finishing at Kendal.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/08cea8b165fd73b4fce338356f70285a.gpx",
-  "_geoloc": {
-    "lat": 53.7665004553,
-    "lng": -2.7195634278
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you could stop off at the Wellies Cafe in the Greenlands Farm Village at Tewitfield Marina. Here you can enjoy locally-sourced home cooked fayre in the artisan village where there's also a number of fine shops to browse. You can find it just north of the marina at postcode LA6 1GN for your sat navs. In the village of Bolton le Sands there's the The Royal Hotel to consider. The inn is located in a fine spot next to the canal so you can enjoy your meal in the nice garden area by the water. They serve good quality food and can be found at postcode LA5 8DQ for your sat navs. You could also create a canal circular walk here using a section of the Lancashire Coastal Way which runs parallel to the canal here. At the pretty Conder Green near Glasson Dock there's a lovely picnic site with views of the tidal River Conder. There's also the historic Mill at Conder where you can enjoy some fine dishes in a scenic location. They have seating next to the canal and a lovely garden with countryside views. You can find them on Thurnham Lane at postcode LA2 0BD. At Bilsborrow there's the impressive Owd Nell's/Guy's Thatched Hamlet complex. The canalside 'village' includes a pub, restaurant, hotel and ice cream parlour. There's seats by the water and a nice surfaced towpath along this section of the canal. You can find them at postcode PR3 0RS."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": ""
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the end of the route in Kendal you can visit the historic castle on the Kendal Castle and River Walk. At Glasson Dock you could head a short distance south to explore the lovely Cockerham Sands where you can pay a visit to the historic Cockersand Abbey In Lancaster the canal skirts the edge of the Fairfield Nature Reserve. It's a pleasant place for a walk with wetlands, a lovely apple orchard and lots of birdlife to look out for. You can find the reserve in the Abraham Heights area of the city. For more walking ideas in the area see the Lancashire Walks and the Cumbria Walks pages."
+    }
+  ],
+  "gazetteer_found": false
 }

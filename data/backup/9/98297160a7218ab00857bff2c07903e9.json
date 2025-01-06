@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:05:08.261629+00:00",
   "objectID": "98297160a7218ab00857bff2c07903e9",
-  "created_at": "2024-12-20T02:22:57.011418+00:00",
   "ref": "roydon-common-walking-route",
   "title": "Roydon Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Road_by_Roydon_Common_-_geograph.org.uk_-_544163.jpg/512px-Road_by_Roydon_Common_-_geograph.org.uk_-_544163.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Roydon_Common_National_Nature_Reserve_-_geograph.org.uk_-_2050531.jpg/512px-Roydon_Common_National_Nature_Reserve_-_geograph.org.uk_-_2050531.jpg",
       "title": "Roydon Common National Nature Reserve by Richard Humphrey, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Roydon Common National Nature Reserve. Information boards at the site details the flora and fauna. The common is described by Natural England as \"one of the best examples in Britain of a lowland mixed valley mire\". There are diverse habitats, including wet acid heath, calcareous fen and dry heath on acid sands. Rare plants, birds and insects, include  black bogrush, marsh fern, cranberry and the black darter dragonfly."
+      "caption": "Roydon Common National Nature Reserve. Information boards at the site details the flora and fauna. The common is described by Natural England as \"one of the best examples in Britain of a lowland mixed valley mire\". There are diverse habitats, including wet acid heath, calcareous fen and dry heath on acid sands. Rare plants, birds and insects, include black bogrush, marsh fern, cranberry and the black darter dragonfly."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Looking_down_a_sand_hill_on_Roydon_Common_-_geograph.org.uk_-_1854997.jpg/512px-Looking_down_a_sand_hill_on_Roydon_Common_-_geograph.org.uk_-_1854997.jpg",
@@ -100,8 +100,19 @@
   ],
   "distance_km": 1.5,
   "description": "This lovely large area of heathland has some nice walking trails to try. The best time to visit is in late summer when the beautiful purple heather is out. The common is also a nature reserve so look out for a variety of wildlife as you make your way along the paths. Highlights include over 30 species of butterfly and Dartmoor Ponies which can be seen grazing on the common. There's also some nice woodland trails with birds such as nightjars and woodlarks to keep an eye out for. The reserve is located a few miles north east of King's Lynn where you can pick up a number of different walks. Just to the south of the reserve you can visit Bawsey Pits Country Park where there are nice trails around birch covered hills and a Scandinavian style lake.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a fine place to walk your dog but you are requested to keep them under control because of the livestock. From March to July please keep dogs on a short lead to avoid disturbance to the ground-nesting birds."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a few miles to the north you'll find Sandringham Country Park. The expansive park surrounds the Queen's famous country retreat. In the park you'll find miles of excellent woodland and parkland walking trails. On the western side of the estate there's also the interesting village of Wolferton. Here you can visit the noteworthy Wolferton Railway Station. The now disused station was well known during the 1800\u2019s through its association with the Royal Family who used the station because of its proximity to Sandringham House. There are also trails to pick up around the Dersingham Bog in this area. The reserve is part of the wider Sandringham Royal Estate and includes attractive heathland with interesting flora and fauna to see. Just a couple of miles north west is the village of Castle Rising where you will find the historic 12th century castle. To the south there's the pretty Pentney Lakes and the walk to Shouldham Warren Nature Reserve. For more walking ideas in the area see the Norfolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IfY94plKPiY",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

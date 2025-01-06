@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:59:38.319105+00:00",
   "objectID": "ebbb31676594fc31788e317f3ea92938",
-  "created_at": "2024-12-18T11:24:33.622973+00:00",
   "ref": "leith-hall-gardens-walking-route",
   "title": "Leith Hall Gardens Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Leith_Hall_-_geograph.org.uk_-_1872800.jpg",
@@ -55,9 +55,20 @@
   ],
   "distance_km": 2.5,
   "description": "Explore the mixed woodland and open parkland surrounding the 17th century Leith Hall in Aberdeenshire. There are a number of walking trails to following including the Pond Walk, the Kirkhill Trail, the Craigfall Trail and the Village Linking Path.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The estate is a fine place for a dog walk so you'll probably bump into other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The nearby Fyvie Castle is another lovely place for a walk in the area. The 13th century castle includes splendid grounds with beautiful gardens, woodland trails and the picturesque Fyvie Loch. Near here there's also Gight Castle. There's some nice trails along the Ythan River and the Braes of Gight near this impressive 16th century ruin. Haddo House Country Park is another good local option."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6xPfUNLZahg",
   "postcode": "AB54 4QQ",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

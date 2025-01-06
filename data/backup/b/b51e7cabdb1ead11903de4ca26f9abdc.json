@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:39:27.287972+00:00",
   "objectID": "b51e7cabdb1ead11903de4ca26f9abdc",
-  "created_at": "2024-12-18T01:19:25.026305+00:00",
   "ref": "drumlanrig-castle-walking-route",
   "title": "Drumlanrig Castle Walks and Cycling",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Drumlanrig_Castle_-_geograph.org.uk_-_1369990.jpg",
@@ -115,9 +115,20 @@
   ],
   "distance_km": 2.0,
   "description": "The extensive grounds of this historic castle are a great place for outdoor enthusiasts. There's miles of well laid out walking paths while cyclists can also enjoy some great mountain bike trails. On the way marked walks there's attractive woodland, pretty lochs, fine views of the River Nith and red squirrels to look out for. Cyclists can enjoy red and black routes with world-class single track mtb routes to enjoy. Bike hire is available at the site.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking so you'll probably see other owners on your visit. Please keep them on leads or under close control due to the wildlife and farm animals on the estate."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south east you can continue your walking at Crichope Linn. Here you'll find a lovely waterfall with interesting rock formations and 19th century stone carvings. Near here there's also the picturesque Loch Ettrick. It's a small but very beautiful loch surrounded by attractive woodland trails in the adjacent Ae Forest. The long distance Romans and Reivers Route starts in the forest. This 52 mile route follows the old Roman Roads to Hawick in the Scottish Borders. Following the trail north east will take you to Moffat where you can enjoy a riverside walk along the River Annan on the Annadale Way. A few miles to the east there's the larger Daer Reservoir where there are some nice waterside trails. It is located near the Southern Upland Way long distance trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Kq9bMiu3hXg",
   "postcode": "DG3 4AQ",
   "county": "Dumfries and Galloway",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

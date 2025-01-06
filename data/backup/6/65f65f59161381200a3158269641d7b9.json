@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:35:40.029311+00:00",
   "objectID": "65f65f59161381200a3158269641d7b9",
-  "created_at": "2024-12-19T22:12:12.430313+00:00",
   "ref": "south-norwood-country-park-walking-and-cycle-route",
   "title": "South Norwood Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/National_Cycle_Network_Milepost%2C_South_Norwood_Country_Park.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 2.5,
   "description": "A cycle or walk through this pleasant country park in Croydon. National Cycle Route 21 runs around the park on nice traffic free paths. The park includes wildlfower meadows and a pretty lake with lots of wildlife to look out for. There's good facilites too with a visitor centre and car park. To extend your exercise head north to Cator Park in New Beckenham. Here you can pick up the Waterlink Way which takes you to the River Thames on a series of traffic free paths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a small cafe at the site where you can enjoy some post exercise refreshment."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walking so you will probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south and you could pick up the Croydon Walk which follows the London Loop to Addington Hills, Selsdon Wood and Croham Hurst. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IKq6nQdYztQ",
   "postcode": "BR3 4EJ",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

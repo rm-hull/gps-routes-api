@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:10:53.895246+00:00",
   "objectID": "c057b70841cf430311acb3954099f248",
-  "created_at": "2024-12-18T01:19:28.170723+00:00",
   "ref": "drumpellier-country-park-walking-and-cycle-route",
   "title": "Drumpellier Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Monkland_Canal%2C_Drumpellier_Country_Park_-_geograph.org.uk_-_127544.jpg",
@@ -74,11 +74,26 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "Explore 500 acres of lowland heath, mixed woodlands, lochs and open grassland in this pretty country park located between Glasgow and Airdrie. You can follow the woodland paths to Lochend Loch and Woodend Loch before enjoying a stroll along the Monkland Canal which runs through the southern end of the park.  The park also contains a Visitor Centre, Cafeteria, Peace Garden and Nature trails. National Cycle Network number 75 runs along the southern edge of the park and there is another cycle path running through the park up to the loch. The park is located just to the west of Coatbridge very near to Blairhill railway which is a good point of access.",
+  "description": "Explore 500 acres of lowland heath, mixed woodlands, lochs and open grassland in this pretty country park located between Glasgow and Airdrie. You can follow the woodland paths to Lochend Loch and Woodend Loch before enjoying a stroll along the Monkland Canal which runs through the southern end of the park. The park also contains a Visitor Centre, Cafeteria, Peace Garden and Nature trails. National Cycle Network number 75 runs along the southern edge of the park and there is another cycle path running through the park up to the loch. The park is located just to the west of Coatbridge very near to Blairhill railway which is a good point of access.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the visitor centre there's a nice cafe where you can enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "It's a great place for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west from the park and you could visit the picturesque Hogganfield Loch. The loch is part of the wider Seven Lochs Wetland Park, Scotland's largest urban heritage and nature park. It's a great area for walks and bird watching with several species visiting the lochs. If you head east towards Bathgate you can explore Polkemmet Country Park. You could also pick up the Airdrie to Bathgate Cycle Path and visit the pretty Hillend Reservoir. North of the park you can pick up the Strathkelvin Railway Path near Gartcosh. This shared cycling and walking route runs along a disused railway line to Strathblane, with lovely views of the Campsie Fells on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oG9v8eA0c7k",
   "postcode": "ML5 2HG",
   "district": "Coatbridge",
   "county": "North Lanarkshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

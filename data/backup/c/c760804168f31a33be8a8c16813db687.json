@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:31:48.324580+00:00",
   "objectID": "c760804168f31a33be8a8c16813db687",
-  "created_at": "2024-12-18T01:26:59.425931+00:00",
   "ref": "keele-walking-route",
   "title": "Keele Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Village%2C_Keele_-_geograph.org.uk_-_2591791.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 5.6,
   "description": "This Staffordshire based village is located near Newcastle Under Lyme. The historic village is home to a well known and particularly attractive university campus. This circular walk from the village takes you south east along Lymes Road before exploring the woodland and lakes in the expansive grounds of Keele University. There's 650 acres to explore with colour coded trails taking you to an Arboretum with over 150 species of tree. Click here for an excellent guided walk leaflet telling you all about the flora and fauna you can see here. The route also passes very close to the famous Keele Services, located on the M6, just south of the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Sneyd Arms for some post walk refreshment. They serve good quality home cooked food and have a nice cosy fire for colder days. You can find them at postcode ST5 5AD for your sat navs. They are also dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles north from the village and you will come to Apedale Country Park. The attractive park includes a series of well maintained footpaths taking you to open meadows, secluded woodland glades and silent pools. Just to the east of Stoke there's some nice cycling and walking trails around Park Hall Country Park. The former quarry site is now notable as Stoke on Trent's only National Nature Reserve comprising woodland, heathland and ponds. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lqtPIf6Ftv4",
   "district": "Keele",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

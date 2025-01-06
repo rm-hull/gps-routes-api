@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:32:40.131064+00:00",
   "objectID": "16c3bcc4d2b6761b9134c0475da25125",
-  "created_at": "2024-12-18T09:54:15.835345+00:00",
   "ref": "nowton-park-walking-route",
   "title": "Nowton Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Nowton_Park_-_geograph.org.uk_-_21945.jpg",
@@ -75,9 +75,24 @@
   ],
   "distance_km": 3.0,
   "description": "Explore 200 acres of beautiful Suffolk countryside landscaped in a beautiful Victorian style in this country park in Bury St Edmunds. There are well maintained footpaths taking you around the park with good facilities including a visitor centre and cafe. The park is located just over a mile to the south of Bury St Edmunds town centre so can be easily reached on foot. The Bury to Clare Walk runs just past the park so there is scope for continuing your walk if you have time.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Grounds Cafe serves a good range of food including paninis, toasties, sandwiches, delicious home made soups and jacket potatoes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers so you'll probably see other owners on your visit. The cafe mentioned above is also very dog friendly with dog ice cream made from sausage meat and handmade dog biscuits available. Just a mile to the west of the park you'll find Hardwick Heath which is another good place to take your four legged friend. The 55 acre open space includes a large field where dogs can run around off lead."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Bury St Edmunds Walk starts in the town and visits the park. It also visits the delightful Abbey Gardens, the River Linnet and Hardwick Heath before making its way to the park. A couple of miles to the west there's the National Trust's Ickworth Park. The expansive park is great for walking with 1,800 acres to explore. There's miles of footpaths taking you to lakes, woodland and arable fields. Just to the south east is the Whelnetham Railway Walk along the old Long Melford\u2013Bury St Edmunds branch line. For more walking ideas in the area see the Suffolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2md4ntgclDY",
   "postcode": "IP29 5BD",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

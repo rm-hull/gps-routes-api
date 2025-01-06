@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:02:07.995887+00:00",
   "objectID": "a8ec1dacc66d75d6a7f6a74b2801d452",
-  "created_at": "2024-12-18T05:44:24.244292+00:00",
   "ref": "witton-country-park-walking-and-cycle-route",
   "title": "Witton Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Gate_into_Witton_Park_-_geograph.org.uk_-_349288.jpg",
@@ -55,10 +55,17 @@
   ],
   "distance_km": 4.0,
   "description": "This country park in Blackburn boasts nearly 500 acres of mixed woodland, parkland, grassland and farmland. The circular route below is suitable for walkers and takes you around the park and up to Billinge Hill where there are great views of the surrounding countryside. There is also a cycle track running through the park. The Witton Weavers Way walking route also runs through the park so there is scope for continuing your walk. The park is located just west of Blackburn near to Pleasington railway station.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west along the Witton Weavers Way and you could pay a visit to the nearby Hoghton Tower. The fortified manor house dates from the 16th century and takes its name from the de Hoghton family, its historical owners since at least the 12th century. It's open to the public on certain days and includes lovely grounds and gardens to explore. You can also visit the pretty Samlesbury Bottoms and enjoy riverside trails along the River Darwen in this area. In Blackburn there's a nice waterside walk along Fishmoor Reservoir. For more walking ideas in the area see the West Pennine Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NkcHKC-6rpA",
   "postcode": "BB2 2TR",
   "district": "Blackburn",
   "county": "Blackburn with Darwen",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:35:27.405488+00:00",
   "objectID": "6cdb1462c8b93d131ad7147088960e27",
-  "created_at": "2024-12-18T11:37:47.244491+00:00",
   "ref": "crooksbury-hill-walking-route",
   "title": "Crooksbury Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Crooksbury_Hill_-_geograph.org.uk_-_1217548.jpg",
@@ -65,8 +65,23 @@
   ],
   "distance_km": 1.5,
   "description": "This short circular walk climbs to Crooksbury Hill near Farnham in Surrey. There's a car park directly below the hill where you can pick up a short trail to take you to the hill summit. From here you can enjoy fine views over the surrounding countryside of the North Downs. The route then descends through the pine woodland to the ancient earthwork at Soldiers Ring. You can then follow a bridleway south and then west to return you to the car park. You can extend the walk by heading a short distance south east to Crooksbury Common. Here you'll find some nice woodland and heathland to explore.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Spotted Cow is located just to the west of the hill at Lower Bourne. The pub is wonderfully located in a secluded setting and includes a 4 acre wooded garden. It's the perfect spot to relax outside on a warm day. You can find the pub at 3 Bourne Grove, Lower Bourne with a postcode of GU10 3QT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and heathland in this area are ideal for dog walking. The Spotted Cow mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the hill you'll find the historic Waverley Abbey. There's some nice trails here around the 12th century abbey grounds and along the River Wey. You can also pick up the long distance Greensand Way around here. Just to the east is the expansive Puttenham Common where there are miles of good trails to try."
+    }
+  ],
   "postcode": "GU10 2AZ",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

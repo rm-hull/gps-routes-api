@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:33:55.500444+00:00",
   "objectID": "b3ea11a60464e219c5501a3859134de7",
-  "created_at": "2024-12-18T00:35:48.113907+00:00",
   "ref": "castle-fraser-walking-route",
   "title": "Castle Fraser Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Castle_Fraser_-_geograph.org.uk_-_988465.jpg",
@@ -100,9 +100,24 @@
   ],
   "distance_km": 2.0,
   "description": "This 15th century castle in Inverurie is surrounded by attractive parkland, lovely gardens and peaceful woodland. There are two pleasant waymarked walking trails to follow around the grounds. On the way you can see specimen trees, herbaceous borders and a picturesque pond. Look out for wildlife including swifts, treecreepers, long-tailed tits and coal tits. The castle itself is very photogenic with turrets, balustrades and gables. It is often used as a wedding venue.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site tea room sells a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The grounds are dog friendly and a lovely place to take your pet for a walk. Water bowls can be found in the courtyard and doggy ice cream is available from the shop."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west there's the Pitfichie Forest to explore. In the forest you'll find Tillyfourie Hill and the ancient Whitehills Stone Circle. A little further west there's more local history at the 16th century Craigievar Castle. Here you can explore the attractive grounds of a pink fairytale castle, thought to have been the inspiration for Walt Disney\u2019s Cinderella Castle. The Inverurie Walk will take you along the River Don to the historic Keith Hall Estate to the east of the town. To the south east there's some lovely waterside trails along the Loch of Skene."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_snVNYbEJmQ",
   "postcode": "AB51 7LD",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

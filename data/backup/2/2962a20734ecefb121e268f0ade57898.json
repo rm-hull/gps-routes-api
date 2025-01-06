@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:55:36.735045+00:00",
   "objectID": "2962a20734ecefb121e268f0ade57898",
-  "created_at": "2024-12-21T16:14:49.323937+00:00",
   "ref": "lough-gur-walking-route",
   "title": "Lough Gur Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg/512px-Lough_Gur_visitor_centre_-_geograph.org.uk_-_2037313.jpg",
@@ -53,7 +53,7 @@
     {
       "description": "Castleconnell River Walk",
       "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell river-walk"
+      "ref": "castleconnell\u00a0river-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2962a20734ecefb121e268f0ade57898.gpx",
@@ -100,6 +100,13 @@
     }
   ],
   "distance_km": 1.6,
-  "description": "This walk visits the beautiful Lough Gur in County Limerick near Herbertstown. The peaceful,  horseshoe-shaped lake includes walking trails, picnic areas and sites of archeological interest. You can start your walk from the visitor centre and car park at the northern end of the lake. In the visitor centre there's an interactive multimedia exhibition that brings to life over 6,000 years of archaeology and history. Near here you can also visit the ruins of Bourchier's Castle, named after Sir George Bourchier, the son of the second Earl of Bath. From the car park there are walking paths taking you to the lake and woodland. The area is of historical interest too with the Grange stone circle on the western side of the lake. The ancient site is significant as the largest stone circle in Ireland.",
-  "video_url": "https://www.youtube.com/embed/K6hFLFkCq4o"
+  "description": "This walk visits the beautiful Lough Gur in County Limerick near Herbertstown. The peaceful, horseshoe-shaped lake includes walking trails, picnic areas and sites of archeological interest. You can start your walk from the visitor centre and car park at the northern end of the lake. In the visitor centre there's an interactive multimedia exhibition that brings to life over 6,000 years of archaeology and history. Near here you can also visit the ruins of Bourchier's Castle, named after Sir George Bourchier, the son of the second Earl of Bath. From the car park there are walking paths taking you to the lake and woodland. The area is of historical interest too with the Grange stone circle on the western side of the lake. The ancient site is significant as the largest stone circle in Ireland.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles north east of Limerick there's the climb to Keeper Hill in the Silvermine Mountains. There's excellent views from the summit and a mountain bike trail to try here. The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. To the south east there's the Galty Mountains where you can enjoy a walk to the secluded Lough Curra, climb to the excellent viewpoint at Galtymore Mountain and try the Lake Muskry Trail. In Limerick there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. To the west you can pick up the Limerick Greenway in Rathkeale. The popular cycling and walking route runs along a disused railway line from Rathkeale to Abbeyfeale via Newcastle West. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/K6hFLFkCq4o",
+  "gazetteer_found": false
 }

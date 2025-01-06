@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:36:45.359459+00:00",
   "objectID": "f2b79d07f0ef4f8dfd3cb3f3e150ac14",
-  "created_at": "2024-12-19T23:13:47.990920+00:00",
   "ref": "terling-walking-route",
   "title": "Terling Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Terling_-_geograph.org.uk_-_445024.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 8.0,
   "description": "This pretty Essex village has many picturesque features including a ford on the River Ter, an old windmill, a cricket pitch and cottages around Church Green. This circular walk from the village uses a section of the Essex Way and other country lanes to explore the area. The walk starts in the village centre and passes along the Cricket Green to Flack's Green. You then follow the waymarked Essex Way footpath north west to Sandy Wood and Fuller's Green. Pleasant country lanes then takes you north east to Fairstead where you pick up the Essex Way again. Follow it south and it will take you back to Terling.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Rayleigh Arms for some post walk refreshment. The 1840 pub is one of the dominant buildings in the village. They have a good menu with a cosy interior and log fire. Outside there's a lovely large garden area for warmer days. You can find them at 1 Owl's Hill, CM3 2PW."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Rayleigh Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east you can pick up the Witham River Walk and enjoy a waterside stroll along the River Brain. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/52lFuhkE7XQ",
   "district": "Terling",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

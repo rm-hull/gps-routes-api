@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:15:47.192555+00:00",
   "objectID": "06b453f59ab37628d0a36fbe04982468",
-  "created_at": "2024-12-19T07:29:58.954597+00:00",
   "ref": "fyvie-castle-walking-route",
   "title": "Fyvie Castle Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Fyvie_Castle_-_geograph.org.uk_-_1293202.jpg",
@@ -95,9 +95,24 @@
   ],
   "distance_km": 3.0,
   "description": "This 13th century castle in Aberdeenshire has some splendid walking trails to follow around the surrounding grounds. In the park you'll find well maintained footpaths taking you to beautiful gardens, woodland trails and the picturesque Fyvie Loch. The 18th century loch is a great place for wildlife watching with nesting swans, geese and ospreys to look out for. Inside the castle you can learn all about its history and view a fine portrait collection, antiquities, armour and lavish oil paintings. The castle is in the care of the National Trust for Scotland who charge for entry. You can see more details on the link below.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a delightful on site cafe selling a range of meals and snacks, some with produce grown in the adjacent kitchen garden."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland on the estate make for a fine dog walk so you'll probably see other owners on your visit. You are requested to keep them on leads as you explore the site together."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Aberdeenshire you could head to the National Trust's Haddo House Country Park. There's a formal terrace garden, lakes, monuments, woodland and a deer park to enjoy here. Just a few miles to the west there's another historic local site at Gight Castle. There's some nice trails along the Ythan River and the Braes of Gight near this 16th century ruin. The beautiful Leith Hall Gardens are also not too far away."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/CvbFPqOAYX4",
   "postcode": "AB53 8JS",
   "county": "Aberdeenshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

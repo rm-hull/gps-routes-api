@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:27:10.002586+00:00",
   "objectID": "07c36efe430c0b60686477e83ccbb570",
-  "created_at": "2024-12-18T10:15:28.486362+00:00",
   "ref": "tiddesley-wood-walking-route",
   "title": "Tiddesley Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Footpath_beside_Tiddesley_Wood_-_geograph.org.uk_-_992518.jpg",
@@ -43,8 +43,19 @@
   ],
   "distance_km": 4.0,
   "description": "This walk explores the ancient woodland in Tiddesley Wood in Pershore. The woods are located just to the west of the Worcestershire town and have a number of nice walking trails to explore. They are particularly lovely during the spring months when there are carpets of bluebells, wood anemones, violets and cowslips to see. There's also some nice footpaths around the woods with nice views across the lush green fields typical of the area. You can start the walk from the parking area just to the west of Pershore at the northern end of the woods. From here you can follow a track south and then pick up the trails in the forest. The woods are also the site of a nature reserve so there's lots of wildlife to look out for too. Keep your eyes peeled different woodland birds and a variety of butterflies during the warmer months. There's also an orchard near the main entrance.",
-  "video_url": "https://www.youtube.com/embed/nV7s0yDfGqQ ",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for a dog walk, though you are requested to please keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Pershore Walk visits the historic Pershore Abbey before a riverside walk along the River Avon brings you to the woods. It's a nice way of visiting the site on foot from the town centre. For more walks in the county see the Worcestershire Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/nV7s0yDfGqQ\n",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

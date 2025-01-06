@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:17:55.009630+00:00",
   "objectID": "bfdcde6125fccec93490cb41ba1ce86c",
-  "created_at": "2024-12-21T20:29:12.562719+00:00",
   "ref": "berwickshire-coastal-path-walking-route",
   "title": "Berwickshire Coastal Path Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Cliffs_from_Berwickshire_Coastal_path_-_geograph.org.uk_-_323939.jpg",
@@ -75,10 +75,16 @@
   ],
   "distance_km": 48.0,
   "description": "Follow the Berwickshire Coastal Path from Berwick on Tweed in Northumberland, to Cockburnspath, in the Scottish Borders. There's some spectacular coastal scenery to enjoy as you pass along the Northumberland and Scottish cliff tops. There are also a series of pretty coastal villages with delightful harbours including Burnmouth, Eyemouth, St Abbs and Cove. The Berwick Walls Walk is a worthy walk to do at the start of the route. The short trail exposes you to the fascinating history of the town as you traverse the 16th century walls.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Eyemouth you could stop off at the Ship Inn for some post walk refreshment. The pub is in a great location overlooking the village's picturesque harbour. You can find them at postcode TD14 5HT for your sat navs. The pub is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At St Abbs Head there's a fine visitor centre with information about the area including the geology and wildlife. Look out for Guillemots, Kittiwakes, Puffins and Razorbills on the headland. This section of the path also passes close to Fast Castle. You can take a short detour from the route at Dowlaw to visit the ruins of the 14th century structure which is located on a rocky headland overlooking the sea.Near here the Coldingham Bay to St Abbs and Coldingham Loch Walk will take you on to the pretty Coldingham Loch and into the village of the same name. In Eyemouth you could pay a visit to Gunsgreen House and find out about the town's fascinating smuggling history. The house was built in 1753 and includes a museum and a noteworthy ‘tea chute’- the only one of its kind, where smuggled tea was hidden from prying eyes. You can find the house on Gunsgreen Quay, TD14 5SD."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/7h5ZqS9XOMo",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/bfdcde6125fccec93490cb41ba1ce86c.gpx",
-  "_geoloc": {
-    "lat": 55.7684905287,
-    "lng": -1.9926107408
-  }
+  "gazetteer_found": false
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:51:06.473014+00:00",
   "objectID": "57838da3fb5aaeb7ebc414bfb4065a43",
-  "created_at": "2024-12-21T12:23:05.364294+00:00",
   "ref": "hafod-estate-walking-route",
   "title": "Hafod Estate Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg/512px-Information_display%2C_Hafod_car_park_-_geograph.org.uk_-_3968624.jpg",
@@ -70,11 +70,22 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Arch%2C_near_Cwmystwyth%2C_Ceredigion_-_geograph.org.uk_-_1221622.jpg",
-      "title": "Roger  Kidd / The Arch, near Cwmystwyth, Ceredigion",
+      "title": "Roger Kidd / The Arch, near Cwmystwyth, Ceredigion",
       "caption": "The Arch, near Cwmystwyth, Ceredigion. This stone arch on the former Hafod estate was constructed by Thomas Johnes in 1810. Following recent damage by a road vehicle it was decided to divert the road to the south, and preserve this superb artefact more safely. The bank in the foreground leads down to the arch's new by-pass. Traffic is now prevented from going through the arch."
     }
   ],
   "distance_km": 5.0,
   "description": "This National Trust managed estate is located in the Ystwyth valley in Ceredigion. The 18th century estate is a fine place for walkers with a network of waymarked footpaths taking you through attractive wooded gorges. Features include riverside trails, cascading waterfalls, restored gardens and photogenic bridges over rocky gorges. The area is also great for wildlife with notable birds including goshawks, buzzards, red kites and kingfishers to look our for. You may also see otters in the river or pine martens and roe deer in the woodland area. This circular walk starts from the estate car park where there is a detailed information board and a map of the area. You'll then follow sections of the Lady's Walk and the Gentleman's Walk through the woodlands and along the Ystwyth River. On the way you will also visit the rushing Rhaeadr Peiran which is a splendid sight after rainfall. To continue your walking in the area head a few miles north to visit Devil's Bridge Falls. Here you can climb the steep stone steps of Jacob's Ladder and enjoy some fine views of the gushing waterfalls.",
-  "video_url": "https://www.youtube.com/embed/UbjjJnoBwuo"
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the north there's The Hafod hotel for some post walk refreshments. The 18th century hotel has a great menu and some stunning views of the surrounding area. You can find them at postcode SY23 3JL for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "There's miles of woodland trails that are absolutely ideal for dog walking. You will probably meet other owners on a fine day. The Hafod Hotel mentioned above is also dog friendly."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/UbjjJnoBwuo",
+  "gazetteer_found": false
 }

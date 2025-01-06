@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:10:27.173599+00:00",
   "objectID": "c8f23d0512600d01650d2850489b7123",
-  "created_at": "2024-12-18T01:47:59.272921+00:00",
   "ref": "bursledon-walking-route",
-  "title": "Bursledon Walks Walking Route",
+  "title": "Bursledon\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bursledon_-_geograph.org.uk_-_11425.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c8f23d0512600d01650d2850489b7123.gpx",
   "_geoloc": {
@@ -53,9 +53,16 @@
   ],
   "distance_km": 1.0,
   "description": "This Hampshire village is located on the River Hamble, near Southampton, in the borough of Eastleigh. Local walking highlights include the nearby River Hamble Country Park where there's some lovely woodland trails and the historic Manor Farm and Country Park to explore. You can reach the park by following the Strawberry Trail from the village. On the other side of the river there's Swanwick Lakes Nature Reserve where there's lots of easy paths and plenty of wildlife to see. This walk in the village visits the Bursledon Windmill. The Grade II* listed mill dates to 1814 and has been restored to working order. On certain days you can tour the windmill and then enjoy a stroll around Windmill Wood where there's a brass rubbing nature trail. There's also the old Chineham Barn, and the Hiltingbury Granary, an 18th century farm building.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head towards the river and you could visit the Jolly Sailor. The 18th century riverside pub has a lovely terrace overlooking the Hamble Marina. There's also a charming old interior with old beams and exposed brickwork. You can find them at postcode SO31 8DN for your sat navs. The pub is dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_wS0XK2XazI?si=W7wMCQuU2ubVAEyd",
   "district": "Bursledon",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

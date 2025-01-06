@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:55:07.744174+00:00",
   "objectID": "57395e6cc22b5dc50d062ba5c1e12469",
-  "created_at": "2024-12-18T19:11:57.470771+00:00",
   "ref": "parc-bryn-bach-walking-and-cycle-route",
   "title": "Parc Bryn Bach Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Park_entrance_-_geograph.org.uk_-_1671548.jpg",
@@ -60,10 +60,25 @@
   ],
   "distance_km": 3.5,
   "description": "Enjoy waterside cycling and walking in this lovely country park in Tredegar. In the park you can enjoy a 2.2km scenic lakeside cycle/walking trail, a 2km single woodland cycle track and a National Standard BMX Track. Cycle hire is available within the park. To continue your walking in the area head north to pick up the circular Trefil Quarry Walk. There's some fine trails around the unusual landscape of the quarry with excellent views over the Sirhowy Valley and the mountains of the Brecon Beacons National Park. Trefil is also significant as the highest village in Wales.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good lakeside cafe at the site where you can enjoy a range of refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place to bring your dog for a walk so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south you can pick up the Ebbw Valley Walk and follow it along the river to the lovely Sirhowy Valley Country Park. The Rhymney Valley Ridgeway Walk and the Sirhowy Valley Ridgeway Walk can also be picked up nearby."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-a7dK992aZw",
   "postcode": "NP22 3HU",
   "district": "Tredegar",
   "county": "Blaenau Gwent - Blaenau Gwent",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

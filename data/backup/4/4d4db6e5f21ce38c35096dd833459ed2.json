@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:15:32.526334+00:00",
   "objectID": "4d4db6e5f21ce38c35096dd833459ed2",
-  "created_at": "2024-12-18T19:54:14.452458+00:00",
   "ref": "clayfield-copse-walking-route",
   "title": "Clayfield Copse Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clayfield_Copse_-_geograph.org.uk_-_9228.jpg/256px-Clayfield_Copse_-_geograph.org.uk_-_9228.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Clayfield_Copse_-_geograph.org.uk_-_9228.jpg/256px-Clayfield_Copse_-_geograph.org.uk_-_9228.jpg",
       "title": "Rosalind Mitchell / Clayfield Copse",
-      "caption": "Clayfield Copse.  A piece of woodland enclosed within the Reading borough boundary and maintained by the local authority for recreation. Reading has many pockets of woodland even well within the urban area."
+      "caption": "Clayfield Copse. A piece of woodland enclosed within the Reading borough boundary and maintained by the local authority for recreation. Reading has many pockets of woodland even well within the urban area."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Wood_sculpture_in_Clayfield_Copse_-_geograph.org.uk_-_1407381.jpg",
@@ -70,10 +70,17 @@
   ],
   "distance_km": 1.5,
   "description": "This attractive area of woodland is located in Caversham, to the north of Reading. The local nature reserve is a pleasant place for a stroll with woodland paths, a sculpture trail and wildflower meadows to enjoy. The site also includes Blackhouse Wood, just to the east.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking head south and pick up the Thames Path on the Caversham Walk. You can also visit the splendid Caversham Court Gardens where there's more easy trails to try. In Reading you can also pick up the Reading Canal Walk and the Reading Circular River Walk to explore the area further on foot. For more walking ideas in the area see the Berkshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ZFE84xQUJMU",
   "postcode": "RG4 8XR",
   "district": "Caversham",
   "county": "Reading",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

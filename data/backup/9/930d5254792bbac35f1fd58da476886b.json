@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:41:58.760298+00:00",
   "objectID": "930d5254792bbac35f1fd58da476886b",
-  "created_at": "2024-12-18T01:49:26.524868+00:00",
   "ref": "felley-priory-walking-route",
   "title": "Felley Priory Woods Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Daffodils_at_Felley_Priory_Gardens_-_geograph.org.uk_-_2404376.jpg/512px-Daffodils_at_Felley_Priory_Gardens_-_geograph.org.uk_-_2404376.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits the historic Felley Priory near Underwood in Nottinghamshire. The priory is a lovely place for a stroll with beautiful gardens and woodland trails with lots of bluebells in the spring months. The site dates all the way back to the 12th century although the current house is from the 15th century. In the garden you'll find gorgeous herbaceous borders, splendid topiary and a stunning carpet of Daffodils during early spring.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Farmhouse tea room is a fine place to relax after your walk."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Only guide dogs are permitted in the grounds."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a mile to the south you can continue your walking around Moorgreen Reservoir. There's a pleasant waterside path and adjacent woodland trails to explore here. There's also a series of pretty lakes at Hucknall's Bestwood Country Park. A few miles to the east you can pick up the circular Papplewick Walk and visit another historic local highlight at Newstead Abbey. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0ZSV0mBCLR0",
   "postcode": "NG16 5FJ",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

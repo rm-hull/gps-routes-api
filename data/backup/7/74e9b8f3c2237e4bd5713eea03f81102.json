@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:33:59.636217+00:00",
   "objectID": "74e9b8f3c2237e4bd5713eea03f81102",
-  "created_at": "2024-12-19T06:55:22.791394+00:00",
   "ref": "pontardawe-walking-route",
-  "title": "Pontardawe Walks Walking Route",
+  "title": "Pontardawe\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Pontardawe_War_Memorial_-_geograph.org.uk_-_3998819.jpg/512px-Pontardawe_War_Memorial_-_geograph.org.uk_-_3998819.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/74e9b8f3c2237e4bd5713eea03f81102.gpx",
   "_geoloc": {
@@ -53,10 +53,17 @@
   ],
   "distance_km": 8.8,
   "description": "This town in the Swansea Valley has some nice riverside and canalside paths to try. This walk from the town takes you along the Swansea Canal and the River Tawe towards Ystalyfera and Gurnos. On the way there's lots of pretty locks and bridges over the canal and river to see. The walk follows the waymarked St Illtyd's Walk for most of the way. This long distance trail could also be followed south through the Crynant Forest part way along the route.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head to Cwm Clydach National Nature Reserve. There's a wonderful river gorge and lots of interesting flora and fauna to see here. Head west and you can visit Pontarddulais and enjoy a climb to the viewpoint at Graig Fawr. Cyclists can pick up National Cycle Route 43 which runs north to Caehopkin where you link with the popular Celtic trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gvuk6zQoEGQ",
   "postcode": "SA8 4PX",
   "district": "Pontardawe",
   "county": "Castell-nedd Port Talbot - Neath Port Talbot",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:57:09.200146+00:00",
   "objectID": "44bf2fb78ac7c194417e29e47fd545c7",
-  "created_at": "2024-12-19T05:45:04.276662+00:00",
   "ref": "great-torrington-walking-route",
   "title": "Great Torrington Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Great_Torrington_Pannier_Market_-_geograph.org.uk_-_665169.jpg",
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/An_obelisk_erected_to_commemorate_the_Battle_of_Waterloo_-_geograph.org.uk_-_1557779.jpg/256px-An_obelisk_erected_to_commemorate_the_Battle_of_Waterloo_-_geograph.org.uk_-_1557779.jpg",
       "title": "Roger A Smith / An obelisk erected to commemorate the Battle of Waterloo",
-      "caption": "An obelisk erected to commemorate the Battle of Waterloo. The battle was fought on Sunday, 18 June 1815, near Waterloo in the United Kingdom of the Netherlands, now in Belgium.  A French army under the command of Napoleon was defeated by a British army under the command of the Duke of Wellington and a larger Prussian army under the command of Field Marshal von Bl\u00fccher."
+      "caption": "An obelisk erected to commemorate the Battle of Waterloo. The battle was fought on Sunday, 18 June 1815, near Waterloo in the United Kingdom of the Netherlands, now in Belgium. A French army under the command of Napoleon was defeated by a British army under the command of the Duke of Wellington and a larger Prussian army under the command of Field Marshal von Bl\u00fccher."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Leaving_Taddiport_over_the_river_Torridge_-_geograph.org.uk_-_1557791.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 2.4,
   "description": "This attractive historic town in Devon is a lovely place to explore on foot. With a wonderful old market place, several listed buildings, riverside trails, and a fine local park there's plenty to enjoy for the walker. This circular walk in the town visits the viewpoint at Castle Hill and the monument to the Battle of Waterloo. You can pick up some pleasant footpaths on the southern side of the town which will take you up to Castle Hill. Here you can enjoy some splendid views over the River Torridge valley and the surrounding countryside. Near here there's also an obelisk monument commemorating the Battle of Waterloo which took place in 1815. Great Torrington is located just a few miles south of Bideford, Instow and Appledore. You can pick up the epic Tarka Trail on the western side of the town and follow it north to visit these neighbouring settlements.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to The Torrington Arms for some post exercise rest and refreshment. The pub serves a fine Sunday lunch and has some outdoor seating. You can find them on New Street at postcode EX38 8BX."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park and hill are a fine place for a dog walk. The Torrington Arms mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/iE6fdzDZrRw",
   "postcode": "EX38 8AA",
   "district": "Great Torrington",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

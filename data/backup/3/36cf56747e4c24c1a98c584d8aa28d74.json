@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:23:33.617013+00:00",
   "objectID": "36cf56747e4c24c1a98c584d8aa28d74",
-  "created_at": "2024-12-21T20:13:29.534550+00:00",
   "ref": "ballyboley-forest-walking-route",
   "title": "Ballyboley Forest Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ballyboley_forest_near_Larne_%2810%29_-_geograph.org.uk_-_533508.jpg",
@@ -59,6 +59,11 @@
       "description": "Cushendun Caves",
       "objectID": "2f091488e3d1581c0af7ad469e5e5e60",
       "ref": "cushendun-caves-walking-route"
+    },
+    {
+      "description": "Antrim Six Mile Water",
+      "objectID": "de711208ae631b4d8d1738993e86a1a5",
+      "ref": "antrim-six-mile-water-walking-and-cycle-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/36cf56747e4c24c1a98c584d8aa28d74.gpx",
@@ -106,5 +111,12 @@
   ],
   "distance_km": 9.5,
   "description": "This walk explore Ballyboley Forest near Ballyclare in County Antrim. The expansive forest is about a 30 minute drive north from Belfast so makes for a pleasant day trip from the city. The walk starts at the Kilylane Reservoir car park at the western side of the site. Here you can pick up some pleasant trails running along the water towards the woodland. There's a nice circular loop walk to follow along the forest tracks and the pretty Kilylane Burn. It's a peaceful place with lots of woodland birds and views of the Antrim Hills. To continue your walking in the area head a few miles south east to visit Woodburn Forest and Reservoirs in Carrickfergus.",
-  "video_url": "https://www.youtube.com/embed/rvZPFZxDgJE"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you will soon come to the coast where you could visit the Blackhead Lighthouse. There's some fine coastal trails around the lighthouse with views over the Belfast Lough. The popular and dramatic Gobbins Cliff Path can also be picked up in this area. Also nearby is the Glenoe Waterfall. The picturesque falls are located in the pretty village of Glenoe in County Antrim. It's a fine place for a walk with pleasant trails taking you through peaceful woodland to the 30ft high waterfall. To the north there's Glenarm where you can visit the historic Glenarm Castle and enjoy a walk around their beautiful grounds and gardens. Near here there's more fine coastal views and an ancient ruined church in Cushendall. The dramatic Cushendun Caves are another good option in this area. To the south west there's Antrim where you can try the Antrim Six Mile Water Walk. The pleasant riverside path will take you to the lovely grounds of the historic Antrim Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/rvZPFZxDgJE",
+  "gazetteer_found": false
 }

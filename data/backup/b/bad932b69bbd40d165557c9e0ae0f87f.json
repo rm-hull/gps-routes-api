@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:03:24.433464+00:00",
   "objectID": "bad932b69bbd40d165557c9e0ae0f87f",
-  "created_at": "2024-12-19T15:33:06.089444+00:00",
   "ref": "codicote-walking-route",
   "title": "Codicote Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Codicote_Village_-_geograph.org.uk_-_24287.jpg",
@@ -52,11 +52,26 @@
     }
   ],
   "distance_km": 9.0,
-  "description": "This attractive Hertfordshire based village is located near Hitchin, Stevenage, Welwyn Garden City and Harpenden in the county. It's a nice place for a walk with river trails, lovely Chilterns  Hills countryside and some historic timber-framed buildings to see in the village. This walk from Codicote takes you through the River Mimram Valley to the delightful Hoo Park, which lies just to the north west of the settlement. The park is very pretty with a photogenic old bridge over the river, glorious countryside views and bluebell woods to enjoy. On the way you'll also pass the Ford at Kimpton Mill, another fine spot on the river. To continue your walking around Codicote head east to visit Knebworth Country Park. There's 250 acres of wonderful parkland surrounding the historic Knebworth House here.",
+  "description": "This attractive Hertfordshire based village is located near Hitchin, Stevenage, Welwyn Garden City and Harpenden in the county. It's a nice place for a walk with river trails, lovely Chilterns Hills countryside and some historic timber-framed buildings to see in the village. This walk from Codicote takes you through the River Mimram Valley to the delightful Hoo Park, which lies just to the north west of the settlement. The park is very pretty with a photogenic old bridge over the river, glorious countryside views and bluebell woods to enjoy. On the way you'll also pass the Ford at Kimpton Mill, another fine spot on the river. To continue your walking around Codicote head east to visit Knebworth Country Park. There's 250 acres of wonderful parkland surrounding the historic Knebworth House here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Goat Inn is good place for rest and refreshment after your exercise. The building dates back to 1590 with the pub dating back to the 18th century. They do a fine Sunday roast and can be found on the High Street at postcode SG4 8XE for your sat navs. There's also The Globe on the High Street. It's another quintessentially English village pub with a pleasant little garden to sit in."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk. The Goat and the Globe pubs mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south is the neighbouring village of Ayot St Lawrence which is well worth a visit. The historic village has strong connections with the playwright George Bernard Shaw. You can visit Shaw's house which is now run by the National trust. The Hertfordshire Way long distance path can also be picked up here. Also to the south is Wheathampstead where you can enjoy riverisde trails along the Lea Valley Walk and pay a visit to Brocket Hall."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/W6ZLpuuXq3w",
   "postcode": "SG4 8WP",
   "district": "Codicote",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

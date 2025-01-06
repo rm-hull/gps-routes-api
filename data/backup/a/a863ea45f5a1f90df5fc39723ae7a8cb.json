@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:25:55.179355+00:00",
   "objectID": "a863ea45f5a1f90df5fc39723ae7a8cb",
-  "created_at": "2024-12-18T19:11:07.856691+00:00",
   "ref": "coverack-walking-route",
   "title": "Coverack Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Coverack_Harbour_from_the_beach_-_geograph.org.uk_-_654574.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 3.0,
   "description": "This walk explores the coast around the delightful Cornish village of Coverack. The fishing port sits on the east side of the Lizard peninsula, just south of the popular town of Falmouth. The walk starts at the car park in the village and then picks up the South West Coast Path to take you along the picturesque harbour and the beach. You'll then pass along Dolor Point, Perprean Cove, The Oxon and Polgravel before coming to the headland at Chynhalls Point. There's great views back to the village from this lovely spot. You then pass along Porthbeer Cove before alternative footpaths take you back to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the splendid Paris Hotel for post walk refreshment. The hotel was built by the Redruth Brewery back in 1907 and was named after the liner SS PARIS which ran aground on the headland on whit Monday 1899. They serve good quality food which you can enjoy in the garden area with a sea view. You can find them at postcode TR12 6SX for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The coastal trails make for a bracing dog walk and the Paris Hotel mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west along the coast path and it will take you to Cadgwith and Lizard Point where you can pick up the popular Lizard Point to Kynance Cove Walk and the Mullion Cove to Lizard Point Walk. Just west of Falmouth there's a good circular trail to follow around Argal Reservoir near Penryn. There's also the ancient Mabe church and a boardwalk on the adjacent College Reservoir to see here. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/YamHgqPoSzI",
   "postcode": "TR12 6TF",
   "district": "Coverack",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

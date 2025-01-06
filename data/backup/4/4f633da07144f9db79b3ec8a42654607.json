@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:17:49.338353+00:00",
   "objectID": "4f633da07144f9db79b3ec8a42654607",
-  "created_at": "2024-12-18T16:28:12.063303+00:00",
   "ref": "quiraing-walking-route",
   "title": "Quiraing Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Schotland_Quirang_14-05-2010_14-32-25.JPG/512px-Schotland_Quirang_14-05-2010_14-32-25.JPG",
@@ -70,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/The_Prison_-_geograph.org.uk_-_945815.jpg",
       "title": "John Allan / The Prison",
-      "caption": "The Prison. A pyramidal rocky peak which looks like a medieval keep when viewed from the right angle \u2013 the ascent of this is quite a challenging scramble.  Looking from the centre of the Prison to the sharp peak of its western summit. Behind it is the cliffline of Meall na Suiramach"
+      "caption": "The Prison. A pyramidal rocky peak which looks like a medieval keep when viewed from the right angle \u2013 the ascent of this is quite a challenging scramble. Looking from the centre of the Prison to the sharp peak of its western summit. Behind it is the cliffline of Meall na Suiramach"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/View_south_east_from_near_Meall_na_Suiramach_-_geograph.org.uk_-_606646.jpg",
@@ -90,8 +90,15 @@
   ],
   "distance_km": 6.0,
   "description": "This classic Isle of Skye circular hike climbs to the Quiraing in the northern part of the island. The Quiraing is notable as the northernmost summit of the Trotternish on the island. The views from this distinctive landscape are simply stunning making it a walking highlight of the country. The route runs for about 4 miles so the time to walk it all should take between 2-4 hours depending on your experience level. You can start the walk from The Quiraing Car Park located at a postcode of IV51 9LB for your sat navs. Then follow the trails north east to visit the Prison and the Needle before looping around to complete the circuit.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For another fine climb on the island head to the wonderful Old Man of Storr. The delightful Fairy Pools, Fairy Glen, the Falls Of Rha and the Uig Woodland Walk are other less strenuous but worthy walks on the island. Just to the east is Kilt Rock And Mealt Falls where there's a pretty loch, some wonderful rock formations and a coastal waterfall to see. Head south east and you can visit the Island's capital at Portree. Here you can pick up the circular Portree Scorrybreac Walk and enjoy views of the picturesque harbour, the colourful buildings of Portree town and out to the Island of Raasay. For more walking ideas in the area see the Isle of Skye Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xHlHo86Lr_A",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

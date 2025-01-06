@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:45:45.362555+00:00",
   "objectID": "267b3c34ca0951989aa9511c3185eec1",
-  "created_at": "2024-12-18T11:37:32.734256+00:00",
   "ref": "ham-house-richmond-walking-route",
   "title": "Ham House Richmond Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ham_House_-_geograph.org.uk_-_587471.jpg",
@@ -64,11 +64,26 @@
     }
   ],
   "distance_km": 6.0,
-  "description": "Explore the pretty gardens surrounding this 17th century house in Richmond.  The recently restored gardens include a productive kitchen garden with many heritage crops, the maze-like 'Wilderness', an orangery and a number of summerhouses. The house is located by the River Thames so you can enjoy a riverside walk before heading to the nearby Ham Common. Inside Ham House there is a superb collection of paintings, furniture and textiles, acquired over 400 years ago. After your visit you could catch Hammerton's Ferry from just outside the house to the other side of the Thames where you can visit Marble Hill Park with its 18th century Palladian villa and 66 acres of parkland.",
+  "description": "Explore the pretty gardens surrounding this 17th century house in Richmond. The recently restored gardens include a productive kitchen garden with many heritage crops, the maze-like 'Wilderness', an orangery and a number of summerhouses. The house is located by the River Thames so you can enjoy a riverside walk before heading to the nearby Ham Common. Inside Ham House there is a superb collection of paintings, furniture and textiles, acquired over 400 years ago. After your visit you could catch Hammerton's Ferry from just outside the house to the other side of the Thames where you can visit Marble Hill Park with its 18th century Palladian villa and 66 acres of parkland.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Orangery caf\u00e9 is a nice place for some refreshments after your walk. You can enjoy fresh produce from the kitchen garden and some delicious bakes and cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The grounds are a lovely place for a dog walk so you'll probably see plenty of other dogs on your visit. Please keep them on a short lead around the grounds. The on site cafe mentioned above also has a dog friendly section with water bowls and treats provided."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Crane Park is located just to the west in Twickenham. The peaceful park includes an informative visitor centre, cafe, woodland trails along the River Crane, lots of wildlife and the interesting 18th century Shot Tower. Just north of here you can also reach the historic Cranford Country Park on the riverside trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/P1O6tDfvf5Y",
   "postcode": "TW10 7BA",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

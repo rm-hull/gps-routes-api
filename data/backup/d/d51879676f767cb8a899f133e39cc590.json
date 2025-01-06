@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:53:47.430639+00:00",
   "objectID": "d51879676f767cb8a899f133e39cc590",
-  "created_at": "2024-12-18T21:19:27.629998+00:00",
   "ref": "st-marys-loch-walking-route",
   "title": "St Mary's Loch Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/St_Mary%27s_Loch_-_geograph.org.uk_-_1152525.jpg",
@@ -90,9 +90,20 @@
   ],
   "distance_km": 9.5,
   "description": "This walk visits St Mary's Loch near Selkirk in the Scottish Borders. It's a beautiful place for a walk with fine views across the clear waters to the surrounding hills. The site is also notable as the largest natural loch in the Scottish Borders. You can park at the car park at the southern end of the loch. Near here you can pick up the Southern Upland Way and follow the waymarked footpath north along the eastern side of the water. On the way you will pass a large area of forest and Bowerhope Law hill. To the south there's also the Loch of the Lowes to explore.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Glen Cafe is located at the southern end of the water near the car park. They serve a good range of meals and snacks with some delicious cakes to try as well. The Tibbie Shiel's Inn, was an 18th-century coaching inn which is now privately owned."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you'll find Megget Reservoir where there's another fine waterside path and viewpoint. Talla Reservoir and Camps Reservoir are a little further on to the west from here. To the south west there's Daer Reservoir which is also located on the Southern Upland Way long distance trail. Head north to Peebles and you can pick up the Tweed Valley Railway Path and enjoy a walk or cycle along this multi user path. Head south west and you could visit the town of Moffat where you can enjoy a riverside walk along the River Annan on the Annadale Way. You can also pick up the epic Romans and Reivers Route in this area. This could be followed to Alemoor Loch where there's some lovely scenery."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RTTt23u7Lrk",
   "postcode": "TD7 5LH",
   "county": "Scottish Borders",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

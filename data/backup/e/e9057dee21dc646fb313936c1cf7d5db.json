@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:37:25.323795+00:00",
   "objectID": "e9057dee21dc646fb313936c1cf7d5db",
-  "created_at": "2024-12-18T01:19:30.724208+00:00",
   "ref": "devils-pulpit-finnich-glen-walking-route",
   "title": "Devil's Pulpit Finnich Glen Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Devil%27s_Pulpit_in_Finnich_Glen_-_2018_03.jpg/512px-Devil%27s_Pulpit_in_Finnich_Glen_-_2018_03.jpg",
@@ -49,6 +49,11 @@
       "description": "Milngavie to Drymen",
       "objectID": "3f09a9d2189a1b7dc72f862fdfd16ddc",
       "ref": "milngavie-to-drymen-walking-route"
+    },
+    {
+      "description": "Killearn Glen",
+      "objectID": "0e4166da5139ae360f66457bf18471f5",
+      "ref": "killearn-glen-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/e9057dee21dc646fb313936c1cf7d5db.gpx",
@@ -100,8 +105,23 @@
   ],
   "distance_km": 1.0,
   "description": "This walk takes you to the Devil's Pulpit in Finnich Glen, Stirling. The area is something of a hidden gem with a wooded gorge, crystal clear waters and rushing waterfalls. You can start the walk from the lay by parking on the southern side of the bridge. The follow footpaths north to meet with the Cannock Burn. There are walking trails heading east along the burn to the Devil's Pulpit where you can follow a steep stone staircase down to the pretty falls. It's a very photogenic area with interesting geological features in the sandstone gorge. Please take care while walking through the gorge, particularly when descending the stone staircase.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The But & Ben is located just to the north of the glen in the village of Croftamie. They serve delicious homemade food including breakfast, lunch, afternoon teas, home baking, evening meals & takeaway. There's a great outdoor seating area with gazebo and heater. You can find them at postcode G63 0EU for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The gorge is quite steep so please take care with your dog. It is best to keep them on leads on the steeper paths. The But & Ben cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a mile to the east, near Kilearn, you can pick up the epic West Highland Way. You could pick up this shared walking and cycling route and follow it along the dismantled railway to extend your walk. Please see the Milngavie to Drymen Walk for more information. A few miles to the south you could visit Burncrooks Reservoir and the splendid viewpoint at the Whangie in the Kilpatrick Hills. To the east there's the worthy village of Killearn where you can enjoy a peaceful circular walk through the Killearn Glen."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/WMtWszXIo-0",
   "county": "Stirling",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:51:14.513875+00:00",
   "objectID": "2a09384e17be0565145f562cb75469d2",
-  "created_at": "2024-12-18T10:03:43.719843+00:00",
   "ref": "white-coppice-walking-route",
   "title": "White Coppice Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/White_Coppice_Quarry.jpg/512px-White_Coppice_Quarry.jpg",
@@ -38,7 +38,7 @@
     {
       "description": "Withnell Nature Reserve",
       "objectID": "7ca603142d6ac8971ebc5f9d7db410c8",
-      "ref": "withnell nature-reserve-walking-route"
+      "ref": "withnell\u00a0nature-reserve-walking-route"
     },
     {
       "description": "White Coppice Waterfall Walk",
@@ -84,7 +84,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg/512px-Cottages_at_White_Coppice_-_geograph.org.uk_-_2328544.jpg",
-      "title": "Cottages at  White Coppice by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Cottages at White Coppice by Philip Platt, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Cottages at White Coppice"
     },
     {
@@ -95,10 +95,17 @@
   ],
   "distance_km": 3.0,
   "description": "This delightful walk takes you along a series of reservoirs near the little hamlet of White Coppice in Lancashire. It's an idyllic spot with a lovely cricket ground surrounded by beautiful countryside. You can park next to the cricket pitch to start the walk and then head west along footpaths and country lanes to the reservoirs. Along the way there's an old quarry, a pretty brook and a number of little cottages in the hamlet. Footpaths pass along the reservoirs before returning on Higher House Lane and another public path branching of to the left towards the hamlet. White Coppice is located very close to the splendid Healey Nab, so it's easy to continue your walking in the area. The hill is located just to the south and has miles of mountain bike trails and footpaths to try. Also just to the south is the beautiful Anglezarke Reservoir with some lovely waterside trails and more great views. Just to the west you can pick up the Leeds and Liverpool Canal near Chorley and follow it towards Adlington.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The White Coppice Waterfall Walk starts from the same location. It will take you north along the River Goit to visit the delightful Hatch Brook Waterfall and surrounding woodland. The Brinscall Walk starts from the nearby village. You can follow a pleasant walking trail south along The Goit Canal to reach the village where you'll find the Withnell Nature Reserve. Abbey Village Reservoir can also be accessed near the northern end of this route. For more walking ideas in the area see the West Pennine Moors Walks and the Lancashire Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Lc1fAtUQdUY",
   "postcode": "PR6 9DE",
   "district": "White Coppice",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

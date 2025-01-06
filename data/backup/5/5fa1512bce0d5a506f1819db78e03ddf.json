@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:13:15.746833+00:00",
   "objectID": "5fa1512bce0d5a506f1819db78e03ddf",
-  "created_at": "2024-12-18T10:52:14.711865+00:00",
   "ref": "crewe-walking-route",
   "title": "Crewe Walks - Near and Around",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lake_at_Queen%27s_Park%2C_Crewe_-_geograph.org.uk_-_247623.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 1.5,
   "description": "This Cheshire based town is famous for its train station which is one of the largest stations in the North West and a major interchange station on the West Coast Main Line. For walkers there's a pleasant town park and to the west the Shropshire Union Canal towpath. This short circular walk in the town visits the picturesque Tipkinder Park and Queen's Park. In the park there's some nice surfaced footpaths taking you around the landscaped gardens and the pretty lake where you can feed the ducks and swans. It's a fine place for a peaceful stroll in the town centre.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a pleasant place for a dog though it is best to keep them on leads due to the wildlife."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Crewe and Nantwich Circular Walk is a popular way of exploring the area surrounding the town. The waymarked footpath takes you through the countryside and villages surrounding Crewe and neighbouring Nantwich. There's the opportunity to link up with the Shropshire Union Canal on the trail as well. To the east of the town you'll find the noteworthy Crewe Hall. The 17th century mansion is open as a hotel and includes some lovely parkland surrounding the historic hall. For more walking ideas in the area see the Cheshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-rFO9l9QNoc",
   "postcode": "CW2 7SR",
   "district": "Crewe",
   "county": "Cheshire East",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

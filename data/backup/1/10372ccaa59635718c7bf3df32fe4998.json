@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:49:32.406991+00:00",
   "objectID": "10372ccaa59635718c7bf3df32fe4998",
-  "created_at": "2024-12-19T22:13:12.532017+00:00",
   "ref": "denbies-hillside-walking-route",
   "title": "Denbies Hillside Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Denbies_Hillside_-_geograph.org.uk_-_788646.jpg",
@@ -64,7 +64,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Denbies_vineyard_and_Box_Hill_in_Autumn.jpg/512px-Denbies_vineyard_and_Box_Hill_in_Autumn.jpg",
-      "title": "Ian Capper / Denbies Vineyard ",
+      "title": "Ian Capper / Denbies Vineyard",
       "caption": "Denbies vineyard and Box Hill in Autumn"
     },
     {
@@ -85,9 +85,24 @@
   ],
   "distance_km": 3.0,
   "description": "Explore this lovely area of the North Downs on this short circular walk. You can start the walk from the Denbies Hillside car park on Ranmore Common. There's waymarked trails, woodland paths and great views of Leith Hill and Dorking from the high points. There's also lots of interesting plants and wildlife to look out for. Several species of orchid grow on the hillside and there are a vairiety of butterflies to see in the summer months. The area also includes the Denbies Wine Estate which contains the largest vineyard in England, representing more than 10 per cent of the plantings in the whole of the United Kingdom. There's an excellent visitor centre with a working winery where you can learn all about the wine making process. The North Downs Way passes over the hills so you can continue along the trail to extend your walk. You could follow the trail a couple of miles to the north east and visit the lovely Box Hill Country Park. You can also further explore Ranmore Common by heading north from the car park. The site can be easily reached on foot from nearby Dorking. Just follow the Mole Gap Trail north from the town and you will soon come to the estate.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Caf\u00e9 La Cr\u00e8me is based at Denbies Hillside Car Park throughout the year. They serve delicious cakes and hot drinks with great views from the benches."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is great for dog walking with lots of woodland trails in the adjacent Ranmore Common."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south there's the village of Betchworth where you can visit the ruined Betchworth Castle which sits next to the River Mole. There's also the adjacent village of Brockham where you can explore the Brockham Quarry Nature Reserve. The interesting site was once the site of chalk extraction and the lime making industry during the Victorian Era."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/0lYy-y0pEtc",
   "district": "Ranmore Common",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

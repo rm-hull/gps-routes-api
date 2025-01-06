@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:23:17.265820+00:00",
   "objectID": "69c7d58bd1996be03b63cbf76c01c13b",
-  "created_at": "2024-12-19T18:09:51.050407+00:00",
   "ref": "belbroughton-walking-route",
   "title": "Belbroughton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Welcome_to_Belbroughton_-_geograph.org.uk_-_2050218.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 5.4,
   "description": "This pretty village is located in the Bromsgrove District of Worcestershire. There's some good country trails with local walking highlights including the splendid Clent Hills to the north and the peaceful Chaddesley Wood to the south. The village is also located close to the expansive Wyre Forest where there are miles of good walking and cycling trails and the Button Oak Meadow Nature Reserve to explore. This circular walk from the village visits neighbouring Drayton using the public footpaths to the south and west of the settlement. On the way there's some nice countryside views and a waterside section along the pretty Drayton pool to enjoy.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Talbot is a good choice for some post walk refreshment. They serve a fine Sunday Roast and have a lovely garden area for warmer days. You can find them on Hartle Lane at postcode DY9 9TG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails are nice to do with your dog and the Talbot mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north from the village and you could pick up the North Worcestershire Path and visit the popular Clent Hills Country Park. For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/I45A2qZayYM",
   "district": "Belbroughton",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

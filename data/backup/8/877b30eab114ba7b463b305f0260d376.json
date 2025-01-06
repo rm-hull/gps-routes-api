@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:46:49.871645+00:00",
   "objectID": "877b30eab114ba7b463b305f0260d376",
-  "created_at": "2024-12-18T16:55:29.646677+00:00",
   "ref": "loch-leven-walking-route",
   "title": "Walk Around Loch Leven Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Boathouse_Marina%2C_Loch_Leven%2C_Kinross_-_geograph.org.uk_-_573248.jpg",
@@ -34,6 +34,16 @@
       "description": "Maspie Den",
       "objectID": "ea4a46268fd49f3d1595e3cb58f91f08",
       "ref": "maspie-den-walking-route"
+    },
+    {
+      "description": "Glenfarg Reservoir",
+      "objectID": "293a48a4c068b905383d65236ae17aad",
+      "ref": "glenfarg-reservoir-walking-route"
+    },
+    {
+      "description": "Glenfarg Tunnels",
+      "objectID": "ebec39c711857561502515a970192d1b",
+      "ref": "glenfarg-tunnels-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/877b30eab114ba7b463b305f0260d376.gpx",
@@ -60,11 +70,11 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Loch_Leven_and_the_Plain_of_Kinross_-_geograph.org.uk_-_370304.jpg",
       "title": "Brendan Hamill / Loch Leven and the Plain of Kinross, via Wikimedia Commons",
-      "caption": "Loch Leven and the Plain of Kinross from a viewpoint. Seamab Hill is one of the finest viewpoints in the  Ochil Hills. This view, taken from the NE shoulder of Seamab Hill, shows the plain of Kinross, which is bounded by hills on all sides, with the Loch Leven basin in the distance."
+      "caption": "Loch Leven and the Plain of Kinross from a viewpoint. Seamab Hill is one of the finest viewpoints in the Ochil Hills. This view, taken from the NE shoulder of Seamab Hill, shows the plain of Kinross, which is bounded by hills on all sides, with the Loch Leven basin in the distance."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ferry_Queue._Lochleven_Castle._%283795351551%29.jpg/512px-Ferry_Queue._Lochleven_Castle._%283795351551%29.jpg",
-      "title": "B4bees from  Kinross, Scotland [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "title": "B4bees from Kinross, Scotland [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Queue of summer visitors waiting for the return of a 12 seat ferry boat which will take them to Castle Island, Loch Leven, Kinross."
     },
     {
@@ -74,7 +84,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Lochleven_Castle._%285417190712%29.jpg",
-      "title": "B4bees from  Kinross, Scotland [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
+      "title": "B4bees from Kinross, Scotland [CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons",
       "caption": "Winter view in sun of Loch Leven Castle on Castle Island, Loch Leven Kinross. Queen Mary of Scotland was imprisoned in Lochleven between 1866-7 because of religious unrest, sic. During this imprisonment she was forced to abdicate in favour of her son King James IV. With some help from residual loyals she escaped to regain some support but was routed at the Battle of Langside (Glasgow). Exiled from Scotland she put her faith in cousin the English Queen Elizabeth I, who allowed her Fotheringhay Castle as a place of 'house arrest'."
     },
     {
@@ -85,8 +95,23 @@
   ],
   "distance_km": 19.5,
   "description": "This splendid circular walk follows a footpath around the whole of Loch Leven in Kinross. It's a beautiful area and also a National Nature Reserve so there's plenty of good wildlife spotting opportunites on the way. The route is also suitable for cyclists and runs for a distance of about 20km (12 miles). The walk starts at the car park at Kinross House on the north western side of the loch. There's nice views out to Kinross Castle which sits on an island in the northern part of the loch. From the car park you pick up the trail and follow it west through the attractive Kirkgate Park. You then pass along the western side of the loch before coming to the Vane Farm Nature Reserve. This RSPB reserve is a great place to see Ospreys which visit the loch to fish during the summer, while up to 20,000 pink-footed geese fly in from Iceland come autumn. There's a visitor centre and car park if you'd prefer to start the walk from here. The trail then passes along the southern section of the loch where there are nice views out to St Serf's Island where there are the ruins of Augustinian Priory founded in 1150. The path then runs along the eastern side of the water, with some woodland sections and waterside paths to enjoy. There's a short climb to Grieg Hill where there are fine views over the loch. The final section then takes you past the golf course before returning to the car park. To continue your walking in the area just head south to Lochore Meadows Country Park. There's another wonderful waterside trail to follow along Loch Ore with woodlands, meadows, grasslands, ponds and a Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Boathouse Restaurant is superbly located right next to the loch. There's a good menu and a fine outdoor terrace with great views across the water. It's the perfect place to relax and enjoy a drink after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trail is great for dog walking and the Boathouse mentioned above is also dog friendly with treats and water bowl provided."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the end of the walk take some time to explore the lochside Kirkgate Park. It's located in a wonderful location next to the historic 17th Century landscape of Kinross House. On summer days it's a lovely place to lounge about after your exercise. Features include a grass amphitheatre, wildflower labyrinth and shoreline grass areas. Another nice idea is to take a boat out to Loch Leven Castle which sits on a little island in the lake. It has an interesting history as Mary Queen of Scots was imprisoned here in 1567. The tower house where she was held dates all the way back to the 1300s. Afterwards you can explore the little wooded island and enjoy a different view of the loch. The little boat departs from Kinross House at the start of the walk. It runs from 1 Apr to 30 Sept and is a real treat on a fine day. At the eastern end of the loch at Kinlochleven you can pick up the epic West Highland Way on the Kingshouse to Kinlochleven Walk or the Kinlochleven to Fort William Walk. A few miles to the south west there's there's the Cleish Hills to explore around the pretty Loch Glow. The loch is also not far from the town of Dunfermline. Here you could visit Townhill Country Park and enjoy a walk around the smaller Townhill Loch. Just a couple of miles north east of Dunfermline there's more peaceful lochside trails along Loch Fitty. Just to the north east you'll find one of the walking highlights of the area at Maspie Den. The den is located just west of the historic village of Falkland and includes peaceful woodland and series of picturesque waterfalls. To the north there's the atmospheric walk through the Glenfarg Tunnels and the picturesque Glenfarg Reservoir to visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/v7UiNAx6oMU",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

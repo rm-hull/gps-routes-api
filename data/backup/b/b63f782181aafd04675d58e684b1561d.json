@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:36:09.838409+00:00",
   "objectID": "b63f782181aafd04675d58e684b1561d",
-  "created_at": "2024-12-18T01:44:57.174776+00:00",
   "ref": "preston-guild-wheel-walking-and-cycle-route",
   "title": "Preston Guild Wheel Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_Tram_Bridge%2C_Preston_232-01.jpg/256px-Old_Tram_Bridge%2C_Preston_232-01.jpg",
@@ -59,7 +59,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg/512px-The_Millennium_Ribble_Link_-_geograph.org.uk_-_3534413.jpg?20220518023830",
-      "title": "The Millennium Ribble Link by K  A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The Millennium Ribble Link by K A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Millennium Ribble Link and the Savick Brook, on the western side of Preston. The Ribble Link is a linear water park and new navigation which links the once-isolated Lancaster Canal in Lancashire, England to the River Ribble. There is a nice cycle and walking path running alongside it in the Lea area."
     },
     {
@@ -70,9 +70,16 @@
   ],
   "distance_km": 34.0,
   "description": "This circular cycling and walking route takes you on a tour of the parks, rivers, docklands and countryside around Preston in Lancashire. The loop runs for just over 20 miles and is well signed throughout. Route highlights include the delightful Avenham Park with its riverside gardens and a stretch along the Riversway Docklands and Marina. There are also long waterside sections along the River Ribble and a visit to the peaceful Brockholes Nature Reserve. The route is also part of the National Cycle Network and numbered 622.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There are nice cafes in both Avenham Park and the Brockholes Nature Reserve. You can make a pit stop here for refreshments or there's a nice pub at the Docklands with views of the marina."
+    }
+  ],
   "postcode": "PR1 8JT",
   "district": "Preston",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

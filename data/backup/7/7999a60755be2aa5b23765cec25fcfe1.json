@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:49:38.814533+00:00",
   "objectID": "7999a60755be2aa5b23765cec25fcfe1",
-  "created_at": "2024-12-20T11:44:40.462780+00:00",
   "ref": "peasmarsh-walking-route",
   "title": "Peasmarsh Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Old_Thatch%2C_Peasmarsh_-_geograph.org.uk_-_2207240.jpg",
@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sharvels_Oast_House%2C_Peasmarsh%2C_East_Sussex_-_geograph.org.uk_-_1616617.jpg",
       "title": "Oast House Archive / Sharvels Oast House, Peasmarsh, East Sussex",
-      "caption": "Sharvels Oast House, Peasmarsh, East Sussex. Twin round kiln oast house in the village.  Famous residents include musician Paul McCartney who lived in a farmhouse in the village."
+      "caption": "Sharvels Oast House, Peasmarsh, East Sussex. Twin round kiln oast house in the village. Famous residents include musician Paul McCartney who lived in a farmhouse in the village."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/St_Peter_%5E_St_Paul%2C_Peasmarsh%2C_Sussex_-_geograph.org.uk_-_1926173.jpg/512px-St_Peter_%5E_St_Paul%2C_Peasmarsh%2C_Sussex_-_geograph.org.uk_-_1926173.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 14.8,
   "description": "This pretty East Sussex village is located in a lovely spot in the High Weald AONB near Rye. This circular walk makes use of some of the waymarked long distance trails running through the surrounding area. You'll follow sections of the High Weald Landscape Trail, the Sussex Border Path and the Royal Military Canal Path to visit the neighbouring settlements of Rye and Iden. On the way there are nice waterside sections along the River Rother and the canal near Rye. There's also some peaceful woodland paths through Iden Wood, views of the River Tillingham valley and some lovely surrounding High Weald countryside to enjoy. At the southern end of the route you can extend your outing by visiting the coastal Camber Sands or exploring the wildlife rich Rye Harbour Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Horse & Cart Inn is a nice village pub for some post walk refreshment. The Grade II listed inn serves high quality food and also provides rooms if you would like to stay in the area. You can find them on School Lane with a postcode of TN31 6UW for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country, river and woodland trails make for a fine dog walk. The Horse and Cart mentioned above is also dog friendly."
+    }
+  ],
   "postcode": "TN31 6UW",
   "district": "Peasmarsh",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

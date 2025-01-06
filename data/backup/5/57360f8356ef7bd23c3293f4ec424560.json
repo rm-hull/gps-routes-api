@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:54:57.761099+00:00",
   "objectID": "57360f8356ef7bd23c3293f4ec424560",
-  "created_at": "2024-12-19T19:49:02.321719+00:00",
   "ref": "southborough-common-walking-route",
   "title": "Southborough Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Woodlands%2C_Southborough_Common_-_geograph.org.uk_-_1276563.jpg",
@@ -75,9 +75,24 @@
   ],
   "distance_km": 1.5,
   "description": "Enjoy woodland trails, heathland and pretty streams in this area of common land near Tunbridge Wells and Tonbridge. A section of the long distance Tunbridge Wells Circular Walk crosses the common so there is scope for extending your walk into the surrounding countryside. You could follow the trail south west and visit Rusthall Common and Tunbridge Wells Common where there are more nice trails to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into the village and you could visit The Imperial for some post walk refreshment. It's a traditional Victorian pub which has been refurbished but retains the original features. Plenty of seating area inside with small courtyard garden outside. You can find them at London Road, TN4 0PB."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is ideal for a dog walk. It's a popular place so you'll probably meet other owners on your visit. The Imperial mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east on the Tunbridge Wells Circular Walk and you will soon come to Tudeley Woods. This RSPB Nature Reserve has some attractive ancient woodland with a large variety of flora and fauna to see. Just to the west there's the village of Speldhurst where you'll find an ancient pub dating back 1212."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/mNRg7SoheGQ?si=CRsIvW8fhSILt9LG",
   "district": "Southborough",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

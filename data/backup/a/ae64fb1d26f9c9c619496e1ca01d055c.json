@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:20:29.322274+00:00",
   "objectID": "ae64fb1d26f9c9c619496e1ca01d055c",
-  "created_at": "2024-12-18T14:09:49.770068+00:00",
   "ref": "aldermaston-walking-route",
   "title": "Aldermaston Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Aldermaston_Village_-_geograph.org.uk_-_599145.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Aldermaston_Village_-_geograph.org.uk_-_599145.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Aldermaston Village"
     },
     {
@@ -28,7 +28,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/Kennet_and_Avon_Canal_west_of_Aldermaston_-_geograph.org.uk_-_332969.jpg",
       "title": "Graham Horn / Kennet and Avon Canal west of Aldermaston",
-      "caption": "Kennet and Avon Canal west of Aldermaston.  Beyond Aldermaston Wharf the canal soon becomes rural again. The railway, although just behind the trees on the left, hardly intrudes here. The area behind the left bank used to be the Sterling Cables factory."
+      "caption": "Kennet and Avon Canal west of Aldermaston. Beyond Aldermaston Wharf the canal soon becomes rural again. The railway, although just behind the trees on the left, hardly intrudes here. The area behind the left bank used to be the Sterling Cables factory."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Padworth_Mill_-_geograph.org.uk_-_2391813.jpg/512px-Padworth_Mill_-_geograph.org.uk_-_2391813.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 6.0,
   "description": "This Berkshire based village has some nice river and canalside trails to try. This walk from the village takes you up to Aldermaston Wharf on the Kennet and Avon Canal. You then follow the towpath west to visit the neighbouring village of Woolhampton. The walk starts in the village and then follows the Fisherman's Lane track north east to Padworth Mill where you cross the River Kennet. You head north here, passing the flooded gravel pits before arriving at Aldermaston Wharf. The wharf is a significant spot on the canal with a British Waterways visitor centre to explore. It includes a tea room and is located at the canal east of the lift bridge. Here you can pick up the canal towpath and follow it west to Woolhampton where there's a pretty lock, bridge and train station.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route stop off at the Aldermaston Tea Rooms for refreshments. The tea rooms are located in a lovely spot by the canal at the Wharf. You can sit outside in the garden area and enjoy a cream tea with views of the water. The cafe can be found at Wharfside, RG7 4JS."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The waterside trails make for a pleasant dog walk. The tea room mentioned above is also dog friendly with water bowls available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south to the nearby town of Tadley and you could enjoy woodland trails around the expansive Pamber Forest before heading to the ancient Roman Fort at Silchester. Head east and you can enjoy canal walks, river trails and a visit to the wildlife rich Hosehill Lake Nature Reserve on the Theale Walk. For more walking ideas in the area see the Berkshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9wCv2AA8UOg",
   "postcode": "RG7 4LL",
   "district": "Aldermaston",
   "county": "West Berkshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

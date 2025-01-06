@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:57:33.110364+00:00",
   "objectID": "50c7f9d6a962b64b5e11385c3f47ae55",
-  "created_at": "2024-12-19T04:17:43.484885+00:00",
   "ref": "christleton-walking-route",
   "title": "Christleton Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Canal_in_Christleton_-_geograph.org.uk_-_1306497.jpg",
@@ -17,7 +17,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Summer_on_the_Shropshire_Union_Canal_-_geograph.org.uk_-_2007992.jpg/512px-Summer_on_the_Shropshire_Union_Canal_-_geograph.org.uk_-_2007992.jpg",
-      "title": "Summer on the Shropshire Union Canal by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Summer on the Shropshire Union Canal by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Summer on the Shropshire Union Canal"
     },
     {
@@ -43,8 +43,15 @@
   ],
   "distance_km": 5.5,
   "description": "This pretty village sits on the Shropshire Union Canal just to the south east of the city of Chester. The settlement has been voted the best kept village in Cheshire on several occasions. The village includes a noteworthy Grade II listed mill building and two historic old halls, one dating from the early 17th century. There's also the large picturesque village pond known as Christleton Pit. This circular walk from the village takes you along the canal on a section of the long distance Baker Way. You then return on country lanes with some nice views of the surrounding countryside. It's a particularly lovely section of the canal with old bridges and elegant moorings to see.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Cheshire Cat is located in a lovely spot next to the canal. The dog friendly inn dates back to 1801 and serves good quality food. You can find them at Whitchurch Rd, Christleton, CH3 6AE."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bAhjaCMltV8",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

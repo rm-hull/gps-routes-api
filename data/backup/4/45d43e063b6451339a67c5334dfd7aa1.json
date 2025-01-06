@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:10:33.515117+00:00",
   "objectID": "45d43e063b6451339a67c5334dfd7aa1",
-  "created_at": "2024-12-18T23:13:01.429444+00:00",
   "ref": "harbury-walking-route",
   "title": "Harbury Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Harbury_Mill_-_geograph.org.uk_-_371438.jpg/256px-Harbury_Mill_-_geograph.org.uk_-_371438.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 7.2,
   "description": "This pretty village is located close to Southam and Leamington Spa in the county of Warwickshire. The village includes a noteworthy 13th century church and an historic 16th century pub. This route uses a section of the Warwickshire Centenary Way and other local footpaths to create a circular walk to the south of the village. On the way you'll visit the Bishops Bowl Lakes and the neighbouring village of Bishop's Itchington. There's some nice countryside views to enjoy on this fairly easy, flat walk.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Crown Inn can be found on Crown Street at postcode CV33 9HE. They have a good menu and selection of ales to enjoy after your exercise. There's also the historic Shakespeare Inn, a 16th century timber framed pub on Mill Street at postcode CV33 9HR. The pub includes a nice large garden for warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk. The Shakespeare Inn and the Crown pubs mentioned above are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just west of the village there's the Chesterton Windmill to visit. The 17th century mill is Grade I listed and a popular local visitor attraction. Juat to the north there's the Ufton Fields Nature Reserve to explore. There's some ponds here with lots of water loving wildlife to look out for. Just to the south is Gaydon where you can visit the British Motor Museum. The noteworthy museum houses one of the largest collections of historic British cars in the world. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "postcode": "CV33 9FA",
   "district": "Harbury",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:03:13.600568+00:00",
   "objectID": "7d830b2bf659688b354f3043ddbfb08c",
-  "created_at": "2024-12-18T09:59:05.093651+00:00",
   "ref": "gweek-walking-route",
   "title": "Gweek Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Seal_Sanctuary_grounds_and_Gweek_Creek_-_geograph.org.uk_-_1818381.jpg",
@@ -37,7 +37,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gweek_-_Bridge_over_the_creek_-_geograph.org.uk_-_1827530.jpg/512px-Gweek_-_Bridge_over_the_creek_-_geograph.org.uk_-_1827530.jpg",
-      "title": "Dr Neil Clifton / Gweek:  Bridge over the creek",
+      "title": "Dr Neil Clifton / Gweek: Bridge over the creek",
       "caption": "Gweek: Bridge over the creek, near to Gweek, Cornwall, Great Britain. This is just about at the tidal limit here. The bridge carries the unclassified, but important, road from Helston and the Lizard to Falmouth, via Gweek."
     },
     {
@@ -53,9 +53,20 @@
   ],
   "distance_km": 1.3,
   "description": "This walk takes you along the Nature Trail in the lovely seal sanctuary in the Cornish village of Gweek. The sanctuary looks after sick and injured seals and is owned by The Sea Life Trust. You can follow footpaths through the reserve and along the Helford River which runs through the village. There's also great underwater viewing areas and the Humboldt Penguins on Penguin Beach to see. Gweek village is also very pretty with an old stone bridge over Gweek Creek, a village green, a fine local pub and a picturesque quay.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village you can enjoy some post walk refreshment at the Black Swan. There's a car park, good pub food, a garden area and some nice views down to the harbour to enjoy."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you can pick up the Helford River Walk and enjoy a waterside stroll along the beautiful river estuary. To the west there's Helston and the stunning Loe Bar on the coast. A few miles to the south you can explore the wonderful Lizard National Nature Reserve on Goonhilly Downs. Here you'll find miles of attractive heathland and the Goonhilly Satellite Earth Station, with its huge iconic satellite dishes which can be seen for miles. Head south and you could pick up the Mullion Cove to Lizard Point Walk. The cove has a delighftul harbour and trails leading to the stunning Kynance Cove and the most southerly point in Britain at Lizard Point."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/D3e-qZ3phJQ",
   "district": "Gweek",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

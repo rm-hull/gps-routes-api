@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:39:09.478671+00:00",
   "objectID": "35e8c2d70587f75ca9493782377fcff1",
-  "created_at": "2024-12-18T23:55:55.012189+00:00",
   "ref": "vernon-and-woodbank-park-walking-route",
   "title": "Vernon and Woodbank Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Fred_Perry_Way_-_geograph.org.uk_-_277883.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Sculpture_in_Vernon_Park_-_geograph.org.uk_-_1128556.jpg",
       "title": "Gerald England / Sculpture in Vernon Park",
-      "caption": "Sculpture in Vernon Park.  In the background is Pear Mill"
+      "caption": "Sculpture in Vernon Park. In the background is Pear Mill"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Pear_Mill%2C_Stockport_-_geograph.org.uk_-_558286.jpg",
@@ -85,7 +85,14 @@
   ],
   "distance_km": 4.0,
   "description": "These two parks sit side by side near Stockport town centre. They have nice walking trails along the River Goyt, woodland trails, ponds with wildlife and well laid out gardens. From the high points in the park there are nice views towards the Peak District hills. The Midshires Way and the Etherow Goyt Valley Way both run through the park so you can pick these up to extend your walking in the area. Just to the north there's more nice trails around Reddish Vale Country Park, Haughton Dale Nature Reserve and Highfield Country Park .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "district": "Stockport",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

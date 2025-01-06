@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:41:22.386003+00:00",
   "objectID": "6b4af621233be937084ef78d850242f1",
-  "created_at": "2024-12-20T19:44:30.441514+00:00",
   "ref": "richmond-way-walking-route",
   "title": "Richmond Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Shire_Hall%2C_Lancaster_Castle_-_geograph.org.uk_-_1600008.jpg",
@@ -69,11 +69,17 @@
     }
   ],
   "distance_km": 97.0,
-  "description": "Travel from Lancaster Castle to Richmond Castle on this lovely walk through Lancashire and Yorkshire. You will travel through the lower Lower Lune Valley with a long riverside section at the start.  You then head through the moorlands and fells of the Pennines and on into the valleys of the Yorkshire Dales National Park. Finally, you follow the River Swale into the historic market town of Richmond - gateway to the Yorkshire Dales National Park. The walk passes Ingleton (with the wonderful Ingleton Falls ), Ribblehead Viaduct and the picturesque Yorkshire village of Hawes. Other highlights include the historic Easby Abbey and the 14th century castle at Castle Bolton .",
+  "description": "Travel from Lancaster Castle to Richmond Castle on this lovely walk through Lancashire and Yorkshire. You will travel through the lower Lower Lune Valley with a long riverside section at the start. You then head through the moorlands and fells of the Pennines and on into the valleys of the Yorkshire Dales National Park. Finally, you follow the River Swale into the historic market town of Richmond - gateway to the Yorkshire Dales National Park. The walk passes Ingleton (with the wonderful Ingleton Falls ), Ribblehead Viaduct and the picturesque Yorkshire village of Hawes. Other highlights include the historic Easby Abbey and the 14th century castle at Castle Bolton .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the walk you can enjoy well earned refreshments at the Station Inn (Postcode: LA6 3AS). The pub is located next to the Ribblehead Viaduct and is very walker friendly. There's a good menu and you can also book rooms for the night. Just up the road to the west you'll find the Old Hill Inn (LA6 3AR). This pub dates all the way back to 1615 and is another popular spot for walkers exploring the Dales."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Lancashire Walks and the Yorkshire Dales Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gCtN-UTioZY",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6b4af621233be937084ef78d850242f1.gpx",
-  "_geoloc": {
-    "lat": 54.0503207606,
-    "lng": -2.8046945214
-  }
+  "gazetteer_found": false
 }

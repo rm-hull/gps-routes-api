@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:29:01.533081+00:00",
   "objectID": "cd5e3e15d03ca821df6a9aaf2ad70775",
-  "created_at": "2024-12-18T01:10:54.165695+00:00",
   "ref": "stanley-park-walking-and-cycle-route",
   "title": "Stanley Park Blackpool Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Classic_Car_Show_%26_Dog_Walk_24-08-2014_%2814832774460%29.jpg/512px-Classic_Car_Show_%26_Dog_Walk_24-08-2014_%2814832774460%29.jpg",
@@ -40,10 +40,21 @@
   ],
   "distance_km": 2.5,
   "description": "This lovely park in Blackpool has nice footpaths and a cycle trail to enjoy. There's 260 acres to explore with a large boating lake, pretty Italianate gardens, woodland areas, a model village and a great cafe. Park highlights include an Italian marble fountain and the iconic Medici lion statues. The footpaths are well laid out and take you along the lake and around the gardens. National Cycle Route 62 also runs through the park so you can bring your bike too. To extend your walk you could head a half mile to the east and visit the lovely Marton Mere. Nice public foopaths take you the nature reserve which has a large lake, reed beds, grassland, small areas of woodland and a variety of wildflowers.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a very nice, large cafe in the park with a good range of meals and snacks. There's a also an outdoor seating area with nice views of the gardens."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are welcome in the park but are not permitted in play areas, sports zones and open water."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ENCl3K6B_js",
   "postcode": "FY3 9HQ",
   "district": "Blackpool",
   "county": "Blackpool",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

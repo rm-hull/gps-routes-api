@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:48:52.138768+00:00",
   "objectID": "644aa4de976d60b9eadb36cd120d4cc1",
-  "created_at": "2024-12-18T07:39:03.072854+00:00",
   "ref": "yar-river-trail-walking-route",
   "title": "Yar River Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/River_Yar_-_geograph.org.uk_-_120708.jpg",
@@ -80,10 +80,21 @@
   ],
   "distance_km": 31.0,
   "description": "Follow the Yar River Trail from its source near Niton to Bembridge Harbour. The walk takes you through the beautiful Isle of Wight countryside and heads through the pretty villages of Godshill, Newchurch and Brading. The trail passes ancient manor houses at Morton and Great Budbridge, and also includes six trail side sculptures by local artist Paul Mason. This is a nice, flat easy waterside walk with plenty to see on the trail.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Godshill you can enjoy a pit stop at The Taverners. The ancient inn dates to the 17th century and includes a charming old interior with oak beams, flagstone flooring and open fireplaces. They sell good quality food and also have a garden to sit out in. You can find them at postcode PO38 3HZ for your sat navs. The pub is dog friendly in the bar area. The village is also worth exploring with its thatched cottages and ancient church."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Red Squirrel Trail is a long distance cycle route which uses part of the trail on its way around the island. The Yarmouth to Freshwater Bay Walk, Ryde to Bembridge Coastal Walk and the Bembridge Trail can all be linked to from the route. For more walking ideas in the area see the Isle of Wight Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/mmyaMWBJH5g",
   "postcode": "PO38 2BW",
   "district": "Niton",
   "county": "Isle of Wight",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

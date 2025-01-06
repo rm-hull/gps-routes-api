@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:26:32.774593+00:00",
   "objectID": "c8613026a6fd69eeac3847d165b9ae3d",
-  "created_at": "2024-12-18T11:24:02.903559+00:00",
   "ref": "leek-wootton-walking-route",
   "title": "Leek Wootton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Leek_Wootton_churchyard_-_geograph.org.uk_-_1579102.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 13.0,
   "description": "This Warwickshire village is located near Warwick, Kenilworth and Leamington Spa. This route from the village uses part of the Warwickshire Centenary Way and the Grand Union Canal Walk to create a circular walk through the surrounding area. The walk starts in the village and heads north west along the golf course to meet with the Warwickshire Centenary Way near the 19th century Woodcote Estate, site of the headquarters of Warwickshire Police. You can follow this waymarked footpath south through the course to Middle Woodloes on the outskirts of Warwick. Here you pick up the canal and follow the towpath west towards The Cape. Here you turn north to pick up a bridlepath across Wedgenock Park to Deer Park Wood. From here you head north east to Goodrest Farm before passing Terrace Hill Wood and returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Anchor Inn for some post walk refreshment. They have a good menu and a good sized garden to relax in. You can find them on Warwick Road with postcode CV35 7QX for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk. The Anchor mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You could extend the walk by continuing west along the canal to visit Hatton Locks. Here you'll find an impressive flight of 21 locks and Hatton Country World, a tourist attraction with farm animals and an adventure playground. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LeYtOS5PqFY",
   "district": "Leek Wootton",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

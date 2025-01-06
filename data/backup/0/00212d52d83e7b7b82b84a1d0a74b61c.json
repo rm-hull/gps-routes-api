@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T03:20:11.306565+00:00",
   "objectID": "00212d52d83e7b7b82b84a1d0a74b61c",
-  "created_at": "2024-12-18T10:31:12.770925+00:00",
   "ref": "moulton-walking-route",
-  "title": "Moulton Suffolk Walks",
+  "title": "Moulton\u00a0Suffolk Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Moulton_Packhorse_Bridge_-_geograph.org.uk_-_30287.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/00212d52d83e7b7b82b84a1d0a74b61c.gpx",
   "_geoloc": {
@@ -53,9 +53,16 @@
   ],
   "distance_km": 9.5,
   "description": "This attractive Suffolk based village includes several picturesque thatched cottages, views of the River Kennett and a noteworthy medieval Packhorse Bridge. It is located in a lovely rural spot just a few miles east of Newmarket. This circular walk from the village makes use of a section of the Icknield Way Path to explore the countryside to the east of the settlement. The walk starts from the ancient Pack Horse Bridge on the eastern side of the village. You then follow the waymarked path east to visit the neighbouring village of Gazeley. The route then heads through Brick Kiln Wood, passing Dalham Hall and the small settlement of Dalham. The final section takes you north past Hawson Hills and Catford Bridge before returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the village green there's the Packhorse Inn for post exercise refreshment. They serve high quality food and also provide rooms if you'd like to stay in the area. The inn is located near the old bridge on Bridge Street at postcode CB8 8SP."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Z2eFt17jMJ4",
   "district": "Moulton",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

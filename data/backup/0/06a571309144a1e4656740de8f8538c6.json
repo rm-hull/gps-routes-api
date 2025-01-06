@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:13:59.313918+00:00",
   "objectID": "06a571309144a1e4656740de8f8538c6",
-  "created_at": "2024-12-18T09:55:33.652974+00:00",
   "ref": "dunham-massey-walking-route",
   "title": "Dunham Massey Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dunham_Massey_Hall_20080803-11.jpg/512px-Dunham_Massey_Hall_20080803-11.jpg",
@@ -34,12 +34,12 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Dunham_Massey_Hall_20080803-11.jpg/512px-Dunham_Massey_Hall_20080803-11.jpg",
-      "title": "By Hans A. Rosbach [CC BY-SA 3.0   (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
+      "title": "By Hans A. Rosbach [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Dunham Massey Hall"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Dunham_Massey_Hall_20080803-1.jpg/512px-Dunham_Massey_Hall_20080803-1.jpg",
-      "title": "By Hans A. Rosbach [CC BY-SA 3.0   (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
+      "title": "By Hans A. Rosbach [CC BY-SA 3.0  (https://creativecommons.org/licenses/by-sa/3.0 )], from Wikimedia Commons",
       "caption": "Deer in the park"
     },
     {
@@ -75,7 +75,18 @@
   ],
   "distance_km": 5.0,
   "description": "This is a splendid circular walk around the impressive grounds of Dunham Massey Hall, in Altrincham, Greater Manchester. You will pass through the magnificent deer park with its 17th century mill and the tranquil Island and Smithy pools. There is also the spectacular new Rose Garden and the Georgian Dunham Massey Hall to explore. The Bridgewater Canal runs just past the estate and is a great way to extend your walk. You can pick up the Cheshire Ring Canal Walk and follow the towpath west to the pretty village of Lymm. Here you can enjoy a peaceful, waterside walk around the Lymm Dam. See the Canal Walk Lymm to Dunham Massey for details on how to reach the park from the town. If you head east along the canal you will soon come into Altrincham. Just to the south of the estate you will find Rostherne Mere. The large mere is a great place for bird watching with several species of wildfowl to look out for on the water.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The deer park is a lovely place for a dog walk but please keep them on leads in this area. They're allowed off lead in the North Park area though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Bollin Valley Way passes the hall. The riverside trail will take you along the Bollin River to the Manchester Ship Canal at Partington. In the park you will also find the aqueduct carrying the Bridgewater Canal over the River Bollin. For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EAwyQ5NZgwA",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

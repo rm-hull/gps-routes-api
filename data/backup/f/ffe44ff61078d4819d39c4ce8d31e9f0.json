@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:22:20.918375+00:00",
   "objectID": "ffe44ff61078d4819d39c4ce8d31e9f0",
-  "created_at": "2024-12-18T10:49:55.500456+00:00",
   "ref": "sale-fell-walking-route",
   "title": "Sale Fell Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Ascending_Sale_Fell_-_geograph.org.uk_-_1178967.jpg",
@@ -90,9 +90,24 @@
   ],
   "distance_km": 3.0,
   "description": "This circular walk climbs to Sale Fell near Cockermouth in the Lake District National Park. You can start the walk from the parking area just to the west of Bassenthwaite Lake at Wythop. From here you can pick up footpaths heading west up to Dodd Crag before turning east to visit the Sale Fell summit which stands at a height of 359 m (1,178 ft). There's great views back down to Bassenthwaite and over to the surrounding fells, including Skiddaw and Helvellyn. The Isle of Man and the Solway Coast are also visible on a clear day. After taking in the views the route then descends back to the parking area via an old quarry.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the east of the parking area you'll find the 17th century Pheasant Inn for post walk refreshment. They serve good quality dishes and have a lovely garden area to relax in on warmer days. You can find them next to the lake at postcode CA13 9YE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The fell and the woodland around Routenbeck to the east are good for dog walking. The Pheasant Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend the walk by heading about a mile to the west to climb Ling Fell. The two fells are often climbed at the same time. Binsey Fell, Ullock Pike and Dodd Wood are also located very close to the lake and well worth exploring. For more walking ideas in the area see the Keswick Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jZ73GXoEad8",
   "postcode": "CA13 9YN",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

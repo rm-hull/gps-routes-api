@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:29:55.709358+00:00",
   "objectID": "5af15a0df48fd4a15278185c598e95b3",
-  "created_at": "2024-12-18T10:14:58.916697+00:00",
   "ref": "thrybergh-country-park-walking-route",
   "title": "Thrybergh Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thrybergh_country_park_-_geograph.org.uk_-_1861802.jpg",
@@ -44,22 +44,22 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thrybergh_country_park_-_geograph.org.uk_-_1861802.jpg",
-      "title": "Thrybergh country park by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Thrybergh country park by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Lovely view across the lake. The site was created between 1876 and 1880 as a source of drinking water, primarily to serve the population of Doncaster to the east."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Gone_Fishing_-_geograph.org.uk_-_795675.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A fisherman casts off at the lake. In 2006 the park won a Green Flag Award for its green spaces"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Thrybergh_reservoir_dam_wall_-_geograph.org.uk_-_795671.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Thrybergh reservoir dam wall. Nice view of the footpath next to the water."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thrybergh_country_park_-_geograph.org.uk_-_795688.jpg",
-      "title": "Steve  F / A walk in the sun",
+      "title": "Steve F / A walk in the sun",
       "caption": "A family walk in the sun. The photo shows a buggy on the accessible path which is also suitable for wheelchairs. You can hire mobility scooters at the park."
     },
     {
@@ -69,14 +69,29 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Keeping_guard_-_geograph.org.uk_-_795684.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Keeping guard. At the head of Thrybergh reservoir a swan sits dutifully on the nest.  The area is great for wildlife with over 150 species of bird spotted around the lake."
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "caption": "Keeping guard. At the head of Thrybergh reservoir a swan sits dutifully on the nest. The area is great for wildlife with over 150 species of bird spotted around the lake."
     }
   ],
   "distance_km": 2.7,
   "description": "Enjoy a waterside walk around Thrybergh Reservoir in this beautiful country park in Rotherham. The park has 170 species of wildflower and plants, 200 species of birds and 20 species of mammals. It is surrounded by some truly lovely Yorkshire countryside making for a splendid short stroll. The distance around lake is just under 2 miles so it should take around 45 minutes to an hour to walk around. The park has good facilities with two bird hides, a play area and a lakeside cafe.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe next to the water where you can buy a good range of refreshments. There's also a decent picnic area if you'd prefer to bring your own food."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lakeside trails makes for a fine dog walk. The park is popular with dog owners so you'll probably see other of our four legged friends on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west of the park you can pick up the Rotherham Round Walk and explore the countryside and villages surrounding the town. If you follow it south you could visit the worthy village of Wickersley and visit Wickersley Woods. To the north there's the impressive Conisbrough Viaduct and the pretty Sprotbrough Falls to visit. You can reach these local highlights on the Don Valley Way which runs through the park. To the south there's Ulley Country Park and another waterside trail around Treeton Dyke."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gq3rxMNRSAw",
   "postcode": "S65 4PA",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

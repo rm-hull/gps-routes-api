@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:05:15.011346+00:00",
   "objectID": "aef4d5c6c5393e6c70fe2b554931c022",
-  "created_at": "2024-12-18T01:12:39.606496+00:00",
   "ref": "lairg-walking-route",
   "title": "Lairg And Loch Shin Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Little_Loch_Shin_at_Lairg_-_geograph.org.uk_-_3952148.jpg/512px-Little_Loch_Shin_at_Lairg_-_geograph.org.uk_-_3952148.jpg",
@@ -43,7 +43,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Lairg_Station_-_geograph.org.uk_-_5078676.jpg/512px-Lairg_Station_-_geograph.org.uk_-_5078676.jpg",
       "title": "Lairg Station by Peter Moore, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Lairg railway station lies on the picturesque Far North Line, north of Invershin and west of Rogart. It is managed by ScotRail.  Four Inverness to Wick via Thurso trains call here each way on weekdays and Saturdays (along with a fifth Inverness departure southbound in the early morning) and a single departure each way on Sundays."
+      "caption": "Lairg railway station lies on the picturesque Far North Line, north of Invershin and west of Rogart. It is managed by ScotRail. Four Inverness to Wick via Thurso trains call here each way on weekdays and Saturdays (along with a fifth Inverness departure southbound in the early morning) and a single departure each way on Sundays."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Forest_beside_Loch_Shin_-_geograph.org.uk_-_408719.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 2.2,
   "description": "The large village of Lairg is located in Sutherland in the Northern Highlands at the southern end of the beautiful Loch Shin. This circular walk starts from the Ferrycroft Visitor Centre & Information Point on the western side of Little Loch Shin. The handy centre includes lawned gardens with wood carvings, seating and play area. From here you can follow footpaths through Ferry Wood to the impressive Loch Shin Hydro Dam. The impressive dam makes a fine photo with the backdrop of the surrounding hills. To continue your walking around Lairg head south to visit the splendid Falls of Shin. Here you can look out for the leaping salmon and enjoy a woodland walk through the adjacent Shin Forest. The site also includes an informative visitor centre and a cafe.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Pier Cafe is in a fine location overlooking Loch Shin. They have a decking area where you can enjoy a delicious meal with fine views over the water. The cafe can be found at postcode IV27 4EG for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pF8pKQwHUsk",
   "postcode": "IV27 4BB",
   "district": "An Luirg / Lairg",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

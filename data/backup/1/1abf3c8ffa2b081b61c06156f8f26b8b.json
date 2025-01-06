@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:00:47.400580+00:00",
   "objectID": "1abf3c8ffa2b081b61c06156f8f26b8b",
-  "created_at": "2024-12-18T00:54:10.321122+00:00",
   "ref": "whitegate-way-walking-and-cycle-route",
   "title": "Whitegate Way Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Nunsmere_-_geograph.org.uk_-_167323.jpg",
@@ -64,10 +64,17 @@
     }
   ],
   "distance_km": 10.0,
-  "description": "A lovely, short  cycle or walk on a disused railway line, running from Cuddington to Winsford through the Cheshire countryside. You'll pass woodland, lakes and the River Weaver while enjoying fabulous views of Cheshire. The route finishes in Winsford where there are a number of pretty lakes and an 18th century canalside pub. Around Newchurch Common you could create a little circular walk by heading arund the pretty lakes of the Marton Sands Nature Reserve. There are rail links at either end and a car park with toilets in Winsford.",
+  "description": "A lovely, short cycle or walk on a disused railway line, running from Cuddington to Winsford through the Cheshire countryside. You'll pass woodland, lakes and the River Weaver while enjoying fabulous views of Cheshire. The route finishes in Winsford where there are a number of pretty lakes and an 18th century canalside pub. Around Newchurch Common you could create a little circular walk by heading arund the pretty lakes of the Marton Sands Nature Reserve. There are rail links at either end and a car park with toilets in Winsford.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the route in Winsford you could enjoy rest and refreshment at the historic Red Lion. The red brick pub dates from the 18th century and serves good quality food. If the weather is fine you can sit outside and enjoy your meal with views over the River Weaver. You can find them at 1 Wharton Road with a postcode of CW7 3AA for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ggHw5BZRtyc",
   "district": "Cuddington",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:34:07.118533+00:00",
   "objectID": "8eb5b2e9413e41320517aae469eb4de4",
-  "created_at": "2024-12-19T15:44:56.269961+00:00",
   "ref": "loch-garten-walking-route",
   "title": "Loch Garten Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Loch_Garten_-_geograph.org.uk_-_681357.jpg",
@@ -39,6 +39,11 @@
       "description": "Glenlivet Estate",
       "objectID": "ae3e8da810beb790b08299a14918c5ed",
       "ref": "glenlivet-estate-walking-route"
+    },
+    {
+      "description": "Tomintoul",
+      "objectID": "f899851ca926012f1a614e080750a947",
+      "ref": "tomintoul-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/8/8eb5b2e9413e41320517aae469eb4de4.gpx",
@@ -90,9 +95,16 @@
   ],
   "distance_km": 4.0,
   "description": "This walk takes you around the beautiful Loch Garten RSPB Nature Reserve and also visits the nearby Loch Mallachie in the Cairngorms. You start at the Loch Garten Osprey Centre at the north eastern side of the loch. Here you can observe the birds nesting in the Caledonian pineforest, visit the excellent visitor centre and view the birds on the live CCTV camera. There are a number of splendid nature trails to follow through the forest and along the pretty loch. Look out for wildlife which includes red squirrels, dragonflies, crested tits and, in early spring, the capercaillie. The walk continues on woodland trails to the smaller, but still delightful, Loch Mallachie. It's a glorious area with the Cairngorms mountains making a splendid backdrop. The Speyside Way passes nearby so you can pick this up if you would like to extend your walk. You could also head east into the expansive Abernethy Forest where there are miles of trails to follow. The woods include the River Nethy and a series of pretty lochs and streams.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the west there's more peaceful waterside walking around the beautiful clear waters of Loch Vaa. Follow the Speyside Way north east and you could visit the nearby town of Grantown On Spey. There's riverside trails along the River Spey and peaceful woodland in Anagach Woods on the northern side of the river. The pinewoods are a good place to look out for wildlife including Capercaillie and red squirrels. To the north of the town you'll also find the peaceful Lochindorb. The loch has a good walking and cycling path running along its eastern side. From here you can enjoy views across the water to the ruins of Lochindorb Castle which sits on an island in the centre of the loch. To the north east is the splendid Glenlivet Estate where you can enjoy some fine walking and mountain bike trails. There's also the option to visit the famous Glenlivet Whisky Distillery and the delightful village of Tomintoul here. For more walking ideas in the area see the Cairngorms Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/YEA9b--B7E0",
   "postcode": "PH25 3HA",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

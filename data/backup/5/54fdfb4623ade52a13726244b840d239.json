@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:00:29.264268+00:00",
   "objectID": "54fdfb4623ade52a13726244b840d239",
-  "created_at": "2024-12-21T15:11:34.509594+00:00",
   "ref": "ceredigion-coast-path-walking-route",
   "title": "Ceredigion Coast Path Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/A_precipitous_section_of_the_Ceredigion_Coastal_Path_-_geograph.org.uk_-_1168010.jpg",
@@ -38,7 +38,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Llanrhystud%2C_Ceredigion.jpg",
       "title": "John Fielding / Llanrhystud",
-      "caption": "Llanrhystud, Ceredigion. Village and church from the bridleway to Castell-bach.  In the village the rivers Carrog, Wyre and Wyre Fach meet before flowing into the sea. There's also a fine windsurfing beach and a panoramic view of Cardigan Bay."
+      "caption": "Llanrhystud, Ceredigion. Village and church from the bridleway to Castell-bach. In the village the rivers Carrog, Wyre and Wyre Fach meet before flowing into the sea. There's also a fine windsurfing beach and a panoramic view of Cardigan Bay."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/46/Dunes_at_Ynyslas_-_geograph.org.uk_-_7876.jpg",
@@ -47,10 +47,16 @@
     }
   ],
   "distance_km": 100.0,
-  "description": "This walk follows the beautiful coastline of Ceredigion from Cardigan to Borth. The walk is waymarked with a coast and sea logo. The route passes New Quay, Llangrannog, Aberporth, Mwnt, Aberaeron and Aberystwyth. The path includes the dune system at Ynys-las, high cliffs, storm beaches, sandy bays and sea caves. Four sections of the path are designated as Heritage Coast whilst two areas within Cardigan Bay are Marine Special Areas of Conservation. The route also includes the highest numbers of dolphin sightings in the UK  - see the video below for more details. Around Aberaeron there's the option of taking a detour inland along the River Aeron to visit the National Trust's Llanerchaeron. The Grade I listed mansion has some nice trails to follow through the attractive estate. This area also has strong connections with the authour Dylan Thomas who lived in nearby New Quay. Around here you can pick up the Dylan Thomas trail which visits a number of local places associated with the poet.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/54fdfb4623ade52a13726244b840d239.gpx",
-  "_geoloc": {
-    "lat": 52.0813034547,
-    "lng": -4.6612990682
-  }
+  "description": "This walk follows the beautiful coastline of Ceredigion from Cardigan to Borth. The walk is waymarked with a coast and sea logo. The route passes New Quay, Llangrannog, Aberporth, Mwnt, Aberaeron and Aberystwyth. The path includes the dune system at Ynys-las, high cliffs, storm beaches, sandy bays and sea caves. Four sections of the path are designated as Heritage Coast whilst two areas within Cardigan Bay are Marine Special Areas of Conservation. The route also includes the highest numbers of dolphin sightings in the UK - see the video below for more details. Around Aberaeron there's the option of taking a detour inland along the River Aeron to visit the National Trust's Llanerchaeron. The Grade I listed mansion has some nice trails to follow through the attractive estate. This area also has strong connections with the authour Dylan Thomas who lived in nearby New Quay. Around here you can pick up the Dylan Thomas trail which visits a number of local places associated with the poet.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you could stop at the The Glengower in Aberystwyth for some refreshments. The hotel is in a great location on the sea front with nice views and an outdoor seating area for the warmer months. You can find it at 3 Victoria Terrace, Aberystwyth SY23 2DH. In the pretty village of Aberporth you'll find the Ship Inn. The inn includes a traditional bar and dining rooms with views overlooking the sea. It's a great spot to enjoy some delicous sea food. You can find the inn at a postcode of SA43 2DB for your sat navs. It's also dog friendly if you have your canine friend with you. The Cliff Hotel is in a splendid cliff top location in the little village of Gwbert near St Dogmaels. It has some of the most breathtaking views in Wales, overlooking Cardigan Bay, a rugged coastline, the Teifi Estuary and the broad sweep of Poppit Sands. You can find them at postcode SA43 1PP."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can link up with the Borth to Ynyslas Coastal Path which will take you north along Borth Sands to visit Ynyslas and the Dyfi National Nature Reserve. There's some splendid high sand dunes to explore in the wildlife rich reserve. You can also enjoy lovely views over the Dyfi Estuary to Aberdovey on the opposite side. The reserve is located just off the trail, to the north of Borth."
+    }
+  ],
+  "gazetteer_found": false
 }

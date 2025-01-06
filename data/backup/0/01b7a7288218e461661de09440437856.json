@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:56:37.232278+00:00",
   "objectID": "01b7a7288218e461661de09440437856",
-  "created_at": "2024-12-19T11:45:21.491611+00:00",
   "ref": "bourne-end-walking-route",
   "title": "Bourne End Circular River Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Thames_-_Bourne_End_-_geograph.org.uk_-_82794.jpg",
@@ -85,7 +85,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/River_Thames_and_Cookham_Bridge_-_geograph.org.uk_-_489984.jpg",
       "title": "Nigel Cox / River Thames & Cookham Bridge",
-      "caption": "River Thames & Cookham Bridge Built in 1867 by Messrs. Pease Hutchinson at their Skerne Iron Works in Darlington, the bridge replaced a short-lived wooden bridge which in turn had replaced the river ferry here. There is a comprehensive history of the bridge here  which includes some old pictures and photos, including some of the original engineering design drawings of the supporting columns. Interestingly Brunel's submitted design for the bridge was rejected. Up until the 1950s it was a toll bridge, and the toll house can be seen at the far left of the picture."
+      "caption": "River Thames & Cookham Bridge Built in 1867 by Messrs. Pease Hutchinson at their Skerne Iron Works in Darlington, the bridge replaced a short-lived wooden bridge which in turn had replaced the river ferry here. There is a comprehensive history of the bridge here which includes some old pictures and photos, including some of the original engineering design drawings of the supporting columns. Interestingly Brunel's submitted design for the bridge was rejected. Up until the 1950s it was a toll bridge, and the toll house can be seen at the far left of the picture."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/River_Thames%2C_Boulter%27s_Lock%2C_Maidenhead_-_geograph.org.uk_-_158614.jpg",
@@ -105,10 +105,25 @@
   ],
   "distance_km": 14.7,
   "description": "This attractive Buckinghamshire based village has some lovely riverside trails and local woodlands to explore. This circular walk from the village takes you along the Thames to Cookham and Maidenhead before heading back through the countryside. You'll also visit Cock Marsh, an area of common land and floodplain owned by the National Trust just to the south of the village. The walk starts at Bourne End train station and heads south west to meet up with the Thames Path. Follow the riverside trail south and it will take you to Cookham and Maidenhead. The route then follows a countryside trail north to return to Bourne End via the Cock Marsh Site of Special Scientific Interest which includes a prehistoric burial mound.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bounty is in a great spot right next to the river in the village. The interior has a charming nautical theme with a boat-shaped bar and other memorabilia. Outside there's a nice garden area where you can enjoy refreshments while watching the boats go by. You can find them on the Cockmarsh, just south of the village at postcode SL8 5RG."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and country trails make for a fine dog walk. The Bounty mentioned above is also very dog friendly. It even has it's own doggy menu!"
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the village you could visit the lovely Bisham Woods. The woods are thought to have been the original 'Wild Wood' in Kenneth Grahame's 'Wind in the Willows', which he wrote in the nearby village of Cookham Dean. The village is also close to Marlow where you can pick up the Marlow to Hurley River Walk and the Marlow to Henley Walk. In Hurley there's the Hurley Loop Walk which will take you south to the woodland trails in Ashley Hill Forest and the Hurley Chalk Pit Nature Reserve. Just to the east of Marlow is the neighbouring village of Little Marlow. Here you can explore the wildlife rich Spade Oak Nature Reserve and visit the historic 14th century church and 16th century pub.  For more walking ideas in the area see the Buckinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/a0KKKvShbkU",
   "postcode": "SL8 5QG",
   "district": "Bourne End",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:30:37.105635+00:00",
   "objectID": "63ec077e07302809dd71de6f68133cd9",
-  "created_at": "2024-12-18T00:33:14.770253+00:00",
   "ref": "llwyngwril-walking-route",
   "title": "Llwyngwril Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Afon_Gwril_at_the_coast_-_geograph.org.uk_-_1709528.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 1.5,
   "description": "This coastal village is located in a lovely spot just south of Dolgellau, Barmouth and Fairbourne on the edge of the Snowdonia National Park. It's a beautiful place surrounded by steep hills and and green fields. This walk from the village takes you north along the Afon Gwril to the Llwyngwril beach on the coast. Here you can enjoy some splendid views to Cardigan Bay where dolphins can often be spotted. The Wales coast path runs through the village. You could pick this up and follow it south to Tywyn or north towards Barmouth.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Garthangharad Hotel, built about 1736 and converted to a hotel in 1840, is the only pub for miles. It is located in the centre of the hamlet, right across the Afon Gwril bridge from the neighbourhood store. consisting of a front lounge, a back bar, and an outdoor patio with picnic tables. There is pub fare and lodging available. There is a bus stop for route 28 nearby and a train stop on the Cambrian Coast line is ten minutes' walk away. You can find them at postcode LL37 2UZ"
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of Dolgellau you can pick up the circular Torrent Walk which explores the Afon Clywedog gorge with its old mills, pretty waterfalls and rushing weirs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2pB2G967ix0",
   "postcode": "LL37 2JX",
   "district": "Llwyngwril",
   "county": "Gwynedd - Gwynedd",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

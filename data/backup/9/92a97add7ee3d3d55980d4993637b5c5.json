@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:12:37.353300+00:00",
   "objectID": "92a97add7ee3d3d55980d4993637b5c5",
-  "created_at": "2024-12-18T10:31:00.520483+00:00",
   "ref": "trans-pennine-trail-walking-and-cycle-route",
   "title": "Trans Pennine Trail Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Trans-Pennine_Trail_beside_River_Mersey_-_geograph.org.uk_-_447703.jpg",
@@ -120,10 +120,17 @@
   ],
   "distance_km": 346.0,
   "description": "This terrific walking and cycling trail runs from coast to coast across northern England entirely on surfaced paths. It starts on the Yorkshire coast at Hornsea and passes through Yorkshire, Derbyshire and Greater Manchester before finishing on the Merseyside coast at Southport .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you're on a mountain bike then consider exploring Wharncliffe Woods and Grenoside Woods in Sheffield. The trail passes both woods which contains some excellent mountain bike trails and jumps."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/J2AN0vEJHLI",
   "postcode": "HU18 1PW",
   "district": "Hornsea",
   "county": "East Riding of Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

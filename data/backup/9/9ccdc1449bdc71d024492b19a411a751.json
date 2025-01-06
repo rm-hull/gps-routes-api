@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:05:37.322527+00:00",
   "objectID": "9ccdc1449bdc71d024492b19a411a751",
-  "created_at": "2024-12-19T13:46:04.861396+00:00",
   "ref": "lepe-country-park-walking-and-cycle-route",
   "title": "Lepe Country Park Beach Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Beach_car_park_facilities%2C_Lepe_Country_Park_-_geograph.org.uk_-_284345.jpg",
@@ -74,10 +74,25 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "Lepe is a coastal Country Park located near Southampton, in the New Forest National Park. There is a large beach and stunning cliffs where there are fabulous views across the Solent to the Isle of Wight. The park has excellent facilities with Barbeque areas, picnic areas and a cafe. The route below is designed for walkers but there is a Lepe cycle route running through the park and the surrounding area  - please click here for details. The park is located a few miles east of Bealieu where you can continue your walking on Beaulieu Heath or along the lovely Beaulieu River to the maritime village of Buckler's Hard.",
+  "description": "Lepe is a coastal Country Park located near Southampton, in the New Forest National Park. There is a large beach and stunning cliffs where there are fabulous views across the Solent to the Isle of Wight. The park has excellent facilities with Barbeque areas, picnic areas and a cafe. The route below is designed for walkers but there is a Lepe cycle route running through the park and the surrounding area - please click here for details. The park is located a few miles east of Bealieu where you can continue your walking on Beaulieu Heath or along the lovely Beaulieu River to the maritime village of Buckler's Hard.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a decent on site cafe at the park, selling a good range of meals and snacks. You can sit outside and enjoy fine views across the water with your meal."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park and beach trails are ideal for dog walking so you'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head north east along the coast to visit Calshot Castle and the Calshot Marshes Nature Reserve. The Ashlett Creek to Calshot Walk will take you from Ashlett Quay along the creek to the site. There's great views across Southampton Water and lots of birdlife to look out for in the reserve. The castle and sea wall are also well worth exploring. The artillery fort has an interesting history having been constructed by Henry VIII on the Calshot Spit during the 16th century. Just to the north west there's the lovely Exbury Gardens to explore. There's 200 acres of flowers and rare plants with good surfaced footpaths provided. For more walking ideas in the area see the Hampshire Walks and the New Forest Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QUrFJ9iSkak",
   "district": "Lepe",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

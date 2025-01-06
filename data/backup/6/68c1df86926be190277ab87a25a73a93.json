@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:25:37.428152+00:00",
   "objectID": "68c1df86926be190277ab87a25a73a93",
-  "created_at": "2024-12-19T23:46:04.439319+00:00",
   "ref": "pontypool-walking-route",
   "title": "Pontypool Walks - Near and Around",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg/512px-Autumn_Sunlight_in_Pontypool_Park_-_geograph.org.uk_-_1842879.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 4.0,
   "description": "This Torfaen county based town has a fine local park and waterside trails along the local river and canal. This walk from the town explores Pontypool Park before heading along the Lwyd to the Monmouthshire and Brecon Canal. The extensive park is located in the town centre and includes some nice walking trails taking you to ponds, woodland, Italian gardens, a stone circle, streams and a ski slope. At the eastern end of the park you can stroll along the river to the canal at Pontymoel. You could extend the walk by following the canal south to visit the neighbouring town of Cwmbran where you could explore the Blaen Bran Reservoir and Community Woodland. If you follow it north it will take you to the popular Goytre Wharf where there's boat hire, an informative heritage centre and on site cafe.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive park is a popular place for dog walkers so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Pontypool and Blaenavon Railway is one of the town's popular attractions. The steam trains will take you to the World Heritage site at Blaenavon. Near here you can enjoy a more challenging climb to Blorenge and visit the delightful Keepers Pond. A few miles to the east there's the expansive Llandegfedd Reservoir where there's a nice waterside circular trail to try. Near here is the neighbouring town of Usk where you can explore the historic castle ruins and pick up the long distance Usk Valley Walk. The epic Cambrian Way passes through the town. The long distance waymarked route starts from the city of Cardiff and runs for nearly 300 miles through the Brecon Beacons, the Cambrian Mountains and Snowdonia before finishing on the North Wales coast at Conwy."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/PKiyoW_Rczs",
   "postcode": "NP4 6JH",
   "district": "Pontypool / Pont-y-p\u0175l",
   "county": "Torfaen - Torfaen",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

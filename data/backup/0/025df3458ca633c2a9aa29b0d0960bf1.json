@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:21:00.920423+00:00",
   "objectID": "025df3458ca633c2a9aa29b0d0960bf1",
-  "created_at": "2024-12-21T03:34:23.470205+00:00",
   "ref": "waldridge-fell-country-park-walking-route",
   "title": "Waldridge Fell Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sign_in_car_park_Waldridge_Fell_-_geograph.org.uk_-_245736.jpg",
@@ -90,10 +90,25 @@
   ],
   "distance_km": 3.5,
   "description": "Enjoy fantastic views of the surrounding countryside in this country park in Chester-le-Street. There are a number of waymarked routes running through this area of lowland heath. The park is full of interesting plantlife and wildlife including Stonechat, Roe Deer and the Emperor Moth. To extend your walking in the area you can head east and visit the riverside park, the 14th century Lumley Castle. Here you can pick up the Weardale Way for a nice riverside stroll. The long distance Great North Forest Heritage Trail and the popular Consett and Sunderland Railway Path pass just to the north of the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Chester Moor pub is located just to the south east. There's a lovely garden area to sit out in and they do a fine Sunday lunch. You can find them at Front St, DH2 3RJ."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a fine place for a dog walk with woodland and heathland paths. It's popular with dog walkers so you'll probably meet some other friendly owners on your visit. The Chester Moor mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north there's some peaceful woodland trails to be found around Beamish Woods. On the outskirts of nearby Consett there's Allensford Country Park to explore. There's nice riverside trails, a decent cafe and a lovely waterfall on the Wharnley Burn in this popular and picturesque park. A few miles to the south east of the park there's one of the area's historic highlights at Finchale Abbey. Here you can explore the photogenic ruins of the ancient abbey which dates back to the 13th century. The Grade I listed priory site is run by English Heritage and includes woodland and riverside walks. For more walking ideas in the area see the County Durham Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/5BipS2_oRU8",
   "postcode": "DH2 3BU",
   "district": "Waldridge",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

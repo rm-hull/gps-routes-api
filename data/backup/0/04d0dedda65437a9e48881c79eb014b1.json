@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:08:17.356060+00:00",
   "objectID": "04d0dedda65437a9e48881c79eb014b1",
-  "created_at": "2024-12-18T16:17:37.747130+00:00",
   "ref": "manor-park-country-park-walking-route",
   "title": "Manor Park Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Footbridge_in_Manor_Park_Country_Park_-_geograph.org.uk_-_1145712.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Kissing_gate_at_Manor_Park_Country_Park%2C_West_Malling_-_geograph.org.uk_-_1752012.jpg/512px-Kissing_gate_at_Manor_Park_Country_Park%2C_West_Malling_-_geograph.org.uk_-_1752012.jpg",
       "title": "PAUL FARMER / Kissing gate at Manor Park Country Park, West Malling",
-      "caption": "Kissing gate at Manor Park Country Park, West Malling.  The gate is at the boundary of the park and Water Lane. The park was once part of the landscaped grounds of Douces Manor."
+      "caption": "Kissing gate at Manor Park Country Park, West Malling. The gate is at the boundary of the park and Water Lane. The park was once part of the landscaped grounds of Douces Manor."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Entrance_to_Manor_Park_Country_Park_-_geograph.org.uk_-_1145695.jpg",
@@ -75,9 +75,24 @@
   ],
   "distance_km": 4.0,
   "description": "Located near Maidstone in Kent, this 52 acre country park has fields, wildflower meadows and a lake with swans, herons, moorhens and dabchicks. The park has a number of footpaths making it an ideal place for an afternoon stroll. There's also good on site facilities with a play area, cafe and picnic area. The park is located in the town of West Malling so you could visit the park from the nearby train station. See the West Malling Walk for more details on this.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is a good on site cafe selling a range of meals and snacks at reasonable prices."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers with its meadows and parkland trails."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head east into Maidstone and try our Maidstone River Walk which takes you along the River Medway. Mereworth Woods are located just to the south west of the park. There's ancient woodland with miles of trails to try here. Just to the south there's neighbouring Kings Hill where you can visit the wildlife rich Warren Woods Nature Park and enjoy the greenways which are suitable for cyclists and walkers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/38k-9aIThec",
   "district": "West Malling",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

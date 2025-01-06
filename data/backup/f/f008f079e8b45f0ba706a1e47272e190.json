@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:02:45.955269+00:00",
   "objectID": "f008f079e8b45f0ba706a1e47272e190",
-  "created_at": "2024-12-18T10:47:45.433400+00:00",
   "ref": "aylesbeare-common-walking-route",
   "title": "Aylesbeare Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Aylesbeare_Common_-_geograph.org.uk_-_1129967.jpg",
@@ -50,8 +50,19 @@
   ],
   "distance_km": 5.0,
   "description": "This circular walk takes you around the lovely Aylesbeare Common RSPB reserve in Devon. There are miles of good footpaths crossing the common, including the East Devon Way. The area consists of heathland, woodland, streams and ponds with a wide variety of wildlife to look out for. These include birds such as Dartford warblers, nightjars and stonechats plus various butterflies, dragonflies and damselflies. The walk can be extended by heading south west along the East Devon Way to the Hawkerland Valley and Woodbury Common. Here you will find miles of walking trails through heathland and heather with an ancient hill fort. The boardwalks, wildflower meadows and lilly-pad filled lake at the wildlife rich Bystock Pools Nature Reserve is also located in this area. If you head east you will soon come to Harpford Wood and Harpford Common where you can climb Beacon Hill for great views to Sidmouth and the coast.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head east from the common into the village of Newton Poppleford for some post walk refreshments. The Cannon Inn on the High Street has a lovely large beer garden to sit out in on warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a nice place for a dog walk but please keep them on leads."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/eEonvj2fvFE",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

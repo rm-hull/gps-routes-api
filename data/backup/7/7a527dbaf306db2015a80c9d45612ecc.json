@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:40:13.470295+00:00",
   "objectID": "7a527dbaf306db2015a80c9d45612ecc",
-  "created_at": "2024-12-18T01:12:16.864219+00:00",
   "ref": "lady-marys-walk-crieff-walking-route",
   "title": "Lady Mary's Walk Crieff Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Bandstand%2C_Mcrostie_Park%2C_Crieff_-_geograph.org.uk_-_1246132.jpg",
@@ -29,6 +29,11 @@
       "description": "Buchanty Spout",
       "objectID": "2450c35fbdadf86fba825d5e978dc48d",
       "ref": "buchanty-spout-walking-route"
+    },
+    {
+      "description": "River Earn Walk",
+      "objectID": "86c481aaa62b733223952fed9bbaadc9",
+      "ref": "river-earn-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7a527dbaf306db2015a80c9d45612ecc.gpx",
@@ -69,9 +74,16 @@
     }
   ],
   "distance_km": 8.0,
-  "description": "This delightful walk in Crieff takes you through riverside woodland to the west of the Perthshire town. It runs along a 2.5 mile accessible path so is suitable for all abilities. The trail is named after Lady Mary Murray whose family were local landowners in the early 19th century. Start the walk from the lovely Macrosty Park where you can enjoy fine views across Strathearn and towards Ben Chonzie. You can pick up a nice path heading south along the Turret Burn toward the River Earn. The trail then follows the river west with lovely river views and an avenue of mature oak, beech, lime and sweet chestnut trees. It's a really lovely spot, particulary in the autumn months when the tree colours are stunning. Look out for wildlife including Herons, kingfishers, and oystercatchers as you make your way along the path. The route down to Trowan Bridge where you can extend the walk by have a stroll around Trowan Wood. There's some nice trails here with lots of pretty bluebells to see in the spring months. You can also see the Obelisk to General Sir David Baird who was a British military leader. Baird appears as a character in the Richard Sharpe series of novels, focusing on his role in the 1799 Mysore campaign, and the 1807 expedition to Copenhagen. After exploring the woods the route returns to Crieff on the same paths. You can further extend your walk by climbing to the nearby Laggan Hill where there are fine views over the area. Crieff is also not far from the eastern end of Loch Earn where there's a lovely viewpoint to climb to. You can also pick up the St Fillans to Comrie Railway Walk and the Lochearnhead to St Fillans Railway Walk along the now disused railway line here.",
+  "description": "This delightful walk in Crieff takes you through riverside woodland to the west of the Perthshire town. It runs along a 2.5 mile accessible path so is suitable for all abilities. The trail is named after Lady Mary Murray whose family were local landowners in the early 19th century. Start the walk from the lovely Macrosty Park where you can enjoy fine views across Strathearn and towards Ben Chonzie. You can pick up a nice path heading south along the Turret Burn toward the River Earn Walk. The trail then follows the river west with lovely river views and an avenue of mature oak, beech, lime and sweet chestnut trees. It's a really lovely spot, particulary in the autumn months when the tree colours are stunning. Look out for wildlife including Herons, kingfishers, and oystercatchers as you make your way along the path. The route down to Trowan Bridge where you can extend the walk by have a stroll around Trowan Wood. There's some nice trails here with lots of pretty bluebells to see in the spring months. You can also see the Obelisk to General Sir David Baird who was a British military leader. Baird appears as a character in the Richard Sharpe series of novels, focusing on his role in the 1799 Mysore campaign, and the 1807 expedition to Copenhagen. After exploring the woods the route returns to Crieff on the same paths. If you'd like to extend your outing you can continue along the river to Comrie on the River Earn Walk. You can further extend your walk by climbing to the nearby Laggan Hill where there are fine views over the area. Crieff is also not far from the eastern end of Loch Earn where there's a lovely viewpoint to climb to. You can also pick up the St Fillans to Comrie Railway Walk and the Lochearnhead to St Fillans Railway Walk along the now disused railway line here.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In nearby Comrie you can visit the splendid Deil's Cauldron. Here you'll find a cascading waterfall and several pools resembling a boiling cauldron. To the north east there's Buchanty Spout where you will find a delightful waterfall on the River Almond. It's a quiet, scenic spot where you watch the salmon leaping in late summer and autumn."
+    }
+  ],
   "district": "Crieff",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

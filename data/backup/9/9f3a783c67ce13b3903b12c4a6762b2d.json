@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:36:12.181220+00:00",
   "objectID": "9f3a783c67ce13b3903b12c4a6762b2d",
-  "created_at": "2024-12-18T19:44:42.403890+00:00",
   "ref": "hickling-walking-route",
   "title": "Hickling Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Grantham_Canal_at_Hickling_-_geograph.org.uk_-_2227756.jpg/512px-Grantham_Canal_at_Hickling_-_geograph.org.uk_-_2227756.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 8.5,
   "description": "This walk follows a pleasant section of the Grantham Canal and the Cross Britain Way from the village of Hickling to Harby. It's about a 5.5 mile walk to the neighbouring village, so ideal for an afternoon stroll. The village also has a fine 18th century canalside pub to relax in after your exercise. Along the way there's fine views of the lovely Vale of Belvoir countryside to enjoy. The walk starts just north of Hickling where you can pick up the canal towpath and follow it east past Clarke's Bridge to the village of Hose. The route continues to Harby where you can leave the canal and head south to explore the village and enjoy some refreshments.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village the Plough Inn is a nice place to go for refreshments. The 18th century pub was originally built as a stop off for boats transporting goods up and down the canal. It's situated right opposite the canal wharf and has a cosy interior with an open fire. Outside there's a sunny courtyard and a bright sun terrace enhanced with beautiful palms. You can find them on Main Street at postcode LE14 3AH."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The towpath is a nice place for an easy dog walk. The Plough Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north along the canal and it will take you towards Kinoulton and Cotgrave Country Park near Nottingham. The attractive park includes woodland, wetland and pretty lakes."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/_8EZ2rG9u34",
   "postcode": "LE14 3AH",
   "district": "Hickling",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

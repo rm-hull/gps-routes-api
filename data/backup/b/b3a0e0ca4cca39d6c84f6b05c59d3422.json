@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:07:25.269242+00:00",
   "objectID": "b3a0e0ca4cca39d6c84f6b05c59d3422",
-  "created_at": "2024-12-18T10:06:45.703370+00:00",
   "ref": "birches-valley-walking-route",
   "title": "Birches Valley Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Birches_Valley_Visitor_Centre%2C_Cannock_Chase_-_geograph.org.uk_-_90038.jpg",
@@ -49,7 +49,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Forest_Pool_-_geograph.org.uk_-_545217.jpg",
-      "title": "Paul Sumner / Forest  Pool",
+      "title": "Paul Sumner / Forest Pool",
       "caption": "Forest Pool"
     },
     {
@@ -75,9 +75,20 @@
   ],
   "distance_km": 3.3,
   "description": "This circular walk visits the Birches Valley area of the Cannock Chase AONB. The site includes a visitor centre, car park, walking paths, mountain bike trails and a Go Ape adventure park. You can find the centre just to the west of the town of Rugeley. From here you can pick up trails heading through the woodland to the pretty Fairoak Pools and the Stony Brook Pools. It's a delighful area with good footpaths and lots of attractive water features to admire.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking so expect to see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In nearby Rugeley you can pick up the Trent and Mersey Canal and follow the towpath to the splendid Shugborough Park. Blithfield Reservoir and the village of Abbots Bromley are also nearby. Just to the south west you'll find the Hednesford Hills. It's an interesting place for a walk with heathland trails, a popular stock car race track and the Museum of Cannock Chase where you can learn all about the mining history of the area. For more walking ideas see the Cannock Chase Walks and the Staffordshire Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IfDNNQkxEE4",
   "postcode": "WS15 2UQ",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:48:43.259759+00:00",
   "objectID": "a532c4b1297b0fb30815d78e92622618",
-  "created_at": "2024-12-18T12:55:53.029576+00:00",
   "ref": "thorndon-country-park-walking-and-cycle-route",
   "title": "Thorndon Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Thorndon_Country_Park_-_geograph.org.uk_-_1390066.jpg",
@@ -90,8 +90,23 @@
   ],
   "distance_km": 8.0,
   "description": "This large country park is located near Brentwood in Essex and contains a number of fine woodland trails, ideal for walking or cycling. The park is made up of ancient woodland, an ancient deer park, grassland and three small lakes. There is also a useful Countryside Centre with a permanent exhibition and a shop selling gifts and refreshments.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe selling a range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the wide woodland paths are ideal for dog walking so you'll probably see plenty of other owners on your visit. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south west from the park and you can enjoy riverside trails at Hornchurch Country Park in Upminster. To the north east is the town of Billericay where there's peaceful woodland trails at Norsey Woods and an impressive dam at the expansive Hanningfield Reservoir. Brentwood has another country park in the shape of Weald Country Park. It's located just north west of the town and has a lovely circular trail around a picturesque lake. For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/5OIqbPM5d-8",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

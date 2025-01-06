@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:45:32.533620+00:00",
   "objectID": "1bc4c0ac530b2f0dd2dfd8070c3b6303",
-  "created_at": "2024-12-19T07:55:53.818146+00:00",
   "ref": "coniston-to-langdale-walking-route",
   "title": "Coniston to Langdale Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coniston_Village_-_geograph.org.uk_-_1544554.jpg",
@@ -75,8 +75,15 @@
   ],
   "distance_km": 17.0,
   "description": "This is the second leg of the Cumbria Way taking you from Coniston to Langdale. The walk starts in the village of Coniston and takes you to the picturesque Tarn Hows, Skelwith Bridge, the village of Elterwater and then onto Langdale. There's much to enjoy on this leg including Elterwater Lake, the little village of Chapel Stile, Skelwith Force Waterfalls and fabulous views of Langdale Pikes .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Skelwith Bridge you can enjoy refreshments at the lovely Chesters by the River cafe. Here you'll find a nice riverside deck where you can sit outside and enjoy lunch on finer days. There's delicious salads, specials, cakes and a shop where you can buy souvenirs. You can find it at postcode LA22 9NW for your sat navs."
+    }
+  ],
   "district": "Coniston",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

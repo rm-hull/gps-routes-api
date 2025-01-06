@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:36:10.688934+00:00",
   "objectID": "22d745148502d4cae568114dcf0d5174",
-  "created_at": "2024-12-21T15:45:34.645446+00:00",
   "ref": "forest-of-bowland-walk-walking-route",
   "title": "Forest of Bowland Circular Walk - Caton Slaidburn Garstang Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/35/Low_Mill%2C_Caton_-_geograph.org.uk_-_2947647.jpg",
@@ -80,9 +80,11 @@
   ],
   "distance_km": 109.0,
   "description": "A circular walk around the Forest of Bowland AONB in Lancashire. You start at Caton and visit Slaidburn, Clitheroe, and Garstang before returning to Caton. The walk begins with a lovely riverside stretch along the River Lune from Caton to Hornby. You continue to Slaidburn before following the River Ribble through Clitheroe and climbing Longridge Fell for some splendid views. The next section takes you to Calder Vale and then onto Garstang, passing Beacon Fell which is well worth a slight detour from the trail (see video). The final section takes you from Garstang to Caton passing Nicky Nook. There's a great viewpoint here (see video below) and the Barnacre and Grizedale Reservoirs.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/22d745148502d4cae568114dcf0d5174.gpx",
-  "_geoloc": {
-    "lat": 54.0760978946,
-    "lng": -2.7180617462
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just north east of Clitheroe is the pretty village of Sawley. Here you can visit the ruins of the 12th century Sawley Abbey which is run by English Heritage. The river is particularly scenic here and there's also a splendid riverside pub for post walk refreshments. Just west of here is the neighbouring village of Waddington. The village is very pretty and a regular winner of the Lancashire Best Kept Village awards. A stroll along the Waddington Brook and through the delightful Coronation gardens is recommended here. Also in this area is the worthy village of Bolton by Bowland where there's two pretty village greens and views of the Skirden Beck."
+    }
+  ],
+  "gazetteer_found": false
 }

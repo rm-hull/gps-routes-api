@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:24:26.310265+00:00",
   "objectID": "6191cea56b4dbd0b592c05418f4ef7b8",
-  "created_at": "2024-12-18T11:27:55.835864+00:00",
   "ref": "knebworth-country-park-walking-route",
   "title": "Knebworth Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Mausoleum_at_Knebworth_House_Herts_-_geograph.org.uk_-_476189.jpg",
@@ -70,10 +70,17 @@
   ],
   "distance_km": 5.5,
   "description": "A walk through the delightful country park surrounding Knebworth House in Stevenage. The park consists of 250 acres of rolling hills with ancient chestnut and lime avenues. There are also herds of Red and Sika deer to look out for. The Stevenage Outer Orbital Path passes the park. The circular trail is a great way of exploring the countryside and woodland surrounding the town.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south west you will find the noteworthy village of Ayot St Lawrence. The village is notable for its connections with the playwright George Bernard Shaw and is the site of Shaw's Corner, his old residence. There's also a ruined 12th century church and a lovely pub which dates from the 14th century to see here. Near here there's Codicote where you can visit the nearby Hoo Park and enjoy some pretty bluebell woods and a rather fine old bridge over the River Mimram. The village is also very attractive with several timber framed buildings and a historic 16th century pub to admire."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9i5_gvXDa7Q",
   "postcode": "SG3 6PY",
   "district": "Old Knebworth",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

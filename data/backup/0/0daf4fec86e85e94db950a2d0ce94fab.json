@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:49:35.357139+00:00",
   "objectID": "0daf4fec86e85e94db950a2d0ce94fab",
-  "created_at": "2024-12-18T20:32:29.510763+00:00",
   "ref": "clatteringshaws-loch-walking-route",
   "title": "Clatteringshaws Loch Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Memorial_Stone_at_Clatteringshaws_Loch_-_geograph.org.uk_-_540098.jpg",
@@ -90,8 +90,23 @@
   ],
   "distance_km": 1.5,
   "description": "This large freshwater reservoir is part of the wider Galloway Forest Park in Dumfries and Galloway. At the eastern side of the loch you'll find good facilities with a visitor centre, cafe and car parking area. Here you can pick up some nice walking trails taking you along the water to the memorial stone and Bruce's Stone. The historical landmark is said to be the spot where Robert the Bruce once rested after battle. There's also lovely views over the water to the surrounding hills and some peaceful woodland trails to enjoy at the site. Keep your eyes peeled for a variety of wildlife including deer and Red Kites.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe selling a range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The loch and surrounded forest are ideal for a dog walk. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north of the water you can pick up the epic Southern Upland Way. The trail could be followed west along the River Dee to Loch Dee and Loch Trool. Loch Doon is also positioned within the park. Here you'll find waterside trails and an interesting 14th century castle. Near Loch Doon there's also Loch Bradan, Loch Skelloch and the pretty Water of Girvan to explore. Loch Ken is located just to the east at New Galloway and includes a lovely RSPB Nature Reserve. At the southern end of the loch you can pick up a shared cycling and walking trail and follow it south to visit Loch Grannoch and the Big Water of Fleet Viaduct. The viaduct is a local historic highlight and provides wonderful views over the area from the top. You can also explore the wonderful wild landscape of the Cairnsmore of Fleet National Nature Reserve in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/wJ575bXMYkc",
   "county": "Dumfries and Galloway",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:02:54.839086+00:00",
   "objectID": "1e41aa81a06c1621030798e31cba34af",
-  "created_at": "2024-12-18T09:54:12.629096+00:00",
   "ref": "chalkland-way-walking-route",
   "title": "Chalkland Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Pocklington_-_geograph.org.uk_-_211241.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 64.0,
   "description": "This circular walk takes you on a tour of the beautiful Yorkshire Wolds around Pocklington, where the walk starts and ends. You will pass through Britain's most northerly chalk outcrop while also visiting a series of pretty villages including Great Givendale, Thixendale, Fimber, Wetwang and Huggate. You'll also pass near Millington Woods which make a nice detour from the route if you have time.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the little village of Millington you can visit the charming Gait Inn for some refreshments on the route. The pub has a delightful large garden area to relax in on warmer days. There's a good selection of drinks, a fine menu and a friendly atmosphere too. The pub also has an interesting history, dating from the 16th century. They provide accommodation in the shape of two pretty cottages so you can stay over if you need to. You can find the pub in the pretty little village with a postcode of YO42 1TY for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Pocklington we recommend a walk along the Pocklington Canal and a visit to the very pretty Burnby Hall Gardens. It's a lovely place for an afternoon stroll with landscaped gardens and two lakes. The park is notable for over 100 types of water lilies displayed in the lakes where you can also feed the fish. There's also an ornamental bridge, a Victorian Garden, an Aviary Garden, a newly restored Edwardian Rock Garden, a Stumpery, and a Birch Walk, the latter being the most recent horticultural addition. You can find out about the history of the area in the Stewart Museum. It houses a fascinating collection of artefacts collected by Major Stewart on eight world tours that were undertaken between 1906 and 1926, several of which have been deemed by UNESCO as being of national and international importance. Afterwards visit the cafe where you can enjoy refreshments with a view. You can find the park in the town centre with a postcode of YO42 2QF for your sat navs.  Burnby Hall - Victorian Gardens and Dragonfly Pond"
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/slJfQR000wM",
   "district": "Pocklington",
   "county": "East Riding of Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

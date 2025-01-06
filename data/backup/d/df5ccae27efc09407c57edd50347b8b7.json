@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:09:24.363185+00:00",
   "objectID": "df5ccae27efc09407c57edd50347b8b7",
-  "created_at": "2024-12-18T11:31:12.359897+00:00",
   "ref": "loch-tulla-walking-route",
   "title": "Loch Tulla Viewpoint Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Red_deer_and_blue_loch._-_geograph.org.uk_-_819041.jpg",
@@ -70,8 +70,15 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits the Loch Tulla viewpoint off the A82 near Bridge of Orchy, Argyll and Bute. You can park at the viewpoint car park and then enjoy a little stroll along the fairly large roadside parking area. There's fabulous views down to the loch below and the surrounding hills and mountains.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of the loch you can pick up the excellent circular walk around Glen Orchy. In the glen there's a series of impressive waterfalls, streams and rivers to enjoy. The epic West Highland Way can be followed to the glen from the western side of the loch. The Tyndrum to Bridge of Orchy Walk follows a popular section south. The Bridge of Orchy to Kingshouse Walk follows the trail north to Glencoe. To the south of here there's also the noteworthy Ben Lui National Nature Reserve where you'll find some lush mountain vegitation and wonderful views. A little further afield there's the interesting Loch Awe and Kilchurn Castle Walk. The popular route visits the ruins of a photogenic 15th century castle which sits in a wonderful position next to the loch. Just west of the castle is the Cruachan Dam and Falls of Cruachan Waterfall Walk. In this area you can visit the Falls of Cruachan, the impressive hydroelectric dam and explore the Cruachan Power Station."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/81I3m_-qN_g",
   "county": "Argyll and Bute",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

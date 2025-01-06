@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:09:34.207409+00:00",
   "objectID": "cf736d2df666648b4fc81915d1a065f9",
-  "created_at": "2024-12-19T21:46:34.738854+00:00",
   "ref": "cross-bucks-way-walking-route",
   "title": "Cross Bucks Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Cross_Bucks_Way_-_geograph.org.uk_-_810091.jpg",
@@ -65,9 +65,20 @@
   ],
   "distance_km": 38.0,
   "description": "Travel from Stratton Audley in Buckinghamshire to Linslade, near Leighton Buzzard along the Cross Bucks Way. The route meanders through the Buckinghamshire countryside passing Hillesden, Winslow and Hollingdon before a pleasant waterside stretch along the Grand Union Canal Walk takes you to Linslade.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Leighton Buzzard you could stop off at The Grove Lock. At the canalside pub you can sit outside and enjoy fine views over the water. It's located just south to the start point of the route at postcode LU7 0QU for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Bedfordshire Walks and the Buckinghamshire Walks pages."
+    }
+  ],
   "postcode": "OX27 9BL",
   "district": "Stratton Audley",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

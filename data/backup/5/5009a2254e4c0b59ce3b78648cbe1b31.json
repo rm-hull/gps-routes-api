@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:55:51.845282+00:00",
   "objectID": "5009a2254e4c0b59ce3b78648cbe1b31",
-  "created_at": "2024-12-18T10:02:52.093649+00:00",
   "ref": "loch-of-the-lowes-walking-route",
   "title": "Loch of the Lowes Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Car_Park_-_Loch_of_the_Lowes_-_geograph.org.uk_-_1721375.jpg",
@@ -24,6 +24,16 @@
       "description": "Loch Freuchie",
       "objectID": "76de5e595ab8331b2f4c80474926dcc5",
       "ref": "loch-freuchie-walking-route"
+    },
+    {
+      "description": "Birnam Hill",
+      "objectID": "ddf3ac06805d317f9f38d2b061286b71",
+      "ref": "birnam-hill-walking-route"
+    },
+    {
+      "description": "Birnam Oak",
+      "objectID": "1e410d87bdb55a86d39c81b9c81e6337",
+      "ref": "birnam-oak-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5009a2254e4c0b59ce3b78648cbe1b31.gpx",
@@ -75,8 +85,15 @@
   ],
   "distance_km": 1.0,
   "description": "This beautiful loch near Dunkeld is also a wildlife reserve, run by the Scottish Wildlife Trust. The loch is a popular bird watching site with the nesting ospreys the main draw. There's also red squirrels, beavers, woodpeckers and deer to look out for in this lovely area. You can start the walk from the car park and visitor centre at the western end of the loch. Then pick up the trails to the woodland, bird hides and lochside. There's also a country lane/footpath running along the southern side of the loch which you can follow towards the Loch of Butterstone to the east. To continue your lochside walking in the area you could head and east and visit Loch Clunie. The epic Cateran Trail can also be picked up in nearby Blairgowie.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west is the The Hermitage Woodland Walk. Here you'll find magnificent giant Douglas fir trees, the spectacular Black Linn Falls and views of the River Braan. You can also try the Tay Forest Park Walk which starts from the car park and heads north through the woodland of Craigvinean Forest. The climb to Birnam Hill can also be found just south of Dunkeld. There are some excellent views from this fine vantage point. Heading east along the river from the town will take you to the famous Birnam Oak, an ancient tree mentioned in Shakespeare\u2019s Macbeth. A few miles to the north is the tranquil Loch Ordie in the Forest of Clunie."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LYKmSDnbUuo",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

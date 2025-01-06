@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:23:11.506759+00:00",
   "objectID": "42ae4679c50d9e252513fb41afd7a2ca",
-  "created_at": "2024-12-18T00:56:44.900464+00:00",
   "ref": "allensford-country-park-walking-route",
   "title": "Allensford Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Allensford_Park_-_geograph.org.uk_-_897542.jpg",
@@ -55,9 +55,24 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy riverside woodland walks and magnificent views of the Derwent Valley in this country park near Consett. The River Derwent runs right through the park, with riverside footpaths to follow. The park has picnic tables, a shop and a nature trail in Deneburn Wood. Near the park there's also a picturesque waterfall and old bridge on the Wharnley burn. You can find this just west of the car park. On the northern side of the river there's also the Allensford blast furnace which is part of the local heritage trail and of some industrial archaeological interest.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the eastern end of the park there's the Cafe at Inn on the Park for some post walk refreshment. They serve some lovely homemade food including a delicious Sunday lunch."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and riverside trails make for a fine dog walk so you'll probably see other owners on your visit. The on site cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east there's the town of Consett where you can pick up the popular Consett and Sunderland Railway Path. The shared cycling and walking route will take you along a disused railway path from Consett to Sunderland. To the west there's a major local highlight at Pow Hill Country Park and Derwent Reservoir. There's some nice waterside trails along the expansive reservoir. For more walking ideas in the area see the County Durham Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LKBElgnBLmM",
   "district": "Allensford",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

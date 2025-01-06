@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:01:07.501331+00:00",
   "objectID": "01d94c388253431d9f7218f7f2a88216",
-  "created_at": "2024-12-18T10:55:47.349760+00:00",
   "ref": "knettishall-heath-country-park-walking-route",
   "title": "Knettishall Heath Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Dew_Pond_on_Knettishall_Heath_-_geograph.org.uk_-_911519.jpg",
@@ -75,8 +75,15 @@
   ],
   "distance_km": 6.0,
   "description": "This delightful open space near Thetford is the start point for three of Britain's best long distance walks:- the Icknield Way Path, the Peddars Way and Norfolk Coast Path, and the Angles Way. At Knettishall you'll find 430 acres of woodland and riverside meadows, as well as large areas of heath. The park has a number of lovely woodland and heathland footpaths with views of the Little Ouse River.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west and you could enjoy a pleasant waterside walk on the Thetford River Walk. You can also explore the expansive Thetford Forest in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/leIDwMxPIBM",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

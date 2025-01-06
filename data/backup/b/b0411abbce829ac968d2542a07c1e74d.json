@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:02:05.368869+00:00",
   "objectID": "b0411abbce829ac968d2542a07c1e74d",
-  "created_at": "2024-12-18T10:03:02.368300+00:00",
   "ref": "loch-ordie-walking-route",
   "title": "Loch Ordie Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Afternoon_sun_on_Loch_Ordie_-_geograph.org.uk_-_1970339.jpg",
@@ -24,6 +24,16 @@
       "description": "Loch Freuchie",
       "objectID": "76de5e595ab8331b2f4c80474926dcc5",
       "ref": "loch-freuchie-walking-route"
+    },
+    {
+      "description": "Birnam Hill",
+      "objectID": "ddf3ac06805d317f9f38d2b061286b71",
+      "ref": "birnam-hill-walking-route"
+    },
+    {
+      "description": "Birnam Oak",
+      "objectID": "1e410d87bdb55a86d39c81b9c81e6337",
+      "ref": "birnam-oak-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b0411abbce829ac968d2542a07c1e74d.gpx",
@@ -65,8 +75,15 @@
   ],
   "distance_km": 3.0,
   "description": "This walk follows trails around the beautiful Loch Ordie in the Forest of Clunie, Dunkeld. You can follow a circular trail around the tranquil loch with fine views to the surrounding woodland and forestry. You can reach the loch by following footpaths from Guay, Dowally or Kindallachan which sit next to the River Tay about 3 miles west of the loch.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east from the loch and you can climb to Riemore Hill and visit Loch Benachally. Head south into Dunkeld and you can try the delightful Hermitage Woodland Walk. The climb to Birnam Hill can also be found just south of Dunkeld. There are some excellent views from this fine vantage point. Heading east along the river from the town will take you to the famous Birnam Oak, an ancient tree mentioned in Shakespeare\u2019s Macbeth. You can enjoy more waterside walking around the Loch of the Lowes and Loch Clunie. There's also Tay Forest Park with miles of good walking and cycling trails to try."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hp1rED8lPFI",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:19:33.645649+00:00",
   "objectID": "38d80bbe2ce24083898deb6f247c70ae",
-  "created_at": "2024-12-18T05:44:11.704580+00:00",
   "ref": "withernsea-walking-route",
   "title": "Withernsea Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_Sandcastle%2C_Withernsea_-_geograph.org.uk_-_201645.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 32.0,
   "description": "This coastal village in East Riding of Yorkshire has some nice beach walks to enjoy. In the village there's a nice wide promenade and interesting old buildings including the pier towers and the lighthouse which are significant local landmarks. This walk from the village takes you south along the beach to visit the neighbouring villages of Holmpton and Easington. You then have the option of continuing to one of the highlights of the area at the Spurn Point. The narrow sand spit is a nature reserve with sand dunes and huge variety of wildlife to see. At the end of the walk you can catch the bus back to Withernsea from Easington.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Butterfly Inn is a nice place to enjoy refreshments in the village. They have a lovely garden area to relax in during the summer months. You can find them on Queen Street with a postcode of HU19 2HB for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north along the coast path and you could visit one the area's highlights at Hornsea Mere. The expansive body of water has some fine waterside trails and lots of birdlife to see as well. Near here there's also Burton Constable where you'll find an historic old hall surrounded by landscaped parkland and gardens."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/PUNW4-Nkmeo",
   "district": "Withernsea",
   "county": "East Riding of Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

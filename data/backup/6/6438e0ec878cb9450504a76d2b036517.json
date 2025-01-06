@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:53:35.852405+00:00",
   "objectID": "6438e0ec878cb9450504a76d2b036517",
-  "created_at": "2024-12-18T07:55:31.406503+00:00",
   "ref": "weelsby-woods-walking-route",
   "title": "Weelsby Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Entrance_to_Weelsby_Woods_-_geograph.org.uk_-_529354.jpg",
@@ -64,11 +64,26 @@
     }
   ],
   "distance_km": 2.5,
-  "description": "This country park has mature trees, woodland, and large grassy areas to explore. Look out for a variety of woodland birds,  foxes, and small mammals as you make your way along the footpaths. It's a popular place with a free car park and plenty of easy, surfaced trails to try. The park is located near Cleethorpes and Grimsby. Cleethorpes Country Park is less than a mile away so you could continue your walk there and then along the nearby Cleethorpes seafront.",
+  "description": "This country park has mature trees, woodland, and large grassy areas to explore. Look out for a variety of woodland birds, foxes, and small mammals as you make your way along the footpaths. It's a popular place with a free car park and plenty of easy, surfaced trails to try. The park is located near Cleethorpes and Grimsby. Cleethorpes Country Park is less than a mile away so you could continue your walk there and then along the nearby Cleethorpes seafront.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe at the park where you can enjoy a meal and ice cream after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers so you will probably see plenty of other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head south and try the Cleethorpes to Tetney Lock Walk. The walk takes you along the Tetney Marshes RSPB nature reserve to the pretty lock on the Louth Canal. There's lots of coastal wildlife to look out for on the way too. The Grimsby Walk starts from the train station in the town and visits the interesting National Fishing Heritage Centre at Alexandra Dock. The museum transports you back in time to the 1950\u2019s heyday of this famous port. If you head a few miles west you could pick up the Wanderlust Way around the little village of Barnoldby le Beck. The 20 mile circular walk explores the Lincolnshire Wolds and includes views of the Humber Estuary. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lGSwn42CqMI",
   "postcode": "DN32 8PL",
   "district": "Grimsby",
   "county": "North East Lincolnshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

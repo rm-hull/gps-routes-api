@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:47:57.682817+00:00",
   "objectID": "ce1b8692e494b9d4a7676fc0dfb0a4ed",
-  "created_at": "2024-12-18T09:59:30.300235+00:00",
   "ref": "hackness-walking-route",
   "title": "Hackness Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/River_Derwent_and_Hackness_Grange_Hotel_-_geograph.org.uk_-_1902913.jpg",
@@ -42,7 +42,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Track_to_Mount_Misery_-_geograph.org.uk_-_1506962.jpg",
-      "title": "JThomas / Track to  Mount Misery",
+      "title": "JThomas / Track to Mount Misery",
       "caption": "Track to Mount Misery"
     },
     {
@@ -53,9 +53,24 @@
   ],
   "distance_km": 9.0,
   "description": "This village in the North York Moors has some fine riverside trails, expansive local woodland and some excellent viewpoints to climb to. This circular walk from the village takes you along the River Derwent to the nearby Wykeham Forest. Start the walk in the village at the Hackness Grange Hotel and head south past Mill Farm to the bridge over the river. Cross here and then head west along the pleasant riverside path to Little Hill Green. You then turn south to cross the Sow Beck and head towards Mount Misery and the Wykeham Forest viewpoint at Highwood Brow. There's some fine views here over Troutsdale and Langdale to enjoy. The route continues east past Coomb Hill before passing Wrench Green and returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Everley Country House Caf\u00e9 is a fine spot for post walk refreshments. The main draw here is a lovely outdoor seating area with fine views over the valley. Inside there's a cosy log fire and board games to keep you entertained. You can find the cafe at a postcode of YO13 0BT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and woodland trails are ideal for dog walking."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south and you can explore Forge Valley Woods. This nature reserve has a nice boardwalk trail along the River Derwent. The woods can be reached on the circular West Ayton Walk which starts from the delightful village. For more walking ideas in the area see the North York Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qvtX7-_cmKM",
   "district": "Hackness",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

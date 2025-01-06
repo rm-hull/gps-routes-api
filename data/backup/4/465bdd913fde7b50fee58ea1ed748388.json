@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:36:15.683527+00:00",
   "objectID": "465bdd913fde7b50fee58ea1ed748388",
-  "created_at": "2024-12-18T00:05:22.016877+00:00",
   "ref": "ebury-way-walking-and-cycle-route",
   "title": "Ebury Way Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Watford%2C_Ebury_Way_-_geograph.org.uk_-_1022669.jpg",
@@ -55,9 +55,24 @@
   ],
   "distance_km": 5.0,
   "description": "This is an easy short cycle and walking route ideal for families. It runs along National Cycle route 61 and a dismantled railway line from Rickmansworth to Watford and passes through a variety of habitats, including open moor, woodland, and wetlands. The trail crosses a number of waterways including the rivers Colne, Chess and Gade and the Grand Union Canal. See the National Cycle Route 61 page for details of the full route which runs from Maidenhead to Hoddesdon.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the start of the trail at Batchworth Lock you can enjoy some refreshments at the Cafe at Lock 81. They have a variety of sandwiches, hot food, hot and cold drinks, chocolate, crisps and sweets. There's also the adjacent Canal Centre with a wealth of information and the excellent Little Union Canal. This miniature working model canal shows how a lock and canal works. You can find the cafe at 99 Church St with a postcode of WD3 1JJ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "It's a nice walk to do with your dog but please keep them under close control as there are often a lot of cyclists on the path. The Cafe at Lock 81 mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Colne Valley Trail runs from Uxbridge to Rickmansworth. It's a good option for continuing your walking or cycling in the area. It runs on waterside paths and also passes a series of pretty lakes. The Celandine Route also runs just to the east of the trail. It will take you along the River Pinn from Pinner to Cowley. Part of the trail runs along the Croxley Green Boundary Walk. This waymarked circular walk explores the area around the worthy village, visiting the canal and the River Gade on the way. You'll pass the southern edge of the trail as you pass Watford and Rickmansworth. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "postcode": "WD3 1JF",
   "district": "Rickmansworth",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

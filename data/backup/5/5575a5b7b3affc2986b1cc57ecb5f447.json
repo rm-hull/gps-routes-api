@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:18:45.046592+00:00",
   "objectID": "5575a5b7b3affc2986b1cc57ecb5f447",
-  "created_at": "2024-12-18T00:00:00.255659+00:00",
   "ref": "hardwick-hall-country-park-walking-and-cycle-route",
   "title": "Hardwick Hall Country Park Sedgfield Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hardwick_Hall_Country_Park_-_geograph.org.uk_-_1070904.jpg",
@@ -49,10 +49,25 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "This large ornamental park surrounds a fine 18th century hall and is located in Sedgefield in County Durham.  Hardwick includes a 17-acre lake and a number of ornamental features, including temples, grottoes and follies. There are woodland trails and a lovely waterside path around the lake to enjoy. There is also a visitor centre, gift shop and cafe.",
+  "description": "This large ornamental park surrounds a fine 18th century hall and is located in Sedgefield in County Durham. Hardwick includes a 17-acre lake and a number of ornamental features, including temples, grottoes and follies. There are woodland trails and a lovely waterside path around the lake to enjoy. There is also a visitor centre, gift shop and cafe.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe in the visitor centre serving home made soups, sandwiches, scones, pies and cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park makes for a great dog walk but please keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Sedgefield Walk starts in the nearby town and visits the hall before heading to Bishop Middleham. Here you will find good wildlife spotting oppotunites at Castle Lake and the site of Middleham Castle. It's a nice way of further exploring the interesting and attractive area surrounding the hall. For more walking ideas in the area see the County Durham Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fG7NdNAoq1I",
   "postcode": "TS21 2DN",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

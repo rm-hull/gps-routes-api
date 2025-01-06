@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:12:02.341320+00:00",
   "objectID": "615b47375e17aba190c6894edd0b8f5f",
-  "created_at": "2024-12-18T16:55:24.570277+00:00",
   "ref": "shakespeares-way-walking-route",
   "title": "Shakespeare's Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_-_geograph.org.uk_-_3112763.jpg/512px-Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_-_geograph.org.uk_-_3112763.jpg?20220123175830",
@@ -34,7 +34,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_-_geograph.org.uk_-_3112763.jpg/512px-Royal_Shakespeare_Theatre%2C_Stratford-upon-Avon_-_geograph.org.uk_-_3112763.jpg?20220123175830",
-      "title": "Royal Shakespeare Theatre, Stratford-upon-Avon by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Royal Shakespeare Theatre, Stratford-upon-Avon by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Royal Shakespeare Theatre, Stratford-upon-Avon"
     },
     {
@@ -65,9 +65,11 @@
   ],
   "distance_km": 235.0,
   "description": "This walk follows a route that Shakespeare may have taken when travelling between Stratford-upon-Avon and London. The path passes through the Chilterns, Oxford, Blenheim Park, the Cotswolds, the valley of the River Stour and the Thames Valley making for a beautiful and varied walk. There are lovely waterside stretches along the Oxford Canal and the River Thames into London. The walk is waymarked with a logo of Shakespeare's head.",
+  "details": [],
   "video_url": "https://www.youtube.com/embed/bL5V9S4YCOk",
   "district": "Stratford-upon-Avon",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

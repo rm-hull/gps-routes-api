@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:08:41.753896+00:00",
   "objectID": "de7a9a96a3c115c92018c8e17b477e6e",
-  "created_at": "2024-12-18T20:32:59.565291+00:00",
   "ref": "astbury-mere-country-park-walking-route",
   "title": "Astbury Mere Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Astbury_Mere_Country_Park_-_geograph.org.uk_-_158433.jpg",
@@ -69,11 +69,26 @@
     }
   ],
   "distance_km": 1.6,
-  "description": "Enjoy a waterside walk around the peaceful Astbury Mere in Congleton, Cheshire.  There are wildflower meadows and views across the mere towards Congleton Edge and Mow Cop. The park has a visitor centre, easy access trail and Community Orchard. You can look out for a variety of birds on the water and in the parkland and woodland areas. Astbury is located just a mile west of Congleton town centre.",
+  "description": "Enjoy a waterside walk around the peaceful Astbury Mere in Congleton, Cheshire. There are wildflower meadows and views across the mere towards Congleton Edge and Mow Cop. The park has a visitor centre, easy access trail and Community Orchard. You can look out for a variety of birds on the water and in the parkland and woodland areas. Astbury is located just a mile west of Congleton town centre.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes an on site cafe where you can pick up hot drinks, ice cream and snacks. You can find the coffee hub at the northern end of the lake. If you fancy a pub lunch then head south of the park to the little village of Astbury. Here you'll find the Egerton Arms. It's located in a nice spot next to St. Mary's Church, which dates back to the 13th century. They serve good home cooked food and also have a lovely garden area for warmer days. You can find them at postcode CW12 4RQ for your sat navs. The picturesque village is also a pleasant place for an easy stroll with old cottages and a village green to see."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a fine place for a dog walk so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east of the park there's the popular climb to Bosley Cloud. The cloud summit provides great views over the surrounding area. You can also pick up the Macclesfield Canal in Congleton and enjoy another waterside walk to the impressive Bosley Locks. The circular Congleton Walk starts from the train station in the town and visits the canal and the cloud. For more walking ideas in the area see the Cheshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LwEyFP-b9NY",
   "postcode": "CW12 4FR",
   "district": "Congleton",
   "county": "Cheshire East",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

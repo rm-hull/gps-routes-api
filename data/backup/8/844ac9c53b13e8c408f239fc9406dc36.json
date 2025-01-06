@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:05:32.866626+00:00",
   "objectID": "844ac9c53b13e8c408f239fc9406dc36",
-  "created_at": "2024-12-18T23:09:34.446137+00:00",
   "ref": "thorpe-cloud-walking-route",
   "title": "Thorpe Cloud Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Below_Thorpe_Cloud_-_geograph.org.uk_-_1339836.jpg",
@@ -65,9 +65,24 @@
   ],
   "distance_km": 2.0,
   "description": "This short walk climbs to the top of Thorpe Cloud in the Peak District. This small hill can be climbed from the Dove Dale car park. It's a short climb on good footpaths with the reward of wonderful views over the beautiful Dovedale Thorpe Cloud reaches a height of 287 m (942 ft). It was used in the 2010 film of Robin Hood, starring Russell Crowe. To continue your walking in the area you could visit Ilam Park and Dovedale .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Old Dog in Thorpe village is a great place to go for some post walk refreshments. The charming old pub does good food and has a nice courtyard to sit out on warmer days. You can find the pub on Spend Lane with a postcode of DE6 2AT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The hill and surrounding area make for a great for a fine dog walk so you're bound to see plenty of other owners on a fine day. The Old Dog mentioned above is also dog friendly (as the name suggests!)."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You could visit the hill from the nearby town of Ashbourne on the Ashbourne to Dovedale Circular Walk. The route visits the stepping stones in Dovedale before climbing the hill and returning to the town. The circular Fenny Bentley Walk also visits the hill from the pretty village to the east. The village is worthy of exploration with the pretty Bentley Brook, a 14th century church and a fine inn with particularly lovely gardens to see. The delightful village of Parwich lies just a few miles to the north east. There's a pretty village green, old limestone cottages and a pub dating back to the 1600s. You can reach the village on the Limestone Way which passes through both settlements."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/g24obe76M4E",
   "postcode": "DE6 2AY",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:21:05.397935+00:00",
   "objectID": "e959d8d8516cf3f298f8e363a3c2bf85",
-  "created_at": "2024-12-18T17:54:10.664102+00:00",
   "ref": "rodwell-trail-walking-and-cycle-route",
   "title": "Rodwell Trail Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rodwell_Station_-_geograph.org.uk_-_1430032.jpg",
@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Rodwell_Station_-_geograph.org.uk_-_1430032.jpg",
       "title": "Ivan Hall / Rodwell Station",
-      "caption": "Rodwell Station. The path runs along the former route of the Portland Branch Railway. The station closed with the branch on 3rd March 1952.  The Weymouth and Portland Railway, was constructed in 1865 to carry passengers and Portland Stone between Weymouth and Ferrybridge in Wyke Regis."
+      "caption": "Rodwell Station. The path runs along the former route of the Portland Branch Railway. The station closed with the branch on 3rd March 1952. The Weymouth and Portland Railway, was constructed in 1865 to carry passengers and Portland Stone between Weymouth and Ferrybridge in Wyke Regis."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bridge_Over_The_Rodwell_Trail_-_Weymouth_To_Portland._%283561770791%29.jpg/512px-Bridge_Over_The_Rodwell_Trail_-_Weymouth_To_Portland._%283561770791%29.jpg",
@@ -70,9 +70,24 @@
   ],
   "distance_km": 3.0,
   "description": "The Rodwell Trail is a nice easy off road trail through Weymouth using a disused railway path. After passing through the Rodwell district of Weymouth you join a lovely coastal stretch at the ruins of 16th century Sandsfoot Castle and the beautiful Sandsfoot Cove. From here the path runs along the coast to the Ferry Bridge that you can cross to the Isle of Portland. There is a variety of wildlife to be found on the trail, including Kingfishers, Redwings and Great Crested Grebes. Plantlife includes Foxgloves, Bluebells and Meadow Buttercups. The 2 mile long trail is suitable for both walkers and cyclists looking for a safe, easy off road route.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a lovely cafe at Sandsfoot Castle right next to the trail. They serve a fine range of meals and snacks and have a beautiful garden area with views to the coast. It's the ideal place for a pit stop on the route. After your meal you can enjoy a stroll around the castle grounds and gardens as well. You can find them on the coastal side of the trail at postcode DT4 8QE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trail makes for a fine dog walk so you will probably see other owners on your outing. The Sandsfoot Cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near the start of the route there's the Radipole Lake to explore. The Wild Weymouth Discovery Centre is located here and features nature exhibits and programs, trails and viewing blinds. At the other end of the route you'll finish near to Chesil Beach where there's some nice trails and a good visitor centre with exhibitions of local wildlife and a cafe for refreshment. For more walking ideas in the area see the Dorset Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bmPMdgjql0g",
   "district": "Weymouth",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

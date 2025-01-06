@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:51:42.623080+00:00",
   "objectID": "c7e3c54de2a9ebae777ee8d7d50a38bd",
-  "created_at": "2024-12-19T16:15:37.659069+00:00",
   "ref": "wyre-estuary-country-park-walking-and-cycle-route",
   "title": "Wyre Estuary Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/River_Wyre_and_Over_Wyre_-_England_and_Scotland_016.jpg/512px-River_Wyre_and_Over_Wyre_-_England_and_Scotland_016.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy a walk along the network of accessible paths by the beautiful Wyre Estuary in this waterside country park near Blackpool. There are also peaceful woodland paths and bird hides where you can view a variety of wildlife. The park has a visitor centre, cafe and picnic areas. This 3 mile circular walk starts at the car park and takes you south along the river towards Little Thornton before returning on an alternative country lane. The long distance Wyre Way passes the park so you can pick this up to extend your walk. You could follow the trail along the river and then west to reach the coast around Cleveleys and Fleetwood.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place to walk your dog so you'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east along the Wyre Way from the park and you can come to a lovely little spot by the river at Litttle Eccleston. Here you will find the Cartford Inn, a splendid riverside pub with views over the river. You can also try the circular Cartford Inn Walk which starts from the pub car park and takes you through the attractive countryside in this rural area. If you were to head north you could visit the worthy town of Knott End. There's some lovely coastal walks to enjoy here. The circular Fleetwood Walk starts from the nearby town and visits the park before heading to Knott End and then catching the ferry back. The Poulton-le-Fylde Walk visits the park from the nearby market town. For more walking ideas in the area see the Lancashire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JvltPJHolBw",
   "district": "Thornton",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:49:12.026593+00:00",
   "objectID": "6430be3eaeeeda93eb268b5a2bd4a4a4",
-  "created_at": "2024-12-21T20:11:02.090565+00:00",
   "ref": "petts-wood-circular-walking-route",
   "title": "Petts Wood Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Petts_Wood_-_geograph.org.uk_-_669775.jpg",
@@ -45,9 +45,15 @@
   ],
   "distance_km": 6.0,
   "description": "A short circular walk that takes you through Petts Wood and Jubilee Country Park in Bromley. The Park consists of 62 acres of grassland and ancient woodland and was purchased by Bromley Council to celebrate the Silver Jubilee of Queen Elizabeth II in 1977. The park is also full of wildlife with amphibians, birds, butterflies, insects, mammals, reptiles and wild flowers to look out for. Good access points for the walk are the car park at Jubilee Country Park and Petts Wood station just to the south. The London Loop runs through the park so you can pick this up to extend your walk. Head north and you can visit Scadbury Park where you will find 300 acres of woodland and grassland. There's also the ruins of Scadbury Manor, home to Elizibethan courtier Sir Thomas Walsingham. Just beyond the park is Foots Cray Meadows nature reserve which has a nice waterside footpath along the River Cray to enjoy.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/6/6430be3eaeeeda93eb268b5a2bd4a4a4.gpx",
-  "_geoloc": {
-    "lat": 51.3913940914,
-    "lng": 0.0710129592
-  }
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are a popular place for dog walkers so you'll probably see plenty of other owners on a fine day. There are on lead and off lead areas in the wood."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The circular Chislehurst Walk visits the woods, Chislehurst Common and Sacadbury Park using various public footpaths and a section of the London Loop. Just to the east you could pick up the Cray Riverway. This pleasant waterside walk will take you south along the River Cray to the source at Orpington or north to Erith where it meets the River Darent and the Thames."
+    }
+  ],
+  "gazetteer_found": false
 }

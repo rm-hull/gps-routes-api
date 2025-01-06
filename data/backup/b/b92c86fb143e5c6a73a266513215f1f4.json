@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:49:53.410681+00:00",
   "objectID": "b92c86fb143e5c6a73a266513215f1f4",
-  "created_at": "2024-12-21T14:46:52.499811+00:00",
   "ref": "west-somerset-coast-path-walking-route",
   "title": "West Somerset Coast Path Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Starting_point%2C_West_Somerset_Coastal_Path_-_geograph.org.uk_-_1008016.jpg",
@@ -55,7 +55,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_Hawn_-_Dunster_Beach_West_Somerset_-_geograph.org.uk_-_3366038.jpg/512px-The_Hawn_-_Dunster_Beach_West_Somerset_-_geograph.org.uk_-_3366038.jpg",
       "title": "The Hawn - Dunster Beach West Somerset by David Meredith, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "The Hawn. This lake is part of the Dunster Beach Nature Reserve which also includes woodland, rare flowers and lots of seabirds. The Freshwater Lake was once a navigable channel through the sands and pebbles to Nap Lock ridge on Dunster beach. Now landlocked. The Hawn was the old medieval harbour called Dunster Haven on the old course of the River Avill. It\u2019s a footbridge today, but was originally constructed as sluice or lock gate in 1868\u20131869 after the survey by George Perrie which was commissioned by Mr. Luttrell & D V J Stephenson, civil engineer of Edinburgh."
+      "caption": "The Hawn. This lake is part of the Dunster Beach Nature Reserve which also includes woodland, rare flowers and lots of seabirds. The Freshwater Lake was once a navigable channel through the sands and pebbles to Nap Lock ridge on Dunster beach. Now landlocked. The Hawn was the old medieval harbour called Dunster Haven on the old course of the River Avill. It’s a footbridge today, but was originally constructed as sluice or lock gate in 1868–1869 after the survey by George Perrie which was commissioned by Mr. Luttrell & D V J Stephenson, civil engineer of Edinburgh."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Coastal_path_east_of_Lilstock_-_geograph.org.uk_-_1436782.jpg",
@@ -75,10 +75,12 @@
   ],
   "distance_km": 40.0,
   "description": "Follow the beautiful Somerset coast through the Quantock Hills Area of Outstanding Natural Beauty on this lovely coastal walk. The walk begins at the car park at Steart, next to the wildlife rich Bridgwater Bay National Nature Reserve Nature Reserve and the Steart Marshes. You then follow the path west, along the coast, to the town of Watchet with its pretty harbour and piers. From Watchet, you continue to Minehead along Blue Anchor Bay and Dunster Beach Nature Reserve. Here you could take a short detour inland and visit Dunster Castle where there is a lovely large deer park. This is an excellent walk for anyone with an interest in geology as local people have uncovered the remains of elk antlers and wild boar tusks on the shores. Fossilised oak and yew tree sections are also still visible in places. Also of interest are the views of Flat Holm and Steep Holm Islands which you can visit by boat from Minehead in the summer. On a clear day, there are also good views of the South Wales coast across the Bristol Channel.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The harbour in Watchet is a nice place for a pit stop. The popular Pebbles Tavern is a great choice for fans of real ale and cider. The pub has won many CAMRA awards for Cider Pub of the Year including 2020 and in 2015 was the 'runner-up' National Cider Pub of the Year. You can find them on Market Street at postcode TA23 0AN for your sat navs. There's also the 16th century Bell Inn, the oldest pub in the town. They are located just 100 yards from Watchet's picturesque Marina at postcode TA23 0AN. The trail passes the noteworthy Kilve Beach and East Quantoxhead. The beach is a great place for fossil hunting and walks along the cliff top path. It's also a great place for a pit stop with a couple of good options. In Kilve village there's the Hood Arms to consider. The historic coaching inn dates back to the 17th century and serves a fine Sunday roast. They have a lovely garden area and also provide accommodation if you'd like to stay in the area. You can find them at postcode TA5 1EA for you sat navs. Near the Kilve beach car park there's also the Chantry Tea Gardens where you can enjoy a delicious cream tea."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EN4-T221Lrw",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b92c86fb143e5c6a73a266513215f1f4.gpx",
-  "_geoloc": {
-    "lat": 51.2078830156,
-    "lng": -3.0384797916
-  }
+  "gazetteer_found": false
 }

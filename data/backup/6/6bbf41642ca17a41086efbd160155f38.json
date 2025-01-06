@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:52:15.198981+00:00",
   "objectID": "6bbf41642ca17a41086efbd160155f38",
-  "created_at": "2024-12-18T01:37:49.134417+00:00",
   "ref": "longham-lakes-walking-route",
   "title": "Longham Lakes Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Longham_Lake_-_geograph.org.uk_-_1745152.jpg",
@@ -40,7 +40,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Longham_Lake_-_geograph.org.uk_-_1745210.jpg",
       "title": "Lorraine and Keith Bowdler / Longham Lake, via Wikimedia Commons",
-      "caption": "The southerly of the two reservoirs.  In summer, the lakes are surrounded by rushes and reeds with wild flowers"
+      "caption": "The southerly of the two reservoirs. In summer, the lakes are surrounded by rushes and reeds with wild flowers"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/River_Stour_-_geograph.org.uk_-_2082284.jpg/512px-River_Stour_-_geograph.org.uk_-_2082284.jpg",
@@ -54,11 +54,22 @@
     }
   ],
   "distance_km": 2.5,
-  "description": "These two pretty lakes near Ferndown have a nice walking trail to try. The area is a popular bird watching site with a wide variety of birds to look out for on the water. These include  Black-necked Grebe, Garganey, Pintail, Goldeneye, Ruddy Duck, Little Gull and Yellow-legged Gull. It's a really peaceful spot, ideal for an easy afternoon stroll. You can park at the Haskins Garden Centre just to the north east of the lakes. Then follow Green Lane to the reserve. After your walk you can enjoy refreshments at the garden centre cafe. The Ferndown, Stour and Forest Trail and the Stour Valley Way both run past the site so you could extend your walk by picking up the riverside path. Heading east will take you past Bournemouth into Christchurch .",
+  "description": "These two pretty lakes near Ferndown have a nice walking trail to try. The area is a popular bird watching site with a wide variety of birds to look out for on the water. These include Black-necked Grebe, Garganey, Pintail, Goldeneye, Ruddy Duck, Little Gull and Yellow-legged Gull. It's a really peaceful spot, ideal for an easy afternoon stroll. You can park at the Haskins Garden Centre just to the north east of the lakes. Then follow Green Lane to the reserve. After your walk you can enjoy refreshments at the garden centre cafe. The Ferndown, Stour and Forest Trail and the Stour Valley Way both run past the site so you could extend your walk by picking up the riverside path. Heading east will take you past Bournemouth into Christchurch .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the north east of the lakes there's Longham village where you can visit the White Hart for some refreshments. The interior has lots of rustic charm, with low-beamed ceilings and an open fireplace creating a traditional pub ambience. They are well known for their delicious homemade pies. You can find them at postcode BH22 9AB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reserve is a nice place for a dog walk. Please keep them on leads. The White Hart mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jAxmrB6FiGU",
   "postcode": "BH11 9JZ",
   "district": "Bournemouth",
   "county": "Bournemouth, Christchurch and Poole",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:02:17.469996+00:00",
   "objectID": "a018f7681483a79acf1354c324d3fc1c",
-  "created_at": "2024-12-18T09:26:52.419170+00:00",
   "ref": "bradford-walking-route",
   "title": "Bradford Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/General_View_of_Peel_Park_-_geograph.org.uk_-_416686.jpg",
@@ -47,14 +47,25 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bradford_Cathedral_-_geograph-2106999.jpg/512px-Bradford_Cathedral_-_geograph-2106999.jpg",
-      "title": "Stephen Armstrong / Bradford Cathedral ",
+      "title": "Stephen Armstrong / Bradford Cathedral",
       "caption": "Bradford Cathedral"
     }
   ],
   "distance_km": 1.5,
   "description": "This major UK city is located in the West Riding of Yorkshire. The city has an interesting history having played a major part in textiles manufacturing during the Industrial Revolution. There's also a number of interesting Victorian buildings and the Grade I listed Bradford Cathedral to visit in the city. For walkers there's some fine local parks and canalside trails to pick up just to the north in Shipley. This walk in Bradford visits Peel Park in in the Bolton and Undercliffe part of the city. The expansive park covers 56 acres and includes various footpaths taking you to statues, fountains and lakes. Just to the west you can also visit the award winning Lister Park. There's a pretty lake and a noteoworthy Mughal Water Garden to see here.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Peel park is popular with dog walkers so you'll probably see other owners on your visit. The nearby Esholt Woods is another good option near the city."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north of the city and you can visit one of the highlights of the area at Saltaire. The Victorian model village and UNESCO World Heritage Site includes the grade II listed Victoria Hall and Salt's Mill with its shops, cafes and galleries. It's a lovely place for a waterside stroll near the city. For cyclists the Spen Valley Greenway is a good option near the city. The shared walking and cycling trail runs along a disused railway line."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/LDylhCxGTNs",
   "district": "Bradford",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

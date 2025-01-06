@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:16:00.440989+00:00",
   "objectID": "b6f59e1825a36e2fbfd5c646390b3a7b",
-  "created_at": "2024-12-20T22:44:05.537997+00:00",
   "ref": "montrose-basin-walking-route",
   "title": "Montrose Basin Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Montrose_Basin_-_geograph.org.uk_-_283017.jpg",
@@ -24,6 +24,11 @@
       "description": "Auchmithie to Lunan Bay Walk",
       "objectID": "01a51bdd6780302b75f76de12887a686",
       "ref": "auchmithie-to-lunan-bay-walk-walking-route"
+    },
+    {
+      "description": "Johnshaven to St Cyrus",
+      "objectID": "9040f884827cfa9ad9d7a45473b41f64",
+      "ref": "johnshaven-to-st-cyrus-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b6f59e1825a36e2fbfd5c646390b3a7b.gpx",
@@ -61,5 +66,7 @@
   ],
   "distance_km": 9.0,
   "description": "The Montrose Basin is a wildlife reserve located on a large circular tidal basin located in the Angus town of Montrose on the east coast of Scotland. This walk explores the nature trails on the western side of the basin. The walk starts from the parking area at the NTS Old Mill near the Mains of Dun Farm. From here you can pick up trails heading south east and south west towards the basin. On the western side there are fine views of the River South Esk in an area known as The Lurgies. The reserve is excellent for wildlife spotting with a wide variety of birds visiting the area. Of particular note are the thousands of pink-footed geese which you can see in the autumn months. See the video below for a view of this amazing spectacle. You can extend the walk by exploring the House of Dun which lies just north of the car park. The fine Georgian house is surrounded by beautiful gardens where you can look out for red squirrels. For more wildlife and nature trails head north along the coast to St Cyrus National Nature Reserve. There's sand dunes, wildflowers, photogenic cliffs and even the chance to spot whales in this special area.",
-  "video_url": "https://www.youtube.com/embed/BiM5YK7Eibc"
+  "details": [],
+  "video_url": "https://www.youtube.com/embed/BiM5YK7Eibc",
+  "gazetteer_found": false
 }

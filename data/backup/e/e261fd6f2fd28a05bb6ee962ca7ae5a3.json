@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:21:05.464791+00:00",
   "objectID": "e261fd6f2fd28a05bb6ee962ca7ae5a3",
-  "created_at": "2024-12-18T16:53:51.048219+00:00",
   "ref": "codden-hill-walking-route",
   "title": "Codden Hill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/A_view_towards_Ashford_from_the_monument_on_Codden_Hill_-_geograph.org.uk_-_1749211.jpg/512px-A_view_towards_Ashford_from_the_monument_on_Codden_Hill_-_geograph.org.uk_-_1749211.jpg",
@@ -59,7 +59,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/A_view_towards_Ashford_from_the_monument_on_Codden_Hill_-_geograph.org.uk_-_1749211.jpg/512px-A_view_towards_Ashford_from_the_monument_on_Codden_Hill_-_geograph.org.uk_-_1749211.jpg",
-      "title": "Roger A Smith / A view towards Ashford  from the monument on Codden Hill",
+      "title": "Roger A Smith / A view towards Ashford from the monument on Codden Hill",
       "caption": "A view towards Ashford from the monument on Codden Hill"
     },
     {
@@ -100,8 +100,23 @@
   ],
   "distance_km": 6.2,
   "description": "This circular walk climbs to Codden Hill from the village of Bishop's Tawnton in North Devon. It also visits the Venn Quarry before a waterside section along the Venn Stream. The hill is located just to the south of Barnstaple. The walk starts in the pretty village of Bishop's Tawnton which lies just to the west of the hill. Head south from the village to Golden Hill Cross before turning east to follow footpaths up to the hill. At the summit you'll find a monument to Caroline Thorpe, who died in a car crash in 1970. Caroline was the wife of local MP Jeremy Thorpe who went on to become leader of the Liberal Party and part of the Thorpe affair, a major British political scandal of the 1970s. He was famously tried at the Old Bailey on charges of conspiracy and incitement to murder, arising from an earlier relationship with Norman Scott. Actor Hugh Grant played Thorpe in an excellent BBC drama of the affair in 2018. From the elevated position of the monument there are excellent views back to Bishop's Tawnton and across the surrounding countryside. The route then heads east towards Higher Bableigh before heading north to the Venn Quarry. Here you pick up the Tarka Trail and follow the waymarked footpath west along the picturesque Venn Stream before returning to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Chichester Arms for some post exercise rest and refreshment. The 15th century thatched pub has been serving the people of the village since 1880. They serve and excellent Sunday roast and also have some outdoor seating. You can find them on East Street at postcode EX32 0DQ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The open space on the top of the hill is a great place for the dogs to run around. You'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you follow the Tarka Trail south west from Barnstaple it will take you to nearby Great Torrington. The historic town is well worth a visit with a number of listed buildings, riverside trails and a splendid viewpoint on Castle Hill to enjoy. A few miles to the south there's the little village of Umberleigh where there's pleasant walks along the River Taw and views of the Railway Viaduct. The village has a train station on the Tarka Line between Portsmouth Arms and Chapelton."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/9iXMQoVBH0Y",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

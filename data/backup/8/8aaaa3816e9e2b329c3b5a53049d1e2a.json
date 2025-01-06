@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:02:47.702795+00:00",
   "objectID": "8aaaa3816e9e2b329c3b5a53049d1e2a",
-  "created_at": "2024-12-20T07:37:34.966751+00:00",
   "ref": "pymmes-brook-trail-walking-route",
   "title": "Pymmes Brook Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Pymmes_Brook_Trail_DSC00555.jpg/512px-Pymmes_Brook_Trail_DSC00555.jpg",
@@ -95,10 +95,25 @@
   ],
   "distance_km": 16.0,
   "description": "Follow the Pymmes Brook Trail through North London on this pleasant walk. The walk starts on Monken Hadley Common in Hadley Wood and takes you through various Barnet parks including Oak Hill Park, Arnos Park, Broomfield Park and Pymmes Park. The route follows the Pymmes Brook - one of the tributaries of the River Lea where the route finishes at Picket's Lock in Enfield. It runs for about 9 miles on a fairly flat easy path so its suitable for most abilities.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the route there's The Old Hall Tavern next to the William Girling Reservoir in Chingford. There's a great menu and a lovely big garden area to sit out in if the weather is fine. You can find them at 200 Hall Lane with a postcode of E4 8EY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trail is a nice one to do with your dog and the Old Hall Tavern mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At the eastern end of the route you can link up with the Lea Valley Walk and follow a path along the Walthamstow Reservoirs and Tottenham Marshes nature reserve. You could follow the trail north to Enfield or head south to Hackney Marshes and the Hackney Canal Walk. Near the western end of the trail you can link up with another brookside trail in the shape of the Dollis Valley Green Walk. This waterside trail runs along the pretty Dollis Brook to the nearby Hampstead Heath. It also passes close to Totteridge which is well worth a visit. The village has a lovely rural feel with a pretty village green, a cricket pitch, a fine local pub and some pleasant countryside. There's also the Darland's Lake Nature Reserve where there are some lovely waterside trails and lots of wildlife to see. For more walking ideas in the area see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/mKaVsrza6X8",
   "postcode": "EN4 9DQ",
   "district": "Barnet",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

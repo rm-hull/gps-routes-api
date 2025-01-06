@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:19:47.119777+00:00",
   "objectID": "db4f9349884613fafd5e3535f4a85469",
-  "created_at": "2024-12-21T20:09:17.260026+00:00",
   "ref": "quantock-greenway-walking-route",
   "title": "Quantock Greenway Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Approaching_Raswell_House_-_geograph.org.uk_-_1129484.jpg",
@@ -75,10 +75,16 @@
   ],
   "distance_km": 58.0,
   "description": "A splendid figure of eight walk through the stunning Quantock Hils AONB. The walk begins at the pretty village of Broomfield which is the highest village on the Quantock Hills. The first section takes you to the tiny village of West Bagborough and then up a steep climb through Floorey Down and Great Wood. Another long woodland section then follows leading you to the village of Holford on the River Holford. From here, the path leads you through the delightful Stowborrow Deer Park on the way to West Quantoxhead and then Crowcombe where you will pass the Grade I listed Crowcombe court, dating from the 18th century. You then head back through the Great Wood and through Enmore and Goathurst before returning to Broomfield.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Crowcombe there's the noteworthy Carew Arms for a pit stop. The historic pub dates back to the 17th century and has a charming interior with an ancient inglenook fire. Outside there's a splendid large garden area with views towards the Brendon Hills. You can find them at postcode TA4 4AD for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near West Quantoxhead you could take a detour from the route to visit Kilve Beach and East Quantoxhead. The beach is a great place for fossil hunting and walks along the cliff top path. There's also a lovely cafe for cream teas and a 17th century coaching inn in Kilve village."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ejjgjvfB5xU",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/d/db4f9349884613fafd5e3535f4a85469.gpx",
-  "_geoloc": {
-    "lat": 51.0838884603,
-    "lng": -3.1136381318
-  }
+  "gazetteer_found": false
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:12:49.117301+00:00",
   "objectID": "71651358bbb55d9a5c5d948c4c2ac57b",
-  "created_at": "2024-12-18T03:54:43.370229+00:00",
   "ref": "lanercost-priory-walking-route",
   "title": "Lanercost Priory Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Lanercost_Priory_-_geograph.org.uk_-_1363901.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 6.2,
   "description": "This walk visits the historic Lanercost Priory in Cumbria. The Augustinian Priory dates back to the 12th century with substantial ruins still visible today. It sits in a great location for walking, close to Hadrian's Wall and the River Irthing which flows just to the south. The site is run by English Heritage and has a fascinating history, playing a role in the Anglo-Scottish wars of the 13th and 14th centuries. This circular walk from the priory visits the nearby Hadrian's Wall at Hare Hill. You then head west along the wall to visit Burtholme Bridge where there are nice views of the Burtholme Beck. The final section takes you along the River Irthing to return to the priory, passing Lanercost Old Bridge on the way. The walk can be started from the on site car park next to the church. Other facilities include a gift shop, tea room and information panels detailing the history of the priory which later became a manor house.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a tea room and farm shop where you can pick up a range of refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is a nice place for a dog walk and the tea room mentioned above is also very dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can easily extend the walk by continuing east along the wall to visit Birdoswald Fort. The fort is one of the highlights of the area and gives an interesting insight into the history of the area. Just to the south there's Miltonrigg Woods where you can enjoy a series of peaceful woodland trails."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xvYV4nkYNME",
   "postcode": "CA8 2HJ",
   "district": "Lanercost",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

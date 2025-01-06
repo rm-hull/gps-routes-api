@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:35:08.754042+00:00",
   "objectID": "29b8bb65cae9e91a5bd809abd7a210bc",
-  "created_at": "2024-12-18T18:54:13.228435+00:00",
   "ref": "waskerley-way-walking-and-cycle-route",
   "title": "Waskerley Way Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Waskerley_Way_-_geograph.org.uk_-_297833.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 16.0,
   "description": "This is a shared cycling and walking path that follows the route of the old Stanhope and Tyne Railway line. The path starts near Consett and runs to Weather Hill passing through woodland and open moorland. You will also pass the delightful Smiddy Shaw Reservoir, Hisehope Reservoir, Waskerley Reservoir and Tunstall Reservoir near the village of Wolsingham .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you could refuel at the old Parkhead Station. They have some nice tea rooms here where you can enjoy a good range of refreshments. There's also secure cycle storage for your bikes. You can find them towards the end of the route near Stanhope at Parkhead Station House, DL13 2ES. Nana B's Teas is located just to the east of Smiddy Shaw Reservoir and the old Waskerley Station. They serve a good range of meals and snacks in lovely surroundings. You can find them at postcode DH8 9HR just over a mile east of the reservoir. They are dog friendly with a water bowl available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The trail passes just to the north of Tunstall Reservoir near Wolsingham. The pretty nature reserve is worth a small detour from the route if you have time. At Lydgate the path coincides with the Consett and Sunderland Railway Path and the Lanchester Valley Walk. These long distance trails can make a nice extension to your outing. To the north of the path you'll find one of the county's highlights at Pow Hill Country Park and Derwent Reservoir."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MwumXYAhg9c",
   "postcode": "DH8 9AA",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

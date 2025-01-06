@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:40:52.056402+00:00",
   "objectID": "ef283a5e9475e75edfead0500a9c6331",
-  "created_at": "2024-12-19T19:54:24.347067+00:00",
   "ref": "loch-fitty-walking-route",
   "title": "Loch Fitty Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Loch_Fitty._-_geograph.org.uk_-_91297.jpg",
@@ -49,6 +49,11 @@
       "description": "Alva Glen",
       "objectID": "2098866eadc5864026f2617ba2ddac5e",
       "ref": "alva-glen-walking-route"
+    },
+    {
+      "description": "Glen Sherup",
+      "objectID": "a2c493410453516b29c2e537adfdc9b2",
+      "ref": "glen-sherup-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ef283a5e9475e75edfead0500a9c6331.gpx",
@@ -90,8 +95,15 @@
   ],
   "distance_km": 2.6,
   "description": "This pretty loch near Dunfermline and Cowdenbeath has some nice waterside trails to try. It's a peaceful place with lovely views and lots of wildlife to look out for on the water. You can pick up paths on the northern and eastern side of the loch where there is also a footbridge to cross over the loch.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around Dunfermline you could head to Townhill Country Park, Gartmorn Dam Country Park, Dollar Glen, Alva Glen, Glendevon, Glen Sherup and Lochore Meadows Country Park. These local areas have a good selection of walking and cycling trails to try. A few miles to the north there's the Cleish Hills to explore around the pretty Loch Glow. The splendid Loch Leven is also not too far away. To the east you can visit Kinghorn Loch and enjoy a walk along the Fife Coastal Path."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rpanuTDM4_c",
   "county": "Fife",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

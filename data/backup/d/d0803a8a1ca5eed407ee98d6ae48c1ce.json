@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:44:31.278445+00:00",
   "objectID": "d0803a8a1ca5eed407ee98d6ae48c1ce",
-  "created_at": "2024-12-20T08:48:51.250317+00:00",
   "ref": "rosliston-forestry-centre-walking-route",
   "title": "Rosliston Forestry Centre and Walking Map Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Rosliston_Forestry_Centre_%22Falcon%22_-_geograph.org.uk_-_64180.jpg",
@@ -90,9 +90,24 @@
   ],
   "distance_km": 3.4,
   "description": "This walk explores the Rosliston Forestry Centre and the village of Rosliston in the National Forest, South Derbyshire. The area includes woodland trails, meadows, ponds, lots of butterflies and some interesting sculptures. There's also cycle trails and the epic National Forest Way to pick up in the park. The site includes a fine visitor centre where you can hire bikes and learn about the different types of bird you can spot from the bird hides. There's also a car park and cafe. Just to the east you can continue your walking around Badger Wood where there are more pleasant trails to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the on site Hub Caf\u00e9 you can enjoy a range of refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are great for dog walking so you'll probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you could visit the National Memorial Arboretum at Alrewas. Here you will find 30,000 trees in a 150 acre Arboretum, forming a unique living tribute to those who have served and continue to serve our country."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Wxwcel1K_zc",
   "postcode": "DE12 8JY",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

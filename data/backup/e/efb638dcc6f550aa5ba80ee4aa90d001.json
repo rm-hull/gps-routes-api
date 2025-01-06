@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:26:15.154740+00:00",
   "objectID": "efb638dcc6f550aa5ba80ee4aa90d001",
-  "created_at": "2024-12-18T11:11:59.692963+00:00",
   "ref": "greenway-bank-country-park-walking-route",
   "title": "Greenway Bank and Knypersley Reservoir Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Knypersley_Pool_-_geograph.org.uk_-_942763.jpg",
@@ -59,15 +59,26 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Greenway_Bank_pond_-_geograph.org.uk_-_1766992.jpg/512px-Greenway_Bank_pond_-_geograph.org.uk_-_1766992.jpg",
-      "title": "Jonathan Kington / Greenway Bank pond ",
+      "title": "Jonathan Kington / Greenway Bank pond",
       "caption": "Greenway Bank pond. This is a view of the pond in early Spring. The Spring Crocuses make a lovely patch of colour in the foreground, these were probably planted when this was part of the gardens of Greenway Bank estate."
     }
   ],
   "distance_km": 3.2,
   "description": "Enjoy a short waterside walk around Knypersley Reservoir in this country park near Biddulph. In the park you will find quiet woodland, a lovely waterfall and the Serpentine Pool. There are also lawns and shrubberies, which are ablaze with colour from rhododendrons, azaleas and daffodils in the spring months. The park is located just south of Biddulph. This circular walk runs around the reservoirs for a distance of about 2 miles. After your exercise head to the visitor centre where there is a nice cafe for refreshments. The Staffordshire Moorlands Walks long distance trail runs through the park. To extend your walk you could pick it up at the southern edge of the reservoir and follow it south along the canal feeder. This will lead you to the Caldon Canal where there are more nice waterside footpaths to try. If you head north along the waymarked path it will take you to Biddulph Grange Country Park where there's some beautiful National Trust gardens.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the west of the reservoir you will find the Gardeners Arms. It's a great place to go in the warmer months as it has a large outdoor seating area to relax in. You can find the pub in Brown Lees part way between Stoke and Biddulph at postcode ST8 6PH."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park and reservoir are a great place for a dog walk and you will probably see plenty of other owners on a fine day."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VeH_Kx4AOrc",
   "postcode": "ST8 7QY",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:06:30.168473+00:00",
   "objectID": "2521530447e4bce5b0e18c54cb40468e",
-  "created_at": "2024-12-18T14:54:21.341695+00:00",
   "ref": "wanderlust-way-walking-route",
   "title": "Wanderlust Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Wanderlust_Way_-_geograph.org.uk_-_822244.jpg",
@@ -75,8 +75,19 @@
   ],
   "distance_km": 32.0,
   "description": "Follow the Wanderlust Way through the Lincolnshire Wolds AONB and enjoy splendid views of the Humber Estuary on this circular walk. The circular walk takes place just west of Grimsby and visits Bradley Woods, Brigsley, Hatcliffe and Ashby Cum Fenby. The route runs for a distance of about 20 miles and includes some small climbs on the way.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the little village of Barnoldby le Beck you could enjoy a pit stop at the Ship Inn. They serve award winning dishes and have a pleasant garden area to relax in on warmer days. You can find them on the Main Road at a postcode of DN370BG for your sat navs. The pub is dog friendly if you are out walking with your canine friend. The village also includes a noteworthy 13th century church which is worth investigating."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Grimsby you could pay a visit to the coastal Cleethorpes Country Park or enjoy a stroll around the peaceful woodland trails at Weelsby Woods. You can also pick up the Cleethorpes to Tetney Lock Walk in this area. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/TyapmXNAk3Y",
   "county": "North East Lincolnshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

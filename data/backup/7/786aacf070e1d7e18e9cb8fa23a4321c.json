@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:19:27.951653+00:00",
   "objectID": "786aacf070e1d7e18e9cb8fa23a4321c",
-  "created_at": "2024-12-18T11:48:13.338733+00:00",
   "ref": "fairlands-valley-park-walking-and-cycle-route",
   "title": "Fairlands Valley Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/South_end_of_Fairlands_Valley_Park._-_geograph.org.uk_-_29358.jpg",
@@ -60,8 +60,19 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy a cycle or walk through this popular park in Stevenage. There are several pretty lakes with waterside cycling and walking paths to enjoy. The park covers 120 acres and includes some woodland trails and an on site cafe. To continue your walking in the Stevenage area head just a mile south west of the park to visit Knebworth Country Park. The park consists of 250 acres of rolling hills with ancient chestnut and lime avenues. There's also lots of deer to look out for there too.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Fairlands is a dog friendly park so you'll probably see plenty of other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The park includes 4 free car parks on Broadhall Way, Shephall View, Fairlands Way and Six Hills Way. Just to the south west of Knebworth you will find the noteworthy village of Ayot St Lawrence. The village is notable for its connections with the playwright George Bernard Shaw and is the site of Shaw's Corner, his old residence. There's also a ruined 12th century church and a lovely pub which dates from the 14th century to see here. Near here there's Codicote where you can visit the nearby Hoo Park and enjoy some pretty bluebell woods and a rather fine old bridge over the River Mimram. The village is also very attractive with several timber framed buildings and a historic 16th century pub to admire."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JA1jwW_He7o",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

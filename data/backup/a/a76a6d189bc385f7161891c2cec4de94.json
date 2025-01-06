@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:32:54.931726+00:00",
   "objectID": "a76a6d189bc385f7161891c2cec4de94",
-  "created_at": "2024-12-19T01:10:06.206823+00:00",
   "ref": "swainby-walking-route",
   "title": "Swainby Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Scugdale_Beck_at_Swainby_-_geograph.org.uk_-_475645.jpg",
@@ -54,6 +54,11 @@
       "description": "Carlton in Cleveland",
       "objectID": "a6f1da91a4b685b451b1f30811c48987",
       "ref": "carlton-in-cleveland-walking-route"
+    },
+    {
+      "description": "Faceby",
+      "objectID": "8aea831e79f6fe3d297a28253733b9b8",
+      "ref": "faceby-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a76a6d189bc385f7161891c2cec4de94.gpx",
@@ -85,7 +90,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Mount_Grace_Priory_-_geograph.org.uk_-_276083.jpg",
       "title": "Carol Walker / Mount Grace Priory",
-      "caption": "Mount Grace Priory. This is England's most important Carthusian ruin. The individual cells reflect the hermit-like isolation of the monks. A reconstruction allows visitors to see the austere and simple furnishings. There is a small herb garde  The Carthusians are an enclosed religious order of the Roman Catholic Church who practise the monastic life."
+      "caption": "Mount Grace Priory. This is England's most important Carthusian ruin. The individual cells reflect the hermit-like isolation of the monks. A reconstruction allows visitors to see the austere and simple furnishings. There is a small herb garde The Carthusians are an enclosed religious order of the Roman Catholic Church who practise the monastic life."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Cod_Beck_reservoir_-_geograph.org.uk_-_5393.jpg",
@@ -105,10 +110,25 @@
   ],
   "distance_km": 14.5,
   "description": "This little village is located in a nice position at the north-western corner of the North York Moors National Park. There's some fine trails to try through the countryside, woodland and lovely heather moorland surrounding the village. This circular walk from the village uses part of the Cleveland Way to visit Mount Grace Priory, the neighbouring village of Osmotherley and the pretty Cod Beck Reservoir. The route starts in the village and follows country lanes south to meet with the Cleveland Way National Trail around Clain Wood. Follow the waymarked trail west and it will take you south west to Scarth Wood Moor and Arncliffe Wood where you can see lots pretty bluebells in the spring months. There's also fine views over the area from Beacon Hill on this section. At the southern end of the wood you turn west and then north to visit the 14th century Mount Grace Priory. The site is run by English Heritage and noteworthy as the best preserved and most accessible of the nine medieval Carthusian houses (charterhouses) in England. It includes atmospheric priory ruins, woodland trails and lovely gardens. After exploring the priory you head east past Ruebury Hill and Osmotherley village before turning north to visit Cod Beck Reservoir. There's some nice waterside trails along the small reservoir with fine views of the surrounding woodland and moorland. After passing the reservoir you head north along a country lane to rejoin the Cleveland Way. You can then retrace your steps to the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village the Blacksmiths Arms is a good choice for post walk refreshments. They do good food and have a lovely large garden area for warmer weather. You can find them at postcode DL6 3EW for your sat navs. On the route you could stop off at The Orchard Cafe at Mount Grace Priory. They've got covered seating and a picnic area when you can relax outside and enjoy fine views when the weather is good."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and moorland trails on the route are ideal for a dog walk but dogs are not allowed in Mount Grace Priory. The Blacksmiths Arms mentioned above is dog friendly though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north east of the village you will find the remains of Whorlton Castle. The medieval castle was established in the early 12th century as a Norman motte-and-bailey associated with the nearby settlement. The ruined shell of a 14th-century gatehouse still survives and can viewed by the public. See the video below for views of the castle and the surrounding area. Head a few miles north east and you could visit Stokesley. The attractive town includes some fine Georgian and Victorian architecture and a photogenic Pack Horse Bridge dating from the 17th Century. There's nice walking trails along the River Leven and an interesting old church which features some fine wooden carvings by the famous Robert (Mouseman) Thompson.  The village is located near the Hambleton Hills where there are some excellent walking opportunites. For more walking ideas in the area see the North York Moors Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/CQxwGU8UbkQ",
   "postcode": "DL6 3ED",
   "district": "Swainby",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

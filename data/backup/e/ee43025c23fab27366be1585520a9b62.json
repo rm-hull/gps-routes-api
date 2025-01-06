@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:44:53.828084+00:00",
   "objectID": "ee43025c23fab27366be1585520a9b62",
-  "created_at": "2024-12-21T15:28:24.046783+00:00",
   "ref": "portglenone-forest-walking-route",
   "title": "Portglenone Forest Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Portglenone_forest_%281%29_-_geograph.org.uk_-_263049.jpg",
@@ -14,6 +14,16 @@
       "description": "Garvagh Forest",
       "objectID": "556090b15a5fb7c2d751177553c68f0a",
       "ref": "garvagh-forest-walking-route"
+    },
+    {
+      "description": "Toome Canal",
+      "objectID": "b668018e50a0f50bac5588ff9a885129",
+      "ref": "toome-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Ballyronan Wood",
+      "objectID": "a8530080603954617e8cfe8b75879c3a",
+      "ref": "ballyronan\u00a0wood-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/e/ee43025c23fab27366be1585520a9b62.gpx",
@@ -51,5 +61,16 @@
   ],
   "distance_km": 1.8,
   "description": "This circular walk explores the Portglenone Forest Park in the village of Portglenone, County Antrim. The forested area is located just east of the village and contains a series of peaceful footpaths. In the spring months there's a fine display of bluebells and at the western end there's also the Augustine Henry Memorial Garden. The garden is dedicated to the Father of Irish Forestry Augustine Henry who's family came from Tyanee, Portglenone in the parish of Greenlough. In the garden you can see a couple of the rhododendrons which he brought back from his travels, and a plaque telling his story. You can start your walk from the good sized public car park at the eastern end of the site. Heading west will take you to the River Bann which runs through the area. Along the way you can look out for a variety of woodland birdlife and enjoy a rest at one of the picnic tables. To continue your walking in the area head west to pick up the Portglenone Fisherman's Walk. The popular riverside walk takes you along the River Bann and through the Glenone Forest on the opposite side of the river.",
-  "video_url": "https://www.youtube.com/embed/KSkB_vh93aA"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking. You will probably meet other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north west there's Garvagh Forest where there's some popular mountain bike trails, peaceful walks and an unusual folly in the shape of a pyramid.. To the south you'll find a pleasant waterside cycling and walking path along the Toome Canal. The canalside path leads down to Lough Neagh with some fine views over the expansive lake. Near here there's also the peaceful woodland trails at Ballyronan Wood."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/KSkB_vh93aA",
+  "gazetteer_found": false
 }

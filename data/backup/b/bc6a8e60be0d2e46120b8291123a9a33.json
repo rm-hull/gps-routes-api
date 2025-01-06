@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:58:30.159335+00:00",
   "objectID": "bc6a8e60be0d2e46120b8291123a9a33",
-  "created_at": "2024-12-18T16:58:18.209227+00:00",
   "ref": "deep-hayes-country-park-walking-route",
   "title": "Deep Hayes Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Park_Pool%2C_Deep_Hayes_Country_Park_-_geograph.org.uk_-_1230132.jpg",
@@ -74,9 +74,20 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "Explore 143 acres of woods, meadows, canals and pools in this pretty country park in Cheddleton, Staffordshire. There are a number of waymarked walking trails and a visitor centre where you can find more details. The site is great for wildlife watching and includes a bird hide where you can look out for the various winged visitors that frequent the park. The park is located next to the Caldon Canal so you could follow the towpath into nearby Cheddleton as an extension of the walk.  The Staffordshire Way also runs just past the park so this is another option if you have time. Our Churnet Valley Walk runs through nearby Cheddleton and is a great way to further explore this lovely area.",
+  "description": "Explore 143 acres of woods, meadows, canals and pools in this pretty country park in Cheddleton, Staffordshire. There are a number of waymarked walking trails and a visitor centre where you can find more details. The site is great for wildlife watching and includes a bird hide where you can look out for the various winged visitors that frequent the park. The park is located next to the Caldon Canal so you could follow the towpath into nearby Cheddleton as an extension of the walk. The Staffordshire Way also runs just past the park so this is another option if you have time. Our Churnet Valley Walk runs through nearby Cheddleton and is a great way to further explore this lovely area.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a nice place for a dog walk but you're advised to please keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you follow footpaths and country lanes west from the park you can climb to Cats Edge and then descend to the pretty Stanley Pool where there's a fishery and sailing club. If you head east you can enjoy a ride on the Churnet Valley Railway at Cheddleton. The village houses the headquarters of the railway and includes an interesting museum. The Cheddleton Walk visits the park from the village, starting at the wonderful Flint Mill Museum which is well worth a visit. Just east of Cheddleton there's the delightful Coombes Valley RSPB Nature Reserve. There's some lovely trails here through oak woodland and along the pretty Coombes Brook which runs through the reserve. There's also bird hides where you can look out for a variety of different species. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/faQ9wS13wDw",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

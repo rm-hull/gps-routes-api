@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:28:33.979303+00:00",
   "objectID": "b0ca18b3875d5e464f377ab43cec3d8d",
-  "created_at": "2024-12-18T01:18:53.504755+00:00",
   "ref": "drayton-reservoir-walking-route",
   "title": "Drayton Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Daventry-Drayton_Reservoir_-_geograph.org.uk_-_1121168.jpg",
@@ -70,9 +70,16 @@
   ],
   "distance_km": 1.5,
   "description": "This walk visits Drayton Reservoir in Daventry, Northamptonshire. The small reservoir is primarily used for fishing but you can follow footpaths along the northern side of the water on the new Middlemore estate. The walk can easily be extended by following the Grand Union Canal to the nearby Daventry Country Park where there is a waterside circular trail around Daventry Reservoir. If you follow the canal north you will soon come to Braunston .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north west is the much larger Draycote Water where there's miles of good cycling and walking trails. The circular Ashby St Ledgers Walk starts from the nearby village and passes close to the lake. The village is home to the historic Ashby Manor where much of the Gunpowder Plot of 1605 was planned."
+    }
+  ],
   "postcode": "NN11 8AS",
   "district": "Daventry",
   "county": "West Northamptonshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:22:26.715782+00:00",
   "objectID": "e4c7c93cbfd54d0bcb6351219e87842c",
-  "created_at": "2024-12-19T11:02:48.817810+00:00",
   "ref": "porthleven-walking-route",
   "title": "Porthleven Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/On_the_harbour_wall%2C_Porthleven_-_geograph.org.uk_-_2096395.jpg/512px-On_the_harbour_wall%2C_Porthleven_-_geograph.org.uk_-_2096395.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 5.5,
   "description": "This popular village sits in a lovely position on the coast in West Cornwall. It's a great place to start a walk with cliff top trails, beautiful beaches, a picturesque harbour and a wonderful freshwater lake to visit. Porthleven is also notable as the most southerly port in Great Britain. This walk from the village takes you south east along Porthleven Sands to Loe Bar and Bar Lodge before climbing to the H.M.S. Anson monument where there are some fine views over the area. The route uses a section of the waymarked South West Coast Path. You can extend the walk by visiting the National Trust's Penrose Estate where you can stroll along the large Loe Bar lake and enjoy woodland trails. The lake is a great place for bird watching with species such as Widgeon, Teal, Mallard, Tufted Duck, Coot and Shoveler to see.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Ship Inn is a nice place for some post walk refreshments. The 17th century pub sits in a fine location overlooking the harbour. You can sit out in the terrace garden and enjoy a lovely meal from their extensive menu."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The coastal trails make for a fine dog walk and the Ship Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you pick up the Porthleven to Praa Sands Coastal Walk it will take you west to the beautiful white sand beach at Praa Sands. The surfing beach includes sand dunes, great views and a lovely beach side cafe. Here you also can start the Praa Sands to Prussia Cove Walk and visit a series of delightful little coves."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/kM7lMCX06pw",
   "postcode": "TR13 9JA",
   "district": "Porthleven",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

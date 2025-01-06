@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:20:07.971595+00:00",
   "objectID": "3b12a4886cba86c905abb18c09cb0f13",
-  "created_at": "2024-12-18T10:15:18.150372+00:00",
   "ref": "ticehurst-walking-route",
   "title": "Ticehurst Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_Bell_Inn%2C_Ticehurst_-_geograph.org.uk_-_4842687.jpg/512px-The_Bell_Inn%2C_Ticehurst_-_geograph.org.uk_-_4842687.jpg",
@@ -43,10 +43,17 @@
   ],
   "distance_km": 9.0,
   "description": "This historic village is located just south of Bewl Water in East Sussex. This circular walk from the village follows footpaths north to the large lake where you can enjoy some fine waterside walking and cycling trails. You can also pick up the Sussex Border Path in this area. The long distance trail is a great way of exploring the local countryside on foot. Please scroll down for the full list of walks near and around Ticehurst. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bell dates back to the 16th century and is a fine place for some post walk refreshments. The original section of this old coaching inn, situated on the London to Hastings route, dates back to 1540. In 2011, it underwent significant expansion and restoration, all undertaken by local craftsmen, with further plans for enhancement in the pipeline. The pub's rich history is showcased through vintage posters, while its broader historical context is depicted through a diverse array of artifacts, including a wooden tollgate notice, a portrait by the renowned Victorian artist Margaret Carpenter (the first female RA exhibitor), and a bell from 1790, cast in the Whitechapel foundry. Notably, Kipling composed poetry within these walls. Throughout the pub, one can find prints by Graham Sutherland. The establishment comprises a main bar with a restaurant section, an assembly room snug on the upper floor, and a former stable converted into a function room (see attached image). Outside, guests can enjoy seating on the front terrace, a rear patio area, and a garden designed by a Chelsea Flower Show gold medalist. The guest bedrooms draw inspiration from the village's name, meaning \"wooden hill where goats graze,\" with each room featuring a silver birch trunk in its d\u00e9cor. The pub's development has resulted in a distinctive style that is difficult to fully capture in words; therefore, if you find yourself in the area, it is highly recommended to experience it firsthand, appreciating not only its beer and atmosphere but also its unique charm. You can find them on the High Street with postcode TN5 7AS for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KFVu6-E1cxY?si=5UNHjvmRNKN8EYUc",
   "postcode": "TN5 7DB",
   "district": "Ticehurst",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

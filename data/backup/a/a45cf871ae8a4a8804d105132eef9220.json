@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:18:55.862807+00:00",
   "objectID": "a45cf871ae8a4a8804d105132eef9220",
-  "created_at": "2024-12-21T20:08:25.607480+00:00",
   "ref": "north-bedfordshire-heritage-trail-walking-route",
   "title": "North Bedfordshire Heritage Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Biddenham_Village_Pond.jpg/512px-Biddenham_Village_Pond.jpg",
@@ -74,11 +74,13 @@
     }
   ],
   "distance_km": 113.0,
-  "description": "A super circular walk around the North Bedfordshire countryside visiting twenty three villages, two country parks and around thirty public houses. The walk is often started at Bedford and then visits the following towns and villages: Biddenham- Bromham -Stagsden- Turvey -Carlton-Harrold-Odell- Sharnbrook -Riseley-Hatch End-Keysoe-Colmworth-Wilden-Roxton-Tempsford-Everton-Potton-Sandy-Northill-Cople-Ickwell- Old Warden -Willington. Walk highlights include the National Trust owned Willington Dovecote and Stables (video below). This 16th-century stone-built dovecote and stable buildings are great for bird watchers with  barn owls and kestrels regular visitors. Also of interest for birdwatchers is the RSPB run The Lodge Nature Reserve near Sandy and the delightful Harrold Odell Country Park. Set in 144 acres, the Park's main features are two picturesque lakes. The walk is waymarked with a blue and white disc.",
+  "description": "A super circular walk around the North Bedfordshire countryside visiting twenty three villages, two country parks and around thirty public houses. The walk is often started at Bedford and then visits the following towns and villages: Biddenham- Bromham -Stagsden- Turvey -Carlton-Harrold-Odell- Sharnbrook -Riseley-Hatch End-Keysoe-Colmworth-Wilden-Roxton-Tempsford-Everton-Potton-Sandy-Northill-Cople-Ickwell- Old Warden -Willington. Walk highlights include the National Trust owned Willington Dovecote and Stables (video below). This 16th-century stone-built dovecote and stable buildings are great for bird watchers with barn owls and kestrels regular visitors. Also of interest for birdwatchers is the RSPB run The Lodge Nature Reserve near Sandy and the delightful Harrold Odell Country Park. Set in 144 acres, the Park's main features are two picturesque lakes. The walk is waymarked with a blue and white disc.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Sharnbrook there's the splendidly named Swan with Two Nicks for a pit stop. They do fine home cooked food and have a rear courtyard and patio garden for warmer weather. You can find them on the High Street at postcode MK44 1PF for your sat navs. They are also dog friendly if you have your canine friend with you. In the picturesque village you'll also find pleasant riverside trails, a Norman church, a wildlife rich local nature reserve and a delightful mill theatre converted from the historic old water mill. In Old Warden you can visit The Hare and Hounds, a fine thatched pub serving good quality dishes. You can find them at postcode SG18 9HQ. They have a garden area, parking and are also dog friendly. The chocolate box village is also famous for the Shuttleworth Museum of historic airplanes and motor vehicles at Old Warden Aerodrome. The area also includes Old Warden Park where there are some lovely Swiss gardens, parkland walks and pretty lakes."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HNTkMrMXAxY",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a45cf871ae8a4a8804d105132eef9220.gpx",
-  "_geoloc": {
-    "lat": 51.9452334095,
-    "lng": -0.4779024313
-  }
+  "gazetteer_found": false
 }

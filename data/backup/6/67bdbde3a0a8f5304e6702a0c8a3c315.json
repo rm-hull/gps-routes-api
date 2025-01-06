@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:11:00.746292+00:00",
   "objectID": "67bdbde3a0a8f5304e6702a0c8a3c315",
-  "created_at": "2024-12-18T21:19:15.252891+00:00",
   "ref": "fyne-court-walking-route",
   "title": "Fyne Court Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Fyne_Court_%28geograph_2989304%29.jpg/512px-Fyne_Court_%28geograph_2989304%29.jpg",
@@ -59,10 +59,25 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "Explore the gardens and 65 acre wider estate on this short walk in the Quantock Hills. In the estate you'll find three waymarked walking trails taking you to the most interesting areas on well surfaced paths. You'll visit the fine courtyard with a coach house, stable, library and music room. The trail then takes you into the beautiful gardens with a serpentine lake, boathouse, round-towered folly and a walled garden with ornamental trees and shrubs.  There are also lovely woodland sections with beech trees and bluebells in spring. If you'd like to continue your walk then you could pick up the Samaritans Way South West and head up to the nearby Broomfield Hill and Cothelstone Hill where there are fabulous views over the Quantocks. This runs just to the north of the estate. Fyne Court is located just a few miles from Bridgwater.",
+  "description": "Explore the gardens and 65 acre wider estate on this short walk in the Quantock Hills. In the estate you'll find three waymarked walking trails taking you to the most interesting areas on well surfaced paths. You'll visit the fine courtyard with a coach house, stable, library and music room. The trail then takes you into the beautiful gardens with a serpentine lake, boathouse, round-towered folly and a walled garden with ornamental trees and shrubs. There are also lovely woodland sections with beech trees and bluebells in spring. If you'd like to continue your walk then you could pick up the Samaritans Way South West and head up to the nearby Broomfield Hill and Cothelstone Hill where there are fabulous views over the Quantocks. This runs just to the north of the estate. Fyne Court is located just a few miles from Bridgwater.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site National Trust cafe where you can enjoy a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking and you'll find the site very dog friendly. You are requested to keep them on short leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Quantocks Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/tj3WElGjKVg",
   "postcode": "TA5 2EH",
   "county": "Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:08:52.252449+00:00",
   "objectID": "3f56c74e2976f5eea3c8140bffee6a45",
-  "created_at": "2024-12-18T20:15:26.554646+00:00",
   "ref": "tysoe-windmill-walking-route",
   "title": "Tysoe Windmill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg/512px-Walking_towards_the_windmill_on_Windmill_Hill%2C_Compton_Wynyates_-_geograph.org.uk_-_2736599.jpg",
@@ -43,9 +43,24 @@
   ],
   "distance_km": 6.2,
   "description": "This walk visits the historic Tysoe Windmill in the Stratford-on-Avon District of Warwickshire. The photogenic windmill is located just south of the village of Tysoe on top of Windmill Hill. It's a lovely spot for a walk with excellent views over the Cotswolds AONB from the 184 metre high hill. You can start the walk from Middle Tysoe and head south through Upper Tysoe. Near here you can pick up a country footpath taking you up to Windmill Hill. The route then takes you towards Compton Wynyates before returning to Tysoe on the same footpath. The southern section passes close to Compton Wynyates House, an architecturally impressive Tudor country house that is also Grade I listed.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in Middle Tysoe you could head to the Peacock Inn for some rest and refreshment after your exercise. The pub serves a good selection of real ales and has a welcoming fire for colder days. If the sun is shining there's a lawned garden out the back. You can find them on the Main Street at postcode CV35 0SE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk. The Peacock mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Warwickshire Centenary Way passes through the village. You could follow it north to visit Avon Dassett and Burton Dassett Hills Country Park or west towards Shipston on Stour. Cycling Information:- National Cycle Route 48 passes through Tysoe. The signed Sustrans cycle route runs from Tetbury to Moreton-in-Marsh and Southam. There's splendid views of the Cotswolds on the way."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/o0yGKQ51QC0",
   "district": "Middle Tysoe",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

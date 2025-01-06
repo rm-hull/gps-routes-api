@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:18:59.635794+00:00",
   "objectID": "caa71c8ba4bfd46c71bf5e5f2021fbc7",
-  "created_at": "2024-12-18T10:10:47.887841+00:00",
   "ref": "oxton-walking-route",
   "title": "Oxton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Main_Street%2C_Oxton%2C_Notts._-_geograph.org.uk_-_4302096.jpg/512px-Main_Street%2C_Oxton%2C_Notts._-_geograph.org.uk_-_4302096.jpg",
@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Oxton_Ford_-_geograph.org.uk_-_2822207.jpg/512px-Oxton_Ford_-_geograph.org.uk_-_2822207.jpg",
       "title": "Oxton Ford by John Walton, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Oxton Ford.  Oxton has two fords \u2013 a small ford within the village itself, and a much larger ford on Beanford Lane \u2013 often as deep as 1-foot (0.30 m) whilst remaining open to all traffic. It is however closed each March, so that the toads found in the swamp-like area, which the ford crosses, can breed."
+      "caption": "Oxton Ford. Oxton has two fords \u2013 a small ford within the village itself, and a much larger ford on Beanford Lane \u2013 often as deep as 1-foot (0.30 m) whilst remaining open to all traffic. It is however closed each March, so that the toads found in the swamp-like area, which the ford crosses, can breed."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Oxton_Bogs%2C_Oxton%2C_Notts._-_geograph.org.uk_-_4301611.jpg/512px-Oxton_Bogs%2C_Oxton%2C_Notts._-_geograph.org.uk_-_4301611.jpg",
@@ -53,8 +53,15 @@
   ],
   "distance_km": 5.0,
   "description": "This Nottinghamshire village is based near Southwell and Lowdham. This walk from the village takes you west to visit the Oxton Bogs and the old Calverton coal mine to the west of the settlement. There's some nice footpaths in this area with lakes, a ford, an old railway line and views over the surrounding countryside to enjoy on the way. To continue your walking in the area head north west to visit Blidworth Woods. Here you can enjoy some peaceful woodland trails and pick up the long distance Robin Hood Way to explore the surrounding Sherwood Forest area. Burntstump Country Park lies just to the west and is another local walking highlight.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Ye Olde Bridge Inn is a fine place for post walk refreshment. The pub was voted Nottinghamshire's Pub of the Year 2023 in the National Pub and Bar Awards. They serve high quality meals including a delightful country afternoon tea. Outside there is a large patio area in front of the function room. There is also a splendid 2 acre garden with a children's play area. You can find them at postcode NG25 0SE for your sat navs. They have a car park and are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/eJYocQ0K6uI?si=O9VM5iIK5nZM5Mbm",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

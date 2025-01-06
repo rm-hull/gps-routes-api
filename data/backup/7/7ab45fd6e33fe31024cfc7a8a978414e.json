@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:35:27.376408+00:00",
   "objectID": "7ab45fd6e33fe31024cfc7a8a978414e",
-  "created_at": "2024-12-18T00:33:57.544237+00:00",
   "ref": "llyn-eiddwen-walking-route",
   "title": "Llyn Eiddwen Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Llyn_Eiddwen_-_geograph.org.uk_-_408724.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cattle_grid_on_Mynydd_Bach_-_geograph.org.uk_-_1766386.jpg/512px-Cattle_grid_on_Mynydd_Bach_-_geograph.org.uk_-_1766386.jpg",
       "title": "Nigel Brown / Cattle grid on Mynydd Bach",
-      "caption": "Cattle grid on Mynydd Bach.  Marks the start of the open grazing above Trefenter."
+      "caption": "Cattle grid on Mynydd Bach. Marks the start of the open grazing above Trefenter."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mynydd_Bach_-_geograph.org.uk_-_527964.jpg",
@@ -50,8 +50,15 @@
   ],
   "distance_km": 4.0,
   "description": "This circular walk takes you around near Llyn Eiddwen in Ceredigion. The remote lake is also nature reserve with rare plants and wildlife to see. Look out for otters and voles as you make your way through the area. You can follow bridleways and country lanes around the lake with views of the surrounding common land. Hafod Ithel and Mynydd Bach lie to the north with fine views towards the coast at Cardigan Bay to enjoy.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the east there's the splendid Cors Caron Nature Reserve to explore. The reserve includes boardwalks taking you to raised bogs with surrounding reedbeds, grasslands, woodland, rivers, streams and ponds."
+    }
+  ],
   "postcode": "SY23 4JJ",
   "county": "Sir Ceredigion - Ceredigion",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

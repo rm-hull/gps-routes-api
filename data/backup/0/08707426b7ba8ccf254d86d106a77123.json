@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:13:06.584618+00:00",
   "objectID": "08707426b7ba8ccf254d86d106a77123",
-  "created_at": "2024-12-21T06:37:26.586216+00:00",
   "ref": "borders-abbeys-way-walking-route",
   "title": "Borders Abbeys Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Borders_Abbeys_Way_signpost_-_geograph.org.uk_-_2292172.jpg",
@@ -95,9 +95,11 @@
   ],
   "distance_km": 108.0,
   "description": "Explore the Scottish Borders and visit several historical ruined abbeys on this interesting and beautiful circular walk. You'll visit Kelso Abbey, Melrose Abbey, Dryburgh Abbey and Jedburgh Abbey while there is also a waterside section along the River Teviot and views of the Eildon Hills to enjoy. For the cycling equivalent of the route see the 4 Abbeys Cycle Route. The circular trail uses a series of quiet country lanes to visit the same 4 abbeys. Most of the route is also suitable for walkers.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/08707426b7ba8ccf254d86d106a77123.gpx",
-  "_geoloc": {
-    "lat": 55.5966598367,
-    "lng": -2.4326782299
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Harrietfield, near Kelso the path passes close to the Stichill Linn waterfall. The lovely falls are well worth a small diversion from the route. The Cross Borders Drove Road can be linked with in Hawick. It runs north to West Linton, Peebles and Traquair before finishing near Harperrig Reservoir in the Pentland Hills.  Near Jedburgh you will pass Harestanes where you can climb to the Waterloo Monument on Peniel Heugh hill and enjoy some fine views of the area. The Georgian Monteviot House and Gardens is also located in this area. Just to the south west of Harestanes there's Fatlips Castle where you can enjoy a climb to a splendid 16th century peel tower and enjoy wonderful views over Teviotdale. Hawick is also the start/finish point for the Romans and Reivers Route. This 52 mile route follows the old Roman Roads to the Ae Forest near Moffat. For cyclists the new Kirkpatrick C2C also passes through Melrose. The epic Coast to Coast route runs across the south of Scotland from Stranraer to Eyemouth."
+    }
+  ],
+  "gazetteer_found": false
 }

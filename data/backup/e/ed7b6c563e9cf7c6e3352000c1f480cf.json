@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:00:05.230017+00:00",
   "objectID": "ed7b6c563e9cf7c6e3352000c1f480cf",
-  "created_at": "2024-12-18T09:27:20.615017+00:00",
   "ref": "bramerton-riverside-walk-walking-route",
   "title": "Bramerton Riverside Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Safely_moored_at_Bramerton_Common_-_geograph.org.uk_-_1368255.jpg",
@@ -84,7 +84,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/The_Wherryman%27s_Way_-_to_Bramerton_Common_-_geograph.org.uk_-_1368223.jpg",
-      "title": "Evelyn Simak / The Wherryman's Way  - to Bramerton Common",
+      "title": "Evelyn Simak / The Wherryman's Way - to Bramerton Common",
       "caption": "The Wherryman's Way"
     },
     {
@@ -110,10 +110,21 @@
   ],
   "distance_km": 6.0,
   "description": "This walk takes you along a pleasant section of the River Yare near the village of Bramerton in Norfolk. You can start the walk from the public riverside car park just to the north of the village at Woods End. Near here there's also the Water's Edge Pub which has an alternative car park if you'd lilke to start from there. From here you can pick up public footpaths heading east along the river to the Bramerton Pits Site of Special Scientific Interest and the Church Marsh Nature Reserve. The RSPB reserve is a fine place for spotting birds such as Kingfisher and Marsh Harrier. At the eastern end of the reserve you can also enjoy some fine views over Surlingham Broad. At the broad you will pass the Ferry House Inn where you could stop for refreshments in the lovely garden area. Part of the walk uses a section of the Wherryman's Way. The long distance, waymarked trail can be used to further explore the area. It runs for 35 miles from Norwich to the coast at Great Yarmouth passing through some wonderful Norfolk Broads scenery.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Water's Edge Gastropub is located near the car park at the start of the walk. The riverside inn dates back to the 17th century and includes outdoor seating with views over the river. They have a restaurant serving high quality dishes and a good sized car park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The riverside path makes for a pleasant dog walk but you are asked to keep them on leads in the nature reserve. Dogs are welcome in the outdoor area at the Water's Edge pub mentioned above."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HKHKPd3jL7w",
   "postcode": "NR14 7EN",
   "district": "Bramerton",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

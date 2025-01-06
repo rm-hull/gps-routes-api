@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:13:01.135823+00:00",
   "objectID": "8fa428e5d12ab44c453ea5435766980a",
-  "created_at": "2024-12-18T11:36:45.858767+00:00",
   "ref": "hagg-wood-walking-route",
   "title": "Hagg Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Hagg_Road_near_Hagg_Wood_-_geograph.org.uk_-_1094155.jpg",
@@ -50,10 +50,21 @@
   ],
   "distance_km": 2.0,
   "description": "Visit these bluebell woods in Dunnington and enjoy a series of peaceful woodland walking trails through the attractive coniferous woodland. There's lots of interesting flora and fauna with primroses, yellow pimpernel, wood anemone and dog violets. Look out for foxes, deer, badgers and various woodland birds too. To extend your walking in the area you could head east through the countryside and pick up the Minster Way. It runs along the River Derwent into Stamford Bridge. The woods are located a few miles east of York. You can reach the woods by bike using National Cycle Route 66 .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head west into the pretty village of Dunnington and enjoy refreshments at the Cross Keys pub. The pub does very good food and also has a nice outdoor seating area which is the ideal place to relax in on finer days. You can find it on 3 Common Rd at a postcode of YO19 5NG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are great for a dog walk with lots of nice trails for them to explore. The Cross Keys mentioned above is also allows dogs as long as they are kept on a lead and restricted to the area with wooden or stone floor."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-1TJMygVSKQ",
   "postcode": "YO19 5NY",
   "district": "Dunnington",
   "county": "York",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

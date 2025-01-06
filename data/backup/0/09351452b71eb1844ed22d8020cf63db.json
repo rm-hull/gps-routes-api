@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:14:34.231158+00:00",
   "objectID": "09351452b71eb1844ed22d8020cf63db",
-  "created_at": "2024-12-18T07:55:53.643877+00:00",
   "ref": "wellow-walking-route",
   "title": "Wellow Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Wellow%2C_ford_-_geograph.org.uk_-_283315.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 9.0,
   "description": "This pretty Somerset based village is located just a few miles south of the city of Bath. It's a lovely place for a stroll with typical village features like the historic 14th century church and a fine local pub. The village is also great for walkers sitting at the south western tip of the Cotswolds AONB and just north of the Mendip Hills. This 6 mile circular walk takes you into the lovely valley of the Wellow Brook to Midford along the old railway line. You then pick up the Limestone Link and the old Somerset Coal Canal to visit the delightful village of Combe Hay with its impressive Manor House.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise head to the Fox and Badger for some refreshment. There's a charming interior with rustic furniture on stone \ufb02agged and wood boarded \ufb02oors. You can find them at postcode BA2 8QG."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails are great for dog walking and the Fox and Badger mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ToUwWXlV6Zw",
   "postcode": "BA2 8QH",
   "district": "Wellow",
   "county": "Bath and North East Somerset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

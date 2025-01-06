@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:24:49.711143+00:00",
   "objectID": "212bcb1054b27ac1a1e15d3052b181b5",
-  "created_at": "2024-12-18T13:59:39.471485+00:00",
   "ref": "greatham-walking-route",
   "title": "Greatham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Road_running_through_Greatham_in_Hampshire_-_geograph.org.uk_-_2048327.jpg",
@@ -43,9 +43,24 @@
   ],
   "distance_km": 3.8,
   "description": "This Hampshire based village is located just north of the town of Liss in the South Downs. Local walking highlights include Ludshott Common, Bramshott Common and the expansive Woolmer Forest which lies just to the east of the settlement. This circular walk explores the countryside to the west of the village. On the way there are views of the River Rother and a visit to the historic Old Church which dates back to the 13th century. Only the chancel remains of the old church but the present church of St. John the Baptist, was built in 1875, and lies just opposite the Old Church.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Greatham Inn for some post walk refreshment. The pub includes nice old features such as exposed brickwork, open fireplaces and wooden beams. They serve good food and have a large garden area with country views. They can be found at postcode GU33 6AD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails and the surrounding Woolmer forest are a great place for dog walking. The inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Shipwrights Way passes the village. You could pick up the trail and follow it north to Woolmer Pond and neighbouring Bordon where you can visit the Hogmoor Inclosure. The area has lots of family activities with woodland walking and cycling paths plus a sculpture trail."
+    }
+  ],
   "postcode": "GU33 6EY",
   "district": "Greatham",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

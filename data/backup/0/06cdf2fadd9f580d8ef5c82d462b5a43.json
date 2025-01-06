@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:01:43.571272+00:00",
   "objectID": "06cdf2fadd9f580d8ef5c82d462b5a43",
-  "created_at": "2024-12-21T04:44:16.096651+00:00",
   "ref": "worcester-and-birmingham-canal-walking-route",
   "title": "Worcester and Birmingham Canal Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Worcester_and_Birmingham_Canal_Alvechurch_-_geograph.org.uk_-_680451.jpg",
@@ -34,7 +34,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Worcester_and_Birmingham_Canal_Alvechurch_-_geograph.org.uk_-_680451.jpg",
-      "title": "DavoW / Worcester & Birmingham Canal  Alvechurch, via Wikimedia Commons",
+      "title": "DavoW / Worcester & Birmingham Canal Alvechurch, via Wikimedia Commons",
       "caption": "Canal at Alvechurch"
     },
     {
@@ -70,15 +70,21 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tardebigge_Flight_and_Reservoir_-_geograph.org.uk_-_314169.jpg",
       "title": "Paul Huntley / Tardebigge Flight & Reservoir",
-      "caption": "Tardebigge Flight & Reservoir. Serving the Worcester & Birmingham Canal, towards the top the Tardebigge Flight of 30 locks raising the canal up 220\u0092 just South East of Bromsgrove, Worcestershire"
+      "caption": "Tardebigge Flight & Reservoir. Serving the Worcester & Birmingham Canal, towards the top the Tardebigge Flight of 30 locks raising the canal up 220 just South East of Bromsgrove, Worcestershire"
     }
   ],
   "distance_km": 50.0,
-  "description": "Follow the Worcester and Birmingham Canal  from the vibrant centre of Birmingham, through the green hills of Worcestershire, to the cathedral city of Worcester. After leaving Birmingham you enter the countryside and will encounter a series of locks including Tardebigge Locks. With 30 locks in about 2 miles, Tarddebigge is the longest in the country, and also one of the steepest. This is a nice easy waterside walk, suitable for all walkers. Highlights on the route include the chocolate factory at the pretty model village of Bournville. It's well worth a short detour from the towpath to explore the village with its historic buildings and pretty little park. Around Droitwich Spa the canal links with the Droitwich Canal which will take you west through the town into the surrounding countryside.",
+  "description": "Follow the Worcester and Birmingham Canal from the vibrant centre of Birmingham, through the green hills of Worcestershire, to the cathedral city of Worcester. After leaving Birmingham you enter the countryside and will encounter a series of locks including Tardebigge Locks. With 30 locks in about 2 miles, Tarddebigge is the longest in the country, and also one of the steepest. This is a nice easy waterside walk, suitable for all walkers. Highlights on the route include the chocolate factory at the pretty model village of Bournville. It's well worth a short detour from the towpath to explore the village with its historic buildings and pretty little park. Around Droitwich Spa the canal links with the Droitwich Canal which will take you west through the town into the surrounding countryside.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The picturesque village of Alvechurch is a nice place for a stroll and a pit stop. The Weigh Bridge is right on the canal and includes a splendid garden area where you can sit outside and watch the boats go by on a summer day. They have a good menu and an excellent selection of ales as a CAMRA award winner. The pub can be found at Scarfield Hill with a postcode of B48 7SQ for your sat navs. They are also dog friendly if you have your canine friend with you. The historic village is also well worth exploring with a 13th century church and several medieval half-timbered buildings to see. You'll also pass the two Bittell Reservoirs and the popular Lickey Hills Country Park as you make your way through this area. In Stoke Pound there's the canalside Queens Head. There's a charming interior including Victorian floor tiles with beaten copper and the natural textures of wood and stone. Outside there is an attractive landscaped garden with a tepee which can be booked for private parties. You can find them at postcode B60 3AU for your sat navs. The inn includes car parking and is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Worcestershire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/CAAkyddKH4Q",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/06cdf2fadd9f580d8ef5c82d462b5a43.gpx",
-  "_geoloc": {
-    "lat": 52.1824176479,
-    "lng": -2.2229858892
-  }
+  "gazetteer_found": false
 }

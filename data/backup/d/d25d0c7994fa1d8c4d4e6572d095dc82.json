@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:20:17.333590+00:00",
   "objectID": "d25d0c7994fa1d8c4d4e6572d095dc82",
-  "created_at": "2024-12-21T03:34:30.433633+00:00",
   "ref": "marston-marshes-walking-route",
   "title": "Marston Marshes Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Marston_Marshes_-_geograph.org.uk_-_27746.jpg",
@@ -56,5 +56,16 @@
   ],
   "distance_km": 2.8,
   "description": "This pretty nature reserve is located on the River Yare near Cringleford and Norwich. The reserve includes pleasant riverside trails, 5 ponds, damp woodland and floodplain grazing marsh with cattle. It's great for wildlife watching with species such as water voles, otters, snipe and geese to look out for. There's a car park at the eastern end of the site where you can pick up a waymarked circular nature trail running for just under 2 miles. The Yare Valley Walk starts/finishes at the reserve. You could pick up this 6 mile trail and follow it north to the man made broad in the pleasant grounds of the University of East Anglia.",
-  "video_url": "https://www.youtube.com/embed/b4xgEuWVzQI"
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reserve is a popular place for dog walkers so you will probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Edith Cavell Pilgrimage Walk passes through the reserve on its way from Swardeston to Norwich Cathedral. The walk pays homage to the heroic nurse of the first world war."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/b4xgEuWVzQI",
+  "gazetteer_found": false
 }

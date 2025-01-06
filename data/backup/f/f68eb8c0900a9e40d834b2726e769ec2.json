@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T04:14:53.561977+00:00",
   "objectID": "f68eb8c0900a9e40d834b2726e769ec2",
-  "created_at": "2024-12-18T17:44:37.602176+00:00",
   "ref": "dennington-walking-route",
-  "title": "Dennington Walks Walking Route",
+  "title": "Dennington\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg/512px-Cottages_at_Dennington_-_geograph.org.uk_-_4381589.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f68eb8c0900a9e40d834b2726e769ec2.gpx",
   "_geoloc": {
@@ -43,10 +43,21 @@
   ],
   "distance_km": 5.0,
   "description": "This Suffolk village is located close to Laxfield and Framlingham. The pretty village includes some historic buildings including a 16th century pub and a Grade I listed church dating to the medieval period. Local walking highlights include the grounds and mere at the historic Framlingham Castle which lies just to the south. This walk from the village follows various public footpaths south to explore the surrounding countryside and visit the River Ore. Please scroll down for the full list of walks near and around Dennington. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Denington Queen is an historic pub dating to the 16th century. The large timber framed pub serves quality dishes and has a lovely garden area to relax in. You can find them on the Square at postcode IP13 8AB. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the north there's the noteworthy village of Laxfield. The historic settlement has a number of traditional thatched cottages and timber-framed houses. There's also a 14th century church and 16th century pub in this attractive village."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/reRDBxWj0r0?si=e6LXv8YtQmCnM9IP",
   "postcode": "IP13 8AA",
   "district": "Dennington",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

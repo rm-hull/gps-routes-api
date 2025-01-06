@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:18:32.471290+00:00",
   "objectID": "561f5fbfd9696032adafbc24692b4e0a",
-  "created_at": "2024-12-18T12:57:37.854229+00:00",
   "ref": "cleethorpes-country-park-walking-and-cycle-route",
   "title": "Cleethorpes Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Cleethorpes_Country_Park_-_geograph.org.uk_-_1079214.jpg",
@@ -49,7 +49,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Car_park_at_Cleethorpes_Country_Park_-_geograph.org.uk_-_3245375.jpg/512px-Car_park_at_Cleethorpes_Country_Park_-_geograph.org.uk_-_3245375.jpg",
-      "title": "Car park at Cleethorpes Country Park by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Car park at Cleethorpes Country Park by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "A view of the good sized car park at the site."
     },
     {
@@ -79,11 +79,22 @@
     }
   ],
   "distance_km": 2.0,
-  "description": "This 160 acre park has a 7 acre lake with footpaths and a cycle path running through it. It's also a designated nature reserve with lots of interesting flora and fauna.  Look out for various wildflowers and birdlife including wildfowl on the lake and skylarks in the air. The park is located near to Cleethorpes town centre and the sea front so you could continue your walk or ride along the coast. Just east is the Cleethorpes nature reserve with a discovery centre and a pretty lake next to the coast.",
+  "description": "This 160 acre park has a 7 acre lake with footpaths and a cycle path running through it. It's also a designated nature reserve with lots of interesting flora and fauna. Look out for various wildflowers and birdlife including wildfowl on the lake and skylarks in the air. The park is located near to Cleethorpes town centre and the sea front so you could continue your walk or ride along the coast. Just east is the Cleethorpes nature reserve with a discovery centre and a pretty lake next to the coast.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is great for dog walking and there's even a designated dog swimming area for them to paddle around in. The nearby Weelsby Woods mentioned below is another popular spot for dog walkers."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area head south and try the Cleethorpes to Tetney Lock Walk. The walk takes you along the Tetney Marshes RSPB nature reserve to the pretty lock on the Louth Canal. Also nearby is Weelsby Woods. This popular park has some nice surfaced footpaths taking you to mature trees, woodland, and large grassy areas. The Grimsby Walk starts from the train station in the town and visits the interesting National Fishing Heritage Centre at Alexandra Dock. The museum transports you back in time to the 1950\u2019s heyday of this famous port. If you head a few miles inland you could pick up the Wanderlust Way around the little village of Barnoldby le Beck. The 20 mile circular walk explores the Lincolnshire Wolds and includes views of the Humber Estuary. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/AbNwNmU3nRk",
   "postcode": "DN35 0PZ",
   "district": "Humberston",
   "county": "North East Lincolnshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

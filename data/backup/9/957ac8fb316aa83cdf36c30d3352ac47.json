@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:36:45.154555+00:00",
   "objectID": "957ac8fb316aa83cdf36c30d3352ac47",
-  "created_at": "2024-12-18T10:02:29.790550+00:00",
   "ref": "loch-morlich-walking-route",
   "title": "Loch Morlich Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Loch_Morlich_-_geograph.org.uk_-_602421.jpg",
@@ -80,10 +80,25 @@
   ],
   "distance_km": 6.0,
   "description": "Enjoy an easy circular walk around Loch Morlich in the Cairngorms. There is a good footpath running all the way around the water and through the surrounding forest. It's a popular, waymarked walk with ample parking at the visitor centre located at the north eastern end of the lake. The trail runs for just under 4 miles on a fairly flat footpath with a few small climbs along the way. There's much to enjoy with a beautiful, long beach, peaceful woodland trails and the wonderful backdrop of the Cairngorms mountains. You can extend your walk by further exploring the surrounding Glenmore Forest Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The excellent Pine Marten Bar is located just to the east of the loch. The alpine style bar has a cosy interior with a real fire. There's also live music most Friday and Saturday nights as well as during the week during holiday periods."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The loch is a great place for a dog walk. They will enjoy the lovely beach but please ensure they are under control."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west of the loch and you can enjoy another waterside walk around Loch Pityoulish. It's a smaller loch but nonetheless very pretty and a more tranquil and peaceful place with fewer visitors than Morlich. If you head east from the visitor centre you could visit the unusual Green Loch. The small lake is a popular spot to visit in the park with its photogenic turquoise hue. The popular town of Aviemore is located a few miles north west of the site. The town makes a good base for walking with Craigellachie Nature Reserve a nearby highlight. Near Kincraig there's Loch Insh which includes a watersports centre and an old lochside church. For more walking ideas in the area see the Cairngorms Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KDvB2LjE1uk",
   "postcode": "PH22 1QY",
   "district": "Glenmore",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:11:34.026741+00:00",
   "objectID": "1b46b862db4b46e6c4625bc7b6c89fa3",
-  "created_at": "2024-12-21T20:29:37.581767+00:00",
   "ref": "lough-fea-walking-route",
   "title": "Lough Fea Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lough_Fea_%284%29_-_geograph.org.uk_-_3100858.jpg",
@@ -24,31 +24,48 @@
       "description": "Loughmacrory Lough",
       "objectID": "ed156355f823135e07a40fba7cb0fd5a",
       "ref": "loughmacrory-lough-walking-route"
+    },
+    {
+      "description": "Ballinderry River Walk",
+      "objectID": "02d394328628731f24d9d2d4ac80e72e",
+      "ref": "dunnamore-ballinderry-river-walking-route"
+    },
+    {
+      "description": "An Creagan",
+      "objectID": "9993f3a7e9e779bc2ee27051b6950700",
+      "ref": "an-creagan-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/1/1b46b862db4b46e6c4625bc7b6c89fa3.gpx",
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Lough_Fea_%284%29_-_geograph.org.uk_-_3100858.jpg",
-      "title": "Lough Fea (4) by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Lough Fea (4) by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Lough_Fea_%285%29_-_geograph.org.uk_-_3100862.jpg",
-      "title": "Lough Fea (5) by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Lough Fea (5) by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Footbridge_at_Lough_Fea_-_geograph.org.uk_-_4865901.jpg",
-      "title": "Footbridge at Lough Fea by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Footbridge at Lough Fea by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Lough_Fea_Road_-_geograph.org.uk_-_3100808.jpg",
-      "title": "Lough Fea Road by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Lough Fea Road by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": ""
     }
   ],
   "distance_km": 4.2,
-  "description": "This circular walk takes you around Lough Fea in the Sperrin Mountains of Northern Ireland. There is a car park and a picnic area at the northern end of the lake where you can start your walk. From here you can pick up the 4km circular trail and enjoy some wonderful views over the water to the surrounding mountains. The lough is located just east of the expansive Davagh Forest where you can enjoy miles of walking and cycling trails."
+  "description": "This circular walk takes you around Lough Fea in the Sperrin Mountains of Northern Ireland. There is a car park and a picnic area at the northern end of the lake where you can start your walk. From here you can pick up the 4km circular trail and enjoy some wonderful views over the water to the surrounding mountains. The lough is located just east of the expansive Davagh Forest where you can enjoy miles of walking and cycling trails.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south west there's the lovely Ballinderry River Walk in nearby Dunnamore. Near here you can pick up the circular loop walk around An Creagan. There's a visitor centre, a boardwalk over the Creggan Bog Nature Reserve and woodland trails to be found in this interesting area."
+    }
+  ],
+  "gazetteer_found": false
 }

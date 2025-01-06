@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:17:42.069553+00:00",
   "objectID": "65843c235fcfdd4300781bd39ed87925",
-  "created_at": "2024-12-19T06:54:42.800858+00:00",
   "ref": "sutton-walking-route",
   "title": "Sutton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733026.jpg/512px-Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733026.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733026.jpg/512px-Surrey%2C_The_Mansion_House%2C_Nonsuch_Park_-_geograph.org.uk_-_1733026.jpg",
-      "title": "Dr Neil Clifton / Cheam, Surrey:  The Mansion House, Nonsuch Park",
+      "title": "Dr Neil Clifton / Cheam, Surrey: The Mansion House, Nonsuch Park",
       "caption": "Surrey, The Mansion House, Nonsuch Park"
     },
     {
@@ -42,9 +42,24 @@
     }
   ],
   "distance_km": 12.0,
-  "description": "This town in South London sits on the lower slopes of the North Downs near to Surrey. The long distance London Loop runs through the area providing the opportunity for exploring the parks and open spaces in the immediate vicinity. This Sutton countryside walk uses a section of the London Loop to visit Nonsuch Park and Banstead Downs where there are some nice walking trails to try. The walk starts to the west of Sutton at the interestingly named Nonsuch Park. The park includes some pretty gardens and  Nonsuch Palace, a Tudor royal palace, built by Henry VIII in the 16th century. In the park you can pick up the London Loop and follow it south east towards Ewell and the Gally Hills at Banstead. The route then turns north east to Banstead Downs. This area has a number of footpaths taking you to grass chalkland, wildflowers and nice views towards London from the high points. After exploring the downs the route returns to the start point on the same paths.",
+  "description": "This town in South London sits on the lower slopes of the North Downs near to Surrey. The long distance London Loop runs through the area providing the opportunity for exploring the parks and open spaces in the immediate vicinity. This Sutton countryside walk uses a section of the London Loop to visit Nonsuch Park and Banstead Downs where there are some nice walking trails to try. The walk starts to the west of Sutton at the interestingly named Nonsuch Park. The park includes some pretty gardens and Nonsuch Palace, a Tudor royal palace, built by Henry VIII in the 16th century. In the park you can pick up the London Loop and follow it south east towards Ewell and the Gally Hills at Banstead. The route then turns north east to Banstead Downs. This area has a number of footpaths taking you to grass chalkland, wildflowers and nice views towards London from the high points. After exploring the downs the route returns to the start point on the same paths.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Ye Olde Red Lion in Cheam is a good choice for some post walk refreshments. They do good food and have a large beer garden for warmer days. You can find the pub on 17 Park Road at postcode SM3 8QB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a nice dog walk and Ye Olde Red Lion pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of Banstead you'll find Banstead Woods. The lovely bluebell woods have a nice nature trail to try."
+    }
+  ],
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:23:55.571693+00:00",
   "objectID": "e0ca252bcc6bb8fe1ff7c58abfaf5463",
-  "created_at": "2024-12-19T08:40:57.021652+00:00",
   "ref": "otley-chevin-country-park-walking-and-cycle-route",
   "title": "Otley Chevin Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Otley_Chevin_-_geograph.org.uk_-_846761.jpg",
@@ -33,7 +33,7 @@
     {
       "description": "Bramhope Circular Walk",
       "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope circular-walk-walking-route"
+      "ref": "bramhope\u00a0circular-walk-walking-route"
     },
     {
       "description": "Golden Acre Park",
@@ -99,8 +99,23 @@
     }
   ],
   "distance_km": 8.0,
-  "description": "Enjoy cycling and walking trails in this super country park near Leeds. For walkers there are several self guided walking trails while cyclists can enjoy the many bridleways that run through the park.  Otley Chevin rises to a height of 280m above sea level, offering fabulous views of the Wharfe Valley and town of Otley below.  The park consists of woodland, heathland, meadowland and rocky outcrops.  There is also an excellent visitor centre and cafe. This circular walk takes you through the woodland of Chevin Forest Park before climbing to the popular Suprise View. It's a wonderful spot with fine views to Lower Wharfedale, Almscliffe Crag and the Kilburn White Horse. If you would like to continue your walk then the Ebor Way and a link to the Dales Way run right through the park. In the town you could try our Otley River Walk which take you through some of the riverside parks and nature reserves located on the River Wharfe. Just to the north east of Otley you will find the pretty Lindley Wood Reservoir. There are nice footpaths along the River Washburn and the peaceful Lindley Wood to enjoy here.",
+  "description": "Enjoy cycling and walking trails in this super country park near Leeds. For walkers there are several self guided walking trails while cyclists can enjoy the many bridleways that run through the park. Otley Chevin rises to a height of 280m above sea level, offering fabulous views of the Wharfe Valley and town of Otley below. The park consists of woodland, heathland, meadowland and rocky outcrops. There is also an excellent visitor centre and cafe. This circular walk takes you through the woodland of Chevin Forest Park before climbing to the popular Suprise View. It's a wonderful spot with fine views to Lower Wharfedale, Almscliffe Crag and the Kilburn White Horse. If you would like to continue your walk then the Ebor Way and a link to the Dales Way run right through the park. In the town you could try our Otley River Walk which take you through some of the riverside parks and nature reserves located on the River Wharfe. Just to the north east of Otley you will find the pretty Lindley Wood Reservoir. There are nice footpaths along the River Washburn and the peaceful Lindley Wood to enjoy here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Cheerfull Chilli for some refreshments after your walk. Here you'll find a fine selection of vegetarian food set in a stone-built rustic 2-floor cafe with a pretty garden and an outdoor courtyard. It's conveniently located right next to the car park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is an excellent place to walk the dog. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a couple of miles south of the park and you can enjoy an easy waterside stroll at the pretty Yeadon Tarn. There's also the noteworthy White Swan pub to be found nearby. The main draw here is a fantastic decked beer garden where there are views to the cricket ground. The Burley in Wharfedale Walk visits the viewpoint from the train station at the nearby settlement. The village itself is well worth exploring with a delightful village green and some historic old buildings on the Main Street. It's located just a few miles north west of the park. The Bramhope Circular Walk visits the popular Golden Acre Park and the expansive Eccup Reservoir from the nearby village. The attractive settlement is located just east of the park and can be reached by following the Ebor Way through Caley Deer Park. The attractive village also includes a fine 18th century pub which worthy of investigation. Just to the east you can pay a visit to one of the architectural highlights of the area at Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy. For more walking ideas in the area see the Yorkshire Dales Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fYLy8UI_7iM",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:13:34.454770+00:00",
   "objectID": "ebce2364d011adfe3cd29f8050c78dda",
-  "created_at": "2024-12-18T11:37:03.697668+00:00",
   "ref": "hainault-forest-country-park-walking-and-cycle-route",
   "title": "Hainault Forest Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/New_track_into_Hainault_Forest_-_geograph.org.uk_-_273900.jpg",
@@ -65,8 +65,23 @@
   ],
   "distance_km": 7.0,
   "description": "This country park contains open space parklands, numerous public footpaths, a large lake, the Hainault Forest Golf Club and Fox Burrow Farm. There are 336 acres to explore with several paths suitable for cyclists so you can bring your bike and enjoy miles of traffic free cycling. The park is located between Chigwell and Romford with Hainault underground station a good access point. If you'd like to extend your outing you could follow the London Loop to the nearby Havering Country Park .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a very good on site cafe where you can enjoy refreshments after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails in the park are ideal for dog walking so you'll probably see other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just over a mile to the south west you'll find Fairlop Waters Country Park. It's another popular site with a series of lakeside trails and a photogenic boulder park to explore. The circular walk from Loughton visits the park from the nearby town's London Underground station. It's an attractive place worthy of exploration with dozens of historic listed buildings and three conservation areas. The route also visits the Roding Valley Meadows nature reserve on the River Roding."
+    }
+  ],
   "district": "Lambourne End",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

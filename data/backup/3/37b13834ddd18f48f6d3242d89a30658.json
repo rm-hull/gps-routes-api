@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:11:43.054403+00:00",
   "objectID": "37b13834ddd18f48f6d3242d89a30658",
-  "created_at": "2024-12-18T15:14:38.748580+00:00",
   "ref": "gosford-estate-walking-route",
   "title": "Gosford Estate Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gosford_House%2C_Gosford_estate_%28Aberlady_Longniddry%2C_Scotland%29.jpg/512px-Gosford_House%2C_Gosford_estate_%28Aberlady_Longniddry%2C_Scotland%29.jpg",
@@ -60,9 +60,20 @@
   ],
   "distance_km": 2.0,
   "description": "The Gosford Estate is located near to Longniddry in East Lothian. The grounds have some lovely walking trails which you can explore by buying a permit from the Wemyss and March estate office or from the Gosford Bothy Farm Shop. See the link below for full details of their walking policies. In the park you'll find some lovely gardens, a pretty lake and some fine architecture including the Mausoleum and the gatehouse. The house itself is an imposing neo-classical mansion surrounded by 5000 acres of parkland and coast. It's located on the south side of the Firth of Forth and close to the famous golf course at Muirfield.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs must be kept on leads during the months of March to August so they do not interfere with wildlife breeding and nesting and are under close control for the rest of the year."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near the house you can pick up the Haddington to Longniddry Railway Walk. This easy 5 mile walk takes you along a dismantled railway line, running between these two East Lothian Towns. Also to the south west you'll find another similar trail on the Pencaitland Railway Walk. To the north east is the nearby village of Aberlady where you can pick up the Aberlady Bay to Gullane Walk. This will take you along the wildlife rich Aberlady Bay, the first Local Nature Reserve to be founded in Britain in 1952."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/JhX97ILWflc",
   "postcode": "EH32 0PX",
   "county": "East Lothian",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

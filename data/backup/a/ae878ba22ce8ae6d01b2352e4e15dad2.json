@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:12:50.584135+00:00",
   "objectID": "ae878ba22ce8ae6d01b2352e4e15dad2",
-  "created_at": "2024-12-18T15:14:32.208635+00:00",
   "ref": "lindow-common-walking-route",
   "title": "Lindow Common Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lindow_Common%2C_Black_Lake_-_geograph.org.uk_-_3597013.jpg",
@@ -95,10 +95,21 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits Lindow Common Nature Reserve in Wilmslow, Cheshire. The pretty common has some nice footpaths taking you around birch woodland and heathland. There's also a small lake, pretty heather and lots of wildlife to look out for on the lake. Keep your eyes peeled for Mandarin ducks, grebes and Canada geese on the water. The site includes two car parks at the northern and southern end of the common. You can find it just west of Wilmslow town centre. To continue your walking from the common head east to pick up a pleasant riverside footpath along the River Bollin. If you follow the river north you will soon come to Styal Country Park where there's more woodland trails and an historic 18th century mill to see.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Hickory's Smokehouse is located on the northern side of the common next to the car park. They serve southern US style dishes from an extensive menu. They also have a garden area and a car park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is popular with dog walkers and there are dog bins provided on the site. Hickory's Smokehouse mentioned above is also very dog friendly with water bowls and treats available."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/acWG-gOCdzM",
   "postcode": "SK9 5LR",
   "district": "Wilmslow",
   "county": "Cheshire East",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

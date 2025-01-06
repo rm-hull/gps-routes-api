@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T03:23:24.281797+00:00",
   "objectID": "a71ab978b5f022060811a7a8b035b725",
-  "created_at": "2024-12-18T11:23:03.844224+00:00",
   "ref": "lealholm-walking-route",
-  "title": "Lealholm Circular Walk Route",
+  "title": "Lealholm\u00a0Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Lealholm_Station_-_geograph.org.uk_-_2378632.jpg/512px-Lealholm_Station_-_geograph.org.uk_-_2378632.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a71ab978b5f022060811a7a8b035b725.gpx",
   "_geoloc": {
@@ -53,9 +53,24 @@
   ],
   "distance_km": 13.0,
   "description": "This pretty North Yorkshire village is located in the Eskdale area of the North York Moors National Park. It's a lovely place to visit with picturesque stepping stones across the River, an old stone bridge and a fine pub dating back to the 1600s. This circular walk uses a section of the Esk Valley Walk to take you up to the splendid viewpoint at Danby Beacon. You can start the walk from Leaholm railway station on the Esk valley line, which runs from Whitby to Middlesbrough. From here you can pick up the Esk Valley Walk and follow the waymarked footpath north west on to Leaholm Moor where there is lots of lovely heather in the late summer. Follow the trail west across the moor and you will soon come to Danby Beacon. From the hill's elevated position there are excellent views over the Fryup Dales and the surrounding hills of the North York Moors. The route then descends past Oakley Side where you could take a small detour west to visit the Moors National Park Centre. The centre has a wealth of useful information and exhibitions set in 13 acres of grounds on the banks of the River Esk. The final section takes you east along a pleasant country lane, passing Houlsyke before returning to the village. To extend your walking in the area you could follow the Esk Valley Walk south to visit neighbouring Glaisdale where you can see the noteworthy Beggar's Bridge. The splendid old packhorse bridge dates back to 1619 and is Grade II listed.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the village green you can enjoy some post exercise refreshment at The Board Inn. The stone built pub dates back to the 17th century and serves good quality locally sourced dishes. In the summer months you can sit outside on the riverside patio and enjoy a lovely view with your meal. You can find them in the heart of the village at postcode YO21 2AJ for your sat navs. They also provide rooms if you would like to stay in the area."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The moors are an excellent place for a dog walk. The Board Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a few miles north and you could enjoy some lovely waterside trails around Scaling Dam on Roxby Moor."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2rrWKOf7StU",
   "district": "Lealholm",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

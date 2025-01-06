@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:24:01.417797+00:00",
   "objectID": "b822256d980042bfa025d13640167316",
-  "created_at": "2024-12-18T03:54:19.753356+00:00",
   "ref": "lanark-moor-country-park-walking-route",
   "title": "Lanark Park Loch Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lanark_Loch_-_Looking_Towards_Lanark_Golf_Course_-_geograph.org.uk_-_771058.jpg",
@@ -14,6 +14,16 @@
       "description": "Tinto Hill",
       "objectID": "cdcfd7fe5f72b43cfaf729b9d9b4b31f",
       "ref": "tinto-hill-walking-route"
+    },
+    {
+      "description": "Craignethan Castle",
+      "objectID": "20add96dc555eb7578a54fdc56108796",
+      "ref": "craignethan-castle-walking-route"
+    },
+    {
+      "description": "Carmichael Estate",
+      "objectID": "ce84fe2be22ad7a522bdfbdec926ee30",
+      "ref": "carmichael-estate-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/b/b822256d980042bfa025d13640167316.gpx",
@@ -55,10 +65,21 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy a lovely walk on the lochside path in this country park in Lanark. The loch is surrounded by some truly beautiful countryside and in the summer you can hire bumper boats. There's also a putting green, a picnic area and play park so it's a nice day out for families. The park is about 1 mile from Lanark train station and has on site parking. If you would like to continue your walk you could head to the nearby Falls of Clyde Nature Reserve where you can enjoy woodlands, waterfalls and a walk along the River Clyde. You can also pick up the Clyde Walkway here.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The lochside path is popular with dog walkers so you'll probably see other owners with their pets on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south there's a popular climb to Tinto Hill to try. The hill is an excellent local viewpoint with fine views over the hills and countryside of the Southern Uplands. The hill top is also home to one of the largest Bronze Age round cairns in Scotland. Just north of Lanark there's a pleasant walk through the Clyde Valley Woodlands which includes a pleasant riverside path along Mouse Water and pretty waterfalls. Head north west to Crossford and you can visit the ruins of the ancient Craignethan Castle. You'll also visit the Lower Nethan Gorge Nature Reserve, another section of the Clyde Valley Woodlands. The historic Carmichael Estate covers over 2,000 acres and has some fine trail. The estate has been home to the Carmichael family for over 800 years, with remnants of their ancestral history scattered throughout the landscape."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hSOGg7mSDVk",
   "postcode": "ML11 9BJ",
   "district": "Lanark",
   "county": "South Lanarkshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

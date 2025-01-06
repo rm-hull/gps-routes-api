@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:42:11.183594+00:00",
   "objectID": "36d2f8e3adf341255e1ae0e27e31c86b",
-  "created_at": "2024-12-19T03:17:29.765583+00:00",
   "ref": "gowerton-walking-route",
   "title": "Gowerton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Gowerton_railway_station_-_geograph.org.uk_-_3673608.jpg",
@@ -33,8 +33,15 @@
   ],
   "distance_km": 5.0,
   "description": "This inland Welsh town is often described as the gateway to the Gower Peninsula. It is located on the north western fringes of the city of Swansea. This walk in the town takes you along a dismantled railway line from the train station. You can follow the footpath east along the Afon Llan.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Gower Way passes the town, providing an opportunity to explore the Gower Peninsula on a waymarked trail. For more walking ideas in the area see the Gower Walks page."
+    }
+  ],
   "district": "Gowerton / Tre-gwyr",
   "county": "Abertawe - Swansea",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

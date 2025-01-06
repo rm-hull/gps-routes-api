@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:34:31.231071+00:00",
   "objectID": "f7d1988c82eb27184c444a63060fd9d6",
-  "created_at": "2024-12-18T12:18:01.889768+00:00",
   "ref": "hindhead-walking-route",
   "title": "Hindhead Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Surrey_Hills_-_geograph.org.uk_-_1173566.jpg/256px-Surrey_Hills_-_geograph.org.uk_-_1173566.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/86/Steps_down_to_the_Sailor%27s_Stone_-_geograph.org.uk_-_818762.jpg",
       "title": "Basher Eyre / Steps down to the Sailor's Stone",
-      "caption": "Steps down to the Sailor's Stone.  In 1786, a sailor travelling from London to Portsmouth docks was brutally murdered by three individuals he had befriended in a local pub in Thursley. Following this tragic event, the Sailor\u2019s Stone was erected to mark the spot where the sailor lost his life. The three highwaymen responsible for the crime were subsequently tried and hanged on Gibbet Hill, close to the scene of the murder, as a deterrent to other potential criminals. Following the executions, various fears and superstitions emerged surrounding Gibbet Hill. In 1851, Sir William Erle, an English lawyer, judge, and Whig politician, funded the installation of a Celtic cross on Gibbet Hill to dispel these fears and uplift the local community. The Celtic cross has since been designated as a Grade II listed monument by English Heritage. To delve into the area's grim history, one can take a walk along the Old Portsmouth Road around the Devil\u2019s Punch Bowl, where both the Celtic cross and the Sailor\u2019s Stone with its inscription can be found."
+      "caption": "Steps down to the Sailor's Stone. In 1786, a sailor travelling from London to Portsmouth docks was brutally murdered by three individuals he had befriended in a local pub in Thursley. Following this tragic event, the Sailor\u2019s Stone was erected to mark the spot where the sailor lost his life. The three highwaymen responsible for the crime were subsequently tried and hanged on Gibbet Hill, close to the scene of the murder, as a deterrent to other potential criminals. Following the executions, various fears and superstitions emerged surrounding Gibbet Hill. In 1851, Sir William Erle, an English lawyer, judge, and Whig politician, funded the installation of a Celtic cross on Gibbet Hill to dispel these fears and uplift the local community. The Celtic cross has since been designated as a Grade II listed monument by English Heritage. To delve into the area's grim history, one can take a walk along the Old Portsmouth Road around the Devil\u2019s Punch Bowl, where both the Celtic cross and the Sailor\u2019s Stone with its inscription can be found."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/The_Gibbet_Stone%2C_on_Gibbet_Hill%2C_Hindhead.jpg/256px-The_Gibbet_Stone%2C_on_Gibbet_Hill%2C_Hindhead.jpg",
@@ -70,10 +70,25 @@
   ],
   "distance_km": 6.0,
   "description": "Hindhead is the highest village in Surrey and a great place to start a walk. There's miles of woodland and heathland trails across the National Trust's Hindhead Common. The area includes hill climbs, wildlife, ponds and the popular Devil's Punch Bowl. This circular walk from Hindhead explores Hindhead Common, Gibbet Hill and the southern part of the woods. You can start the walk from the National Trust car park on the common and follow footpaths east up to Gibbet Hill where there are excellent views to enjoy. On the way you'll pass the Sailor's memorial stone which has an interesting history attached to it. See the video below for more details. The route then descends into the Hurthill Copse before following bridleways south west. The route then turns north towards the Tyndalls Estate and the car park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Devil's Punchbowl cafe at the start/end of the walk serves a fine range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and heathland trails are ideal for dog walking and the National Trust cafe mentioned above is also dog friendly in the outdoor section."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Frensham Ponds are located close to the common near the picturesque village of Tilford. They would make a fine extension to your outing.In Elstead there's the Thursley National Nature Reserve to explore. It's located a couple of miles to the north and has miles of footpaths through heathland and woodland with a huge variety of wildlife. The medieval ponds at the National Trust's Waggoners Wells and the woodland trails across Ludshott Common are also nearby. For more walking ideas in the area see the Surrey Walks and Surrey Hills Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/vJaaBYBCoww",
   "postcode": "GU26 6AG",
   "district": "Hindhead",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

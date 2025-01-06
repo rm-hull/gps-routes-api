@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:06:00.422473+00:00",
   "objectID": "b1a8bb73b38a147376e1eb018f0de16d",
-  "created_at": "2024-12-18T13:59:08.645895+00:00",
   "ref": "culloden-battlefield-walking-route",
   "title": "Culloden Battlefield Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Culloden_battlefield_-_geograph.org.uk_-_1800883.jpg",
@@ -13,7 +13,7 @@
     {
       "description": "Abriachan Forest",
       "objectID": "b8d7251a10996e2003a5333af3745ae7",
-      "ref": "abriachan forest-walking-route"
+      "ref": "abriachan\u00a0forest-walking-route"
     },
     {
       "description": "Dores Beach",
@@ -120,9 +120,24 @@
   ],
   "distance_km": 1.6,
   "description": "This circular walk explores the site of the Battle of Culloden which took place as part of the Jacobite Rising in 1746. It's an atmospheric place with good walking trails, fine views and some fascinating history to enjoy. You can start your walk from the car park at the excellent Visitor centre at the eastern side of the site. Then pick up the footpaths heading west to explore the battlefield and its historic landmarks. These include The Memorial Cairn, The Well of the Dead and the 18th century Leanach Cottage with its photogenic thatched roof. After the walk you could explore the fascinating on site museum where you can learn all about the famous confrontation which is notable as the final battle of the Jacobite rising. The outcome was a defeat for the army of Bonnie Prince Charlie by the British. This effectively ended the Stuart quest to regain the throne. Just to the north of the battlefield you'll also find Culloden Woods and the village of the same name. The woods have some peaceful cycling and walking trails to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe selling a decent range of meals, drinks and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The battlefield is dog friendly though you are requested to keep them on leads or under close control. Dogs are not allowed inside the visitor centre."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a short distance south east and you could visit the Clava Cairns and Culloden Viaduct. The ancient Bronze Age site includes prehistoric burial monuments and the remains of a medieval chapel. It's also a short walk from the eye catching Culloden Viaduct which carries the Highland Main Line over the River Nairn.Head west into Inverness and you could pick up the Caledonian Canal and follow it to the famous Loch Ness. Near here there's also some nice trails around Dores Beach, Loch Ashie and Loch Duntelchaig. The Inverness Canal and Forest Walk will take you along the canal before heading to Craig Phadrig Forest, which lies just to the west of the city. The forest is a peaceful place for walks and includes a viewpoint with an Iron Age Hillfort. A few miles to the west there's the popular village of Beauly. It's a lovely place to visit with a number of independent shops, cherry blossom trees, a pretty square and the ruins of the 13th century priory to see. The Beauly River Walk will take you along the River Beauly with fine views across the Beauly Firth. A few miles to the north east there's more interesting local history at Cawdor Castle and Woods. The 15th century castle is surrounded by beautiful grounds and gardens with more trails through the adjacent Cawdor Woods. For more walking ideas in the area see the Scottish Highlands Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/R3L515AGluA",
   "postcode": "IV2 5EU",
   "county": "Highland",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

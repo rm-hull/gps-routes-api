@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:13:30.714203+00:00",
   "objectID": "b224c54ad1ae23e5a05989271511cf3e",
-  "created_at": "2024-12-19T10:15:43.581799+00:00",
   "ref": "west-acre-walking-route",
   "title": "West Acre Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/West_Acre%2C_Norfolk_-_Village_sign_%5E_Priory_Gateway_-_geograph.org.uk_-_5621263.jpg/512px-West_Acre%2C_Norfolk_-_Village_sign_%5E_Priory_Gateway_-_geograph.org.uk_-_5621263.jpg?20231027080755",
@@ -53,8 +53,15 @@
   ],
   "distance_km": 4.0,
   "description": "The pretty Norfolk village of West Acre lies just to the west of Castle Acre on the Nar Valley Way footpath. This walk from the village takes you east along the waymarked trail to visit the historic castle and ancient priory remains at neighbouring Castle Acre. Along the way there are some lovely views of the River Nar and the surrounding Norfolk countryside. There's also some picturesque fords and a noteworthy Grade I listed church to see in the village. Please scroll down for the full list of walks near and around West Acre. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Stag serves a good selection of dishes and is also home to Westacre Theatre, which is based in a converted chapel and offers a year-round programme of in-house productions, visiting companies, concerts, workshops, and events. They have a nice outdoor area and can be found at postcode PE32 1TR."
+    }
+  ],
   "district": "West Acre",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:21:07.774484+00:00",
   "objectID": "1ebbb7de73ab5f80b3e5657d37eef4ca",
-  "created_at": "2024-12-18T17:13:05.058482+00:00",
   "ref": "forde-abbey-walking-route",
   "title": "Forde Abbey Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/An_estate_cottage_-_Forde_Abbey_-_geograph.org.uk_-_1204158.jpg",
@@ -59,7 +59,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/The_Great_Pond_and_sluice_gate_-_Forde_Abbey_-_geograph.org.uk_-_1203365.jpg",
-      "title": "Sarah Smith / The Great Pond and sluice gate  -  Forde Abbey",
+      "title": "Sarah Smith / The Great Pond and sluice gate - Forde Abbey",
       "caption": "The Great Pond and sluice gate. The water from the Great Pond used to provide power for the Abbey mill. Today it feeds all the water features in the gardens."
     },
     {
@@ -69,10 +69,25 @@
     }
   ],
   "distance_km": 2.5,
-  "description": "This former Cistercian monastery has 30 acres of award winning gardens to explore. It's perfect for a peaceful afternoon stroll in beautiful surroundings. You can extend your walk by picking up the Jubilee Trail which starts at the abbey. The long distance trail crosses from one side of Dorset to the other, taking you on a tour of some of the county's best scenery and prettiest villages. You could also pick up the Liberty Trail and follow it east to Winsham and Wayford Woods. The delightful woods include  streams, a lake, Rhododendrons and bluebells in the spring months. They are well worth a visit after exploring the abbey if you have time. Also nearby is the large park at Cricket St Thomas where there's more nice trails taking you to peaceful lakes, secluded woodland and beautiful gardens.",
+  "description": "This former Cistercian monastery has 30 acres of award winning gardens to explore. It's perfect for a peaceful afternoon stroll in beautiful surroundings. You can extend your walk by picking up the Jubilee Trail which starts at the abbey. The long distance trail crosses from one side of Dorset to the other, taking you on a tour of some of the county's best scenery and prettiest villages. You could also pick up the Liberty Trail and follow it east to Winsham and Wayford Woods. The delightful woods include streams, a lake, Rhododendrons and bluebells in the spring months. They are well worth a visit after exploring the abbey if you have time. Also nearby is the large park at Cricket St Thomas where there's more nice trails taking you to peaceful lakes, secluded woodland and beautiful gardens.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site tea room selling a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The grounds are a nice place for a dog walk so you'll probably see other owners on your visit. Please keep them on leads though. You can find water bowls in the tea room area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Dorset Walks and Somerset Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/GOmZ2rhYXXU",
   "postcode": "TA20 4LU",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:31:19.124679+00:00",
   "objectID": "c51f0b0e191b9faec623b2d5b7383a27",
-  "created_at": "2024-12-19T10:48:22.442354+00:00",
   "ref": "cotswold-country-park-walking-route",
   "title": "Cotswold Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Visitor_centre%2C_Keynes_country_park%2C_Somerford_Keynes_-_geograph.org.uk_-_766147.jpg",
@@ -80,13 +80,24 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Keynes_country_park%2C_Somerford_Keynes_-_geograph.org.uk_-_766151.jpg",
       "title": "Brian Robert Marshall / Keynes country park, Somerford Keynes",
-      "caption": "The main lake in the park.  On the far bank, is a climbing frame for grown-ups."
+      "caption": "The main lake in the park. On the far bank, is a climbing frame for grown-ups."
     }
   ],
   "distance_km": 9.0,
   "description": "This country park is located in the Cotswolds Water Park at Ashton Keynes on the Gloucestershire/Wiltshire border. The Park includes the largest inland beach in the UK, boat hire, crazy golf, a cafe and two lakes. It's a nice place for an easy inland beachside walk. There's also some woodland trails on the eastern side and lots of water loving birds to see on the water. You can find the car park and visitor centre at Spratsgate Lane, Shorncote with a postcode of GL7 6DF for your sat navs.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is dog friendly and a nice place to bring your pet for a walk. Please note they are not allowed near the beach area and playgrounds though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The park is part of the wider Cotswold Water Park where there are miles of waterside walking and cycling trails to try. For example just to the west there's Neigh Bridge Country Park at Somerford Keynes. There's a nice circular trail around the lake here before a stroll along the Thames Path will take you to the nearby Kemble Mill and village of Somerford Keynes. For more walking ideas in the area see the Cotswolds Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/cm5dYBYp6Zc",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

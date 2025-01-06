@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:42:34.655091+00:00",
   "objectID": "a08d799d11e5cc0620ae6e9733b06df0",
-  "created_at": "2024-12-18T18:42:39.986648+00:00",
   "ref": "weston-park-walking-route",
   "title": "Weston Park Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Paines_Bridge%2C_Temple_Pool_%28geograph_1942122%29.jpg",
@@ -75,10 +75,21 @@
   ],
   "distance_km": 9.0,
   "description": "This walk explores the wonderful Capabality Brown landscaped grounds of Weston Park in Weston-under-Lizard, Staffordshire. There are several colour coded walking trails you can follow around the expansive parkland including the Knoll Tower Walk, the Shrewsbury Drive Deer Walk and the Lichfield Drive and Temple Wood Walk. On the way there's picturesque lakes, old stone bridges, peaceful woodland trails and views of the fine 17th century mansion. There's also a fun Miniature railway if you fancy resting your legs for a bit.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive parkland and woodland are great for dog walking. You are asked to keep them on leads though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The long distance Monarch's Way can be picked up just to the south of the park. If you followed it east it would take you towards Belvide Reservoir where there are some pleasant waterside trails to enjoy. Just south of here you can pick up the circular Codsall Walk and visit Chillington Hall where you'll find another Georgian house with Capability Brown landscaped parkland. Just to the north west there's the lovely Aqualate Mere to explore. There's a pleasant waterside path to pick up at this large, scenic lake. The site is one of the area's highlights and notable as the largest natural lake in the English Midlands. Just to the west of here there's the interesting market town of Newport where you can enjoy another waterside stroll along the old Newport Canal."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NDvWIXjcKfY",
   "postcode": "TF11 8LE",
   "district": "Weston-under-Lizard",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

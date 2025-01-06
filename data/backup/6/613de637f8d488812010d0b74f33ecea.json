@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:16:24.062667+00:00",
   "objectID": "613de637f8d488812010d0b74f33ecea",
-  "created_at": "2024-12-18T12:28:08.220555+00:00",
   "ref": "ty-mawr-country-park-walking-route",
   "title": "Ty Mawr Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Dovecote_in_the_Ty_Mawr_Country_Park_-_geograph.org.uk_-_1005811.jpg/256px-Dovecote_in_the_Ty_Mawr_Country_Park_-_geograph.org.uk_-_1005811.jpg",
@@ -64,11 +64,26 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "Enjoy a peaceful riverside walk in the Clwydian Range and Dee Valley Way Area of Outstanding Natural Beauty. The walk starts at the Pontcycyllte Aqueduct which is now a UNESCO World Heritage Site (video below). The Aqueduct carries the Shropshire Union canal high above the Dee Valley and is nicknamed 'the stream in the sky'. It's a beautiful spot and offers fabulous views of the area. The walk then follows the River Dee to Ty Mawr - a 35 acre country park which is also a working farm with donkeys, pigs, goats, llamas and chickens. The river attracts many different birds including herons, kingfishers, swans, ducks and goosanders. Also look out for otters and  jumping salmon! If you would like to continue your walk you could follow the Offa's Dyke Path and the Shropshire Union Canal which run just past the park.",
+  "description": "Enjoy a peaceful riverside walk in the Clwydian Range and Dee Valley Way Area of Outstanding Natural Beauty. The walk starts at the Pontcycyllte Aqueduct which is now a UNESCO World Heritage Site (video below). The Aqueduct carries the Shropshire Union canal high above the Dee Valley and is nicknamed 'the stream in the sky'. It's a beautiful spot and offers fabulous views of the area. The walk then follows the River Dee to Ty Mawr - a 35 acre country park which is also a working farm with donkeys, pigs, goats, llamas and chickens. The river attracts many different birds including herons, kingfishers, swans, ducks and goosanders. Also look out for otters and jumping salmon! If you would like to continue your walk you could follow the Offa's Dyke Path and the Shropshire Union Canal which run just past the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice little cafe on site plus a number of picnic sites if you'd like to bring your own food."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Your dog will enjoy the walk by the river and will probably bump into other four legged friends on the way."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west of the park and you can visit the splendid Pontcysyllte Aqueduct which is a World Heritage Site. The circular Trevor to Llangollen Canal Walk also starts from near here. You can follow the canal to nearby Llangollen before returning to Trevor via the Panorama Walk and the Offa's Dyke Path. The route also passes the medieval Castell Dinas Bran where you can enjoy historic ruins and wonderful views over the area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/t0au-2tbAJI",
   "postcode": "LL20 7TY",
   "district": "Trevor",
   "county": "Wrecsam - Wrexham",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

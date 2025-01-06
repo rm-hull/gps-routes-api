@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:10:26.603563+00:00",
   "objectID": "63760b0dfc14e1c776de46a0e1c2be44",
-  "created_at": "2024-12-18T11:26:39.221358+00:00",
   "ref": "butterton-walking-route",
   "title": "Butterton Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Butterton_-_geograph.org.uk_-_2934160.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 11.0,
   "description": "This small rural village sits in a scenic spot in the Staffordshire Peak District. This circular walk from the village explores the River Manifold valley to the east before climbing to the fine viewpoints on Ecton Hill and Wetton Hill. On the way there's some nice riverside footpaths and a visit to the neighbouring village of Wetton, which lies just to the south east. Here you can visit the pretty Wetton Mill for refreshments or head to the nearby Thor's Cave, one of the major highlights of the area. Part of the route uses a section of the Manifold Way, a popular cycling and walking route running along the river from Waterhouses to Hulme End along a former railway line.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Black Lion Inn is a lovely village pub situated next to the old church. They serve high quality food and have a good selection of ales. Facilities include a car parking area, a real fire and a garden area for warmer weather."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Zgw9DsqMxAE",
   "postcode": "ST13 7SP",
   "district": "Butterton",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:29:52.496319+00:00",
   "objectID": "e72ffb12ff717d64aebbc0af8854daaa",
-  "created_at": "2024-12-18T16:23:36.121675+00:00",
   "ref": "robin-hood-way-walking-route",
   "title": "Robin Hood Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/The_Robin_Hood_Way%2C_Sherwood_Forest_-_geograph.org.uk_-_1330744.jpg",
@@ -100,7 +100,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/38/Footpath_signpost_on_Robin_Hood_Way_-_geograph.org.uk_-_439195.jpg",
       "title": "James Hill / Footpath signpost on Robin Hood Way",
-      "caption": "Footpath signpost on the trail.  There is a tiny stream that passes beneath a small bridge here."
+      "caption": "Footpath signpost on the trail. There is a tiny stream that passes beneath a small bridge here."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Swingate_Farm_from_the_Robin_Hood_Way_-_geograph.org.uk_-_617028.jpg",
@@ -115,10 +115,17 @@
   ],
   "distance_km": 172.0,
   "description": "Follow in the footsteps of this legendary figure on this super walk through Sherwood Forest and the Nottinghamshire countryside. On the route:",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In In Nottingham we recommend you visit the unique Canalhouse pub in the city centre. It is famous for having a canal that extends into the grade II listed building, complete with resident narrow boats. There's also a large covered beer garden situated by the canal side which enables people to sit outside no matter the weather. You can find it at 48-52 Canal Street, NG1 7EH Also of interest is the Fellows, Morton & Clayton housed in the former canal museum. The 19th century pub has nice outdoor seating next to the canal. It's also on Canal Street near to the Canalhouse pub. In Papplewick there's the Griffin's Head to consider. The pub dates back over 300 years and includes wooden ceilings, exposed beams, a well and three open fires. They serve good quality food and have a spacious outdoor area for warmer days. You can find them on Moor Road at postcode NG15 8EN. The worthy village is also a conservation area with an ancient church, 18th century cottages and the Grade I listed Papplewick Hall to see. In Edwinstowe there's the Royal Oak. They have an ample car park, an attractive interior with log fires and a fine menu. You can find them on the High Street at postcode NG21 9QP for your sat navs. The historic Rufford Abbey Country Park is located near here and well worth exploring."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/XmTFwiFhTtc",
   "postcode": "NG1 6AA",
   "district": "Nottingham",
   "county": "City of Nottingham",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

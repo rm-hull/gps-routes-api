@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:04:59.114428+00:00",
   "objectID": "0216fb014b8e9c9dec51e0c82aacec7c",
-  "created_at": "2024-12-18T16:18:02.528671+00:00",
   "ref": "bolney-walking-route",
   "title": "Bolney Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bolney_Post_Office_-_geograph.org.uk_-_1017996.jpg/256px-Bolney_Post_Office_-_geograph.org.uk_-_1017996.jpg",
@@ -53,8 +53,23 @@
   ],
   "distance_km": 5.6,
   "description": "This attractive West Sussex village is located close to Burgess Hill and Haywards Heath. The historic settlement includes a 12th century church and a noteworthy pub which is also several hundred years old. For walkers there are lots of nearby trails on which to explore the surrounding woodland and countryside of the High Weald AONB and the South Downs. This circular walk from the village uses part of the High Weald Landscape Trail and other footpaths to explore the woodland and farmland around Bolney. You'll visit Bolney Wood and Ragget's Wood before returning via Wykehurst Park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bolney Stage is a well known local pub. It's hundreds of years old and includes a characterful interior with huge inglenook fireplaces, ancient flagstones, crooked beams and comfortable old furniture. Outside there's a large garden area where you can enjoy a fine meal. You can find them on the London Road at postcode RH17 5RL."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland around the village is ideal for dog walking and the Bolney Stage mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the village you'll find the splendid Bolney Wine Estate. Here you can enjoy guided tours of the vineyards and enjoy tastings and a fine cafe. For more walking ideas in the area see the High Weald Walks and South Downs Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/j2veivtissw",
   "county": "West Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T00:52:37.165293+00:00",
   "objectID": "2665b515004eb51d3bf82d2f001a56cb",
-  "created_at": "2024-12-18T22:57:45.943960+00:00",
   "ref": "lowsonford-walking-route",
-  "title": "Lowsonford Canal Walk Route",
+  "title": "Lowsonford\u00a0Canal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Gormley_-_Land_-_Lowsonford_24.jpg/512px-Gormley_-_Land_-_Lowsonford_24.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2665b515004eb51d3bf82d2f001a56cb.gpx",
   "_geoloc": {
@@ -37,12 +37,12 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Stratford-upon-Avon_Canal_north_of_Lowsonford%2C_Warwickshire_-_geograph.org.uk_-_3723061.jpg/512px-Stratford-upon-Avon_Canal_north_of_Lowsonford%2C_Warwickshire_-_geograph.org.uk_-_3723061.jpg",
-      "title": "Stratford-upon-Avon Canal north of Lowsonford, Warwickshire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Stratford-upon-Avon Canal north of Lowsonford, Warwickshire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stratford-upon-Avon Canal north of Lowsonford, Warwickshire"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Weston_Hall_Bridge_near_Kingswood%2C_Warwickshire_-_geograph.org.uk_-_1712225.jpg",
-      "title": "Roger  Kidd / Weston Hall Bridge near Kingswood, Warwickshire",
+      "title": "Roger Kidd / Weston Hall Bridge near Kingswood, Warwickshire",
       "caption": "Weston Hall Bridge near Kingswood, Warwickshire. On the Grand Union Canal, Bridge No 64 is a farmer's accommodation bridge, no public way being available across it. The canal was opened in 1799 as the Warwick and Birmingham Canal, and was one of eight canals which merged in 1929 to form the Grand Union Canal."
     },
     {
@@ -53,10 +53,17 @@
   ],
   "distance_km": 7.7,
   "description": "This Warwickshire based village is located in a pleasant rural spot on the Stratford Upon Avon Canal. Lowsonford is known for its fine canalside pub and a series of locks along an attractive part of the canal. This circular walk from the village takes you along both the Stratford Canal and the Grand Union Canal Walk which runs just to the east of the settlement. The route first takes you north to Kingswood, passing a number of pretty locks on the way. Near here you could take a detour from the route to visit the historic Baddesley Clinton with its fine moated manor House. At Kingswood you can join with the Grand Union Canal and follow it south towards Turner's Green and Rowington. At this point you can pick up the Heart of England Way long distance footpath and follow it west to return to Lowsonford. The Henley in Arden Circular Walk passes the village. You could pick up the trail to visit the historic town with its medieval timber walled buildings on a splendid High Street.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Fleur De Lys is well known for its quality pies and its delightful canalside garden. It's a great spot to relax and enjoy refreshments after your walk. The pub has some history too, dating back to the 16th century with a charming old interior which includes wooden beams, a real fire and quirky corners. You can find them on Lapworth Street with postcode B95 5HJ for your sat navs. They have a car park and are also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/YWEpQObDHpg?si=4EQrAuwFdkM_kWs2",
   "postcode": "B95 5HJ",
   "district": "Lowsonford",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

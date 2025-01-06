@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:18:53.131323+00:00",
   "objectID": "23ca102e8a8953466a2a38a4d3a9cc3b",
-  "created_at": "2024-12-18T13:45:43.016182+00:00",
   "ref": "pollok-country-park-walking-and-cycle-route",
   "title": "Pollok Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/North_Wood_%2C_Pollok_Park_-_geograph.org.uk_-_1543450.jpg",
@@ -49,7 +49,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/North_Wood_%2C_Pollok_Park_-_geograph.org.uk_-_1543450.jpg",
-      "title": "Richard Webb / North Wood, Pollok  Park, via Wikimedia Commons",
+      "title": "Richard Webb / North Wood, Pollok Park, via Wikimedia Commons",
       "caption": "North Wood, Pollok Park. Open woodland makes up much of the park."
     },
     {
@@ -80,10 +80,25 @@
   ],
   "distance_km": 4.0,
   "description": "This splendid park in Glasgow was named the best park in Britain in 2006 and in 2008, was named the best park in Europe. Highlights in the park include a riverside section along the pretty White Cart River, a beautiful walled garden with glasshouses, a delightful woodland garden and the very grand Pollok House - Scotland\u2019s answer to Downton Abbey. The park is a lovely place for a peaceful stroll but National Cycle Network route 75 also runs right through the grounds so you can bring your bike too. Head west from the park and you can visit the excellent Gleniffer Braes Country Park in Paisley. There's wonderful viewpoints and miles of good cycling and walking trails to be found here. It's a great place to extend your outing if you have time.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Next to the car park you'll find a little house and cafe in the centre of the park. They serve a good range of meals and snacks with some outdoor seating if the weather is good."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is dog friendly and popular with dog walkers so you'll probably see other owners on your visit. The on site cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west into Paisley and you can pick up the Lochwinnoch Cycle Loop. The shared cycling and walking trail runs along a disused railway line between Kilbirnie and Paisley. It's a nice surfaced path with views over Barr Loch and Castle Semple in Lochwinnoch. Just to the south there's Rouken Glen Park to explore. Here you'll find a boating pond, a large waterfall surrounded by steep woodland, a delightful walled garden and a visitor centre. For cyclists Sustrans National Cycle Route 75 passes through the park. This signed route takes you from Edinburgh to Glasgow and then to Portavadie on the shores of Loch Fyne on the west coast of the Cowal peninsula in Argyll and Bute."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/8lz8-ZjR95c",
   "postcode": "G41 4SN",
   "district": "Glasgow",
   "county": "Glasgow City",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

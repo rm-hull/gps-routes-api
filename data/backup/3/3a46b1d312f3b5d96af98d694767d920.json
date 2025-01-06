@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:08:07.894059+00:00",
   "objectID": "3a46b1d312f3b5d96af98d694767d920",
-  "created_at": "2024-12-19T07:55:47.005730+00:00",
   "ref": "kilconquhar-loch-walking-route",
   "title": "Kilconquhar Loch Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Entrance_to_Elie_Estate_-_geograph.org.uk_-_623614.jpg",
@@ -90,9 +90,20 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits the lovely Kilconquhar Loch in the village of Kilconquhar in Fife. The loch is a great place for wildlife watching with birds such as Little Grebes nesting in the reed beds as well as Swans, Moor Hens and Geese. It's located just to the south of the village on the Elie Estate .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into the village and you could enjoy post walk refreshment at the 17th century Kinneuchar Inn. The serve high quality dishes and have a lovely garden area with views of the surrounding countryside."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The loch is located just to the north of the coastal village of Elie where you can pick up the Elie to Pittenweem Walk and the Fife Coastal Path. There's also the exhilarating Elie and Earlsferry Chain Walk to try. This challenging scramble takes you along rocky path with fascinating geology and fine coastal views. Heading west from Elie will take you to Lower Largo and Shell Bay. The delightful bay and the ancient fishing village are well worth exploring. Alexander Selkirk the prototype for Defoe's fictional Robinson Crusoe was born in Lower Largo in 1676. There is a statue dedicated to him in the village. In nearby St Andrews there's the popular Craigtoun Country Park. Here you can visit the nature trail, Italian garden, greenhouses, formal gardens, miniature railway and the large pond. The waterside trails at Cameron Reservoir are also not too far away."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/24bjDI1EtZE",
   "postcode": "KY9 1JT",
   "county": "Fife",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

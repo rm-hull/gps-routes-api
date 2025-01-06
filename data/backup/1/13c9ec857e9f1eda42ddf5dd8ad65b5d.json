@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:20:15.544964+00:00",
   "objectID": "13c9ec857e9f1eda42ddf5dd8ad65b5d",
-  "created_at": "2024-12-18T16:44:33.020433+00:00",
   "ref": "tubney-wood-walking-route",
   "title": "Tubney Wood Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Appleton_war_memorial_-_geograph.org.uk_-_1390031.jpg",
@@ -65,9 +65,20 @@
   ],
   "distance_km": 2.0,
   "description": "This walk visits Tubney Wood in Oxfordshire from the village of Appleton. The walk starts in Appleton and heads south, passing the Manor House and Tubney Manor Farm before coming to the woods. Here you can pick up a number of peaceful woodland trails to explore the area. On the way look out for wildlife including Roe Deer and various woodland birds.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Appleton there's The Plough Inn for some refreshments. It's a traditional country pub serving good quality dishes with a nice outdoor area for warmer weather. You can find them at postcode OX13 5JR for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north of the woods you can pick up the Thames Path and visit the lovely waterside path at Farmoor Reservoir and the historic 16th century buildings in the ancient market town of Eynsham. Just to the north west is the pretty riverside village of Standlake where you can enjoy trails along the Thames and the River Windrush to Newbridge and the picturesque Shifford Lock. There's also a fine 350 year old pub to visit in the village. Just to the south west are the neighbouring villages of Fyfield and the marvelously named Kington Bagpuize. For more walking ideas in the area see the Oxfordshire Walks page."
+    }
+  ],
   "postcode": "OX13 5JU",
   "district": "Appleton",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

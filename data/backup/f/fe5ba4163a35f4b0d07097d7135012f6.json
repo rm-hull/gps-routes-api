@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:47:24.282761+00:00",
   "objectID": "fe5ba4163a35f4b0d07097d7135012f6",
-  "created_at": "2024-12-20T07:45:53.052771+00:00",
   "ref": "danum-trail-walking-route",
   "title": "Danum Trail - Doncaster, Rossington, Maltby, Denaby Ings, Kirk Sandall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Keep_of_Conisbrough_Castle_%28geograph_5832304%29.jpg/512px-The_Keep_of_Conisbrough_Castle_%28geograph_5832304%29.jpg",
@@ -54,7 +54,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Denaby_-_Denaby_Ings.jpg",
-      "title": "Steve  F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Steve F, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Denaby Ings"
     },
     {
@@ -70,8 +70,15 @@
   ],
   "distance_km": 80.0,
   "description": "Enjoy the woodlands, nature reserves, country parks and farmland around Doncaster on this splendid walk through the Yorkshire countryside. The walk begins at the Dome Leisure Park in Doncaster and passes through a series of pretty towns and villages including Rossington, Tickhill, Maltby, Conisbrough and Stainforth before finishing at Kirk Sandall. Walk highlights include:",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Yorkshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ucZ_JQ4lw_8",
   "district": "Doncaster",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

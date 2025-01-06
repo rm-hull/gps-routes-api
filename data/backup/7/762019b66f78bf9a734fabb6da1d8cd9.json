@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:31:19.785439+00:00",
   "objectID": "762019b66f78bf9a734fabb6da1d8cd9",
-  "created_at": "2024-12-18T09:58:40.993922+00:00",
   "ref": "eglinton-country-park-walking-and-cycle-route",
   "title": "Eglinton Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Folly%2C_Eglinton_Country_Park_-_geograph.org.uk_-_1465233.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 6.0,
   "description": "This large country park in Kilwinning has nearly 1000 acres of parkland to explore on cycling and walking trails. There are peaceful woodland trails and delightful waterside paths running along Eglinton Loch and Lugton Water which runs through the southern end of the park. Other features in the park include the Eglinton Castle ruins, the walled garden and the pretty Clement Wilson gardens. If you would like to continue your walk/cycle you can follow the Irvine and Kilwinning New Town Trail. The park has very good facilities with a good sized car park, Visitor Centre, cafe, children's play areas and bird watching facilities - look out for finches, Thrush, Pheasant, Grey Partridge, Tawny Owl, Kestrel, Sparrowhawk, Great Spotted Woodpecker, Skylark, Yellowhammer and Tree-creeper.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Tournament Cafe sells lovely homemade soups, sandwiches, soft drinks, teas, coffees and delicious cakes."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers and the cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into nearby Irvine and you can pick up the Ayrshire Coastal Path. There's lovely sea views, beaches and a fine coastal park to visit here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/IJl7QIFvbHc",
   "postcode": "KA13 7QE",
   "county": "North Ayrshire",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

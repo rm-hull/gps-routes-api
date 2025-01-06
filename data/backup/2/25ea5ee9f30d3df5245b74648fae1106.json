@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:31:36.408101+00:00",
   "objectID": "25ea5ee9f30d3df5245b74648fae1106",
-  "created_at": "2024-12-18T16:21:36.897628+00:00",
   "ref": "south-molton-walking-route",
   "title": "South Molton Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Paradise_Lawn%2C_South_Molton_-_geograph.org.uk_-_1802938.jpg",
@@ -100,9 +100,24 @@
   ],
   "distance_km": 4.0,
   "description": "The market town of South Molton is located in a pleasant position in the Mole Valley. It is also close to Exmoor which is a fine place for walkers. This walk follows a footpath from South Molton to North Molton along the River Mole. The path can be picked up about a mile north of the town centre. It will take you north east through farmland and woodland with views of the River Mole valley to enjoy on the way. It's a pretty area which also includes 19th century woolen mills and country views.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Coaching Inn is a nice place for some post walk refreshments. They do good food and can be found at Queen Street, South Molton with a postcode of EX36 3BJ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and woodland paths make for a nice dog walk and the Coaching Inn pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The town is located just to the south of Exmoor where there are many excellent walking opportunites. For example if you head north east from the town you could visit the popular Tarr Steps. There's a splendid old clapper bridge and nice trails along the River Barle here. A few miles to the east you can also enjoy a number of trails in the attractive Knightshayes Park. The epic Land's End Trail also passes through the town."
+    }
+  ],
   "postcode": "EX36 3LZ",
   "district": "South Molton",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

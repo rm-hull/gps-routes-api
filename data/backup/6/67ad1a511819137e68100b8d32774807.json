@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:51:35.905187+00:00",
   "objectID": "67ad1a511819137e68100b8d32774807",
-  "created_at": "2024-12-18T03:54:41.150798+00:00",
   "ref": "lane-end-walking-route",
   "title": "Lane End Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Lane_End%2C_The_Village_Pond_-_geograph.org.uk_-_2324346.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 9.4,
   "description": "This Buckinghamshire village is located just west of High Wycombe in the Chiltern Hills. Local walking highlights include the splendid West Wycombe Park which lies just to the north. Here you'll find a fine Palladian house with 45 acres of landscaped gardens to explore. The grounds include a lovely large lake, views of the River Wyre, woodland paths and sweeping lawns. Near here there's more beautiful parkland and history at the Victorian Hughenden Park. This walk from the village takes you west through the woods and countryside to visit the neighbouring villages of Frieth, Fingest and Turville where you can visit the famous Chitty Chitty Bang Bang Windmill .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some post walk refreshments at the Grouse & Ale. The award winning gastropub serves quality dishes and has a good selection of drinks. You can find them on the High Street at postcode HP14 3JG for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The Hambleden Valley is a popular place for walkers and birdwatchers who come to the area to look out for the red kite."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QBDSS6hr0lM",
   "postcode": "HP14 3JF",
   "district": "Lane End",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

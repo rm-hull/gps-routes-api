@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:03:43.582353+00:00",
   "objectID": "2ac559d3bb392077605e5bb0c6fc029b",
-  "created_at": "2024-12-19T21:28:35.149984+00:00",
   "ref": "gnoll-estate-country-park-walking-route",
   "title": "Gnoll Estate Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Gnoll_Visitor_Centre_-_geograph.org.uk_-_1358482.jpg",
@@ -49,11 +49,22 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "Explore 240 acres of woodland and wide open spaces in this country park in Neath. There are miles of walking trails taking you to Mosshouse Wood Reservoir, Mosshouse Woods, two large duck ponds, two impressive 18th century cascades and the Gnoll House ruins.  Gnoll Park was voted as the Best Picnic spot in Wales in the 2010 Warburtons National Picnic Awards. The park is located just a short walk from Neath town centre. There is a lovely waterside walking path running along the nearby Neath River and Neath Canal so this is a good option if you would like to continue your walk. You could also visit the delightful Aberdulais Falls located just north of the park. The Tennant Canal also runs through the area and can be followed  west towards Swansea.",
+  "description": "Explore 240 acres of woodland and wide open spaces in this country park in Neath. There are miles of walking trails taking you to Mosshouse Wood Reservoir, Mosshouse Woods, two large duck ponds, two impressive 18th century cascades and the Gnoll House ruins. Gnoll Park was voted as the Best Picnic spot in Wales in the 2010 Warburtons National Picnic Awards. The park is located just a short walk from Neath town centre. There is a lovely waterside walking path running along the nearby Neath River and Neath Canal so this is a good option if you would like to continue your walk. You could also visit the delightful Aberdulais Falls located just north of the park. The Tennant Canal also runs through the area and can be followed west towards Swansea.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe located close to the lake. They serve a decent range of meals and snacks in a lovely setting."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive park is ideal for dog walking so you're bound to bump into other owners on a fine day."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/7_LyvySlIlA",
   "postcode": "SA11 3TF",
   "district": "Neath / Castell-nedd",
   "county": "Castell-nedd Port Talbot - Neath Port Talbot",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

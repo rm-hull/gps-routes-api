@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:23:29.256308+00:00",
   "objectID": "2b405d14b22f13eb43479ae8a57645c7",
-  "created_at": "2024-12-21T20:11:13.926772+00:00",
   "ref": "london-loop-walking-route",
   "title": "London Loop Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/View_From_Addington_Hills_%282%29_-_geograph.org.uk_-_1357469.jpg",
@@ -139,11 +139,17 @@
     }
   ],
   "distance_km": 240.0,
-  "description": "Also known as the London Outer Orbital Path, this walk takes you on a tour of the parks, woods and fields around the edge of Outer London. You start at Erith, on the River Thames and pass through Crayford, Orpington, Petts Wood, Coulsdon, Kingston upon Thames, Uxbridge, Elstree, Cockfosters, Chingford, Epping Forest, Upminster and Rainham Marshes RSPB before finishing back on the River Thames at Purfleet, opposite Erith. The walk has been divided into 24 manageable sections as follows: Erith Old Bexley Petts Wood West Wickham Common Hamsey Green Coulsdon South Banstead Downs Ewell Kingston Bridge Hatton Cross Hayes Uxbridge Harefield Moor Park Hatch End Elstree Cockfosters Enfield Lock Chingford Chigwell Havering-atte-Bower Harold Wood Upminster Bridge Rainham On the way you'll also pass numerous parks, common land and open spaces such as High Elms Country Park in Orpington, Hayes Common, Stanmore Common, Harrow Weald Common and Nonsuch Park. The walk is waymarked with a disc featuring a kestrel.",
+  "description": "Also known as the London Outer Orbital Path, this walk takes you on a tour of the parks, woods and fields around the edge of Outer London. You start at Erith, on the River Thames and pass through Crayford, Orpington, Petts Wood, Coulsdon, Kingston upon Thames, Uxbridge, Elstree, Cockfosters, Chingford, Epping Forest, Upminster and Rainham Marshes RSPB before finishing back on the River Thames at Purfleet, opposite Erith. The walk has been divided into 24 manageable sections as follows: Erith Old Bexley Petts Wood West Wickham Common Hamsey Green Coulsdon South Banstead Downs Ewell Kingston Bridge Hatton Cross Hayes Uxbridge Harefield Moor Park Hatch End Elstree Cockfosters Enfield Lock Chingford Chigwell Havering-atte-Bower Harold Wood Upminster Bridge Rainham On the way you'll also pass numerous parks, common land and open spaces such as High Elms Country Park in Orpington, Hayes Common, Stanmore Common, Harrow Weald Common and Nonsuch Park . The walk is waymarked with a disc featuring a kestrel.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the walk stop at the Fox Inn in Bromley for refreshments (postcode: BR2 6BQ). The pub sits next to Keston Common and includes a nice large beer garden to relax in during the summer months here. At Addington Hills we recommend The Surprise Inn located a short distance from the park on Upper Shirley Rd, Croydon. It's a very nice pub/restaurant with a great menu and a nice outdoor seating area. You can find it at postcode CR0 5HF for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in and around the capital see the London Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/UbR3uWXeHtI?si=vl2QU6DqbsTTA44m",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/2/2b405d14b22f13eb43479ae8a57645c7.gpx",
-  "_geoloc": {
-    "lat": 51.4879453778,
-    "lng": 0.18764036
-  }
+  "gazetteer_found": false
 }

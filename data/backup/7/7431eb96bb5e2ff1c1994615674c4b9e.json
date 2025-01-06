@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:33:44.067435+00:00",
   "objectID": "7431eb96bb5e2ff1c1994615674c4b9e",
-  "created_at": "2024-12-21T17:12:18.131259+00:00",
   "ref": "keeper-hill-walking-route",
   "title": "Keeper Hill Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/KeeperHill.jpg/512px-KeeperHill.jpg",
@@ -43,7 +43,7 @@
     {
       "description": "Castleconnell River Walk",
       "objectID": "1d4701eb0f9188dd77529cc9e334a73c",
-      "ref": "castleconnell river-walk"
+      "ref": "castleconnell\u00a0river-walk"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7431eb96bb5e2ff1c1994615674c4b9e.gpx",
@@ -56,5 +56,12 @@
   ],
   "distance_km": 20.2,
   "description": "This circular walk climbs to Keeper Hill in the Silvermine Mountains of County Tipperary. You can start the walk from the Keeper Hill Trail car park, west of the hill. Then pick up the waymarked Ballyhourigan Wood Loop Walk to take you north and then east to the hill. The woodland trails will take you towards the hill where you ascend to a height of 694 metres (2,277 ft). From here there are some splendid views to enjoy. The forest and hill have some good mountain bike trails as well - see the video below for an idea of the terrain around the hill. See the wikipedia page for more details.",
-  "video_url": "https://www.youtube.com/embed/rZadRD5UUFY"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south west there's Lough Gur to explore. The Lough Derg Way starts in nearby Limerick. The long distance trail takes you north to Lough Derg along the River Shannon and its canals. On the route you can also try the O'Briensbridge Riverside Walk. This popular loop walk takes you along both the river and the Errina Canal in the attractive village. The trail will also take you to the nearby towns of Ballina and Killaloe. In Limerick itself there's the popular Limerick 3 Bridges Walk which takes you along the river to several of the city's historic highlights. To the south west of Limerick there's the charming village of Adare where you can enjoy a walk along the River Maigue and visit the historic Desmond Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/rZadRD5UUFY",
+  "gazetteer_found": false
 }

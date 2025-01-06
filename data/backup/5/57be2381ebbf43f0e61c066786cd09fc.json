@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:04:06.139667+00:00",
   "objectID": "57be2381ebbf43f0e61c066786cd09fc",
-  "created_at": "2024-12-18T22:58:01.638555+00:00",
   "ref": "powerstock-common-walking-route",
   "title": "Powerstock Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Old_brick_kiln%2C_Powerstock_Common_-_geograph.org.uk_-_94291.jpg",
@@ -65,8 +65,19 @@
   ],
   "distance_km": 3.0,
   "description": "This pretty nature reserve is located close to the town of Bridport in Dorset. There's a series of nice footpaths to follow through woodland and grassland with lots of interesting flora and fauna to look out for. You can start your walk from the car park off Barrowland Lane. From here you can pick up the trails heading south east through Wytherston Wood. On the way look out for wildlife including fallow deer, willow warbler and chiffchaff. You can also enjoy views of the coast from the elevated position of the common. The common is located just north of Eggardon Hill where there is an Iron Age Hillfort and fine views over the Marshwood Vale.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the Three Horseshoes Inn in Powerstock for some post walk refreshments. The village pub is set in the heart of the most idyllic Dorset countryside. There's a great menu and a nice outdoor seating area with views over the countryside. You can find it at Dugberry Hill with postcode DT6 3TF for sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Bridport there's the climb to the lovely viewpoint at Colmers Hill from the picturesque village of Symondsbury. The historic village includes an ancient church and a noteworthy 15th century, thatched pub. Just a couple of miles to the east of Bridport there's Shipton Gorge where you can enjoy a climb to Shipton Hill and visit the splendid 15th century church of St Martin."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/X7A9TJUbZVU?si=Wkm-9XlKxyvVEwtR",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

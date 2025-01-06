@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:44:14.192730+00:00",
   "objectID": "43e81d67d59b6545fd0933e96620502c",
-  "created_at": "2024-12-18T14:02:15.746071+00:00",
   "ref": "saltwells-nature-reserve-walking-route",
   "title": "Saltwells Nature Reserve Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bluebells_at_Saltwells_Wood_-_geograph.org.uk_-_1082174.jpg",
@@ -75,8 +75,23 @@
   ],
   "distance_km": 1.6,
   "description": "This walk explores the Saltwells Nature Reserve in Dudley. The site is one of the UK's largest urban nature reserves covering 247 acres. The reserve is located on a former quarry and includes pleasant woodland trails with lots of wildlife to see. Keep your eyes peeled for dragonflies around the ponds and various butterflies around the wildflowers in the summer months. There's also ponds, fascinating geology, a sculpture park and pretty bluebells in the spring months. You can extend the walk by heading north east to visit Netherton Reservoir and the Dudley Canal where there's some nice waterside trails to try.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Saltwells Inn is located right next to the woods. They serve good quality dishes and have a nice garden area to sit out in. Car parking here is free for the nature reserve. You can find them at postcode DY5 1AX for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for dog walking so you'll probably see other owners on your visit. The inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Dudley Canal Walk can be picked up to the east. Here you can also explore the Victorian Netherton Tunnel. To the west you can pick up the Stourbridge Canal. For more walking ideas in the area see the West Midlands Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sK8xvB9Vq58",
   "district": "Dudley",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

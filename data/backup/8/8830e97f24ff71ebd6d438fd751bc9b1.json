@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:11:55.362770+00:00",
   "objectID": "8830e97f24ff71ebd6d438fd751bc9b1",
-  "created_at": "2024-12-18T09:59:26.734159+00:00",
   "ref": "mentmore-walking-route",
   "title": "Mentmore Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Mentmore_Towers_-_Side_Entrance_-_geograph.org.uk_-_296475.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 10.0,
   "description": "This pretty village is located near Leighton Buzzard in Buckinghamshire. In the village you'll find many old pretty cottages associated with the historic 19th century Mentmore Towers Estate. This circular walk from the village explores the surrounding countryside and visits the neighbouring village of Cheddington. You can extend the walk by heading east to pick up the Grand Union Canal Walk. You could follow the towpath south and enjoy more waterside walking around the Tring Reservoirs .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village you can enjoy some post exercise rest and refreshment at The Stag. The pub has an interesting history having been built by Baron Mayer de Rothschild in the mid-1850s as part of the Mentmore Estate. The attractive pub has a good menu and a lovely landscaped garden for the warmer months. You can find them at postcode LU7 0QF for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a pleasnt dog walk and the Stag mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QrFu4owaED4",
   "postcode": "LU7 0QG",
   "district": "Mentmore",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

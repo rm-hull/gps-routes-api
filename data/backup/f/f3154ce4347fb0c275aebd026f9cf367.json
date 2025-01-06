@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:58:26.492322+00:00",
   "objectID": "f3154ce4347fb0c275aebd026f9cf367",
-  "created_at": "2024-12-18T11:26:26.523992+00:00",
   "ref": "bute-park-walking-and-cycle-route",
   "title": "Bute Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/The_dock_feeder%2C_Bute_Park_-_geograph.org.uk_-_431391.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 4.0,
   "description": "Explore 130 acres of landscaped gardens and parkland in this beautiful park in Cardiff. The park consists of an arboretum, flower gardens, grassland, woodland and tree-lined avenues. The River Taff also runs through the park so there is a lovely waterside walking and cycling section to enjoy. The Taff Trail runs past the park so you could continue your cycle or walk along this excellent route.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There are several on site cafes where you can enjoy refreshment after your exercise."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is very popular with dog walkers so you will probably meet other owners on your visit. There are some on lead and off leads areas with bins dotted around the site."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Forest Farm Country Park is also located near the city. The Taff Trail can be followed to this 150 acre park which incluldes trails along the old Glamorganshire Canal or Cardiff Merthyr canal. The lovely Cefn Onn Park can be found on the northern outskirts of the city."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oT2byz0NGGg",
   "postcode": "CF10 3EW",
   "district": "Cardiff / Caerdydd",
   "county": "Caerdydd - Cardiff",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

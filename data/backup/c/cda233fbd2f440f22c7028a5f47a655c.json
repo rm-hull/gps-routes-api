@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:27:46.470484+00:00",
   "objectID": "cda233fbd2f440f22c7028a5f47a655c",
-  "created_at": "2024-12-18T00:37:18.855813+00:00",
   "ref": "cathkin-braes-country-park-walking-and-cycle-route",
   "title": "Cathkin Braes Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cathkin_Braes_wind_turbine_%28geograph_3570374%29.jpg/512px-Cathkin_Braes_wind_turbine_%28geograph_3570374%29.jpg",
@@ -84,11 +84,22 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "Enjoy panoramic views of the city of Glasgow and the mountain peaks beyond in this country park south east of Glasgow. There are a number of walking trails taking you through ancient woodland, grassland, heath and scrub. The park is excellent for cycling having been used for the mountain bike competitions at the 2014 Commonwealth Games.  The course is a 5.5 km long figure of eight and is of a very high standard - see the video below for an idea of what you can expect. If you want to continue your activity then Linn Park is just over a mile west of Cathkin Braes.",
+  "description": "Enjoy panoramic views of the city of Glasgow and the mountain peaks beyond in this country park south east of Glasgow. There are a number of walking trails taking you through ancient woodland, grassland, heath and scrub. The park is excellent for cycling having been used for the mountain bike competitions at the 2014 Commonwealth Games. The course is a 5.5 km long figure of eight and is of a very high standard - see the video below for an idea of what you can expect. If you want to continue your activity then Linn Park is just over a mile west of Cathkin Braes.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The expansive park is ideal for dog walking. It's a popular place so you will probably meet other owners on your visit."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Cathkin Marsh Wildlife Reserve is located just south east of the park. There's some pleasant boardwalks and lots of wildlife to see in this area. To the east there's the historic Bothwell Castle where you can pick up the Clyde Walkway to visit Strathclyde Country Park and Chatelherault Country Park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HeVhgBIvm60",
   "postcode": "G45 0HG",
   "district": "Glasgow",
   "county": "Glasgow City",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

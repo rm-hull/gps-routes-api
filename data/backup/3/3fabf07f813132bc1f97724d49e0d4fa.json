@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:26:49.457483+00:00",
   "objectID": "3fabf07f813132bc1f97724d49e0d4fa",
-  "created_at": "2024-12-18T19:11:47.587799+00:00",
   "ref": "bodiam-castle-walking-route",
   "title": "Bodiam Castle Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bodiam_Castle_-_geograph.org.uk_-_133190.jpg",
@@ -80,10 +80,25 @@
   ],
   "distance_km": 1.0,
   "description": "This 14th century moated castle in Sussex is one of the National Trust's most visited properties. There's spiral staircases, battlements and the castle's original wooden portcullis, an extremely rare example of its kind. You can also listen to an interesting talk about medieval life from one of the authentically dressed medieval characters in the castle. The grounds are particularly lovely with wide lawns, views of the moat and the River Rother. Also look out for bats roosting in the castle structure. The Sussex Border Path long distance walking trail runs past the castle so you could pick this up and walk east to Northiam if you wanted to continue your walk. There is also a pleasant public footpath heading west along the River Rother.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "You could head west into the pretty village of Robertsbridge where you'll find several nice pubs including the George Inn. The pub is set in an old 18th century coaching inn and has a good menu and lots of character. Inside there's a cosy interior with warming fires and outside there's a sunny south facing patio for warmer days. You can find the pub in the centre of the village with a postcode of TN32 5AW for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs on short leads are welcome in the grounds around Bodiam Castle and in the Castle-view caf\u00e9 but not inside the castle itself. The George Inn mentioned above is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south from the castle and you can visit Powdermill Reservoir where there's a circular walk around the encompassing Brede High Woods. It's a lovely place for a peaceful stroll with heathland, coppice, ghyll woodland, broadleaf woodland, ponds, springs and streams to enjoy. South west of the castle there's the pretty Darwell Reservoir. Here you can enjoy footpaths through Darwell Wood with views across the water. Nearer the castle there's a public footpath heading west along the River Rother. This will take you into Robertsbridge, passing the remains of Robertsbridge Abbey on the way. Just to the east is the beautiful Great Dixter House & Gardens in Northiam. There's a 15th-century manor house and the late Christopher Lloyd's exemplary gardens to explore here. Postcode is TN31 6PH."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/w7Y2OPWCxNs",
   "postcode": "TN32 5UD",
   "district": "Bodiam",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

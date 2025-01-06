@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:34:09.608090+00:00",
   "objectID": "cfd97ffdd4b9be1801099384fd6d46ff",
-  "created_at": "2024-12-21T20:09:15.895316+00:00",
   "ref": "rutland-round-walking-route",
   "title": "Rutland Round Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Rutland_Round_and_railway_-_geograph.org.uk_-_460206.jpg",
@@ -80,10 +80,12 @@
   ],
   "distance_km": 105.0,
   "description": "Explore the peaceful countryside of Rutland on this delightful circular walk. The route passes Oakham, Uppingham, Eyebrook Reservoir, Ketton, Harringworth Welland Viaduct, Empingham and Thistleton. There are also two sections along Rutland Water - one of the largest artificial lakes in Europe. The walk is waymarked with a yellow and green disc.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The pretty little village of Lyddington is a good place to stop on the route. There's a very good pub here in the form of The Marquess of Exeter. It's an attractive pub with a large outdoor seating area with views of the surrounding countryside. It's the ideal spot to relax with a drink or meal in fine weather. You can find it at 52 Main Street with a postcode of LE15 9LT for your sat navs.  Pictured above left the Marquess of Exeter pub in Lyddington near the reservoir. On the right is the churchyard in the village. It's a worthy place for an easy stroll with other attractions including Lyddington Bede House, owned by English Heritage. This Grade I listed building incorporates parts of a medieval bishop's palace. The remains of the fishponds of the bishop's palace are nearby. The Harbour Cafe is in a lovely spot overlooking Whitwell Harbour on Rutland Water. It's another great place to stop on the route and rest your legs. The cafe is open 7 days a week from March until November then they open Friday, Saturday and Sunday through the Winter. They offer a wide variety of, cooked breakfasts, home cooked lunches, snacks, great coffee and cakes in a relaxed family friendly environment. There's a great outdoor seating area with fine views of the water. You can find the cafe on Bull Brigg Lane with a postcode of LE15 8BL for your sat navs. In the Northamptonshire village of Harringworth there's the Spokes cafe to consider. The friendly cafe sells a good range of meals, snacks and treats. There's pleasant outdoor seating and a secure courtyard for bike storage. You can find them at Meadow Cottage with a postcode of NN17 3AH for your sat navs. The village is located close to the impressive Harringworth Welland Viaduct, which is one of the highlights on the route. The Grade II listed viaduct is about a kilometre long, and was completed in 1878. It contains 82 arches and is notable as the longest masonry viaduct across a valley in Britain."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/W41JwZiLDU8",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/cfd97ffdd4b9be1801099384fd6d46ff.gpx",
-  "_geoloc": {
-    "lat": 52.6677356383,
-    "lng": -0.7253537448
-  }
+  "gazetteer_found": false
 }

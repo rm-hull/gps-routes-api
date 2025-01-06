@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:06:28.792935+00:00",
   "objectID": "1a32054be93650751fec68c290410b00",
-  "created_at": "2024-12-18T09:59:42.349127+00:00",
   "ref": "hackwood-park-walking-route",
   "title": "Hackwood Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Public_Footpath_-_heading_north_-_geograph.org.uk_-_818395.jpg",
@@ -75,8 +75,19 @@
   ],
   "distance_km": 8.4,
   "description": "This circular walk explores the old Hackwood Park Estate near Basingstoke, Winslade and Cliddesden in Hampshire. The estate has some good public footpaths to follow through the woodland and parkland. The Grade I listed park includes an ornamental bridge, fountains and a statue of George I of Great Britain. The estate is great for flora and fauna with wild flowers and deer to look out for on the walk. Please keep to the public footpaths as the house is private. You can start off from the parking area on the western side of the estate, just off the A339, a couple of miles south of Basingstoke. The southern end of the route uses part of the Three Castles Path. This long distance waymarked trail can be used to further explore the area.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are great for dog walking. You are advised to keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east you can pick up the circular Mapledurwell Walk and visit the pretty villages of Mapledurwell and Upton Grey."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ZgzBz8eDnCI",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

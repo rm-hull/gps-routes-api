@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:34:52.376810+00:00",
   "objectID": "d86ae8a474db0bb59dfdd11d4adb1b7a",
-  "created_at": "2024-12-18T21:28:05.607126+00:00",
   "ref": "wandlebury-country-park-walking-route",
   "title": "Wandlebury Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/The_Lodge_at_the_entrance_to_Wandlebury_-_geograph.org.uk_-_850685.jpg",
@@ -45,7 +45,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Cupola_Stable_Block%2C_Wandlebury_Ring_-_geograph.org.uk_-_1439258.jpg",
       "title": "Simon Judd / Cupola Stable Block, Wandlebury Ring",
-      "caption": "The 18th century Cupola stable block at Wandlebury Ring. The clock has only one hand on each of its four faces. The Wandlebury Estate was acquired by the Cambridge Preservation Society in 1954. The House, home of  Francis Godolphin, 2nd Earl of Godolphin, stood within the Ring. It has since been demolished but this monumental stable block remains, now used for accommodation and as headquarters office of Cambridge Past Present & Future. The society runs the nature reserve on Wandlebury Hill."
+      "caption": "The 18th century Cupola stable block at Wandlebury Ring. The clock has only one hand on each of its four faces. The Wandlebury Estate was acquired by the Cambridge Preservation Society in 1954. The House, home of Francis Godolphin, 2nd Earl of Godolphin, stood within the Ring. It has since been demolished but this monumental stable block remains, now used for accommodation and as headquarters office of Cambridge Past Present & Future. The society runs the nature reserve on Wandlebury Hill."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tadlow_Granary_-_Wandlebury_-_geograph.org.uk_-_1147617.jpg",
@@ -75,9 +75,24 @@
   ],
   "distance_km": 2.0,
   "description": "This walk takes you around the delightful Wandlebury Country Park in Cambridge. The park is part of the Gog Magog Hills, a ridge of low chalk hills extending for several miles to the southeast of Cambridge. The park includes Wandlebury Hill where an Iron Age Hill Fort once stood. You can climb to the top for fine views over the Cambridgeshire countryside. Wandlebury is also a Nature Reserve and is perfect for bird watching. Other features include a picturesque beech avenue, highland cattle and beautiful wildflower meadows in the summer months. Please not cycling is not permitted in the park.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a pop up cafe on the weekends where you can enjoy refreshments after your walk. If you fancy a pub lunch one nice idea is to head to nearby Great Shelford. Here you'll find The Square and Compasses, a splendid village pub serving traditional English food. There's a cosy interior and a nice garden area for warmer days. They are located on the High Street at postcode CB22 5EH. The Plough is another good option in the village. They have a pizza oven outside in the garden area where you can relax on warmer days. You can find them on the High Street at postcode CB22 5EH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and parkland trails are ideal for dog walking so you'll probably bump into other owners on your visit. The Plough pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into the city of Cambridge and you could try the popular Cambridge Backs Walk which explores the historic university. Just to the east of the park you can pick up the Fleam Dyke Walk which visits some significant local archaeological sites and an impressive earthwork. The epic Harcamlow Way can also be picked up in nearby Fulbourn. Just a few miles to the west there's the worthy village of Haslingfield. Here you'll find pleasant walks along the River Rhee, rows of quaint thatched cottages, a church dating back to the 12th century and a noteworthy Tudor Manor House where Queen Elizabeth I stayed during the 16th century. Near here there's also the new settlement of Cambourne. There's some pleasant walks around this modern village with a lovely local nature reserve to explore. The wildlife rich reserve includes pretty lakes, wildflower meadows and wetland areas. On the walk you can also visit the ancient Bourn Windmill, the oldest surviving windmill in the United Kingdom. Just to the south there's also the stunning gardens at the historic Wimpole Hall. For more walking ideas in the area see the Cambridgeshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RlBMNStmhG8",
   "postcode": "CB22 3AE",
   "county": "Cambridgeshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

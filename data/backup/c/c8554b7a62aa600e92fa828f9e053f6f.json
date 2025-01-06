@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:46:51.846428+00:00",
   "objectID": "c8554b7a62aa600e92fa828f9e053f6f",
-  "created_at": "2024-12-20T11:11:32.489828+00:00",
   "ref": "hook-walking-route",
   "title": "Hook Hampshire Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Farmland%2C_Hook_-_geograph.org.uk_-_956223.jpg",
@@ -32,11 +32,18 @@
     }
   ],
   "distance_km": 1.2,
-  "description": "This Hampshire based town has some nice local woods, river walks, a pleasant local nature reserve and a number of nearby country parks to explore. This short walk in the town visits the Bassets Mead park. The small park is located on the eastern side of the town and consists of some pleasant footpaths along the River Whitewater. There are three car parks at the site providing access to the easy  footpaths. On the site there's meadows, ponds and copse with information boards telling you all about the flora and fauna you can see here. You can extend the walk by heading north to visit the adjacent Whitewater Meadows.",
+  "description": "This Hampshire based town has some nice local woods, river walks, a pleasant local nature reserve and a number of nearby country parks to explore. This short walk in the town visits the Bassets Mead park. The small park is located on the eastern side of the town and consists of some pleasant footpaths along the River Whitewater. There are three car parks at the site providing access to the easy footpaths. On the site there's meadows, ponds and copse with information boards telling you all about the flora and fauna you can see here. You can extend the walk by heading north to visit the adjacent Whitewater Meadows.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Crooked Billet is located right next to the park. The waterside pub can be found at London Roadd, RG27 9EH."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/haAhxzbi9mY?start=101",
   "postcode": "RG27 9EL",
   "district": "Hook",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

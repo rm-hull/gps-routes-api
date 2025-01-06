@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:18:21.456669+00:00",
   "objectID": "7f7111debedbe72bfcb55cc69e01ad3d",
-  "created_at": "2024-12-18T01:12:42.565087+00:00",
   "ref": "lake-farm-country-park-walking-route",
   "title": "Lake Farm Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Stockley_Country_Park_-_geograph.org.uk_-_815486.jpg",
@@ -65,9 +65,16 @@
   ],
   "distance_km": 1.5,
   "description": "This pleasant park in Hillingdon has some nice footpaths, a trim trail and a BMX track to try. You can also enjoy a walk along the Grand Union Canal which runs along the southern end of the park. The park includes over 60 acres of meadows and open grassland with a variety of flora and fauna to look out for. To extend your walk you can head east and visit Minet Country Park. Here you will find ponds, grassland and the Hillingdon Cycle Circuit. Heading west will take you to Stockley Country Park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west you can link up with the Celandine Route. This popular walk will take you along the River Pinn from Pinner to Cowley. Head south and there's some pleasant riverside trails through Crane Park and Cranford Country Park."
+    }
+  ],
   "postcode": "UB3 1EJ",
   "district": "Hayes",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

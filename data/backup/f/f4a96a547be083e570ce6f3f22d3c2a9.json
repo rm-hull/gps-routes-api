@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:14:16.855066+00:00",
   "objectID": "f4a96a547be083e570ce6f3f22d3c2a9",
-  "created_at": "2024-12-18T05:54:07.546767+00:00",
   "ref": "john-muir-country-park-walking-route",
   "title": "John Muir Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Dunes%2C_John_Muir_Country_Park_-_geograph.org.uk_-_1231089.jpg",
@@ -34,6 +34,11 @@
       "description": "Tyninghame Beach",
       "objectID": "737a15d5655a7e4aeaf79e93090fc85f",
       "ref": "tyninghame-beach-walking-route"
+    },
+    {
+      "description": "Seacliff Beach",
+      "objectID": "c1b5ff12a66850fd223bf4b0fd404d95",
+      "ref": "seacliff\u00a0beach-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f4a96a547be083e570ce6f3f22d3c2a9.gpx",
@@ -75,9 +80,20 @@
   ],
   "distance_km": 6.0,
   "description": "Explore this beautiful section of the East Lothian coastline in this country park in Dunbar. The lovely park has great views of Belhaven Bay and includes the John Muir Way long distance trail. You can pick up the trail to extend your walk and head through the countryside to East Linton, with views of the River Tyne on the way. In the park there's lovely beaches and a wide variety of plantlife and birdlife to look out for. Just to the west of the site you can find miles of peaceful walking trails in Binning Wood. It's a good place for bird spotting and you may even see otters in the pond or the burn that runs through the woods. You could also try our circular Dunbar Cliff Walk which passes close to the park and gives fine views of the ruined Dunbar Castle and Bass Rock.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The marsh, beach and dunes are ideal for dog walking. You're bound to see plenty of other dogs running around on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The East Links Family Park is located right next to the park. The family-friendly atrraction includes animal enclosures, train rides, go-karts, bouncy castle and trampolines. Just to the north is the lovely Tyninghame Beach where there's some pleasant woodland trails and fine views of Bass Rock. Just to the south of Dunbar you could enjoy a climb to the Dunbar Bear. The large bear sculpture celebrates the life of the locally born John Muir. The sculpture symbolises the role Muir played in establishing the Yosemite and Sequoia National Parks where the brown bear has survived and thrived."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/HmwCMGeJ6JA",
   "district": "Dunbar",
   "county": "East Lothian",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

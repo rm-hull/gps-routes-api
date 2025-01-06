@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T07:50:09.651009+00:00",
   "objectID": "9efb50d665fb329d8cda2eaa78a09d74",
-  "created_at": "2024-12-18T11:36:58.937882+00:00",
   "ref": "croft-castle-walking-route",
   "title": "Croft Castle Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Croft_Castle_1.jpg",
@@ -90,9 +90,16 @@
   ],
   "distance_km": 2.8,
   "description": "This walk explores the grounds and gardens of the National Trust's Croft Castle near Leominster and Ludlow in Herefordshire. Park at the National Trust car park and you can pick up footpaths heading around the castle to the walled garden with its lovely herbaceous border. There's also a chestnut avenue with some splendid ancient trees to see, just to the north of the castle. You can extend your walk by heading north from the castle to climb Croft Ambrey Hill Fort where you can enjoy great views over the area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east of the castle there's some nice woodland trails to follow through Bircher Common. For more walking ideas in the area see the Herefordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rR8uwcG-gsc",
   "postcode": "HR6 9PW",
   "county": "County of Herefordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

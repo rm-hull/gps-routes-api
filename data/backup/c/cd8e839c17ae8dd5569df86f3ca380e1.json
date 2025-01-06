@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:52:26.001690+00:00",
   "objectID": "cd8e839c17ae8dd5569df86f3ca380e1",
-  "created_at": "2024-12-18T18:38:02.822196+00:00",
   "ref": "llynnau-mymbyr-walking-route",
   "title": "Llynnau Mymbyr Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Llynnau_Mymbyr_-_geograph.org.uk_-_887971.jpg",
@@ -39,7 +39,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Llynnau_Mymbyr_-_geograph.org.uk_-_887971.jpg",
-      "title": "rob / Llynnau  Mymbyr, via Wikimedia Commons",
+      "title": "rob / Llynnau Mymbyr, via Wikimedia Commons",
       "caption": "The east end of Llynnau Mymbyr with Plas y Brenin (PYB) National Mountain Centre in the background."
     },
     {
@@ -80,10 +80,21 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a short walk along this picturesque lake in the Dyffryn Mymbyr valley area of the Snowdonia National Park. The walk starts from the car park at Capel Curig and follows a track to the lake. There are footpaths on either side of the lake with the ones on the southern side passing the woodland of Coed Bryn-Engan. There are lovely views across the water to the surrounding mountains. It is a particularly good spot to get a photo of the Snowdon Horseshoe across the water. If you'd like to continue your walking in the area then you could climb to Moel Siabod or visit the nearby Llyn Cowlyd .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the eastern end of the lake you will find Plas Y Brenin, a National Outdoor Centre for Rock Climbing, Mountaineering, Hiking & Hillwalking, Canoeing, Kayaking and Mountain Biking. Within the centre there's the Yr Wyddfa Bar and Restaurant which is a great place for some post walk refreshments. The bar boasts the best view in Britain as it looks down to the lake and the Snowdon Horseshoe. There's a good menu with locally sourced food and drink."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For some interesting local history try the Dolgarrog Pipeline Walk. This explores the area around the little village, visiting the impressive pipeline structure and the Coedty reservoir. Near here there's also the beautiful Llyn Eigiau where the reservoir dam was breached leading to the Dolgarrog Dam disaster of 1925."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/QEFzeczU3bI",
   "postcode": "LL24 0EW",
   "district": "Capel Curig",
   "county": "Conwy - Conwy",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

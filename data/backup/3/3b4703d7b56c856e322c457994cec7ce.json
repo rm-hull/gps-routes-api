@@ -1,14 +1,14 @@
 {
+  "created_at": "2025-01-06T08:26:15.564534+00:00",
   "objectID": "3b4703d7b56c856e322c457994cec7ce",
-  "created_at": "2024-12-21T14:47:16.468809+00:00",
   "ref": "lough-mask-and-tourmakeady-waterfall-walking-route",
-  "title": "Lough Mask And Tourmakeady Waterfall Walk Route",
+  "title": "Lough Mask And Tourmakeady\u00a0Waterfall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Waterfall_at_Toormakeady.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3b4703d7b56c856e322c457994cec7ce.gpx",
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Waterfall_at_Toormakeady.jpg",
-      "title": "Trever Miller  http://trevermiller.com/, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+      "title": "Trever Miller http://trevermiller.com/, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
       "caption": "Waterfall at Toormakeady, Peoples Millennium Forest"
     },
     {
@@ -49,5 +49,12 @@
   ],
   "distance_km": 9.0,
   "description": "This loop walk visits the Tourmakeady Waterfall next to Lough Mask in south County Mayo in the west of Ireland. You can find the waterfall in Tourmakeady Woods on the north western side of the lake, near the village of the same name. There is a parking area where you can start your walk through the peaceful woodland to the picturesque waterfall. Near here you can also pay a visit to the photogenic ruins of the ancient Christ Church. After exploring the woods and the old church the walk then follows a road down to the lake shore and the jetty. Here you can enjoy some fine views across the water to the Partry Mountains and the surrounding countryside. To continue your walking in the area head south to climb Mount Gable. From the summit you can enjoy some wonderful views over the lough and the coast. The historic Ashford Castle can also be visited in this area. The medieval/Victorian castle includes beautiful grounds, riverside trails and a popular hawk walk.",
-  "video_url": "https://www.youtube.com/embed/Unez8AlR9JU?si=Kumvdi2mZg2lZIIO"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west and you can visit the stunning Killary Fjord. There's some wonderful scenery here with the photogenic fjord flanked by the mountains of Mweelrea and Ben Gorm."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/Unez8AlR9JU?si=Kumvdi2mZg2lZIIO",
+  "gazetteer_found": false
 }

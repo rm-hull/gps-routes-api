@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:14:57.796072+00:00",
   "objectID": "08234855982cc27e554434320a0b05b0",
-  "created_at": "2024-12-21T20:01:55.280345+00:00",
   "ref": "dartmoor-ramble-walking-route",
   "title": "Dartmoor Ramble Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bellever_Tor_-_geograph.org.uk_-_208200.jpg",
@@ -80,9 +80,15 @@
   ],
   "distance_km": 80.0,
   "description": "A wonderful circular walk around the fascinating Dartmoor National Park with plenty of lovely riverside walking and some challenging climbs. The walk starts near the car park at Bellever and first follows the East Dart River through Postbridge and on to Sittaford Tor where you will pass the historical Grey Wethers Stone Circle. Challenging climbs on Whitehorse Hill and Hangingstone Hill follow, offering fabulous views of Dartmoor and the surrounding areas. The walk continues past Oke Tor to the town of Okehampton where you will pass the ruins of the 11th century Okehampton Castle. You then join the East Okemont River and the River Taw for two pleasant waterside stretches which lead you to the little village of Sticklepath. From here you head south towards Teigncombe where you join the River Teign for another riverside section which passes Chagford and the Wooton Castle Iron Age Hill fort before reaching the delightful Meadhaydown Wood Nature Reserve. The route then turns west towards Moretonhampstead (notable for having the longest one-word name of any place in England), the fine Bovey Castle hotel and then the fascinating Grimspound Bronze Age settlement which consists of a set of 24 hut circles surrounded by a low stone wall. The final section takes you past the wooded Soussons Down to the finish point back at Bellever.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/08234855982cc27e554434320a0b05b0.gpx",
-  "_geoloc": {
-    "lat": 50.5809880952,
-    "lng": -3.9016616495
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Soussons Down you will pass close to the noteworthy Warren House Inn, one of the highest pubs in England. The 19th century inn is one of the most famous on Dartmoor, sitting in an isolated position some 1425ft (434m) above sea level. Originally built to serve the busy local tin mining community, the Inn was always a favourite haunt with miners from the neighbouring Tin Mines, including Golden Dagger, Vitifer and Birch Tor Mines. From the elevated position of the inn there are breathtaking views over the area. Indoors there's a cosy interior with oak beams and open fires. They do great food and are also dog friendly. The Warren House Inn lies at the very centre of Dartmoor between Moretonhampstead and Princetown on the B3212 with a postcode of PL20 6TA. The Fingle Bridge Inn is in a great location right next to the river near Drewsteignton. You can sit outside in the large garden area which overlooks the woods and the river, which is just a few feet away from the tables. On a fine day it's the perfect place to relax with a cream tea after your exercise. Inside there's a cosy interior with a stone hearth and wood ceiling beams. You can find the inn right next to the old bridge at postcode EX6 6PW for your sat navs. Fingle Bridge is one of the highlights on the walk dating from between the 16th and 17th century. The bridge is Grade II listed."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The epic Dartmoor Way is another long distance circular walk to try in the National Park. For more walking ideas in the area see the Devon Walks and the Dartmoor Walks pages."
+    }
+  ],
+  "gazetteer_found": false
 }

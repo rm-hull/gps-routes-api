@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:34:22.095896+00:00",
   "objectID": "fbb308c5a0e2908a1faf66bfc0ed9d63",
-  "created_at": "2024-12-20T07:36:47.398527+00:00",
   "ref": "southrop-walking-route",
   "title": "Southrop Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Swan_at_Southrop_03.jpg/512px-The_Swan_at_Southrop_03.jpg",
@@ -52,11 +52,18 @@
     }
   ],
   "distance_km": 5.0,
-  "description": "This Gloucestershire village lies just to the south of Eastleach on the eastern edge of the Cotswolds. The pretty village is located on the River Leach and includes a noteworthy 11th century church and a 17th century pub. This walk from the village takes you south through the countryside to visit Lechlade where you can enjoy a riverside  walk along the Thames Path National Trail. To continue your walking in the area head north to visit neighbouring Eastleach. Here you'll find two Norman churches and an ancient stone slab clapper footbridge over the river.",
+  "description": "This Gloucestershire village lies just to the south of Eastleach on the eastern edge of the Cotswolds. The pretty village is located on the River Leach and includes a noteworthy 11th century church and a 17th century pub. This walk from the village takes you south through the countryside to visit Lechlade where you can enjoy a riverside walk along the Thames Path National Trail. To continue your walking in the area head north to visit neighbouring Eastleach. Here you'll find two Norman churches and an ancient stone slab clapper footbridge over the river.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Swan dates to 1606 when it was originally known as the Bakehouse, serving bread and ale to the local farm workers. The charming ivy covered property includes low-slung ceilings, roaring fires and a spacious garden room. You can find them adjacent to the green at postcode GL7 3NU for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KOJHUgFZN84",
   "postcode": "GL7 3PW",
   "district": "Southrop",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

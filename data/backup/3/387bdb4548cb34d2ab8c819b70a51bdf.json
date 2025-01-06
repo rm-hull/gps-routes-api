@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:48:28.436509+00:00",
   "objectID": "387bdb4548cb34d2ab8c819b70a51bdf",
-  "created_at": "2024-12-18T10:56:13.875281+00:00",
   "ref": "knole-park-walking-route",
   "title": "Knole Park Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Fallow_Deer%2C_Knole_Park._-_geograph.org.uk_-_172982.jpg",
@@ -36,7 +36,7 @@
       "ref": "shipbourne-walking-route"
     },
     {
-      "description": "Ightham  Mote",
+      "description": "Ightham Mote",
       "objectID": "9652510fd9419305155bb3471930fd12",
       "ref": "igtham-mote-walking-route"
     }
@@ -80,10 +80,25 @@
   ],
   "distance_km": 9.0,
   "description": "A circular walk around the delightful deer park at Knole in Sevenoaks. The walk begins near the bus station in Sevenoaks and heads past Knole House, along the Broad Walk and Chestnut Walk to Fawke Common. You continue through Rambles Wood, Godden Wood and then through Knole Park Golf Course before returning to the start point. The grounds of the park are delightful with about 500 resident deer, ancient woodland, dry heathland, acid grassland and wood pasture. Knole house contains a world class collection of furniture and textiles from royal palaces and is also well worth exploring. If you'd like to continue your walk you could follow the Greensand Way east towards the lovely Ightham Mote with its woodland, gardens and parkland surrounding a medieval moated manor house. Just to the south you will find the delightful Riverhill Himalayan Gardens which has nice footpaths taking you to a walled garden with Himalayan-inspired grass-sculpted terraces and a large pond with fountains. Just north of the park you can visit Sevenoaks Wildlife Reserve and follow the waymarked trails around the five pretty lakes while looking out for a variety of wildfowl.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The park includes an on site cafe where you can sit outside and enjoy views of the park with your meal."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park and surrounding woodland make for an excellent dog walk so you'll probably see other dogs on your visit. You are requested to keep them on leads because of the deer."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Shipbourne Circular Walk starts from the nearby village and uses the Greensand Way to visit Ightham Mote and Knole Park. Ightham is another National Trust owned property with a 14th century manor house surrounded by a moat and beautiful gardens. It's a great way of extending your walking from the park with excellent views from the elevated position of the Greensand Ridge on the way. Just a few miles to the north there's nearby Kemsing where you can explore the Kemsing Downs Nature Reserve. It's a lovely place for a walk with ancient woodland, bluebells, wildlife and more tremendous views from its elevated location. Near here there's Otford where you can visit the splendid Otford Mount viewpoint and the ruins of the 15th century Otford Palace. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/DceOsnGVRPM",
   "postcode": "TN13 1LP",
   "district": "Sevenoaks",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

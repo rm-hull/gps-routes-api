@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:55:42.312933+00:00",
   "objectID": "7723c37f61ed6b6eecafe12809b8f618",
-  "created_at": "2024-12-18T05:44:06.056523+00:00",
   "ref": "witchford-walking-route",
   "title": "Witchford Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Main_Street%2C_Witchford_-_geograph.org.uk_-_2255004.jpg/512px-Main_Street%2C_Witchford_-_geograph.org.uk_-_2255004.jpg",
@@ -43,8 +43,15 @@
   ],
   "distance_km": 16.6,
   "description": "This small rural village is located just west of Ely in Cambridgeshire. The settlement includes a decent local pub and a noteworthy 14th century church which is Grade II listed. This circular walk from the village takes you through the countryside to visit the neighbouring villages of Witcham and Coveney. The route passes through the Fens along a series of 'Droves' or tracks.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some post walk refreshment at the Village Inn. They have a large car park, a good menu and a pleasant garden area. You can find them at 80 Main Street with postcode CB6 2HQ."
+    }
+  ],
   "district": "Witchford",
   "county": "Cambridgeshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

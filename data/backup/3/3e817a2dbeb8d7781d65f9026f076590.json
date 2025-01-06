@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:47:33.578595+00:00",
   "objectID": "3e817a2dbeb8d7781d65f9026f076590",
-  "created_at": "2024-12-21T08:44:53.878286+00:00",
   "ref": "north-cheshire-way-walking-route",
   "title": "North Cheshire Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Pott_Shrigley_-_North_Cheshire_Way.jpg",
@@ -120,9 +120,15 @@
   ],
   "distance_km": 113.0,
   "description": "Starting at Hooton Station, near Ellesmere Port, follow the North Cheshire Way through Frodsham, Northwich, Knutsford and Wilmslow to the finish point at Disley. Highlights on the walk include:",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/3/3e817a2dbeb8d7781d65f9026f076590.gpx",
-  "_geoloc": {
-    "lat": 53.2972210427,
-    "lng": -2.9776399684
-  }
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Prestbury Ye Olde Admiral Rodney is a historic pub worthy of some investigation. This charming former coaching inn dates back to the 17th century and includes many period features such as low ceilings and panelled walls. You can find them on New Road with postcode SK10 4HP for your sat navs. The pub is also dog friendly if you have your canine friend with you. The village itself is also worth exploring with several listed timber framed buildings and a picturesque churchyard. Look out for famous faces too as it is one of the most desirable places to live in the north with many celebrities and footballers purchasing expensive properties in the area. Just north of the village you'll also find the Grade II listed Mottram Hall. The estate includes 270 acres of beautiful landscaped gardens surrounding a fine 18th century hall which now operates as a hotel."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Northwich you could stop off at the noteworthy Arley Hall. Here you'll find a fine stately home and some stunning gardens which are amongst the best in the country. The hall is located on the route at postcode CW9 6NA for your sat navs. For more walking ideas in the area see the Cheshire Walks page."
+    }
+  ],
+  "gazetteer_found": false
 }

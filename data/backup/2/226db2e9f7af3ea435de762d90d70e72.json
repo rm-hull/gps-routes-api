@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:29:05.477771+00:00",
   "objectID": "226db2e9f7af3ea435de762d90d70e72",
-  "created_at": "2024-12-19T07:39:57.733082+00:00",
   "ref": "lulworth-castle-walking-route",
   "title": "Lulworth Castle Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Lulworth_Castle_in_1999.jpg",
@@ -65,10 +65,25 @@
   ],
   "distance_km": 5.0,
   "description": "Explore the beautiful grounds of this 17th Century castle on this circular walk in Dorset. You will pass the exquisite 18th century Chapel of St Mary's, the fascinating Lulworth Castle House and the recently restored Lulworth Castle. The Purbeck Way passes the castle so you have the option of visiting by public transport. You could catch the train to nearby Wool and then follow the Hardy Way and the Purbeck Way to the castle. To extend your walking in the area head to the coast to visit the wonderful Lulworth Cove and Durdle Door. For a longer walk you could try the Lulworth Cove to Osmington Mills Coastal Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Weld Arms is located at the foot of the castle gates in East Lulworth. The thatched 17th century pub serves good quality food and includes a lovely garden area for warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland on the castle estate is great for dog walking. You are asked to keep them on leads because of the livestock. Only assistance dogs are allowed into Lulworth Castle, the Chapel and Church. The Weld Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south east you can pick up the Kimmeridge Bay to Chapmans Pool Walk and explore a wonderful marine wildlife reserve with lots of interesting creatures to look out for in the rock pools and ocean. Just to the north west there's the Winfrith Newburgh Heath and Tadnoll Nature Reserves. The reserves include miles of peaceful heathland trails with lots of wildlife and a splendid viewpoint."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/oT45xZ8oMOU",
   "postcode": "BH20 5QQ",
   "district": "East Lulworth",
   "county": "Dorset",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

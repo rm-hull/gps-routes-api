@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:50:27.656105+00:00",
   "objectID": "aad3e1c3d519be07cb4e1f3884e6e10c",
-  "created_at": "2024-12-18T16:43:46.857922+00:00",
   "ref": "gosfield-lake-walking-route",
   "title": "Gosfield Lake Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sports_pavilion%2C_Gosfield_-_geograph.org.uk_-_3376032.jpg",
@@ -100,10 +100,21 @@
   ],
   "distance_km": 3.0,
   "description": "This walk visits the village of Gosfield in the Braintree district of Essex near Halstead. From here it is a short walk to the pretty Gosfield Lake to the west of the settlement. The lake includes a picnic area, water sports activities and a nice lakeside cafe for refreshments afterwards. Access to the site requires an entry fee but your can just turn up an pay on the day. At the lake there's a waterside trail on the eastern side but no circular path around the whole perimeter. You can start the walk in Gosfield Park where there are sports fields and a car park. Then follow footpaths west and then south past the old church to the lake. On the way you will also skirt the edge of the 16th century Gosford Hall which is now used as a wedding venue. The house is Grade I listed.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Snack Shack at the lake is a nice place for refreshments on the walk."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs are allowed at the lake but must be on leads."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qo1mlIRA9bQ",
   "postcode": "CO9 1SU",
   "district": "Gosfield",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

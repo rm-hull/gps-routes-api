@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:45:45.321079+00:00",
   "objectID": "f295b19ea417d5295e66094d641f750d",
-  "created_at": "2024-12-18T11:37:45.606846+00:00",
   "ref": "plas-yn-rhiw-walking-route",
   "title": "Plas yn Rhiw - Gwynedd Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Plas_yn_Rhiw_-_geograph.org.uk_-_1889423.jpg",
@@ -50,8 +50,15 @@
   ],
   "distance_km": 3.5,
   "description": "This walk takes you to this National Trust owned 17th century manor house in Rhiw, Gwynedd. The house is surrounded by beautiful ornamental gardens, woodland trails and grounds. The route takes you around the house on footpaths and country lanes with simply stunning views of Cardigan Bay, Hell's Mouth and the and the Llyn Peninsula. In Ferbruary you can see lots of pretty snowdrops as displayed in the video below.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head west along the Wales Coast path it will take you to Aberdaron. Here you can enjoy a circular walk along a section of the Llyn Coastal Path. The beautiful National Trust owned beach at Llanbedrog is also locate near here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/pUkLBIMbFns",
   "county": "Gwynedd - Gwynedd",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

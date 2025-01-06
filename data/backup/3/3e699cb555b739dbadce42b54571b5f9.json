@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T09:34:18.609411+00:00",
   "objectID": "3e699cb555b739dbadce42b54571b5f9",
-  "created_at": "2024-12-19T19:56:29.591215+00:00",
   "ref": "inversnaid-nature-trail-walking-route",
   "title": "Inversnaid RSPB Nature Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg/256px-Pier_and_hotel_ferry_at_Inversnaid_-_geograph.org.uk_-_278457.jpg",
@@ -59,8 +59,19 @@
     }
   ],
   "distance_km": 2.0,
-  "description": "Follow the lovely nature trail in this RSPB reserve by Loch Lomond on this short walk. The route starts at the  Inversnaid Hotel and follows the West Highland Way along the loch before climbing to oak woodland and open moorland where there are fabulous views. Look out for pied flycatchers, buzzards and woodpeckers on the way. If you would like to extend your walk you could continue along the West Highland Way in either direction. You could also visit the beautiful Inversnaid Falls which are a short stroll from the start of this route.",
+  "description": "Follow the lovely nature trail in this RSPB reserve by Loch Lomond on this short walk. The route starts at the Inversnaid Hotel and follows the West Highland Way along the loch before climbing to oak woodland and open moorland where there are fabulous views. Look out for pied flycatchers, buzzards and woodpeckers on the way. If you would like to extend your walk you could continue along the West Highland Way in either direction. You could also visit the beautiful Inversnaid Falls which are a short stroll from the start of this route.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Inversnaid Hotel sits in a splendid location right next to the loch. It has some interesting history having previously been a hunting lodge for the Duke of Montrose. There are also links to Scotland's famous clan warfare and the clearances in the 18th century. From here there are fine views of nearby Arklet falls, the muse of Wordsworth and Sir Walter Scott."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you catch the boat to the western side of the loch at Inveruglas you could pick up the epic Cowal Way. The long distance route takes you to Portavadie on the banks of Loch Fyne. The Rowardennan to Inversnaid Walk will take you along the West Highland Way to Rowardennan where you can pick up the popular climb to Ben Lomond. The next stage is on the Inversnaid to Tyndrum Walk which takes you through Glen Falloch to Crianlarich and Tyndrum. For more walking ideas in the area see the Loch Lomond and the Trossachs Walks page."
+    }
+  ],
   "county": "Stirling",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

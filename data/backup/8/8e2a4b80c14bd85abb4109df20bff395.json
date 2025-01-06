@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T11:07:15.544826+00:00",
   "objectID": "8e2a4b80c14bd85abb4109df20bff395",
-  "created_at": "2024-12-18T01:26:56.144411+00:00",
   "ref": "kedleston-hall-walking-route",
   "title": "Kedleston Hall Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Kedleston_Hall_Gardens_-_geograph.org.uk_-_1704897.jpg",
@@ -49,7 +49,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Boat_House_and_Bridge_-_Kedleston_Hall_-_geograph.org.uk_-_1508223.jpg",
-      "title": "K  A / Boat House and Bridge - Kedleston Hall",
+      "title": "K A / Boat House and Bridge - Kedleston Hall",
       "caption": "Boat House and Bridge - Kedleston Hall. A view from the road leading out of Kedleston Park. The sun was hot enough for the sheep to look for the shade of a tree even in the late afternoon of a September day"
     },
     {
@@ -80,10 +80,21 @@
   ],
   "distance_km": 3.6,
   "description": "Explore the 820 acres of parkland surrounding this country house near Derby in the Peak District. The landscape features grassy meadows, serpentine lakes, pleasure grounds, woodland and contoured hills with clumps of trees. There are also sculptures, a summer house and an orangery. The walk gives fantastic views of the gardens, the hall and the surrounding countryside. The hall is a classical Palladian mansion built for the first Baron Scarsdale in the mid 18th century. Inside there are grand state rooms with fine collections of paintings and original furniture. The Centenary Way walking route runs just to the north of the grounds. You could pick this up and head towards Duffield or Brailsford to continue your walk. The Bonnie Prince Charlie Walk runs just to the south of the hall. Pick this up to head into Derby.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and gardens are a lovely place for a dog walk. There are also some nice woodland trails around the perimeter of the park which are a nice place to take the dogs. They do need to be kept on leads though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south you'll find Darley Abbey Park. There's some fine trails around this expansive park which forms part of the wider Derwent Valley Mills World Heritage Site. Just to the south west if the hugely popular Markeaton Park. Just to the east of the abbey you can pick up the Great Northern Greenway. This shared cycling and walking trail runs along the trackbed of the old Great Northern Railway which closed in the 1960s. It now makes for a nice easy cycle or walk and can be picked up from close to the Meteor Shopping Centre. To the easy you'll find Allestree Park. Here there's 320 acres of parkland surrounding the 19th century Allestree Hall.  For more walking ideas in the area see the Derbyshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/7JwjHD3-NIc",
   "postcode": "DE22 5JH",
   "district": "Kedleston",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

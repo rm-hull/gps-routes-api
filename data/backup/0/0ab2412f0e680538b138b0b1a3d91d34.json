@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:47:14.048935+00:00",
   "objectID": "0ab2412f0e680538b138b0b1a3d91d34",
-  "created_at": "2024-12-18T09:58:16.887835+00:00",
   "ref": "edmundbyers-walking-route",
   "title": "Edmundbyers Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Edmundbyers_-_geograph.org.uk_-_1968305.jpg/512px-Edmundbyers_-_geograph.org.uk_-_1968305.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 6.8,
   "description": "This County Durham based village is located in a lovely spot close to Pow Hill Country Park and Derwent Reservoir. This circular walk from the village takes you to neighbouring Muggleswick. The walk starts in the village and follows country lanes east to Muggleswick. You can then follow public footpaths west across Muggleswick Park to return to Edmundbyers. From this elevated section there are fine views across the moors to Derwent Reservoir.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to the Punch Bowl Inn for some post walk refreshment. You can find them at postcode DH8 9NL for your sat navs. There's also the cosy, 17th century Baa to consider."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the west there's the worthy village of Blanchland to explore. The delightful village is full of picturesque cottages, set against a backdrop of deep woods and open moors. There's a lovely waterside trail along the River Derwent to follow here. You can also pick up the long distance Weardale Way in the village. To the east is Consett where you can pick up the Consett and Sunderland Railway Path, a popular shared cycling and walking trail. Near the town there's also the noteworthy Allensford Country Park. There's nice riverside trails, a decent cafe and a lovely waterfall on the Wharnley Burn in this popular and picturesque park. For more walking ideas in the area see the North Pennines Walks and the County Durham Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/bR6xLs_6Yx8",
   "postcode": "DH8 9NL",
   "district": "Edmundbyers",
   "county": "County Durham",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

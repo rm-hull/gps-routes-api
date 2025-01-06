@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:31:29.191536+00:00",
   "objectID": "774271d38321598171636038d53892b6",
-  "created_at": "2024-12-19T21:45:39.432960+00:00",
   "ref": "herstmonceux-castle-walking-route",
   "title": "Herstmonceux Castle Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Herstmonceux_Castle_and_moat_-_geograph.org.uk_-_1530793.jpg",
@@ -65,9 +65,24 @@
   ],
   "distance_km": 3.4,
   "description": "This circular walk explores the grounds of the historic Herstmonceux Castle in East Sussex. The 15th century moated castle is surrounded by 300 acres of parkland, gardens and woodland which are ideal for a pleasant afternoon stroll. Highlights include the stunning Grade II listed Elizabethan Garden which dates back to 1570, a photogenic Georgian style folly, bluebell woods and the pretty wildflower meadow.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Chestnuts Tea Rooms serve a delicious range of pastries, hot and cold light lunches and sandwiches. You could sit outside an enjoy a cream tea under the ancient Chestnut trees after which the tea rooms are named."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Dogs on leads are welcome in the grounds of the castle."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking pick up the 1066 Country Walk and follow it to Battle Abbey and Pevensey Castle. Following the waymarked trail south will take you along Hurst Haven to the Pevensey Level Nature Reserve before coming to the castle. Just to the west you can pick up the Hailsham Walk and visit another local historic highlight at Michelham Priory. The former Augustine Priory dates from the 13th century and includes some original buildings which are Grade I and Grade II listed.  For more walking ideas in the area see the Sussex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sm2-QOwhLW8",
   "postcode": "BN27 1RN",
   "county": "East Sussex",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

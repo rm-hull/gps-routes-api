@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:43:32.098137+00:00",
   "objectID": "803ebdcd3836bc56f37003dfb7c2c7f5",
-  "created_at": "2024-12-18T09:58:08.226539+00:00",
   "ref": "edinburgh-beach-walk",
   "title": "Edinburgh Coastal Beach Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Portobello_Beach_-_geograph.org.uk_-_3613607.jpg/512px-Portobello_Beach_-_geograph.org.uk_-_3613607.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 6.7,
   "description": "This walk takes you along the beach and promenade in Portobello on the eastern side of the city of Edinburgh. The two mile stretch of sandy beach is a lovely place for a coastal walk in the city. Along the way you can enjoy splendid views over the Firth of Forth to Inchkeith Island. The village is also very attractive with some fine Georgian and Victorian architecture to see. Other notable features include a Victorian swimming pool, featuring an original Aerotone (the forerunner to the modern Jacuzzi) and an authentic Turkish Bath. You can park at the public car park on the sea front and then enjoy a circular walk by following the promenade path before heading onto the wide sandy beach. The area is dotted with Ice cream parlours, arcades and beach-side cafes and bars so there's plenty of options for refreshments. You could extend the walk by continuing east from Joppa to visit nearby Musselburgh. In this area there's another nice beach, riverside trails along the Esk and the National Trust's delightful Inveresk Gardens to see.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's several nice cafes on the prom where you can stop and enjoy some refreshments. Crumbs of Portobello serves haggis and crepes with outdoor seating available. You can find them at postcode EH15 1HJ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The beach is a popular place for dog walking so you'll probably see other owners on a fine day. Crumbs of Portobello mentioned above is also dog friendly with treats available."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head west and you could visit the wildlife rich Duddingston Loch or climb to the wonderful viewpoint at Arthur's Seat in Holyrood Park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/2e6iNnZC9yw?start=53",
   "district": "Edinburgh",
   "county": "City of Edinburgh",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:32:05.027883+00:00",
   "objectID": "7099274272130740094928d8080d6907",
-  "created_at": "2024-12-18T13:32:56.059031+00:00",
   "ref": "high-rid-reservoir-walking-route",
   "title": "High Rid Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Farmland_to_the_west_of_High_Rid_reservoir_-_geograph.org.uk_-_2355585.jpg/512px-Farmland_to_the_west_of_High_Rid_reservoir_-_geograph.org.uk_-_2355585.jpg",
@@ -50,7 +50,18 @@
   ],
   "distance_km": 1.4,
   "description": "This small reservoir in Bolton is a nice place for an easy walk. There's a circular footpath running around the lake for a distance of about 1 mile. On the way there's some lovely views over the water to the surrounding countryside. Also look out for wildlife including deer, fox, buzzard, velvet scoter and goldeneye.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reservoir is a popular place for dog walkers so you'll probably see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Bolton there's Smithills Country Park and Doffcocker Lodge to explore. Head west and you can continue your waterside walking around the much larger Rivington Reservoir in Rivington Country Park. The climb to Rivington Pike can also be started here. For more walking ideas in the area see the Bolton Walks and Greater Manchester Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/qnC6Cwiihig",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

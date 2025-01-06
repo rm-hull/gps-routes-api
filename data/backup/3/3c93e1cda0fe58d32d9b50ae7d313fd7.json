@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:42:43.548510+00:00",
   "objectID": "3c93e1cda0fe58d32d9b50ae7d313fd7",
-  "created_at": "2024-12-18T01:26:08.765848+00:00",
   "ref": "stoke-prior-walking-route",
   "title": "Stoke Prior Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Stoke_Bottom_Lock_near_Stoke_Prior%2C_Worcestershire_-_geograph.org.uk_-_2059667.jpg",
@@ -12,7 +12,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Stoke_Bottom_Lock_near_Stoke_Prior%2C_Worcestershire_-_geograph.org.uk_-_2059667.jpg",
-      "title": "Stoke Bottom Lock near Stoke Prior, Worcestershire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Stoke Bottom Lock near Stoke Prior, Worcestershire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Stoke Bottom Lock near Stoke Prior, Worcestershire"
     },
     {
@@ -27,13 +27,13 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tardebigge_Lock_No_35%2C_Worcestershire_-_geograph.org.uk_-_2253711.jpg",
-      "title": "Tardebigge Lock No 35, Worcestershire by Roger  Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Tardebigge Lock No 35, Worcestershire by Roger Kidd, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Tardebigge Lock No 35, Worcestershire"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Moors_Pools_Nature_Reserve_at_Upton_Warren_-_geograph.org.uk_-_1556976.jpg",
       "title": "Les Hull / Moors Pools Nature Reserve at Upton Warren",
-      "caption": "Moors Pools Nature Reserve at Upton Warren.  The northern Moors pools are freshwater lakes formed on previously agricultural land; the great expanse of water attracts a wide range of birds."
+      "caption": "Moors Pools Nature Reserve at Upton Warren. The northern Moors pools are freshwater lakes formed on previously agricultural land; the great expanse of water attracts a wide range of birds."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Upton_Warren_Nature_Reserve_-_geograph.org.uk_-_3775599.jpg/512px-Upton_Warren_Nature_Reserve_-_geograph.org.uk_-_3775599.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 4.0,
   "description": "This Worcestershire based village is in a nice spot for country walks and easy strolls along the Worcester and Birmingham Canal. This walk starts from Stoke Wharf and takes you along the canal to visit one of the local highlights at Tardebigge Locks. Here you will find the largest flight of locks in Britan, comprising 30 narrow locks on a 2.25 mile (3.6 km) stretch along the canal. There's also the pretty Tardebigge Reservoir to see in this area. To continue your walking around Stoke Prior head east to visit Upton Warren Nature Reserve. The reserve has some pretty lakes and is said to be Worcestershire\u2019s premier bird-watching reserve. You can find the reserve at postcode B61 7ET. See the video below for more details.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Priory Cafe is located in a fine canalside spot at Stoke Wharf. You can sit outside and enjoy a lovely meal while watching the boats go by. You can find them at 138 Hanbury Rd, Stoke Prior, Bromsgrove B60 4JZ."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/mfMcBb8phsA?si=T7NHKeYFYg5EyfnE",
   "postcode": "B60 4LA",
   "district": "Stoke Prior",
   "county": "Worcestershire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

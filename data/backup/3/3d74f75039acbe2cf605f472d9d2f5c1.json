@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:36:09.003977+00:00",
   "objectID": "3d74f75039acbe2cf605f472d9d2f5c1",
-  "created_at": "2024-12-19T10:38:19.163340+00:00",
   "ref": "castle-ashby-walking-route",
   "title": "Castle Ashby Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castle_Ashby%2C_The_Castle-geograph-4390597-by-Rob-Farrow.jpg/512px-Castle_Ashby%2C_The_Castle-geograph-4390597-by-Rob-Farrow.jpg",
@@ -85,10 +85,25 @@
   ],
   "distance_km": 2.0,
   "description": "This circular walk takes you around the village of Castle Ashby and its associated gardens. The walk starts from the car park at the Castle Ashby House and Gardens which are the seat of the Marquess of Northampton. There's 35 acres to explore with Italian Gardens, an Orangery, an Arboretum and a a series of pretty ponds. There's also a Menagerie with a number of animals including meerkats, a giant tortoise, a miniature pony, pigs, goats and rabbits. You can then enjoy a stroll around the village which was set up to service the needs of the House. There's also a footpath you could follow up to Grendon and then stroll down to the Grendon Ponds.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Walled Garden Tea Room is a fine place to enjoy some post walk refreshment. If the weather is good you can sit outside on the lovely terrace. If you prefer a pub lunch then you could head to the Falcon Hotel in the village. It's a historic place dating back to 1594 when it was previously a Coaching Inn. There's even a designated private nature walk if you wish to stretch your legs further. You can find them at postcode NN7 1LF for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Inside the grounds dogs on leads are permitted and can be off lead in the arboretum area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head a couple of miles north of the castle and you will come to the Nene Way. There some nice trails here along the river towards the Grendon Lakes complex. Here you'll find 12 lakes, 2 of which are devoted to watersports the remaining 10 making up some of the finest fishing water in the area. There is a popular paintball site site here too. If you were to follow the Nene Way west it would take you into Northampton where you could pick up the Grand Union Canal on the Northampton Canal Walk. There's also some peaceful woodland trails in the nearby Salcey Forest and on the popular Harlestone Firs Forest Walk. A few miles south there's Emberton Country Park where there are more nice waterside trails and lots of wildlife to see. For more walking ideas in the area see the Northamptonshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/OOBWcN7mL24",
   "postcode": "NN7 1LF",
   "district": "Castle Ashby",
   "county": "West Northamptonshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

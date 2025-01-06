@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:41:50.244434+00:00",
   "objectID": "3679b5a43c573d4c4dbe97bedf5f9394",
-  "created_at": "2024-12-18T19:11:26.637302+00:00",
   "ref": "stowe-park-walking-and-cycle-route",
   "title": "Stowe Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Stowe_Park%2C_lake_and_rotunda_-_geograph.org.uk_-_2588084.jpg",
@@ -60,9 +60,16 @@
   ],
   "distance_km": 5.0,
   "description": "Explore 250 acres of stunning parks and gardens at this major Buckingham attraction. The gardens include beautiful lakes, several historic temples and monuments and many resident deer. Highlights on the route include the Grecian Valley, the Gothic Temple, the Temple of Friendship and the Palladian bridge. The park is also open to cyclists though the route mapped out below is specifically for walkers. The cycle route is fairly flat and great for families. If you'd like to continue your walk you could pick up the Ouse Valley Way long distance walk which runs past the park.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Our Buckingham Circular Walk starts from the town and uses public footpaths to take you around the perimeter of the park."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/fdJ6wj6vEs4",
   "postcode": "MK18 5DF",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

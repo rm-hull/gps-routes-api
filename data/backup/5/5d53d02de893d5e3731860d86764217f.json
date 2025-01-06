@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:35:43.032725+00:00",
   "objectID": "5d53d02de893d5e3731860d86764217f",
-  "created_at": "2024-12-21T12:22:22.175362+00:00",
   "ref": "dyfi-valley-way-walking-route",
   "title": "Dyfi Valley Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Aberdyfi_moorings_-_geograph.org.uk_-_915848.jpg",
@@ -70,10 +70,16 @@
   ],
   "distance_km": 164.0,
   "description": "A walk through the beautiful Dyfi Valley taking you from Aberdovey (Aberdyfi) on the coast to Llanuwchllyn before returning along the river to Borth. There is a long wooded section through Dyfi Forest and waterside sections along the river to enjoy. You'll also pass through the noteworthy town of Machynlleth as you skirt the edge of the Snowdonia National Park. Around here there's some nice riverside trails through the Lllyfnant Valley.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Red Lion in Machynlleth is a nice place to go for some refreshments on the route. The cosy pub has a good menu and is also dog friendly. Outside you can relax in the beer garden on warmer days. Inside there's interesting heavy rock memorabilia on the walls and a cosy atmosphere. You can find the pub at 11 Heol Maengwyn with a postcode of SY20 8AA for your sat navs. In Dinas Mawddwy there's another Red Lion to visit. The pub serves good quality food and has a fine selection of ales. There's also a nice outdoor seating area with views of the surrounding area. You can find them at postcode SY20 9JA for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can link up with the Borth to Ynyslas Coastal Path which will take you north along Borth Sands to visit Ynyslas and the Dyfi National Nature Reserve. There's some splendid high sand dunes to explore in the wildlife rich reserve. You can also enjoy lovely views over the Dyfi Estuary to Aberdovey on the opposite side."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/t159gh9sz3A",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/5/5d53d02de893d5e3731860d86764217f.gpx",
-  "_geoloc": {
-    "lat": 52.5438715241,
-    "lng": -4.0446188614
-  }
+  "gazetteer_found": false
 }

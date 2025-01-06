@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:43:02.517406+00:00",
   "objectID": "6ff62acc69dbdcde5cb606def8294ecb",
-  "created_at": "2024-12-18T20:54:44.474991+00:00",
   "ref": "great-dunmow-walking-route",
   "title": "Great Dunmow Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Doctors_Pond%2C_Great_Dunmow%2C_Essex._-_geograph.org.uk_-_1502625.jpg",
@@ -89,7 +89,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hatfield_Forest_-_geograph.org.uk_-_305648.jpg",
-      "title": "Jurek and Trish  Sienkiewicz / Hatfield Forest",
+      "title": "Jurek and Trish Sienkiewicz / Hatfield Forest",
       "caption": "Hatfield Forest"
     },
     {
@@ -105,10 +105,25 @@
   ],
   "distance_km": 21.0,
   "description": "This Essex based market town has some interesting old buildings and nice country trails to follow through the area. This walk from the town takes you along the Flitch Way to Hatfield Forest. The walk starts in the town where you can pick up the Flitch Way, a shared cycling and walking trail running along a disused railway line. Follow the waymarked trail west and it will take you to Canfield End and Takeley. Here you can pick up a section of the Harcamlow Way and follow it south west to enter the expansive Hatfield Forest Country Park. There's miles of cycling and walking trails here with attractive woodland, ponds and a visitor centre. The route heads north through the forest past the Portingbury Hills along the Forest Way before rejoining the Flitch Way. You can then follow the trail east back into Great Dunmow.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Angel and Harp is a good choice for post walk refreshment. They have a nice interior with with oak beams and red brick fireplace. They serve good quality food and have a nice garden area to sit out in too. You can find them at 16 Church Street, CM6 2AD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails on the route make for a fine dog walk. The Angel and Harp mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Takeley you could pick up the Harcamlow way and follow it north to visit Thaxted. Here you'll find a number of historic half timbered houses, a 14th century Guildhall, 16th century almshouses and a picturesque windmill.  For more walking ideas in the area see the Essex Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/UN6MlPSZq7E",
   "postcode": "CM6 1YF",
   "district": "Great Dunmow",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

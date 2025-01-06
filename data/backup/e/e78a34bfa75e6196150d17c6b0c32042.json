@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:28:56.570642+00:00",
   "objectID": "e78a34bfa75e6196150d17c6b0c32042",
-  "created_at": "2024-12-19T05:33:32.391490+00:00",
   "ref": "heage-windmill-walking-route",
   "title": "Heage Windmill Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Heage_Windmill.JPG/512px-Heage_Windmill.JPG",
@@ -53,9 +53,16 @@
   ],
   "distance_km": 2.0,
   "description": "This circular walk visits the historic windmill in the Derbyshire village of Heage. The Grade II listed mill was built in the 1790s and restored to working order in 2002. You can enjoy a guided tour and learn all about the history of the tower mill. There's also pleasant footpaths to follow around the countryside surrounding the mill with views of the lovely rolling hills. The windmill is located close to the Derwent Valley Mills World Heritage Site where you can visit other local historical sites including the Cromford Canal and the splendid Crich Tramway Village .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into the village and you could enjoy some post walk refreshment at the Eagle Tavern. The three-storey stone built inn can be found at 94 Ripley Rd, Heage, DE56 2HU. They are dog friendly. There's also the Black Boy Inn which sells good home cooked food."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/EFcnF1yS4o4",
   "district": "Nether Heage",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

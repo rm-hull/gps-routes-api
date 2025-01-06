@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:45:13.528236+00:00",
   "objectID": "67398f4a338b8514f41144e4746b3ca8",
-  "created_at": "2024-12-19T04:56:33.376349+00:00",
   "ref": "mynydd-illtud-common-walking-route",
   "title": "Mynydd Illtud Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Small_Lake_by_Mynydd_Illtud_-_geograph.org.uk_-_1719273.jpg/512px-Small_Lake_by_Mynydd_Illtud_-_geograph.org.uk_-_1719273.jpg",
@@ -39,10 +39,17 @@
     }
   ],
   "distance_km": 3.0,
-  "description": "Starting at the Brecon Beacons Visitor Centre, enjoy a stroll across the pretty Mynydd Illtud Common on this easy circular walk. From the common there are great views towards Pen Y Fan and Corn Du,  the Black Mountains and the river Usk. It's a good spot for wildlife too - look out for red kites, larks and butterflies.",
+  "description": "Starting at the Brecon Beacons Visitor Centre, enjoy a stroll across the pretty Mynydd Illtud Common on this easy circular walk. From the common there are great views towards Pen Y Fan and Corn Du, the Black Mountains and the river Usk. It's a good spot for wildlife too - look out for red kites, larks and butterflies.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Brecon Beacons Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/vX48zK7V6uA",
   "postcode": "LD3 8ER",
   "county": "Powys - Powys",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

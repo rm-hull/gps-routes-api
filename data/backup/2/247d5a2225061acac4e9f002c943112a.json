@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:45:35.652325+00:00",
   "objectID": "247d5a2225061acac4e9f002c943112a",
-  "created_at": "2024-12-18T00:53:52.289887+00:00",
   "ref": "white-horse-wood-country-park-walking-route",
   "title": "White Horse Wood Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Sculpture_in_White_Horse_Wood_Country_Park_-_geograph.org.uk_-_1080294.jpg",
@@ -60,9 +60,16 @@
   ],
   "distance_km": 1.5,
   "description": "Enjoy fabulous views over the Kent Downs AONB in this new country park near Maidstone. The park contains well surfaced walking trails taking you through grassland and woodland. It also includes the medieval ruins of Thurnham castle, a splendid viewpoint at Detling Hill and traces of an Iron Age settlement. The North Downs Way passes the park so you could pick this and head east to the nearby Hucking Estate to extend your walk.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is ideal for dog walking so you'll probably see other owners on your visit."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/TDgFtIeP3eM",
   "postcode": "ME14 3JE",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

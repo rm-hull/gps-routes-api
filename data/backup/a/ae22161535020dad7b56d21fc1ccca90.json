@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:40:52.697627+00:00",
   "objectID": "ae22161535020dad7b56d21fc1ccca90",
-  "created_at": "2024-12-18T05:33:25.017195+00:00",
   "ref": "meanwood-valley-trail-walking-route",
   "title": "Meanwood Valley Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Meanwood_Beck_-_geograph.org.uk_-_686526.jpg",
@@ -33,7 +33,7 @@
     {
       "description": "Bramhope Circular Walk",
       "objectID": "92db58509fbf02bce01773b1ac141c54",
-      "ref": "bramhope circular-walk-walking-route"
+      "ref": "bramhope\u00a0circular-walk-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae22161535020dad7b56d21fc1ccca90.gpx",
@@ -75,8 +75,15 @@
   ],
   "distance_km": 10.0,
   "description": "Follow the Meanwood Valley Trail from the city centre in Leeds to Golden Acre Park on this waymarked footpath. The trail starts on Woodhouse Moor next to the statue of Henry Rowland Marsden, the Mayor of Leeds for 1873 to 1875. You then follow roads to Woodhouse Ridge where you follow the path through mature woodland with wild garlic, wood anemone and bluebells to look out for. The path continues along the pretty Meanwood Beck to Meanwood Park. The trail passes right through the 72 acre park with its lovely rhododendrons and azaleas. It's a delightful area with the beck meandering through the park dotted with stone bridges and surrounded by attractive oak and hazel woodland. The next section takes you along Adel Beck and through Adel Woods. Look out for common lizards and the 19th century carved water spout known as the 'Slabbering Baby'. The final section takes you past Headingley Golf Course before finishing at Golden Acre Park. The popular country park consists of beautiful gardens, a lake, streams, ponds, woodland and the Breary Marsh Nature Reserve. The trail follows the route of the Dales Way so you can continue along this path to extend your walk. If you follow if west it will take you into Horsforth. Near the end of the route the trail meets with the Leeds Country Way. You can follow this to the nearby Eccup Reservoir and enjoy a waterside walk around the lake.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the route you could reward yourself with refreshments at the on site cafe in Golden Acre Park. There's a nice outdoor seating area where you can relax on a fine day and enjoy the views of the park. There's also a decent cafe in Meanwood Park if you get hungry before! A short distance north east of the park you'll find the New Inn. The friendly pub does really good food and has a cosy fire indoors. Outdoors there's a large garen area to relax in on warmer days. To reach the pub just head past Thorn Bush Farm at the north western corner of the nearby Eccup Reservoir. The pub is located on Eccup Lane with a postcode of LS16 8AU for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lLjfMr-LQCU",
   "district": "Leeds",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:01:19.190132+00:00",
   "objectID": "086c4c2feeabd9fd6d6aa3093a88a659",
-  "created_at": "2024-12-18T22:58:17.356488+00:00",
   "ref": "loch-ardinning-walking-route",
   "title": "Loch Ardinning Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Loch_Ardinning_-_geograph.org.uk_-_2097870.jpg",
@@ -70,10 +70,17 @@
   ],
   "distance_km": 1.8,
   "description": "This walk visits Loch Ardinning in Stirling. This pretty loch is a pleasant place for a stroll with some east footpaths and lovely views across the water. The loch is managed by the Scottish Wildlife trust and is a great place for flora and fauna. Look out for woodpeckers and black grouse plus various butterflies fluttering around the reserve's wildflowers. You can start your walk at the parking area at the western end of the loch and then follow paths east along the northern shore.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend your walking in the area by heading south west to visit Mugdock Country Park. Here you can enjoy trails along Milngavie Reservoir, Dumbrock Loch, through Mugdock Wood, along Allander Water and past Mugdock Loch. The epic West Highland Way also starts in Milngavie. You could pick up the waymarked trail and follow it north to Craigallian Loch and Carbeth Loch on the Milngavie to Drymen Walk. To the north, in Strathblane, you can pick up the Strathkelvin Railway Path. This shared cycling and walking trail will take you towards Gartcosh via Kirkintilloch, with fine views of the Campsie Fells. To the south are the tranquil waters of Bardowie Loch. To the north west there's the interesting Burncrooks Reservoir Walk which visits the unusual narrow rocky chasm at the Whangie before heading to the pretty reservoir. Near here there's something of a hidden gem at the Devil's Pulpit in Finnich Glen. There's a wonderful deep sandstone gorge and rushing waterfall to see in this geologically fascinating area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rev66lwizOo",
   "postcode": "G63 9ET",
   "district": "Strathblane",
   "county": "Stirling",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

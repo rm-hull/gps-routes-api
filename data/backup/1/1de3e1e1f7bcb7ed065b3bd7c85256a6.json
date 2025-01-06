@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:40:54.479505+00:00",
   "objectID": "1de3e1e1f7bcb7ed065b3bd7c85256a6",
-  "created_at": "2024-12-18T00:34:04.210054+00:00",
   "ref": "havering-country-park-walking-route",
   "title": "Havering Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Havering_Country_Park_5.JPG/512px-Havering_Country_Park_5.JPG",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 2.5,
   "description": "Follow footpaths through the woodland and grassland of this country park in the London Borough of Havering. The centrepiece of the park is an impressive avenue of Giant Redwoods. There's over 100 acres to explore with nice wide trails to follow. If you would like to continue your walk you could pick up the London Loop and follow it to the nearby Hainault Forest Country Park .",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In nearby Ilford there's Fairlop Waters Country Park to visit. It's another popular site with a series of lakeside trails and a photogenic boulder park to explore."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/he-zhcOvn18",
   "postcode": "RM4 1QP",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:14:37.364383+00:00",
   "objectID": "84c96a947b0ec9f8f373b7a6b32e7c77",
-  "created_at": "2024-12-18T11:37:36.822631+00:00",
   "ref": "hamble-common-walking-route",
   "title": "Hamble Walks - Hamble Common Circular",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hamble_Common_-_geograph.org.uk_-_150636.jpg",
@@ -75,9 +75,24 @@
   ],
   "distance_km": 2.0,
   "description": "This walk takes you around an area of common land in Hamble-le-Rice in Hampshire. The common has a waymarked trail to follow to ponds, heathland, oak woodland, meadow, salt-marsh, mudflats and a shingle beach on the River Hamble. It's great for flora and fauna with purple moor-grass, rhododendrons and gorse. Look out for birds such as oystercatchers, turnstones, herons and ringed plovers around the mudflats and the creek.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to the King and Queen for some post walk refreshments. They do good home made food and have a nice garden area for warmer days. You can find them on the High Street with a postcode of SO31 4HA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is an ideal place for dog walking so you'll probably see other owners on your visit. The King and Queen pub mentioned above is also dog friendly and will provide water bowls."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Strawberry Trail and the Solent Way both pass the common so you could pick up these trails to extend your walk. Head west and you can visit Royal Victoria Country Park. If you cross the river on the ferry you could visit Warsash and try the River Hamble Walk. This takes you from the mouth of the river to Lower Swanick. The alternative Warsash Walk heads in the opposite direction to visit Hook Lake and the nearby Titchfield Haven. This lovely nature reserve is one of the highlights of the area with an abundance of wildlife and views of the River Meon. In nearby Gosport and Lee on Solent there's also Alver Valley Country Park to visit. The 500 acre park has some nice trails along the River Alver, another wildlife rich nature reserve, a cafe and cycle paths. For more walking ideas in the area see the Hampshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/V07nEATwkdw",
   "postcode": "SO31 4JD",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

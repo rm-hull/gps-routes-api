@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:04:09.012660+00:00",
   "objectID": "7cddf4a70b1b8aec10ab6834f055f78f",
-  "created_at": "2024-12-18T12:56:22.299091+00:00",
   "ref": "loch-clunie-walking-route",
   "title": "Loch Clunie Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Loch_of_Clunie_-_geograph.org.uk_-_870171.jpg",
@@ -19,6 +19,16 @@
       "description": "Blairgowrie",
       "objectID": "54ccf79903e0e62b9bb25421d83a6997",
       "ref": "blairgowrie-walking-route"
+    },
+    {
+      "description": "Birnam Hill",
+      "objectID": "ddf3ac06805d317f9f38d2b061286b71",
+      "ref": "birnam-hill-walking-route"
+    },
+    {
+      "description": "Birnam Oak",
+      "objectID": "1e410d87bdb55a86d39c81b9c81e6337",
+      "ref": "birnam-oak-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7cddf4a70b1b8aec10ab6834f055f78f.gpx",
@@ -50,8 +60,15 @@
   ],
   "distance_km": 1.4,
   "description": "This walk visits Loch Clunie near Blairgowrie in Perth and Kinross. You can follow paths along the tranquil loch and enjoy fine views across the water. On the western side of the freshwater loch there's also the remains of Clunie Castle. The loch is popular with paddle boarders and kayakers but the area is a nice place for an easy stroll too.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend your lochside walking in the area by heading west to visit Loch of the Lowes, Loch of Butterstone and Loch of Craiglush. The three lochs are also positioned next to each other just east of Dunkeld. It's also a wildlife reserve with nesting ospreys to look out for. In Dunkeld there's also the The Hermitage Woodland Walk. Here you'll find magnificent giant Douglas fir trees, the spectacular Black Linn Falls and views of the River Braan. You can also try the Tay Forest Park Walk which starts from the car park and heads north through the woodland of Craigvinean Forest. The climb to Birnam Hill can also be found just south of Dunkeld. There are some excellent views from this fine vantage point. Heading east along the river from the town will take you to the famous Birnam Oak, an ancient tree mentioned in Shakespeare\u2019s Macbeth. A few miles to the north west is the tranquil Loch Ordie in the Forest of Clunie. To the east there's the Loch of Drumellie and and Blairgowrie where you can pick up the epic Cateran Trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/7y9zBuSes5w",
   "county": "Perth and Kinross",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

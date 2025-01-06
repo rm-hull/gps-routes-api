@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:49:58.038362+00:00",
   "objectID": "7ec416ce4ff564093cda27f7ca494c8a",
-  "created_at": "2024-12-18T01:11:57.510633+00:00",
   "ref": "ladock-woods-walking-route",
   "title": "Ladock Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/A_Well_Tended_Footpath_to_Ladock_Wood_-_geograph.org.uk_-_194443.jpg",
@@ -85,8 +85,19 @@
   ],
   "distance_km": 5.0,
   "description": "This walk visits Ladock Woods, in the Cornish village of Ladock, near Truro. You can start the walk from the parking area on the western side of the woods, just to the north west of Ladock village. From here you can head east onto one of the many shady trails that criss cross the woods. It's a peaceful and serene place for a stroll with generally not many other visitors. After exploring the woods head a short distance south to visit Ladock village where you can enjoy views of the Tresillian River and enjoy a drink at the local pub.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village you can stop off for some refreshment at the Falmouth Arms. The historic 17th Century coaching Inn serves good quality dishes and a good range of ales. You can find them at postcode TR2 4PG for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head into nearby Truro and you could enjoy some pleasant riverside walks and visit the lovely Trelissick House and Gardens. The site is a splendid place for walking with a 300-acre estate to explore. There's beautiful gardens, peaceful woodland trails and fine views of the River Fal estuary to enjoy here. A few miles to the north there's the Goss Moor Trail which will take you around a wildlife rich nature reserve."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/rQf9IjXX82A",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

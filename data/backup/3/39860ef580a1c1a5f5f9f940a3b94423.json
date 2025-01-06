@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:13:38.994847+00:00",
   "objectID": "39860ef580a1c1a5f5f9f940a3b94423",
-  "created_at": "2024-12-20T06:54:25.724493+00:00",
   "ref": "stanton-country-park-walking-route",
   "title": "Stanton Country Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Footpath_to_Stanton_Fitzwarren%2C_Swindon_-_geograph.org.uk_-_1526485.jpg",
@@ -95,9 +95,20 @@
   ],
   "distance_km": 6.5,
   "description": "Explore this 74-hectare country park and Local Nature Reserve located near Swindon. Here you will find a lake, woodland, grassland, a ranger centre and an abundance of wildlife. The route takes you around the lake, past Stanton Park Farm and into the surrounding countryside before returning to the start point at Stanton Fitzwarren village.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a popular place for dog walkers with the woodland and parkland trails ideal for your pet."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north you could pick up the Highworth Walk where you can visit the 17th century Hannington Hall and enjoy the Georgian architecture in the pleasant market town of Highworth. For more walking ideas in the area see the Wiltshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NsGkB06r9ME",
   "district": "Stanton Fitzwarren",
   "county": "Swindon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

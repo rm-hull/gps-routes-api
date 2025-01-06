@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:01:01.672979+00:00",
   "objectID": "f6a372e00bf442cf93d3e2d818b0b0ee",
-  "created_at": "2024-12-21T19:47:39.690153+00:00",
   "ref": "loch-morie-walking-route",
   "title": "Loch Morie Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Loch_Morie_-_geograph.org.uk_-_768885.jpg?20110219185058",
@@ -41,7 +41,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Alluvial_fan%2C_Loch_Morie_-_geograph.org.uk_-_901001.jpg?20110221184632",
       "title": "Richard Webb / Alluvial fan, Loch Morie",
-      "caption": "Alluvial fan.  Loch Morie has not had its level raised, and has a natural shoreline. A view of the alluvial fan laid down by the Abhainn Toll a' Choin as it enters the loch. The land is good for agriculture and is now used to graze the estate's ponies."
+      "caption": "Alluvial fan. Loch Morie has not had its level raised, and has a natural shoreline. A view of the alluvial fan laid down by the Abhainn Toll a' Choin as it enters the loch. The land is good for agriculture and is now used to graze the estate's ponies."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Loch_Morie_-_geograph.org.uk_-_888549.jpg?20110221124836",
@@ -56,5 +56,12 @@
   ],
   "distance_km": 16.3,
   "description": "This walk visits the picturesque Loch Morie in the Scottish Highlands. It's a lovely peaceful place with a well marked and easy to follow track. You can start the walk from the country lane at Bouth where you can pick up the Loch Morie Track. Follow it north west and it will take you to the loch where there's a trail running along the western side of the lake. From here you can enjoy splendid views across the water to the surrounding forest and mountains. To continue your walking in the area head west to visit Loch Glass .",
-  "video_url": "https://www.youtube.com/embed/zEuBKOKyRfQ?si=oHKFNNY3behC8NTb"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To the south west there's Rogie Falls and Loch Achilty to explore. To the south there's the town of Dingwall where you can enjoy a walk along the old Dingwall Canal. It's a nice easy waterside walk with splendid views over the Cromarty Firth at the coastal end. Also nearby is the village of Strathpeffer where you can enjoy a circular walk to the ancient rocks at the Touchstone Maze, the splendid Cat's Back Ridge and the picturesque Loch Ussie. For more walking ideas in the area see the Scottish Highlands Walks page."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/zEuBKOKyRfQ?si=oHKFNNY3behC8NTb",
+  "gazetteer_found": false
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:36:24.363793+00:00",
   "objectID": "04c0ce8bd424827505e4de27b2f3142c",
-  "created_at": "2024-12-18T17:13:07.179588+00:00",
   "ref": "bedale-walking-route",
   "title": "Bedale Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bedale_%27harbour%27_-_geograph.org.uk_-_636632.jpg",
@@ -13,7 +13,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bedale_%27harbour%27_-_geograph.org.uk_-_636632.jpg",
       "title": "Gordon Hatton [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
-      "caption": "Bedale Harbour.  A canal basin was constructed here in the 18th century with strong harbour walls and iron mooring rings [visible in photo] as part of a grand scheme to link Bedale with the Rivers Swale, Ure and Ouse. The project ran out of money and was never completed, but Bedale was left with its 'harbour' and a straightened section of Bedale Beck. See also photos of other sites associated with this scheme at SE3976 and SE4382."
+      "caption": "Bedale Harbour. A canal basin was constructed here in the 18th century with strong harbour walls and iron mooring rings [visible in photo] as part of a grand scheme to link Bedale with the Rivers Swale, Ure and Ouse. The project ran out of money and was never completed, but Bedale was left with its 'harbour' and a straightened section of Bedale Beck. See also photos of other sites associated with this scheme at SE3976 and SE4382."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Bedale_Medicinal_Leech_House%2C_North_Yorkshire_-_the_view_from_the_Bedale_Beck_Bridge.jpg/512px-Bedale_Medicinal_Leech_House%2C_North_Yorkshire_-_the_view_from_the_Bedale_Beck_Bridge.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 5.0,
   "description": "Enjoy a walk along the pretty Bedale Beck on this easy beckside walk in North Yorkshire. The beck includes a pretty harbour, a waterfall and pleasant tree lined footpaths. It's a nice place for a peaceful afternoon stroll. After visiting the beck you can stroll around the town and visit a unique 18th century Leech House, the 14th century Grade I listed market cross and numerous Georgian buildings. The town is also on the Wensleydale Heritage Railway which you can catch to Scruton, Leyburn and Redmire. Bedale is located just a couple of miles north of Thorp Perrow Arboretum. The beautiful woods have a series of nice trails and a seplndid collection of rare trees and plants from China, Japan, North America, Chile, and Europe. A little further on is the town of Masham where there are good footpaths along the River Ure and River Burn. You can also pick up the long distance Ripon Rowel here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head to to the Green Dragon for some post walk refreshments. The inn is housed in a Georgian building and includes a beer garden to the rear. They have a fine selection of ales and serve good quality home cooked food. You can find them on the Market Place at postcode DL8 1EQ for your sat navs. A few hundred yards away, the Wensleydale Railway's Bedale station offers regular heritage trains along the picturesque dale."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The waterside footpath makes for a fine dog walk. The Green Dragon mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south west of the settlement you'll find one of the historic highlights of the area at Jervaulx Abbey. The 12th century ruined abbey is surrounded by 126 acres of attractive parkland with wildflowers, grazing sheep, a pretty pond and fine views of the surrounding North Yorkshire countryside. Just to the north of here you'll also find the picturesque Thornton Steward Reservoir where there's a peaceful waterside trail. For more walking ideas in the area see the Yorkshire Dales Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RQMgcX2qrLo",
   "district": "Bedale",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

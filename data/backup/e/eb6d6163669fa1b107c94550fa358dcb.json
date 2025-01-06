@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:27:37.410841+00:00",
   "objectID": "eb6d6163669fa1b107c94550fa358dcb",
-  "created_at": "2024-12-18T11:23:43.641124+00:00",
   "ref": "upper-ceiriog-trail-walking-and-cycle-route",
   "title": "Upper Ceiriog Valley Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Upper_Ceiriog_Way_-_geograph.org.uk_-_281751.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 22.0,
   "description": "This is a circular cycling or walking trail through the countryside around Llanarmon Dyffryn Ceiriog near Wrexham. The trail takes you on a tour of the beautiful Ceiriog Valley with views of the River Ceiriog, rolling hill scenery, rushing waterfalls and a visit to the village of Pandy. For cyclists a mountain bike is advised as the trail is quite rugged in sections.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Llanarmon Dyffryn Ceiriog you could enjoy a pit stop at the noteworthy West Arms. The pub dates back to the 15th century and has a fine interior with low ceilings, natural slate floors and roaring inglenook fires. They serve high quality dishes in their award winning restaurant. You can find them at postcode LL20 7LD for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To explore the valley further you can pick up the Llwybr Ceiriog Trail which explores the area to the east of this trail. It is coincident with this trail around the village of Pandy. The Llanarmon Dyffryn Ceiriog Walk uses the trail to create a circular walk through the area."
+    }
+  ],
   "postcode": "LL20 7LD",
   "district": "Llanarmon Dyffryn Ceiriog",
   "county": "Wrecsam - Wrexham",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

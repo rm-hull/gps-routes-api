@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:51:49.306046+00:00",
   "objectID": "1ebe321cc7fc54305e25f3f9a9b180d6",
-  "created_at": "2024-12-19T09:28:27.422885+00:00",
   "ref": "rushcliffe-country-park-walking-and-cycle-route",
   "title": "Rushcliffe Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rail_Heritage_Centre%2C_Rushcliffe_Country_Park_-_geograph.org.uk_-_55392.jpg",
@@ -49,16 +49,31 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Golden_trees_in_a_brown_autumn_meadow_-_geograph.org.uk_-_55402.jpg",
-      "title": "Peter Shone / Golden trees in  a brown autumn meadow",
+      "title": "Peter Shone / Golden trees in a brown autumn meadow",
       "caption": "Golden trees in a brown autumn meadow. These immature laburnum trees are growing in the wildflower meadow in the country park. This picture is taken from approximately SK 567 320 looking North, the low hill in the background is the highest point in the park's rolling open countryside. The footpaths around the park are popular at lunch time with the workers from the nearby business park."
     }
   ],
   "distance_km": 3.0,
   "description": "Explore over 200 acres of cycling and walking trails in this popular country park in Ruddington near Nottingham. In the park you will find wildflower meadows, grassland, conservation and landscaped areas. There is also a 2 hectare lake where you can see mute swans, great crested grebes and various duck species. Also look out for skylarks, finches, cuckoos, kestrels, sparrow hawks, reed buntings, reed warblers and sedge warblers.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a decent on site cafe selling a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great for dog walking and includes a Dog Agility Area. It's a fenced area with various obstacles and activities to entertain your dog."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of the park you could pay a visit to the interesting villages of East and West Leake. Here you could pick up the circular East Leake Walk and explore the countryside and woodland surrounding the villages. East Leake also has a noteworthy 11th century church and the lovely Manor Farm set in 25 acres of woodland and parkland. It's one of the highlights of the area with a variety of animal breeds including donkeys, rabbits, guinea pigs, rats, lizards, snakes, parrots and axolotls. Head north into the city and you can enjoy some lovely waterside trails on the Nottingham Canal Walk, the Nottingham Circular Walk and the Beeston Canal Walk. For more walking ideas in the area see the Nottinghamshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Cll5aYbLPEk",
   "postcode": "NG11 6HT",
   "district": "Ruddington",
   "county": "Nottinghamshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

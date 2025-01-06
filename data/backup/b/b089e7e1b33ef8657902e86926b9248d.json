@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:54:53.342343+00:00",
   "objectID": "b089e7e1b33ef8657902e86926b9248d",
-  "created_at": "2024-12-18T18:35:57.219421+00:00",
   "ref": "ramsbury-walking-route",
   "title": "Ramsbury Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ramsbury%2C_Oxford_Street_-_geograph.org.uk_-_1529749.jpg",
@@ -115,10 +115,25 @@
   ],
   "distance_km": 9.0,
   "description": "This walk from the Wiltshire village of Ramsbury takes you along the River Kennet to the neighbouring village of Axford. You'll pass through Ramsbury Manor Park where there's woodland trails, a pretty lake and nice views of the countryside of the River Kennet valley. The village itself is very pretty with idyllic cottages and a fine old pub to relax in after your exercise. You can extend the walk by continuing west along the River to Mildenhall and Marlborough .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village The Bell is a good choice for some post walk refreshment. The former coaching inn has some history, dating back 300 years and with some fine old oak beams inside. They serve high quality dishes with produce from their own kitchen garden. They also have a nice garden area for warmer days. You can find them on the Square at postcode SN8 2PE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails on the Ramsbury Estate make for a fine dog walk. The Bell mentioned above is also very dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The expansive Savernake Forest is located near the village. There's miles of good walking and cycling trails here to explore. The little village of Chilton Foliat lies just to the east. It's a lovely place for a stroll with several pretty thatched cottages, wildlife rich marshland and nice views of the River Kennet which runs through the settlement. Near here you can also visit Littlecote House, another of the area's highlights. The house dates from the mid 16th century and is surrounded by beautiful parkland and gardens. There's also a wonderful ancient Roman mosaic and the opportunity to enjoy afternoon tea at the historic house which is now run as an hotel. For more walking ideas in the area see the North Wessex Downs Walks and the Wiltshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/lmPLCxVFeF4",
   "postcode": "SN8 2PN",
   "district": "Ramsbury",
   "county": "Wiltshire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

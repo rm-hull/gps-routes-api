@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:42:05.132069+00:00",
   "objectID": "f2197bc468ce8c06890e2e8cbeaa3734",
-  "created_at": "2024-12-21T16:34:34.896268+00:00",
   "ref": "portglenone-fishermans-walk-walking-route",
   "title": "Portglenone Fisherman's Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/The_River_Bann_at_Portglenone_-_geograph.org.uk_-_279719.jpg",
@@ -19,6 +19,16 @@
       "description": "Garvagh Forest",
       "objectID": "556090b15a5fb7c2d751177553c68f0a",
       "ref": "garvagh-forest-walking-route"
+    },
+    {
+      "description": "Toome Canal",
+      "objectID": "b668018e50a0f50bac5588ff9a885129",
+      "ref": "toome-canal-walking-and-cycle-route"
+    },
+    {
+      "description": "Ballyronan Wood",
+      "objectID": "a8530080603954617e8cfe8b75879c3a",
+      "ref": "ballyronan\u00a0wood-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/f/f2197bc468ce8c06890e2e8cbeaa3734.gpx",
@@ -45,12 +55,12 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/The_River_Bann%2C_Portglenone_-_geograph.org.uk_-_2703932.jpg",
-      "title": "The River Bann, Portglenone by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The River Bann, Portglenone by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The River Bann bridge, Portglenone"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Forest_walk%2C_Glenone_Forest_-_geograph.org.uk_-_2703847.jpg",
-      "title": "Forest walk, Glenone Forest by Kenneth  Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Forest walk, Glenone Forest by Kenneth Allen, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Forest walk, Glenone Forest"
     },
     {
@@ -61,5 +71,12 @@
   ],
   "distance_km": 6.0,
   "description": "This route takes you along the Fisherman's Walk in the village of Portglenone, County Antrim. The popular riverside trail runs along the River Bann where you can often see fishermen relaxing at their leisurely pursuit. Along the way their are benches where you can sit and enjoy the tranquil scene. The walk includes an optional detour into Glenone Forest which sits beside the trail on the western side. You can continue your walking in the area on the other side of the river in Portglenone Forest. There's some nice peaceful trails and lots of spring bluebells to enjoy in this small area of woodland.",
-  "video_url": "https://www.youtube.com/embed/tlPXS2q9sKk"
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you can enjoy a climb to Slemish Mountain in the Antrim Coast and Glens AONB. The challenging walk will take you to a splendid viewpoint with views over Antrim, the Scottish coast, Ballymena town, Lough Neagh and the Sperrin Mountains. To the north west there's Garvagh Forest where there's some popular mountain bike trails, peaceful walks and an unusual folly in the shape of a pyramid. To the south you'll find a pleasant waterside cycling and walking path along the Toome Canal. The canalside path leads down to Lough Neagh with some fine views over the expansive lake. Near here there's also the peaceful woodland trails at Ballyronan Wood."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/tlPXS2q9sKk",
+  "gazetteer_found": false
 }

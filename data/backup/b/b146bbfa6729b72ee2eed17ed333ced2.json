@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:31:38.046235+00:00",
   "objectID": "b146bbfa6729b72ee2eed17ed333ced2",
-  "created_at": "2024-12-18T23:29:23.595387+00:00",
   "ref": "rising-sun-country-park-walking-and-cycle-route",
   "title": "Rising Sun Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Autumn_colours_in_the_Rising_Sun_Country_Park_-_geograph.org.uk_-_584788.jpg",
@@ -59,10 +59,25 @@
     }
   ],
   "distance_km": 5.5,
-  "description": "Explore 400 acres of parkland on this lovely cycle or walk in Newcastle.  There is an extensive network of footpaths and bridleways suitable for walkers and cyclists. The park is made up of various habitats including grassland, woodland, ponds, wetlands and a lake designated as a Local Nature Reserve. There is also a bird hide overlooking the Swallow Pond and an excellent Visitors' Centre with a Restaurant and Exhibition Room.",
+  "description": "Explore 400 acres of parkland on this lovely cycle or walk in Newcastle. There is an extensive network of footpaths and bridleways suitable for walkers and cyclists. The park is made up of various habitats including grassland, woodland, ponds, wetlands and a lake designated as a Local Nature Reserve. There is also a bird hide overlooking the Swallow Pond and an excellent Visitors' Centre with a Restaurant and Exhibition Room.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe selling a range of meals and snacks. There's ample seating outside so you can enjoy your meal with a view of the park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a very nice place to bring your dog for a walk. You're bound to bump into plenty of other dogs with their owners on a fine day. The on site cafe is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south of the park you can pick up the epic Hadrian's Wall Path at Wallsend. The waymarked trail will take you west along the Tyne River to Newcastle and Gateshead. Here you can visit another local country park in the shape of Watergate Forest Park where there's some nice woodland trails and a pretty lake."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Dv9qNRQ6vHo",
   "postcode": "NE28 9YW",
   "district": "Wallsend",
   "region": "North East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

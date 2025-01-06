@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:30:28.890030+00:00",
   "objectID": "c3612f8295ffacfc3403d7c03d380a6e",
-  "created_at": "2024-12-18T22:12:59.295616+00:00",
   "ref": "doddington-hall-walking-and-cycle-route",
   "title": "Doddington Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Doddington_Hall_-_geograph.org.uk_-_820943.jpg",
@@ -75,9 +75,20 @@
   ],
   "distance_km": 3.0,
   "description": "This walk explores the estate of the Elizabethan manor house of Doddington Hall, near Skellingthorpe and the city of Lincoln in North Lincolnshire. For a fee you can gain entry to the hall and its surrounding gardens. The grounds also include a number of shops and cafes including a farm shop and bike shop. Here you can find out details about the off road cycle track which is located on the southern side of the site at Pickworths Wood. This walk follows a circular public footpath around the hall estate for a distance of about 2 miles. This will take you past Strunch Hill Wood, Old Hag Wood and the village of Doddington. There's some nice countryside views to enjoy along the way.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The estate is dog friendly and a fine place to explore with your pet. Water bowls can be found at the on site cafe. Dogs are not allowed in the Hall, Gardens, Farm Shop, Cafe or Tea Room (assistance dogs only)."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Hartsholme Country Park and the Whisby Nature Park are both located close to the hall. They are both great places to extend your walk if you have time. Just to the east you could pick up the Fossdyke Canal and enjoy a pleasant waterside walk into the city of Lincoln. The old canal path will take you into the city where you could visit the iconic Lincoln Cathedral and historic Lincoln Castle."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/OqJEMwJbL4E",
   "district": "Doddington",
   "county": "Lincolnshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

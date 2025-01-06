@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:32:43.096054+00:00",
   "objectID": "d852df9393721ead4e75f9394a5b37b1",
-  "created_at": "2024-12-20T20:31:02.406114+00:00",
   "ref": "reculver-country-park-walking-and-cycle-route",
   "title": "Reculver Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/St_Mary%27s_Church%2C_Reculver_-_geograph.org.uk_-_1470805.jpg",
@@ -64,11 +64,22 @@
     }
   ],
   "distance_km": 6.0,
-  "description": "This country park is located on the Kent coast at Reculver. The cliff top views over Herne Bay are fantastic with a wide variety of wildlife and plantlife to see. The Reculver Towers are also located in the park. They are an important local landmark and are listed as a Scheduled Ancient Monument. The park also includes the Bishopstones Nature Reserve where you can look out for wildlife including Sand martins,  skylarks, meadow pipits and corn buntings. The route below is designed for walkers as it takes you along footpaths around the park but there is a cycle route running right through the park. The park is located just a few miles from Herne Bay so you could visit the park by following the coast path on our Herne Bay to Reculver Walk or head to the delightful coastal town of Whitstable on our Whitstable to Herne Bay Walk .",
+  "description": "This country park is located on the Kent coast at Reculver. The cliff top views over Herne Bay are fantastic with a wide variety of wildlife and plantlife to see. The Reculver Towers are also located in the park. They are an important local landmark and are listed as a Scheduled Ancient Monument. The park also includes the Bishopstones Nature Reserve where you can look out for wildlife including Sand martins, skylarks, meadow pipits and corn buntings. The route below is designed for walkers as it takes you along footpaths around the park but there is a cycle route running right through the park. The park is located just a few miles from Herne Bay so you could visit the park by following the coast path on our Herne Bay to Reculver Walk or head to the delightful coastal town of Whitstable on our Whitstable to Herne Bay Walk .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe selling drinks and snacks. You could also visit The King Ethelbert Inn which is right next to the park."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is very popular with dog walkers so you'll probably see other owners on your visit. The King Ethelbert mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/eb8_2SosTAs",
   "postcode": "CT6 6SX",
   "district": "Reculver",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

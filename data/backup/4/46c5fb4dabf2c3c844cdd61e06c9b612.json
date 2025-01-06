@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:11:18.390031+00:00",
   "objectID": "46c5fb4dabf2c3c844cdd61e06c9b612",
-  "created_at": "2024-12-18T21:54:51.356874+00:00",
   "ref": "viking-way-circular-walk-walking-route",
   "title": "Viking Way Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/The_Viking_Way_footpath_near_Woodhall_Spa_-_geograph.org.uk_-_434340.jpg",
@@ -79,10 +79,21 @@
     }
   ],
   "distance_km": 18.0,
-  "description": "This route uses a section of the Viking Way and the Water Rail Way to create a circular walk around the Lincolnshire Wolds town of Woodhall Spa. On the route there's some lovely fenland scenery and waterside walking along the River Witham to enjoy. The walk starts in the town and follows the trail west and then north to the village of Stixwould. You continue north east along Duckpool Lane before turning west to visit Southrey.  Here you pick up the Water Rail Way, a shared cycling and walking trail running along a dismantled railway line. The trail willl take you south east along the river to Woodhall Spa.",
+  "description": "This route uses a section of the Viking Way and the Water Rail Way to create a circular walk around the Lincolnshire Wolds town of Woodhall Spa. On the route there's some lovely fenland scenery and waterside walking along the River Witham to enjoy. The walk starts in the town and follows the trail west and then north to the village of Stixwould. You continue north east along Duckpool Lane before turning west to visit Southrey. Here you pick up the Water Rail Way, a shared cycling and walking trail running along a dismantled railway line. The trail willl take you south east along the river to Woodhall Spa.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in Woodhall Spa The Abbey Lodge Inn is a good choice for some post walk refreshments. The olde worlde style pub has a cosy interior with roaring fires. It's a friendly place with a good menu and selection of ales. You can find it just to the south of the village on Tattershall Road at a postcode of LN10 6UQ."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can extend your walk by continuing south along the river to visit Tattershall Lakes. There's more nice waterside walks here and the historic Tattershall Castle. For more walking ideas in the area see the Lincolnshire Walks page."
+    }
+  ],
   "postcode": "LN10 6QJ",
   "district": "Woodhall Spa",
   "county": "Lincolnshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

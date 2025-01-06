@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:22:24.073185+00:00",
   "objectID": "d3a0c232a89c76eac8bb40ab7a69c253",
-  "created_at": "2024-12-18T12:57:50.127478+00:00",
   "ref": "great-notley-country-park-walking-and-cycle-route",
   "title": "Great Notley Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Lakes%2C_Great_Notley_Country_Park_-_geograph.org.uk_-_662885.jpg",
@@ -75,10 +75,25 @@
   ],
   "distance_km": 5.0,
   "description": "A short walk or cycle around the 100 acre Great Notley Country Park in Braintree, Essex. The park is a mixture of wetland and open grassland with views of the Essex Countryside. Cycle hire is available within the park and there is also a cafe for refreshments. Great Notley is located a couple of miles south west of Braintree. The Flitch Way passes just to the north of the park. This shared cycling and walking trail runs along a disused railway line to Bishop's Stortford via Great Dunmow .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The on site Skylark caf\u00e9 serves a good range of meals and snacks. There is indoor and outdoor seating. If you fancy a pub lunch head into Great Notley village where you could visit the Prince Louis. It's located in a nice spot on Notley Green at postcode CM77 7US. They serve good food and have a pleasant large garden to relax in."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a great place for dog walking with miles of trails and off lead area. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area try our Braintree Walk. This takes you along the River Blackwater and up to the windmill at Bocking."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/iZHbEIGUnHw",
   "postcode": "CM77 7AU",
   "district": "Great Notley",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

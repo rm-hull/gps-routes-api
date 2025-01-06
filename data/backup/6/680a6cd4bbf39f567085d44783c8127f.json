@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:35:45.159242+00:00",
   "objectID": "680a6cd4bbf39f567085d44783c8127f",
-  "created_at": "2024-12-18T10:32:04.676810+00:00",
   "ref": "much-hadham-walking-route",
   "title": "Much Hadham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Timberclad_building%2C_High_Street%2C_Much_Hadham%2C_Hertfordshire_-_geograph.org.uk_-_144786.jpg",
@@ -90,10 +90,21 @@
   ],
   "distance_km": 4.0,
   "description": "This attractive Hertfordshire based settlement is well worth a visit. It's full of photogenic listed buildings and has been awarded Best Kept Village in Hertfordshire on several occasions. This circular walk explores the area around the village using part of the Hertfordshire Way. You'll head along the attractive High Street where there are a number of historic timber framed buildings to see. The route then heads past Sidehill Wood and the River Ash before heading along footpaths to the east of the settlement.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Bull Inn is a good choice for some post walk refreshment. They serve good quality food and have a nice garden area to relax in. You can find them on the High Street at postcode SG10 6BU for your sat navs. The pub is also dog friendly if you have your canine friend with you."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head east and you could pick up the Bishop's Stortford Canal and River Walk which takes you along the River Stort Navigation canal towards Harlow. Also nearby there's the interesting village of Stansted Mountfitchet. The village includes a number of interesting local attractions including a church dating from the 12th-13th century, an 18th century windmill and a toy museum which claims to be the largest in the world. There's also the noteworthy Mountfitchet Castle which is now run as a wonderful Living History Museum where you can experience life as a villager in 1066. To the north west is Buntingford where there are number of historic timber framed buildings and the impressive, 19th century Aspenden Hall to see. For more walking ideas in the area see the Hertfordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/VUQUvjWsjeI",
   "postcode": "SG10 6DA",
   "district": "Much Hadham",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

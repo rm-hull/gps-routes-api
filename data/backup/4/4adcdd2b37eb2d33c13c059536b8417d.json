@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:19:02.376915+00:00",
   "objectID": "4adcdd2b37eb2d33c13c059536b8417d",
-  "created_at": "2024-12-21T20:13:15.903438+00:00",
   "ref": "brecon-beacons-way-walking-route",
   "title": "Brecon Beacons Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/The_Brecon_Beacons_Way%2C_near_Hay_Bluff_-_geograph.org.uk_-_1075245.jpg",
@@ -95,10 +95,16 @@
   ],
   "distance_km": 158.0,
   "description": "Follow the Beacons Way through the centre of the stunning Brecon Beacons National Park. The walk begins at Abergavenny and follows the trail through the park to Llangadog. On the way you will pass some of the most breathtaking scenery in the UK with marvellous views of Sugarloaf Mountain, Skirrid Fawr, Llanthony Priory, The Black Mountains, Talybont Reservoir, Llyn y Fan Fach, Table Mountain, Pen Cerrig Calch and Pen Y Fan - the highest peak in South Wales and southern Britain. The walk is waymarked with a black and white disc.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the pretty Powys village of Llangynidr you could enjoy a pit stop at the Coach and Horses. This fine old coaching inn has an appealing interior with old beams, oak panelling and flagstone floors. Outside there's a peaceful garden overlooking the canal with stunning views over the local countryside. It's a great place to relax on a summer day after your exercise. You can find them on Cwm Crawnon Road with a postcode of NP8 1LS."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Brecon Beacons Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/4nd4IS5270k",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4adcdd2b37eb2d33c13c059536b8417d.gpx",
-  "_geoloc": {
-    "lat": 51.8215200381,
-    "lng": -3.014238091
-  }
+  "gazetteer_found": false
 }

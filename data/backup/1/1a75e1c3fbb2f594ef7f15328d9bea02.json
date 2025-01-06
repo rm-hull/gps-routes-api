@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:01:46.813277+00:00",
   "objectID": "1a75e1c3fbb2f594ef7f15328d9bea02",
-  "created_at": "2024-12-18T14:02:58.314713+00:00",
   "ref": "cavenham-heath-walking-route",
   "title": "Cavenham Heath Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cavenham_Heath_National_Nature_Reserve_-_geograph.org.uk_-_889752.jpg",
@@ -49,7 +49,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Cavenham_Heath_National_Nature_Reserve_-_geograph.org.uk_-_889752.jpg",
-      "title": "Stuart Shepherd / Cavenham Heath  National Nature Reserve",
+      "title": "Stuart Shepherd / Cavenham Heath National Nature Reserve",
       "caption": "Cavenham Heath National Nature Reserve. The 'entrance' to Natural England's NNR on The Icknield Way Path - this section strictly speaking is in Tuddenham Heath."
     },
     {
@@ -70,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/10/River_Lark_west_of_Icklingham_-_geograph.org.uk_-_207123.jpg",
       "title": "Bob Jones / River Lark west of Icklingham",
-      "caption": "River Lark west of Icklingham. Looking downstream before Temple Bridge. You'll find this picturesque  scene on the eastern side of the heath."
+      "caption": "River Lark west of Icklingham. Looking downstream before Temple Bridge. You'll find this picturesque scene on the eastern side of the heath."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Through_the_Birch_-_geograph.org.uk_-_889756.jpg",
@@ -80,8 +80,19 @@
   ],
   "distance_km": 2.5,
   "description": "Enjoy a short stroll around this pretty nature reserve near Bury St Edmunds. The site includes heathland, riverside meadows, woodland, wet woodland scrub and small areas of fen. There's lots of wildlife to look out for including a good population of Britain's only poisonous snake, the adder. You can park at Temple Bridge to start your walk which follows part of the Icknield Way Path. Near to the reserve you can also pick up the Lark Valley Path and enjoy a riverside stroll along the River Lark. You could follow it west into the attractive market town of Mildenhall. Also nearby is King's Forest and the popular West Stow Country Park. On the southern side of the park there's also Lackford Lakes where there's a free car park, cafe and visitor centre. Birds visiting the lakes include kingfisher, great crested grebe and tufted duck.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The village of Tuddenham lies just to the west of the reserve. Here you could visit the historic Tuddenham Mill, an ancient watermill surrounded by 12 acres of gardens and Suffolk countryside. There is a high quality restaurant at the mill where you can enjoy some refreshment after exploring the heath. You can sit outside by the river in a very picturesque location. The Guiness Arms is an historic 16th Century coaching inn located in the pretty village of Icklingham. Outside the attractive thatched inn there are beautiful, landscaped gardens that roll down to the River Lark. The pub itself has a large conservatory style dining area, a smaller, more intimate dining area, two bars and eight bespoke rooms, which are in the barns adjacent to the pub. The conservatory style restaurant with outside terraces gives a wonderful setting in which to enjoy a fabulous meal. You can find them at postcode IP28 6PS. The pub is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the south is idyllic Moulton where you can enjoy views of the River Kennet, visit the fine 14th century church and photograph the splendid medieval Packhorse Bridge."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/P-FqGV27aWY",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

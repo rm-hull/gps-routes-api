@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:28:31.756902+00:00",
   "objectID": "0f4ae85e999427bc5e24f5738eb8e2d1",
-  "created_at": "2024-12-18T01:10:30.813824+00:00",
   "ref": "staffordshire-way-walking-route",
   "title": "Staffordshire Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Boathouse%2C_Blithfield_Reservoir_-_geograph.org.uk_-_231368.jpg",
@@ -90,7 +90,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/Hall_View_-_geograph.org.uk_-_1534308.jpg",
       "title": "Gordon Griffiths / Hall View",
-      "caption": "View of Shugborough Hall viewed from the Staffordshire Way. The  900 acre Shugborough Estate includes some fine footpaths taking you to the impressive mansion house and some delightful gardens."
+      "caption": "View of Shugborough Hall viewed from the Staffordshire Way. The 900 acre Shugborough Estate includes some fine footpaths taking you to the impressive mansion house and some delightful gardens."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Boathouse%2C_Blithfield_Reservoir_-_geograph.org.uk_-_231368.jpg",
@@ -100,9 +100,16 @@
   ],
   "distance_km": 153.0,
   "description": "Travel through Staffordshire, Cheshire, Derbyshire, Worcestershire and enjoy canals, lakes, country parks and a series of pretty towns and villages. Highlights on the walk include lovely views of the popular Blithfield Reservoir and the Caldon Canal. You'll also pass through the Cannock Chase Area of Outstanding Natural Beauty (AONB), the lovely Deep Hayes Country Park and the historic Shugborough Park with its river views and beautiful gardens.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Blithfield Reservoir you will pass the little village of Abbots Bromley. Here you'll find a few nice pubs where you can enjoy refreshments on your walk. The Crown is a good choice with a friendly atmosphere and a good menu. In the winter you'll find a nice cosy fire indoors while outside there's a nice garden area for warmer days. You can find it in the Market Place with a postcode of WS15 3BS for your sat navs. The Codsall Station Pub is located right next to the train station in this large village on the trail. The Grade II listed pub has been converted from the old station buildings and includes interesting railway memorabilia on the walls. There's an outdoor seating area where you can see the working platforms too. You can find them on Chapel Lane with postcode WV8 2EH for your sat navs."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/cJgfPmdyeus",
   "postcode": "DY11 5XS",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

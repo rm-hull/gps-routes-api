@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:04:20.663642+00:00",
   "objectID": "5b1c8f83ac00dffeba914d6e264cdbb2",
-  "created_at": "2024-12-18T23:01:14.785778+00:00",
   "ref": "wargrave-walking-route",
   "title": "Wargrave Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Church_Street_in_Wargrave_-_geograph.org.uk_-_2377509.jpg/512px-Church_Street_in_Wargrave_-_geograph.org.uk_-_2377509.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 8.2,
   "description": "This Berkshire village is located in a nice spot next to the River Thames with some lovely surrounding Chilterns countryside. The historic settlement includes many old listed buildings, a picturesque marina, a 12th century church and a very fine riverside pub for post walk refreshment. This circular walk from the village visits the woodland around Bowsey Hill before heading to Cockpole Green and Crazies Hill. There's some pleasant woodland and grassland with views of the surrounding countryside to enjoy on the way. On Bowsey Hill there are a number of different routes to choose from with walkers, horse riders and cyclists well catered for. This includes the Chiltern Way and the Knowl Hill Bridleway Circuit.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the High Street there's the St George & Dragon. The stylish pub serves good quality dishes which you can enjoy in the courtyard or garden. It's located in a lovely spot close to the river with fine views from the pub."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland and country trails make for a fine dog walk. The George mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "If you head to the opposite side of the river you can pick up the Thames Path at nearby Shiplake. For more walking ideas in the area see the Berkshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/nRo2lRJGvs0",
   "district": "Wargrave",
   "county": "Wokingham",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

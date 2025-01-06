@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:41:42.612759+00:00",
   "objectID": "eef2dbcc64b506f89fdfb4ad3e85b53a",
-  "created_at": "2024-12-18T11:37:30.875610+00:00",
   "ref": "crondall-walking-route",
   "title": "Crondall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Crondall_Village_Centre_-_geograph.org.uk_-_2158422.jpg/512px-Crondall_Village_Centre_-_geograph.org.uk_-_2158422.jpg",
@@ -33,7 +33,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Odiham_Castle_-_geograph.org.uk_-_1763181.jpg/512px-Odiham_Castle_-_geograph.org.uk_-_1763181.jpg",
       "title": "Andrew Mathewson / Odiham Castle",
-      "caption": "Odiham Castle.  Built in the 13th century. Originally a fortress, later a hunting lodge. King John travelled from here to Runnymede to sign Magna Carta. The limit of navigation on the Basingstoke Canal"
+      "caption": "Odiham Castle. Built in the 13th century. Originally a fortress, later a hunting lodge. King John travelled from here to Runnymede to sign Magna Carta. The limit of navigation on the Basingstoke Canal"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/66/Odiham_-_Basingstoke_Canal_-_geograph.org.uk_-_227095.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 17.0,
   "description": "This attractive Hampshire village is located in the Hart District of the county. The historic settlement includes a number of listed buildings including a noteworthy Norman church and a 500 year old pub. It's also located close to the North Downs and the Basingstoke Canal, both of which provide good walking opportunities. This walk from the village follows country lanes west to visit Odiham Castle near the neighbouring village of Odiham. After exploring the picturesque ruins of the 13th century castle you can also up a section of the Basingstoke Canal and enjoy a waterside stroll to Dogmersfield Park. Here there's nice trails along Dogmersfield Lake and lots of woodland paths to explore.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In the village head to the Plume of Feathers for refreshments. It's thought to be one of the oldest pubs in Hampshire, dating back over 500 years. Oliver Cromwell is reputed to have stayed here in October 1645 on his way to Basing House. They serve high quality dishes and have a covered decking area plus a garden area outside. You can find them at The Borough, with postcode GU10 5NT for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk. The Plume of Feathers is dog friendly in the outdoor area."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "At Odiham you can pick up the Three Castles Path. This historically themed long distance trail will take you from Windsor Castle to Winchester Castle, visiting the ruined Odiham Castle on the way. For more walking ideas in the area see the North Downs Walks and the Hampshire Walks pages."
+    }
+  ],
   "postcode": "GU10 5PP",
   "district": "Crondall",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:29:33.318256+00:00",
   "objectID": "53f4f38e1a4d850140234b4045e51a5b",
-  "created_at": "2024-12-18T19:26:04.414426+00:00",
   "ref": "mapperley-reservoir-walking-route",
   "title": "Mapperley Reservoir Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Mapperley_Reservoir_-_geograph.org.uk_-_15849.jpg",
@@ -60,8 +60,19 @@
   ],
   "distance_km": 1.7,
   "description": "Enjoy a short walk around this pretty reservoir in Shipley Country Park, near Ilkeston. There's a nice footpath running round the lake with the option of extending your walk in the woodland of Mapperley Wood Nature Reserve, just to the east of the lake. The site has it's own good sized car park with an information board and picnic tables. From here you can pick up the trails heading round the lake and through the surrounding woodland. It's a nice easy walk with good views across the water and lots of wildlife to look out for on the water. You can extend your outing by exploring Shipley Park and picking up the Nutbrook Trail .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Nutbrook Coffee Shop is located right on the Nutbrook Trail, minutes from the reservoir. There's a great selection of freshly made sandwiches, panini\u2019s, pies, pasties and a fantastic range of cakes. There's also a very pretty garden area to sit out in and it's also dog friendly. You can find it on the trail at postcode DE7 6BQ for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just east of Ilkeston there's some nice trails along the Nottingham Canal Nature Reserve at Cossall. Just to the south you'll find Dale Abbey where you can visit the ruins of the historic 12th century abbey. The 18th century Locko Park is also located in this area."
+    }
+  ],
   "postcode": "DE7 6BR",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

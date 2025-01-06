@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:50:16.567636+00:00",
   "objectID": "eb1a63163d4b71a9acc400408f0c3e0c",
-  "created_at": "2024-12-18T13:59:46.594288+00:00",
   "ref": "hertford-heath-walking-route",
   "title": "Hertford Heath Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hertford_Heath_village_green_1.JPG/256px-Hertford_Heath_village_green_1.JPG",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Holy_Trinity_Church%2C_Hertford_Heath_-_geograph.org.uk_-_135402.jpg",
       "title": "Melvyn Cousins, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
-      "caption": "Holy Trinity Church  in the village"
+      "caption": "Holy Trinity Church in the village"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Hertford_Heath_north_2.JPG/256px-Hertford_Heath_north_2.JPG",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 3.0,
   "description": "A circular walk around this pretty nature reserve in Hertford. The site has a series of nice footpaths taking you to ponds, woodland and heathland. Look out for plants including heather, heath bedstraw, tormentil and gorse as you make your way around the reserve. The site is located just a couple of miles south east of Hertford. It additionally includes Hailey Wood and Golding's Wood. To the west there is also the Balls Wood Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The College Arms is located right next to the heath. The pub is a good place to go for post walk refreshments and also makes a good start point for the walk as there is parking near by. You can find the pub at 40 London Road with a postcode SG13 7PW for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The heath is a nice place for a dog walk so you'll probably see other owners on your visit. It is advised to please keep them on leads as there is a lot of wildlife on the reserve."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north of the heath you can pick up the Lea Valley Walk and enjoy a stroll along the River Lea on the Hertford to Ware River and Canal Walk. In Ware you can pick up the circular Ware Walk at the end of the route. This visits the nearby Amwell Nature Reserve where there are good bird watching oppportunities on the two pretty lakes. It then goes on to explore the River Stort around Roydon on the Stort Valley Way before a countryside section on the Harcamlow Way. To the west you can pick up the waymarked Hertfordshire Chain Walk which can be used to explore the Hertfordshire countryside. If you follow it south west for a few miles it will take you to the pretty village of Little Berkhamsted where you can visit the Grade II listed Stratton's Tower, an excellently preserved five-storey observatory dating to 1789. For more walking ideas in the area see the Hertfordshire Walks page."
+    }
+  ],
   "postcode": "SG13 7PT",
   "district": "Hertford Heath",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

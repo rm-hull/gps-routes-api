@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:47:32.742008+00:00",
   "objectID": "ae3e8da810beb790b08299a14918c5ed",
-  "created_at": "2024-12-18T08:55:33.118833+00:00",
   "ref": "glenlivet-estate-walking-route",
   "title": "Glenlivet Estate Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Glenlivet_distillery_duck_pond_-_geograph.org.uk_-_2152715.jpg/512px-Glenlivet_distillery_duck_pond_-_geograph.org.uk_-_2152715.jpg?20210612031556",
@@ -14,6 +14,11 @@
       "description": "Abernethy Forest",
       "objectID": "a65b07d47b4eed19c5269c821c50704b",
       "ref": "abernethy-forest-walking-route"
+    },
+    {
+      "description": "Tomintoul",
+      "objectID": "f899851ca926012f1a614e080750a947",
+      "ref": "tomintoul-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/ae3e8da810beb790b08299a14918c5ed.gpx",
@@ -39,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/On_Carn_an_Daimh_-_geograph.org.uk_-_3582250.jpg/512px-On_Carn_an_Daimh_-_geograph.org.uk_-_3582250.jpg?20220607115740",
-      "title": "On  Carn an Daimh by Nigel Corby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "On Carn an Daimh by Nigel Corby, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The view from Carn an Daimh."
     },
     {
@@ -55,10 +60,17 @@
   ],
   "distance_km": 14.8,
   "description": "This walk takes you through the Glenlivet Estate in the Cairngorms National Park. The route starts at the parking area in Glenlivet and follows a section of the Speyside Way through the Glen, passing the famous Glenlivet Whisky Distillery before climbing to a fine viewpoint at Carn Diamh. The walk then finishes at the attractive village of Tomintoul where you can enjoy views of the River Conglass. Along the way there are pleasant wooded sections and some magnificent views of the Cairngorms. This route is categorised as a walk but the area is also popular with mountains bikers.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south east and you could continue your walking in the expansive Abernethy Forest. Here you can enjoy miles of fine woodland trails and look out for wildlife including Ospreys and red squirrels."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/FRznqfDv1Bk?si=8f9xZALtMSwzerST",
   "postcode": "AB37 9BT",
   "district": "Bridgend of Livet",
   "county": "Moray",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

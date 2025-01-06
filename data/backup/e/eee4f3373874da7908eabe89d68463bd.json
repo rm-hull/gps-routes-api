@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:38:09.034359+00:00",
   "objectID": "eee4f3373874da7908eabe89d68463bd",
-  "created_at": "2024-12-19T22:33:02.725511+00:00",
   "ref": "horsell-common-walking-route",
   "title": "Horsell Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Horsell_Common_-_geograph.org.uk_-_1921659.jpg",
@@ -64,9 +64,24 @@
     }
   ],
   "distance_km": 4.0,
-  "description": "This 880 acre common in Woking is a great place for a peaceful walk.  There are miles of woodland walking paths, a number of Bronze Age barrows, wet areas, ponds and protected heathland. Look out for birdlife which includes nightjar, woodlark and Dartford warbler. The common is famous for its sand pits which were used by H.G. Wells as the site of the first Martian landing in his novel The War of the Worlds. To extend your walking in the area you can head to the pretty Goldsworth Park Lake or pick up the Basingstoke Canal .",
+  "description": "This 880 acre common in Woking is a great place for a peaceful walk. There are miles of woodland walking paths, a number of Bronze Age barrows, wet areas, ponds and protected heathland. Look out for birdlife which includes nightjar, woodlark and Dartford warbler. The common is famous for its sand pits which were used by H.G. Wells as the site of the first Martian landing in his novel The War of the Worlds. To extend your walking in the area you can head to the pretty Goldsworth Park Lake or pick up the Basingstoke Canal .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Heather Farm Cafe is located on the common. They sell a delicous range of snacks and treats with afternoon tea also available. You can find them on Chobham Road with postcode GU21 4XY for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The common is a fine place for dog walking so you'll probably see plenty of other owners on your visit. They are not allowed in the fenced wetland area and easy access path around the pond and waterfowl nesting areas at Heather Farm. The Heather Farm Cafe mentioned above is dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Surrey Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Q1rWCgixSeE",
   "county": "Surrey",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

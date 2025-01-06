@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:13:11.291424+00:00",
   "objectID": "80cff383271e31fa6cc377c3a15bde00",
-  "created_at": "2024-12-18T01:38:13.079139+00:00",
   "ref": "longtown-walking-route",
   "title": "Longtown Cumbria Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Longtown_Bridge_-_geograph.org.uk_-_2638153.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 11.4,
   "description": "This Cumbrian market town is located in the north of the county, very close to the border with Scotland. The town is notable for the 12th century Arthuret Church and for hosting the largest sheep market in England, on the north side of the River Esk. This walk takes you south from the town visiting the park by the River Esk before following country lanes and an old railway line to West Linton. On the way you'll cross the River Lyne and enjoy some fine countryside views. Continuing south will take you into the city of Carlisle where there's lots of interesting history and nice walks along the River Eden.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the town head to the Graham Arms Hotel for some post walk refreshment. The former coaching inn dates back over 250 years and includes a large restaurant, spacious bar and garden area. You can find them on English Street at postcode CA6 5SE for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Cycling Information: National Cycle Route 10 and National Cycle Route 7 both run past the town. These signed Sustrans routes are a great way of exploring the area. They mainly use quiet country lanes which are also suitable for walkers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/D2HZW6PBxP8",
   "district": "Longtown",
   "county": "Cumberland",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:40:22.441640+00:00",
   "objectID": "f8b3ffd293c9fb5c85906aa91e4ccc5b",
-  "created_at": "2024-12-18T16:55:39.692682+00:00",
   "ref": "colliers-moss-common-walking-route",
   "title": "Colliers Moss Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colliers_Moss_Common_Nature_Reserve_-_geograph.org.uk_-_30606.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Modern_Footbridge_at_Colliers_Moss_-_geograph.org.uk_-_2563392.jpg/512px-Modern_Footbridge_at_Colliers_Moss_-_geograph.org.uk_-_2563392.jpg",
-      "title": "Modern Footbridge at Colliers Moss by K  A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Modern Footbridge at Colliers Moss by K A, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Modern Footbridge at Colliers Moss"
     },
     {
@@ -60,8 +60,15 @@
   ],
   "distance_km": 2.8,
   "description": "This walk visits the Colliers Moss Common Nature Reserve in Bold Heath, St Helens. The reserve was created from the wasteland of the old Bold Colliery and Power Station. It's now a pleasant place for a walk with a number of footpaths taking you to woodland, meadows, and a pond. There's plenty of interesting flora and fauna to look out for too. Cyclists can also enjoy the area with some decent off road tracks to try. It's easy to extend your walk by heading about a mile south to visit Sutton Manor and Clock Face Country Park. There's more nice trails, viewpoints and the photogenic 'Dream' sculpture to see here.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reserve is dog friendly and a popular place with dog walkers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RA1R5i5qW08",
   "district": "St Helens",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

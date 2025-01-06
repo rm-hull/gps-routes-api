@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T10:25:29.415302+00:00",
   "objectID": "f59cd7bb8c61fe1471f19211a2c709f4",
-  "created_at": "2024-12-18T13:33:35.979246+00:00",
   "ref": "stafford-walking-route",
   "title": "Stafford Castle Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/The_Visitor_Centre%2C_Stafford_Castle._-_geograph.org.uk_-_1136262.jpg",
@@ -38,7 +38,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/f/fc/View_from_Stafford_Castle_keep._-_geograph.org.uk_-_1350399.jpg",
       "title": "Simon Huguet / View from Stafford Castle keep.",
-      "caption": "View from Stafford Castle keep.  Looking over the woods that cloak the ancient mote towards the ancient hill fort of Bury Ring and beyond that The Wrekin. The M6 motorway is hidden by the trees, but the proliferation of plastic crop tunnels - mainly for strawberries -that have sprung up in this area in recent years."
+      "caption": "View from Stafford Castle keep. Looking over the woods that cloak the ancient mote towards the ancient hill fort of Bury Ring and beyond that The Wrekin. The M6 motorway is hidden by the trees, but the proliferation of plastic crop tunnels - mainly for strawberries -that have sprung up in this area in recent years."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/3/34/Looking_north_from_Stafford_Castle_-_geograph.org.uk_-_1350419.jpg",
@@ -53,10 +53,17 @@
   ],
   "distance_km": 4.0,
   "description": "Stafford is the county town of Staffordshire and has some nice waterside walking trail along the canal, river and nature reserve in the town centre. There's also some fine historic buildings including the 12th century St Chad's Church and the Elizabethan Ancient High House which is notable as the largest timber-framed town house in England. This route starts near Stafford train station and head south west along public footpaths for about a mile to reach the historic Stafford Castle. The ancient Grade II listed castle is a prominent local landmark and one of the historic highlights of the area. From the elveated position of the castle you can enjoy fine views of Stafford and its surrounding countryside. The 26 acre castle grounds are a pleasant place for a stroll with woodland and a pretty herb garden to explore. Outdoor theate productions also take place in the castle grounds each summer. After exploring the castle the route follows alternative footpaths back towards the train station.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Staffordshire and Worcestershire Canal runs through the town. You could follow it south to visit Penkridge. The historic market town includes a Grade I listed medieval church, the Penkridge Railway Viaduct and the Old Market Square. There's also a nice canalside pub where you can enjoy a meal overlooking the boats and birdlife of the canal. Gailey Reservoir, the home of South Staffordshire Sailing Club, is located just to the south of the town. If you head east you could explore the expansive Cannock Chase Country Park where there are miles of good cycling and walking trails to try. In the town centre there's a footpath heading east along the River Sow which joins with the River Penk and the canal. Just to the north of the castle there's the Doxey Marshes Nature Reserve where there are some good wildlife spotting opportunites. For more walking ideas in the area see the Staffordshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/issWg7fmhsk",
   "postcode": "ST16 2TB",
   "district": "Stafford",
   "county": "Staffordshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:10:44.420267+00:00",
   "objectID": "d94b2b4f2ec4d866bd306d675ef5dc1f",
-  "created_at": "2024-12-19T22:53:55.906685+00:00",
   "ref": "arden-way-walking-route",
   "title": "Arden Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Arden_Way_towards_New_End_Farm_-_geograph.org.uk_-_466728.jpg",
@@ -34,7 +34,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Arden_Way_towards_New_End_Farm_-_geograph.org.uk_-_466728.jpg",
-      "title": "Trevor Rickard / Arden Way  towards New End Farm",
+      "title": "Trevor Rickard / Arden Way towards New End Farm",
       "caption": "Arden Way towards New End Farm. Tree-lined banks to this lane with a lot of bluebells."
     },
     {
@@ -75,9 +75,16 @@
   ],
   "distance_km": 42.0,
   "description": "This circular walk takes you on a tour of the beautiful Forest of Arden in Warwickshire. The route starts and ends near Henley in Arden railway, first taking you to Ulenhall before heading towards Studley where you will pass the impressive 19th century Studley Castle which is now a luxury hotel. You then join the River Arrow leading you to Coughton. Here you will find the 16th century Tudor house Coughton Court which has a place in English history for its role in the Gunpowder Plot of 1605 as some of the conspirators rode directly back there after it failed. From Coughton you head to the attractive market town of Alcester, then through Oversley Wood to Exhall where you turn north. The walk then passes Spernall Park and Bannan's wood before returning to Henley-in-Arden.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Alcester head to the excellent The Moat House Inn for some refreshments on the route. The pub has a lovely large garden area where you can even hire a teepee. It's a lovely place to relax on a warm summer day. The menu is also very good and there's nice cosy fires indoors for colder days. You can find the pub on Birmingham Rd with a postcode of B49 5QF for sat navs."
+    }
+  ],
   "postcode": "B95 5ST",
   "district": "Henley-in-Arden",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

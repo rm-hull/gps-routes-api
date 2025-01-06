@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:46:04.059829+00:00",
   "objectID": "2eb9ce230da4809e9d389795a6cab7a1",
-  "created_at": "2024-12-18T13:04:09.262122+00:00",
   "ref": "lunt-meadows-walking-route",
   "title": "Lunt Meadows Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Lunt_-_geograph.org.uk_-_94992.jpg",
@@ -75,8 +75,19 @@
   ],
   "distance_km": 5.0,
   "description": "This walk visits the wildlife rich Lunt Meadows Nature Reserve on Merseyside. The large wetland area has some pleasant footpaths taking you to the River Alt and the village of Sefton. It's a fantastic place for bird watching with species such as heron, lapwings, redshank, dunlin and oystercatchers to look out for. In Sefton you can visit the old church and enjoy some post walk refreshments in the noteworthy local pub. To extend your waterside walking you could head a short distance east to Maghull where you can pick up the towpath of the Leeds and Liverpool Canal. The epic Trans Pennine Trail can also be picked up here.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Sefton you could enjoy some rest and refreshment at the Punchbowl. The historic pub is located on the original site of the Grand National Steeplechase course. They serve high quality dishes and have a lovely garden to relax in on warmer days. You can find them at postcode L29 7WA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The reserve is a good place to bring your dog for a walk though you are requested to keep them on leads. The Punchbowl mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/CSbuK6O4kOs",
   "district": "Lunt",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:05:49.868331+00:00",
   "objectID": "7c416042e3d2e879e9bbc2bb856b85e8",
-  "created_at": "2024-12-18T09:57:46.988457+00:00",
   "ref": "eddisbury-way-walking-route",
   "title": "Eddisbury Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Clotton_Hoofield_-_Eddisbury_Way.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eddisbury_Way_just_south_of_Frodsham_-_geograph.org.uk_-_566361.jpg",
       "title": "David Quinn / Eddisbury Way just south of Frodsham",
-      "caption": "Just south of  Frodsham. After starting at a very small crack between two houses, the Eddisbury Way passes through a small wood before joining another footpath on a track."
+      "caption": "Just south of Frodsham. After starting at a very small crack between two houses, the Eddisbury Way passes through a small wood before joining another footpath on a track."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Tattenhall_-_the_Eddisbury_Way_-_geograph.org.uk_-_804834.jpg",
@@ -85,9 +85,20 @@
   ],
   "distance_km": 27.0,
   "description": "Follow the Eddisbury way from Frodsham to Burwardsley on this walk through Cheshire. You start by the River Weaver at Frodsham and head south to Kelshall, passing through Manley Common and skirting the edge of Delamere Forest. You then head to Duddon before crossing the Shropshire Union Canal and finishing at Burwardsley next to Peckforton Castle and Peckforton Hills .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Right on the trail the Pheasant Inn is a great place to stop for refreshments. The pub has a lovely garden area with wonderful views over the Cheshire Plain. It's the perfect place to relax outside after your exercise. There's a great menu and it's also dog friendly. You can find the pub in Burwardsley with a postcode of CH3 9PF.  In Kelsall there's the The Morris Dancer. The historic pub dates back to the 1630s and has a fine interior. Outside there's a splendid large garden area for warmer days. You can find them on Chester Road with postcode CW6 0RZ for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near the end of the route you will pass the village of Tattenhall. Here you can visit the noteworthy Ice Cream Farm, the largest ice cream shop in the world. The popular tourist attraction includes expansive children's play areas, farm animals and quad bikes. You can find them at Drumlan Hall, Newton Ln, CH3 9NE. You can pick up the Baker Way in Delamere Forest. The easy path will take you to Chester with a pleasant stretch along the Shropshire Union Canal."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/Lth3kUrSIEg",
   "district": "Frodsham",
   "county": "Cheshire West and Chester",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

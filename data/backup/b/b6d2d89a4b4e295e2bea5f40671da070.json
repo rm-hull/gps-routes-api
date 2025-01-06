@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:14:56.507866+00:00",
   "objectID": "b6d2d89a4b4e295e2bea5f40671da070",
-  "created_at": "2024-12-18T10:03:25.828753+00:00",
   "ref": "loch-shandra-walking-route",
   "title": "Loch Shandra Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Loch_Shandra_-_geograph.org.uk_-_1114512.jpg",
@@ -65,8 +65,15 @@
   ],
   "distance_km": 1.0,
   "description": "This walk visits Loch Shandra in Blairgowrie, Angus. You can follow a section of the epic Cateran Trail along the western side of the loch. The remote and picturesque loch is surrounded by some lovely scenery with woodland and hills to admire. The loch is located just to the north of the village of Kirkton Glen Isla.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "You can continue your lochside walking by heading east to visit Backwater Reservoir or south to Lintrathen Loch where there's lots of birdlife to see. A few miles to the south east you could visit Kirriemuir and the Loch of Kinnordy. The RSPB nature reserve includes a wide variety of wildlife and more nice waterside trails."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/6FB7QZI2Rwc",
   "county": "Angus",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

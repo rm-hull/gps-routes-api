@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:48:07.495069+00:00",
   "objectID": "2b3ae1ea4b7881c070f5653bd04563cb",
-  "created_at": "2024-12-19T07:56:14.427914+00:00",
   "ref": "chelsfield-circular-walk-walking-route",
   "title": "Chelsfield Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_%27Five_Bells%27%2C_Chelsfield%2C_Kent_-_geograph.org.uk_-_163497.jpg",
@@ -19,7 +19,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/The_%27Five_Bells%27%2C_Chelsfield%2C_Kent_-_geograph.org.uk_-_163497.jpg",
-      "title": "Dr Neil Clifton / The 'Five Bells',  Chelsfield, Kent",
+      "title": "Dr Neil Clifton / The 'Five Bells', Chelsfield, Kent",
       "caption": "The 'Five Bells', Chelsfield, Kent. A popular local in the centre of this well-kept village"
     },
     {
@@ -50,8 +50,19 @@
   ],
   "distance_km": 11.0,
   "description": "This short circular walk follows footpaths and tracks through the countryside around Chelsfield in Bromley. The walk starts at Chelsfield station and heads towards Crockenhall through farmland and woodland, before returning to Chelsfield via Goddington. The walk is located just to the east of Orpington .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "After your exercise you could enjoy rest and refreshment at the Five Bells in Chelsfield village. The historic pub dates all the way back to 1668 and includes a cosy interior and a spacious garden area. You can find them at postcode BR6 7RE for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a pleasant dog walk and the Five Bells mentioned above is also dog friendly."
+    }
+  ],
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

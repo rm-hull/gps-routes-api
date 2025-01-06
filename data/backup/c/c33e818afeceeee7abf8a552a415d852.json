@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:45:06.074120+00:00",
   "objectID": "c33e818afeceeee7abf8a552a415d852",
-  "created_at": "2024-12-19T06:19:39.013897+00:00",
   "ref": "dartford-heath-walking-route",
   "title": "Dartford Heath Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Footpath_in_Dartford_Heath_-_geograph.org.uk_-_1279316.jpg",
@@ -60,8 +60,23 @@
   ],
   "distance_km": 3.0,
   "description": "This easy circular walk takes you around the pretty Dartford Heath in the London Borough of Dartford. There's over 300 acres to explore on a number of different footpaths. It's a pleasant area for a stroll with a number of ponds, peaceful woodland, pretty heather and lots of wildlife to look out for. You can start the walk from the public car park in the centre of the heath. From here you can pick up the paths leading across the heath in various directions. The heath is a great place for flora and fauna with plants including heather, dwarf gorse, and orchids.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Just to the south of the heath you'll find the Horse & Groom in Wilmington. The friendly pub does very good food and has an outdoor seating area for warmer days. You can find the pub at 15 Leyton Cross Rd with a postcode of DA2 7AP for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The heathland is a very popular place for dog walkers so you're likely to see plenty of other owners on your walk. The Horse & Groom pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west of the heath you can pick up our circular Bexley Walk which starts at the nearby Bexley Train Station. This will take you to some of the highlights of the area the River Cray, Foots Cray Meadows and Joydens Wood. It uses a section of the long distance London Loop which runs through the area. Just to the east you can enjoy more waterside walking along the River Darent on the Darent Valley Path. A few miles east there's more nice woodland trails around Beacon Wood Country Park near Bean. Just to the west you could pick up the Cray Riverway. This pleasant waterside walk will take you south along the River Cray to the source at Orpington or north to Erith where it meets the River Darent and the Thames. To the east there's the popular Darenth Country Park. There's much to see here with woodland, sculptures, a Saxon burial ground, meadows and the Chapel Orchard. Near here you also can also pick up the Darent Valley Path and enjoy a stroll along the River Darent. For more walking ideas in the area see the Kent Walks page."
+    }
+  ],
   "district": "Dartford",
   "county": "Kent",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

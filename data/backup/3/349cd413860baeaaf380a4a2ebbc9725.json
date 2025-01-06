@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:05:17.972848+00:00",
   "objectID": "349cd413860baeaaf380a4a2ebbc9725",
-  "created_at": "2024-12-19T10:56:42.614944+00:00",
   "ref": "stow-on-the-wold-to-bourton-on-the-water-walk-walking-route",
   "title": "Stow on the Wold to Bourton on the Water Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Stow-on-the-Wold_%281412%29.jpg/256px-Stow-on-the-Wold_%281412%29.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Bourton_on_the_water.jpg",
-      "title": "User: (WT-shared) Pieter at  wts wikivoyage / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
+      "title": "User: (WT-shared) Pieter at wts wikivoyage / CC BY-SA (https://creativecommons.org/licenses/by-sa/4.0)",
       "caption": "A scene in the center of Bourton-on-the-Water"
     },
     {
@@ -80,10 +80,21 @@
   ],
   "distance_km": 6.9,
   "description": "This linear walk joins these two picturesque Cotswolds village using a series of waymarked footpaths. The route runs for a distance of just over 4 miles, descending from the higher village of Stow on the Wold to the tourist honeypot of Bourton on the Water. On the way there's old mills, river views, rolling hills and a visit to the popular village of Lower Slaughter too. The route makes use of two of the waymarked trails which run through the area in the form of the Gloucestershire Way and the Windrush Way. As such it's generally a good footpath and well signposted throughout. In Lower Slaughter you could take a short detour from the route and try The Slaughters Walk which takes you between the two neighbouring villages on the River Eye.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Mousetrap Inn in Bourton is a good choice for some post walk refreshments. The pub does excellent food and also has its own art gallery with landscape paintings in oil by local artist Silvi Schaumloeffel. There's a cosy, attractive interior with a log fire while outside there's a garden area for warmer days. You can find the inn at Lansdowne with a postcode of GL54 2AR for your sat navs. It's also dog friendly if you have your pet with you on the walk."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Bourton you could pay a visit to the Cotswold Motoring Museum or Birdland. They are two of the most popular attractions in the area and well worth a visit if you have time. For an example of a circular walk in the area see the video below."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/jLqe_5sBU6A",
   "postcode": "GL54 1BH",
   "district": "Stow-on-the-Wold",
   "county": "Gloucestershire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

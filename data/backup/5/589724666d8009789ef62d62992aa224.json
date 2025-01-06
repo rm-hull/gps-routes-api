@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:39:38.071683+00:00",
   "objectID": "589724666d8009789ef62d62992aa224",
-  "created_at": "2024-12-18T09:14:58.992225+00:00",
   "ref": "shibden-park-walking-route",
   "title": "Shibden Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Shibden_Park_-_geograph.org.uk_-_903879.jpg",
@@ -74,10 +74,25 @@
     }
   ],
   "distance_km": 2.0,
-  "description": "This delightful country park in Halifax is the perfect place for a peaceful afternoon stroll. The park includes a Wilderness Garden, cascades and pools, woodland and a fruit garden with a collection of heritage fruit trees. The centrepiece of the park is the Mere, where you can hire a rowing boat or just stroll along the shore. You can also visit Shibden Hall -  a Grade II listed timber framed hall with a history dating back back to 1420.  Park facilities include a popular cafe and visitor centre. The circular Shibden Valley Walk also starts from the car park. The trail explores the lovely countryside and hills of Shibden Dale, to the north of the park. It's a good way of further stretching your legs if you have time.",
+  "description": "This delightful country park in Halifax is the perfect place for a peaceful afternoon stroll. The park includes a Wilderness Garden, cascades and pools, woodland and a fruit garden with a collection of heritage fruit trees. The centrepiece of the park is the Mere, where you can hire a rowing boat or just stroll along the shore. You can also visit Shibden Hall - a Grade II listed timber framed hall with a history dating back back to 1420. Park facilities include a popular cafe and visitor centre. The circular Shibden Valley Walk also starts from the car park. The trail explores the lovely countryside and hills of Shibden Dale, to the north of the park. It's a good way of further stretching your legs if you have time.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a good on site cafe selling a range of meals, snacks and drinks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland and woodland are a lovely place for a dog walk and very popular with dog owners. The on site cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north west of the town and you can enjoy a lovely waterside walk around Ogden Water. There's lovely views of the Pennine hills and moors in this scenic area. Warley Moor Reservoir can also be reached on foot from here. Just a few miles to the north there's Horton Bank Country Park to explore. The park includes a nice lakeside trail and a viewpoint with fine views over the city of Bradford and the surrounding Yorkshire Dales countryside. The picturesque Chellow Dene Reservoir is also located near here."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/KAG9JBtU-Dw?start=18",
   "postcode": "HX3 6XL",
   "district": "Stump Cross",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

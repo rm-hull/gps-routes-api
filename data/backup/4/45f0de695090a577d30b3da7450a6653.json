@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:19:02.369962+00:00",
   "objectID": "45f0de695090a577d30b3da7450a6653",
-  "created_at": "2024-12-18T19:45:22.915750+00:00",
   "ref": "ridge-walking-route",
   "title": "Walks around Ridge Hertfordshire Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Ridge_village_centre_-_geograph.org.uk_-_136259.jpg",
@@ -53,9 +53,20 @@
   ],
   "distance_km": 5.8,
   "description": "This circular walk from Hertfordshire based Ride explores the countryside to the west, visiting the Catherine Bourne River, Littleridge Wood and the neighbouring village of South Mimms. You'll also pass Shenley where you could pick up our walk and visit the fascinating de Havilland Aircraft Museum. The northern part of this route uses a section of the Hertfordshire Way. The long distance trail can be followed east through Potters Bar to visit Northaw Great Wood where there's miles of peaceful trails to try. Heading west would take you towards Borehamwood, the pretty lakes at Aldenham Country Park and Watford .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Old Guinea has a splendid large garden seating 150 people. You can enjoy a meal here with a fabulous view of the surrounding countryside. You can find them at Crossoaks Lane, EN6 3LH."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails make for a fine dog walk and the Old Guinea mentioned above is also dog friendly."
+    }
+  ],
   "postcode": "EN6 3LR",
   "district": "Ridge",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

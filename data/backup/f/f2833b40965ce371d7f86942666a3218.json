@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:19:33.629136+00:00",
   "objectID": "f2833b40965ce371d7f86942666a3218",
-  "created_at": "2024-12-18T20:32:54.721525+00:00",
   "ref": "storeton-woods-walking-route",
   "title": "Storeton Woods Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Storeton_Hill_-_geograph.org.uk_-_123921.jpg",
@@ -74,14 +74,29 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Travellers_Rest_on_Mount_Road%2C_Higher_Bebington_-_geograph.org.uk_-_4013450.jpg/512px-The_Travellers_Rest_on_Mount_Road%2C_Higher_Bebington_-_geograph.org.uk_-_4013450.jpg",
-      "title": "The Travellers Rest on Mount Road, Higher Bebington by Steve  Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "The Travellers Rest on Mount Road, Higher Bebington by Steve Fareham, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "The Travellers Rest on Mount Road, Higher Bebington"
     }
   ],
   "distance_km": 1.5,
   "description": "This walk explores Storeton Woods in Birkenhead on the Wirral. The woods are located just south of Birkenhead and west of Bebington on the peninsula. You can start your walk from the on road parking on Rest Hill Road which disects the two sections of the woods. From here you can easily pick up some pleasant woodland trails which runs through the old sandstone quarry. You can see evidence of the old tramway used to transport the stone. A fossilised dinosaur footprint was also found in the quarry in the 19th century and later moved to Liverpool Museum. The site is great for wildlife too, with a variety of woodland birds to look out for from the trail.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Traveller's Rest is conveniently located right next to the woods. The traditional pub does a fine Sunday roast and serves a good selection of ales. You can find them on the eastern side of the woods at 169 Mount Rd, Higher Bebington, CH63 8PJ."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are ideal for dog walking so you'll probably meet other owners on your visit. The Traveller's Rest mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The woods are located just a couple of miles from Eastham Country Park. The park is located just to the south east, right on the coast. The Grade I listed buildings in the wonderful model village of Port Sunlight are also nearby. Located on the north eastern tip of the peninsula there's the popular town of New Brighton where you'll find a lovely beach, a 19th century fort, a large marine lake and the longest promenade in Britain. The wildlife rich North Wirral Coastal Park is also located in this area."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/RrYnGsW5i18",
   "district": "Bebington",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

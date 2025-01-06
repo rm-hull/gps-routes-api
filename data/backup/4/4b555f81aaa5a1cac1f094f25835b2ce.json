@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:46:41.297640+00:00",
   "objectID": "4b555f81aaa5a1cac1f094f25835b2ce",
-  "created_at": "2024-12-18T01:47:15.139944+00:00",
   "ref": "burghfield-wokefield-common-walking-route",
   "title": "Burghfield Wokefield Common Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Wokefield_Common_-_geograph.org.uk_-_1315574.jpg",
@@ -33,8 +33,19 @@
   ],
   "distance_km": 2.0,
   "description": "This walk explores Wokefield Common Nature Reserve in Burghfield Common, West Berkshire. The common is criss crossed by a number of wide footpaths with woodland trails, ponds and lots of wildlife to see. There is a car park off Goring Lane from which you can start your walk. You can extend the walk by heading south to visit Starvale Woods and Mortimer Common.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woodland trails are ideal for a dog walk so expect to see other owners on a fine day."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north and you can enjoy canal walks and a visit to the wildlife rich Hosehill Lake Nature Reserve on the Theale Walk. The St James' Way pilgrimage route passes through the area. The long distance waymarked trail can be followed north to the historic ruins of Reading Abbey or south to Southampton."
+    }
+  ],
   "postcode": "RG7 3JG",
   "county": "West Berkshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

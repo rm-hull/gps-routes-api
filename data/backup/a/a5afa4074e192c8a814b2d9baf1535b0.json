@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:55:31.574372+00:00",
   "objectID": "a5afa4074e192c8a814b2d9baf1535b0",
-  "created_at": "2024-12-18T01:25:08.611442+00:00",
   "ref": "tame-valley-way-walking-route",
   "title": "Tame Valley Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tame_Valley_Way_-_geograph.org.uk_-_38729.jpg",
@@ -60,9 +60,20 @@
   ],
   "distance_km": 37.0,
   "description": "Follow the River Tame through Greater Manchester from Stockport to Denshaw on this waterside walk. The trail passes through Ashton-under-Lyne, Stalybridge and Mossley and includes woodland sections as well as the extended sections along the River Tame and Huddersfield Narrow Canal. Also of interest is Reddish Vale Country Park, which sits right on the River Tame.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route we recommend stopping for refreshments at the Roaches Lock Inn in Mossley. The pub's main attraction is a lovely beer garden with fine views of the Huddersfield Narrow Canal. It's an ideal spot for a rest on a fine day. You can find it at 387 Manchester Road with postcode OL5 9BB for your sat nav."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "For more walking ideas in the area see the Greater Manchester Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/sJ2zOTbNhiI",
   "postcode": "SK1 1AL",
   "district": "Stockport",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

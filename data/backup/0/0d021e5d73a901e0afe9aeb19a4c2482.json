@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:36:57.547605+00:00",
   "objectID": "0d021e5d73a901e0afe9aeb19a4c2482",
-  "created_at": "2024-12-21T11:53:52.398719+00:00",
   "ref": "three-choirs-way-walking-route",
   "title": "Three Choirs Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Three_Choirs_Way_-_geograph.org.uk_-_49236.jpg",
@@ -70,10 +70,12 @@
   ],
   "distance_km": 161.0,
   "description": "Visit the cities of Gloucester, Hereford, and Worcester on this long distance circular walk. The walk has been devised with themes of poetry and music and links with the Three Choirs Music Festival which is held each August alternately at the magnificent cathedrals of the Three Counties ( Hereford, Gloucester and Worcester ). The walk visits some of the best countryside in the region including hopyards, vineyards and orchards. There are also splendid views of the Rivers Severn, Lugg and Wye and a section through the beautiful Malvern Hills to enjoy. The walk is waymarked with a white disc featuring musical notes.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near Haugh Woods you'll pass the pretty little village of Fownhope where there's a couple of nice old pubs to try. The noteworthy Greenman dates from 1485 so has over 500 years of history including links to the Civil War. They do excellent food and have a garden area for finer days. You can find the pub at postcode HR1 4PE for your sat navs. The New Inn is also nearby in the village. The friendly pub also does good food and has a large lawned garden area for outdoor refreshments. It's dog friendly too if you have your canine friend with you."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MaYJX1HWZO4",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/0/0d021e5d73a901e0afe9aeb19a4c2482.gpx",
-  "_geoloc": {
-    "lat": 51.8674036545,
-    "lng": -2.2488234186
-  }
+  "gazetteer_found": false
 }

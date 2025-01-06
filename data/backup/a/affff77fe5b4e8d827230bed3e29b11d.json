@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:32:45.008427+00:00",
   "objectID": "affff77fe5b4e8d827230bed3e29b11d",
-  "created_at": "2024-12-18T01:12:57.828247+00:00",
   "ref": "lakeside-country-park-walking-and-cycle-route",
   "title": "Lakeside Country Park Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Amphitheatre_in_Lakeside_Country_Park_-_geograph.org.uk_-_1110495.jpg",
@@ -60,8 +60,19 @@
   ],
   "distance_km": 2.0,
   "description": "Enjoy 60 acres of lakes, wet meadow and woodland located between Eastleigh and Southampton. The park has a range of birds, insects and small mammals as well as the occasional fox and deer. There is also a miniature railway and a cafe. You can reach the park from Southampton, Eastleigh or Winchester using National Cycle Route 23 which runs through the park. See the Southampton to Winchester Cycle Route. Just to the east of the park you can enjoy more cycling and walking trails in Itchen Valley Country Park. You can also pick up the Itchen Way here and enjoy a riverside walk towards Southampton or Winchester.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's a nice on site cafe selling a good range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is popular with dog walkers with off lead areas on the designated paw trail. Most of the rest of the park is on lead though. Bins are available at the site."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/H-hxisCeai4",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

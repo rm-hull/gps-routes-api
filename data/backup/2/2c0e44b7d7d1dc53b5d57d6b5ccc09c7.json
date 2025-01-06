@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:48:09.502428+00:00",
   "objectID": "2c0e44b7d7d1dc53b5d57d6b5ccc09c7",
-  "created_at": "2024-12-18T13:59:43.147356+00:00",
   "ref": "penn-wood-walking-route",
   "title": "Penn Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Track_in_Penn_Wood_-_geograph.org.uk_-_103132.jpg/256px-Track_in_Penn_Wood_-_geograph.org.uk_-_103132.jpg",
@@ -75,10 +75,21 @@
   ],
   "distance_km": 2.0,
   "description": "This walk visits Penn Wood near High Wycombe and Amersham in Buckinghamshire. The walk starts in the car park on Penn Street on the eastern side of the woods. From here you can pick up the peaceful trails through the ancient woodland. Here you'll find pretty ponds and lots of bluebells during the spring months. It's also great for wildlife with lots of woodland birds, foxes, deer and red kites to see.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Squirrel is conveniently located very close to the car park on Penn Street. You can find them at postcode HP7 0PX for your sat navs. The 18th century Hit or Miss is also on Penn Street and another good option."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "As you'd imagine the woodland trails are ideal for dog walking. You'll probably bump into other owners with their pets."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/DLKylW0QLdA",
   "postcode": "HP7 0PY",
   "district": "Penn Street",
   "county": "Buckinghamshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

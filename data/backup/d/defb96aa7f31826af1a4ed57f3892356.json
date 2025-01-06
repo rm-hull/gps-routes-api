@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:30:35.310047+00:00",
   "objectID": "defb96aa7f31826af1a4ed57f3892356",
-  "created_at": "2024-12-18T01:47:43.345354+00:00",
   "ref": "burnsall-walking-route",
   "title": "Burnsall Walks - Circular River Walk",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Burnsall_Village_-_geograph.org.uk_-_2969645.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 3.5,
   "description": "This picturesque Yorkshire Dales village is a popular walking destination. There's some fine riverside trails and a splendid 1500s pub to investigate after your walk. This circular walk from the village takes you north along the River Wharfe on the Dales Way long distance footpath. At the stepping stones you can cross the river and then return along Burnsall Lane on the other side of the water. The walk could be extended by continuing north to the picturesque Linton Falls just outside neighbouring Grassington .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village head to The Red Lion for some post walk rest and refreshment.  The historic inn dates back to the 16th century and serves high quality food. They also provide rooms if you'd like to stay in the area. You can find them in a lovely spot overlooking the river at postcode BD23 6BU for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The river and country trails make for a fine dog walk. The Red Lion mentioned above is also dog friendly."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/acNAZSJV6z4",
   "postcode": "BD23 6BU",
   "district": "Burnsall",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

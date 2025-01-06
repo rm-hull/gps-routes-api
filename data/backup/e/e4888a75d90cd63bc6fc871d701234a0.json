@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:11:15.197312+00:00",
   "objectID": "e4888a75d90cd63bc6fc871d701234a0",
-  "created_at": "2024-12-18T01:20:57.473847+00:00",
   "ref": "chiltern-way-walking-route",
   "title": "Chiltern Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Chiltern_Way_-_geograph.org.uk_-_1129209.jpg",
@@ -95,7 +95,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Fingest%2C_Buckinghamshire-geograph-3452617-by-Michael-Trolove.jpg/512px-Fingest%2C_Buckinghamshire-geograph-3452617-by-Michael-Trolove.jpg",
       "title": "Michael Trolove / Fingest Village",
-      "caption": "View of Fingest Village. Turville Hill and Windmill is above and beyond the village. This view can be seen at the beginning of the Agatha Christie's Marple (TV series) episode \"Endless Night\" (2013).  The church in view is the noteowrthy St Bartholomew's. The nave and tower are 12th century with the saddleback roof added to the tower in the 18th or early 19th century. The roof is notable as being one of only two such designs in England.  The chancel was added in the 13th century."
+      "caption": "View of Fingest Village. Turville Hill and Windmill is above and beyond the village. This view can be seen at the beginning of the Agatha Christie's Marple (TV series) episode \"Endless Night\" (2013). The church in view is the noteowrthy St Bartholomew's. The nave and tower are 12th century with the saddleback roof added to the tower in the 18th or early 19th century. The roof is notable as being one of only two such designs in England. The chancel was added in the 13th century."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Turville_-_geograph.org.uk_-_9553.jpg",
@@ -110,10 +110,21 @@
   ],
   "distance_km": 200.0,
   "description": "This is the original 125 mile circuit of the Chilterns AONB taking you through Hemel Hempstead, Chalfont St Giles, Marlow, Hambleden, Turville, Fingest, Bix Bottom, Ewelme, the Ridgeway, Stokenchurch, Great Hampden, Aldbury, the Dunstable Downs Country Park, Sharpenhoe Clappers and Harpenden. The main attractions on the route are the series of delightful villages with their ancient churches, pretty village greens and fascinating museums. The Chilterns countryside is also beautiful with rivers, canals and the rolling hills to enjoy. The walk is waymarked with yellow and white disc.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Riverside Restaurant in Marlow is a lovely location for some refreshments. There's a fine outdoor terrace which is ideal for warmer days. You can find it right next to Marlow Bridge at a postcode of SL7 1RG for your sat navs. The Two Brewers is also located near the river in Marlow. The 18th century pub does great food and also has a nice beer garden. You can find it on St. Peter Street at postcode SL7 1NQ. Near Henley the village of Fingest is well worth exploring. Opposite the 12th century church you'll find the The Chequers. It's set in an attractive 18th century brick and flint building with a splendid 2 acre garden outside. The pub is also notable for featuring in the 2014 George Clooney film 'Monuments Men' set during World War II. At the time the village was transformed into a Normandy-like appearance. You may also recognise the pub and village from episodes of the popualar Midsomer Murders series on ITV. You can easily find them in the heart of the village at a postcode of RG96QD for your sat navs. In neighbouring Turville there's also the Bull and Butcher. They are known for their excellent homemade pies and a splendid large garden area for the summer months. You can find them in Turville at a postcode of RG9 6QU for your sat navs. Here you can also enjoy views of the Chitty Chitty Bang Bang Windmill which was used in the 1967 film."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Higginson Park in Marlow is a nice place to visit in the town. The popular park attracts 1,000,000 visitors a year and includes riverside views and access to open countryside. There are also many fine trees and large expanses of lawn with formal flowerbeds and a brick in grass maze. It's another good option for refreshments with a nice cafe. You can find the park on the western fringes of the town, next to the river. The Chilterns Cycleway runs close to the route. The signed circular trail runs for about 170 miles through the AONB on country lanes."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/ZpeT7tFhHN8",
   "postcode": "HP3 0AX",
   "district": "Hemel Hempstead",
   "county": "Hertfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

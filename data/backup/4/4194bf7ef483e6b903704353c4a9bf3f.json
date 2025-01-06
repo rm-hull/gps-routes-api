@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T05:03:42.484859+00:00",
   "objectID": "4194bf7ef483e6b903704353c4a9bf3f",
-  "created_at": "2024-12-21T19:37:46.124948+00:00",
   "ref": "kintyre-way-walking-route",
   "title": "Kintyre Way Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Kintyre_Way_-_geograph.org.uk_-_555908.jpg",
@@ -70,9 +70,11 @@
   ],
   "distance_km": 144.0,
   "description": "This walk runs from Tarbert at the north end of the Kintyre peninsula, to Dunaverty in the south. You will discover hidden coves, deserted beaches and tiny fishing communities on this beautiful walk through Argyll & Bute. There are stunning views of the Isle of Jura, the Isle of Arran and the nearby Isle of Gigha. There are also fabulous long coastal sections and lochside walks around Loch Ciaran and Lussa Loch. Most of the route is waymarked by blue posts with the Kintyre Way logo on them.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4194bf7ef483e6b903704353c4a9bf3f.gpx",
-  "_geoloc": {
-    "lat": 55.8633294458,
-    "lng": -5.4156389433
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Caledonia Way can be picked up on the Kintyre Peninsula. This epic cycle route runs for 234 miles from Campbeltown to Inverness. It's a great way of continuing your cycling or walking in the area. In Tarbert you can climb to the ruins of the historic Tarbert Castle for some wonderful views over the harbour."
+    }
+  ],
+  "gazetteer_found": false
 }

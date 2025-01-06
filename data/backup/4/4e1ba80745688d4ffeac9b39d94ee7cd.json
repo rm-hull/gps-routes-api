@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:10:55.111443+00:00",
   "objectID": "4e1ba80745688d4ffeac9b39d94ee7cd",
-  "created_at": "2024-12-21T20:11:11.291432+00:00",
   "ref": "black-mountain-walking-route",
   "title": "Divis and Black Mountain Belfast Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/The_south-western_slopes_of_Divis_Mountain_-_geograph.org.uk_-_3209084.jpg/512px-The_south-western_slopes_of_Divis_Mountain_-_geograph.org.uk_-_3209084.jpg",
@@ -29,6 +29,11 @@
       "description": "Ards Peninsula",
       "objectID": "6e63f45f27491a95d64e23012e3644af",
       "ref": "ards-peninsula-walking-route"
+    },
+    {
+      "description": "Antrim Six Mile Water",
+      "objectID": "de711208ae631b4d8d1738993e86a1a5",
+      "ref": "antrim-six-mile-water-walking-and-cycle-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/4/4e1ba80745688d4ffeac9b39d94ee7cd.gpx",
@@ -75,6 +80,21 @@
     }
   ],
   "distance_km": 4.8,
-  "description": "This walk climbs to the Black Mountain above the city of Belfast. The National Trust owned area includes a popular summit walking trail taking you around Divis Mountain to the Black Mountain viewpoint. The circular walk runs for just under 5km (3 miles) and includes some fairly challenging climbing. It should take around 1.5 hrs to complete. From the  1,275 ft (389 m) summit viewpoint there are wonderful views over the city to the coast. You can also see Lough Neagh, the Mourne Mountains and Strangford Lough. There's also views of the striking Divis Transmitter Station and the Collin River Valley which runs through the area. You can start and finish the hike from the Divis National Trust visitor centre and car park. In addition to the Summit Trail there is also the Ridge Trail which is slightly longer and includes views over the Antrim Plateau.",
-  "video_url": "https://www.youtube.com/embed/jjRoc9qcKb8"
+  "description": "This walk climbs to the Black Mountain above the city of Belfast. The National Trust owned area includes a popular summit walking trail taking you around Divis Mountain to the Black Mountain viewpoint. The circular walk runs for just under 5km (3 miles) and includes some fairly challenging climbing. It should take around 1.5 hrs to complete. From the 1,275 ft (389 m) summit viewpoint there are wonderful views over the city to the coast. You can also see Lough Neagh, the Mourne Mountains and Strangford Lough. There's also views of the striking Divis Transmitter Station and the Collin River Valley which runs through the area. You can start and finish the hike from the Divis National Trust visitor centre and car park. In addition to the Summit Trail there is also the Ridge Trail which is slightly longer and includes views over the Antrim Plateau.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is an on site cafe where you can pick up a range of meals, snacks and hot drinks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area is dog friendly though you are asked to please keep them on leads."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area try the Belfast Walk which visits the best parks, woodland and rivers in around the city centre of Belfast. This easier walk includes a stroll along the popular Lagan Towpath on the River Lagan. To the north there's another local highlight and viewpoint at Cave Hill Country Park next to the historic Belfast Castle. To the north west there's Antrim where you can try the Antrim Six Mile Water Walk. The pleasant riverside path will take you to the lovely grounds of the historic Antrim Castle."
+    }
+  ],
+  "video_url": "https://www.youtube.com/embed/jjRoc9qcKb8",
+  "gazetteer_found": false
 }

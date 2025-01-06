@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T08:33:00.318039+00:00",
   "objectID": "728b5e5535534e8f0bff0683e773a9a6",
-  "created_at": "2024-12-19T06:20:13.436289+00:00",
   "ref": "buckie-to-findochty-and-cullen-coastal-walking-route",
-  "title": "Buckie to Findochty and Cullen Coastal Walk Route",
+  "title": "Buckie to Findochty\u00a0and Cullen Coastal Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Buckie_Harbour_and_Bin_Hill.JPG/512px-Buckie_Harbour_and_Bin_Hill.JPG",
   "nearby": [
     {
@@ -39,6 +39,11 @@
       "description": "Portsoy Railway Walk",
       "objectID": "4d989cb5b5ceddab3ac04ba2e585e9d5",
       "ref": "portsoy-railway-walk"
+    },
+    {
+      "description": "Bow Fiddle Rock",
+      "objectID": "9702c61693865e0bae83bfd03d110b9f",
+      "ref": "bow-fiddle-rock-walking-route"
     }
   ],
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/728b5e5535534e8f0bff0683e773a9a6.gpx",
@@ -90,9 +95,16 @@
   ],
   "distance_km": 11.2,
   "description": "This walk follows a section of the Moray Coast Trail from Buckie to Cullen via Findochty. The route runs for just over 7 miles along a fairly flat waymarked footpath. There are some small cliff tops climbs along the way though. There's much to enjoy with lovely beaches and some splendid coastal rock formations. The walk starts from the public car park at Seatown in Buckie. Follow the trail north east and it will take you past Cluny Harbour and Gordonsburgh. You'll then pass along the scenic Portessie Bay and the pretty beach at Strathlene Sands. You continue along the Strathlene Golf Course to Craig Head and Findochty where there are some fine views over Spey Bay. The next section runs to Portknockie via Tronach Head. Here you can admire the natural stone arch at Bow Fiddle Rock, a popular place for a photograph. The final leg takes you along the beautiful Cullen Bay and beach to Cullen where the route finishes. For more details on this final section of the walk see the Cullen to Portknockie Walk page where there's more photos and a video.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking in the area you could try the Cullen to Findlater Castle Walk which will take you east along the coast path to Findlater Castle. The photogenic castle dates back to the 14th century and is positioned in a dramatic coastal location. The Portsoy To Cullen Coastal Walk continues further east to Portsoy via the lovely secluded beach at Sandend Bay. Here you can also try the Portsoy Railway Walk. This short walk takes you along the old railway line to the Loch of Soy where there's some pleasant waterside footpaths. Head west and you can pick up the Lossiemouth to Spey Bay Walk. At Spey Bay you will find a wildlife rich nature reserve where you can look out for a variety of wildfowl and dolphins."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/OWalkgo7Dz0",
   "district": "Buckie",
   "county": "Moray",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

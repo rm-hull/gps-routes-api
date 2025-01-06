@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:17:57.166103+00:00",
   "objectID": "25c5d1d74f76b40478e940ad881928d9",
-  "created_at": "2024-12-18T13:33:34.071599+00:00",
   "ref": "lune-valley-ramble-walking-route",
   "title": "Lune Valley Ramble - River Lune Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/River_Lune%2C_Sandbeds_-_geograph.org.uk_-_302301.jpg",
@@ -75,10 +75,21 @@
   ],
   "distance_km": 26.0,
   "description": "This lovely easy walk follows the River Lune from Lancaster to Kirkby Lonsdale in Cumbria. As well as the stunning riversde scenery there are wonderful views of the South Lakeland fells and the beautiful Crook o' Lune. The route is bounded by high moors and limestone hills with the Ingleborough, Whernside and Leck Fells making a magnificent backdrop to the walk.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At the end of the walk head to the Snooty Fox in Kirkby for some post walk refreshments. The classic old pub dates from the 17th century and has an excellent menu. There's also a nice beer garden to relax in on warmer days. You can find it in the attractive market town on Main Street with a postcode of LA6 2AH for your sat navs."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Lancaster you can enjoy more waterside trails along the Lancaster Canal or try the Lancaster Circular Walk. Here you could also visit the Fairfield Nature Reserve. It's a pleasant place for a walk with wetlands, a lovely apple orchard and lots of birdlife to look out for. You can find the reserve in the Abraham Heights area of the city about a 10 minute detour east from the trail. For more walks in this lovely area see the Forest of Bowland Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/vITALggZYng",
   "postcode": "LA1 1DB",
   "district": "Lancaster",
   "county": "Lancashire",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

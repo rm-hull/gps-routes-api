@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:42:03.312151+00:00",
   "objectID": "15b1c2000206a0bab7da1f92b11c2a55",
-  "created_at": "2024-12-18T23:00:52.754783+00:00",
   "ref": "newport-essex-walking-route",
   "title": "Newport Essex Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Old_Houses%2C_Newport%2C_Essex_-_geograph.org.uk_-_142329.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 9.8,
   "description": "This historic Essex based village includes a train station and some fine Tudor timber framed buildings. It's also located on a popular long distance footpath and surrounded by some attractive arable fields for walkers. The village is located just a few miles south of Saffron Walden. This circular walk from Newport uses part of the Harcamlow Way to visit the valley of Debden Water and the neighbouring village of Debden. The walk starts in the village centre just to the north of the train station. Here you can pick the Harcamlow Way and follow the waymarked footpath east along the pretty Debden Water. You'll pass a waterfall and the picturesque Debden lake before coming to the village of the same name. The route then heads south past Spinney Wood to Rook End where you turn west along a bridle track. The trail passes Horseley Wood and Cabbage Wood before returning to Newport.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Coach & Horses is a good choice for some post exercise rest and refreshment. They serve very good food in a stylish modern interior. There's also a large garden area to relax in on warmer days."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine dog walk. The Coach and Horses pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "A few miles to the south there's the interesting village of Stansted Mountfitchet. The village includes a number of interesting local attractions including a church dating from the 12th-13th century, an 18th century windmill and a toy museum which claims to be the largest in the world. There's also the noteworthy Mountfitchet Castle which is now run as a wonderful Living History Museum where you can experience life as a villager in 1066."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/svAr5heUENY",
   "postcode": "CB11 3QX",
   "district": "Newport",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

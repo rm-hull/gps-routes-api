@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:16:00.138141+00:00",
   "objectID": "19cdf90ea07438d6bc45cd118a39488e",
-  "created_at": "2024-12-18T23:01:33.709772+00:00",
   "ref": "framlingham-castle-walking-route",
   "title": "Framlingham Castle Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Framlingham_Castle_across_The_Mere_-_geograph.org.uk_-_2354089.jpg/512px-Framlingham_Castle_across_The_Mere_-_geograph.org.uk_-_2354089.jpg",
@@ -18,7 +18,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Framlingham_Castle_-_geograph.org.uk_-_1395164.jpg",
       "title": "Tim Marchant / Framlingham Castle",
-      "caption": "View of the castle courtyard from the walls. The ancient castle has an interesting history.  Most notably Mary Tudor (daughter of Henry VIII and his first wife Catherine of Aragon) was proclaimed Queen of England here in 1553."
+      "caption": "View of the castle courtyard from the walls. The ancient castle has an interesting history. Most notably Mary Tudor (daughter of Henry VIII and his first wife Catherine of Aragon) was proclaimed Queen of England here in 1553."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Gated_Entrance_-_geograph.org.uk_-_947480.jpg/256px-Gated_Entrance_-_geograph.org.uk_-_947480.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 1.5,
   "description": "This walk visits the 12th century Framlingham Castle and follows the public footpaths surrounding the attractive Suffolk based market town. You can park at the castle car park to start your walk. The paths then take you around the pretty mere which is a Suffolk Wildlife Trust nature reserve and bird sanctuary. From here there are splendid views back over the water to the castle. The paths then take you around Framlingham College before heading back towards the castle. Here you can walk the full length of the parapet walls and climb some of the 13 towers for views across the mere. There's also the option of following footpaths through the countryside north east to Brabling Green. You can virtually explore the grounds of the castle by using the google street view link below!",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There is a good on site cafe providing a range of meals and snacks."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The castle grounds are a pleasant place for a dog walk. Please keep them on leads though. The cafe mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just east of the town there's the neighbouring market town of Saxmundham to visit. Here you can follow the East Suffolk Line Walks south through the valley of the River Fromus to the nearby Snape Maltings nature reserve on the River Alde. The expansive Tunstall Forest can also be found in this area. The Iken Walk can be picked up just south of the nearby Snape village at the Iken Cliff car park. It will take you east along the river to visit the splendid old St Botolph's Church. The ancient place of worship includes a part thatched roof and an ancient nave dating back to the 12th century. Just to the south west you could visit the pretty village of Helmingham and explore the 16th century Helmingham Hall Estate. There's some lovely footpaths here taking you to herbaceous borders, tree lined avenues and beautiful gardens. To the north there's the noteworthy village of Laxfield. The historic settlement has a number of traditional thatched cottages and timber-framed houses. There's also a 14th century church and 16th century pub in this attractive village. For more walking ideas in the area see the Suffolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/X297wxuJb-E",
   "postcode": "IP13 9BH",
   "district": "Framlingham",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

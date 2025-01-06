@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:17:03.409799+00:00",
   "objectID": "f522521ee68bcc805d0410fee52fae5b",
-  "created_at": "2024-12-18T09:59:20.710892+00:00",
   "ref": "mendlesham-walking-route",
   "title": "Mendlesham Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg/512px-Front_Street%2C_Mendlesham_-_geograph.org.uk_-_4667601.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 11.2,
   "description": "This Suffolk village lies a few miles east of Stowmarket and Stowupland. The village is located on the long distance Mid Suffolk Footpath and the Middy Railway Footpath. These can both be seen marked on the Ordnance Survey map below. This circular walk uses both these paths to visit the nearby hamlet of Mendlesham Green. Along the way there's nice views of the Suffolk countryside and farmland. Please scroll down for the full list of walks near and around Mendlesham. The detailed maps below also show a range of footpaths, bridleways and cycle paths in the area.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The King's Head dates back to the 17th century and can be found at postcode IP14 5SA. They serve real ale and are also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the east is the neighbouring village of Debenham where there are views of the River Deben and the longest ford in the country."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/hpVrZyr60Yg?si=T8v3J9Vyh1oHNxoz",
   "postcode": "IP14 5RZ",
   "district": "Mendlesham",
   "county": "Suffolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

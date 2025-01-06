@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:47:02.550743+00:00",
   "objectID": "7c27bbd9758b57a319cfc34818039e55",
-  "created_at": "2024-12-21T16:53:43.342781+00:00",
   "ref": "chiltern-way-berkshire-loop-walking-route",
   "title": "Chiltern Way Berkshire Loop Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Crowsley_Park_-_geograph.org.uk_-_1059540.jpg",
@@ -30,7 +30,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Crowsley_Park_-_geograph.org.uk_-_1059540.jpg",
       "title": "Andrew Smith / Crowsley Park",
-      "caption": "Crowsley Park.  A relatively small herd of cattle were gathered in this part of the park. I believe that they are White Parks, similar to British Whites but with horns. This shows the view across the dry valley of Harpsden Bottom."
+      "caption": "Crowsley Park. A relatively small herd of cattle were gathered in this part of the park. I believe that they are White Parks, similar to British Whites but with horns. This shows the view across the dry valley of Harpsden Bottom."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/The_west_bank_of_the_River_Thames_at_Henley-on-Thames_-_geograph.org.uk_-_2067029.jpg",
@@ -50,9 +50,11 @@
   ],
   "distance_km": 45.0,
   "description": "This walk runs from the outskirts of High Wycombe to Crowsley Park, near Henley on Thames. The route includes several long sections along the River Thames where you will pass a series of delightful riverside towns and villages. These include Cookham and then Henley-on-Thames, home to the famous annual regatta. The path also includes a couple of lovely wooded sections through Mill Wood and Cayton Park with the Chiltern Hills providing a beautiful backdrop for the duration of the walk.",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7c27bbd9758b57a319cfc34818039e55.gpx",
-  "_geoloc": {
-    "lat": 51.6199816174,
-    "lng": -0.6831424738
-  }
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Chilterns Cycleway runs close to the route. The signed circular trail runs for about 170 miles through the AONB on country lanes."
+    }
+  ],
+  "gazetteer_found": false
 }

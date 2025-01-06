@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:13:58.188028+00:00",
   "objectID": "6794e47937fd49ff67575ada1b602b8e",
-  "created_at": "2024-12-18T00:05:05.365932+00:00",
   "ref": "ebbw-valley-walk-walking-route",
   "title": "Ebbw Valley Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Festival_Park_in_Ebbw_Vale_-_geograph.org.uk_-_488350.jpg",
@@ -65,9 +65,16 @@
   ],
   "distance_km": 26.0,
   "description": "Travel through the beautiful Ebbw Valley on this walk from Festival Park in Ebbw Vale to the Sirhowy Valley Country Park, near Risca. On the way you will pass Crumlin, Newbridge, Abercarn, Crosskeys and Risca where you can enjoy riverside trails along the Sirhowy River.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head north and you can explore the popular Parc Bryn Bach where there's a lovely lakeside walking and cycling trail to try."
+    }
+  ],
   "postcode": "NP23 8FP",
   "district": "Ebbw Vale / Glyn Ebwy",
   "county": "Blaenau Gwent - Blaenau Gwent",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

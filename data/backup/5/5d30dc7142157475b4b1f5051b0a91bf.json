@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:09:13.255803+00:00",
   "objectID": "5d30dc7142157475b4b1f5051b0a91bf",
-  "created_at": "2024-12-18T16:57:28.339459+00:00",
   "ref": "taw-teign-link-walking-route",
   "title": "River Taw Teign Link Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Sticklepath_Bridge_on_the_river_Taw_as_seen_from_downstream_-_geograph.org.uk_-_1851788.jpg/512px-Sticklepath_Bridge_on_the_river_Taw_as_seen_from_downstream_-_geograph.org.uk_-_1851788.jpg",
@@ -69,10 +69,17 @@
     }
   ],
   "distance_km": 10.0,
-  "description": "This short walk takes you through the beautiful Dartmoor National Park and links the Tarka Trail and Two Moors Way. The walk begins near the River Taw in Sticklepath and heads through South Zeal before climbing Ramsley Hill where you can enjoy fabulous views of Dartmoor. You then head through Throwleigh and Blackaton Wood Nature Reserve before coming to the finish point at Chagford .",
+  "description": "This short walk takes you through the beautiful Dartmoor National Park and links the Tarka Trail and Two Moors Way . The walk begins near the River Taw in Sticklepath and heads through South Zeal before climbing Ramsley Hill where you can enjoy fabulous views of Dartmoor. You then head through Throwleigh and Blackaton Wood Nature Reserve before coming to the finish point at Chagford .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Oxenham Arms is a good choice for a pit stop in the village of South Zeal. The pub has an interesting history having originally been a 12th-century monastery. It has a charming interior with low beams, flagstone floors and open fires. Outside there's a nice garden area for warmer weather. You can find them at postcode EX202JT for your sat navs. The pub also has a car park and is dog friendly."
+    }
+  ],
   "postcode": "EX20 2NR",
   "district": "Sticklepath",
   "county": "Devon",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

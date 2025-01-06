@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:13:22.124793+00:00",
   "objectID": "7238b9d7e14818477cdb1d08cd52cb12",
-  "created_at": "2024-12-18T01:49:13.821584+00:00",
   "ref": "felbrigg-hall-park-walking-route",
   "title": "Felbrigg Hall Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Geese_on_Felbrigg_Pond_-_geograph.org.uk_-_724695.jpg",
@@ -35,7 +35,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Felbrigg_Hall_3.jpg",
       "title": "Evelyn Simak / View towards Felbrigg Hall",
-      "caption": "Felbrigg Hall.  In around 1450 Felbrigg was acquired by John Wyndham, a wealthy merchant from the Norfolk town of Wymondham. The manor house was altered and added on to by following generations until a family member, \"Mad Windham\", almost ruined the estate and was forced to sell it in 1863, with all its contents. The estate was purchased by John Ketton, a Norwich merchant, whose daughter married a distant cousin of \"Mad Windham\". Their grandson, Robert Wyndham Ketton-Cremer (d. 1969) bequeathed the Felbrigg Hall and estate to the National Trust."
+      "caption": "Felbrigg Hall. In around 1450 Felbrigg was acquired by John Wyndham, a wealthy merchant from the Norfolk town of Wymondham. The manor house was altered and added on to by following generations until a family member, \"Mad Windham\", almost ruined the estate and was forced to sell it in 1863, with all its contents. The estate was purchased by John Ketton, a Norwich merchant, whose daughter married a distant cousin of \"Mad Windham\". Their grandson, Robert Wyndham Ketton-Cremer (d. 1969) bequeathed the Felbrigg Hall and estate to the National Trust."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Felbrigg_Pond_-_geograph.org.uk_-_724692.jpg",
@@ -70,9 +70,20 @@
   ],
   "distance_km": 8.5,
   "description": "Explore Fellbrigg's 520 acres of rolling landscape park, woods and waymarked trails on this circular walk in Cromer, Norfolk. There's also the historic St Margaret's church to visit, just to the east of the hall. The church dates back to the 15th century and includes a noteworthy 14th century font. The hall is located very close to the Peddars Way and Norfolk Coast Path and Weavers' Way long distance trails. You can pick up these footpaths to extend your walking through the countryside surrounding the hall.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The park is a fine place for a dog walk with miles of woodland and parkland trails to explore. They are not permitted within the house or walled garden though."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west there are similar trails in the expansive Sheringham Park which is also run by the National Trust. The parkland surrounds the 19th century Sheringham Hall and includes miles of peaceful woodland trails, beautiful landscaped gardens full of rhododendrons and azaleas and fabulous views of the Norfolk coast. There is also an abundance of wildlife with 3 species of deer and a wide variety of birds and butterflies. For more walking ideas in the area see the Norfolk Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xt-jTjTpPrM",
   "postcode": "NR11 8PR",
   "county": "Norfolk",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

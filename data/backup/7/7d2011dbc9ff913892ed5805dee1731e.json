@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T02:02:26.109299+00:00",
   "objectID": "7d2011dbc9ff913892ed5805dee1731e",
-  "created_at": "2024-12-18T23:13:16.585833+00:00",
   "ref": "stadhampton-walking-route",
-  "title": "Stadhampton Walks Walking Route",
+  "title": "Stadhampton\u00a0Walks Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Stadhampton_Watermill_%283%29_-_brook%2C_Stadhampton_-_geograph.org.uk_-_2945482.jpg/512px-Stadhampton_Watermill_%283%29_-_brook%2C_Stadhampton_-_geograph.org.uk_-_2945482.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/7/7d2011dbc9ff913892ed5805dee1731e.gpx",
   "_geoloc": {
@@ -53,9 +53,16 @@
   ],
   "distance_km": 6.8,
   "description": "This Oxfordshire based village is located a few miles south east of the university city of Oxford. The rural village is located near the River Thame and has some nice country footpaths to try. There's also a number of noteworthy historical buildings including pretty thatched cottages and a church with Norman features. This circular walk from the village takes you to Ascott Park, Newbury Hill and the neighbouring village of Chalgrove. You can pick up the footpaths from the village and follow them south east to the farmland and village. On the way there's some pleasant countryside and views of the River Thame which runs through the area. Other features include the picturesque old watermill near Stadhampton and the quaint 17th century thatched cottages in Chalgrove. To continue your walking in the area head south west to visit nearby Dorchester on Thames where you could pick up the Thames Path National Trail. The Chalgrove will take you to the historic Brightwell Park Estate and Brightwell Baldwin.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Crazy Bear Hotel dates back to the 17th century and offers the choice of English or Thai restaurants within the same premises. You can find them at postcode OX44 7UR for your sat navs."
+    }
+  ],
   "postcode": "OX44 7UA",
   "district": "Stadhampton",
   "county": "Oxfordshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

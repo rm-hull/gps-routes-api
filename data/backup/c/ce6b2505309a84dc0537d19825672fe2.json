@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T03:22:39.798034+00:00",
   "objectID": "ce6b2505309a84dc0537d19825672fe2",
-  "created_at": "2024-12-18T12:27:31.187257+00:00",
   "ref": "tweed-valley-railway-path-walking-and-cycle-route",
   "title": "Tweed Valley Railway Path Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Old_Railway_Hut_remains%2C_Peebles_to_Galashiels_Line_-_geograph.org.uk_-_1772812.jpg/512px-Old_Railway_Hut_remains%2C_Peebles_to_Galashiels_Line_-_geograph.org.uk_-_1772812.jpg",
@@ -114,11 +114,22 @@
     }
   ],
   "distance_km": 10.3,
-  "description": "This shared cycling and walking trail runs along a disused railway line from Innerleithen to Peebles in the Scottish Borders. It's a nice easy route suitable for families or anyone looking for a safe, easy cycle or walk. On the way you'll pass Cardrona and Glentress Forest where there are cycle hire facilities. There's also some nice views of the River Tweed and the surrounding countryside to enjoy. The route runs for about 6 miles along the old Peebles Railway which was closed in 1962. The route makes up part of the Tweed Cycleway, a long distance cycle route running from  Berwick-Upon-Tweed to Biggar. You could extend your ride along the trail by heading west to Biggar or east to Galashiels.",
+  "description": "This shared cycling and walking trail runs along a disused railway line from Innerleithen to Peebles in the Scottish Borders. It's a nice easy route suitable for families or anyone looking for a safe, easy cycle or walk. On the way you'll pass Cardrona and Glentress Forest where there are cycle hire facilities. There's also some nice views of the River Tweed and the surrounding countryside to enjoy. The route runs for about 6 miles along the old Peebles Railway which was closed in 1962. The route makes up part of the Tweed Cycleway, a long distance cycle route running from Berwick-Upon-Tweed to Biggar. You could extend your ride along the trail by heading west to Biggar or east to Galashiels.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There are nice cafes in Cardrona and Glentress where you can stop off for refreshments."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "In Peebles you can continue your exploration of the old railway on the Neidpath Tunnel Walk. This will take you along the railway line to the Neidpath Viaduct before entering the murky tunnel. Portmore Loch lies just to the north of Peebles. There's some nice waterside trails here. Megget Reservoir, Talla Reservoir, Camps Reservoir and St Mary's Loch are also not too far away. The long distance John Buchan Way also starts/finishes in Peebles. The Cross Borders Drove Road passes through Peebles. It runs north to Harperrig Reservoir in the Pentland Hills or south to Hawick. Part of the circular Gypsy Glen Walk runs along the cycleway. The multi user route explores Cardrona Forest and the hills to the south of Peebles. It is popular with mountain bikers."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NxeeZaSHZsM",
   "postcode": "EH44 6RN",
   "district": "Innerleithen",
   "county": "Scottish Borders",
   "region": "Scotland",
-  "country": "Scotland"
+  "country": "Scotland",
+  "gazetteer_found": true
 }

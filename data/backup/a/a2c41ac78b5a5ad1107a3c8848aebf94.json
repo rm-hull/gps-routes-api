@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T00:55:15.716438+00:00",
   "objectID": "a2c41ac78b5a5ad1107a3c8848aebf94",
-  "created_at": "2024-12-18T16:26:38.635816+00:00",
   "ref": "syon-park-walking-route",
   "title": "Syon Park Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg/512px-View_of_Syon_House_from_Syon_Park_-_geograph.org.uk_-_2495182.jpg",
@@ -85,10 +85,17 @@
   ],
   "distance_km": 3.0,
   "description": "Enjoy a stroll around the 200-acre grounds of Syon House in Brentford. There are good footpaths taking you to lakes, woodland and the impressive Great Conservatory. There's 100 acres of Capability Brown inspired parkland, gardens, an arboretum and large areas of grassland and meadows. Kew Gardens and the Thames Path are close by so it's easy to extend your walk in this area.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The popular Crane Park is located nearby in Twickenham. The peaceful park includes an informative visitor centre, cafe, woodland trails along the River Crane, lots of wildlife and the interesting 18th century Shot Tower. Just north of here you can also reach the historic Cranford Country Park on the riverside trail."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/-Q2Z35gO568",
   "postcode": "TW8 8JF",
   "district": "London",
   "county": "Greater London",
   "region": "London",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

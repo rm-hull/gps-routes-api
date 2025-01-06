@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:21:26.097090+00:00",
   "objectID": "7aaac81487903bf1115875c7ba7fd622",
-  "created_at": "2024-12-18T19:44:47.773241+00:00",
   "ref": "chawton-park-wood-walking-route",
   "title": "Chawton Park Wood Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chawton_Park_Woods_-_geograph.org.uk_-_148392.jpg",
@@ -50,7 +50,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chawton_-_geograph.org.uk_-_1411716.jpg",
       "title": "Derek Harper / Chawton",
-      "caption": "Chawton village.  To the left of the Greyhound pub is a terrace of listed cottages of the late C18"
+      "caption": "Chawton village. To the left of the Greyhound pub is a terrace of listed cottages of the late C18"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/Jane_Austen%27s_House_-_geograph.org.uk_-_23041.jpg",
@@ -60,9 +60,24 @@
   ],
   "distance_km": 8.0,
   "description": "Enjoy a circular walk around this large area of woodland in Hampshire. The woods are located just to the west of the town of Alton and have miles of footpaths, tracks and bridleways to try. You can start the walk at the south western corner of the woods where there is a public car park (postcode GU34 5ED). It's located close to Medstead and Four Marks Railway Station so you could also start from their if you prefer. From the car park you can pick up the trails heading east towards Chawton village before following alternative trails back to form a circular walk. It's a peaceful spot and very pretty in the spring where there are lots of bluebells to see. Also keep your eyes for a variety of woodland birds as you make your way along the trails.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Chawton and you could visit The Greyfriar for some post walk refreshments. The historic pub dates all the way back to the 16th century and the time of the Spanish Armada. They do very good food and also have a lovely secluded garden area if the weather is fine. It's in a nice location, near the village green and directly opposite the former home of Jane Austen. You can find it on Winchester Road at postcode GU34 1SB for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The woods are ideal for dog walking so you're bound to bump into other owners with their dogs on a fine day. The Greyfriar pub mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "After exploring the woods you can enjoy a walk around the pretty village of Chawton. Here you'll find the noteworthy Chawton House where Jane Austen wrote some of her novels. The 400-year-old Elizabethan manor house houses a collection of over 9,000 volumes, together with some related manuscripts. In Alton you can pick up the Hangers Way and continue your walking on the South Downs. Selborne Common is also just a few miles away and has some more nice woodland trails to try."
+    }
+  ],
   "postcode": "GU34 5ED",
   "district": "Medstead",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

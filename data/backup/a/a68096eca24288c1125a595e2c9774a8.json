@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:12:35.503853+00:00",
   "objectID": "a68096eca24288c1125a595e2c9774a8",
-  "created_at": "2024-12-21T16:54:13.808527+00:00",
   "ref": "six-dales-trail-walking-route",
   "title": "Six Dales Trail Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Weir_on_River_Washburn-geograph-4450608-by-Martin-Dawes.jpg",
@@ -49,7 +49,7 @@
   "images": [
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Weir_on_River_Washburn-geograph-4450608-by-Martin-Dawes.jpg",
-      "title": "Martin Dawes / Weir  on  River  Washburn",
+      "title": "Martin Dawes / Weir on River Washburn",
       "caption": "Weir on River Washburn. The footpath to the right follows the river from Blubberhouses to Thruscross Dam and is on the Six Dales Trail, above the weir on the left Redshaw Gill Beck enters the river. The trail was opened by Janet Street-Porter in 2010 in conjunction with Otley Walking Festival."
     },
     {
@@ -79,21 +79,23 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Six_Dales_Trail_toward_Ellingstring_Plantation_-_geograph.org.uk_-_4453833.jpg/512px-Six_Dales_Trail_toward_Ellingstring_Plantation_-_geograph.org.uk_-_4453833.jpg?20230224034513",
-      "title": "Six  Dales  Trail  toward  Ellingstring  Plantation by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Six Dales Trail toward Ellingstring Plantation by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Towards Ellingstring Plantation"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Gouthwaite_Reservoir_from_the_Six_Dales_Trail_-_geograph.org.uk_-_4462053.jpg/512px-Gouthwaite_Reservoir_from_the_Six_Dales_Trail_-_geograph.org.uk_-_4462053.jpg?20230226095326",
-      "title": "Gouthwaite  Reservoir  from  the  Six  Dales  Trail by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
+      "title": "Gouthwaite Reservoir from the Six Dales Trail by Martin Dawes, CC BY-SA 2.0 <https://creativecommons.org/licenses/by-sa/2.0>, via Wikimedia Commons",
       "caption": "Gouthwaite Reservoir from the trail"
     }
   ],
   "distance_km": 61.0,
-  "description": "This stunning walk passes through six of the beautiful Yorkshire Dales - Wharfedale, Washburndale, Nidderdale, Colsterdale, Coverdale, and Wensleydale. The walk runs from Otley to Middleham passing through the Nidderdale AONB.  It includes riverside stretches along the River Washburn near the start of the walk, the River Nidd near Pateley Bridge and the River Ure towards the end of the walk at Middleham. You will also pass a series of lovely reservoirs including Fewston Reservoir, Gouthwaite Reservoir and Leighton Reservoir. One of the chief highlights on the route is Jervaulx Abbey - a 12th century former Cistercian monastery it now stands as an enchanting, atmospheric ruin. Also of interest is the English Heritage owned Middleham Castle where there are fantastic views of Wensleydale from the fascinating site.",
+  "description": "This stunning walk passes through six of the beautiful Yorkshire Dales - Wharfedale, Washburndale, Nidderdale, Colsterdale, Coverdale, and Wensleydale. The walk runs from Otley to Middleham passing through the Nidderdale AONB. It includes riverside stretches along the River Washburn near the start of the walk, the River Nidd near Pateley Bridge and the River Ure towards the end of the walk at Middleham. You will also pass a series of lovely reservoirs including Fewston Reservoir, Gouthwaite Reservoir and Leighton Reservoir. One of the chief highlights on the route is Jervaulx Abbey - a 12th century former Cistercian monastery it now stands as an enchanting, atmospheric ruin. Also of interest is the English Heritage owned Middleham Castle where there are fantastic views of Wensleydale from the fascinating site.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "At Leighton Reservoir you will find the Black Swan at Fearby. They do great food and also provide good quality accommodation if you need to stay over. Inside there's an attractive olde interior with a number of aerial photographs on the wall. Outside there's a lovely patio area where you can enjoy view across the Dale. You can find the inn at Fearby near Masham, with a postcode of HG4 4NF for your sat navs. The inn is also dog friendly if you have your canine friend with you."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/z0RxYCvPokE",
-  "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/a/a68096eca24288c1125a595e2c9774a8.gpx",
-  "_geoloc": {
-    "lat": 53.9061504512,
-    "lng": -1.6934490651
-  }
+  "gazetteer_found": false
 }

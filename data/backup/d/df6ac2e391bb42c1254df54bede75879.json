@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:37:41.215928+00:00",
   "objectID": "df6ac2e391bb42c1254df54bede75879",
-  "created_at": "2024-12-18T01:24:55.574763+00:00",
   "ref": "tamar-estuary-walking-route",
   "title": "Tamar Estuary - Saltash Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Saltash_Foreshore_-_geograph.org.uk_-_817684.jpg",
@@ -53,9 +53,24 @@
   ],
   "distance_km": 2.5,
   "description": "Explore the Tamar Estuary Nature Reserve on this short walk near Saltash. The reserve is located a couple of miles north of Saltash. You can follow a footpath along the estuary from Cargreen to Landulph. Look out for wildlife including avocet, shelduck and large numbers of waders. You can see a great view of the estuary at Cargreen using the google street view link below. It's a lovely spot with lots of sailboats and the Cornish countryside in the background. To explore the beautiful Tamar Valley further you can pick up the Tamar Valley Discovery Trail and visit the lovely Lopwell Dam Nature Reserve.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Head into Saltash and there's The Ferry House Inn to visit. There's a nice garden area where you can sit outside and enjoy views across the river. You can find them at 888 Wolseley Road with postcode PL5 1LA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The area makes for a pleasant dog walk and the Ferry House Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The Tamar Valley Line is a great way of seeing the area from a different perspective. The scenic railway takes you through rolling green, sleepy villages and beautiful river crossings. The highlight of the journey is when the train slowly creeps down over the impressive Calstock viaduct and you are 120 feet high looking down on the river below. Saltash is located near to Plymouth where you can visit Plymouth's Waterfront Walkway and Mount Edgcumbe Country Park. You can also pick up the long distance South West Coast Path and West Devon Way here. For more walking ideas in the area see the Cornwall Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/McFnttl8I5U",
   "district": "Cargreen",
   "county": "Cornwall",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

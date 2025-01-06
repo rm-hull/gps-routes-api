@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:28:13.001613+00:00",
   "objectID": "215a66c53eeb44ef9eecd53c62709c41",
-  "created_at": "2024-12-18T01:19:52.969228+00:00",
   "ref": "dewstow-gardens-and-grottoes-walking-route",
   "title": "Dewstow Gardens and Grottoes Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg/512px-Dewstow_Gardens_-_geograph.org.uk_-_656367.jpg",
@@ -32,10 +32,21 @@
     }
   ],
   "distance_km": 6.0,
-  "description": "These splendid gardens in Monmouthshire were built around 1895 but then buried just after WW2. They were rediscovered in 2000 and since then they have been beautifully restored. There are rock gardens, herbaceous borders, pretty  ponds and a wonderful labyrinth of underground grottoes, tunnels and sunken ferneries. The walk below takes you through the 7 acre gardens before heading into adjacent woodland where you can extend your walk along a variety of paths and tracks.",
+  "description": "These splendid gardens in Monmouthshire were built around 1895 but then buried just after WW2. They were rediscovered in 2000 and since then they have been beautifully restored. There are rock gardens, herbaceous borders, pretty ponds and a wonderful labyrinth of underground grottoes, tunnels and sunken ferneries. The walk below takes you through the 7 acre gardens before heading into adjacent woodland where you can extend your walk along a variety of paths and tracks.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "There's an on site coffee shop selling cold drinks, snacks and light meals."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "Only guide dogs are permitted into the gardens."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/xCJ2dV5kfDo",
   "postcode": "NP26 5AH",
   "county": "Sir Fynwy - Monmouthshire",
   "region": "Wales",
-  "country": "Wales"
+  "country": "Wales",
+  "gazetteer_found": true
 }

@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T04:12:35.654886+00:00",
   "objectID": "ca66a0645ae1b0956af05137c35f155c",
-  "created_at": "2024-12-18T09:14:55.545186+00:00",
   "ref": "sherston-walking-route",
   "title": "Sherston Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sherston_-_geograph.org.uk_-_1745966.jpg",
@@ -80,8 +80,23 @@
   ],
   "distance_km": 6.5,
   "description": "A circular walk from the Wiltshire village of Sherston, visiting the nearby Luckington Court on the way. The walk runs for just over 4 miles, using a section of the Macmillan Way to take you to Luckington before following other country paths back to the village. It's a fairly flat route with nice Cotswolds countryside and views of the Sherston branch of the River Avon on the way. In Luckington you'll pass the 16th century Luckington Court. Both the interiors and exterior were used to represent Longbourn, the Bennet family home, in the BBC's 1995 TV series Pride and Prejudice. There's also a fine historic pub in Sherston to visit after your exercise.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "In Sherston you can visit the Rattlebone Inn for some post walk refreshments. The 16th century village pub has roaring fires in the Winter, lots of nooks and crannies, and bags of charm and character. The pub is named after John Rattlebone who was fatally wounded in the Battle of Sherston in 1016 when he fought alongside Edmund Ironside and defeated King Canute. You can find the pub on Church Street, with a postcode of SN16 0LR for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country trails are ideal for dog walking and the Rattlebone Inn mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "To continue your walking around the village head south west to visit the Badminton House and Estate. In the park there are two large ponds, several deer, attractive parkland and the 17th century Badminton House. A little further to the west you can pick up the circular Hawkesbury Upton Walk and visit the National Trust's Horton Court. The Grade I listed manor house dates back to the 16th century and is surrounded by some pretty gardens. In the area there's also a historic 400 year old pub and the Somerset Monument to visit."
+    }
+  ],
   "district": "Sherston",
   "county": "Wiltshire",
   "region": "South West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

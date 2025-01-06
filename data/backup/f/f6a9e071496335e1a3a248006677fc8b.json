@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:16:48.906920+00:00",
   "objectID": "f6a9e071496335e1a3a248006677fc8b",
-  "created_at": "2024-12-18T09:57:12.950916+00:00",
   "ref": "ecchinswell-walking-route",
   "title": "Ecchinswell Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg/512px-The_main_street%2C_Ecchinswell_-_geograph.org.uk_-_2917762.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 11.0,
   "description": "This pretty Hampshire village is in a great spot for exploring the rolling Hampshire Downs and Hangers. This circular walk from the village visits the famous Watership Down and the neighbouring settlements of Sydmonton and Kingsclere. You'll also pass the excellent viewpoints at Ladle Hill and Nuthanger Down. Watership Down is located just south of the village on the Wayfarer's Walk long distance footpath. The down provides some splendid views over the area. The area was made famous by Richard Adams' 1972 novel and the subsequent animated film. Also on the walk is the Sydmonton Court estate, just to the south west of Ecchinswell. The estate consists of a 16th century Tudor manor house and is home to the summer arts Sydmonton Festival.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Royal Oak is a great place for some post walk refreshments. The pub serves good quality traditional pub food and includes a particularly huge beer garden. The inn can be found at postcode RG20 4UH for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails make for a fine walk for fit dogs. The Royal Oak pub in the village is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west is one of the local highlights at Highclere Castle. The house is famous as the location of period drama 'Downton Abbey'. It's surrounded by a 5000 acre estate with miles of good walking trails including the fine viewpoint on Beacon Hill."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/4uIIoXwwbEk",
   "postcode": "RG20 4UF",
   "district": "Ecchinswell",
   "county": "Hampshire",
   "region": "South East",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

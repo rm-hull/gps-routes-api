@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T08:44:57.042145+00:00",
   "objectID": "bb2e9b0d449a5bbf91f5e28673ca701c",
-  "created_at": "2024-12-18T14:10:57.076018+00:00",
   "ref": "ridgeway-link-walking-route",
   "title": "Ridgeway Link Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Chilterns_Gateway_Centre_-_geograph.org.uk_-_746245.jpg",
@@ -60,7 +60,14 @@
   ],
   "distance_km": 12.0,
   "description": "This is a walking path which runs from the Chilterns Gateway Visitor Centre near Dunstable to the Ridgeway National Trail at Ivinghoe Beacon. There are splendid views of the surrounding area at the start before heading through Dunstable Downs, Whipsnade and Dagnall. You will also pass the the beautiful Whipsnade Tree Cathedral and Whipsnade Zoo where you can view a number of wild animals from the trail. The path finishes on Ivinghoe Beacon with more splendid views to enjoy.",
+  "details": [
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "The path is coincident with the waymarked Icknield Way Path which can be used to further explore this area. For more walking ideas in the area see the Chilterns Walks page."
+    }
+  ],
   "county": "Central Bedfordshire",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

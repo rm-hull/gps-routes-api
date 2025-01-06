@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-05T23:50:59.137313+00:00",
   "objectID": "807b6787048e9615841a92432036a333",
-  "created_at": "2024-12-18T11:25:54.864316+00:00",
   "ref": "selby-canal-walking-route",
   "title": "Selby Canal Walking Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/The_Selby_Canal_-_geograph.org.uk_-_199461.jpg",
@@ -65,7 +65,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fishing_Platforms_on_the_Selby_Canal_-_geograph.org.uk_-_199774.jpg",
       "title": "Roger Gilbertson / Fishing Platforms on the Selby Canal, via Wikimedia Commons",
-      "caption": "Fishing Platforms on the canal.  Although a broad canal at this point, the design of some bridges would restrict the beam of vessels able to use it"
+      "caption": "Fishing Platforms on the canal. Although a broad canal at this point, the design of some bridges would restrict the beam of vessels able to use it"
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Culvert_on_the_Selby_Canal_-_geograph.org.uk_-_644641.jpg",
@@ -74,16 +74,27 @@
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Burn_bridge_on_the_Selby_Canal_-_geograph.org.uk_-_805137.jpg",
-      "title": "Steve  F [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
+      "title": "Steve F [CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons",
       "caption": "Burn bridge on the Canal. Carrying the A19 road to Doncaster."
     }
   ],
   "distance_km": 9.5,
   "description": "Follow the Selby Canal from the Yorkshire town of Selby to West Haddlesey on this nice waterside walk. The canal runs for 6 miles, linking the River Ouse in Selby with the River Aire in West Haddlesey. It's a very pleasant walk with locks, barges and nice tree lined footpaths on the way. There's also good views of the surrounding Yorkshire countryside for much of the route. The walk starts just east of the train station where you can pick up the Trans Pennine Trail and follow it south along the canal. The shared cycling and walking trail takes you past Westfield and Oakney Wood. The trail continues past Brayton, Burn Bridge and Burton Bridge before coming into West Haddlesey where the canal joins with the River Aire. If you'd like to continue your walking around Selby you could head to the nearby Skipwith Common. There's lots of nice trails here with the added bonus of Exmoor ponies and a herd of wild deer to look out for. The common is located just a few miles north east of the town centre.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Near the end of the walk you can visit The Jug Inn in Chapel Haddlesey for some refreshments. The popular pub has a good menu and a nice outdoor seating area. You can find it just to the east of the canal at postcode YO8 8QE."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the west there's the expansive Bishop Wood near Sherburn in Elmet. There's miles of trails to follow around this ancient woodland with pretty bluebells to see in the spring months. To the east there's the circular Howden 20 where you can visit the impressive Howden Minster in the nearby market town."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/DGmLFx0nUlo",
   "postcode": "YO8 8FB",
   "district": "Selby",
   "county": "North Yorkshire",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

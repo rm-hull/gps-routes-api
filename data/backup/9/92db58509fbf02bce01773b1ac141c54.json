@@ -1,8 +1,8 @@
 {
+  "created_at": "2025-01-06T01:57:12.442083+00:00",
   "objectID": "92db58509fbf02bce01773b1ac141c54",
-  "created_at": "2024-12-18T09:27:29.847577+00:00",
-  "ref": "bramhope circular-walk-walking-route",
-  "title": "Bramhope Circular Walk Route",
+  "ref": "bramhope\u00a0circular-walk-walking-route",
+  "title": "Bramhope\u00a0Circular Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Eastgate_-_Bramhope_-_geograph.org.uk_-_798355.jpg",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/9/92db58509fbf02bce01773b1ac141c54.gpx",
   "_geoloc": {
@@ -53,9 +53,24 @@
   ],
   "distance_km": 14.0,
   "description": "This pretty Yorkshire village is located just to the north of Leeds city centre. It's an attractive village with some of the most expensive houses in the area. This circular walk from the settlement visits two of the local highlights at Eccup Reservoir and the Golden Acre Park. The walk starts in the village and follows footpaths east along the Ebor Way to Arthington Quarry and Bank Top Lane. At Bank Side you head south along the Dales Way to Bowshaws Ash Hill and Eccup Reservoir. There's a nice circular trail to follow around the lake and woodland here. The walk then heads west along the Leeds Country Way to visit Golden Acre Park. There's well laid out footpaths taking you around lakes, woodland and gardens in this popular park on the outskirts of Leeds. From the park you continue west to Crag Hill before turning north east past Bramhope Moor to return to the village. To extend the walk head west along the Ebor Way to visit the popular Otley Chevin Country Park where you can enjoy fine views from the hill top at The Chevin.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Back in the village you can enjoy some post walk refreshment at the Fox and Hounds. The pub dates back to 1728 and serves good quality homemade food. There's also a spacious beer garden to the rear, along with a large private car park. You can find them at postcode LS16 9BA for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The country and woodland trails on the route make for a fine dog walk. The Fox and Hounds mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just to the north of the village you'll find the impressive Arthington Viaduct. The historic Grade II listed structure is well worth a visit with some nice walks along the River Wharfe to enjoy."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/XS4EN8EtAM8",
   "postcode": "LS16 9AA",
   "district": "Bramhope",
   "region": "Yorkshire and the Humber",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

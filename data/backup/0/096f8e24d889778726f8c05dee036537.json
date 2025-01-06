@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T02:47:07.686451+00:00",
   "objectID": "096f8e24d889778726f8c05dee036537",
-  "created_at": "2024-12-18T09:55:41.391521+00:00",
   "ref": "brough-walking-route",
   "title": "Brough Walks - Castle and Beck",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Brough_Castle_-_geograph.org.uk_-_2483848.jpg/512px-Brough_Castle_-_geograph.org.uk_-_2483848.jpg",
@@ -53,10 +53,21 @@
   ],
   "distance_km": 5.5,
   "description": "This Cumbrian town includes a historic castle, waterside trails along the Swindale Beck and some lovely Eden countryside scenery. This circular walk starts at the ruined castle in the town. The Castle dates back to the 11th century and is now in the care of English Heritage. Nearby there's the Norman St Michael's church where you can learn all about the history of the site. After exploring the grounds you can then follow bridle tracks west past the Verteris Roman Fort towards Great Musgrave. Here you cross the Swindale Beck and follow the Musgrave Lane back east towards the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "Brough Castle Ice Cream Parlour and Tearoom can be found right next to the castle. It's a nice place for a rest and some refreshments after your exercise."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Head south west and you can explore the pleasant market town of Kirkby Stephen and enjoy a walk along the River Eden. For more walking ideas in the area see the Howgills Walks and the Cumbria Walks pages."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/NfxzIu7e718",
   "postcode": "CA17 4EJ",
   "district": "Brough",
   "county": "Westmorland and Furness",
   "region": "North West",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

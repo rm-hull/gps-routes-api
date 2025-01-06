@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:35:15.083565+00:00",
   "objectID": "efe62fa4722e4b975c77102f38da29fd",
-  "created_at": "2024-12-20T04:45:56.240841+00:00",
   "ref": "compton-verney-walking-route",
   "title": "Compton Verney Walks",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/East_wing_at_Compton_Verney_-_geograph.org.uk_-_2588935.jpg/512px-East_wing_at_Compton_Verney_-_geograph.org.uk_-_2588935.jpg",
@@ -105,8 +105,19 @@
   ],
   "distance_km": 3.2,
   "description": "This walk explores the Capability Brown landscaped grounds surrounding this Georgian Mansion in Warwickshire. There's good footpaths taking you around 120 acres of parkland, gardens, artistic sculptures and lakes. You can pay for access to the grounds and house or follow public footpaths and bridleways running around the edge of the estate. Other features include an award winning art galleries, a gift shop and some impressive redwoods in the park.",
+  "details": [
+    {
+      "subtitle": "Dog Walking",
+      "content": "The parkland trails make for a fine dog walk. Please keep them on leads. Only assistance dogs are allowed in the House and Galleries."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just a couple of miles to the north west you'll find one of the highlights of the area at the National Trust's Charlecote Park. There's a large lake, deer park and nice trails along the River Avon here. You can reach the park from the nearby village of Wellesbourne on the Wellesbourne Walk. It's about a 2 mile walk from the village, running along the River Dene. You can also visit the village's historic watermill beforehand. Just to the east is Gaydon where you can visit the British Motor Museum. The noteworthy museum houses one of the largest collections of historic British cars in the world. Just to the south west there's Ettington Park to explore. Here you'll find a Grade I listed Victorian mansion surrounded by 40 acres of lovely parkland with well laid out gardens, an Orangery, an ancient Norman Chapel and views of the River Stour. For more walking ideas in the area see the Warwickshire Walks page."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/3CTVKXdcTIA",
   "county": "Warwickshire",
   "region": "West Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

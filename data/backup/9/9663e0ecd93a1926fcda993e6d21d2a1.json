@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:03:56.181591+00:00",
   "objectID": "9663e0ecd93a1926fcda993e6d21d2a1",
-  "created_at": "2024-12-19T10:38:54.763743+00:00",
   "ref": "beeley-walking-route",
   "title": "Beeley Moor Walk Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Devonshire_Arms%2C_Beeley_-_geograph.org.uk_-_2869840.jpg/512px-The_Devonshire_Arms%2C_Beeley_-_geograph.org.uk_-_2869840.jpg",
@@ -53,10 +53,25 @@
   ],
   "distance_km": 13.2,
   "description": "This walk visits the delightful village of Beeley in the Derbyshire Dales. The picturesque village is in a great spot for walkers with the wonderful Chatsworth Park and the River Derwent local highlights. This circular walk from the village visits Carlton Lees, Rowsley, Smeltingmill Brook and Beeley Moor. The moor rises to the east of the village and is criss crossed with numerous footpaths. There are great views from the high points and some peaceful woodland trails in the Beeley Plantation. From the moor you can see Lindop Wood, Stanton Moor, the River Derwent Valley and many of the hills of the White Peak area of the Peak District. Part of the walk uses a section of the Derwent Valley Heritage Way, a long distance footpath running along the River Derwent to the west of the village.",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "The Devonshire Arms is a nice place for rest and refreshment after your walk. The historic pub originated as three separate cottages in 1726 and was subsequently converted into an Inn in 1747. Visitors were transported by coaches from London and the Peak, stopping in Beeley's coaching inn so the horses could rest. Among them was the renowned author Charles Dickens, who visited frequently during his lifetime. It is also said that King Edward VII often met his mistress Alice Keppel at the inn. The inn serves good quality food and includes a pleasant garden area for warmer days. They also provide roooms if you would like to stay in the area. You can find them at Devonshire Square with postcode DE4 2NZ for your sat navs."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The moorland and woodland trails make for a fine dog walk. The Devonshire Arms mentioned above is also dog friendly."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Just west of the village you'll find the historic Haddon Hall. There's some pretty gardens and views of the River Wye from the Medieval grounds of the hall."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/MPNvjzSBvKE",
   "postcode": "DE4 2ND",
   "district": "Beeley",
   "county": "Derbyshire",
   "region": "East Midlands",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }

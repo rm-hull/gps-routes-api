@@ -1,6 +1,6 @@
 {
+  "created_at": "2025-01-06T01:09:21.233113+00:00",
   "objectID": "1ae6b992278568c68f9fbf359cb8a2a5",
-  "created_at": "2024-12-18T12:58:42.308052+00:00",
   "ref": "flitch-way-walking-and-cycle-route",
   "title": "Flitch Way Walking and Cycle Route",
   "headline_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Flitch_Way_Country_Park_-_Braintree_station_entrance.JPG/512px-Flitch_Way_Country_Park_-_Braintree_station_entrance.JPG",
@@ -70,7 +70,7 @@
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/e/ea/The_Flitch_Way_-_geograph.org.uk_-_1710555.jpg",
       "title": "Thomas Nugent / The Flitch Way",
-      "caption": "View of the former  Bishop\u2019s Stortford to Braintree branch railway, now converted to a footpath. Looking towards the former Takeley station from Canfield Road."
+      "caption": "View of the former Bishop\u2019s Stortford to Braintree branch railway, now converted to a footpath. Looking towards the former Takeley station from Canfield Road."
     },
     {
       "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Rayne_Station_Centre_-_Flitch_Way_Country_Park_-_geograph.org.uk_-_865763.jpg",
@@ -105,8 +105,23 @@
   ],
   "distance_km": 24.0,
   "description": "The Flitch Way is a cycle and walking route running along a decomissioned railway line through Essex. Starting in Bishop's Stortford, the path takes you through Hatfield Forest and the town of Great Dunmow to Braintree. Highlights include the Victorian railway stations dotted along the path, deer in Hatfield Forest Country Park and views of the River Chelmer near Great Dunmow .",
+  "details": [
+    {
+      "subtitle": "Pubs/Cafes",
+      "content": "On the route you can stop off for refreshments at the Booking Hall Cafe at Rayne Station. The cafe also houses a free museum with information and old photos about the history of the railway. You can find the station at Station House Road, Rayne with a postcode of CM77 6RX for your sat navs. In Great Dunmow there's The Angel and Harp. They have a nice interior with with oak beams and red brick fireplace. They serve good quality food and have a nice garden area to sit out in too. You can find them at 16 Church Street, CM6 2AD."
+    },
+    {
+      "subtitle": "Dog Walking",
+      "content": "The trail is popular with dog walkers you'll probably see plenty of other owners as you make your way along the path. The cafe mentioned above is also dog friendly. Hatfield Forest, on the route, is another good spot to take your dog with lots of fine woodland trails."
+    },
+    {
+      "subtitle": "Further Information and Other Local Ideas",
+      "content": "Near Braintree you'll pass Great Notley Country Park where there's some good cycling and walking trails to try. The 100 acre park is just south of the route and has wetland areas and a lake."
+    }
+  ],
   "video_url": "https://www.youtube.com/embed/gasD8dhXEho",
   "county": "Essex",
   "region": "Eastern",
-  "country": "England"
+  "country": "England",
+  "gazetteer_found": true
 }
