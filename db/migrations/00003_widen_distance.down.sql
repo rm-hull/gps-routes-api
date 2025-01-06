@@ -1,1 +1,0 @@
-ALTER TABLE routes ALTER COLUMN distance_km TYPE NUMERIC(5, 2);
