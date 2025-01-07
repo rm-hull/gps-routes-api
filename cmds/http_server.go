@@ -14,6 +14,7 @@ import (
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
+	cachecontrol "go.eigsys.de/gin-cachecontrol/v2"
 
 	"github.com/rm-hull/gps-routes-api/db"
 	"github.com/rm-hull/gps-routes-api/middlewares"
@@ -48,6 +49,7 @@ func NewHttpServer() {
 		middlewares.ErrorHandler(),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
+		cachecontrol.New(cachecontrol.CacheAssetsForeverPreset),
 	)
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)
