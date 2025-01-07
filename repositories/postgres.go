@@ -250,7 +250,8 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 			END AS description,
 			headline_image_url,
 			ST_X(_geoloc) AS longitude,
-			ST_Y(_geoloc) AS latitude
+			ST_Y(_geoloc) AS latitude,
+			distance_km
 		FROM routes`
 
 	sortField := "created_at"
@@ -278,7 +279,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 		err := rows.Scan(
 			&summary.ObjectID, &summary.Ref, &summary.Title,
 			&summary.Description, &summary.HeadlineImageUrl,
-			&longitude, &latitude)
+			&longitude, &latitude, &summary.DistanceKm)
 		if err != nil {
 			return nil, fmt.Errorf("failed to scan summary: %v", err)
 		}

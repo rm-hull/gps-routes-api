@@ -26,5 +26,8 @@ type RouteSummary struct {
 	// The main image URL associated with the route
 	HeadlineImageUrl string `json:"headline_image_url"`
 
+	// A rough distance indicating the length of the route
+	DistanceKm float64 `json:"distance_km,omitempty"`
+
 	StartPosition GeoLoc `json:"_geoloc,omitempty"`
 }
