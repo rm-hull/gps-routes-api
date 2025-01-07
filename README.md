@@ -1,4 +1,4 @@
-# gps-routes-api
+# gps-routes-api [![Go Report Card](https://goreportcard.com/badge/github.com/rm-hull/gps-routes-api)](https://goreportcard.com/report/github.com/rm-hull/gps-routes-api)
 
 ## Local setup
 

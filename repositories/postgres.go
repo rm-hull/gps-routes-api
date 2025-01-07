@@ -90,7 +90,7 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 	results := repo.pool.SendBatch(ctx, batch)
 	defer results.Close()
 
-	// Ensure all queries in the batch suceed
+	// Ensure all queries in the batch succeed
 	for i := range batch.Len() {
 		if _, err := results.Exec(); err != nil {
 			return fmt.Errorf("batch insert failed at query %d: %v", i, err)
