@@ -14,7 +14,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/schollz/progressbar/v3 v3.17.1
 	github.com/spf13/cobra v1.8.1
-	github.com/tavsec/gin-healthcheck v1.7.0
+	github.com/tavsec/gin-healthcheck v1.7.1
 	go.eigsys.de/gin-cachecontrol/v2 v2.2.0
 	go.mongodb.org/mongo-driver v1.17.1
 )
