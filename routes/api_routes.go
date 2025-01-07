@@ -34,9 +34,7 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	}
 	route, err := api.Service.GetRouteByID(objectID)
 	if err != nil {
-		if err := c.Error(err); err != nil {
-			log.Fatalf("couldnt record error: %v", err)
-		}
+		c.Error(err) //nolint:errcheck
 		return
 	}
 
@@ -79,9 +77,7 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 
 	matches, err := api.Service.Search(&payload)
 	if err != nil {
-		if err := c.Error(err); err != nil {
-			log.Fatalf("couldnt record error: %v", err)
-		}
+		c.Error(err) //nolint:errcheck
 		return
 	}
 

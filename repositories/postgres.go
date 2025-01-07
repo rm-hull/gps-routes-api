@@ -123,8 +123,12 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 		&route.Postcode, &route.District, &route.County, &route.Region,
 		&route.State, &route.Country,
 	)
+	if err == pgx.ErrNoRows {
+		return nil, nil
+	}
+
 	if err != nil {
-		return nil, fmt.Errorf("failed to fetch route with ObjectID %s: %v", objectID, err)
+		return nil, fmt.Errorf("failed to scan query result: %v", err)
 	}
 
 	// Map the start position to the GeoLoc struct.
