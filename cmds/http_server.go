@@ -36,7 +36,7 @@ func NewHttpServer() {
 	}
 	defer pool.Close()
 
-	repo := repositories.NewPostgresRouteRepository(pool, config.Schema)
+	repo := repositories.NewCachedRepository(repositories.NewPostgresRouteRepository(pool, config.Schema))
 	service := services.NewRoutesService(repo)
 
 	log.Printf("Server started, version: %s", versioninfo.Short())
