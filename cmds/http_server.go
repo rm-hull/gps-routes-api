@@ -40,7 +40,10 @@ func NewHttpServer() {
 	engine := gin.New()
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
+		ginprom.Namespace("gps_routes"),
+		ginprom.Subsystem("api"),
 	)
+
 	engine.Use(
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
 		gin.Recovery(),
