@@ -5,6 +5,7 @@ import (
 	"log"
 	"time"
 
+	"github.com/Depado/ginprom"
 	"github.com/aurowora/compress"
 	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/gin-contrib/cors"
@@ -36,12 +37,10 @@ func NewHttpServer() {
 	}
 	defer pool.Close()
 
-	repo := repositories.NewCachedRepository(repositories.NewPostgresRouteRepository(pool, config.Schema))
-	service := services.NewRoutesService(repo)
-
-	log.Printf("Server started, version: %s", versioninfo.Short())
-
 	engine := gin.New()
+	prometheus := ginprom.New(
+		ginprom.Engine(engine),
+	)
 	engine.Use(
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
 		gin.Recovery(),
@@ -50,6 +49,7 @@ func NewHttpServer() {
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
 		cachecontrol.New(cachecontrol.CacheAssetsForeverPreset),
+		prometheus.Instrument(),
 	)
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)
@@ -61,11 +61,16 @@ func NewHttpServer() {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
 
+	pg := repositories.NewPostgresRouteRepository(pool, config.Schema)
+	repo := repositories.NewCachedRepository(prometheus, pg)
+	service := services.NewRoutesService(repo)
+
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{
 			Service: service,
 		},
 	})
 
+	log.Printf("Server started, version: %s", versioninfo.Short())
 	log.Fatal(router.Run(":8080"))
 }
