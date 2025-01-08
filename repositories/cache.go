@@ -21,11 +21,11 @@ type CachedDbRepository struct {
 
 // updateMetrics updates the Prometheus metrics for cache hits and misses.
 func (repo *CachedDbRepository) updateMetrics(method string, cached bool) {
-	repo.prometheus.SetGaugeValue("repo_cache_size", []string{}, float64(repo.cache.Storage.ItemCount()))
+	repo.prometheus.SetGaugeValue("repo_cache_size", []string{}, float64(repo.cache.Storage.ItemCount())) //nolint:errcheck
 	if cached {
-		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "hit"})
+		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "hit"}) //nolint:errcheck
 	} else {
-		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "miss"})
+		repo.prometheus.IncrementCounterValue("repo_cache_stats_total", []string{method, "miss"}) //nolint:errcheck
 	}
 }
 
