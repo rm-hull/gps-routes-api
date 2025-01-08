@@ -11,7 +11,6 @@ package routes
 
 import (
 	"fmt"
-	"log"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
@@ -64,7 +63,21 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 	err := c.ShouldBind(&payload)
 	if err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
-		log.Printf("Error: %v", err)
+		return
+	}
+
+	// If limit not specified, default to 10
+	if payload.Limit == 0 {
+		payload.Limit = 10
+	}
+
+	if payload.Limit < 0 || payload.Limit > 100 {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "limit is out of range - allowed values: 0..100"})
+		return
+	}
+
+	if payload.Offset < 0 || payload.Offset > 100_000 {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "offset is out of range - allowed values: 0..100_000"})
 		return
 	}
 
@@ -81,6 +94,6 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 		return
 	}
 
-	c.JSON(200, matches)
+	c.JSON(http.StatusOK, matches)
 
 }
