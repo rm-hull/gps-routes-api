@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"github.com/Depado/ginprom"
+	ratelimit "github.com/JGLTechnologies/gin-rate-limit"
 	"github.com/aurowora/compress"
 	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/gin-contrib/cors"
@@ -44,6 +45,22 @@ func NewHttpServer() {
 		ginprom.Subsystem("api"),
 	)
 
+	rlStore := ratelimit.InMemoryStore(&ratelimit.InMemoryOptions{
+		Rate:  time.Second,
+		Limit: 5,
+	})
+	rateLimiter := ratelimit.RateLimiter(rlStore, &ratelimit.Options{
+		ErrorHandler: func(c *gin.Context, info ratelimit.Info) {
+			c.JSON(429, gin.H{
+				"error":   "Too many requests",
+				"message": "Try again in " + time.Until(info.ResetTime).String(),
+			})
+		},
+		KeyFunc: func(c *gin.Context) string {
+			return c.ClientIP()
+		},
+	})
+
 	engine.Use(
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
 		gin.Recovery(),
@@ -53,6 +70,7 @@ func NewHttpServer() {
 		limits.RequestSizeLimiter(10*1024),
 		cachecontrol.New(cachecontrol.CacheAssetsForeverPreset),
 		prometheus.Instrument(),
+		rateLimiter,
 	)
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)

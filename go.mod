@@ -13,7 +13,7 @@ require (
 	github.com/jackc/pgx v3.6.2+incompatible
 	github.com/jackc/pgx/v5 v5.7.2
 	github.com/joho/godotenv v1.5.1
-	github.com/schollz/progressbar/v3 v3.17.1
+	github.com/schollz/progressbar/v3 v3.18.0
 	github.com/spf13/cobra v1.8.1
 	github.com/tavsec/gin-healthcheck v1.7.1
 	go.eigsys.de/gin-cachecontrol/v2 v2.2.0
@@ -21,6 +21,7 @@ require (
 )
 
 require (
+	github.com/JGLTechnologies/gin-rate-limit v1.5.4 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
