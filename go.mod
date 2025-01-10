@@ -4,6 +4,7 @@ go 1.23
 
 require (
 	github.com/Depado/ginprom v1.8.1
+	github.com/JGLTechnologies/gin-rate-limit v1.5.4
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
 	github.com/gin-contrib/cors v1.7.3
@@ -21,7 +22,6 @@ require (
 )
 
 require (
-	github.com/JGLTechnologies/gin-rate-limit v1.5.4 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/matttproud/golang_protobuf_extensions/v2 v2.0.0 // indirect
 	github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 // indirect
