@@ -125,7 +125,7 @@ func (repo *MongoDbRepository) CountAll(ctx context.Context, criteria *model.Sea
 	return total, nil
 }
 
-func (repo *MongoDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32) (*map[string]int64, error) {
+func (repo *MongoDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, excludeFacets ...string) (*map[string]int64, error) {
 	pipeline := []bson.M{
 		{
 			"$match": buildQuery(criteria),

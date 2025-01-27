@@ -8,14 +8,15 @@ import (
 )
 
 type QueryBuilder struct {
-	criteria     *model.SearchRequest
-	selectPart   string
-	whereClauses []string
-	params       []interface{}
-	orderBy      string
-	groupBy      string
-	limit        string
-	offset       string
+	criteria       *model.SearchRequest
+	selectPart     string
+	whereClauses   []string
+	excludedFacets []string
+	params         []interface{}
+	orderBy        string
+	groupBy        string
+	limit          string
+	offset         string
 }
 
 func NewQueryBuilder(selectPart string, criteria *model.SearchRequest) *QueryBuilder {
@@ -73,7 +74,30 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 	return qb
 }
 
+func (qb *QueryBuilder) WithExcludeFacets(facetNames ...string) *QueryBuilder {
+	qb.excludedFacets = facetNames
+	return qb
+}
+
 func (qb *QueryBuilder) Build() (string, []interface{}) {
+
+	if qb.criteria.Facets != nil {
+		for facet, values := range qb.criteria.Facets {
+			excluded := false
+
+			for _, name := range qb.excludedFacets {
+				if name == facet {
+					excluded = true
+					break
+				}
+			}
+
+			if !excluded {
+				qb.WithWhereClause(fmt.Sprintf("%s = ANY($%d)", facet, len(qb.params)+1))
+				qb.params = append(qb.params, values)
+			}
+		}
+	}
 
 	var whereClause string
 	if len(qb.whereClauses) > 0 {
@@ -104,13 +128,6 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 		qb.WithWhereClause(fmt.Sprintf("ST_Within(_geoloc, ST_MakeEnvelope($%d, $%d, $%d, $%d, 4326))", offsetPlaceholder, offsetPlaceholder+1, offsetPlaceholder+2, offsetPlaceholder+3))
 		for _, value := range qb.criteria.BoundingBox {
 			qb.params = append(qb.params, value)
-		}
-	}
-
-	if qb.criteria.Facets != nil {
-		for facet, values := range qb.criteria.Facets {
-			qb.WithWhereClause(fmt.Sprintf("%s = ANY($%d)", facet, len(qb.params)+1))
-			qb.params = append(qb.params, values)
 		}
 	}
 

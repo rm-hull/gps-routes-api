@@ -55,8 +55,8 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 		resultsChan <- *results
 	}
 
-	fetchFacet := func(fieldName string, limit int32) {
-		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit)
+	fetchFacet := func(fieldName string, limit int32, excludeFacets ...string) {
+		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit, excludeFacets...)
 		if err != nil {
 			errorChan <- err
 		}
@@ -66,11 +66,11 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 
 	go fetchResults()
 	go fetchCounts()
-	go fetchFacet("district", 20)
-	go fetchFacet("county", 100)
-	go fetchFacet("region", 20)
-	go fetchFacet("state", 20)
-	go fetchFacet("country", 10)
+	go fetchFacet("district", 20, "district")
+	go fetchFacet("county", 100, "county", "district")
+	go fetchFacet("region", 20, "region", "county", "district")
+	go fetchFacet("state", 20, "state", "region", "county", "district")
+	go fetchFacet("country", 10, "country", "state", "region", "county", "district")
 
 	var total int64
 	var results []model.RouteSummary

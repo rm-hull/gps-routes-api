@@ -11,5 +11,5 @@ type DbRepository interface {
 	FindByObjectID(ctx context.Context, objectID string) (*model.RouteMetadata, error)
 	CountAll(ctx context.Context, criteria *model.SearchRequest) (int64, error)
 	SearchHits(ctx context.Context, criteria *model.SearchRequest) (*[]model.RouteSummary, error)
-	FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32) (*map[string]int64, error)
+	FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, excludeFacets ...string) (*map[string]int64, error)
 }

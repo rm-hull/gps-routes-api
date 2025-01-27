@@ -207,12 +207,13 @@ func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.
 	return count, err
 }
 
-func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32) (*map[string]int64, error) {
+func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, excludeFacets ...string) (*map[string]int64, error) {
 	results := make(map[string]int64, 0)
 
 	selectPart := fmt.Sprintf(`SELECT %s, COUNT(*) AS value FROM routes`, facetField)
 	query, params := db.NewQueryBuilder(selectPart, criteria).
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
+		WithExcludeFacets(excludeFacets...).
 		WithGroupBy(facetField).
 		WithOrderBy("value").
 		WithLimit(limit).
