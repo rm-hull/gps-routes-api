@@ -14,7 +14,7 @@ require (
 	github.com/jackc/pgx/v5 v5.7.2
 	github.com/joho/godotenv v1.5.1
 	github.com/schollz/progressbar/v3 v3.18.0
-	github.com/spf13/cobra v1.8.1
+	github.com/spf13/cobra v1.9.1
 	github.com/tavsec/gin-healthcheck v1.7.3
 	go.eigsys.de/gin-cachecontrol/v2 v2.2.0
 	go.mongodb.org/mongo-driver v1.17.2
