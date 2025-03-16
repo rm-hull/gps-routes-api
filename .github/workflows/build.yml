@@ -30,7 +30,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: read
+      pull-requests: write
       checks: write
 
     services:
@@ -75,6 +75,8 @@ jobs:
         if: always()
         with:
           report_paths: './test-reports/junit.xml'
+          comment: true
+          detailed_summary: true
 
       - name: Upload coverage to Coveralls
         uses: coverallsapp/github-action@v2
