@@ -18,7 +18,7 @@ import (
 func setupPostgres(ctx context.Context) (testcontainers.Container, error) {
 
     req := testcontainers.ContainerRequest{
-        Image:        "postgres:17",
+        Image:        "postgis/postgis:17-master",
         ExposedPorts: []string{"5432/tcp"},
         Env: map[string]string{
             "POSTGRES_PASSWORD": "secret",
@@ -48,11 +48,12 @@ func setupPostgres(ctx context.Context) (testcontainers.Container, error) {
     }
 
     // Set the environment variables expected by db.ConfigFromEnv()
-    os.Setenv("DB_HOST", host)
-    os.Setenv("DB_PORT", pgPort.Port())
-    os.Setenv("DB_USER", "postgres")
-    os.Setenv("DB_PASSWORD", "secret")
-    os.Setenv("DB_NAME", "testdb")
+    os.Setenv("PGHOST", host)
+    os.Setenv("PGPORT", pgPort.Port())
+    os.Setenv("PGUSER", "postgres")
+    os.Setenv("PGPASSWORD", "secret")
+    os.Setenv("PGDATABASE", "testdb")
+    os.Setenv("PGSCHEMA", "public")
 
 	cmds.RunMigration("up", "../db/migrations")
 
