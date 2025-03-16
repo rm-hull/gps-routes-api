@@ -63,19 +63,21 @@ jobs:
           mkdir -p ./test-reports/
           gotestsum --junitfile=./test-reports/junit.xml -- -race -v -tags=integration -coverprofile=profile.cov ./...
 
-      - name: Collect test reports
+      - name: Collect test results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: test-reports
           path: ./test-reports/
 
-      - name: Publish Test Results
+      - name: Publish test results
         uses: mikepenz/action-junit-report@v5
         if: always()
         with:
           report_paths: './test-reports/junit.xml'
           comment: true
+          include_passed: true
+          detailed_summary: true
 
       - name: Upload coverage to Coveralls
         uses: shogo82148/actions-goveralls@v1
