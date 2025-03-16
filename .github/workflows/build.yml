@@ -59,7 +59,9 @@ jobs:
 
       - name: Test
         run: |
-          go test -race -v -tags=integration -coverprofile=coverage.out ./...
+          go install gotest.tools/gotestsum@latest
+          mkdir -p ./test-reports/
+          gotestsum --junitfile=./test-reports/junit.xml -- -race -v -tags=integration -coverprofile=coverage.out ./...
 
       - name: Collect test reports
         if: always()
