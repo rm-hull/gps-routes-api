@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"path/filepath"
 
 	"github.com/rm-hull/gps-routes-api/db"
 
@@ -39,8 +40,13 @@ func RunMigration(direction string, migrationsPath string) {
 		log.Fatalf("failed to set search path: %v", err)
 	}
 
+	absPath, err := filepath.Abs(migrationsPath)
+	if err != nil {
+		log.Fatalf("failed convert to convert migrations path to absolute path: %v", err)
+	}
+
 	m, err := migrate.NewWithDatabaseInstance(
-		"file://"+migrationsPath,
+		"file://"+absPath,
 		config.DBName,
 		driver,
 	)

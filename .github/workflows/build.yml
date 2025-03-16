@@ -33,6 +33,11 @@ jobs:
       pull-requests: read
       checks: write
 
+    services:
+      docker:
+        image: docker:dind
+        options: --privileged
+
     steps:
       - uses: actions/checkout@v4
 
@@ -41,9 +46,20 @@ jobs:
         with:
           go-version: "1.24"
 
+      - name: Install testcontainers dependencies
+        run: docker --version
+
+      - name: Cache Docker images
+        uses: actions/cache@v4
+        with:
+          path: /var/lib/docker
+          key: ${{ runner.os }}-docker-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-docker-
+
       - name: Test
         run: |
-          xvfb-run --auto-servernum go test -race -v -coverprofile=coverage.out ./...
+          go test -race -v -tags=integration -coverprofile=coverage.out ./...
 
       - name: Collect test reports
         if: always()
