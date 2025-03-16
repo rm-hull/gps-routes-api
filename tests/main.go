@@ -1,4 +1,3 @@
-//go:build ignore_coverage
 package tests
 
 import (
