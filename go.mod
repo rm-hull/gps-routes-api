@@ -17,7 +17,6 @@ require (
 	github.com/spf13/cobra v1.9.1
 	github.com/tavsec/gin-healthcheck v1.7.5
 	go.eigsys.de/gin-cachecontrol/v2 v2.3.0
-	go.mongodb.org/mongo-driver v1.17.3
 )
 
 require (
