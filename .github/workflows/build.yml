@@ -70,6 +70,12 @@ jobs:
           name: test-reports
           path: ./test-reports/
 
+      - name: Publish Test Results
+        uses: mikepenz/action-junit-report@v5
+        if: always()
+        with:
+          report_paths: './test-reports/junit.xml'
+
       - name: Upload coverage to Coveralls
         uses: coverallsapp/github-action@v2
         with:
