@@ -94,7 +94,9 @@ jobs:
             new_tag="v${major}.${minor}.${patch}"
           fi
           echo "New tag: $new_tag"
-          git tag -a "$new_tag"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git tag -a "$new_tag" -m "Release $new_tag"
           git push origin "$new_tag"
           echo "::set-output name=new_tag::$new_tag"
 
