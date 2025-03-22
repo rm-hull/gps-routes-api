@@ -12,6 +12,7 @@ package main
 import (
 	"fmt"
 	"log"
+	"math"
 	"os"
 
 	"github.com/earthboundkid/versioninfo/v2"
@@ -36,7 +37,7 @@ func main() {
 		Short: "Import JSON data from specified path",
 		Args:  cobra.ExactArgs(1),
 		Run: func(cmd *cobra.Command, args []string) {
-			cmds.ImportData(args[0])
+			cmds.ImportData(args[0], math.MaxInt64)
 		},
 	}
 
