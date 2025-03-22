@@ -116,6 +116,7 @@ jobs:
           labels: |
             maintainer=rm-hull
             org.opencontainers.image.description=REST API for GPS routes
+            org.opencontainers.image.licenses=MIT
 
       - name: Build and push Docker image
         id: build-and-push
