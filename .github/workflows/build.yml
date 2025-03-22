@@ -66,6 +66,8 @@ jobs:
       - validate-openapi
       - build-and-test
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository with full history
         uses: actions/checkout@v4
