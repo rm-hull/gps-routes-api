@@ -61,10 +61,28 @@ jobs:
       - name: Lint
         uses: golangci/golangci-lint-action@v6
 
+  bump-version:
+    if: github.ref == 'refs/heads/main'
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create tag
+        uses: anothrNick/github-tag-action@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEFAULT_BUMP: patch
+          WITH_V: true
+
   docker-publish:
     needs:
       - validate-openapi
       - build-and-test
+      - bump-version
     runs-on: ubuntu-latest
     permissions:
       contents: read
