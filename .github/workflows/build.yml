@@ -94,6 +94,8 @@ jobs:
             new_tag="v${major}.${minor}.${patch}"
           fi
           echo "New tag: $new_tag"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
           git tag "$new_tag" -m "Release $new_tag"
           # push using PAT
           git remote set-url origin https://x-access-token:${PAT_TOKEN}@github.com/${{ github.repository }}.git
