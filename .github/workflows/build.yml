@@ -62,8 +62,9 @@ jobs:
         uses: golangci/golangci-lint-action@v6
 
   bump-version:
-    if: github.ref == 'refs/heads/main'
-    needs: build-and-test
+    needs:
+      - validate-openapi
+      - build-and-test
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository with full history
@@ -72,6 +73,7 @@ jobs:
           fetch-depth: 0
 
       - name: Create tag
+        if: github.ref == 'refs/heads/main'
         uses: anothrNick/github-tag-action@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -111,7 +113,7 @@ jobs:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
           tags: |
             type=raw,value=latest,enable={{is_default_branch}}
-            type=ref,event=tag,enable=true
+            type=raw,value={{tag}},enable={{starts_with(tag, 'v')}}
             type=sha
           labels: |
             maintainer=rm-hull
@@ -123,7 +125,7 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           context: .
-          platforms: linux/amd64 #,linux/arm64
+          platforms: linux/amd64,linux/arm64
           push: ${{ github.event_name != 'pull_request' }}
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
