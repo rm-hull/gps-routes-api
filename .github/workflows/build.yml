@@ -62,12 +62,14 @@ jobs:
         uses: golangci/golangci-lint-action@v6
 
   bump-version:
+    concurrency:
+      group: "versioning"
     needs:
       - validate-openapi
       - build-and-test
     runs-on: ubuntu-latest
     outputs:
-      tag: ${{ steps.create-tag.outputs.tag }}
+      new_tag: ${{ steps.create-tag.outputs.new_tag }}
     permissions:
       contents: write
     steps:
@@ -77,15 +79,28 @@ jobs:
           fetch-depth: 0
 
       - name: Create version tag
-        id: create-tag
         if: github.ref == 'refs/heads/main'
-        uses: anothrNick/github-tag-action@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEFAULT_BUMP: patch
-          WITH_V: true
+        id: create-tag
+        run: |
+          git fetch --prune --unshallow || true
+          current_tag=$(git tag --list "v[0-9]*" | sort -V | tail -n1)
+          echo "Current tag: $current_tag"
+          if [ -z "$current_tag" ]; then
+            new_tag="v0.0.1"
+          else
+            version=${current_tag#v}
+            IFS='.' read -r major minor patch <<< "$version"
+            patch=$((patch + 1))
+            new_tag="v${major}.${minor}.${patch}"
+          fi
+          echo "New tag: $new_tag"
+          git tag -a "$new_tag"
+          git push origin "$new_tag"
+          echo "::set-output name=new_tag::$new_tag"
 
   docker-publish:
+    concurrency:
+      group: "publishing"
     needs:
       - validate-openapi
       - build-and-test
@@ -99,9 +114,6 @@ jobs:
     steps:
       - name: Checkout repository with full history
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          ref: ${{ needs.bump-version.outputs.tag }}
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
