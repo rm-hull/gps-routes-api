@@ -109,7 +109,13 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
-          tags: type=raw,value=latest,enable={{is_default_branch}}
+          tags: |
+            type=raw,value=latest,enable={{is_default_branch}}
+            type=ref,event=tag,enable=true
+            type=sha
+          labels: |
+            maintainer=rm-hull
+            org.opencontainers.image.description=REST API for GPS routes
 
       - name: Build and push Docker image
         id: build-and-push
