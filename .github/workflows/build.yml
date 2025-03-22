@@ -66,6 +66,8 @@ jobs:
       - validate-openapi
       - build-and-test
     runs-on: ubuntu-latest
+    outputs:
+      tag: ${{ steps.create-tag.outputs.tag }}
     permissions:
       contents: write
     steps:
@@ -74,7 +76,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Create tag
+      - name: Create version tag
+        id: create-tag
         if: github.ref == 'refs/heads/main'
         uses: anothrNick/github-tag-action@v1
         env:
@@ -94,10 +97,11 @@ jobs:
       id-token: write
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repository with full history
         uses: actions/checkout@v4
         with:
-          fetch-tags: true
+          fetch-depth: 0
+          ref: ${{ needs.bump-version.outputs.tag }}
 
       - name: Set up QEMU
         uses: docker/setup-qemu-action@v3
