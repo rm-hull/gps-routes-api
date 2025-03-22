@@ -13,6 +13,7 @@ require (
 	github.com/golang-migrate/migrate/v4 v4.18.2
 	github.com/jackc/pgx/v5 v5.7.3
 	github.com/joho/godotenv v1.5.1
+	github.com/samber/slog-gin v1.15.0
 	github.com/schollz/progressbar/v3 v3.18.0
 	github.com/spf13/cobra v1.9.1
 	github.com/tavsec/gin-healthcheck v1.7.5
@@ -68,9 +69,9 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	go.mongodb.org/mongo-driver v1.17.3 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.54.0 // indirect
-	go.opentelemetry.io/otel v1.32.0 // indirect
-	go.opentelemetry.io/otel/metric v1.32.0 // indirect
-	go.opentelemetry.io/otel/trace v1.32.0 // indirect
+	go.opentelemetry.io/otel v1.35.0 // indirect
+	go.opentelemetry.io/otel/metric v1.35.0 // indirect
+	go.opentelemetry.io/otel/trace v1.35.0 // indirect
 )
 
 require (

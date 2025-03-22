@@ -3,6 +3,9 @@ package cmds
 import (
 	"context"
 	"log"
+	"log/slog"
+	"os"
+	"runtime/debug"
 	"time"
 
 	"github.com/Depado/ginprom"
@@ -13,6 +16,7 @@ import (
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v5/stdlib"
+	sloggin "github.com/samber/slog-gin"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
@@ -31,14 +35,16 @@ func NewHttpServer() {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
-	config := db.ConfigFromEnv()
-	pool, err := db.NewDBPool(ctx, config)
+	dbConfig := db.ConfigFromEnv()
+	pool, err := db.NewDBPool(ctx, dbConfig)
 	if err != nil {
 		log.Fatalf("failed to create database pool: %v", err)
 	}
 	defer pool.Close()
 
 	engine := gin.New()
+	logger := createLogger()
+
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
 		ginprom.Namespace("gps_routes"),
@@ -62,7 +68,12 @@ func NewHttpServer() {
 	})
 
 	engine.Use(
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
+		sloggin.NewWithConfig(logger, sloggin.Config{
+			WithSpanID:  true,
+			WithTraceID: true,
+			Filters: []sloggin.Filter{
+				sloggin.IgnorePath("/healthz", "/metrics"),
+			}}),
 		gin.Recovery(),
 		cors.Default(),
 		middlewares.ErrorHandler(),
@@ -82,7 +93,7 @@ func NewHttpServer() {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
 
-	pg := repositories.NewPostgresRouteRepository(pool, config.Schema)
+	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
 	repo := repositories.NewCachedRepository(prometheus, pg)
 	service := services.NewRoutesService(repo)
 
@@ -92,6 +103,21 @@ func NewHttpServer() {
 		},
 	})
 
-	log.Printf("Server started, version: %s", versioninfo.Short())
-	log.Fatal(router.Run(":8080"))
+	logger.
+		With("version", versioninfo.Short()).
+		Info("Server started")
+
+	err = router.Run(":8080")
+	logger.
+		With("error", err).
+		With("stack", string(debug.Stack())).
+		Error("Unhandled/unexpected crash")
+}
+
+func createLogger() *slog.Logger {
+	if gin.IsDebugging() {
+		return slog.New(slog.NewTextHandler(os.Stdout, nil))
+	}
+
+	return slog.New(slog.NewJSONHandler(os.Stdout, nil))
 }
