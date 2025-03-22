@@ -30,8 +30,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
-      pull-requests: read
+      pull-requests: write
       checks: write
+
+    services:
+      docker:
+        image: docker:dind
+        options: --privileged
 
     steps:
       - uses: actions/checkout@v4
@@ -41,22 +46,43 @@ jobs:
         with:
           go-version: "1.24"
 
+      - name: Install testcontainers dependencies
+        run: docker --version
+
+      - name: Cache Docker images
+        uses: actions/cache@v4
+        with:
+          path: /var/lib/docker
+          key: ${{ runner.os }}-docker-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-docker-
+
       - name: Test
         run: |
-          xvfb-run --auto-servernum go test -race -v -coverprofile=coverage.out ./...
+          go install gotest.tools/gotestsum@latest
+          mkdir -p ./test-reports/
+          gotestsum --junitfile=./test-reports/junit.xml --format github-actions -- -v -coverprofile=profile.cov -coverpkg=./... ./...
 
-      - name: Collect test reports
+      - name: Collect test results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: test-reports
           path: ./test-reports/
 
-      - name: Upload coverage to Coveralls
-        uses: coverallsapp/github-action@v2
+      - name: Publish test results
+        uses: mikepenz/action-junit-report@v5
+        if: always()
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          path-to-lcov: coverage.out
+          report_paths: "./test-reports/junit.xml"
+          comment: true
+          include_passed: true
+          detailed_summary: true
+
+      - name: Upload coverage to Coveralls
+        uses: shogo82148/actions-goveralls@v1
+        with:
+          path-to-profile: profile.cov
 
       - name: Lint
         uses: golangci/golangci-lint-action@v6

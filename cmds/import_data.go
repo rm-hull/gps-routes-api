@@ -16,7 +16,7 @@ import (
 )
 
 // walkFiles recursively walks through a folder and returns the relative paths for files.
-func walkFiles(root string) ([]string, error) {
+func walkFiles(root string, maxFiles int) ([]string, error) {
 	var files []string
 
 	// Walk through the root directory and subdirectories.
@@ -26,7 +26,7 @@ func walkFiles(root string) ([]string, error) {
 		}
 
 		// Only add files, not directories.
-		if !info.IsDir() {
+		if !info.IsDir() && len(files) < maxFiles {
 			files = append(files, path)
 		}
 
@@ -57,7 +57,7 @@ func loadJson(filename string) (*model.RouteMetadata, error) {
 	return &metadata, nil
 }
 
-func ImportData(path string) {
+func ImportData(path string, maxRecords int) {
 	config := db.ConfigFromEnv()
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()
@@ -70,7 +70,7 @@ func ImportData(path string) {
 
 	repo := repositories.NewPostgresRouteRepository(pool, config.Schema)
 
-	files, err := walkFiles(path)
+	files, err := walkFiles(path, maxRecords)
 	if err != nil {
 		log.Fatalf("failed to import data: %v", err)
 	}
@@ -89,7 +89,6 @@ func ImportData(path string) {
 		err = repo.Store(ctx, data)
 		if err != nil {
 			log.Fatalf("failed to store objectID: %s: %v", data.ObjectID, err)
-
 		}
 	}
 }
