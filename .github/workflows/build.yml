@@ -79,6 +79,8 @@ jobs:
       - name: Create version tag
         if: github.ref == 'refs/heads/main'
         id: create-tag
+        env:
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git fetch --prune --unshallow || true
           current_tag=$(git tag --list "v[0-9]*" | sort -V | tail -n1)
@@ -95,8 +97,6 @@ jobs:
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git tag "$new_tag" -m "Release $new_tag"
-          # push using PAT
-          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}.git
           git push origin "$new_tag"
           echo "new_tag=$new_tag" >> $GITHUB_OUTPUT
 
