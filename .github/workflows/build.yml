@@ -61,60 +61,11 @@ jobs:
       - name: Lint
         uses: golangci/golangci-lint-action@v6
 
-  bump-version:
-    concurrency:
-      group: "versioning"
-    needs:
-      - validate-openapi
-      - build-and-test
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    outputs:
-      new_tag: ${{ steps.create-tag.outputs.new_tag }}
-    steps:
-      - name: Checkout repository with full history
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-
-      - name: Create version tag
-        if: github.ref == 'refs/heads/main'
-        id: create-tag
-        run: |
-          git fetch --prune --unshallow || true
-          current_tag=$(git tag --list "v[0-9]*" | sort -V | tail -n1)
-          echo "Current tag: $current_tag"
-          if [ -z "$current_tag" ]; then
-            new_tag="v0.0.1"
-          else
-            version=${current_tag#v}
-            IFS='.' read -r major minor patch <<< "$version"
-            patch=$((patch + 1))
-            new_tag="v${major}.${minor}.${patch}"
-          fi
-          echo "New tag: $new_tag"
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git tag "$new_tag" -m "Release $new_tag"
-          git push origin "$new_tag"
-          echo "new_tag=$new_tag" >> $GITHUB_OUTPUT
-
-      - name: Trigger tag workflow
-        uses: peter-evans/repository-dispatch@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          event-type: tag-created
-          client-payload: '{"tag": " ${{ steps.create-tag.outputs.new_tag }}"}'
-
   docker-publish:
     concurrency:
       group: "publishing"
     needs:
-      - validate-openapi
       - build-and-test
-      - bump-version
     runs-on: ubuntu-latest
     permissions:
       contents: read
