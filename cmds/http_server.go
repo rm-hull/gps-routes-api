@@ -5,6 +5,7 @@ import (
 	"log"
 	"log/slog"
 	"os"
+	"runtime/debug"
 	"time"
 
 	"github.com/Depado/ginprom"
@@ -102,10 +103,15 @@ func NewHttpServer() {
 		},
 	})
 
-	logger.With("version", versioninfo.Short()).Info("Server started")
+	logger.
+		With("version", versioninfo.Short()).
+		Info("Server started")
 
 	err = router.Run(":8080")
-	logger.With("error", err).Error("Unhandled/unexpected crash")
+	logger.
+		With("error", err).
+		With("stack", string(debug.Stack())).
+		Error("Unhandled/unexpected crash")
 }
 
 func createLogger() *slog.Logger {
