@@ -50,6 +50,9 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+coverage.out
+profile.cov
+test-reports/
 
 # Translations
 *.mo
@@ -164,3 +167,4 @@ cython_debug/
 __debug_*
 
 data/pgdata
+gps-routes
