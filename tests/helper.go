@@ -2,6 +2,7 @@ package tests
 
 import (
 	"context"
+	"fmt"
 	"os"
 	"time"
 
@@ -42,6 +43,8 @@ func setupPostgresContainer(ctx context.Context) (testcontainers.Container, erro
 	if err != nil {
 		return nil, errors.Errorf("failed to get mapped port: %v", err)
 	}
+
+	fmt.Printf("PostGIS container ID: %s started on %s:%s\n", pgContainer.GetContainerID(), host, pgPort.Port())
 
 	// Set the environment variables expected by db.ConfigFromEnv()
 	os.Setenv("PGHOST", host)
