@@ -93,5 +93,32 @@
   "nominatim_found": true,
   "display_address": "Hatton Locks, Canal Road, Hatton, Hatton Park, Warwick, Warwickshire, England, CV35 7JJ, United Kingdom",
   "postcode": "CV35 7JJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "retailers",
+    "farm animals",
+    "adventure playground",
+    "long distance trail",
+    "lakes",
+    "parkland",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "waterside outdoor seating",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

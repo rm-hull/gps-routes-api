@@ -84,5 +84,23 @@
   "display_address": "Castlett Street, Guiting Power, Cotswold, Gloucestershire, England, GL54 5US, United Kingdom",
   "postcode": "GL54 5US",
   "district": "Cotswold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "village green",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

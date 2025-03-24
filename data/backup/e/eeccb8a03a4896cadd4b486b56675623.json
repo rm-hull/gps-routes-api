@@ -118,5 +118,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Restormel Lodge Hotel, 7, Castle Hill, Lostwithiel, Cornwall, England, PL22 0DD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserves",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

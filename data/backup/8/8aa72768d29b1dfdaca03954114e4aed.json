@@ -108,5 +108,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Hill, Exford, Somerset, England, TA24 7QJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "refreshment options"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

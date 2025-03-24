@@ -120,5 +120,26 @@
   "nominatim_found": true,
   "display_address": "Hessle, East Riding of Yorkshire, England, HU13 0GX, United Kingdom",
   "postcode": "HU13 0GX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "village",
+    "park"
+  ],
+  "facilities": [
+    "cafe",
+    "footpaths",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

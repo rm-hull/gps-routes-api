@@ -75,5 +75,26 @@
   "county": "Wiltshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalk downland",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "river valley"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

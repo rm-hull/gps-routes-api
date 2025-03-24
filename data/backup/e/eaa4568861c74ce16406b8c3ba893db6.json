@@ -60,5 +60,25 @@
   "nominatim_found": true,
   "display_address": "Scott's View Parking, B6356, Halidean Mill, Redpath, Scottish Borders, Alba / Scotland, TD6 9DW, United Kingdom",
   "district": "Redpath",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

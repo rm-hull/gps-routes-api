@@ -114,5 +114,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Carleton New Road, Mill Fields, Skipton, North Yorkshire, York and North Yorkshire, England, BD23 1RT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -62,5 +62,26 @@
   "display_address": "Ashby Road, Lincolnshire House, Old Brumby, Scunthorpe, North Lincolnshire, England, DN16 2BU, United Kingdom",
   "postcode": "DN16 2BU",
   "district": "Scunthorpe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "nature reserve",
+    "trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

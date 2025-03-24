@@ -90,5 +90,25 @@
   "display_address": "Keeper's Pond, Blaenavon Road, Llanfoist Fawr, Govilon, Monmouthshire, Cymru / Wales, NP7 9RY, United Kingdom",
   "postcode": "NP7 9RY",
   "district": "Govilon",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "water",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "swimming",
+    "picnic"
+  ]
 }

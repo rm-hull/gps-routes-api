@@ -74,5 +74,30 @@
   "display_address": "B3188, Stogumber, Elworthy, Somerset, England, TA4 3PX, United Kingdom",
   "postcode": "TA4 3PX",
   "district": "Elworthy",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "deer park",
+    "herb garden",
+    "rose garden",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

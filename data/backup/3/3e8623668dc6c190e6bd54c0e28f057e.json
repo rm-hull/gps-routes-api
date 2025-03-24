@@ -84,5 +84,26 @@
   "display_address": "Blaen y Cwm, Crucorney, Monmouthshire, Cymru / Wales, NP7 7LY, United Kingdom",
   "postcode": "NP7 7LY",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

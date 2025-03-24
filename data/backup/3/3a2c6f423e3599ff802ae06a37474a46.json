@@ -89,5 +89,25 @@
   "nominatim_found": true,
   "display_address": "Bosullow Vean, Little Bosullow, Madron, Cornwall, England, TR20 8NS, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "ancient monuments",
+    "mine ruins"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

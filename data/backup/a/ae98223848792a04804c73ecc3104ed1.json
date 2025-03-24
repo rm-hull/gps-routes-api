@@ -90,5 +90,24 @@
   "nominatim_found": true,
   "display_address": "Back Street, Castleton, High Peak, Derbyshire, East Midlands, England, S33 8WF, United Kingdom",
   "postcode": "S33 8WF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "limestone",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views",
+    "mines"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

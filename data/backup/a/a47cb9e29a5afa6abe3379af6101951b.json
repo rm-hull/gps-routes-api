@@ -68,5 +68,27 @@
   "nominatim_found": true,
   "display_address": "A68, Catcleugh, Rochester, Byrness, Northumberland, North East, England, NE19 1TQ, United Kingdom",
   "postcode": "NE19 1TQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

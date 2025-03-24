@@ -130,5 +130,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Castle Road, Lace Market, The Meadows, City of Nottingham, East Midlands, England, NG1 6AA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural landscapes"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

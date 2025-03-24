@@ -114,5 +114,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kleve Walk, Diglis, Worcester, Worcestershire, England, WR1 2NF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "trails"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "canal towpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

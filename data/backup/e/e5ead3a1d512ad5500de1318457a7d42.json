@@ -93,5 +93,29 @@
   "display_address": "Cotehele House and Mill, Comfort Wood, Clampits, Calstock, Metherell, Cornwall, England, PL17 8BZ, United Kingdom",
   "postcode": "PL17 8BZ",
   "district": "Metherell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "industrial ruins",
+    "farm buildings"
+  ],
+  "facilities": [
+    "visitor center",
+    "train station",
+    "car park",
+    "country lane"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

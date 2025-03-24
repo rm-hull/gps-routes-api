@@ -108,5 +108,31 @@
   "display_address": "A591, Underskiddaw, Cumberland, England, CA12 4QD, United Kingdom",
   "postcode": "CA12 4QD",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "open hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "picnic areas",
+    "toilets",
+    "visitor center",
+    "pub/cafe",
+    "Old Sawmill Tearoom"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -68,5 +68,27 @@
   "display_address": "Moor Lane, Llangennith, Llanmadoc and Cheriton, Llangennith, Swansea, Cymru / Wales, SA3 1JB, United Kingdom",
   "postcode": "SA3 1JB",
   "district": "Llangennith",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "dunes"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations",
+    "sand dunes"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

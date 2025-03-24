@@ -68,5 +68,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Rest and Be Thankful Inn, A396, North Wheddon Farm, Cutcombe, Minehead, Somerset, England, TA24 7DR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

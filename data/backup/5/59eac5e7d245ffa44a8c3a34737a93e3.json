@@ -103,5 +103,25 @@
   "display_address": "Beacon Fell Road, Goosnargh, Preston, Lancashire, England, PR3 2NL, United Kingdom",
   "postcode": "PR3 2NL",
   "district": "Preston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "landmarks"
+  ],
+  "facilities": [
+    "visitor center",
+    "seating area"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

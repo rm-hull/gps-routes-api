@@ -78,5 +78,28 @@
   "display_address": "First Steps, Ganllwyd, Gwynedd, Cymru / Wales, LL40 2HZ, United Kingdom",
   "postcode": "LL40 2HZ",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "sculpture",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

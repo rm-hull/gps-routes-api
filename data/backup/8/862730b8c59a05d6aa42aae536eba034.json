@@ -72,5 +72,26 @@
   "nominatim_found": true,
   "display_address": "Ropery Lane, Chester-le-Street, County Durham, North East, England, DH3 3SJ, United Kingdom",
   "postcode": "DH3 3SJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "grassland",
+    "paved"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "castle",
+    "meadows"
+  ],
+  "facilities": [
+    "cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

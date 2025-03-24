@@ -58,5 +58,23 @@
   "display_address": "Ffordd Tresaith, Penbryn, Tresaith, Ceredigion, Cymru / Wales, SA43 2ED, United Kingdom",
   "postcode": "SA43 2ED",
   "district": "Tresaith",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beaches"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

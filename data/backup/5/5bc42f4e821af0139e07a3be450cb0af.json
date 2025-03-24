@@ -70,5 +70,26 @@
   "nominatim_found": true,
   "display_address": "Idless Lane, Idless, Kenwyn, Shortlanesend, Cornwall, England, TR4 9DZ, United Kingdom",
   "district": "Shortlanesend",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

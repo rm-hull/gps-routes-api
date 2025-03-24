@@ -75,5 +75,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4518, Rhayader, Powys, Cymru / Wales, LD6 5AH, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "historical sites",
+    "mountains"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

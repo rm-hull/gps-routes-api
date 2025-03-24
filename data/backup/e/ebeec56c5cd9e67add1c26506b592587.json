@@ -68,5 +68,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hartington Middle Quarter CP, Crowdecote, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 0DB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "valley"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "river"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

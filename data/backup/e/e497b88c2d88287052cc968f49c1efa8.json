@@ -48,5 +48,27 @@
   "display_address": "Ffordd Bodnant, Eglwysbach, Llansanffraid Glan Conwy, Conwy, Cymru / Wales, LL28 5RE, United Kingdom",
   "postcode": "LL28 5RE",
   "district": "Llansanffraid Glan Conwy",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

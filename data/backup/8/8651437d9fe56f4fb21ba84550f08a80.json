@@ -89,5 +89,27 @@
   "display_address": "High Street, Bourton-on-the-Water, Cotswold, Gloucestershire, England, GL54 2AN, United Kingdom",
   "postcode": "GL54 2AN",
   "district": "Cotswold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "riverbanks"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

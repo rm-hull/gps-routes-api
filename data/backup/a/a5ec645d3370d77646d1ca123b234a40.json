@@ -115,5 +115,25 @@
   "display_address": "Hollands Wood, Clay Hill, Lyndhurst, New Forest, Hampshire, England, SO42 7QH, United Kingdom",
   "postcode": "SO42 7QH",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "trails",
+    "grazing ponies"
+  ],
+  "facilities": [
+    "campsite",
+    "bridle track"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

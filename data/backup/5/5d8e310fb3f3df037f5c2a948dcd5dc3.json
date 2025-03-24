@@ -133,5 +133,22 @@
   "nominatim_found": true,
   "display_address": "Northwich Road, Allostock, Cheshire West and Chester, England, WA16 9LB, United Kingdom",
   "district": "Allostock",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "nature trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

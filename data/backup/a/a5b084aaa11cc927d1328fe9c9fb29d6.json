@@ -62,5 +62,31 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lowestoft South Beach Coast Protection, Royal Plain, Lowestoft, East Suffolk, Suffolk, England, NR33 0AQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "dunes",
+    "cliffs",
+    "woodland",
+    "marshland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical piers",
+    "lighthouse",
+    "nature reserve",
+    "village",
+    "estate"
+  ],
+  "facilities": [
+    "car park",
+    "refreshments"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

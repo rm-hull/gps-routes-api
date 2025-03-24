@@ -110,5 +110,26 @@
   "display_address": "Clumps Car Park, Sires Hill, Brightwell-cum-Sotwell, Little Wittenham, South Oxfordshire, Oxfordshire, England, OX14 4QZ, United Kingdom",
   "postcode": "OX14 4QZ",
   "district": "South Oxfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "river path"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

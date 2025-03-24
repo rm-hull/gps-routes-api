@@ -118,5 +118,28 @@
   "display_address": "Washbrook Lane, Ecton, Mears Ashby, North Northamptonshire, England, NN6 0QU, United Kingdom",
   "postcode": "NN6 0QU",
   "district": "Mears Ashby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "arboretum",
+    "historical buildings",
+    "butterfly garden"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible",
+    "amphibian pond"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

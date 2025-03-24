@@ -80,5 +80,23 @@
   "county": "Suffolk",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "riverside",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural scenery"
+  ],
+  "facilities": [
+    "waymarked"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

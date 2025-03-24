@@ -105,5 +105,26 @@
   "display_address": "Teignmouth Road, Shaldon, Teignbridge, Devon, England, TQ12 4QU, United Kingdom",
   "postcode": "TQ12 4QU",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "viewpoints",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "ice cream",
+    "refreshments"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

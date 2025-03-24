@@ -42,5 +42,21 @@
   "display_address": "The Street, Bethersden, Ashford, Kent, England, TN26 3AE, United Kingdom",
   "postcode": "TN26 3AE",
   "district": "Ashford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature trails"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

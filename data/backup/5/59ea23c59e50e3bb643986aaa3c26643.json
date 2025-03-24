@@ -58,5 +58,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "John Taylors Estate Agents & Chartered Surveyors, 127, Eastgate, Louth, East Lindsey, Lincolnshire, England, LN11 9QE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "villages",
+    "parks",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

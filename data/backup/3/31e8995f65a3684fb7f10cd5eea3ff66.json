@@ -143,5 +143,29 @@
   "nominatim_found": true,
   "display_address": "Bridge Foot, Belper CP, Blackbrook, Amber Valley, Derbyshire, East Midlands, England, DE56 2UA, United Kingdom",
   "postcode": "DE56 2UA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "play area",
+    "garden"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

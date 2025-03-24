@@ -60,5 +60,24 @@
   "nominatim_found": true,
   "display_address": "Pyscodlyn, Abergavenny, Monmouthshire, Cymru / Wales, NP7 7EU, United Kingdom",
   "district": "Abergavenny",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

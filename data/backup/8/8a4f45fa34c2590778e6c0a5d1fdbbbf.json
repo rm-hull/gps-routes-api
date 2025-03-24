@@ -62,5 +62,24 @@
   "display_address": "Castle Bytham Road, Home Farm, Clipsham, Rutland, England, LE15 7SG, United Kingdom",
   "postcode": "LE15 7SG",
   "district": "Clipsham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical information",
+    "waterside trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

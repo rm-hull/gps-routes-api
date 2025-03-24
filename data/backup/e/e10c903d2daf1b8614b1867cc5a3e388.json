@@ -94,5 +94,24 @@
   "nominatim_found": true,
   "display_address": "Middle Moor Lane, Cheddar, Somerset, England, BS27 3GL, United Kingdom",
   "postcode": "BS27 3GL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "countryside",
+    "spectacular views"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

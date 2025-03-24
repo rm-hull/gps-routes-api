@@ -67,5 +67,27 @@
   "display_address": "116, Sovereign Road, Spon End, Coventry, West Midlands, England, CV5 6JD, United Kingdom",
   "postcode": "CV5 6JD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical locations",
+    "parks",
+    "common land",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

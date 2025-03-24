@@ -68,5 +68,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lode water mill, Mill Road, Lode, East Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, CB25 9EN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "statue garden",
+    "meadows",
+    "watermill"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "shop",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "picnicking"
+  ]
 }

@@ -85,5 +85,28 @@
   "nominatim_found": true,
   "display_address": "Dedwyddfa, 6, High Street, Bodorgan, Malltraeth, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL62 5AS, United Kingdom",
   "postcode": "LL62 5AS",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

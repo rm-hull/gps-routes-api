@@ -102,5 +102,27 @@
   "display_address": "Church Bank, Carperby-cum-Thoresby, Carperby, North Yorkshire, York and North Yorkshire, England, DL8 3TH, United Kingdom",
   "postcode": "DL8 3TH",
   "district": "Carperby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe",
+    "shop"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

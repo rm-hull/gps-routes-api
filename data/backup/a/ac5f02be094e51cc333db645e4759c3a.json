@@ -124,5 +124,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Old Colonial House, New Road, Outer Hope, South Huish, Hope, South Hams, Devon, England, TQ7 3HJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -94,5 +94,26 @@
   "display_address": "Byway 12, Amesbury, Larkhill, Wiltshire, England, SP4 8NU, United Kingdom",
   "postcode": "SP4 8NU",
   "district": "Larkhill",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

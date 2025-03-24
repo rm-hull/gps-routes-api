@@ -113,5 +113,25 @@
   "display_address": "Ward Lane, Stanley Ferry, Stanley, Wakefield, West Yorkshire, England, WF3 4LU, United Kingdom",
   "district": "Wakefield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

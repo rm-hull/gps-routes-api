@@ -45,5 +45,23 @@
   "nominatim_found": true,
   "display_address": "Goldsworth Park, Woking, Surrey, England, GU21 3LW, United Kingdom",
   "postcode": "GU21 3LW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "path"
+  ],
+  "points_of_interest": [
+    "bird watching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

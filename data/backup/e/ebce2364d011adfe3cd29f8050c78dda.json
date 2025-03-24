@@ -87,5 +87,24 @@
   "nominatim_found": true,
   "display_address": "Crabtree Hill, Lambourne End, Lambourne, Epping Forest, Essex, England, RM4 1NB, United Kingdom",
   "postcode": "RM4 1NB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "paths"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

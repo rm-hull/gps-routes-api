@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "Garway, Herefordshire, England, HR2 8EZ, United Kingdom",
   "district": "Garway",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical ruins",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

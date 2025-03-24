@@ -88,5 +88,25 @@
   "display_address": "Wilsden Road, Harden, Bradford, West Yorkshire, England, BD16 1JL, United Kingdom",
   "postcode": "BD16 1JL",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterway",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "reservoir",
+    "historic farm"
+  ],
+  "facilities": [
+    "car park",
+    "water activities center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -103,5 +103,26 @@
   "display_address": "Hicks Lodge Trail, Ashby Woulds, Willesley, North West Leicestershire, Leicestershire, England, DE12 6ED, United Kingdom",
   "postcode": "DE12 6ED",
   "district": "North West Leicestershire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

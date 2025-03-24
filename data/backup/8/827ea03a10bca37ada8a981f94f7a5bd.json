@@ -118,5 +118,25 @@
   "display_address": "Beeston Castle and Woodland Park, Tattenhall Lane, Beeston, Cheshire West and Chester, England, CW6 9UA, United Kingdom",
   "postcode": "CW6 9UA",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

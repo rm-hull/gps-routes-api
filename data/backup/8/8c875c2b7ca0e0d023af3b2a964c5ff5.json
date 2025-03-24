@@ -68,5 +68,27 @@
   "display_address": "Birches Road, Trellech United, Monmouth, Monmouthshire, Cymru / Wales, NP25 4AW, United Kingdom",
   "postcode": "NP25 4AW",
   "district": "Monmouth",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "river",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

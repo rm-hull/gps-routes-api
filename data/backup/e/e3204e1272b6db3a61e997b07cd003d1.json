@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Station Road, Little Poulton, Poulton-le-Fylde, Wyre, Lancashire, England, FY6 7HU, United Kingdom",
   "postcode": "FY6 7HU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "bird hide",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -84,5 +84,22 @@
   "display_address": "A470, Glyn Tarell, Powys, Cymru / Wales, LD3 8NL, United Kingdom",
   "postcode": "LD3 8NL",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "water",
+    "forest"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

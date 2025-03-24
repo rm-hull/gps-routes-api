@@ -83,5 +83,25 @@
   "nominatim_found": true,
   "display_address": "91, Kinder Road, Hill Houses, Hayfield, Little Hayfield, High Peak, Derbyshire, East Midlands, England, SK22 2LR, United Kingdom",
   "postcode": "SK22 2LR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfall",
+    "trig point"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

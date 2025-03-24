@@ -65,5 +65,26 @@
   "nominatim_found": true,
   "display_address": "Wentworth Terrace, Hemsworth, Fitzwilliam, Wakefield, West Yorkshire, England, WF9 5FL, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

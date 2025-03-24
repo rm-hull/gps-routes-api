@@ -95,5 +95,26 @@
   "display_address": "Ferry Hill, Castor, City of Peterborough, Cambridgeshire and Peterborough, England, PE6 7AG, United Kingdom",
   "postcode": "PE6 7AG",
   "district": "Castor",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "sculpture park",
+    "riverside walks"
+  ],
+  "facilities": [
+    "car park",
+    "playground"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

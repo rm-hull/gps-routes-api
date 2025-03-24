@@ -67,5 +67,23 @@
   "display_address": "West Midlands Golf Club, Marsh House Farm Lane, Barston, Solihull, West Midlands, England, B92 0LJ, United Kingdom",
   "district": "Solihull",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical bridge"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

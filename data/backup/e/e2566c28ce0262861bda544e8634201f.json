@@ -63,5 +63,26 @@
   "display_address": "Platform One, 6, Stockport Road, Romiley, Marple, Stockport, Greater Manchester, England, SK6 3AA, United Kingdom",
   "postcode": "SK6 3AA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical estate",
+    "gardens",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

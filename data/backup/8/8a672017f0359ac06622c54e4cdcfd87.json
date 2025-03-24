@@ -58,5 +58,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ruthin Castle Hotel, Castle Street, Ruthin, Denbighshire, Cymru / Wales, LL15 2NU, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

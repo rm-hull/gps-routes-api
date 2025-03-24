@@ -60,5 +60,29 @@
   "display_address": "Emmett's Garden, Emmetts Road, Brasted, Ide Hill, Sevenoaks, Kent, England, TN14 6BD, United Kingdom",
   "postcode": "TN14 6BD",
   "district": "Sevenoaks",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "views",
+    "arboretum",
+    "rose garden",
+    "rock garden",
+    "lily pond",
+    "bluebell woodland"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

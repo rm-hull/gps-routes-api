@@ -118,5 +118,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Arundel Bowling Club, Mill Road, Arundel, Arun, West Sussex, England, BN18 9PA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildfowl reserve",
+    "lake",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

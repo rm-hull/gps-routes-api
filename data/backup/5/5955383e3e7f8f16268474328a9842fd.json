@@ -72,5 +72,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B3046, Hill Houses, Cheriton, Winchester, Hampshire, England, SO24 0PZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "country views",
+    "river"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

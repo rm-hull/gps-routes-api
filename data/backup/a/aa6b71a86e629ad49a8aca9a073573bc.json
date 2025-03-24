@@ -104,5 +104,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Burnsall Bridge, Hartlington, Burnsall, North Yorkshire, York and North Yorkshire, England, BD23 6BU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "tea rooms"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

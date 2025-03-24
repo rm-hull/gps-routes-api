@@ -79,5 +79,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Durham University Botanic Garden, (Sheep race), Houghall, City of Durham, Durham, County Durham, North East, England, DH1 3DF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "river"
+  ],
+  "points_of_interest": [
+    "artwork",
+    "streams",
+    "woodland garden",
+    "Carboniferous Garden"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

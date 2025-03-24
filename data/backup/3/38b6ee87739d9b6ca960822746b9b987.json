@@ -94,5 +94,24 @@
   "display_address": "Glan Padarn, 49, Stryd Fawr, Llanberis, Gwynedd, Cymru / Wales, LL55 4EU, United Kingdom",
   "postcode": "LL55 4EU",
   "district": "Llanberis",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "lake railway",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

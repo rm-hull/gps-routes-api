@@ -99,5 +99,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Smarden Road, Pluckley Thorne, Pluckley, Ashford, Kent, England, TN27 0SJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

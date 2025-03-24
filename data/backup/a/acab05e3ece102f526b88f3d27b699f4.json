@@ -84,5 +84,31 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Morden Hall Road, Morden, London Borough of Merton, London, Greater London, England, SM4 5JF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife",
+    "gardens",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "learning center",
+    "city farm",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

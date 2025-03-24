@@ -68,5 +68,29 @@
   "nominatim_found": true,
   "display_address": "Nando's, 1, Lowry Plaza, Salford Quays, Salford, Greater Manchester, England, M50 3UB, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "parks",
+    "canal"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "shopping centre",
+    "cinema"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

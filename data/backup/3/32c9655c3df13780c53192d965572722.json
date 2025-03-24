@@ -109,5 +109,26 @@
   "nominatim_found": true,
   "display_address": "Memorial Park Dr, Marple, Stockport, Greater Manchester, England, SK6 6BA, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

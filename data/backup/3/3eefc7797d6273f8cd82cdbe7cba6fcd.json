@@ -113,5 +113,29 @@
   "nominatim_found": true,
   "display_address": "Field Lane, Aberford, West Yorkshire, England, LS25 3AE, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "artworks",
+    "bird garden",
+    "earthworks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

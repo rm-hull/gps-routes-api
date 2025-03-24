@@ -80,5 +80,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "World of Computers, 133, Cambridge Road, Milton, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB24 6AZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "play area",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -68,5 +68,21 @@
   "nominatim_found": true,
   "display_address": "Ashurst Railway Station, Ashurst, Lyndhurst Road, Foxhills, Ashurst and Colbury, Ashurst, Southampton, Hampshire, England, SO40 7AA, United Kingdom",
   "postcode": "SO40 7AA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

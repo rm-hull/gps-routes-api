@@ -105,5 +105,26 @@
   "display_address": "St. James's Park, The Mall, St. James's, Victoria, London, Greater London, England, SW1A 1BA, United Kingdom",
   "postcode": "SW1A 1BA",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "bike parks"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

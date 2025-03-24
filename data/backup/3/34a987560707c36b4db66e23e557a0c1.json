@@ -60,5 +60,24 @@
   "display_address": "B855, Brough, Highland, Alba / Scotland, KW14 8XS, United Kingdom",
   "postcode": "KW14 8XS",
   "district": "Brough",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "sea views",
+    "seabirds",
+    "sea stacks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

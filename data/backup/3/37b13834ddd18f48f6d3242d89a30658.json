@@ -79,5 +79,26 @@
   "nominatim_found": true,
   "display_address": "Gosford House, A198, Aberlady, East Lothian, Alba / Scotland, EH32 0PR, United Kingdom",
   "district": "Aberlady",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "parkland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "architecture",
+    "lake"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

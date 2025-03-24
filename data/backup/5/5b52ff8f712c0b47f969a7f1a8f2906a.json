@@ -129,5 +129,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "James Street, Tiger Bay, Butetown, Cardiff, Cymru / Wales, CF10 5AS, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "parks",
+    "historical sites",
+    "waterfalls",
+    "mountains"
+  ],
+  "facilities": [
+    "car park",
+    "canal"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

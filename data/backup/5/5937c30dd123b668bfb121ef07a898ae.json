@@ -97,5 +97,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Station Road East, Oxted, Limpsfield, Tandridge, Surrey, England, RH8 9HR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "orchard",
+    "wildflower areas"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

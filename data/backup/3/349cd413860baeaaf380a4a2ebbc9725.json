@@ -99,5 +99,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "D'Ambrosi Fine Foods, 1, Digbeth Street, Stow-on-the-Wold, Cotswold, Gloucestershire, England, GL54 1BN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views",
+    "villages"
+  ],
+  "facilities": [
+    "visitor center",
+    "signposted"
+  ],
+  "route_type": "linear",
+  "activity_type": [
+    "walking"
+  ]
 }

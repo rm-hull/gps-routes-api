@@ -100,5 +100,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Permissive, Weston Turville, Buckinghamshire, England, HP22 6AZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "bird hides"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

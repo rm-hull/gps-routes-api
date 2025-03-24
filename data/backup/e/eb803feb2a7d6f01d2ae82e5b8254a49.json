@@ -122,5 +122,23 @@
   "nominatim_found": true,
   "display_address": "The Peth, Thornley Gate, Allendale, Northumberland, North East, England, NE47 9ND, United Kingdom",
   "postcode": "NE47 9ND",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical footpath",
+    "villages"
+  ],
+  "facilities": [
+    "tea trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

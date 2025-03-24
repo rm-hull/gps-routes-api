@@ -72,5 +72,27 @@
   "display_address": "The Woldingham Golf Club, Plantation Lane, Woldingham, Caterham, Tandridge, Surrey, England, CR6 9LT, United Kingdom",
   "postcode": "CR6 9LT",
   "district": "Caterham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "grass"
+  ],
+  "points_of_interest": [
+    "nature trail",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "horse friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

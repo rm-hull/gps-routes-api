@@ -108,5 +108,26 @@
   "nominatim_found": true,
   "display_address": "Washington SDW Trail Car Park, Washington Bostal, Washington, Horsham, West Sussex, England, RH20 4AZ, United Kingdom",
   "district": "Horsham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "bridleway"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

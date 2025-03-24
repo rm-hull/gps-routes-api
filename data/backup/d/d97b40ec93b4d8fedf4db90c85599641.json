@@ -64,5 +64,25 @@
   "nominatim_found": true,
   "display_address": "Prestbury Road, Mount Farm, Over Alderley, Cheshire East, England, SK10 4PY, United Kingdom",
   "district": "Over Alderley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "mines",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

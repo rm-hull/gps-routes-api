@@ -67,5 +67,29 @@
   "display_address": "The Quay, East The Water, Bideford, Northam, Torridge, Devon, England, EX39 2HW, United Kingdom",
   "postcode": "EX39 2HW",
   "district": "Torridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "heritage trail",
+    "marine wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "ferry",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

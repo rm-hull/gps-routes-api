@@ -110,5 +110,24 @@
   "display_address": "Hardwater Road, Wollaston, North Northamptonshire, England, NN29 7PT, United Kingdom",
   "postcode": "NN29 7PT",
   "district": "Wollaston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

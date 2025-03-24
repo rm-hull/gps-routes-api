@@ -83,5 +83,23 @@
   "nominatim_found": true,
   "display_address": "Kempley, Forest of Dean, Gloucestershire, England, GL18 2AT, United Kingdom",
   "district": "Forest of Dean",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural beauty"
+  ],
+  "facilities": [
+    "church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

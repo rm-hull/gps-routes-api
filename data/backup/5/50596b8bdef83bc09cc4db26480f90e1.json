@@ -108,5 +108,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Leathley Lane, Leathley, North Yorkshire, York and North Yorkshire, England, LS21 2JZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

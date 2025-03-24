@@ -52,5 +52,29 @@
   "nominatim_found": true,
   "display_address": "Maes Parcio'r Orsaf, Pantside, Newbridge, Caerphilly, Cymru / Wales, NP11 5FH, United Kingdom",
   "postcode": "NP11 5FH",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "country park",
+    "canal"
+  ],
+  "facilities": [
+    "footbridge",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -108,5 +108,25 @@
   "nominatim_found": true,
   "display_address": "Fernden Lane, Kingsley Green, Lurgashall, Chichester, West Sussex, England, GU27 3LB, United Kingdom",
   "district": "Chichester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

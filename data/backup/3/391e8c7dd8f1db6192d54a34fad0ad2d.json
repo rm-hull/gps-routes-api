@@ -59,5 +59,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Woodroffe Arms, Castleton Road, Hope, High Peak, Derbyshire, East Midlands, England, S33 6RD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geological sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

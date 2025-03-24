@@ -90,5 +90,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Polesden Lacey Estate, Connicut Lane, Wotton, Great Bookham, Mole Valley, Surrey, England, RH5 6BD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "views",
+    "footpaths"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

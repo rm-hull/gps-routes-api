@@ -79,5 +79,23 @@
   "nominatim_found": true,
   "display_address": "Dess, Aberdeenshire, Alba / Scotland, AB34 5BN, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "woodland"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

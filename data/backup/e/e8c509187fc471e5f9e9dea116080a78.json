@@ -94,5 +94,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Spitalcroft, Aspin, Calcutt, Knaresborough, North Yorkshire, York and North Yorkshire, England, HG5 8JB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "village"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "villages",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

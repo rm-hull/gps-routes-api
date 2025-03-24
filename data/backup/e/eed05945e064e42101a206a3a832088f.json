@@ -118,5 +118,27 @@
   "display_address": "Habberley, Pontesbury, Shropshire, England, SY5 0TW, United Kingdom",
   "postcode": "SY5 0TW",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "rock"
+  ],
+  "points_of_interest": [
+    "historical information",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "circular walks"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

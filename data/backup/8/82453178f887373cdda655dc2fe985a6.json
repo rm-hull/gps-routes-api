@@ -95,5 +95,25 @@
   "nominatim_found": true,
   "display_address": "Family Cycle Route, Cinderford, Forest of Dean, Gloucestershire, England, GL16 7EH, United Kingdom",
   "district": "Forest of Dean",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "forest",
+    "path"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "nature reserve",
+    "ponds"
+  ],
+  "facilities": [
+    "picnic"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -88,5 +88,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Belton House, West Courtyard, Belton and Manthorpe, Belton, South Kesteven, Lincolnshire, England, NG32 2LS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "park",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "lakes"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

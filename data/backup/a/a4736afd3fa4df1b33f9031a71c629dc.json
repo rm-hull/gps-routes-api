@@ -114,5 +114,27 @@
   "display_address": "SR258, Sundridge with Ide Hill, Sevenoaks, Kent, England, TN14 6LG, United Kingdom",
   "postcode": "TN14 6LG",
   "district": "Sevenoaks",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "field",
+    "water"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "refreshments"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

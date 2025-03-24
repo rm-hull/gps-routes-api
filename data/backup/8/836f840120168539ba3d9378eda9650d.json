@@ -70,5 +70,25 @@
   "nominatim_found": true,
   "display_address": "Waddesdon Greenway, Berryfields, Buckinghamshire, England, HP18 0PE, United Kingdom",
   "postcode": "HP18 0PE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "information boards",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

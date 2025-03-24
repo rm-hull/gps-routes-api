@@ -105,5 +105,25 @@
   "display_address": "Dales Way, Barden Bridge, Barden, North Yorkshire, York and North Yorkshire, England, BD23 6AS, United Kingdom",
   "postcode": "BD23 6AS",
   "district": "Barden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

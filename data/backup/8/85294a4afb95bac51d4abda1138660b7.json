@@ -93,5 +93,25 @@
   "nominatim_found": true,
   "display_address": "Coates Lane, High Wycombe Community Board, Downley, Buckinghamshire, England, HP13 5UX, United Kingdom",
   "district": "Downley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "short walk",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

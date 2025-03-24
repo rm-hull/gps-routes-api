@@ -108,5 +108,30 @@
   "display_address": "Rhododendron Walk, Hever, Sevenoaks, Kent, England, TN8 7NG, United Kingdom",
   "postcode": "TN8 7NG",
   "district": "Sevenoaks",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "lake",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "boat hire",
+    "visitor center",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

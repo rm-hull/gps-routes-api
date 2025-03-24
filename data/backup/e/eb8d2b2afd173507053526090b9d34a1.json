@@ -117,5 +117,28 @@
   "display_address": "Avenue De Cagny, Pirbright, Guildford, Surrey, England, GU24 0JT, United Kingdom",
   "postcode": "GU24 0JT",
   "district": "Guildford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "village green",
+    "duck pond",
+    "cricket pitch",
+    "birdlife",
+    "cemetery"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

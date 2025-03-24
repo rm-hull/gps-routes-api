@@ -74,5 +74,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mooboo, 35, Burgate, The King's Mile, Canterbury, Kent, England, CT1 2HA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "pasture",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "castle"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

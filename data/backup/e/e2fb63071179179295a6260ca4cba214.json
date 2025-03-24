@@ -99,5 +99,27 @@
   "display_address": "Crimes Lane, Beeston, Cheshire West and Chester, England, CW6 9UB, United Kingdom",
   "postcode": "CW6 9UB",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "canal",
+    "off road"
+  ],
+  "points_of_interest": [
+    "historic castle",
+    "church",
+    "canal"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

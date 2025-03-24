@@ -84,5 +84,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A303, Amesbury, Wiltshire, England, SP4 7AS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "monuments",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

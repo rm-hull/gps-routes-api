@@ -71,5 +71,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "High Street, Graveley, North Hertfordshire, Hertfordshire, England, SG4 7LA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "parks",
+    "countryside"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "footpaths",
+    "bridleways"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

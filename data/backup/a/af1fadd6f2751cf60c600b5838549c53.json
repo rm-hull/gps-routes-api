@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "Home Farm Shop & Auditorium, Silver Avenue, South Ayrshire, Alba / Scotland, KA19 8JX, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "garden"
+  ],
+  "points_of_interest": [
+    "walking paths",
+    "bay",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

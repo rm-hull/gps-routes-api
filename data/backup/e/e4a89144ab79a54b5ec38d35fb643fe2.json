@@ -69,5 +69,25 @@
   "display_address": "B4391, Llanycil, Gwynedd, Cymru / Wales, LL23 7PB, United Kingdom",
   "postcode": "LL23 7PB",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "memorial",
+    "summit"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

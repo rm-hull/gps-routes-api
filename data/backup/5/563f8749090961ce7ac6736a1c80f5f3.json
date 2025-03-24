@@ -108,5 +108,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Caudwell's Castle, 5, Folly Bridge, South Oxford, Oxford, Oxfordshire, England, OX1 4LA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "university rowing clubs"
+  ],
+  "facilities": [
+    "car park",
+    "bus stop",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

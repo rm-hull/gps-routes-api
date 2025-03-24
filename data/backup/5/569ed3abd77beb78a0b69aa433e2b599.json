@@ -88,5 +88,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Station Hill, Pickhurst, Hayes, London Borough of Bromley, London, Greater London, England, BR2 7EA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "trails",
+    "lakes",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "nature centre"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

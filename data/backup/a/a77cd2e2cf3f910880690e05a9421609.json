@@ -114,5 +114,27 @@
   "nominatim_found": true,
   "display_address": "1, Wharf Close, Piccadilly, City Centre, Manchester, Greater Manchester, England, M1 2WE, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

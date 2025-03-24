@@ -108,5 +108,24 @@
   "display_address": "Cockercombe Road, Triscombe, West Bagborough, Somerset, England, TA4 3HF, United Kingdom",
   "postcode": "TA4 3HF",
   "district": "West Bagborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

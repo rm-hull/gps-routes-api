@@ -84,5 +84,28 @@
   "postcode": "LS22 6RT",
   "district": "Wetherby",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "farmland views",
+    "village"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

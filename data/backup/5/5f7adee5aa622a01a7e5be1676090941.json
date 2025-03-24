@@ -99,5 +99,27 @@
   "nominatim_found": true,
   "display_address": "Ringstead Bay, Fishers Place, Owermoigne, Osmington, Dorset, England, DT2 8NG, United Kingdom",
   "district": "Osmington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "beach"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "beaches"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

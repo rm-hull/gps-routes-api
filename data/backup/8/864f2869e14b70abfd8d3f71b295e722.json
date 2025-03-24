@@ -43,5 +43,24 @@
   "county": "Ruapehu District",
   "region": null,
   "state": "Manawat\u016b-Whanganui",
-  "country": "New Zealand / Aotearoa"
+  "country": "New Zealand / Aotearoa",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "volcanoes"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

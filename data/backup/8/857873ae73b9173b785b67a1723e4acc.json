@@ -89,5 +89,31 @@
   "nominatim_found": true,
   "display_address": "B2149, Rowlands Castle, East Hampshire, Hampshire, England, PO9 6BL, United Kingdom",
   "postcode": "PO9 6BL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "maze",
+    "walled garden",
+    "visitor center",
+    "historical buildings",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "cycle hire",
+    "animal attractions",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

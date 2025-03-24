@@ -108,5 +108,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Scabbate Gate, Kettlewell with Starbotton, Kettlewell, North Yorkshire, York and North Yorkshire, England, BD23 5RQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "farmlands",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

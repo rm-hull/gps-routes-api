@@ -90,5 +90,27 @@
   "nominatim_found": true,
   "display_address": "Whitewebbs Road, London Borough of Enfield, London, Greater London, England, EN2 9HS, United Kingdom",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "picnic areas",
+    "water features",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -118,5 +118,30 @@
   "nominatim_found": true,
   "display_address": "Woodside Road, Avola Farm, Chiddingfold, Waverley, Surrey, England, GU8 4RF, United Kingdom",
   "postcode": "GU8 4RF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "memorials",
+    "gardens"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "footpaths",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

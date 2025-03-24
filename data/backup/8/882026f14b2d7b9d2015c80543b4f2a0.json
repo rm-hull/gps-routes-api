@@ -110,5 +110,26 @@
   "nominatim_found": true,
   "display_address": "Llanasa, Talacre, Flintshire, Cymru / Wales, CH8 9RP, United Kingdom",
   "postcode": "CH8 9RP",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "dunes",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

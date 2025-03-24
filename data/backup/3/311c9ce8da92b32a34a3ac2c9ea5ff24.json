@@ -80,5 +80,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Salon, 33, High Street, Tillicoultry, Clackmannanshire, Alba / Scotland, FK13 6AF, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

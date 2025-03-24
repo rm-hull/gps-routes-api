@@ -85,5 +85,32 @@
   "county": "Middle",
   "region": null,
   "state": null,
-  "country": "Isle of Man"
+  "country": "Isle of Man",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 days",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "railway museum",
+    "harbour",
+    "miniature railway",
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

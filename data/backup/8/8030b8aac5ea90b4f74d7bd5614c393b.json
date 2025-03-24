@@ -103,5 +103,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kettlewell with Starbotton, Kettlewell, North Yorkshire, York and North Yorkshire, England, BD23 5RN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfall",
+    "upland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "valley views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

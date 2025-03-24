@@ -119,5 +119,28 @@
   "nominatim_found": true,
   "display_address": "Monyash Methodist Church, Chapel Street, Monyash CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1JJ, United Kingdom",
   "postcode": "DE45 1JJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "church",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

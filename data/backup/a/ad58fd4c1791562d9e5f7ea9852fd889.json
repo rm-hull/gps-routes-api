@@ -123,5 +123,25 @@
   "display_address": "Grin Low Car Park, Grin Low Road, Harpur Hill, High Peak, Derbyshire, East Midlands, England, SK17 9US, United Kingdom",
   "postcode": "SK17 9US",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "counties"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

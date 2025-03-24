@@ -107,5 +107,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Denbies Hillside, Ranmore Common Road, Wotton, Mole Valley, Surrey, England, RH5 6SR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "chalk grassland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

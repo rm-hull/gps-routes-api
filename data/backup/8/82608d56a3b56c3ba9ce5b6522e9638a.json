@@ -113,5 +113,28 @@
   "nominatim_found": true,
   "display_address": "9, Tower Street, Rye Hill, Rye, Playden, Rother, East Sussex, England, TN31 7AT, United Kingdom",
   "postcode": "TN31 7AT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "nature reserve",
+    "canal",
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "historical sites",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

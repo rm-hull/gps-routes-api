@@ -94,5 +94,29 @@
   "display_address": "Chinese Wall Bridge, Orford, East Suffolk, Suffolk, England, IP12 2NY, United Kingdom",
   "postcode": "IP12 2NY",
   "district": "East Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "shingle",
+    "salt-marsh",
+    "mud-flats",
+    "brackish lagoons",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

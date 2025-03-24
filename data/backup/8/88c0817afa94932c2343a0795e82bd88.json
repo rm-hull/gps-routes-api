@@ -85,5 +85,24 @@
   "display_address": "Horseshoe Lane, Twin Rivers, Blacktoft, East Riding of Yorkshire, England, DN14 7YW, United Kingdom",
   "postcode": "DN14 7YW",
   "district": "Blacktoft",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "lakes"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

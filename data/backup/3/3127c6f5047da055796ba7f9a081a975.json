@@ -76,5 +76,27 @@
   "display_address": "Oakburn, Chapel Lane, Westhumble, Mole Valley, Surrey, England, RH5 6AH, United Kingdom",
   "postcode": "RH5 6AH",
   "district": "Mole Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "local beauty spot"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

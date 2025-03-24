@@ -103,5 +103,26 @@
   "display_address": "Kymin Road, Wyesham, Monmouth, Monmouthshire, Cymru / Wales, NP25 3SF, United Kingdom",
   "postcode": "NP25 3SF",
   "district": "Monmouth",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field paths",
+    "forest tracks"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

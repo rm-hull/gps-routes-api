@@ -100,5 +100,24 @@
   "nominatim_found": true,
   "display_address": "Sandford Avenue, Hazler, Church Stretton, Shropshire, England, SY6 6PG, United Kingdom",
   "postcode": "SY6 6PG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

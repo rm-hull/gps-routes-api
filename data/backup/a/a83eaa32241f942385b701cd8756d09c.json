@@ -89,5 +89,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Alexandra Warehouse, Gloucester Quay, Gloucester, Gloucestershire, England, GL1 2LG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "shops",
+    "leisure facilities",
+    "marina",
+    "museum",
+    "wetland centre",
+    "abandoned boats"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

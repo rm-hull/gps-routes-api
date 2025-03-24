@@ -104,5 +104,27 @@
   "display_address": "Itchen Bridge, Woolston, Southampton, England, SO19 7BG, United Kingdom",
   "postcode": "SO19 7BG",
   "district": "Southampton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture",
+    "hill"
+  ],
+  "points_of_interest": [
+    "park",
+    "country park",
+    "cathedral",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

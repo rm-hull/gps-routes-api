@@ -64,5 +64,24 @@
   "nominatim_found": true,
   "display_address": "The Greenock Cut, Inverclyde, Alba / Scotland, PA16 9NB, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "reservoirs",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -98,5 +98,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Little London Road, Silchester, Pamber Heath, Basingstoke and Deane, Hampshire, England, RG7 2NN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "Roman ruins",
+    "woodland trails",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

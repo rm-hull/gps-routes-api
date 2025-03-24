@@ -63,5 +63,27 @@
   "display_address": "King's Drive, Cliffburn, Arbroath, Angus, Alba / Scotland, DD11 5FF, United Kingdom",
   "postcode": "DD11 5FF",
   "district": "Arbroath",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "wildlife reserve",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "beach",
+    "restaurant"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

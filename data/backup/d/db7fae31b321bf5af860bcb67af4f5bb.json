@@ -94,5 +94,27 @@
   "nominatim_found": true,
   "display_address": "The Broad Walk, Bayswater, London, Greater London, England, W8 4PX, United Kingdom",
   "postcode": "W8 4PX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved paths",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "memorial fountain",
+    "lake views",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "tube stations",
+    "river access"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

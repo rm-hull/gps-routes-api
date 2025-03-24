@@ -68,5 +68,28 @@
   "nominatim_found": true,
   "display_address": "4, Asquith Avenue, Claughton, Birkenhead, Wirral, Liverpool City Region, England, CH41 8AT, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "wildflower meadows",
+    "rock carvings"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

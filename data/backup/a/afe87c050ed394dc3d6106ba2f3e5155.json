@@ -70,5 +70,25 @@
   "display_address": "Horningsham, Wiltshire, England, BA12 7LG, United Kingdom",
   "postcode": "BA12 7LG",
   "district": "Horningsham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "benches",
+    "lawns"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

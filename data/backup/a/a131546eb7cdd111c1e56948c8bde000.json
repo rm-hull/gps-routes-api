@@ -80,5 +80,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Harbour Road, North Sunderland, Seahouses, Northumberland, North East, England, NE68 7RL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "sand dunes"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

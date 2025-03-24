@@ -87,5 +87,27 @@
   "display_address": "Holyhead, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 2JA, United Kingdom",
   "postcode": "LL65 2JA",
   "district": "Holyhead",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park",
+    "cycle route",
+    "walking trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -65,5 +65,22 @@
   "nominatim_found": true,
   "display_address": "Sticklands Church of England Voluntary Aided Primary School, Summer Lane, Evershot, Dorchester, Dorset, England, DT2 0JP, United Kingdom",
   "postcode": "DT2 0JP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

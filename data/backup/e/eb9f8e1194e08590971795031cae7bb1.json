@@ -62,5 +62,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Jubilee Lake Car Park, Brinkworth Road, Royal Wootton Bassett, Wiltshire, England, SN4 8DS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

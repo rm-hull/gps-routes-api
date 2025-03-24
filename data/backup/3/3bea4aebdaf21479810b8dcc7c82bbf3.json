@@ -100,5 +100,26 @@
   "display_address": "Dalemain, Dacre Bridge, Stainton, Dacre, Westmorland and Furness, England, CA11 0HB, United Kingdom",
   "postcode": "CA11 0HB",
   "district": "Stainton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "historic parkland",
+    "deer",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

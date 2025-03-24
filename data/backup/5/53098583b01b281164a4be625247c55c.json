@@ -109,5 +109,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A69, Thorngrafton, Bardon Mill, Northumberland, North East, England, NE47 7BW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "waterfall",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -42,5 +42,21 @@
   "nominatim_found": true,
   "display_address": "44, Northgate, Walkington, East Riding of Yorkshire, England, HU17 8ST, United Kingdom",
   "postcode": "HU17 8ST",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

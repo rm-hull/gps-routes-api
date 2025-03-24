@@ -94,5 +94,26 @@
   "nominatim_found": true,
   "display_address": "B4518, Rhayader, Powys, Cymru / Wales, LD6 5AP, United Kingdom",
   "postcode": "LD6 5AP",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

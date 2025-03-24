@@ -88,5 +88,26 @@
   "display_address": "Hutchinson Road, Bamford, Norden, Rochdale, Greater Manchester, England, OL11 5TX, United Kingdom",
   "postcode": "OL11 5TX",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "countryside",
+    "views"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "waterfall"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

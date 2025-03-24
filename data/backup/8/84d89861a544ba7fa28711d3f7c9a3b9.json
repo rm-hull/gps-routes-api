@@ -88,5 +88,26 @@
   "nominatim_found": true,
   "display_address": "Crumplehorn, Polperro, Cornwall, England, PL13 2QZ, United Kingdom",
   "postcode": "PL13 2QZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "wild flowers",
+    "bird watching",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

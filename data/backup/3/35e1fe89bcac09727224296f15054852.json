@@ -103,5 +103,25 @@
   "display_address": "Heather Lane, Normanton Le Heath, North West Leicestershire, Leicestershire, England, LE67 2TD, United Kingdom",
   "postcode": "LE67 2TD",
   "district": "North West Leicestershire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "forest trails",
+    "waterways"
+  ],
+  "facilities": [
+    "car park",
+    "bridletrack"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -65,5 +65,23 @@
   "nominatim_found": true,
   "display_address": "South Crescent, Portpatrick, Dumfries and Galloway, Alba / Scotland, DG9 8LE, United Kingdom",
   "postcode": "DG9 8LE",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

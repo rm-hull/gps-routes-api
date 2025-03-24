@@ -90,5 +90,26 @@
   "display_address": "Station Road, Eckington, Renishaw, North East Derbyshire, Derbyshire, East Midlands, England, S21 3WB, United Kingdom",
   "postcode": "S21 3WB",
   "district": "North East Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "river"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "trails",
+    "lakes"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

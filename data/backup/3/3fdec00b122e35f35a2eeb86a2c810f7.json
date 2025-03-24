@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "High Street, Tilshead, Wiltshire, England, SP3 4SB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalk grassland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "church",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

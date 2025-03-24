@@ -50,5 +50,25 @@
   "display_address": "Brodgar Road, Brodgar Farm, Stenness, Orkney Islands, Alba / Scotland, KW16 3HY, United Kingdom",
   "postcode": "KW16 3HY",
   "district": "Stenness",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -115,5 +115,24 @@
   "nominatim_found": true,
   "display_address": "Dalwhinnie, Ben Alder Road, Dalwhinnie, Highland, Alba / Scotland, PH19 1AD, United Kingdom",
   "postcode": "PH19 1AD",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -63,5 +63,23 @@
   "nominatim_found": true,
   "display_address": "Lochgoilhead Primary School, Hall Road, Lochgoilhead, Argyll and Bute, Alba / Scotland, PA24 8AQ, United Kingdom",
   "postcode": "PA24 8AQ",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfall",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -47,5 +47,25 @@
   "nominatim_found": true,
   "display_address": "Hogmoor Road, Whitehill, East Hampshire, Hampshire, England, GU35 9EJ, United Kingdom",
   "postcode": "GU35 9EJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "children's activities",
+    "historic village"
+  ],
+  "facilities": [
+    "car park",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

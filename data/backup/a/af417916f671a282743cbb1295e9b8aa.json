@@ -65,5 +65,23 @@
   "display_address": "The Promenade, Porthloo, St Mary's, Hugh Town, Isles of Scilly, England, TR21 0PT, United Kingdom",
   "postcode": "TR21 0PT",
   "district": "Hugh Town",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff tops"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

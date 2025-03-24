@@ -83,5 +83,25 @@
   "display_address": "Main Road, Brampton, Bolehill, North East Derbyshire, Derbyshire, East Midlands, England, S42 7AU, United Kingdom",
   "postcode": "S42 7AU",
   "district": "North East Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

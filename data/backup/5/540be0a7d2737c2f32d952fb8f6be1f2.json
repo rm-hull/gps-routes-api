@@ -100,5 +100,24 @@
   "display_address": "A855, Culnacnoc, Staffin, Highland, Alba / Scotland, IV51 9JD, United Kingdom",
   "postcode": "IV51 9JD",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

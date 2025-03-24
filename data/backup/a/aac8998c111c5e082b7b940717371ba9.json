@@ -89,5 +89,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Powers Hall End, Witham, Braintree, Essex, England, CM8 2HG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "scrub",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "nature reserve",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

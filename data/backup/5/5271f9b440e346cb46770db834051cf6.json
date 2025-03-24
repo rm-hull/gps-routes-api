@@ -70,5 +70,25 @@
   "nominatim_found": true,
   "display_address": "B4542, Carpenders Park, Watford Rural, South Oxhey, Three Rivers, Hertfordshire, England, WD19 6UL, United Kingdom",
   "postcode": "WD19 6UL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

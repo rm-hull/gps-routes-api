@@ -95,5 +95,25 @@
   "county": "County Sligo",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "ancient sites"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

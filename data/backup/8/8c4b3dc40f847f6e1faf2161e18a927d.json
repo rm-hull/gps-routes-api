@@ -84,5 +84,27 @@
   "nominatim_found": true,
   "display_address": "School Road, North Berwick, East Lothian, Alba / Scotland, EH39 4LQ, United Kingdom",
   "postcode": "EH39 4LQ",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "road",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "golf course",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

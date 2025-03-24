@@ -95,5 +95,27 @@
   "nominatim_found": true,
   "display_address": "Greenrigg - Polkemmet - Whitburn cycle path, Greenrigg, West Lothian, Alba / Scotland, EH47 0AA, United Kingdom",
   "district": "Greenrigg",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "cycle path"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

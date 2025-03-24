@@ -70,5 +70,27 @@
   "display_address": "Achnamara Road, Achnamara, Argyll and Bute, Alba / Scotland, PA31 8PS, United Kingdom",
   "postcode": "PA31 8PS",
   "district": "Achnamara",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "waterfalls",
+    "scenic views"
+  ],
+  "facilities": [
+    "car park",
+    "towpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

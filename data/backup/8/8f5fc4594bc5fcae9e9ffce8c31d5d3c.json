@@ -113,5 +113,24 @@
   "nominatim_found": true,
   "display_address": "The Coach House, A6108, Jervaulx Hall, East Witton, Ripon, North Yorkshire, York and North Yorkshire, England, HG4 4PH, United Kingdom",
   "district": "Ripon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "tea rooms"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

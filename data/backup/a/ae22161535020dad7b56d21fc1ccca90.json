@@ -90,5 +90,27 @@
   "display_address": "Hu Nan Chinese Resturant, 69A, Raglan Road, Woodhouse Cliff, Woodhouse, Leeds, West Yorkshire, England, LS2 9DZ, United Kingdom",
   "postcode": "LS2 9DZ",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "park",
+    "waterway"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "lake",
+    "nature reserve",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -105,5 +105,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Wherrytown, Gulval, Penzance, Cornwall, England, TR18 2JY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "art gallery",
+    "beach"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible",
+    "gift shops"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Whitesands (West) Car Park, Mill Road, Town Centre, Loreburn, Dumfries, Dumfries and Galloway, Alba / Scotland, DG2 7BD, United Kingdom",
   "postcode": "DG2 7BD",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "bench",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -88,5 +88,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Poole's Cavern Visitor Centre, Green Lane, Buxton, High Peak, Derbyshire, East Midlands, England, SK17 9DH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "limestone",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

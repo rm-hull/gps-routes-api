@@ -129,5 +129,27 @@
   "display_address": "Bridge 139, Farnborough CP, Stratford-on-Avon, Warwickshire, England, OX17 1EJ, United Kingdom",
   "postcode": "OX17 1EJ",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "countryside",
+    "Cotswolds"
+  ],
+  "points_of_interest": [
+    "ancient sites",
+    "countryside views",
+    "megalithic monuments"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

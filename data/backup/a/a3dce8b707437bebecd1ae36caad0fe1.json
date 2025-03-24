@@ -71,5 +71,24 @@
   "display_address": "Rectory Cottage, Mark Herniman Hill, Crowcombe, Taunton, Somerset, England, TA4 4AA, United Kingdom",
   "postcode": "TA4 4AA",
   "district": "Taunton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "ridge"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

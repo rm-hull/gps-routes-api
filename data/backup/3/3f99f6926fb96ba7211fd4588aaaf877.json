@@ -90,5 +90,26 @@
   "display_address": "Whipsnade Road, Whipsnade, Central Bedfordshire, England, LU6 2GY, United Kingdom",
   "postcode": "LU6 2GY",
   "district": "Whipsnade",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

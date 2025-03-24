@@ -109,5 +109,25 @@
   "nominatim_found": true,
   "display_address": "Gailey Lea Lane, Penkridge, Hatherton Junction, South Staffordshire, Staffordshire, England, ST19 5PT, United Kingdom",
   "district": "South Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "canal"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "village"
+  ],
+  "facilities": [
+    "canal",
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "canal walking"
+  ]
 }

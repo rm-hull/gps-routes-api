@@ -108,5 +108,26 @@
   "display_address": "Longridge Road, Aighton, Bailey and Chaigley, Hurst Green, Ribble Valley, Lancashire, England, BB7 9QS, United Kingdom",
   "postcode": "BB7 9QS",
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "forest views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

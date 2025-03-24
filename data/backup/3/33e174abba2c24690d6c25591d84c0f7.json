@@ -94,5 +94,29 @@
   "display_address": "Ashford Road, Eyhorne Street, Broomfield and Kingswood, Hollingbourne, Maidstone, Kent, England, ME17 1PG, United Kingdom",
   "postcode": "ME17 1PG",
   "district": "Maidstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "water"
+  ],
+  "points_of_interest": [
+    "maze",
+    "grotto",
+    "gardens",
+    "state rooms"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

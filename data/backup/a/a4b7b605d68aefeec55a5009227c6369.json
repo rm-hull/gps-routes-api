@@ -80,5 +80,23 @@
   "nominatim_found": true,
   "display_address": "Whichford, Stratford-on-Avon, Warwickshire, England, CV36 5PL, United Kingdom",
   "postcode": "CV36 5PL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "wildlife",
+    "historical monuments"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

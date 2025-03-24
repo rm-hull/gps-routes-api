@@ -133,5 +133,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sankey Way, Sankey Bridges, Great Sankey, Warrington, England, WA5 1HQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "meadows",
+    "grazing cattle"
+  ],
+  "facilities": [
+    "play area",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -65,5 +65,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Magdalen Hill, St Giles Hill, The Soke, Winchester, Hampshire, England, SO23 0HF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "river views"
+  ],
+  "facilities": [
+    "park",
+    "benches",
+    "information board",
+    "river paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

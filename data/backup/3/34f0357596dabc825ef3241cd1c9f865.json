@@ -89,5 +89,26 @@
   "nominatim_found": true,
   "display_address": "Banstead Road, Nork, Banstead, Reigate and Banstead, Surrey, England, SM7 1PZ, United Kingdom",
   "postcode": "SM7 1PZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildflower areas",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

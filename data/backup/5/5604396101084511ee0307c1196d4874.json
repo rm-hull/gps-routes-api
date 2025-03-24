@@ -52,5 +52,26 @@
   "nominatim_found": true,
   "display_address": "Keelman's Way, Wylam, Gateshead, Northumberland, North East, England, NE40 3SZ, United Kingdom",
   "county": "Northumberland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "walking trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

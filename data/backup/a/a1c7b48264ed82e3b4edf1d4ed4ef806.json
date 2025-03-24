@@ -67,5 +67,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Green Lane, Orchard Valley, Hythe, Folkestone and Hythe, Kent, England, CT21 4EA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "canal",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "golf course"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "gardens"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

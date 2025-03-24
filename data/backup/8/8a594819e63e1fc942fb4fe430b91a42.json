@@ -103,5 +103,26 @@
   "display_address": "Hollow Lane, Grafton, Wilton, Wiltshire, England, SN8 3SS, United Kingdom",
   "postcode": "SN8 3SS",
   "district": "Wilton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "nature"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

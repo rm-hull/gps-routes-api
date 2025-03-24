@@ -68,5 +68,24 @@
   "postcode": "HD9 1TJ",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "reservoir",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "local reservoirs"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

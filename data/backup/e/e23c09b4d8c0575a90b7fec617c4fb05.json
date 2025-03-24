@@ -52,5 +52,26 @@
   "nominatim_found": true,
   "display_address": "Chalgrove, South Oxfordshire, Oxfordshire, England, OX44 7SE, United Kingdom",
   "postcode": "OX44 7SE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "parkland",
+    "estate"
+  ],
+  "facilities": [
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

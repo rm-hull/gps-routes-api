@@ -90,5 +90,28 @@
   "display_address": "Clapper Bridge, Dartfordleigh, Dartmoor Forest, Postbridge, West Devon, Devon, England, PL20 6TJ, United Kingdom",
   "postcode": "PL20 6TJ",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "picnic"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

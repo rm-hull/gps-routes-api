@@ -110,5 +110,25 @@
   "county": null,
   "region": "West Yorkshire",
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "reservoir",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "castle",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

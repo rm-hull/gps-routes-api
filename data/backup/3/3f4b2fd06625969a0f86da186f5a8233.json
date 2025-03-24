@@ -58,5 +58,30 @@
   "display_address": "The Greyhound, 49, High Street, Ixworth, Suffolk, England, IP31 2HJ, United Kingdom",
   "postcode": "IP31 2HJ",
   "district": "Ixworth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "local landmarks"
+  ],
+  "facilities": [
+    "pub",
+    "village hall",
+    "shop",
+    "post office",
+    "doctor's surgery",
+    "fire station",
+    "police station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

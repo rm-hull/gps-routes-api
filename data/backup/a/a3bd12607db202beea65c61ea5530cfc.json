@@ -74,5 +74,28 @@
   "display_address": "East Ayrshire, Alba / Scotland, KA18 3SB, United Kingdom",
   "postcode": "KA18 3SB",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "castle",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

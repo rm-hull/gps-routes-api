@@ -94,5 +94,27 @@
   "county": "Ayre",
   "region": null,
   "state": null,
-  "country": "Isle of Man"
+  "country": "Isle of Man",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "gravel",
+    "slate",
+    "grass",
+    "rock"
+  ],
+  "points_of_interest": [
+    "landmarks",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

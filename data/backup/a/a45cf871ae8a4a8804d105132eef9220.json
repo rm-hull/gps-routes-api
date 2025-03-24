@@ -95,5 +95,25 @@
   "county": "Central Bedfordshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "bird watching"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "waymarked"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

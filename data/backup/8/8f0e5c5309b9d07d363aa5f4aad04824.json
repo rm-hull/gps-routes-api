@@ -105,5 +105,25 @@
   "nominatim_found": true,
   "display_address": "Crafnant Road, Trefriw, Conwy, Cymru / Wales, LL27 0JZ, United Kingdom",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "country lane"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "boat hire"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -102,5 +102,27 @@
   "display_address": "Zig Zag Road, Brockham, Pixham, Mole Valley, Surrey, England, RH4 1NT, United Kingdom",
   "postcode": "RH4 1NT",
   "district": "Mole Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "education center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

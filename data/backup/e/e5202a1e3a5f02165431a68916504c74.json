@@ -109,5 +109,25 @@
   "nominatim_found": true,
   "display_address": "Wood Street, Ashby-de-la-Zouch, North West Leicestershire, Leicestershire, England, LE65 1AB, United Kingdom",
   "postcode": "LE65 1AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "country house"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

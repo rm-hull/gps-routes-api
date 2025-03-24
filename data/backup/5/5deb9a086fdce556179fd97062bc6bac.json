@@ -94,5 +94,24 @@
   "display_address": "Sand Lane, North Cliffe, South Cliffe, East Riding of Yorkshire, England, YO43 4XE, United Kingdom",
   "postcode": "YO43 4XE",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grass"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

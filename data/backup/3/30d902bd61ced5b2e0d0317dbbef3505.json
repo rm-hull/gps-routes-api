@@ -97,5 +97,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Magnolia Drive, Aperfield, London Borough of Bromley, London, Greater London, England, TN16 3SN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature centre",
+    "wildflower meadows"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

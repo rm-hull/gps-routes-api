@@ -75,5 +75,27 @@
   "display_address": "Station Road, Buscott, Ashcott, Somerset, England, TA7 9FA, United Kingdom",
   "postcode": "TA7 9FA",
   "district": "Ashcott",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "bird hides",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "seating areas"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

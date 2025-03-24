@@ -120,5 +120,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "East Street, Old Town, Chesham, Chesham and Villages Community Board, Buckinghamshire, England, HP5 1BU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "gardens",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

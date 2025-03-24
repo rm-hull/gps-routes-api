@@ -108,5 +108,27 @@
   "display_address": "Frensham Common, The Street, Spreakley, Frensham, Waverley, Surrey, England, GU10 3EA, United Kingdom",
   "postcode": "GU10 3EA",
   "district": "Waverley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "nature reserve"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "sculpture park",
+    "film set"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

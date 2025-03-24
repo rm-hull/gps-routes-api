@@ -113,5 +113,27 @@
   "display_address": "Estate Track, Shackleton, Wadsworth, Slack Top, Calderdale, West Yorkshire, England, HX7 7AP, United Kingdom",
   "district": "Calderdale",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "scenery"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

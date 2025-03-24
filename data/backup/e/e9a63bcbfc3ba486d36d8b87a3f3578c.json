@@ -75,5 +75,25 @@
   "nominatim_found": true,
   "display_address": "Raddison York, North Street, Bootham, Bishophill, York, York and North Yorkshire, England, YO1 6JF, United Kingdom",
   "postcode": "YO1 6JF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "canal"
+  ],
+  "points_of_interest": [
+    "river views",
+    "racecourse views"
+  ],
+  "facilities": [
+    "car park",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

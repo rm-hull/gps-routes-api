@@ -89,5 +89,25 @@
   "display_address": "Ilchester Road, Lytes Cary, Charlton Mackrell, Somerset, England, TA11 7BH, United Kingdom",
   "postcode": "TA11 7BH",
   "district": "Charlton Mackrell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "topiary",
+    "ponds",
+    "statues"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

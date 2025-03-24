@@ -70,5 +70,19 @@
   "display_address": "Gordon Street, Forres, Moray, Alba / Scotland, IV36 1AJ, United Kingdom",
   "postcode": "IV36 1AJ",
   "district": "Forres",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "linear",
+  "activity_type": [
+    "walking"
+  ]
 }

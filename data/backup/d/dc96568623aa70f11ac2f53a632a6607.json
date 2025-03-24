@@ -143,5 +143,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Nethermoor Road, Wingerworth, Press, North East Derbyshire, Derbyshire, East Midlands, England, S42 6LJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "garden center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

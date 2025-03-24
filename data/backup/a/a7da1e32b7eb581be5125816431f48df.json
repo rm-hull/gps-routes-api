@@ -85,5 +85,25 @@
   "nominatim_found": true,
   "display_address": "Bomish Lane, Jodrell Bank, Lower Withington, Cheshire East, England, SK11 9DW, United Kingdom",
   "district": "Lower Withington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "interactive displays"
+  ],
+  "facilities": [
+    "car park",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -88,5 +88,26 @@
   "display_address": "May & Baker Way, London Borough of Barking and Dagenham, London, Greater London, England, RM10 7BL, United Kingdom",
   "postcode": "RM10 7BL",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "marshland",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

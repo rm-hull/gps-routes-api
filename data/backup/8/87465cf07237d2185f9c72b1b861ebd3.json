@@ -83,5 +83,26 @@
   "display_address": "Stover Park, Newton Road, Teigngrace, Heathfield, Teignbridge, Devon, England, TQ12 6PW, United Kingdom",
   "postcode": "TQ12 6PW",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "poetry trail",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

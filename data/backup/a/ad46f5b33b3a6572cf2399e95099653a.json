@@ -99,5 +99,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bradbourne Vale Road, St John's, Sevenoaks, Dunton Green, Sevenoaks, Kent, England, TN13 3EL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "insect habitats",
+    "bird hides",
+    "deer"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

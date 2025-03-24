@@ -75,5 +75,24 @@
   "nominatim_found": true,
   "display_address": "Sunnyhurst, Darwen, Blackburn with Darwen, England, BB3 1JX, United Kingdom",
   "postcode": "BB3 1JX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -115,5 +115,26 @@
   "display_address": "Swan Entry, Walsingham, Great Walsingham, North Norfolk, Norfolk, England, NR22 6EE, United Kingdom",
   "postcode": "NR22 6EE",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "rural"
+  ],
+  "points_of_interest": [
+    "religious sites",
+    "nature reserve",
+    "historic chapel",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "nature reserve"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

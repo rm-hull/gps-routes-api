@@ -89,5 +89,27 @@
   "display_address": "Stockhow Bridge, St. John's Castlerigg and Wythburn, Cumberland, England, CA12 4TP, United Kingdom",
   "postcode": "CA12 4TP",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "road"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "tarn",
+    "dam"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

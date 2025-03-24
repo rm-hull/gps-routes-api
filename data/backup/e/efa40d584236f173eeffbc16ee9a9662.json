@@ -98,5 +98,27 @@
   "display_address": "Bromley Cross, Bolton, Greater Manchester, England, BL2 4JP, United Kingdom",
   "postcode": "BL2 4JP",
   "district": "Bolton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "meadows",
+    "historic paths"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

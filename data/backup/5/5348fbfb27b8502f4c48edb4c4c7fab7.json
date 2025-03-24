@@ -94,5 +94,26 @@
   "display_address": "Rough Tor, Roughtor Road, Poldue, Advent, Camelford, Cornwall, England, PL32 9QG, United Kingdom",
   "postcode": "PL32 9QG",
   "district": "Camelford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "monuments"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "long distance trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

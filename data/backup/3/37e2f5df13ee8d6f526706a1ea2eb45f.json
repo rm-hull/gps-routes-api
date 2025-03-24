@@ -84,5 +84,26 @@
   "display_address": "St Helen's Church, Upper East Side Path, Torridge, Devon, England, EX39 2LY, United Kingdom",
   "postcode": "EX39 2LY",
   "district": "Torridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildflower meadows",
+    "cliff tops"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

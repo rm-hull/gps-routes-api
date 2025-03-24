@@ -74,5 +74,24 @@
   "nominatim_found": true,
   "display_address": "Monkham's Lane, Buckhurst Hill, London Borough of Redbridge, Epping Forest, Essex, Greater London, England, IG9 5AJ, United Kingdom",
   "postcode": "IG9 5AJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "natural areas",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "path"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

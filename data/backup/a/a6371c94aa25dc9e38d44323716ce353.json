@@ -85,5 +85,25 @@
   "display_address": "The Dodman, Trelispen Park, St. Goran, Gorran Haven, Cornwall, England, PL26 6HT, United Kingdom",
   "postcode": "PL26 6HT",
   "district": "Gorran Haven",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beaches",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

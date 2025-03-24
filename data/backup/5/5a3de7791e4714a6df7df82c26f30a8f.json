@@ -53,5 +53,27 @@
   "display_address": "Blue Walk, Cropton, North Yorkshire, York and North Yorkshire, England, YO18 8HW, United Kingdom",
   "postcode": "YO18 8HW",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "natural amphitheatre",
+    "walking trails",
+    "mountain bike trails"
+  ],
+  "facilities": [
+    "picnic areas",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

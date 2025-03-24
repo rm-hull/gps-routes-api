@@ -90,5 +90,25 @@
   "display_address": "Helicopter to Lundy, Ladies' Walk, Stoke, Hartland, Torridge, Devon, England, EX39 6DU, United Kingdom",
   "postcode": "EX39 6DU",
   "district": "Torridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

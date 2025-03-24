@@ -103,5 +103,25 @@
   "display_address": "Marford Road, Hatfield, Welwyn Hatfield, Hertfordshire, England, AL4 8EW, United Kingdom",
   "postcode": "AL4 8EW",
   "district": "Welwyn Hatfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical bridge",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

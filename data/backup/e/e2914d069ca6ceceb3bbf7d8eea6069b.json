@@ -67,5 +67,30 @@
   "display_address": "Lockside, 1, Dock Road, Kilton, Worksop, Bassetlaw, Nottinghamshire, East Midlands, England, S80 1DX, United Kingdom",
   "postcode": "S80 1DX",
   "district": "Bassetlaw",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "towpath",
+    "woodland",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "lakes",
+    "country park"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "fishing",
+    "beer garden",
+    "car park",
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

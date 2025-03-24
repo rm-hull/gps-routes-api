@@ -70,5 +70,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "43, Stewton Lane, Louth, East Lindsey, Lincolnshire, England, LN11 8SH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grass",
+    "uneven paths"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -69,5 +69,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Alverstone Road, Queen's Bower, Winford, Newchurch, Isle of Wight, England, PO36 0LD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

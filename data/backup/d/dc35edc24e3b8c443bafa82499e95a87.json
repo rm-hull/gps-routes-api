@@ -119,5 +119,25 @@
   "nominatim_found": true,
   "display_address": "Canal Road, Scorguie, Muirtown, Inverness, Highland, Alba / Scotland, IV3 8NF, United Kingdom",
   "postcode": "IV3 8NF",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

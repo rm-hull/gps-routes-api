@@ -33,5 +33,26 @@
   "nominatim_found": true,
   "display_address": "Lainshaw Drive, Simshill, Glasgow, Glasgow City, Alba / Scotland, G45 9SP, United Kingdom",
   "district": "Glasgow",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "riverbank"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "playground",
+    "golf course"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -138,5 +138,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Discover Beccles Fen, Fen Lane, Beccles, East Suffolk, Suffolk, England, NR34 9BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "villages",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "train station",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

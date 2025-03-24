@@ -52,5 +52,25 @@
   "display_address": "Sapperton, Frampton Mansell, Cotswold, Gloucestershire, England, GL6 8JG, United Kingdom",
   "postcode": "GL6 8JG",
   "district": "Cotswold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "public footpaths",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

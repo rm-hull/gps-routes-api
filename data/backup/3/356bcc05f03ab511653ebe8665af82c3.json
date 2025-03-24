@@ -62,5 +62,28 @@
   "display_address": "Rickmansworth Aquadrome Local Nature Reserve, Goral Mead, The Cedars Estate, Batchworth, Rickmansworth, Three Rivers, Hertfordshire, England, WD3 1BP, United Kingdom",
   "postcode": "WD3 1BP",
   "district": "Three Rivers",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "grassland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

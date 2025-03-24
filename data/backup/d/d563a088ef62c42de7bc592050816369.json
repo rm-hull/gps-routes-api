@@ -104,5 +104,27 @@
   "display_address": "EE, 7, Canal Walk, Queenstown, South Swindon Parish, Swindon, England, SN1 1LD, United Kingdom",
   "postcode": "SN1 1LD",
   "district": "Swindon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "park"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

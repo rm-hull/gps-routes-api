@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Mill Lane, Pamphill, Sturminster Marshall, Dorset, England, BH21 4BX, United Kingdom",
   "district": "Sturminster Marshall",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "pub",
+    "visitor center",
+    "church"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

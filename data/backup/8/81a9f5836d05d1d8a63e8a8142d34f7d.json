@@ -128,5 +128,25 @@
   "display_address": "Snipe Dales Country Park, Snipe Dales Round, Lusby, Lusby with Winceby, Hagworthingham, East Lindsey, Lincolnshire, England, PE23 4JB, United Kingdom",
   "postcode": "PE23 4JB",
   "district": "East Lindsey",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "nature reserve",
+    "village"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

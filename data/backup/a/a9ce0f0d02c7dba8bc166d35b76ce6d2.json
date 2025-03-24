@@ -112,5 +112,24 @@
   "nominatim_found": true,
   "display_address": "Beverley Road, South Cave, East Riding of Yorkshire, England, HU15 2BA, United Kingdom",
   "postcode": "HU15 2BA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic estate"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

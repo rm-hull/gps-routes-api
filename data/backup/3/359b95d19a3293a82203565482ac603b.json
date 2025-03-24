@@ -88,5 +88,28 @@
   "nominatim_found": true,
   "display_address": "Ampleforth, North Yorkshire, York and North Yorkshire, England, YO62 4DZ, United Kingdom",
   "postcode": "YO62 4DZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural areas",
+    "woodland trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "tea room",
+    "abbey shop",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

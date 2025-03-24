@@ -115,5 +115,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "3, Station Road, Greenfoot, Settle, North Yorkshire, York and North Yorkshire, England, BD24 9BJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

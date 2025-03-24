@@ -70,5 +70,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Arboretum, Marsh Drive, Giffard Park, Great Linford, Milton Keynes, City of Milton Keynes, England, MK14 5AS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible",
+    "bicycle parking"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

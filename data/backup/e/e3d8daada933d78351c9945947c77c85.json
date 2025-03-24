@@ -88,5 +88,29 @@
   "nominatim_found": true,
   "display_address": "Stithians Dam, Tresevern Hill, Goonlaze, Stithians, Cornwall, England, TR3 7AT, United Kingdom",
   "district": "Stithians",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "woodland",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "nature reserve",
+    "historical ruins"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "watersports centre",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

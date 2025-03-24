@@ -72,5 +72,25 @@
   "display_address": "Capel Seilo, Bwlch yr Eifl, Pistyll, Trefor, Llanaelhaearn, Gwynedd, Cymru / Wales, LL53 6NU, United Kingdom",
   "postcode": "LL53 6NU",
   "district": "Trefor",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical signs",
+    "viewpoint",
+    "hillfort"
+  ],
+  "facilities": [
+    "car park",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

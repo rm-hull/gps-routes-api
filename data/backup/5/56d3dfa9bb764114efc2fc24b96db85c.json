@@ -80,5 +80,24 @@
   "nominatim_found": true,
   "display_address": "Lordstones Country Park, Raisdale Road, Low Broomflatt, Bilsdale Midcable, Carlton in Cleveland, North Yorkshire, York and North Yorkshire, England, TS9 7JQ, United Kingdom",
   "district": "Carlton in Cleveland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "summit"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

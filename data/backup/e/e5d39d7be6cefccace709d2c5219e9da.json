@@ -32,5 +32,23 @@
   "nominatim_found": true,
   "display_address": "Ranger's Lodge Cottage, Queen Manor Road, Ranger's Lodge Farm, Clarendon Park, Laverstock, Wiltshire, England, SP5 3BS, United Kingdom",
   "district": "Laverstock",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "villages",
+    "scenery"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

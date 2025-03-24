@@ -79,5 +79,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Colne Road, Higherford, Barrowford, Pendle, Lancashire, England, BB9 6JD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

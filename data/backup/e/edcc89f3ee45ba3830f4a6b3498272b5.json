@@ -37,5 +37,29 @@
   "county": "Buckinghamshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "meadow",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "butterfly trail",
+    "medieval Manor House",
+    "English landscape park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

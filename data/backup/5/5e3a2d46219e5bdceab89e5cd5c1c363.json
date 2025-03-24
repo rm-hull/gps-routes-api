@@ -63,5 +63,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "1, Station Yard, The Gorge, Telford, Telford and Wrekin, England, TF8 7JF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical villages",
+    "museum",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

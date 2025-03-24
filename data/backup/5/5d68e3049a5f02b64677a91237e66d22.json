@@ -89,5 +89,24 @@
   "display_address": "NT Permissive Path, Montacute, Somerset, England, TA15 6US, United Kingdom",
   "postcode": "TA15 6US",
   "district": "Montacute",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

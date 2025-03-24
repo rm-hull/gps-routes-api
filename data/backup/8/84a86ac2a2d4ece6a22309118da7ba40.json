@@ -38,5 +38,26 @@
   "nominatim_found": true,
   "display_address": "Livermere Road, West Suffolk, Suffolk, England, IP31 2SB, United Kingdom",
   "postcode": "IP31 2SB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "cultural heritage"
+  ],
+  "facilities": [
+    "local shops",
+    "primary school",
+    "village hall"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -62,5 +62,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Middle Street, Elton, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE8 6RD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "fishing"
+  ]
 }

@@ -76,5 +76,26 @@
   "nominatim_found": true,
   "display_address": "West Street, Upper Castle Combe, Castle Combe, Wiltshire, England, SN14 7HN, United Kingdom",
   "postcode": "SN14 7HN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

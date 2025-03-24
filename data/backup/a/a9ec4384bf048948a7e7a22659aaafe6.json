@@ -90,5 +90,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lawyers View, Tay Bridge Terrace, Moness Country Club, Aberfeldy, Perth and Kinross, Alba / Scotland, PH15 2BS, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

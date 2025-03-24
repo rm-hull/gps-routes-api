@@ -128,5 +128,25 @@
   "display_address": "War Memorial, The Green, Red Lion Farm, Sarratt, Three Rivers, Hertfordshire, England, WD3 6BL, United Kingdom",
   "postcode": "WD3 6BL",
   "district": "Three Rivers",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historic house",
+    "village",
+    "river"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

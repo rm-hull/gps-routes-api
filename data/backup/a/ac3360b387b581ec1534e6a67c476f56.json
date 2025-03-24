@@ -79,5 +79,27 @@
   "display_address": "Dover Lane, Hammerpot, Angmering, Arun, West Sussex, England, BN18 9PX, United Kingdom",
   "postcode": "BN18 9PX",
   "district": "Arun",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

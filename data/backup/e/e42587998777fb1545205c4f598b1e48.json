@@ -94,5 +94,24 @@
   "display_address": "Granville Road, Donnington, Donnington and Muxton, Telford and Wrekin, England, TF2 7NB, United Kingdom",
   "postcode": "TF2 7NB",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grasslands",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

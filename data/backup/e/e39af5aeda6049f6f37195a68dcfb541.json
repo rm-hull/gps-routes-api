@@ -90,5 +90,24 @@
   "county": "County Limerick",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical villages",
+    "viewpoints",
+    "historic sites"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "linear",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

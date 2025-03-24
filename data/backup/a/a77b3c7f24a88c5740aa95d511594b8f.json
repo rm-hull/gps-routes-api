@@ -70,5 +70,26 @@
   "display_address": "Honister Pass, Borrowdale, Cumberland, England, CA12 5XN, United Kingdom",
   "postcode": "CA12 5XN",
   "district": "Borrowdale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "quarry"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "mine tours"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

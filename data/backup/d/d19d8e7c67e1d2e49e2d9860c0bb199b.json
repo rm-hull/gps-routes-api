@@ -72,5 +72,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Back Street, Ilmington CP, Stratford-on-Avon, Warwickshire, England, CV36 4LJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "natural areas"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "beer garden",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

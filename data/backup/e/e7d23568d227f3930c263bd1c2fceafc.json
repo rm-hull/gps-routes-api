@@ -103,5 +103,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Vicar Water Car Park, Eastfield Close, Clipstone, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG21 9AZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "views"
+  ],
+  "facilities": [
+    "footpaths",
+    "bridleways",
+    "cycle route",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

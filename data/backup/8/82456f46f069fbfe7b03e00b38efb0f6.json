@@ -67,5 +67,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Reservoir Road, Hockerley, Whaley Bridge, Buxworth, High Peak, Derbyshire, East Midlands, England, SK23 7AE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "ruined hall"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

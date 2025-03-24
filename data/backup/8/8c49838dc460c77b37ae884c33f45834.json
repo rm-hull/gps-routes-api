@@ -93,5 +93,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gohills, Carre Street, Galley Hill, Sleaford, North Kesteven, Lincolnshire, England, NG34 7TQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterway",
+    "countryside views"
+  ],
+  "facilities": [
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

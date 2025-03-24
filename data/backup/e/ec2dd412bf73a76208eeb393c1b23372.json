@@ -134,5 +134,30 @@
   "nominatim_found": true,
   "display_address": "Pier Road, North Woolwich, London Borough of Newham, London, Greater London, England, E16 2JS, United Kingdom",
   "postcode": "E16 2JS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "park",
+    "canal",
+    "reservoir",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "green areas",
+    "gardens",
+    "stadium"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

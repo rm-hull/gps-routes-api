@@ -90,5 +90,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "4, A82;A8005, Bridge of Orchy, Argyll and Bute, Alba / Scotland, PA36 4AE, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "mountain"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -108,5 +108,24 @@
   "display_address": "Coal Road, Garsdale Head, Garsdale, Westmorland and Furness, England, LA10 5PP, United Kingdom",
   "postcode": "LA10 5PP",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfall",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

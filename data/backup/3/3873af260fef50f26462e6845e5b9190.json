@@ -65,5 +65,24 @@
   "nominatim_found": true,
   "display_address": "Roan Head Car Park, Hawthwaite Lane, Askam and Ireleth, Askam-in-Furness, Westmorland and Furness, England, LA14 4QJ, United Kingdom",
   "district": "Askam-in-Furness",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "dune habitat"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "estuary views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

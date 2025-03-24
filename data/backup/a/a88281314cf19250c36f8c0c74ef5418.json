@@ -76,5 +76,28 @@
   "nominatim_found": true,
   "display_address": "Civic Centre, Church Hill Road, Solihull, West Midlands, England, B91 3HY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic properties",
+    "villages",
+    "lakes",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

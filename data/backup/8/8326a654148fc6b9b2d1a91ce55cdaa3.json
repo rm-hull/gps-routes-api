@@ -79,5 +79,24 @@
   "display_address": "Newport to Stafford Greenway, Gnosall, Outwoods, Stafford, Staffordshire, England, TF10 9EB, United Kingdom",
   "postcode": "TF10 9EB",
   "district": "Stafford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "local towns"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -104,5 +104,24 @@
   "display_address": "Chepstow Castle, Bridge Street, Chepstow, Monmouthshire, Cymru / Wales, NP16 5EZ, United Kingdom",
   "postcode": "NP16 5EZ",
   "district": "Chepstow",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -93,5 +93,23 @@
   "nominatim_found": true,
   "display_address": "Bluebell Hill Picnic Area, Common Road, Kit's Coty, Aylesford, Bluebell Hill, Tonbridge and Malling, Kent, England, ME5 9RG, United Kingdom",
   "postcode": "ME5 9RG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "stone"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "historical monuments"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

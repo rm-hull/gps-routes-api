@@ -74,5 +74,25 @@
   "display_address": "Primrose Lane, Firthcliffe, Liversedge, Kirklees, West Yorkshire, England, BD19 5LY, United Kingdom",
   "postcode": "BD19 5LY",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

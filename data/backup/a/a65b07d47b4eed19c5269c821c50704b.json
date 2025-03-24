@@ -94,5 +94,25 @@
   "county": "Highland",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "natural"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "lakes",
+    "streams"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

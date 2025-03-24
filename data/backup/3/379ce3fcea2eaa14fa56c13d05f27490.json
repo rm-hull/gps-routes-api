@@ -90,5 +90,27 @@
   "nominatim_found": true,
   "display_address": "Crewe Street, North Sunderland, Seahouses, Northumberland, North East, England, NE68 7RW, United Kingdom",
   "postcode": "NE68 7RW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

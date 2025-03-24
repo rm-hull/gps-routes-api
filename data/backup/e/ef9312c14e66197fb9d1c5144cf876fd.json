@@ -83,5 +83,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ashtead Commons Concessionary Ride 1 (BW 33), Lower Ashtead, Leatherhead, Mole Valley, Surrey, England, KT21 1QB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "scrub grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -124,5 +124,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bridge 15A, Marston Jabbett, Bedworth, Nuneaton and Bedworth, Warwickshire, England, CV12 9AL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "dog friendly",
+    "long distance trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

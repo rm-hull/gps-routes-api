@@ -90,5 +90,25 @@
   "nominatim_found": true,
   "display_address": "Bank Farm, Hundred Foot Bank, Welney, King's Lynn and West Norfolk, Norfolk, England, PE14 9TN, United Kingdom",
   "district": "King's Lynn and West Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grass",
+    "boardwalk"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

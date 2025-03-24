@@ -65,5 +65,21 @@
   "nominatim_found": true,
   "display_address": "Llantwit Major, Vale of Glamorgan, Cymru / Wales, CF61 1UG, United Kingdom",
   "postcode": "CF61 1UG",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

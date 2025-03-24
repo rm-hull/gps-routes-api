@@ -67,5 +67,24 @@
   "nominatim_found": true,
   "display_address": "KH207A, Harrietsham, Maidstone, Kent, England, ME17 1LY, United Kingdom",
   "postcode": "ME17 1LY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historic route",
+    "woodland trails"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

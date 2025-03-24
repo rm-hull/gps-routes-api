@@ -47,5 +47,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Chalet, Horsham Road, Nepcote, Findon, Arun, West Sussex, England, BN14 0UY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

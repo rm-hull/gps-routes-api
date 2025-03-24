@@ -43,5 +43,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Old School Hill, Midford, Southstoke, Bath and North East Somerset, West of England, England, BA2 7DU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "canals"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

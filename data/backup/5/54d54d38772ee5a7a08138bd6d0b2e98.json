@@ -63,5 +63,25 @@
   "nominatim_found": true,
   "display_address": "Church Lane, Radnage, Buckinghamshire, England, HP14 4DU, United Kingdom",
   "postcode": "HP14 4DU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "hill"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic church",
+    "national trail"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

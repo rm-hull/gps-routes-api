@@ -104,5 +104,25 @@
   "nominatim_found": true,
   "display_address": "Guide Bridge, Guide Lane, Guide Bridge, Audenshaw, Tameside, Greater Manchester, England, M34 5HF, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "park"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "playground"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

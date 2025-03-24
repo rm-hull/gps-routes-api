@@ -68,5 +68,26 @@
   "nominatim_found": true,
   "display_address": "Riverside, Reedham, Broadland, Norfolk, England, NR13 3TW, United Kingdom",
   "postcode": "NR13 3TW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "birdlife",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

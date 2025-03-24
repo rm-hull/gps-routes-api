@@ -58,5 +58,26 @@
   "display_address": "Pepper Street, Christleton, Cheshire West and Chester, England, CH3 7AS, United Kingdom",
   "postcode": "CH3 7AS",
   "district": "Christleton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "countryside views",
+    "bridges"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

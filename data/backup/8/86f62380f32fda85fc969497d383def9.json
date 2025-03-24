@@ -64,5 +64,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Watermill Cafe, Friar Row, Upton, Wigton, Cumberland, England, CA7 8DR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "footpath",
+    "bridleway"
+  ],
+  "points_of_interest": [
+    "villages"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

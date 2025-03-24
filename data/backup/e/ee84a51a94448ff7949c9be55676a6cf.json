@@ -82,5 +82,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Riverside Road, Richmond, North Yorkshire, York and North Yorkshire, England, DL10 4RP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "natural beauty",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

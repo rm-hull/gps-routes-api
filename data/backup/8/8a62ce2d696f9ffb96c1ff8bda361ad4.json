@@ -78,5 +78,27 @@
   "display_address": "Lindleys Croft, Todwick, Rotherham, South Yorkshire, England, S26 1HN, United Kingdom",
   "postcode": "S26 1HN",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "bridleway",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic churches",
+    "villages",
+    "canal views",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "reservoir"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

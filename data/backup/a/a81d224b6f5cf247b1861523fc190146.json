@@ -80,5 +80,24 @@
   "nominatim_found": true,
   "display_address": "Beach Car Park, Marine Road, Alnmouth, Northumberland, North East, England, NE66 2RP, United Kingdom",
   "postcode": "NE66 2RP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "coastal views",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "car park",
+    "path"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

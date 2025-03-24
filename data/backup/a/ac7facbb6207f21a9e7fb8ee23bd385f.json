@@ -104,5 +104,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Manor Road, Trenance, Newquay, Cornwall, England, TR7 1BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "dunes"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beaches",
+    "dunes",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "bar",
+    "visitor center",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -85,5 +85,31 @@
   "display_address": "Holy Island Road, Kyloe, Northumberland, North East, England, TD15 2PL, United Kingdom",
   "postcode": "TD15 2PL",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "rock"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "castle",
+    "lime kilns",
+    "cave",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "information board",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

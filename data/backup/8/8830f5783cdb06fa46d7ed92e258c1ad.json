@@ -93,5 +93,28 @@
   "display_address": "Lodge Hill Road, Mayer's Green, West Bromwich, Sandwell, West Midlands, England, B71 4AD, United Kingdom",
   "postcode": "B71 4AD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "museum"
+  ],
+  "facilities": [
+    "tea rooms",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

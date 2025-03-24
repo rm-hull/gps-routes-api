@@ -89,5 +89,26 @@
   "nominatim_found": true,
   "display_address": "Conham Road, Broomhill, St Anne's, Bristol, City of Bristol, West of England, England, BS15 3NY, United Kingdom",
   "postcode": "BS15 3NY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "picnic benches",
+    "refreshments",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -132,5 +132,26 @@
   "nominatim_found": true,
   "display_address": "Elizabeth Courtauld Surgery, Factory Lane West, Halstead, Braintree, Essex, England, CO9 1EX, United Kingdom",
   "postcode": "CO9 1EX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "woodland trails",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

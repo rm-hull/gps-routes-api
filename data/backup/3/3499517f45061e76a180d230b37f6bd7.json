@@ -68,5 +68,24 @@
   "nominatim_found": true,
   "display_address": "The Hermitage, A9, Inver, Perth and Kinross, Alba / Scotland, PH8 0JR, United Kingdom",
   "district": "Inver",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

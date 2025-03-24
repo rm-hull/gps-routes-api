@@ -72,5 +72,28 @@
   "display_address": "Marine Parade, Tywyn, Gwynedd, Cymru / Wales, LL36 0DF, United Kingdom",
   "postcode": "LL36 0DF",
   "district": "Tywyn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "river",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "train station",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

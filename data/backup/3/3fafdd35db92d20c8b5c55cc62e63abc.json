@@ -108,5 +108,28 @@
   "display_address": "Disabled car parking, Redford Lane, South Bedburn, County Durham, North East, England, DL13 3NP, United Kingdom",
   "postcode": "DL13 3NP",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "sculptures",
+    "waterfall"
+  ],
+  "facilities": [
+    "cycle hire",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

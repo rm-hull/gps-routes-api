@@ -88,5 +88,24 @@
   "display_address": "Gwaun Hepste Car Park, Hepstre Bridge, Ystradfellte, Powys, Cymru / Wales, CF44 9JB, United Kingdom",
   "postcode": "CF44 9JB",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

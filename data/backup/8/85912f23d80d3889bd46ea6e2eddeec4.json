@@ -108,5 +108,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "London Road, St Margarets, London Borough of Richmond upon Thames, London, Greater London, England, TW1 1EE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

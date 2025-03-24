@@ -128,5 +128,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sandown Pier, Esplanade, Sandown, Isle of Wight, England, PO36 8JP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "woodland",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "gift shops"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

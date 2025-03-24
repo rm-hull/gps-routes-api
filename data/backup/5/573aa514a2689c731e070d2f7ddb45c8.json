@@ -93,5 +93,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Queen Street, Arundel, Arun, West Sussex, England, BN18 9NZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "footpath",
+    "chalk"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "water meadows",
+    "castle",
+    "church",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -100,5 +100,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Street, Purewell, Christchurch, Bournemouth, Christchurch and Poole, England, BH23 1BW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "beach",
+    "field",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "ferry"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

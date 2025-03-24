@@ -79,5 +79,26 @@
   "display_address": "Balmoral Castle, Riverside walk, Newton, Ballater, Aberdeenshire, Alba / Scotland, AB35 5TB, United Kingdom",
   "postcode": "AB35 5TB",
   "district": "Ballater",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

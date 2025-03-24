@@ -64,5 +64,27 @@
   "display_address": "Jetty Cottage, 2, Marine Drive, Hannafore, Looe, Cornwall, England, PL13 2DJ, United Kingdom",
   "postcode": "PL13 2DJ",
   "district": "Looe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "grassland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "flower meadows",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

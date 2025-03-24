@@ -110,5 +110,22 @@
   "display_address": "Stan Salvador, Perth and Kinross, Alba / Scotland, PH7 4JY, United Kingdom",
   "postcode": "PH7 4JY",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "waterfront",
+    "hill"
+  ],
+  "points_of_interest": [
+    "summit"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -98,5 +98,24 @@
   "display_address": "Old Corpse Road, Wasdale, Cumberland, England, CA20 1EX, United Kingdom",
   "postcode": "CA20 1EX",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

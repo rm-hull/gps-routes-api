@@ -100,5 +100,21 @@
   "nominatim_found": true,
   "display_address": "Sack Hill, Warminster, Wiltshire, England, BA12 0DZ, United Kingdom",
   "postcode": "BA12 0DZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

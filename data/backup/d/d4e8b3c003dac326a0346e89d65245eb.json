@@ -64,5 +64,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4355, Dutlas, Beguildy, Lloyney, Powys, Cymru / Wales, LD7 1RN, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "geology"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

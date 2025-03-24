@@ -53,5 +53,26 @@
   "nominatim_found": true,
   "display_address": "Capability Way, Swanscombe and Greenhithe, Greenhithe, Dartford, Kent, England, DA9 9GX, United Kingdom",
   "postcode": "DA9 9GX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "park",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

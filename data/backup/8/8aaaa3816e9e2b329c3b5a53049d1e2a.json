@@ -118,5 +118,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "New Barnet, London Borough of Barnet, London, Greater London, England, EN4 9GE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "parkland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "parks",
+    "natural features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

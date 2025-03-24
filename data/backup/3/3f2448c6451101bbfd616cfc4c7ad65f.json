@@ -80,5 +80,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Glan yr Afon Terrace, Ffestiniog, Tan-y-grisiau, Gwynedd, Cymru / Wales, LL41 3SY, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "scenery"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

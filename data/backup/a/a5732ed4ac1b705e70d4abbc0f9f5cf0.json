@@ -99,5 +99,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Brent Street, Battleborough, Brent Knoll, Somerset, England, TA9 4BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "church",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -79,5 +79,27 @@
   "display_address": "Vale Road, Romiley, Marple, Stockport, Greater Manchester, England, SK6 3LE, United Kingdom",
   "district": "Marple",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lakeside",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "waterside walking"
+  ]
 }

@@ -88,5 +88,26 @@
   "display_address": "Jose's Lane, Martinhoe, North Devon, Devon, England, EX31 4PY, United Kingdom",
   "postcode": "EX31 4PY",
   "district": "North Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

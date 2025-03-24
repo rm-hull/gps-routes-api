@@ -109,5 +109,23 @@
   "nominatim_found": true,
   "display_address": "Gwrych Castle, Llanddulas Road, Abergele, Conwy, Cymru / Wales, LL22 8ET, United Kingdom",
   "district": "Abergele",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

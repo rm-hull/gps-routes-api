@@ -99,5 +99,28 @@
   "display_address": "Minffordd Path, Llanfihangel-y-Pennant, Gwynedd, Cymru / Wales, LL36 9AJ, United Kingdom",
   "postcode": "LL36 9AJ",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geological formations",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "toilets",
+    "tea room",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

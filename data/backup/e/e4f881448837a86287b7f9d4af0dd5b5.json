@@ -75,5 +75,25 @@
   "nominatim_found": true,
   "display_address": "Townhead, Langholm, Dumfries and Galloway, Alba / Scotland, DG13 0EP, United Kingdom",
   "postcode": "DG13 0EP",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "pastoral grasslands",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical monument",
+    "memorial",
+    "panoramic views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

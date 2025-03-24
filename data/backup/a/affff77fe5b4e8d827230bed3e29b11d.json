@@ -79,5 +79,25 @@
   "display_address": "Doncaster Drove, Stoneham, Eastleigh, Hampshire, England, SO50 5PE, United Kingdom",
   "postcode": "SO50 5PE",
   "district": "Eastleigh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "wet meadow"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "cafe",
+    "miniature railway"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

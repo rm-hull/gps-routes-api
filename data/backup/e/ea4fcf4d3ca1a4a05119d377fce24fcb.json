@@ -93,5 +93,26 @@
   "display_address": "A835, Tarvie, Garve, Highland, Alba / Scotland, IV14 9EJ, United Kingdom",
   "postcode": "IV14 9EJ",
   "district": "Garve",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewing bridge",
+    "rock formations",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

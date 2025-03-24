@@ -70,5 +70,26 @@
   "nominatim_found": true,
   "display_address": "Main Street, Manor Farm, Saddington, Harborough, Leicestershire, England, LE8 0QT, United Kingdom",
   "postcode": "LE8 0QT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "countryside views"
+  ],
+  "facilities": [
+    "church",
+    "canal access",
+    "country park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

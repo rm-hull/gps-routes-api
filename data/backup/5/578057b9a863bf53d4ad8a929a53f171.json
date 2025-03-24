@@ -85,5 +85,20 @@
   "nominatim_found": true,
   "display_address": "Lochaber Road, Kinlochmore, Kinlochleven, Highland, Alba / Scotland, PH50 4QH, United Kingdom",
   "postcode": "PH50 4QH",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

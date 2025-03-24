@@ -68,5 +68,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Lightbox, Chobham Road, Horsell, Woking, Surrey, England, GU21 4AA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "8 miles",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "miniature railway",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

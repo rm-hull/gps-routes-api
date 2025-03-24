@@ -65,5 +65,25 @@
   "display_address": "Moor Lane, Nether Silton, North Yorkshire, York and North Yorkshire, England, YO7 2LL, United Kingdom",
   "postcode": "YO7 2LL",
   "district": "Nether Silton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -98,5 +98,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Coach, Brocks Pine, St. Leonards and St. Ives, St Leonards, Dorset, England, BH24 2BX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature nursery",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park",
+    "playground",
+    "den building",
+    "outdoor cooking"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

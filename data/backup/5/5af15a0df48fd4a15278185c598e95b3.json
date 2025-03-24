@@ -98,5 +98,26 @@
   "display_address": "Ramblers Way, Thrybergh, Rotherham, South Yorkshire, England, S65 4PA, United Kingdom",
   "district": "Rotherham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "45 minutes to an hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildflower areas",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "cafe",
+    "bird hides"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -79,5 +79,26 @@
   "nominatim_found": true,
   "display_address": "Beechwood Avenue, Chapelfields, Coventry, West Midlands, England, CV5 6HB, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "viewpoints"
+  ],
+  "facilities": [
+    "dog friendly",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

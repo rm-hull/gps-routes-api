@@ -99,5 +99,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Beach, Filey, Old Town, Filey, North Yorkshire, York and North Yorkshire, England, YO14 9LE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "rock formations",
+    "beaches",
+    "coastal wildlife",
+    "seabirds",
+    "chalk cliffs"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

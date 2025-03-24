@@ -100,5 +100,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Queen Street, Castle Douglas, Dumfries and Galloway, Alba / Scotland, DG7 1HU, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "estate"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

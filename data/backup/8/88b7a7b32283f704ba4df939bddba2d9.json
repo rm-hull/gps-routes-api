@@ -98,5 +98,25 @@
   "display_address": "Bridge Foot, Thorp Arch, West Yorkshire, England, LS23 7AA, United Kingdom",
   "postcode": "LS23 7AA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "river views",
+    "countryside"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

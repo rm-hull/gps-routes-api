@@ -75,5 +75,26 @@
   "nominatim_found": true,
   "display_address": "Barnards Premium Used Cars, Station Road East, Combs Ford, Stowmarket, Suffolk, England, IP14 1EP, United Kingdom",
   "postcode": "IP14 1EP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside",
+    "watermills",
+    "locks"
+  ],
+  "facilities": [
+    "fishing",
+    "refreshments"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

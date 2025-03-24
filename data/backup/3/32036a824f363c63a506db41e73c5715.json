@@ -104,5 +104,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "102, Carlyle Road, Manor Park, London Borough of Newham, London, Greater London, England, E12 5AW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "lakes",
+    "ponds",
+    "woodland"
+  ],
+  "facilities": [
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

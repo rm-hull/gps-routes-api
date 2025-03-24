@@ -100,5 +100,24 @@
   "nominatim_found": true,
   "display_address": "A487, Felindre Farchog, Nevern, Nanhyfer / Nevern, Pembrokeshire, Cymru / Wales, SA41 3XA, United Kingdom",
   "district": "Nanhyfer / Nevern",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

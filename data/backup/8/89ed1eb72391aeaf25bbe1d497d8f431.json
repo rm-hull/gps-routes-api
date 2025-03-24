@@ -128,5 +128,24 @@
   "display_address": "Hollybush Ride, Finchampstead, Wokingham, England, RG45 6BS, United Kingdom",
   "postcode": "RG45 6BS",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "views",
+    "ponds",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

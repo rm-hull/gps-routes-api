@@ -75,5 +75,27 @@
   "display_address": "South Mount, East Keswick, West Yorkshire, England, LS17 9EY, United Kingdom",
   "postcode": "LS17 9EY",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "park"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

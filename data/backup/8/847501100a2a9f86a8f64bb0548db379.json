@@ -103,5 +103,26 @@
   "display_address": "2, High Street, Yalding, Maidstone, Kent, England, ME18 6HU, United Kingdom",
   "postcode": "ME18 6HU",
   "district": "Maidstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical structures",
+    "villages",
+    "bridges"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

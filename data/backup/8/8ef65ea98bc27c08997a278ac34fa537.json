@@ -67,5 +67,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church House, New Street, Stradbroke, Suffolk, England, IP21 5JG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "natural beauty",
+    "local amenities"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "library",
+    "community center",
+    "swimming pool",
+    "gym",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "hiking"
+  ]
 }

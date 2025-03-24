@@ -79,5 +79,24 @@
   "display_address": "Honeylees Drive, Langlee, Bridgend, Tweedbank, Scottish Borders, Alba / Scotland, TD1 3RT, United Kingdom",
   "postcode": "TD1 3RT",
   "district": "Tweedbank",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "museum"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

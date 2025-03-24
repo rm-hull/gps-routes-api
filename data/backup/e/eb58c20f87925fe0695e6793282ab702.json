@@ -75,5 +75,24 @@
   "display_address": "Wick Road, Egham Wick, Englefield Green, Runnymede, Surrey, England, TW20 0HN, United Kingdom",
   "postcode": "TW20 0HN",
   "district": "Runnymede",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -113,5 +113,26 @@
   "nominatim_found": true,
   "display_address": "Chapmans Lane, Deddington, Clifton, Cherwell, Oxfordshire, England, OX15 0SX, United Kingdom",
   "district": "Cherwell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "river views",
+    "nature trails"
+  ],
+  "facilities": [
+    "pub",
+    "canal access",
+    "village"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

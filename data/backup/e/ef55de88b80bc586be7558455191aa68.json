@@ -117,5 +117,26 @@
   "display_address": "The Ridgeway, Broad Hinton, Winterbourne Bassett, Wiltshire, England, SN4 9NR, United Kingdom",
   "postcode": "SN4 9NR",
   "district": "Winterbourne Bassett",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

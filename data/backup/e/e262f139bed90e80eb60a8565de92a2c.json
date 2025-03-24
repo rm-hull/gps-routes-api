@@ -138,5 +138,31 @@
   "display_address": "Tavistock Road, Princetown, Dartmoor Forest, West Devon, Devon, England, PL20 6QF, United Kingdom",
   "postcode": "PL20 6QF",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "Bronze Age monuments",
+    "radio transmitter"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "all-weather center",
+    "activity hub",
+    "cafe",
+    "pub/cafe",
+    "Grade I listed church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

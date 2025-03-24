@@ -67,5 +67,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "72, South Street, Allington, Bothenhampton, Bridport, Dorset, England, DT6 3NW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "path",
+    "countryside",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "harbour",
+    "nature reserve",
+    "cliffs",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }
