@@ -90,5 +90,23 @@
   "display_address": "Knettishall Heath, Road from Norwich Lane to County Boundary, Knettishall, Knettishall, West Suffolk, Suffolk, England, IP22 2TE, United Kingdom",
   "postcode": "IP22 2TE",
   "district": "West Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

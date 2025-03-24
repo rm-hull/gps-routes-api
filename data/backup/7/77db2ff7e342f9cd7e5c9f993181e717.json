@@ -50,5 +50,25 @@
   "nominatim_found": true,
   "display_address": "Brodsworth Hall and Gardens, Brodsworth Road, Brodsworth, Doncaster, South Yorkshire, England, DN5 7XJ, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "grass"
+  ],
+  "points_of_interest": [
+    "views",
+    "gardens",
+    "woodland"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -53,5 +53,23 @@
   "nominatim_found": true,
   "display_address": "Chigwell Rise, Chigwell, Epping Forest, Essex, England, IG7 6AG, United Kingdom",
   "postcode": "IG7 6AG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "forest"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -78,5 +78,26 @@
   "nominatim_found": true,
   "display_address": "Forest Lane, Pamber, Pamber Heath, Basingstoke and Deane, Hampshire, England, RG26 3NU, United Kingdom",
   "postcode": "RG26 3NU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

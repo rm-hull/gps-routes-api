@@ -125,5 +125,25 @@
   "display_address": "Dam Road, Tickhill, Doncaster, South Yorkshire, England, DN11 9QX, United Kingdom",
   "postcode": "DN11 9QX",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle ruins",
+    "village center"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -92,5 +92,26 @@
   "display_address": "Walker Lane, Friendly, Norland, Calderdale, West Yorkshire, England, HX6 2AU, United Kingdom",
   "postcode": "HX6 2AU",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "cycling routes",
+    "walking trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

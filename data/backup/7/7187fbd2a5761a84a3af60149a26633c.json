@@ -103,5 +103,29 @@
   "display_address": "Harley Thorn Lane, Swynnerton, Stafford, Staffordshire, England, ST4 8SN, United Kingdom",
   "postcode": "ST4 8SN",
   "district": "Stafford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "lake",
+    "garden"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

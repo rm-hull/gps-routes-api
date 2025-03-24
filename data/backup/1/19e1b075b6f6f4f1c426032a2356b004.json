@@ -89,5 +89,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sundial, Tolney Lane, Newark, Newark on Trent, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG24 4US, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "museum",
+    "gardens",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "shops"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -89,5 +89,29 @@
   "nominatim_found": true,
   "display_address": "Warwick Road, Solihull, West Midlands, England, B91 3HG, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "garden"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "tree species",
+    "canal"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "parkrun",
+    "cycle track"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

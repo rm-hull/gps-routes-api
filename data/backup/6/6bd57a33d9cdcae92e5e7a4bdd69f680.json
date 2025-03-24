@@ -76,5 +76,25 @@
   "nominatim_found": true,
   "display_address": "Crown Barn, Up Corner, Chalfont St Giles, Denham, Gerrards Cross and Chalfonts Community Board, Buckinghamshire, England, HP8 4PY, United Kingdom",
   "postcode": "HP8 4PY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

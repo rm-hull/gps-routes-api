@@ -75,5 +75,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Hardwick Arms, 1, North End, Stockton-on-Tees, County Durham, North East, England, TS21 2AZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "castles"
+  ],
+  "facilities": [
+    "car park",
+    "lake"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

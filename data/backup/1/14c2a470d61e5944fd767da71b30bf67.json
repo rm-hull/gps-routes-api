@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "Inch Bridge, Newbyth, Whitekirk, East Lothian, Alba / Scotland, EH40 3DU, United Kingdom",
   "district": "Whitekirk",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "natural"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

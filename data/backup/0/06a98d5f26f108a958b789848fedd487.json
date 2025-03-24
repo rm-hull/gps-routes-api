@@ -85,5 +85,26 @@
   "display_address": "Shore Lane, Nacton, East Suffolk, Suffolk, England, IP10 0ES, United Kingdom",
   "postcode": "IP10 0ES",
   "district": "East Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "lake",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

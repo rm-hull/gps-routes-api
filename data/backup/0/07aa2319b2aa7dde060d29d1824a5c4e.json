@@ -94,5 +94,28 @@
   "nominatim_found": true,
   "display_address": "Marsh Lane, Dorney, Beeches Community Board, Dorney Reach, Buckinghamshire, England, SL6 0DN, United Kingdom",
   "district": "Dorney",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

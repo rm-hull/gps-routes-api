@@ -70,5 +70,30 @@
   "nominatim_found": true,
   "display_address": "Sefton Court, Handside, Stanborough, Welwyn Hatfield, Hertfordshire, England, AL8 6WW, United Kingdom",
   "district": "Welwyn Hatfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature trail",
+    "wildlife spotting",
+    "historical sites"
+  ],
+  "facilities": [
+    "restaurant",
+    "coffee shop",
+    "watersports centre",
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -90,5 +90,29 @@
   "county": "County Down",
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic bridges",
+    "waterfront views"
+  ],
+  "facilities": [
+    "visitor center",
+    "tea rooms",
+    "park",
+    "bandstand",
+    "floral displays"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

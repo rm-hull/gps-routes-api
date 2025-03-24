@@ -94,5 +94,23 @@
   "display_address": "Scout Dike, Huddersfield Road, Bridge End, Penistone, Thurlstone, Sheffield, South Yorkshire, England, S36 7EZ, United Kingdom",
   "district": "Sheffield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -85,5 +85,26 @@
   "display_address": "Honister Pass, Gatesgarth, Buttermere, Cumberland, England, CA13 9XA, United Kingdom",
   "postcode": "CA13 9XA",
   "district": "Buttermere",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "mine tours",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

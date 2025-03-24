@@ -79,5 +79,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Edenham Road, Bourne, South Kesteven, Lincolnshire, England, PE10 0LF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

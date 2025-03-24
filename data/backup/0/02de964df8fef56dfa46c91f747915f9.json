@@ -128,5 +128,26 @@
   "nominatim_found": true,
   "display_address": "East Tehidy car park, Kennels Cottage, Rose Garden, East Lodge,, Illogan, Cornwall, England, TR14 0TN, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "beaches",
+    "coast path"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

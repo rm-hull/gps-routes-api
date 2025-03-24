@@ -100,5 +100,25 @@
   "nominatim_found": true,
   "display_address": "Craven Bakery, 3, Otley Street, Middle Town, Skipton, North Yorkshire, York and North Yorkshire, England, BD23 1DY, United Kingdom",
   "postcode": "BD23 1DY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "historic sites",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

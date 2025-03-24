@@ -93,5 +93,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Torver, Westmorland and Furness, England, LA21 8BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "views",
+    "waterfalls"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

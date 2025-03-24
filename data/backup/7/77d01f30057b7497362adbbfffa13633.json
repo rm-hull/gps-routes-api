@@ -119,5 +119,28 @@
   "display_address": "Hawkshead Hill, Hawkshead, Westmorland and Furness, England, LA22 0PP, United Kingdom",
   "postcode": "LA22 0PP",
   "district": "Hawkshead",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "estate"
+  ],
+  "facilities": [
+    "car park",
+    "benches",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

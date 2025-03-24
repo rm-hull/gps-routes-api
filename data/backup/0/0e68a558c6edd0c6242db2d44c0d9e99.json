@@ -115,5 +115,25 @@
   "display_address": "Lingham Lane, Moreton, Wirral, Liverpool City Region, England, CH46 4TA, United Kingdom",
   "district": "Moreton",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "birdwatching"
+  ],
+  "facilities": [
+    "rail station",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

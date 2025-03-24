@@ -100,5 +100,24 @@
   "display_address": "Blairmuckhole And Forrestdyke Road, North Lanarkshire, Alba / Scotland, ML7 5TX, United Kingdom",
   "postcode": "ML7 5TX",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "scenic views",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

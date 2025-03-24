@@ -104,5 +104,25 @@
   "display_address": "Waingate, Berry Brow, Armitage Bridge, Kirklees, West Yorkshire, England, HD4 7QF, United Kingdom",
   "postcode": "HD4 7QF",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "panoramic views",
+    "country lanes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

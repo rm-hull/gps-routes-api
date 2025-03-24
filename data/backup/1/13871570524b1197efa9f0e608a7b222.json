@@ -130,5 +130,26 @@
   "display_address": "Long Horse Bridge, Shardlow and Great Wilne, Great Wilne, South Derbyshire, Derbyshire, East Midlands, England, DE72 2HP, United Kingdom",
   "postcode": "DE72 2HP",
   "district": "South Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

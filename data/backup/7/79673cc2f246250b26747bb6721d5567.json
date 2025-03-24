@@ -58,5 +58,27 @@
   "nominatim_found": true,
   "display_address": "Castle Drive, Castle Hill, Penrith, Westmorland and Furness, England, CA11 7EE, United Kingdom",
   "postcode": "CA11 7EE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle ruins",
+    "stone circles"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

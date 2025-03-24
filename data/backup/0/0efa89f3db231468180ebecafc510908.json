@@ -58,5 +58,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Beadster, 1, Gold Hill, St James, Shaftesbury, Dorset, England, SP7 8JW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "cobbled",
+    "grass",
+    "woodland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "museum",
+    "church"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "woodland trails"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

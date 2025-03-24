@@ -75,5 +75,28 @@
   "display_address": "Phoenix Way, Dale Industrial Estate, Outwood Gate, Radcliffe, Bury, Greater Manchester, England, M26 3DA, United Kingdom",
   "postcode": "M26 3DA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculpture trail",
+    "lake",
+    "meadows"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

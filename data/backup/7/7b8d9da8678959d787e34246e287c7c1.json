@@ -57,5 +57,23 @@
   "nominatim_found": true,
   "display_address": "Anson Avenue, Kings Hill, Tonbridge and Malling, Kent, England, ME19 4RA, United Kingdom",
   "postcode": "ME19 4RA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "greenways"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

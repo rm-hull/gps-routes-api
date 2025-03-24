@@ -80,5 +80,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Abbey Way, West Heath, London Borough of Bexley, London, Greater London, England, DA17 5DY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "arboretum",
+    "exhibition",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -80,5 +80,25 @@
   "nominatim_found": true,
   "display_address": "Harbour Street, Hopeman, Moray, Alba / Scotland, IV30 5RX, United Kingdom",
   "postcode": "IV30 5RX",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "paved"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "public sea front"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

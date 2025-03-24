@@ -65,5 +65,24 @@
   "display_address": "Rescobie Kirkyard, B9113, Gowanbank, Taylors Wynd, Forfar, Angus, Alba / Scotland, DD8 2TG, United Kingdom",
   "postcode": "DD8 2TG",
   "district": "Forfar",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "land"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

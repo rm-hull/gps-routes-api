@@ -109,5 +109,24 @@
   "display_address": "Fire Road 77, West Harling, Harling, Bridgham, Breckland, Norfolk, England, NR16 2SE, United Kingdom",
   "postcode": "NR16 2SE",
   "district": "Breckland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

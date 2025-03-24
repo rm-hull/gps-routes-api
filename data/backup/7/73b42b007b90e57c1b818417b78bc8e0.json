@@ -76,5 +76,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ted Ellis Walk, Dereham, Breckland, Norfolk, England, NR19 2BL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "natural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildflower areas",
+    "bird watching"
+  ],
+  "facilities": [
+    "information boards"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

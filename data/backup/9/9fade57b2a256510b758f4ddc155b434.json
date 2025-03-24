@@ -110,5 +110,28 @@
   "nominatim_found": true,
   "display_address": "The Avenue, Osborne, East Cowes, Isle of Wight, England, PO32 6JZ, United Kingdom",
   "postcode": "PO32 6JZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildflower meadows",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

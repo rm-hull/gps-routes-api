@@ -88,5 +88,27 @@
   "display_address": "Hazel Hill, Suffield-cum-Everley, North Yorkshire, York and North Yorkshire, England, YO12 5TB, United Kingdom",
   "postcode": "YO12 5TB",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "nature reserve",
+    "boardwalk trail"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

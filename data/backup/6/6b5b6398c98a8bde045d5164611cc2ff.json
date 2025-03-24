@@ -89,5 +89,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Salt Lane, Hambledon, Hascombe, Waverley, Surrey, England, GU8 4BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "memorial",
+    "arboretum"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

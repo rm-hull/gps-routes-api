@@ -59,5 +59,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Quant Park, Tavistock, West Devon, Devon, England, PL19 0JQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "urban",
+    "canal"
+  ],
+  "points_of_interest": [
+    "views",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

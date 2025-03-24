@@ -98,5 +98,25 @@
   "nominatim_found": true,
   "display_address": "Chivelstone, East Prawle, South Hams, Devon, England, TQ7 2BX, United Kingdom",
   "district": "South Hams",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife watching",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

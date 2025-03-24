@@ -93,5 +93,26 @@
   "display_address": "Trout Cottage, Two Bridges, Dartmoor Forest, West Devon, Devon, England, PL20 6SW, United Kingdom",
   "postcode": "PL20 6SW",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "pottery shop",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

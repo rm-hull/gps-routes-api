@@ -71,5 +71,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "St Edmunds, Ashes Lane, Fenny Bentley CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1LD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

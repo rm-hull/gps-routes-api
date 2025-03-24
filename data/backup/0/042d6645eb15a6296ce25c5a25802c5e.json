@@ -94,5 +94,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ffordd Glan M\u00f4r, Harlech, Gwynedd, Cymru / Wales, LL46 2UG, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "dunes",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "church",
+    "golf course",
+    "wildflowers"
+  ],
+  "facilities": [
+    "car park",
+    "train station",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -78,5 +78,26 @@
   "display_address": "A44, Linton, Whitbourne, Herefordshire, England, WR6 5UG, United Kingdom",
   "postcode": "WR6 5UG",
   "district": "Whitbourne",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "streams"
+  ],
+  "points_of_interest": [
+    "views",
+    "countryside"
+  ],
+  "facilities": [
+    "cafe",
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

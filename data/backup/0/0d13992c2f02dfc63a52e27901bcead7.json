@@ -113,5 +113,25 @@
   "nominatim_found": true,
   "display_address": "Market Place Restaurant, 16-18, Market Place, Cromford CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3QE, United Kingdom",
   "postcode": "DE4 3QE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "historic buildings"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

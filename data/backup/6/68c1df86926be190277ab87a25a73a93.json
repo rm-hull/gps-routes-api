@@ -72,5 +72,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "St Alban's R.C. High School, Park Road, Trosnant, Pontymoile, Pontypool, Torfaen, Cymru / Wales, NP4 6XG, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "ponds",
+    "historical sites",
+    "woodland"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "boat hire"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -123,5 +123,24 @@
   "nominatim_found": true,
   "display_address": "Pitsford Water Circuit, Brixworth, Pitsford, West Northamptonshire, England, NN6 9AP, United Kingdom",
   "district": "Pitsford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

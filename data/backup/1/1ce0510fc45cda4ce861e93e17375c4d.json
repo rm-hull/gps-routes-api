@@ -62,5 +62,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Street, Stydd, Ribchester, Ribble Valley, Lancashire, England, PR3 3YJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "literary trail",
+    "castle"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

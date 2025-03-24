@@ -103,5 +103,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Kings Head, South Street, Bradwell-on-Sea, Bradwell on Sea, Maldon, Essex, England, CM0 7QJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "religious sites",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "marina"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -78,5 +78,25 @@
   "display_address": "Duncombe Terrace, Aldbury, Dacorum, Hertfordshire, England, HP4 1LX, United Kingdom",
   "postcode": "HP4 1LX",
   "district": "Dacorum",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

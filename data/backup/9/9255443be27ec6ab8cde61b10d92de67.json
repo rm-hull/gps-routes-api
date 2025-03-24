@@ -52,5 +52,27 @@
   "nominatim_found": true,
   "display_address": "Rose Bank / Little Assynt, Sutton Road, Sutton-under-Whitestonecliffe, North Yorkshire, York and North Yorkshire, England, YO7 2PR, United Kingdom",
   "postcode": "YO7 2PR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

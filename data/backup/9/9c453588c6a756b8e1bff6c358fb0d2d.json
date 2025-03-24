@@ -140,5 +140,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Asby, Great Asby, Westmorland and Furness, England, CA16 6HD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "limestone pavement",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "views",
+    "nature reserve",
+    "historical tower"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

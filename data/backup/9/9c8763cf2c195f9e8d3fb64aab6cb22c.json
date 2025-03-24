@@ -93,5 +93,25 @@
   "display_address": "Victoria Road Car Park, Victoria Road, Freshfield, Formby, Sefton, Liverpool City Region, England, L37 1YD, United Kingdom",
   "district": "Formby",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

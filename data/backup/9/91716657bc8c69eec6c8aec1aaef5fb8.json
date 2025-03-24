@@ -127,5 +127,26 @@
   "display_address": "Old Bowling Green, East Bank, Winster CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2DS, United Kingdom",
   "postcode": "DE4 2DS",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "heritage ways",
+    "villages"
+  ],
+  "facilities": [
+    "visitor center",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

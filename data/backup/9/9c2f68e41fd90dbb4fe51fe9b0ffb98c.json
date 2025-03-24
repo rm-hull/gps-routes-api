@@ -95,5 +95,24 @@
   "display_address": "New Road, Northchurch, Dacorum, Hertfordshire, England, HP4 1LS, United Kingdom",
   "postcode": "HP4 1LS",
   "district": "Dacorum",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "historic trails"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

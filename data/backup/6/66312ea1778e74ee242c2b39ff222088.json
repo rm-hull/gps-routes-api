@@ -103,5 +103,21 @@
   "display_address": "Hardraw, High Abbotside, Appersett, North Yorkshire, York and North Yorkshire, England, DL8 3LZ, United Kingdom",
   "postcode": "DL8 3LZ",
   "district": "Appersett",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

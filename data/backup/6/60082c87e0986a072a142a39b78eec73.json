@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "3, Western Avenue, Battle, Rother, East Sussex, England, TN33 0ES, United Kingdom",
   "postcode": "TN33 0ES",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "historical sites",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles",
+    "battlefield"
+  ],
+  "facilities": [
+    "visitor center",
+    "exhibition",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

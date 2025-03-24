@@ -75,5 +75,27 @@
   "display_address": "Torside, Woodhead Road, Charlesworth, High Peak, Derbyshire, East Midlands, England, SK13 1JF, United Kingdom",
   "postcode": "SK13 1JF",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "water",
+    "road",
+    "moor"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "hiking trails",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park",
+    "street view"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

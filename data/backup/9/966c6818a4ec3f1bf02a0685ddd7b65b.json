@@ -148,5 +148,26 @@
   "nominatim_found": true,
   "display_address": "St Francis School, Marlborough Street, Pewsey, Wiltshire, England, SN9 5NT, United Kingdom",
   "postcode": "SN9 5NT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "countryside",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

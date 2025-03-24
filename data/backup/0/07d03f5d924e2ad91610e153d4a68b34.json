@@ -83,5 +83,28 @@
   "display_address": "Blagdon Lane, Stannington, Cramlington, Northumberland, North East, England, NE23 8AU, United Kingdom",
   "postcode": "NE23 8AU",
   "district": "Cramlington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "sculpture",
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "walking trails",
+    "cycle paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

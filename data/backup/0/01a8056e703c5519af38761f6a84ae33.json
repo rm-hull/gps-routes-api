@@ -113,5 +113,26 @@
   "nominatim_found": true,
   "display_address": "De Ferrers Close, East Leake, Rushcliffe, Nottinghamshire, East Midlands, England, LE12 6QD, United Kingdom",
   "postcode": "LE12 6QD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "farm"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

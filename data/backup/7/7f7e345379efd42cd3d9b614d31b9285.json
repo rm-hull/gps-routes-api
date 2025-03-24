@@ -110,5 +110,20 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4371, Hope Bowdler, Shropshire, England, SY6 7EN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

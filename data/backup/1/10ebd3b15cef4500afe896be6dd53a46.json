@@ -94,5 +94,25 @@
   "display_address": "B955, Caddam, Clova, Angus, Alba / Scotland, DD8 4QS, United Kingdom",
   "postcode": "DD8 4QS",
   "district": "Clova",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "alpine flowers",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

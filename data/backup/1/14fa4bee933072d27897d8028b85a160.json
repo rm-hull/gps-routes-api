@@ -105,5 +105,25 @@
   "display_address": "High Street, Avebury Trusloe, Beckhampton, Avebury, Wiltshire, England, SN8 1RF, United Kingdom",
   "postcode": "SN8 1RF",
   "district": "Beckhampton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "ancient sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

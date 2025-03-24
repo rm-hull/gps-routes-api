@@ -53,5 +53,24 @@
   "nominatim_found": true,
   "display_address": "Blackwell, Skerne Park, Blackwell, Darlington, Tees Valley, England, DL3 8QX, United Kingdom",
   "postcode": "DL3 8QX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

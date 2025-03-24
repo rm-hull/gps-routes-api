@@ -90,5 +90,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4558, Talybont-on-Usk, Powys, Cymru / Wales, LD3 7JD, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical information",
+    "countryside views",
+    "memorial"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

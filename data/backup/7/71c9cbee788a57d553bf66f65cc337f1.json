@@ -80,5 +80,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B3390, Hurst, Moreton, Dorset, England, DT2 8RB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "meadow",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "gardens"
+  ],
+  "facilities": [
+    "footpaths",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -72,5 +72,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "South Street, Mayfield and Five Ashes, Mayfield, Wealden, East Sussex, England, TN20 6BZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "views"
+  ],
+  "facilities": [
+    "pub",
+    "church",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

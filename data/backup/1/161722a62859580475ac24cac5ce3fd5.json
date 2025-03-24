@@ -95,5 +95,22 @@
   "nominatim_found": true,
   "display_address": "26, Shore Road, Aberdour, Fife, Alba / Scotland, KY3 0TU, United Kingdom",
   "postcode": "KY3 0TU",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

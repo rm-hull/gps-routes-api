@@ -110,5 +110,25 @@
   "nominatim_found": true,
   "display_address": "Crank Road, Higher End, Wigan, Greater Manchester, England, WN5 7DU, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "transmitter masts",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

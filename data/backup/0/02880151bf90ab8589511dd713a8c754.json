@@ -90,5 +90,19 @@
   "nominatim_found": true,
   "display_address": "West Highland Way, Highland, Alba / Scotland, PH49 4HY, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

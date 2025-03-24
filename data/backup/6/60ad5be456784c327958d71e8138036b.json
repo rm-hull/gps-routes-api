@@ -76,5 +76,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Central Parade, Central, Bexhill-on-Sea, Rother, East Sussex, England, TN40 1BN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "parks",
+    "historical sites",
+    "beaches"
+  ],
+  "facilities": [
+    "car park",
+    "boating lake",
+    "model yacht lake",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

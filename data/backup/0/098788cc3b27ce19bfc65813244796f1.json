@@ -85,5 +85,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gutter foot to Rottington footpath, St. Bees, Rottington, Cumberland, England, CA27 0EU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "lighthouse"
+  ],
+  "facilities": [
+    "car park",
+    "benches"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

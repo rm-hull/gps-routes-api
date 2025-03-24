@@ -69,5 +69,21 @@
   "postcode": "BL6 4DR",
   "district": "Horwich",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

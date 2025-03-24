@@ -88,5 +88,26 @@
   "postcode": "BL4 7QS",
   "district": "Farnworth",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "lake views"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

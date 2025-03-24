@@ -108,5 +108,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hempstead Road, Hempstead Road Industrial Estate, Holt, North Norfolk, Norfolk, England, NR25 6ES, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "arts trail",
+    "wildlife viewing",
+    "historic house"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

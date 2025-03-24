@@ -75,5 +75,24 @@
   "display_address": "Priory Shop, A81, Port of Menteith, Aberfoyle, Stirling, Alba / Scotland, FK8 3RD, United Kingdom",
   "postcode": "FK8 3RD",
   "district": "Aberfoyle",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "ruins",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

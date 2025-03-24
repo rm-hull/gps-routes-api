@@ -80,5 +80,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Blackheath Lane, Wonersh, Waverley, Surrey, England, GU4 8RB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "views",
+    "parkland",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "railway station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

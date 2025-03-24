@@ -50,5 +50,29 @@
   "nominatim_found": true,
   "display_address": "Stormontfield Road, Old Scone, Perth and Kinross, Alba / Scotland, PH2 6BD, United Kingdom",
   "postcode": "PH2 6BD",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculpture trail",
+    "viewpoints",
+    "chapel"
+  ],
+  "facilities": [
+    "car park",
+    "walking path",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

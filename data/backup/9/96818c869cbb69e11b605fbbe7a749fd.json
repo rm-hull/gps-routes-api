@@ -100,5 +100,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Station Road, Cullen, Moray, Alba / Scotland, AB56 4RA, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "path"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

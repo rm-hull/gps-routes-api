@@ -57,5 +57,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Field Lane, Pen Selwood, Penselwood, Somerset, England, BA9 8LT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

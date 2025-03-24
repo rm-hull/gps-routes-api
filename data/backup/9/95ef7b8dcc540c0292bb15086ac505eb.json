@@ -85,5 +85,27 @@
   "nominatim_found": true,
   "display_address": "Eachelhurst Rd / Elmfield Avenue, Eachelhurst Road, Walmley, Sutton Coldfield, Tyburn, Birmingham, West Midlands, England, B24 0NX, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetlands",
+    "marshes"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

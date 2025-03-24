@@ -72,5 +72,24 @@
   "nominatim_found": true,
   "display_address": "Osmaston Post Office, Moor Lane, Osmaston CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1LW, United Kingdom",
   "postcode": "DE6 1LW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historic church",
+    "village"
+  ],
+  "facilities": [
+    "pub",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

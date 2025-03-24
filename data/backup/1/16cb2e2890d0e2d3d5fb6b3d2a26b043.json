@@ -85,5 +85,26 @@
   "display_address": "Coal Road, Lea Yeat, Dent, Westmorland and Furness, England, LA10 5RF, United Kingdom",
   "postcode": "LA10 5RF",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "pasture",
+    "country lane",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "rail station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

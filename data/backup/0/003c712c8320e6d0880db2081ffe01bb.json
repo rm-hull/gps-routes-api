@@ -124,5 +124,29 @@
   "county": "East Lothian",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "woodland",
+    "cliff",
+    "lowland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "parks",
+    "sculpture"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

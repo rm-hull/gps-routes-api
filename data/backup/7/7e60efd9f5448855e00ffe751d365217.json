@@ -95,5 +95,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "1, Main Street, Woolsthorpe By Belvoir, Woolsthorpe-by-Belvoir, South Kesteven, Lincolnshire, England, NG32 1NE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "museum",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

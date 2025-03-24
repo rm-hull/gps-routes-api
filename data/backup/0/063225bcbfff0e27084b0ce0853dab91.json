@@ -68,5 +68,26 @@
   "display_address": "Lammas House, The Village, Dale Abbey, Erewash, Derbyshire, East Midlands, England, DE7 4PN, United Kingdom",
   "postcode": "DE7 4PN",
   "district": "Erewash",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "religious sites",
+    "natural features"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "historic site"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

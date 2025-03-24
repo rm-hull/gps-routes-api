@@ -67,5 +67,24 @@
   "nominatim_found": true,
   "display_address": "Church Walk, Peover Inferior, Cheshire East, England, WA16 9PZ, United Kingdom",
   "postcode": "WA16 9PZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "brook",
+    "rural"
+  ],
+  "points_of_interest": [
+    "churchyard",
+    "gardens",
+    "countryside views"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

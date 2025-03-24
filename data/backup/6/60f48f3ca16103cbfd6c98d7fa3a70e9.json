@@ -75,5 +75,26 @@
   "display_address": "Dog Falls carpark, Glen Affric Road, Highland, Alba / Scotland, IV4 7LY, United Kingdom",
   "postcode": "IV4 7LY",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest",
+    "river",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "lochs"
+  ],
+  "facilities": [
+    "car park",
+    "bridge"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

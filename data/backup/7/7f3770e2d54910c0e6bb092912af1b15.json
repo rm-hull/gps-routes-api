@@ -84,5 +84,25 @@
   "display_address": "Sandy Lane, Wolverley and Cookley, Wyre Forest, Worcestershire, England, DY7 6HU, United Kingdom",
   "postcode": "DY7 6HU",
   "district": "Wyre Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "sand",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

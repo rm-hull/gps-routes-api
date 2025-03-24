@@ -94,5 +94,26 @@
   "display_address": "School Lane, Easington, Ribble Valley, Lancashire, England, BB7 4TS, United Kingdom",
   "postcode": "BB7 4TS",
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "views of countryside",
+    "hills",
+    "wildfowl spotting"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

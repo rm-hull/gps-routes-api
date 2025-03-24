@@ -93,5 +93,22 @@
   "nominatim_found": true,
   "display_address": "1, Central Avenue, Church Stretton town centre, Hazler, Church Stretton, Shropshire, England, SY6 6EE, United Kingdom",
   "postcode": "SY6 6EE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

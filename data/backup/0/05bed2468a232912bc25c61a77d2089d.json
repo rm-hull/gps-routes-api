@@ -89,5 +89,28 @@
   "nominatim_found": true,
   "display_address": "West Stow Anglo Saxon Village, Pumphouse Route, West Stow, Suffolk, England, IP28 6HG, United Kingdom",
   "district": "West Stow",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

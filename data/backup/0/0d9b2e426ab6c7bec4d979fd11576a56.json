@@ -72,5 +72,27 @@
   "display_address": "Checketts of Ombersley, A4133, Ombersley, Wychavon, Worcestershire, England, WR9 0EW, United Kingdom",
   "postcode": "WR9 0EW",
   "district": "Wychavon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "lake",
+    "footpath"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

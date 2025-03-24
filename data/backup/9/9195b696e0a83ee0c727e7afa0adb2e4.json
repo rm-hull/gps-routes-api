@@ -79,5 +79,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Black Boy, 1, Wharf Hill, Winchester, Hampshire, England, SO23 9NQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

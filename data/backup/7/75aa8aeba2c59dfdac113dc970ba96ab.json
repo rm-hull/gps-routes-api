@@ -76,5 +76,25 @@
   "nominatim_found": true,
   "display_address": "Tower Hill, Warley, Brentwood, Essex, England, CM14 4TA, United Kingdom",
   "postcode": "CM14 4TA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "open space",
+    "hedgerows"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

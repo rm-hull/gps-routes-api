@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "The Avenue, London Borough of Sutton, Epsom and Ewell, Surrey, Greater London, England, SM3 8DP, United Kingdom",
   "postcode": "SM3 8DP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "chalkland"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "historical palace",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

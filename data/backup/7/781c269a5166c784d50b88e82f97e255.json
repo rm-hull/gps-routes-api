@@ -100,5 +100,25 @@
   "display_address": "A4085, Betws Garmon, Gwynedd, Cymru / Wales, LL54 7YS, United Kingdom",
   "postcode": "LL54 7YS",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "rocky"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakes",
+    "climbing cliffs"
+  ],
+  "facilities": [
+    "car park",
+    "railway station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

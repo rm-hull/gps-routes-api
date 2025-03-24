@@ -67,5 +67,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Blackwater Valley Path, Frimley, Surrey Heath, Surrey, England, GU16 7QH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "village",
+    "historical sites"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

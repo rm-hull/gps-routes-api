@@ -90,5 +90,24 @@
   "county": "Moray",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "road"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "map"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

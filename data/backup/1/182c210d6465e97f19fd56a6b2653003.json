@@ -72,5 +72,27 @@
   "nominatim_found": true,
   "display_address": "St. Matthews, Walk Mill Road, Hayfield, Little Hayfield, High Peak, Derbyshire, East Midlands, England, SK22 2ER, United Kingdom",
   "postcode": "SK22 2ER",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "bridleway",
+    "path"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "river gorge"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible",
+    "walkway"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

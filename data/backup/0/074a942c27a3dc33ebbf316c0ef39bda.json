@@ -75,5 +75,25 @@
   "nominatim_found": true,
   "display_address": "Pontneathvaughan Road, Glynneath, Neath Port Talbot, Cymru / Wales, SA11 5NR, United Kingdom",
   "postcode": "SA11 5NR",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "river gorge",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park",
+    "footbridges"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

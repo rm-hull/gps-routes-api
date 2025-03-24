@@ -99,5 +99,33 @@
   "county": "Fife",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "beaches",
+    "harbours",
+    "golf course",
+    "artisan shops",
+    "historic buildings",
+    "wildlife"
+  ],
+  "facilities": [
+    "fish and chip shop",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

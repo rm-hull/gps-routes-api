@@ -75,5 +75,25 @@
   "display_address": "Thornton Lane, Thornton in Lonsdale, North Yorkshire, York and North Yorkshire, England, LA6 3PH, United Kingdom",
   "postcode": "LA6 3PH",
   "district": "Thornton in Lonsdale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "cave",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "caves",
+    "views",
+    "hill",
+    "cairns"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

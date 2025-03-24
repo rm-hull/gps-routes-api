@@ -98,5 +98,25 @@
   "display_address": "Cleeve Common, Main Path, Nutterswood, Southam, Cleeve Hill, Tewkesbury, Gloucestershire, England, GL52 3PZ, United Kingdom",
   "postcode": "GL52 3PZ",
   "district": "Tewkesbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

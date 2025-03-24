@@ -80,5 +80,26 @@
   "display_address": "Keasbeck Farm, Harwood Dale, North Yorkshire, York and North Yorkshire, England, YO13 0DT, United Kingdom",
   "postcode": "YO13 0DT",
   "district": "Harwood Dale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

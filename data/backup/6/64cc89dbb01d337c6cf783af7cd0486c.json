@@ -75,5 +75,26 @@
   "county": "County Galway",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "bridges",
+    "wildlife"
+  ],
+  "facilities": [
+    "cafes",
+    "shops",
+    "visitor center"
+  ],
+  "route_type": "one-way",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -74,5 +74,24 @@
   "display_address": "A944, Dunecht, Aberdeenshire, Alba / Scotland, AB32 7BL, United Kingdom",
   "postcode": "AB32 7BL",
   "district": "Dunecht",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trails"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

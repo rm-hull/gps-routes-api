@@ -74,5 +74,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ringwood Road, Bear Cross, Bournemouth, Bournemouth, Christchurch and Poole, England, BH11 9DA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "path"
+  ],
+  "points_of_interest": [
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

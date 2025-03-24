@@ -94,5 +94,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Godalming United Church, Bridge Road, Farncombe, Godalming, Waverley, Surrey, England, GU7 3DU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "gardens",
+    "historic ruins",
+    "locks",
+    "bridges"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

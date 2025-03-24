@@ -80,5 +80,25 @@
   "display_address": "Wash Meadow, Minster Lovell, West Oxfordshire, Oxfordshire, England, OX29 0RW, United Kingdom",
   "postcode": "OX29 0RW",
   "district": "West Oxfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

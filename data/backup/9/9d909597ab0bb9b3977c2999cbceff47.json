@@ -89,5 +89,25 @@
   "display_address": "Conscience Lane, Roundway, Devizes, Wiltshire, England, SN10 2JF, United Kingdom",
   "postcode": "SN10 2JF",
   "district": "Devizes",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

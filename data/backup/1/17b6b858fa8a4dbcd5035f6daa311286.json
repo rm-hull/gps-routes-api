@@ -123,5 +123,30 @@
   "nominatim_found": true,
   "display_address": "Sandy Lane, Dunwich, East Suffolk, Suffolk, England, IP17 3DY, United Kingdom",
   "postcode": "IP17 3DY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "coastal",
+    "shingle",
+    "mudflats"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "nature reserve",
+    "beach",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

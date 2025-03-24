@@ -128,5 +128,31 @@
   "nominatim_found": true,
   "display_address": "Princes Avenue, Park Villas, Roundhay, Leeds, West Yorkshire, England, LS8 2EP, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "tropical plants",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

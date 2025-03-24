@@ -90,5 +90,25 @@
   "display_address": "West Highland Way, Ardchoil, Stirling, Alba / Scotland, G63 0AR, United Kingdom",
   "postcode": "G63 0AR",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature trail",
+    "water transport"
+  ],
+  "facilities": [
+    "car park",
+    "hotel"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

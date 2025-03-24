@@ -84,5 +84,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "GL56 135D, A44, Bourton-on-the-Hill, Cotswold, Gloucestershire, England, GL56 9AH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "ornaments",
+    "statues",
+    "natural landscape"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

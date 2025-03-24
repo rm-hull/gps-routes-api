@@ -74,5 +74,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Alwyn House, St Bartholomews Close, Cresswell, Northumberland, North East, England, NE61 5JX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -118,5 +118,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Station Road, Clothall Common, Baldock, North Hertfordshire, Hertfordshire, England, SG7 5BU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "grass"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "historic town",
+    "willow sculptures",
+    "wildflower meadow"
+  ],
+  "facilities": [
+    "picnic area",
+    "information panels"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

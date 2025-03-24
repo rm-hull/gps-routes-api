@@ -95,5 +95,26 @@
   "display_address": "Visitor Centre, Forest Drive, Buriton, East Hampshire, Hampshire, England, PO8 0QE, United Kingdom",
   "postcode": "PO8 0QE",
   "district": "East Hampshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "countryside"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "garden"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

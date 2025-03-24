@@ -95,5 +95,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bernicia Way, Benthall, Beadnell, Northumberland, North East, England, NE67 5EJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

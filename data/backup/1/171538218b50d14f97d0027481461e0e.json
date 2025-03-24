@@ -94,5 +94,30 @@
   "display_address": "Torbay Road, Torre, Torquay, Torbay, England, TQ2 6NX, United Kingdom",
   "postcode": "TQ2 6NX",
   "district": "Torquay",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "beach"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages",
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "play area",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

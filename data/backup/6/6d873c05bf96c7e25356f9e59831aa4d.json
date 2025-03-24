@@ -113,5 +113,27 @@
   "display_address": "Stryd yr Eglwys / Church Street, Rhosyr, Niwbwrch / Newborough, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL61 6SG, United Kingdom",
   "postcode": "LL61 6SG",
   "district": "Niwbwrch / Newborough",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

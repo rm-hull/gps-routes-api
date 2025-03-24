@@ -89,5 +89,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Easedale Road, Town End, Lakes, Grasmere, Westmorland and Furness, England, LA22 9QH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

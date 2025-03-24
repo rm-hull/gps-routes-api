@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Crow Dene Bridleway, Cambourne, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, CB23 5EN, United Kingdom",
   "postcode": "CB23 5EN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "wetland",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -43,5 +43,24 @@
   "nominatim_found": true,
   "display_address": "Hare Drift, Long Melford, Babergh, Suffolk, England, CO10 9DF, United Kingdom",
   "postcode": "CO10 9DF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "cultural sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "church"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -68,5 +68,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Smugglers Rest Car Park, South Coast Road, Telscombe Cliffs, Telscombe, Peacehaven, Lewes, East Sussex, England, BN10 7AE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

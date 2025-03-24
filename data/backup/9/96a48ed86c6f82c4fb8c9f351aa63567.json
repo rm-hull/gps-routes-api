@@ -78,5 +78,25 @@
   "display_address": "South Wheal Frances, Filtrick Lane, High Carnkie, Carn Brea, Four Lanes, Cornwall, England, TR16 6JX, United Kingdom",
   "postcode": "TR16 6JX",
   "district": "Four Lanes",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "path"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "mines"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

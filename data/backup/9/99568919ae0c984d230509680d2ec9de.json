@@ -108,5 +108,26 @@
   "nominatim_found": true,
   "display_address": "Old Avon Road, Barncluith, Silvertonhill, Hamilton, South Lanarkshire, Alba / Scotland, ML3 7DW, United Kingdom",
   "postcode": "ML3 7DW",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "gift shop"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

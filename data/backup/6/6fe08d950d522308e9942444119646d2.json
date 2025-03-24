@@ -150,5 +150,22 @@
   "display_address": "Steelfoot Bridge, Midlothian, Alba / Scotland, EH23 4SW, United Kingdom",
   "postcode": "EH23 4SW",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "scenic views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

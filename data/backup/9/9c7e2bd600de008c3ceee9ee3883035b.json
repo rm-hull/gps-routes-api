@@ -43,5 +43,25 @@
   "county": null,
   "region": null,
   "state": "Tasmania",
-  "country": "Australia"
+  "country": "Australia",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "information boards",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "toilets",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

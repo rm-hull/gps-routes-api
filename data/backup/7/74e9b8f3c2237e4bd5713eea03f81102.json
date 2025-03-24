@@ -68,5 +68,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Brecon Road, Pontardawe, Ynysmeudwy, Neath Port Talbot, Cymru / Wales, SA8 4PX, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "bridges",
+    "locks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

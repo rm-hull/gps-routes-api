@@ -108,5 +108,27 @@
   "display_address": "Blue Route, Dapple Heath, Blithfield, Newton, East Staffordshire, Staffordshire, England, WS15 3PL, United Kingdom",
   "postcode": "WS15 3PL",
   "district": "East Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "bird hide",
+    "wildflowers",
+    "long distance path"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -84,5 +84,26 @@
   "nominatim_found": true,
   "display_address": "The Waterman's Road, Pennyfern, Greenock, Inverclyde, Alba / Scotland, PA16 9LY, United Kingdom",
   "district": "Greenock",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfall",
+    "estuary"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

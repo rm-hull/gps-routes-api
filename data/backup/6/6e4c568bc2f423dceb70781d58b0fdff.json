@@ -93,5 +93,26 @@
   "display_address": "Llanishen Reservoir Path, Llanishen, Cardiff, Cymru / Wales, CF14 0RG, United Kingdom",
   "postcode": "CF14 0RG",
   "district": "Cardiff",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "park",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

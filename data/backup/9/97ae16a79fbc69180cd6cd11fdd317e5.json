@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Street, West Witton, North Yorkshire, York and North Yorkshire, England, DL8 4LU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "views"
+  ],
+  "facilities": [
+    "tea rooms",
+    "pub/cafe",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

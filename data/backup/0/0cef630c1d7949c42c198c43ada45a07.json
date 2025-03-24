@@ -100,5 +100,25 @@
   "display_address": "Eastern Esplanade, Esplanade, Cowlease, Bonchurch, Ventnor, Isle of Wight, England, PO38 1EJ, United Kingdom",
   "postcode": "PO38 1EJ",
   "district": "Ventnor",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

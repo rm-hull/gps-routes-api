@@ -39,5 +39,23 @@
   "nominatim_found": true,
   "display_address": "Bury's Bank Road, Greenham, Thatcham, West Berkshire, England, RG19 8DD, United Kingdom",
   "district": "Thatcham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "nature"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

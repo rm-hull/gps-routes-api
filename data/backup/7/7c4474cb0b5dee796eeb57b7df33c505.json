@@ -82,5 +82,24 @@
   "display_address": "Rectory Road, Handside, Welwyn Garden City, Welwyn Hatfield, Hertfordshire, England, AL8 7SU, United Kingdom",
   "postcode": "AL8 7SU",
   "district": "Welwyn Hatfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "rail trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

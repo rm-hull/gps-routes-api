@@ -83,5 +83,25 @@
   "display_address": "Batridge Road, Entwistle, North Turton, Chapeltown, Blackburn with Darwen, England, BL7 0NF, United Kingdom",
   "postcode": "BL7 0NF",
   "district": "Chapeltown",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "country park",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

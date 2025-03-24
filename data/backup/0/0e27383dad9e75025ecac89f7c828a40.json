@@ -102,5 +102,27 @@
   "display_address": "B4501, Cerrigydrudion, Conwy, Cymru / Wales, LL21 9TT, United Kingdom",
   "postcode": "LL21 9TT",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

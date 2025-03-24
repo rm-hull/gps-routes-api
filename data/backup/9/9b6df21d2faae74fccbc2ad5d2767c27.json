@@ -94,5 +94,26 @@
   "display_address": "West Hythe Road, Martello Lakes, Hythe, Folkestone and Hythe, Kent, England, CT21 4NB, United Kingdom",
   "postcode": "CT21 4NB",
   "district": "Folkestone and Hythe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal path",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

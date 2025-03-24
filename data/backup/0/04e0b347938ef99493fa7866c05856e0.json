@@ -72,5 +72,26 @@
   "display_address": "Derby Road, Ripley, Ambergate, Amber Valley, Derbyshire, East Midlands, England, DE56 2EL, United Kingdom",
   "postcode": "DE56 2EL",
   "district": "Amber Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "heritage way"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

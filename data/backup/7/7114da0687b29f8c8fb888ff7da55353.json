@@ -67,5 +67,27 @@
   "nominatim_found": true,
   "display_address": "Woodhill Park, Pembury, Tunbridge Wells, Kent, England, TN2 4NW, United Kingdom",
   "postcode": "TN2 4NW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "wood"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "shop",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

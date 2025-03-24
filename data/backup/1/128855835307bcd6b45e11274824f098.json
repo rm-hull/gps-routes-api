@@ -93,5 +93,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "North Malvern Road, North Malvern, Malvern, Malvern Hills, Worcestershire, England, WR14 4LU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

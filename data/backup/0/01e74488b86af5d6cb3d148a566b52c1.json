@@ -85,5 +85,23 @@
   "display_address": "West Highland Way, Inversnaid, Stirling, Alba / Scotland, FK8 3TU, United Kingdom",
   "postcode": "FK8 3TU",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

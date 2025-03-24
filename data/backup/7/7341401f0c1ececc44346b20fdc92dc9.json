@@ -104,5 +104,26 @@
   "nominatim_found": true,
   "display_address": "Wendover, Buckinghamshire, England, HP22 6EJ, United Kingdom",
   "postcode": "HP22 6EJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "park",
+    "manor house",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

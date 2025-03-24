@@ -70,5 +70,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Beach Road, Llanfair-Mathafarn-Eithaf, Benllech, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL74 8QE, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rocky"
+  ],
+  "points_of_interest": [
+    "geological features",
+    "water features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

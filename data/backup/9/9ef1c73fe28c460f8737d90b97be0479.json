@@ -113,5 +113,24 @@
   "nominatim_found": true,
   "display_address": "High Street, Great Wakering, Rochford, Essex, England, SS3 0EB, United Kingdom",
   "postcode": "SS3 0EB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "creek",
+    "common"
+  ],
+  "points_of_interest": [
+    "church",
+    "local waterside footpaths"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

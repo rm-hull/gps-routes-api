@@ -83,5 +83,24 @@
   "display_address": "Plompton, Follifoot, North Yorkshire, York and North Yorkshire, England, HG5 8NA, United Kingdom",
   "postcode": "HG5 8NA",
   "district": "Follifoot",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rock"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

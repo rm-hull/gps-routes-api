@@ -99,5 +99,27 @@
   "display_address": "Down Lane, Wroxall, Isle of Wight, England, PO38 1QA, United Kingdom",
   "postcode": "PO38 1QA",
   "district": "Wroxall",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "downland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "wildlife",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

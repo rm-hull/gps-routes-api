@@ -105,5 +105,27 @@
   "display_address": "Water Sinks, Henside Road, Low Trenhouse, Malham Moor, North Yorkshire, York and North Yorkshire, England, BD24 9PT, United Kingdom",
   "postcode": "BD24 9PT",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "upland"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

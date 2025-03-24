@@ -123,5 +123,30 @@
   "nominatim_found": true,
   "display_address": "Margam Village, Margam, Neath Port Talbot, Cymru / Wales, SA13 2TA, United Kingdom",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "beach"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

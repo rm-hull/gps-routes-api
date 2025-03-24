@@ -58,5 +58,28 @@
   "nominatim_found": true,
   "display_address": "Bishopstoke Road, Newtown, Eastleigh, Bishopstoke, Eastleigh, Hampshire, England, SO50 9FL, United Kingdom",
   "postcode": "SO50 9FL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "museum"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "car park",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

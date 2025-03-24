@@ -75,5 +75,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Felixstowe Pier Amusements, The Promenade, Old Felixstowe, Felixstowe, Walton, East Suffolk, Suffolk, England, IP11 2DX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "river",
+    "marshland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserves"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

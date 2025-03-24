@@ -113,5 +113,29 @@
   "nominatim_found": true,
   "display_address": "Bridgefoot, Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, CV37 6YY, United Kingdom",
   "postcode": "CV37 6YY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "manor house",
+    "canal trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

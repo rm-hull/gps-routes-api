@@ -80,5 +80,28 @@
   "display_address": "Newbold Terrace East, Sydenham, Royal Leamington Spa, Warwick, Warwickshire, England, CV31 1LQ, United Kingdom",
   "postcode": "CV31 1LQ",
   "district": "Royal Leamington Spa",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverbank",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cycle route"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

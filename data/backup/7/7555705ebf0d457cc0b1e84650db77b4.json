@@ -100,5 +100,25 @@
   "display_address": "Easy Legs, Cuxton, Medway, England, ME2 1LA, United Kingdom",
   "postcode": "ME2 1LA",
   "district": "Cuxton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "plant life",
+    "walking trails"
+  ],
+  "facilities": [
+    "rail station",
+    "country park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

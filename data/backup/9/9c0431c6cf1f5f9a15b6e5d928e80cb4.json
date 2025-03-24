@@ -118,5 +118,29 @@
   "nominatim_found": true,
   "display_address": "Birling Gap Coastguard Rescue Station, Birling Gap Road, East Dean and Friston, Birling Gap, Wealden, East Sussex, England, BN20 0AB, United Kingdom",
   "postcode": "BN20 0AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "wildflower viewing"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center",
+    "shop",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

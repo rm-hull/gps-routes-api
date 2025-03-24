@@ -99,5 +99,27 @@
   "display_address": "Cavenham, Suffolk, England, IP28 6PZ, United Kingdom",
   "postcode": "IP28 6PZ",
   "district": "Cavenham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical paths"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

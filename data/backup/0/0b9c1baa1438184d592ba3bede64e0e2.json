@@ -76,5 +76,30 @@
   "display_address": "B6521, Upper Padley, Grindleford, Derbyshire Dales, Derbyshire, East Midlands, England, S32 2JA, United Kingdom",
   "postcode": "S32 2JA",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "rock formations"
+  ],
+  "facilities": [
+    "tea room",
+    "shop",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

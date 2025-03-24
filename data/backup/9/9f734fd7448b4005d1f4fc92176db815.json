@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "18, All Saints' Close, Thurston Park, Tankerton, Whitstable, Kent, England, CT5 1SD, United Kingdom",
   "postcode": "CT5 1SD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "university"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

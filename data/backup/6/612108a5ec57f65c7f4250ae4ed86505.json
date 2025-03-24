@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Admirals Way, Southbrook, Daventry, West Northamptonshire, England, NN11 4LQ, United Kingdom",
   "district": "Daventry",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "waterfront",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

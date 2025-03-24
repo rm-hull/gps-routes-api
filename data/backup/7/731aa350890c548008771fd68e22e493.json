@@ -84,5 +84,26 @@
   "nominatim_found": true,
   "display_address": "Helford Passage, Trebah, Mawnan, Mawnan Smith, Cornwall, England, TR11 5JZ, United Kingdom",
   "district": "Mawnan Smith",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical churches",
+    "beaches",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "ferry"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

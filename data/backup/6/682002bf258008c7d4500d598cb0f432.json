@@ -130,5 +130,26 @@
   "county": "County Meath",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "concert venue",
+    "ancient site"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "guided tours"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

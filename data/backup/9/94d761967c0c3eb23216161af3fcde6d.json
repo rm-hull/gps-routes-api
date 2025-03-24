@@ -62,5 +62,27 @@
   "display_address": "Byland Abbey, Oldstead Road, College Farm, Byland with Wass, York, North Yorkshire, York and North Yorkshire, England, YO61 4BD, United Kingdom",
   "postcode": "YO61 4BD",
   "district": "York",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "lake"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

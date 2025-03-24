@@ -76,5 +76,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kingbur Place, Audlem, Cheshire East, England, CW3 0DL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterways"
+  ],
+  "facilities": [
+    "pub",
+    "car park"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

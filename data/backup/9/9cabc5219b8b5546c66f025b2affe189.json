@@ -75,5 +75,24 @@
   "display_address": "C1091, Lonbain, Applecross, Highland, Alba / Scotland, IV54 8XT, United Kingdom",
   "postcode": "IV54 8XT",
   "district": "Applecross",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

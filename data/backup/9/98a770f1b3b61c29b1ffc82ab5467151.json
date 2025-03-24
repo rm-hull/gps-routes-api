@@ -63,5 +63,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Salvation Army, Memorial Drive, Deanfield, Kinneil, Bo'ness, Falkirk, Alba / Scotland, EH51 0BW, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "estate"
+  ],
+  "facilities": [
+    "car park",
+    "museum",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -90,5 +90,26 @@
   "display_address": "Five Pits Trail, North Wingfield, Williamthorpe, North East Derbyshire, Derbyshire, East Midlands, England, S42 5NX, United Kingdom",
   "postcode": "S42 5NX",
   "district": "North East Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "lake",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "waterfront"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

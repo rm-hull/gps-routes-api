@@ -103,5 +103,24 @@
   "display_address": "Brow Lane, Clayton, Queensbury, Bradford, West Yorkshire, England, BD14 6PT, United Kingdom",
   "postcode": "BD14 6PT",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "path",
+    "valley"
+  ],
+  "points_of_interest": [
+    "views",
+    "viaducts"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

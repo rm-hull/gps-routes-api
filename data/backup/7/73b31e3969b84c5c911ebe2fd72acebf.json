@@ -75,5 +75,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cafe Coucou, 17, George Street, Pleasant Valley, Saffron Walden, Uttlesford, Essex, England, CB10 1EW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "gardens",
+    "waterway"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

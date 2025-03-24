@@ -84,5 +84,25 @@
   "nominatim_found": true,
   "display_address": "Inwardleigh, West Devon, Devon, England, EX20 1RN, United Kingdom",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical trails"
+  ],
+  "facilities": [
+    "car park",
+    "cycle path"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

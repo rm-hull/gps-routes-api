@@ -79,5 +79,27 @@
   "nominatim_found": true,
   "display_address": "Taff Trail, Tongwynlais, Gwaelod-y-garth, Cardiff, Cymru / Wales, CF15 7JS, United Kingdom",
   "district": "Gwaelod-y-garth",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "streams",
+    "mining caves",
+    "woodland wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "tea room"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

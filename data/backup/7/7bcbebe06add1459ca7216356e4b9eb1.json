@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "B1248, Wharram, Wharram le Street, North Yorkshire, York and North Yorkshire, England, YO25 3HE, United Kingdom",
   "district": "Wharram le Street",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "audio guide"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

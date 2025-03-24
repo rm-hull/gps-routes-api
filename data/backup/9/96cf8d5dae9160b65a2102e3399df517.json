@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Cockhaven Close, Bishopsteignton, Teignbridge, Devon, England, TQ14 9RJ, United Kingdom",
   "postcode": "TQ14 9RJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

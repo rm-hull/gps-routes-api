@@ -85,5 +85,25 @@
   "display_address": "Chase Car Park, Station Road, East Woodhay, Woolton Hill, Basingstoke and Deane, Hampshire, England, RG20 9TW, United Kingdom",
   "postcode": "RG20 9TW",
   "district": "Basingstoke and Deane",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "flora",
+    "fauna"
+  ],
+  "facilities": [
+    "car park",
+    "viewpoint"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -85,5 +85,26 @@
   "display_address": "Haw Park Lane, Wintersett, Cold Hiendley, Wakefield, West Yorkshire, England, WF4 2EE, United Kingdom",
   "district": "Wakefield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "wildlife viewing",
+    "lake views"
+  ],
+  "facilities": [
+    "car park",
+    "nature reserve"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

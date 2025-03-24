@@ -37,5 +37,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Clean & Shine, Warton Road, Carnforth, Lancaster, Lancashire, England, LA5 9BS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -80,5 +80,31 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Harbour Street, Thurston Park, Tankerton, Canterbury, Kent, England, CT5 1HF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "5 miles",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "beach huts"
+  ],
+  "facilities": [
+    "car park",
+    "play area",
+    "visitor center",
+    "bandstand",
+    "gardens",
+    "amusement arcades"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

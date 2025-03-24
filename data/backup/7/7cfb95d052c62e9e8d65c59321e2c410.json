@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "36, High Street, Llanfyllin, Powys, Cymru / Wales, SY22 5AT, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

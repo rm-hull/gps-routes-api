@@ -100,5 +100,31 @@
   "nominatim_found": true,
   "display_address": "My Shish, 20, Woodford New Road, Upper Walthamstow, Walthamstow, London, Greater London, England, E17 3PR, United Kingdom",
   "postcode": "E17 3PR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "canal",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "green spaces",
+    "nature reserve"
+  ],
+  "facilities": [
+    "play area",
+    "basketball courts",
+    "football pitches",
+    "bowling green",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

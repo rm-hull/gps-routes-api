@@ -114,5 +114,26 @@
   "display_address": "Elloughton Dale, Elloughton-cum-Brough, Elloughton, East Riding of Yorkshire, England, HU15 1QB, United Kingdom",
   "postcode": "HU15 1QB",
   "district": "Elloughton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "village ruins",
+    "estate ruins"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

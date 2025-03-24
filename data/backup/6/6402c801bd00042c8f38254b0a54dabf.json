@@ -119,5 +119,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gretton Road, Harringworth, North Northamptonshire, England, NN17 3AQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic structure",
+    "countryside views"
+  ],
+  "facilities": [
+    "cafe",
+    "footpaths",
+    "country lanes"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

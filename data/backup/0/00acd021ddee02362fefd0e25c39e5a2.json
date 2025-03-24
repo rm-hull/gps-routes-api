@@ -67,5 +67,26 @@
   "nominatim_found": true,
   "display_address": "Hall Lane, Mawdesley, Chorley, Lancashire, England, L40 2QW, United Kingdom",
   "postcode": "L40 2QW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

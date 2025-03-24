@@ -119,5 +119,26 @@
   "nominatim_found": true,
   "display_address": "Buxton Road, Disley, Cheshire East, England, SK12 2JN, United Kingdom",
   "postcode": "SK12 2JN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "country park"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

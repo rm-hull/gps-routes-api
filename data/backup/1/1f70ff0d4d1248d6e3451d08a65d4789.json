@@ -99,5 +99,25 @@
   "display_address": "Wood Street, Odd Rode, Cheshire East, England, ST7 3PF, United Kingdom",
   "postcode": "ST7 3PF",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "sandstone",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "country park",
+    "market town"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

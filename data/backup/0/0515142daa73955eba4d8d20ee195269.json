@@ -105,5 +105,24 @@
   "display_address": "Longdendale Trail, Charlesworth, High Peak, Derbyshire, East Midlands, England, SK13 1JF, United Kingdom",
   "postcode": "SK13 1JF",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "gritstone"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geological formations"
+  ],
+  "facilities": [
+    "car park",
+    "memorial"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

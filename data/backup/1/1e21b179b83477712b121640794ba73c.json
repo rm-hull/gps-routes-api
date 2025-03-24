@@ -76,5 +76,31 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Earl of Lichfield (Drum), 8, Conduit Street, Dimbles, Lichfield, Staffordshire, England, WS13 6JR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "park",
+    "lakeside",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "sculptures",
+    "architecture"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "museum",
+    "car park",
+    "theatre",
+    "museum"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

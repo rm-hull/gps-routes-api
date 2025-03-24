@@ -123,5 +123,25 @@
   "display_address": "B5289, Buttermere, Cumberland, England, CA13 9UZ, United Kingdom",
   "postcode": "CA13 9UZ",
   "district": "Buttermere",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "fell"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

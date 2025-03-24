@@ -108,5 +108,25 @@
   "nominatim_found": true,
   "display_address": "The Bakers Arms, The Cross, Child Okeford, Dorset, England, DT11 8ED, United Kingdom",
   "postcode": "DT11 8ED",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

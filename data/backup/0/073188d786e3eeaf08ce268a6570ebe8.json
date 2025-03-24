@@ -53,5 +53,27 @@
   "display_address": "Station Approach, Dorridge, Solihull, West Midlands, England, B93 8JA, United Kingdom",
   "postcode": "B93 8JA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "topiary",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

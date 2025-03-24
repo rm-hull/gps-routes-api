@@ -100,5 +100,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Dacre, Westmorland and Furness, England, CA11 0HJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "deer park",
+    "countryside",
+    "historic buildings"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

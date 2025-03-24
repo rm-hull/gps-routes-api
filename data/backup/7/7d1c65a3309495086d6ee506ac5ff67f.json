@@ -75,5 +75,26 @@
   "display_address": "Preston Ginnel, Thorner, West Yorkshire, England, LS14 3DZ, United Kingdom",
   "postcode": "LS14 3DZ",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "woodland",
+    "ponds",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

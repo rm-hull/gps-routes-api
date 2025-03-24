@@ -105,5 +105,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Engine Hill, Glascoed, Bodelwyddan, Denbighshire, Cymru / Wales, LL18 5YD, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "hotel",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

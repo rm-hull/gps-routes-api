@@ -84,5 +84,25 @@
   "display_address": "Daneshill Road, Torworth, Bassetlaw, Nottinghamshire, East Midlands, England, DN22 8RB, United Kingdom",
   "postcode": "DN22 8RB",
   "district": "Bassetlaw",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

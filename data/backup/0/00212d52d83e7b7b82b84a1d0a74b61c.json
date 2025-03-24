@@ -68,5 +68,23 @@
   "nominatim_found": true,
   "display_address": "Brookside, West Suffolk, Suffolk, England, CB8 8SG, United Kingdom",
   "postcode": "CB8 8SG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

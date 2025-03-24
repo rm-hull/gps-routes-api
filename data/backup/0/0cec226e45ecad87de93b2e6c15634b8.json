@@ -118,5 +118,29 @@
   "nominatim_found": true,
   "display_address": "Bishy Barnebee Way, Three Score, Bowthorpe, Norwich, Norfolk, England, NR5 9HE, United Kingdom",
   "postcode": "NR5 9HE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "footpath",
+    "nature trails"
+  ],
+  "points_of_interest": [
+    "local park",
+    "marshes",
+    "university grounds",
+    "nature reserve",
+    "scenic area"
+  ],
+  "facilities": [
+    "car park",
+    "broad",
+    "boardwalk"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

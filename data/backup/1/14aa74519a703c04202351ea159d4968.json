@@ -105,5 +105,23 @@
   "nominatim_found": true,
   "display_address": "A44, Eisteddfa Gurig, Blaenrheidol, Ceredigion, Cymru / Wales, SY23 3LD, United Kingdom",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakeside trail"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

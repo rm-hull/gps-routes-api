@@ -76,5 +76,26 @@
   "nominatim_found": true,
   "display_address": "Tent Peg Lane, Petts Wood, London Borough of Bromley, London, Greater London, England, BR5 1BY, United Kingdom",
   "postcode": "BR5 1BY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "countryside views",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

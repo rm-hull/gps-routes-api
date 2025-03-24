@@ -114,5 +114,24 @@
   "nominatim_found": true,
   "display_address": "One Barrow Lane, Shepshed, Charnwood, Leicestershire, England, LE12 9YF, United Kingdom",
   "district": "Charnwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -94,5 +94,25 @@
   "display_address": "New Clough Road, Norland Town, Norland, Calderdale, West Yorkshire, England, HX6 3RE, United Kingdom",
   "postcode": "HX6 3RE",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "wooded valley",
+    "heathland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

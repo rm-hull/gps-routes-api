@@ -88,5 +88,28 @@
   "display_address": "Strawberry Lane, Hoxall, Brighstone, Isle of Wight, England, PO30 4EA, United Kingdom",
   "postcode": "PO30 4EA",
   "district": "Brighstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "villages",
+    "nature"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -93,5 +93,27 @@
   "display_address": "Lock Lane, Sawley, Erewash, Derbyshire, East Midlands, England, NG10 3GH, United Kingdom",
   "postcode": "NG10 3GH",
   "district": "Erewash",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "marina",
+    "canal"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

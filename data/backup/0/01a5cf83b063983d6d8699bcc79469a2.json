@@ -87,5 +87,24 @@
   "display_address": "Seashore Holiday Park, South Beach, Heacham, King's Lynn and West Norfolk, Norfolk, England, PE31 7BD, United Kingdom",
   "postcode": "PE31 7BD",
   "district": "King's Lynn and West Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "golf course"
+  ],
+  "facilities": [
+    "car park",
+    "public"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -95,5 +95,28 @@
   "nominatim_found": true,
   "display_address": "MTB track (blue0, Toll Farm, Dyce and Stoneywood, Aberdeen City, Alba / Scotland, AB21 0TU, United Kingdom",
   "district": "Aberdeen City",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

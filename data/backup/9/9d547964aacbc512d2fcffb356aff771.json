@@ -134,5 +134,35 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Buckingham Palace Road, Victoria, London, Greater London, England, SW1E 6LA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "parks",
+    "memorial fountain",
+    "statues",
+    "fountains",
+    "boating lake",
+    "zoo",
+    "historical sites",
+    "riverfront"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "wheelchair accessible",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

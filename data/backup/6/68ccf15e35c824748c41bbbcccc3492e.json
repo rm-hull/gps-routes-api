@@ -69,5 +69,28 @@
   "nominatim_found": true,
   "display_address": "Margate Lane, Cardinham, Cornwall, England, PL30 4AN, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "mines"
+  ],
+  "facilities": [
+    "bike hire",
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

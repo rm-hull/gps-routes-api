@@ -99,5 +99,33 @@
   "nominatim_found": true,
   "display_address": "Forge, Middle Street, Shere, Gomshall, Guildford, Surrey, England, GU5 9HF, United Kingdom",
   "postcode": "GU5 9HF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "chalk downland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible",
+    "tea house",
+    "art gallery",
+    "blacksmith",
+    "trekking shop"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

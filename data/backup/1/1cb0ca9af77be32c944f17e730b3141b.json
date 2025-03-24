@@ -84,5 +84,26 @@
   "display_address": "Flamborough Road, Marton, Sewerby, Bridlington, East Riding of Yorkshire, England, YO15 1AA, United Kingdom",
   "postcode": "YO15 1AA",
   "district": "Bridlington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "beach",
+    "cliff tops"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

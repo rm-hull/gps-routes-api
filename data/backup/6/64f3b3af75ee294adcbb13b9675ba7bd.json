@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Main Road, Darley Dale, Darley Bridge, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2JY, United Kingdom",
   "postcode": "DE4 2JY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "moor",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "stone circles",
+    "railway"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

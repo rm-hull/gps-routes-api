@@ -53,5 +53,27 @@
   "county": "Shropshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "pastoral",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "natural features"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

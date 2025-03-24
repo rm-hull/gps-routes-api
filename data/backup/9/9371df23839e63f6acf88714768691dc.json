@@ -84,5 +84,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Millenium Promenade, Bransty, Whitehaven, Cumberland, England, CA28 7HR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "promenade",
+    "railway station",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

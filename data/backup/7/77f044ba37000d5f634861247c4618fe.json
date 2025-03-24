@@ -57,5 +57,25 @@
   "nominatim_found": true,
   "display_address": "Crossways, 5, Vann Road, Fernhurst, Chichester, West Sussex, England, GU27 3EP, United Kingdom",
   "postcode": "GU27 3EP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

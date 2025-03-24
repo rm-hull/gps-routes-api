@@ -95,5 +95,25 @@
   "nominatim_found": true,
   "display_address": "Hall Lane, Hagley, Bromsgrove, Worcestershire, England, DY9 9LH, United Kingdom",
   "postcode": "DY9 9LH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -84,5 +84,25 @@
   "nominatim_found": true,
   "display_address": "Gower Way 42, Heol Glyn-dyfal, Mawr, Felindre, Swansea, Cymru / Wales, SA5 7NA, United Kingdom",
   "district": "Felindre",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "road",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

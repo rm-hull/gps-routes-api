@@ -75,5 +75,27 @@
   "display_address": "Swing Bridge, Bridge Street, Ochre Yards, Gateshead, Tyne and Wear, North East, England, NE8 2BJ, United Kingdom",
   "postcode": "NE8 2BJ",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "ancient route"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

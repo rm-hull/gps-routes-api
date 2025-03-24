@@ -68,5 +68,25 @@
   "county": "Oxfordshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historic houses",
+    "parks"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "country pubs"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

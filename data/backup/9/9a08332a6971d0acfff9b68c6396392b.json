@@ -79,5 +79,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Co-operative Food, Lyon Road, Killin, Stirling, Alba / Scotland, FK21 8TA, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "bridge"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

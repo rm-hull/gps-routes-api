@@ -73,5 +73,25 @@
   "display_address": "Pilgrims Way, Trottiscliffe, Tonbridge and Malling, Kent, England, TN15 7JW, United Kingdom",
   "postcode": "TN15 7JW",
   "district": "Tonbridge and Malling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "chalk downland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "cafe",
+    "picnic area",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

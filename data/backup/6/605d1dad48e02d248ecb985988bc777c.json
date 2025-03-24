@@ -149,5 +149,23 @@
   "display_address": "Old Bridge, Middleton Estate, Ilkley, Bradford, West Yorkshire, England, LS29 9HD, United Kingdom",
   "postcode": "LS29 9HD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "valley"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

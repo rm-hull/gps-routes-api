@@ -159,5 +159,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Rydal Road, Millans Park, Waterhead, Lakes, Ambleside, Westmorland and Furness, England, LA22 9AH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "field"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "picnic benches",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "linear",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -85,5 +85,25 @@
   "display_address": "Blackwood Bungalow, Ebberston and Yedingham, North Yorkshire, York and North Yorkshire, England, YO13 0LL, United Kingdom",
   "postcode": "YO13 0LL",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

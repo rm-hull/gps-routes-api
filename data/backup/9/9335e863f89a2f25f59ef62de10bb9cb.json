@@ -50,5 +50,27 @@
   "display_address": "Dun, Bridge of Dun, Angus, Alba / Scotland, DD10 9LW, United Kingdom",
   "postcode": "DD10 9LW",
   "district": "Bridge of Dun",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife sightings",
+    "ancient burial mound"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

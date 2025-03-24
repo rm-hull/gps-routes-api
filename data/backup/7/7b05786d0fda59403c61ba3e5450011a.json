@@ -69,5 +69,27 @@
   "display_address": "Marine Parade, Merryman's Hill, Minster-on-Sea, Minster, Swale, Kent, England, ME12 2FD, United Kingdom",
   "postcode": "ME12 2FD",
   "district": "Swale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

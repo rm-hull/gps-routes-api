@@ -80,5 +80,26 @@
   "display_address": "Nickel Close, Winnall, Winchester, Hampshire, England, SO23 7RJ, United Kingdom",
   "postcode": "SO23 7RJ",
   "district": "Winchester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "wetland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildflower areas",
+    "water features",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

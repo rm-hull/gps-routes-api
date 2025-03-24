@@ -79,5 +79,30 @@
   "display_address": "Furzebrook Road, East Creech, Church Knowle, Furzebrook, Dorset, England, BH20 5AR, United Kingdom",
   "postcode": "BH20 5AR",
   "district": "Furzebrook",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "sand",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "giftshop",
+    "museum",
+    "tea-house",
+    "plant centre",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

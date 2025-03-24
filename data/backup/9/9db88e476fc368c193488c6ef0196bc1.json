@@ -94,5 +94,22 @@
   "display_address": "A591, St. John's Castlerigg and Wythburn, Cumberland, England, CA12 4TN, United Kingdom",
   "postcode": "CA12 4TN",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "climbing"
+  ]
 }

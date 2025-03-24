@@ -100,5 +100,25 @@
   "display_address": "Hobcarton, Whinlatter Pass, Lorton, Cumberland, England, CA13 9UE, United Kingdom",
   "postcode": "CA13 9UE",
   "district": "Lorton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lake views"
+  ],
+  "facilities": [
+    "cycle hire",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

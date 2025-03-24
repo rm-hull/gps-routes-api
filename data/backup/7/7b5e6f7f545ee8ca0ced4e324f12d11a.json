@@ -68,5 +68,27 @@
   "nominatim_found": true,
   "display_address": "A581, Croston, Chorley, Lancashire, England, PR26 9RU, United Kingdom",
   "postcode": "PR26 9RU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "gardens"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "Lepe Road, Exbury and Lepe, New Forest, Hampshire, England, SO45 1AD, United Kingdom",
   "postcode": "SO45 1AD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "barbeque areas",
+    "picnic areas",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

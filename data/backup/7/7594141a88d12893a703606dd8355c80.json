@@ -76,5 +76,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Waltham Road, Barnoldby Le Beck CP, Barnoldby le Beck, North East Lincolnshire, England, DN37 0AX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "woodland trails",
+    "lake",
+    "birdlife"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "horse riding"
+  ]
 }

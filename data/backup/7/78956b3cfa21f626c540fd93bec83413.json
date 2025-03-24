@@ -143,5 +143,23 @@
   "nominatim_found": true,
   "display_address": "The Sloop, 81, Waterside Road, Barton Waterside, Barton-upon-Humber, North Lincolnshire, England, DN18 5BA, United Kingdom",
   "postcode": "DN18 5BA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

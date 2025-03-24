@@ -75,5 +75,24 @@
   "nominatim_found": true,
   "display_address": "Harecastle New Tunnel, Boathorse Road, Kidsgrove, Newcastle-under-Lyme, Staffordshire, England, ST7 4JF, United Kingdom",
   "postcode": "ST7 4JF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "exercise points"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

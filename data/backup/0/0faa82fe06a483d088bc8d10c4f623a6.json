@@ -105,5 +105,25 @@
   "nominatim_found": true,
   "display_address": "A422, Arrow with Weethley CP, Arrow, Stratford-on-Avon, Warwickshire, England, B49 5LR, United Kingdom",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "gardens"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

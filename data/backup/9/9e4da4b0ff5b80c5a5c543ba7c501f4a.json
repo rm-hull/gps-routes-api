@@ -108,5 +108,26 @@
   "display_address": "Burton Constable Hall, Mill Road, Burton Constable, West Newton, East Riding of Yorkshire, England, HU11 4LN, United Kingdom",
   "postcode": "HU11 4LN",
   "district": "West Newton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculptures",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

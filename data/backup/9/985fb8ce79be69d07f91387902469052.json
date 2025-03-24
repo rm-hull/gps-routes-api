@@ -103,5 +103,28 @@
   "display_address": "Taplow, Beeches Community Board, Hedsor, Buckinghamshire, England, SL6 0JA, United Kingdom",
   "postcode": "SL6 0JA",
   "district": "Taplow",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "temples",
+    "follies"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

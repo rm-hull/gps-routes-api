@@ -100,5 +100,25 @@
   "nominatim_found": true,
   "display_address": "The But n Ben, 1, Ethie Street, Coastguard Station Cottages, Arbroath, Angus, Alba / Scotland, DD11 5SQ, United Kingdom",
   "postcode": "DD11 5SQ",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff tops",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

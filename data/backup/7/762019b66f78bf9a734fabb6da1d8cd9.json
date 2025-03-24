@@ -83,5 +83,28 @@
   "nominatim_found": true,
   "display_address": "Long Drive, Irvine, North Ayrshire, Alba / Scotland, KA12 8TG, United Kingdom",
   "district": "Irvine",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe",
+    "play area",
+    "bird watching"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -93,5 +93,23 @@
   "display_address": "Church Close, Clapham, Arun, West Sussex, England, BN13 3XP, United Kingdom",
   "postcode": "BN13 3XP",
   "district": "Arun",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "footpaths",
+    "nature"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }
