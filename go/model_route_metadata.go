@@ -81,5 +81,5 @@ type RouteMetadata struct {
 
 	RouteType *string `json:"route_type,omitempty"`
 
-	Activities []string `json:"activity_type,omitempty"`
+	Activities []string `json:"activities,omitempty"`
 }

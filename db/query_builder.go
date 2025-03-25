@@ -4,6 +4,7 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/lib/pq"
 	model "github.com/rm-hull/gps-routes-api/go"
 )
 
@@ -11,7 +12,8 @@ type QueryBuilder struct {
 	criteria       *model.SearchRequest
 	selectPart     string
 	whereClauses   []string
-	excludedFacets []string
+	excludedFacets map[string]struct{}
+	arrayFields    map[string]struct{}
 	params         []interface{}
 	orderBy        string
 	groupBy        string
@@ -75,7 +77,12 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 }
 
 func (qb *QueryBuilder) WithExcludeFacets(facetNames ...string) *QueryBuilder {
-	qb.excludedFacets = facetNames
+	qb.excludedFacets = toSet(facetNames...)
+	return qb
+}
+
+func (qb *QueryBuilder) WithArrayFields(arrayFields ...string) *QueryBuilder {
+	qb.arrayFields = toSet(arrayFields...)
 	return qb
 }
 
@@ -83,19 +90,20 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 
 	if qb.criteria.Facets != nil {
 		for facet, values := range qb.criteria.Facets {
-			excluded := false
-
-			for _, name := range qb.excludedFacets {
-				if name == facet {
-					excluded = true
-					break
-				}
+			_, isExcluded := qb.excludedFacets[facet]
+			if isExcluded {
+				continue
 			}
 
-			if !excluded {
-				qb.WithWhereClause(fmt.Sprintf("%s = ANY($%d)", facet, len(qb.params)+1))
-				qb.params = append(qb.params, values)
+			_, isArrayField := qb.arrayFields[facet]
+			var format string
+			if isArrayField {
+				format = "%s && $%d::TEXT[]"
+			} else {
+				format = "%s = ANY($%d)"
 			}
+			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1))
+			qb.params = append(qb.params, pq.Array(values))
 		}
 	}
 
@@ -132,4 +140,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 	}
 
 	return qb
+}
+
+func toSet(values ...string) map[string]struct{} {
+	set := make(map[string]struct{})
+	for _, s := range values {
+		set[s] = struct{}{}
+	}
+	return set
 }
