@@ -94,5 +94,20 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Freshfields, Penn Street, Penn, Beaconsfield and Chepping Wye Community Board, Penn Street, Buckinghamshire, England, HP7 0QL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "ponds",
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

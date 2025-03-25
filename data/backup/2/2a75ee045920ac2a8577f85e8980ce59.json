@@ -68,5 +68,27 @@
   "nominatim_found": true,
   "display_address": "Church Street, St. Briavels, Forest of Dean, Gloucestershire, England, GL15 6TA, United Kingdom",
   "postcode": "GL15 6TA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "footpath",
+    "common"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -68,5 +68,27 @@
   "nominatim_found": true,
   "display_address": "New Road, Banksfield, Hebden Royd, Mytholmroyd, Calderdale, West Yorkshire, England, HX7 5DZ, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "moor",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "train station",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

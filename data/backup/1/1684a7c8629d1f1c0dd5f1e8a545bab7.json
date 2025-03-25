@@ -84,5 +84,25 @@
   "nominatim_found": true,
   "display_address": "Boat Dyke Lane, Acle, Damgate, Broadland, Norfolk, England, NR13 3QP, United Kingdom",
   "postcode": "NR13 3QP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "footpath",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -123,5 +123,25 @@
   "display_address": "Coombe House, Church Street, Publow, Bristol, Bath and North East Somerset, West of England, England, BS39 4AN, United Kingdom",
   "postcode": "BS39 4AN",
   "district": "Bristol",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "stone circles"
+  ],
+  "facilities": [
+    "car park",
+    "river access"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

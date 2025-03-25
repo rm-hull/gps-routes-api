@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "Whitegate Way, Delamere and Oakmere, Sandiway, Cuddington, Cheshire West and Chester, England, CW8 2TD, United Kingdom",
   "postcode": "CW8 2TD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "toilets",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

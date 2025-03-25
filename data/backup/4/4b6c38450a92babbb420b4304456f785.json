@@ -72,5 +72,26 @@
   "nominatim_found": true,
   "display_address": "Uffculme Village Hall, Bridge Street, Uffculme, Mid Devon, Devon, England, EX15 3AX, United Kingdom",
   "postcode": "EX15 3AX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "deer"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

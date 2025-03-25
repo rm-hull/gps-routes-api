@@ -76,5 +76,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "High Weald Landscape Trail, Castle Hill, Brenchley, Tunbridge Wells, Kent, England, TN12 7NG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "orchards",
+    "ponds",
+    "historic sites"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

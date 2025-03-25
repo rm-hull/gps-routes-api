@@ -76,5 +76,24 @@
   "nominatim_found": true,
   "display_address": "Water Lane, Bell's Corner, Polstead, Babergh, Suffolk, England, CO6 5AA, United Kingdom",
   "postcode": "CO6 5AA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "landscape"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -93,5 +93,27 @@
   "nominatim_found": true,
   "display_address": "Cann Woods, Boringdon Hill, Sparkwell, South Hams, Devon, England, PL7 5EB, United Kingdom",
   "district": "South Hams",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing",
+    "historical trails"
+  ],
+  "facilities": [
+    "car park",
+    "cycle trails",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

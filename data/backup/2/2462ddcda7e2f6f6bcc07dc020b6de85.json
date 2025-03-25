@@ -50,5 +50,24 @@
   "display_address": "Gledhow Lane, Gledhow, Leeds, West Yorkshire, England, LS8 1RL, United Kingdom",
   "postcode": "LS8 1RL",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

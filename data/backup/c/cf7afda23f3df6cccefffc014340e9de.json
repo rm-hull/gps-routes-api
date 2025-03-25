@@ -102,5 +102,28 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/znkn0k9qg18",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature reserve",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

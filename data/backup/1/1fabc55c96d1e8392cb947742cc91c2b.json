@@ -98,5 +98,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Seaton Park, Deviock, Seaton, Cornwall, England, PL11 3JF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "sensory garden"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

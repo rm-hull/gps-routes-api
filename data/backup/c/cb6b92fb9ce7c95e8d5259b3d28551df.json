@@ -98,5 +98,27 @@
   "nominatim_found": true,
   "display_address": "Milburn Road, Temple Sowerby, Newbiggin, Westmorland and Furness, England, CA10 1SN, United Kingdom",
   "district": "Newbiggin",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "orchards",
+    "watermill",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

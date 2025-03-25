@@ -76,5 +76,28 @@
   "nominatim_found": true,
   "display_address": "Tame Valley Trail, Mossley, Micklehurst, Tameside, Greater Manchester, England, OL5 9HU, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "river valley",
+    "canals",
+    "country park",
+    "moor"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -118,5 +118,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "London Trader, 4-7, East Beach Street, Old Town, St Leonards, Hastings, East Sussex, England, TN34 3AR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top",
+    "hill"
+  ],
+  "points_of_interest": [
+    "wildlife watching",
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "beach",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

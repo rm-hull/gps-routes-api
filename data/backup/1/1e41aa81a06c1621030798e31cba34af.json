@@ -89,5 +89,21 @@
   "nominatim_found": true,
   "display_address": "Railway Street Fisheries, 3-4, Railway Street, York, East Riding of Yorkshire, England, YO42 2QR, United Kingdom",
   "postcode": "YO42 2QR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "woodland"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

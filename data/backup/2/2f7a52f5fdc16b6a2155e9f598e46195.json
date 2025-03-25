@@ -76,5 +76,26 @@
   "nominatim_found": true,
   "display_address": "Manor Farm Road, Overy, Dorchester, Dorchester on Thames, South Oxfordshire, Oxfordshire, England, OX10 7HZ, United Kingdom",
   "postcode": "OX10 7HZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "museum"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

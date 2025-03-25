@@ -164,5 +164,26 @@
   "nominatim_found": true,
   "display_address": "Ignes Beauty Studio, West Street, Bargate, Trinity, Boston, Lincolnshire, England, PE21 8QF, United Kingdom",
   "postcode": "PE21 8QF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
+  "difficulty": "moderate",
+  "terrain": [
+    "agricultural",
+    "limestone",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical architecture",
+    "market towns",
+    "castles",
+    "schools"
+  ],
+  "facilities": [
+    "waymarking"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

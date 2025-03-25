@@ -68,5 +68,26 @@
   "nominatim_found": true,
   "display_address": "Windmill Lane, Lowford, Bursledon, Hedge End, Eastleigh, Hampshire, England, SO31 8BG, United Kingdom",
   "postcode": "SO31 8BG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "nature trails"
+  ],
+  "points_of_interest": [
+    "historic farm",
+    "nature trail",
+    "windmill",
+    "farm building"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

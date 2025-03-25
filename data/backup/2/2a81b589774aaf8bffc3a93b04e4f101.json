@@ -74,5 +74,25 @@
   "display_address": "Hawkley Hall High School, Carr Lane, Hawkley, Wigan, Greater Manchester, England, WN3 5NY, United Kingdom",
   "postcode": "WN3 5NY",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

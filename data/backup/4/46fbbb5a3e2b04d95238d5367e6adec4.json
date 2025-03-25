@@ -110,5 +110,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Source of River Avon, Newlands, Naseby, West Northamptonshire, England, NN6 6DF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "canal",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "cultural sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

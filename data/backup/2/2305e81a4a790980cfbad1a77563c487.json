@@ -143,5 +143,28 @@
   "display_address": "How Hill Road, Ludham, North Norfolk, Norfolk, England, NR29 5PG, United Kingdom",
   "postcode": "NR29 5PG",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "garden",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "museum"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "boatyard",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

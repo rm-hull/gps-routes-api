@@ -60,5 +60,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gwalia Court, Aberclydach, Clydach, Swansea, Cymru / Wales, SA6 5LZ, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "nature"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

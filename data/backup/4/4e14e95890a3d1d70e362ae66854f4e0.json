@@ -85,5 +85,25 @@
   "nominatim_found": true,
   "display_address": "Sheffield Park Gardens Car Park, Aucklandii Walk, Fletching, Sheffield Park, Wealden, East Sussex, England, TN22 3QZ, United Kingdom",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "footpaths",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

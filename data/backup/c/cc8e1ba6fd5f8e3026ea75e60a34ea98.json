@@ -89,5 +89,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Heugh Road, Dunstan, Craster, Northumberland, North East, England, NE66 3TJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife spotting",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

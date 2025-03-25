@@ -92,5 +92,24 @@
     }
   ],
   "video_url": "https://www.youtube.com/embed/u5DQKcoYR5c",
-  "gazetteer_found": false
+  "gazetteer_found": false,
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

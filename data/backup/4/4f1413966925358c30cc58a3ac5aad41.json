@@ -70,5 +70,25 @@
   "postcode": "HD7 5XB",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "canal"
+  ],
+  "points_of_interest": [
+    "lakes",
+    "scenic views"
+  ],
+  "facilities": [
+    "car park",
+    "fishing"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "swimming"
+  ]
 }

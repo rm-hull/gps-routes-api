@@ -114,5 +114,24 @@
   "nominatim_found": true,
   "display_address": "Wyre Way, Little Singleton, Singleton, Fylde, Lancashire, England, FY6 7LE, United Kingdom",
   "district": "Fylde",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "waterways",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

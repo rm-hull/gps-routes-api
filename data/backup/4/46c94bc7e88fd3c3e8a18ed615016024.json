@@ -71,5 +71,25 @@
   "nominatim_found": true,
   "display_address": "Church Street, Coldmartin Croft, Wooler, Northumberland, North East, England, NE71 6DA, United Kingdom",
   "postcode": "NE71 6DA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "hillfort"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

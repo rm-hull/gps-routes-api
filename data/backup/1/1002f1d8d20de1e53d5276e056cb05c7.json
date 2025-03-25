@@ -105,5 +105,26 @@
   "display_address": "Old Wimpole Road, Wimpole, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, SG8 0BT, United Kingdom",
   "postcode": "SG8 0BT",
   "district": "South Cambridgeshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "animal encounters",
+    "mini tractor"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

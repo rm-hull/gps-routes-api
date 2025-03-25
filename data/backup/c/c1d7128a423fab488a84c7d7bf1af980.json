@@ -89,5 +89,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Arne Road, Arne, Dorset, England, BH20 5BJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "bird hides",
+    "waterside stroll"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

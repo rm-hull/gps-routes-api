@@ -128,5 +128,29 @@
   "display_address": "The Highley Trail, Alveley, Shropshire, England, WV15 6NG, United Kingdom",
   "postcode": "WV15 6NG",
   "district": "Alveley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "picnic areas",
+    "bird hide",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

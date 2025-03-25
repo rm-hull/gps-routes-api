@@ -53,5 +53,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Hill, West Suffolk, Suffolk, England, IP31 2LJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "scenic countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

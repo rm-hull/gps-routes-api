@@ -104,5 +104,31 @@
   "nominatim_found": true,
   "display_address": "Willow Autisan, 40, Jubilee Way, Mildenhall, Suffolk, England, IP28 7QY, United Kingdom",
   "postcode": "IP28 7QY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "nature reserve",
+    "country park",
+    "garden"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "nature reserve",
+    "reconstructed village",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "play area",
+    "garden"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

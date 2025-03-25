@@ -113,5 +113,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Grand Parade, Eastbourne, East Sussex, England, BN21 3EG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sea views",
+    "beaches",
+    "architecture"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pier",
+    "art center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

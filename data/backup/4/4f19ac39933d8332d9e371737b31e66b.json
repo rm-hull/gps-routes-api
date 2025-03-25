@@ -76,5 +76,24 @@
   "display_address": "The Green, Snitterfield CP, Stratford-on-Avon, Warwickshire, England, CV37 0JF, United Kingdom",
   "postcode": "CV37 0JF",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -100,5 +100,28 @@
   "display_address": "B3304, Porthleven, Helston, Cornwall, England, TR13 0RA, United Kingdom",
   "postcode": "TR13 0RA",
   "district": "Helston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "lakeside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "tea rooms",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

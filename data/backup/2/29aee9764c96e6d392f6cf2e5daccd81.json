@@ -118,5 +118,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Aberporth, Ceredigion, Cymru / Wales, SA43 2HB, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "sea views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

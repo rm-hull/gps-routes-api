@@ -90,5 +90,27 @@
   "nominatim_found": true,
   "display_address": "A259, Cuckmere Valley, Exceat, Wealden, East Sussex, England, BN25 4AB, United Kingdom",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildflowers",
+    "butterflies"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "seafront"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -94,5 +94,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Trawsfynydd, Gwynedd, Cymru / Wales, LL41 4SN, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "roadside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "stone circle",
+    "mountains"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "bike hire"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -33,5 +33,26 @@
   "nominatim_found": true,
   "display_address": "The Square, Fairfield, Buxton, High Peak, Derbyshire, East Midlands, England, SK17 6BD, United Kingdom",
   "postcode": "SK17 6BD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

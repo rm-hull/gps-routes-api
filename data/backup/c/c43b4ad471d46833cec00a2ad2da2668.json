@@ -62,5 +62,25 @@
   "display_address": "Cherry Tree House, 1, Back Lane, Much Wenlock, Shropshire, England, TF13 6BU, United Kingdom",
   "postcode": "TF13 6BU",
   "district": "Much Wenlock",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

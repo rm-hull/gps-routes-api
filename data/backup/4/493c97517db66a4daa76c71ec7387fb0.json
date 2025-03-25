@@ -72,5 +72,24 @@
   "nominatim_found": true,
   "display_address": "Bond Street, Redruth, Cornwall, England, TR15 2QA, United Kingdom",
   "postcode": "TR15 2QA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "restaurant"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

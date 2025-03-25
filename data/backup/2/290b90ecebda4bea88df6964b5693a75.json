@@ -76,5 +76,26 @@
   "nominatim_found": true,
   "display_address": "Tuddenham Nurseries Coffee Shop, 3, High Street, Tuddenham, Suffolk, England, IP28 6SQ, United Kingdom",
   "postcode": "IP28 6SQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "heathland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "nature reserve",
+    "path"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -76,5 +76,25 @@
   "display_address": "Porthleven Road, Helston, Cornwall, England, TR13 8WN, United Kingdom",
   "postcode": "TR13 8WN",
   "district": "Helston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "harbour"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

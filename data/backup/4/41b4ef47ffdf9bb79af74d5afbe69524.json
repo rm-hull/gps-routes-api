@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "Leazes Lane, Wolsingham, County Durham, North East, England, DL13 3LX, United Kingdom",
   "district": "Wolsingham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "benches"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -70,5 +70,24 @@
   "display_address": "Kings How, Rosthwaite, Borrowdale, Cumberland, England, CA12 5XA, United Kingdom",
   "postcode": "CA12 5XA",
   "district": "Rosthwaite",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "10 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

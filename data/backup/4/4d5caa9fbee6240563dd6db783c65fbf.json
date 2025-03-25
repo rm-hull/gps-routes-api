@@ -65,5 +65,24 @@
   "display_address": "Waterstein Road, Upper Milovaig, Waterstein, Highland, Alba / Scotland, IV55 8WT, United Kingdom",
   "postcode": "IV55 8WT",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff tops"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

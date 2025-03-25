@@ -63,5 +63,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B5299, Upton, Caldbeck, Cumberland, England, CA7 8DT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "limestone gorge",
+    "cottages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "figure of eight",
+  "activity_type": [
+    "walking"
+  ]
 }

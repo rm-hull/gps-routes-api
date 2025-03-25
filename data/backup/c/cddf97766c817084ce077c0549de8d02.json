@@ -127,5 +127,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hammersley Hayes, Cheadle, Staffordshire Moorlands, Staffordshire, England, ST10 1DG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "village",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

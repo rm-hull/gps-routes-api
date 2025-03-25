@@ -93,5 +93,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ranscombe Lane, Glynde, Lewes, East Sussex, England, BN8 6ST, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalk downland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "historical buildings",
+    "golf course"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

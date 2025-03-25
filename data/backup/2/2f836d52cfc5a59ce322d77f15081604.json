@@ -93,5 +93,28 @@
   "display_address": "Saltergate, Whitby Road, Lockton, North Yorkshire, York and North Yorkshire, England, YO18 7NR, United Kingdom",
   "postcode": "YO18 7NR",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moor",
+    "ravines"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildflowers",
+    "meadows"
+  ],
+  "facilities": [
+    "car park",
+    "railway station",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

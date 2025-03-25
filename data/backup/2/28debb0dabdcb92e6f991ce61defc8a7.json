@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "Castle Dyke Street, Flint, Flintshire, Cymru / Wales, CH6 5PE, United Kingdom",
   "postcode": "CH6 5PE",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "walking paths",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -85,5 +85,26 @@
   "nominatim_found": true,
   "display_address": "Grass Croft, Longnewton, Stockton-on-Tees, Tees Valley, England, TS21 1BY, United Kingdom",
   "postcode": "TS21 1BY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "river footpath",
+    "nature reserves"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

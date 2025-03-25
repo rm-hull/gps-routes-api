@@ -68,5 +68,23 @@
   "display_address": "High Lane, Brownber, Newbiggin on Lune, Ravenstonedale, Westmorland and Furness, England, CA17 4NY, United Kingdom",
   "postcode": "CA17 4NY",
   "district": "Newbiggin on Lune",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -102,5 +102,24 @@
   "display_address": "Suffield Lane, Puttenham, Shackleford, Guildford, Surrey, England, GU3 1BG, United Kingdom",
   "postcode": "GU3 1BG",
   "district": "Guildford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

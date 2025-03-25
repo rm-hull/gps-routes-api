@@ -98,5 +98,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A3057, Stonymarsh, Michelmersh and Timsbury, Michelmersh, Test Valley, Hampshire, England, SO51 0LD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "lawn"
+  ],
+  "points_of_interest": [
+    "museum",
+    "rose garden",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

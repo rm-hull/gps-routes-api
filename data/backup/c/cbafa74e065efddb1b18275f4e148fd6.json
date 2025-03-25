@@ -98,5 +98,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cornish Fresh, B3276, Mawgan-in-Pydar, Newquay, Cornwall, England, TR8 4BA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations",
+    "wildflowers"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

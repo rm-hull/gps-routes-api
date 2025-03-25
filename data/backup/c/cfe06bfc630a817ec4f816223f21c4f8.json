@@ -103,5 +103,28 @@
   "display_address": "Blandford Road, Hound Hill, Pamphill, Dorset, England, BH21 4ED, United Kingdom",
   "postcode": "BH21 4ED",
   "district": "Pamphill",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "woodland",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

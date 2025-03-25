@@ -93,5 +93,29 @@
   "display_address": "Wellington Country Park, Benham Lane, Swallowfield, Riseley, Wokingham, England, RG7 1RY, United Kingdom",
   "postcode": "RG7 1RY",
   "district": "Riseley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife"
+  ],
+  "facilities": [
+    "picnic areas",
+    "BBQ areas",
+    "Animal Farm",
+    "Petting Barn",
+    "Miniature Golf",
+    "Miniature Railway",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

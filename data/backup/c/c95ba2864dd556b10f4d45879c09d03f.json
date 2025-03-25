@@ -93,5 +93,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "East Looe Harbour Walk, Plaidy, East Looe, Looe, Cornwall, England, PL13 1DX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "religious sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -120,5 +120,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Glenmore Visitor Centre Car Park, Cairngorm Road, Glenmore, Highland, Alba / Scotland, PH22 1QY, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "scenic views"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

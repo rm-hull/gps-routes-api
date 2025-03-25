@@ -153,5 +153,25 @@
   "nominatim_found": true,
   "display_address": "Chauntry Road, Alford, East Lindsey, Lincolnshire, England, LN13 9HJ, United Kingdom",
   "postcode": "LN13 9HJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "churches",
+    "windmill"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

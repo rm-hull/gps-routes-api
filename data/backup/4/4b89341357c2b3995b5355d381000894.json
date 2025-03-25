@@ -99,5 +99,27 @@
   "display_address": "Church Road, Highridge, Dundry, North Somerset, England, BS41 8LG, United Kingdom",
   "postcode": "BS41 8LG",
   "district": "Dundry",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "historic church",
+    "iron age hill fort",
+    "reservoirs"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "church",
+    "historic church"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

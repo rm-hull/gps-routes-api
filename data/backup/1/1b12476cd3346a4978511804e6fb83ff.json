@@ -42,5 +42,20 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Malting New House, Station Road, Mid Suffolk, Suffolk, England, IP30 9HD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "variable",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature trails"
+  ],
+  "facilities": [],
+  "route_type": "variable",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

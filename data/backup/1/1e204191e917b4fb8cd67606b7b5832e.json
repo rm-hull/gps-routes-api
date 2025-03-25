@@ -149,5 +149,26 @@
   "display_address": "Smithy Court, Scholes, Kirklees, West Yorkshire, England, BD19 6HD, United Kingdom",
   "postcode": "BD19 6HD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "reservoir",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "visitor center",
+    "canals"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

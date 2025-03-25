@@ -104,5 +104,27 @@
   "nominatim_found": true,
   "display_address": "18 Hole Mini Golf, Grove Avenue, Leysdown, Leysdown-on-Sea, Swale, Kent, England, ME12 4EA, United Kingdom",
   "postcode": "ME12 4EA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "historical sites",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -80,5 +80,24 @@
   "display_address": "Glanffrwd, B4403, Llanuwchllyn, Gwynedd, Cymru / Wales, LL23 7TL, United Kingdom",
   "postcode": "LL23 7TL",
   "district": "Llanuwchllyn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "mountain"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

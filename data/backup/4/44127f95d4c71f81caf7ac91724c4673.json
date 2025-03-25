@@ -80,5 +80,26 @@
   "display_address": "Reasty Hill, Silpho, Harwood Dale, North Yorkshire, York and North Yorkshire, England, YO13 0LE, United Kingdom",
   "postcode": "YO13 0LE",
   "district": "Harwood Dale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

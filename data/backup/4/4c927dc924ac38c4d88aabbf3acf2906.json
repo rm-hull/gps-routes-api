@@ -108,5 +108,28 @@
   "display_address": "Greenham Control Tower, Bury's Bank Road, Greenham, West Berkshire, England, RG19 8BZ, United Kingdom",
   "postcode": "RG19 8BZ",
   "district": "Greenham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "grasslands",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildflower areas",
+    "wildlife viewing",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

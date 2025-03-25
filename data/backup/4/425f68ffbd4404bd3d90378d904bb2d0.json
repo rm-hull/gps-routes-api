@@ -68,5 +68,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Croft, North Lonsdale Road, Roger Ground, Hawkshead, Westmorland and Furness, England, LA22 0QS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "tarns",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

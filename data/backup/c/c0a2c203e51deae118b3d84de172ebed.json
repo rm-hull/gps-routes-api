@@ -63,5 +63,26 @@
   "nominatim_found": true,
   "display_address": "The Quay, St. Just-in-Roseland, Bohortha, St. Mawes, Cornwall, England, TR2 5DG, United Kingdom",
   "postcode": "TR2 5DG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "countryside"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "beach kitchen",
+    "ferry"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

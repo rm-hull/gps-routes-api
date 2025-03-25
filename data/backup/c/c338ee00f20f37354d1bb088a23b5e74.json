@@ -114,5 +114,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ledbury Methodist Church & Meeting Cntre, 4A, Bye Street, Ledbury, Herefordshire, England, HR8 2AA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "railway station"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

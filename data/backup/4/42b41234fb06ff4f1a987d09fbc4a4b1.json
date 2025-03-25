@@ -85,5 +85,27 @@
   "display_address": "Causey Road, Causey Bridge End Farm, Stanley, County Durham, North East, England, DH9 0RP, United Kingdom",
   "postcode": "DH9 0RP",
   "district": "Stanley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "geology",
+    "views",
+    "historical transport"
+  ],
+  "facilities": [
+    "car park",
+    "tea room",
+    "railway station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

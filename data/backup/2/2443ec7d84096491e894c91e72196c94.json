@@ -76,5 +76,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Denbigh Town Hall, Crown Square, Smithfield, Denbigh, Denbighshire, Cymru / Wales, LL16 3TB, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "historical",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

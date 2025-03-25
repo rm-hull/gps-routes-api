@@ -85,5 +85,25 @@
   "nominatim_found": true,
   "display_address": "Coronation Road, Ilkeston, Erewash, Derbyshire, East Midlands, England, DE7 5TT, United Kingdom",
   "postcode": "DE7 5TT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

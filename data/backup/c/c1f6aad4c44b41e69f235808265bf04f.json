@@ -93,5 +93,29 @@
   "display_address": "Thoresby Courtyard, Perlethorpe cum Budby CP, Perlethorpe, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG22 9WH, United Kingdom",
   "postcode": "NG22 9WH",
   "district": "Newark and Sherwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "museum",
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible",
+    "electric bike hire"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

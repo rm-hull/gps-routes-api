@@ -129,5 +129,21 @@
   "nominatim_found": true,
   "display_address": "Horsham, Station Road, Roffey, Oakhill, Horsham, West Sussex, England, RH13 5RB, United Kingdom",
   "postcode": "RH13 5RB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "full day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "villages",
+    "gardens"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

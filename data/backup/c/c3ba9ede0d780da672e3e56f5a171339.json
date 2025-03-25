@@ -103,5 +103,29 @@
   "display_address": "Sheepwash Lane, Westleton, East Suffolk, Suffolk, England, IP17 3BY, United Kingdom",
   "postcode": "IP17 3BY",
   "district": "East Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "coastal",
+    "shingle",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "wildlife viewing",
+    "coastal views"
+  ],
+  "facilities": [
+    "footpaths",
+    "National Trust"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

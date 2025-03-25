@@ -76,5 +76,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Corner Cottage, Bessels Lea, Blewbury, Vale of White Horse, Oxfordshire, England, OX11 9NW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Wharf Road, Wherrytown, Gulval, Penzance, Cornwall, England, TR18 2GB, United Kingdom",
   "postcode": "TR18 2GB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "local highlights",
+    "gardens",
+    "harbour",
+    "art gallery"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

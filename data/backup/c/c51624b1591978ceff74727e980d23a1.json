@@ -103,5 +103,26 @@
   "display_address": "Woodland Car Park, Gipsy Lane, Little Irchester, Irchester, North Northamptonshire, England, NN29 7DL, United Kingdom",
   "postcode": "NN29 7DL",
   "district": "Little Irchester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "water"
+  ],
+  "points_of_interest": [
+    "museum",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

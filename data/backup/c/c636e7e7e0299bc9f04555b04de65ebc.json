@@ -94,5 +94,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Chyandour Cliff, Wherrytown, Gulval, Penzance, Cornwall, England, TR18 3LG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical monument",
+    "hillfort",
+    "beach",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "train station",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -103,5 +103,23 @@
   "display_address": "National Trust Waggoner's Wells Car Park, Waggoners Wells Lane, Bramshott and Liphook, East Hampshire, Hampshire, England, GU26 6DT, United Kingdom",
   "postcode": "GU26 6DT",
   "district": "East Hampshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "memorial statue"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

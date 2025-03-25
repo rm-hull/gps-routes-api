@@ -103,5 +103,26 @@
   "nominatim_found": true,
   "display_address": "Great Wood Car Park, The Ridgeway, Northaw and Cuffley, Northaw, Welwyn Hatfield, Hertfordshire, England, EN6 4BD, United Kingdom",
   "district": "Welwyn Hatfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "sculpture trail"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

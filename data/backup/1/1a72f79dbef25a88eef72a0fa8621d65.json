@@ -88,5 +88,24 @@
   "nominatim_found": true,
   "display_address": "Seal Sands Road, Cowpen Bewley, Billingham, Stockton-on-Tees, Tees Valley, England, TS23 3LT, United Kingdom",
   "postcode": "TS23 3LT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

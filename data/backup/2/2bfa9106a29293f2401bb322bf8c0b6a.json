@@ -143,5 +143,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bure Vally Way Car Park, Bure Valley Path, Great Hautbois, Coltishall, Broadland, Norfolk, England, NR12 7HR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "path"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "riverside paths"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

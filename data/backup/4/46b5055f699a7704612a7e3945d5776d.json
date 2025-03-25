@@ -80,5 +80,27 @@
   "nominatim_found": true,
   "display_address": "Fourteen Locks, Cwm Lane, Cefn, Rogerstone, Newport, Gwent, Cymru / Wales, NP10 9GN, United Kingdom",
   "postcode": "NP10 9GN",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "tea room",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -129,5 +129,23 @@
   "nominatim_found": true,
   "display_address": "York Minster, Minster Yard, The Groves, Bishophill, York, York and North Yorkshire, England, YO1 7HH, United Kingdom",
   "postcode": "YO1 7HH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

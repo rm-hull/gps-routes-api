@@ -119,5 +119,35 @@
   "county": "Surrey",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "scientific interest",
+    "folklore"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "shops",
+    "blacksmith",
+    "trekking shop",
+    "tea house",
+    "art gallery",
+    "church",
+    "car park",
+    "waterfront"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

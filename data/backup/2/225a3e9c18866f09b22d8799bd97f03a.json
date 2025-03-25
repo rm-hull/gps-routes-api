@@ -130,5 +130,29 @@
   "nominatim_found": true,
   "display_address": "Station Approach, Temple Quarter, Redcliffe, Bristol, City of Bristol, West of England, England, BS1 6QQ, United Kingdom",
   "postcode": "BS1 6QQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "bridges",
+    "cathedrals",
+    "towers"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "ferry"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

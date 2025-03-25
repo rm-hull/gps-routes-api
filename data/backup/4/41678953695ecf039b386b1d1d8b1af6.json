@@ -82,5 +82,23 @@
   "nominatim_found": true,
   "display_address": "Cow Bridge car park, A592, Hartsop, Patterdale, Westmorland and Furness, England, CA11 0NZ, United Kingdom",
   "postcode": "CA11 0NZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "water"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "water features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

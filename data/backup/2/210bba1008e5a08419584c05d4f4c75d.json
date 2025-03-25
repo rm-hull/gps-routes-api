@@ -75,5 +75,23 @@
   "nominatim_found": true,
   "display_address": "Temperance Brae, Shieldaig, Highland, Alba / Scotland, IV54 8XW, United Kingdom",
   "postcode": "IV54 8XW",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "trig point"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

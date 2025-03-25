@@ -120,5 +120,27 @@
   "county": "County Leitrim",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "parkland",
+    "garden",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "hotel"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

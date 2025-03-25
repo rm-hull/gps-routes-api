@@ -69,5 +69,27 @@
   "display_address": "West Street, Great Wishford, Wiltshire, England, SP2 0PH, United Kingdom",
   "postcode": "SP2 0PH",
   "district": "Great Wishford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "countryside views",
+    "woodland trails",
+    "historic footpath"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

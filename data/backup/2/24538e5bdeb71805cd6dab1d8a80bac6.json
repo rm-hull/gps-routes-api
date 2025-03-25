@@ -103,5 +103,27 @@
   "display_address": "Cricket Hill Lane, Yateley, Hart, Hampshire, England, GU46 6BB, United Kingdom",
   "postcode": "GU46 6BB",
   "district": "Hart",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "woodland trails",
+    "lake",
+    "animal park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

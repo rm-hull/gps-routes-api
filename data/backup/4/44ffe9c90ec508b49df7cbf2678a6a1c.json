@@ -103,5 +103,23 @@
   "display_address": "Vaynor, Pontsticill, Merthyr Tydfil, Cymru / Wales, CF48 2UP, United Kingdom",
   "postcode": "CF48 2UP",
   "district": "Pontsticill",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

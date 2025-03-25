@@ -58,5 +58,21 @@
   "nominatim_found": true,
   "display_address": "The Pheasant, 59, Station Lane, Bradfield, Oughtibridge, Sheffield, South Yorkshire, England, S35 0HS, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "woodland trails"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

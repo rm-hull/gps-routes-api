@@ -98,5 +98,25 @@
   "nominatim_found": true,
   "display_address": "Otford Railway Station, Station Road, Otford, Sevenoaks, Kent, England, TN14 5RA, United Kingdom",
   "postcode": "TN14 5RA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

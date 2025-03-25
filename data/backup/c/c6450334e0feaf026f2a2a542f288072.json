@@ -70,5 +70,23 @@
   "display_address": "Napton Reservoir, Napton Junction Bridge, Napton on the Hill CP, Stratford-on-Avon, Warwickshire, England, CV47 8NL, United Kingdom",
   "postcode": "CV47 8NL",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "canal"
+  ],
+  "points_of_interest": [
+    "waterfront views",
+    "canal"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

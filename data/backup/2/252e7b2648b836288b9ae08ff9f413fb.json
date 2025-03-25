@@ -95,5 +95,30 @@
   "display_address": "New Road, Lowther, Askham, Westmorland and Furness, England, CA10 2PD, United Kingdom",
   "postcode": "CA10 2PD",
   "district": "Askham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "shop",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

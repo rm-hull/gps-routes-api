@@ -87,5 +87,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Royal Mail, Reeth Road, Richmond, North Yorkshire, York and North Yorkshire, England, DL10 4EH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical monument",
+    "countryside views",
+    "cottages",
+    "church",
+    "historic hall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

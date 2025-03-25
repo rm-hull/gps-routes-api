@@ -79,5 +79,23 @@
   "display_address": "Kirkland, Culgaith, Blencarn, Westmorland and Furness, England, CA10 1RN, United Kingdom",
   "postcode": "CA10 1RN",
   "district": "Blencarn",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -164,5 +164,25 @@
   "display_address": "2, Red Bridge Lane, Silverdale, Lancaster, Lancashire, England, LA5 0SP, United Kingdom",
   "postcode": "LA5 0SP",
   "district": "Lancaster",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -100,5 +100,24 @@
   "display_address": "Welcome to Knettishall Heath Nature Reserve, Spalding's Chair Hill, West Suffolk, Suffolk, England, IP24 2SH, United Kingdom",
   "postcode": "IP24 2SH",
   "district": "West Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

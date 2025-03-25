@@ -74,5 +74,30 @@
   "nominatim_found": true,
   "display_address": "Tilberthwaite Road, High Tilberthwaite Farm, Coniston, Westmorland and Furness, England, LA21 8DG, United Kingdom",
   "district": "Coniston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "path",
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "tarn",
+    "river",
+    "cave system",
+    "village",
+    "fells"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "garden",
+    "bridge"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -55,5 +55,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hermitage of Braid, Hermitage Drive, Braid Hills, City of Edinburgh, Alba / Scotland, EH10 6BZ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hillside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

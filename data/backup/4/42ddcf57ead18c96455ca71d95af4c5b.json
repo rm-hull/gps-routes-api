@@ -118,5 +118,29 @@
   "display_address": "Promenade Way, Brightlingsea, Tendring, Essex, England, CO7 0HH, United Kingdom",
   "postcode": "CO7 0HH",
   "district": "Brightlingsea",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "countryside",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water wildlife",
+    "birdlife",
+    "marsh"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "visitor center",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

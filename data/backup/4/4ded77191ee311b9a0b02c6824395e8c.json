@@ -122,5 +122,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stephenson Terrace, Wylam, Northumberland, North East, England, NE41 8DZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "archaeological sites",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

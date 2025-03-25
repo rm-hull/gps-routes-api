@@ -95,5 +95,30 @@
   "nominatim_found": true,
   "display_address": "Dumbarton Road, Auchentorlie House, Bowling, West Dunbartonshire, Alba / Scotland, G60 5BL, United Kingdom",
   "postcode": "G60 5BL",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "countryside",
+    "nature reserves",
+    "country parks",
+    "rivers",
+    "aqueducts"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

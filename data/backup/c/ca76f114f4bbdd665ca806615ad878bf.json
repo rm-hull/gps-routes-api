@@ -69,5 +69,25 @@
   "nominatim_found": true,
   "display_address": "Gore Road, Darenth, Dartford, Kent, England, DA2 6JX, United Kingdom",
   "district": "Dartford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "picnic areas"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

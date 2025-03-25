@@ -94,5 +94,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Guided Busway bridleway, Chesterton, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB4 1TG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved"
+  ],
+  "points_of_interest": [
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

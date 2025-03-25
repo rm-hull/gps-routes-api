@@ -123,5 +123,24 @@
   "display_address": "Haslingden Grane, Rossendale, Lancashire, England, BB4 4AU, United Kingdom",
   "postcode": "BB4 4AU",
   "district": "Rossendale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

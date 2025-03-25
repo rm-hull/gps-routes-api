@@ -90,5 +90,24 @@
   "nominatim_found": true,
   "display_address": "Hestercombe Gardens, Taunton, Somerset, England, TA2 8LG, United Kingdom",
   "district": "Taunton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

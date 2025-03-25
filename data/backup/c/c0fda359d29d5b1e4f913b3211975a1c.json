@@ -76,5 +76,24 @@
   "nominatim_found": true,
   "display_address": "Bishop's Lane, Northbrook, Bishop's Waltham, Winchester, Hampshire, England, SO32 1DP, United Kingdom",
   "postcode": "SO32 1DP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -70,5 +70,28 @@
   "display_address": "Cloch Road, Inverclyde, Alba / Scotland, PA19 1BB, United Kingdom",
   "postcode": "PA19 1BB",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "beach",
+    "grassland",
+    "water"
+  ],
+  "points_of_interest": [
+    "picnic areas",
+    "visitor center",
+    "nature trails"
+  ],
+  "facilities": [
+    "picnic benches",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -68,5 +68,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Charles Briggs Avenue, Howden, East Riding of Yorkshire, England, DN14 7GQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "riverside",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

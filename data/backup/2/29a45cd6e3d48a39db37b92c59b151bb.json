@@ -78,5 +78,25 @@
   "nominatim_found": true,
   "display_address": "Front Street, Priory Farm, Grosmont, North Yorkshire, York and North Yorkshire, England, YO22 5QF, United Kingdom",
   "postcode": "YO22 5QF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

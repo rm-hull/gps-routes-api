@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "Heol Llangeinor, Garw Valley, Brynmenyn, Bridgend, Cymru / Wales, CF32 8YA, United Kingdom",
   "district": "Brynmenyn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "playground"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "hiking"
+  ]
 }

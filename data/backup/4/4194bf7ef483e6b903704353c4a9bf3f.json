@@ -89,5 +89,23 @@
   "county": "Argyll and Bute",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "lochside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "fishing communities"
+  ],
+  "facilities": [
+    "waymarked"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

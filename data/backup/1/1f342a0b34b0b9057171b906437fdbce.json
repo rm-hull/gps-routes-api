@@ -130,5 +130,25 @@
   "nominatim_found": true,
   "display_address": "6, Castleton Road, Castleton, High Peak, Derbyshire, East Midlands, England, S33 8WW, United Kingdom",
   "postcode": "S33 8WW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "waterway",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

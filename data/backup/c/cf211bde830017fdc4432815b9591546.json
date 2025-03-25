@@ -108,5 +108,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Tintern Abbey, A466, Chapel Hill, Wye Valley, Tintern, Monmouthshire, Cymru / Wales, NP16 6TE, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

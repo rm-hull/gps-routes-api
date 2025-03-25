@@ -118,5 +118,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Blackburn Old Road, Riley Green, Hoghton, Chorley, Lancashire, England, PR5 0SJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "river trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

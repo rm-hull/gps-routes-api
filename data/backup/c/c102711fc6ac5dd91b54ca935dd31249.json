@@ -115,5 +115,26 @@
   "nominatim_found": true,
   "display_address": "Hirsel Drive, Lees Stables, Coldstream, Scottish Borders, Alba / Scotland, TD12 4LQ, United Kingdom",
   "district": "Coldstream",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "waterfall",
+    "countryside views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

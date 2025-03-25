@@ -72,5 +72,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Santander, Barras Street, Liskeard, Cornwall, England, PL14 6AL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "cultural sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

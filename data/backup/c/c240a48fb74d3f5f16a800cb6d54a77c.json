@@ -63,5 +63,28 @@
   "nominatim_found": true,
   "display_address": "Links Road, Crofton, Newsham, Blyth, Northumberland, North East, England, NE24 3UD, United Kingdom",
   "postcode": "NE24 3UD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

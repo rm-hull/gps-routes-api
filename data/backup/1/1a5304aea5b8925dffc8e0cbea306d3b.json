@@ -99,5 +99,23 @@
   "nominatim_found": true,
   "display_address": "Ogdens, Hyde, Frogham, New Forest, Hampshire, England, SP6 2PY, United Kingdom",
   "postcode": "SP6 2PY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "countryside",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

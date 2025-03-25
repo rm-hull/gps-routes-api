@@ -105,5 +105,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pebbleridge Road, Northam, Westward Ho!, Torridge, Devon, England, EX39 1HN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "coastal",
+    "sand dunes"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural beauty"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "coast path"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

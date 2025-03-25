@@ -124,5 +124,27 @@
   "nominatim_found": true,
   "display_address": "Kings Cliffe Railway Path, King's Cliffe, North Northamptonshire, England, PE8 6WZ, United Kingdom",
   "postcode": "PE8 6WZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "village",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

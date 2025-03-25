@@ -95,5 +95,27 @@
   "nominatim_found": true,
   "display_address": "Dungeness Road, Lade, Lydd, Lydd-on-Sea, Folkestone and Hythe, Kent, England, TN29 9PN, United Kingdom",
   "district": "Folkestone and Hythe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife watching",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

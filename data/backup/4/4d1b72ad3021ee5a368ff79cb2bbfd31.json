@@ -67,5 +67,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bro Arthur, Dyffryn Ardudwy, Gwynedd, Cymru / Wales, LL44 2EW, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "nature reserve",
+    "mountain views"
+  ],
+  "facilities": [
+    "car park",
+    "paths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

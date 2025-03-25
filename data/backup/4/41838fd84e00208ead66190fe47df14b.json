@@ -72,5 +72,22 @@
   "nominatim_found": true,
   "display_address": "B4350, Glasbury, Powys, Cymru / Wales, HR3 5LL, United Kingdom",
   "postcode": "HR3 5LL",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "countryside views"
+  ],
+  "facilities": [
+    "waymarked footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

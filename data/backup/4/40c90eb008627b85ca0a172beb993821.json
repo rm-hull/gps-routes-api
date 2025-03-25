@@ -94,5 +94,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pier Head, Exmouth, East Devon, Devon, England, EX8 1XA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beach",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

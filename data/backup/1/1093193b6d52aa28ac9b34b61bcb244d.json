@@ -113,5 +113,27 @@
   "nominatim_found": true,
   "display_address": "Creswell Crags Visitor Centre, Crags Road, Hodthorpe and Belph, Creswell, Bolsover, Derbyshire, East Midlands, England, S80 4AG, United Kingdom",
   "district": "Bolsover",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "geological features",
+    "cave art"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

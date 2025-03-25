@@ -125,5 +125,24 @@
   "display_address": "Stagsike Trail, Midgeholme, Hallbankgate, Cumberland, England, CA8 2PL, United Kingdom",
   "postcode": "CA8 2PL",
   "district": "Hallbankgate",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -42,5 +42,23 @@
   "nominatim_found": true,
   "display_address": "West End Drive, Ilkeston, Erewash, Derbyshire, East Midlands, England, DE7 5HS, United Kingdom",
   "postcode": "DE7 5HS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

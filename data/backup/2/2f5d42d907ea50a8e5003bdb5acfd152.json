@@ -109,5 +109,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bayswell Park, Belhaven, Dunbar, East Lothian, Alba / Scotland, EH42 1AE, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "views",
+    "hill fort",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "historical sites"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

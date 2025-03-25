@@ -67,5 +67,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Scoff's Original, Boutport Street, Fort Hill, Barnstaple, North Devon, Devon, England, EX31 1HG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "paved",
+    "riverbank",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "mosaic",
+    "library",
+    "bridges"
+  ],
+  "facilities": [
+    "car park",
+    "footbridge"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

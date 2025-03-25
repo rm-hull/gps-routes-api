@@ -76,5 +76,25 @@
   "display_address": "Ashcombe CP, B3223, Simonsbath, Exmoor, Simonsbath, Somerset, England, TA24 7JS, United Kingdom",
   "postcode": "TA24 7JS",
   "district": "Simonsbath",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "moor"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

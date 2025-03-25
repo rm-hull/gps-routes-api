@@ -72,5 +72,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bedford Avenue, Little Chalfont, Amersham and Villages Community Board, Latimer, Buckinghamshire, England, HP6 6PT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature park",
+    "wild flower meadow",
+    "woodlands"
+  ],
+  "facilities": [
+    "visitor center",
+    "information boards",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

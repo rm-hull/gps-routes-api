@@ -89,5 +89,30 @@
   "display_address": "Perry Lane, Nash, Newport, Cymru / Wales, NP18 2BZ, United Kingdom",
   "postcode": "NP18 2BZ",
   "district": "Newport",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "reedbeds",
+    "estuary"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "ponds",
+    "flower displays"
+  ],
+  "facilities": [
+    "visitor center",
+    "picnic areas",
+    "play areas",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

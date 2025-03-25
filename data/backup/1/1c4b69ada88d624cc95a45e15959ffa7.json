@@ -84,5 +84,26 @@
   "display_address": "Harmby Grange Farm, Harmby, North Yorkshire, York and North Yorkshire, England, DL8 5QE, United Kingdom",
   "postcode": "DL8 5QE",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural features",
+    "village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

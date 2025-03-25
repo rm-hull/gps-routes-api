@@ -64,5 +64,23 @@
   "nominatim_found": true,
   "display_address": "The Grange Hayes Farm, Abthorpe, West Northamptonshire, England, NN12 8XB, United Kingdom",
   "district": "Abthorpe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

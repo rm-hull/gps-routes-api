@@ -75,5 +75,29 @@
   "postcode": "WF10 2BH",
   "district": "Castleford",
   "county": "North Yorkshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "historical sites",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

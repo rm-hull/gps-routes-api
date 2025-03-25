@@ -108,5 +108,23 @@
   "nominatim_found": true,
   "display_address": "Garswood Old Road, Seneley Green, Carr Mill, St Helens, Liverpool City Region, England, WA11 7NA, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature observation"
+  ],
+  "facilities": [
+    "car park",
+    "information boards"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

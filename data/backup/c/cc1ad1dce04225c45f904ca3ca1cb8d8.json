@@ -123,5 +123,26 @@
   "display_address": "Lumb Carr Road, Nuttall, Holcombe, Bury, Greater Manchester, England, BL0 9QG, United Kingdom",
   "district": "Bury",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical landmarks",
+    "scenic views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

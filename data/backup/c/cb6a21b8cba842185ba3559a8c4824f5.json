@@ -72,5 +72,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Green Lane, Coal Aston, Dronfield, North East Derbyshire, Derbyshire, East Midlands, England, S18 2FJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "waymarking"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

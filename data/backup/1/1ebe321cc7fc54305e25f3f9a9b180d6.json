@@ -78,5 +78,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Asher Lane, Ruddington, Rushcliffe, Nottinghamshire, East Midlands, England, NG11 6RW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "conservation areas",
+    "landscaped areas"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

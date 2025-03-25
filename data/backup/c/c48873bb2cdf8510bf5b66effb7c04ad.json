@@ -94,5 +94,27 @@
   "display_address": "Shooter's Clough Bridge, Hartington Upper Quarter, High Peak, Derbyshire, East Midlands, England, SK17 6GJ, United Kingdom",
   "postcode": "SK17 6GJ",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "ridge"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "cemetery"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

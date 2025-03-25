@@ -94,5 +94,29 @@
   "nominatim_found": true,
   "display_address": "RockinRolls, 1A, Lorne Road, Waterloo, Crosby, Liverpool, Liverpool City Region, England, L22 0NH, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "beach"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "nature reserve",
+    "golf course",
+    "wetland"
+  ],
+  "facilities": [
+    "visitor center",
+    "bird hides",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

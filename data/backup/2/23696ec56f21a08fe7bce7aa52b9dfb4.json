@@ -65,5 +65,24 @@
   "nominatim_found": true,
   "display_address": "C7K, Clattering Bridge, Auchenblae, Aberdeenshire, Alba / Scotland, AB30 1TP, United Kingdom",
   "district": "Auchenblae",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

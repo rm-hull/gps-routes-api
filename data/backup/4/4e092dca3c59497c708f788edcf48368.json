@@ -113,5 +113,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Madgetts Walk, Diss, South Norfolk, Norfolk, England, IP22 4WT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 miles",
+  "difficulty": "easy",
+  "terrain": [
+    "footpaths",
+    "country lanes",
+    "sand"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

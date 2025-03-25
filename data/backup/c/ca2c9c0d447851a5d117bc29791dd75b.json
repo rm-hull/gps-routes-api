@@ -53,5 +53,24 @@
   "nominatim_found": true,
   "display_address": "Church Lane, Hampsthwaite Head, Hampsthwaite, North Yorkshire, York and North Yorkshire, England, HG3 2HB, United Kingdom",
   "postcode": "HG3 2HB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -103,5 +103,25 @@
   "display_address": "Corndean Lane, Winchcombe, Sudeley, Tewkesbury, Gloucestershire, England, GL54 5AL, United Kingdom",
   "postcode": "GL54 5AL",
   "district": "Tewkesbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

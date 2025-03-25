@@ -164,5 +164,25 @@
   "county": null,
   "region": "Greater London",
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "park",
+    "open space"
+  ],
+  "points_of_interest": [
+    "parks",
+    "common land",
+    "country park"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

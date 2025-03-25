@@ -159,5 +159,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Wharf Street, Howley, Warrington, England, WA1 2HG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "parks",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

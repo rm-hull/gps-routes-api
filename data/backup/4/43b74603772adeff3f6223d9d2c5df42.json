@@ -85,5 +85,30 @@
   "display_address": "Forhill Picnic Place, Clewshaw lane, Wythall CP, Bromsgrove, Worcestershire, England, B38 0EJ, United Kingdom",
   "postcode": "B38 0EJ",
   "district": "Bromsgrove",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical villages",
+    "museum",
+    "manor house",
+    "castle",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

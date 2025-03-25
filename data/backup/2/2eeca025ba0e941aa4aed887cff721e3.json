@@ -119,5 +119,26 @@
   "nominatim_found": true,
   "display_address": "Low Sleights Road, Ribblehead, Ingleton, North Yorkshire, York and North Yorkshire, England, LA6 3AS, United Kingdom",
   "postcode": "LA6 3AS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

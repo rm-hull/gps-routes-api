@@ -113,5 +113,27 @@
   "display_address": "Sandy Lane, Southill, Central Bedfordshire, England, SG17 5QB, United Kingdom",
   "postcode": "SG17 5QB",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "walking trails",
+    "cycling trails",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "picnic areas",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

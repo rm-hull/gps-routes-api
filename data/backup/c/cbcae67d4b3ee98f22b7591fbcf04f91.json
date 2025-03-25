@@ -71,5 +71,27 @@
   "display_address": "Beckfoot Bridge, Beckfoot, Eskdale, Boot, Cumberland, England, CA19 1TF, United Kingdom",
   "postcode": "CA19 1TF",
   "district": "Boot",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    " Lakeland scenery",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "train station",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

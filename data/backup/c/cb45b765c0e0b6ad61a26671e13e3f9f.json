@@ -103,5 +103,26 @@
   "nominatim_found": true,
   "display_address": "Brundleholm Cottage, Victoria Street, Keswick, Cumberland, England, CA12 5LP, United Kingdom",
   "postcode": "CA12 5LP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "summit"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

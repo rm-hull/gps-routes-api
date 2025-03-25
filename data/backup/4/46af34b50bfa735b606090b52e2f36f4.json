@@ -60,5 +60,19 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Randwick Woods Singletrack, Standish, Randwick, Stroud, Gloucestershire, England, GL6 6JX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

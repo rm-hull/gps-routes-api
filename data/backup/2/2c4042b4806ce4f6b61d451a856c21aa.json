@@ -113,5 +113,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hellesdon Road, North Earlham, Norwich, Norfolk, England, NR6 5ES, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "water meadow"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "walking trails"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -79,5 +79,25 @@
   "display_address": "Falls of Cruachan, A85, Lochawe, Argyll and Bute, Alba / Scotland, PA33 1AN, United Kingdom",
   "postcode": "PA33 1AN",
   "district": "Lochawe",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "watercourse"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

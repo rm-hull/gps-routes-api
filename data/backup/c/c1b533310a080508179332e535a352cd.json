@@ -118,5 +118,31 @@
   "display_address": "Llandegla, Denbighshire, Cymru / Wales, LL11 3AA, United Kingdom",
   "postcode": "LL11 3AA",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "wooded",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "bird hides",
+    "historical path"
+  ],
+  "facilities": [
+    "visitor center",
+    "bike hire",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

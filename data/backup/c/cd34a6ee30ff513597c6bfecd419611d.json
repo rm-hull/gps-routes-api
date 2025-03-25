@@ -90,5 +90,25 @@
   "display_address": "Sanatorium Road, Cranham, Stroud, Gloucestershire, England, GL4 8HU, United Kingdom",
   "postcode": "GL4 8HU",
   "district": "Stroud",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

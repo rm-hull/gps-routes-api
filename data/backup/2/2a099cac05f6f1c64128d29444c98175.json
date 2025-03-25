@@ -124,5 +124,26 @@
   "nominatim_found": true,
   "display_address": "Lower Street, Haslemere, Shottermill, Waverley, Surrey, England, GU27 2PD, United Kingdom",
   "postcode": "GU27 2PD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "meadows",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

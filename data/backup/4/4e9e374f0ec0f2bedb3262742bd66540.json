@@ -68,5 +68,27 @@
   "display_address": "The Tiltyard, Castle Green, Kenilworth, Warwick, Warwickshire, England, CV8 1NG, United Kingdom",
   "postcode": "CV8 1NG",
   "district": "Kenilworth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "parkland",
+    "historical",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "lake",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "museum",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

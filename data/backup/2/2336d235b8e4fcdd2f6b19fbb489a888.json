@@ -64,5 +64,23 @@
   "nominatim_found": true,
   "display_address": "Manchester Road, Clow Bridge, Dunnockshaw, Burnley, Lancashire, England, BB11 5PF, United Kingdom",
   "district": "Burnley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

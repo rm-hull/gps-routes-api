@@ -107,5 +107,25 @@
   "nominatim_found": true,
   "display_address": "Feizor Old Hall, Kiln Hill Lane, Feizor, Austwick, Lawkland, North Yorkshire, York and North Yorkshire, England, LA2 8DF, United Kingdom",
   "postcode": "LA2 8DF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "tea room",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

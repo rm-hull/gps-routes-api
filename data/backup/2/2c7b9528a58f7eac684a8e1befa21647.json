@@ -70,5 +70,23 @@
   "display_address": "Egghill Lane, Frankley CP, Frankley, Bromsgrove, Worcestershire, West Midlands, England, B45 0AU, United Kingdom",
   "postcode": "B45 0AU",
   "district": "Bromsgrove",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

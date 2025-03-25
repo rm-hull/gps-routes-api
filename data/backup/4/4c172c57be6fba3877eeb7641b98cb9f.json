@@ -68,5 +68,24 @@
   "display_address": "Shapwick Road, Meare, Westhay, Somerset, England, BA6 9TT, United Kingdom",
   "postcode": "BA6 9TT",
   "district": "Westhay",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

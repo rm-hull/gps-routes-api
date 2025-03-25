@@ -100,5 +100,25 @@
   "nominatim_found": true,
   "display_address": "Bush Lane, Kent's Green, Powick, Callow End, Malvern Hills, Worcestershire, England, WR2 4TQ, United Kingdom",
   "district": "Malvern Hills",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

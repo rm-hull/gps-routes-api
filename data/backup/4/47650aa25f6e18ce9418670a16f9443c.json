@@ -93,5 +93,26 @@
   "display_address": "Aldersley Road, Claregate, Stockwell End, Wolverhampton, West Midlands, England, WV6 9NN, United Kingdom",
   "postcode": "WV6 9NN",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

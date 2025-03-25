@@ -99,5 +99,28 @@
   "nominatim_found": true,
   "display_address": "Station Road, Lawford, Tendring, Essex, England, CO11 2LE, United Kingdom",
   "postcode": "CO11 2LE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "wooded",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "stately home",
+    "village"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

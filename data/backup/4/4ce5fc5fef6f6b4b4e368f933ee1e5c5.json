@@ -53,5 +53,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sutton Valence Primary School, North Street, Sutton Valence, Maidstone, Kent, England, ME17 3HT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "historic site",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "gardens",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

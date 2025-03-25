@@ -105,5 +105,27 @@
   "nominatim_found": true,
   "display_address": "Hardwick Hall, Stableyard Footpath, Ault Hucknall, Doe Lea, Chesterfield, Derbyshire, East Midlands, England, S44 5QJ, United Kingdom",
   "district": "Chesterfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "historical buildings",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

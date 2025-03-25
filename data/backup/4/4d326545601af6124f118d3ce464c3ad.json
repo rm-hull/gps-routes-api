@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Nelson Square, Rose Hill, Burnley, Lancashire, England, BB11 1LA, United Kingdom",
   "postcode": "BB11 1LA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "reservoir"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

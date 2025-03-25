@@ -89,5 +89,25 @@
   "nominatim_found": true,
   "display_address": "Davis McMullan, 84-86, High Street, Dukesfield, Higher Runcorn, Runcorn, Halton, Liverpool City Region, England, WA7 1JF, United Kingdom",
   "postcode": "WA7 1JF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "parks",
+    "historic canals"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

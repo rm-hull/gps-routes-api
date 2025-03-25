@@ -43,5 +43,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Clenshaw Path, Lee Chapel, Basildon, Essex, England, SS14 2FW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "trails",
+    "lake",
+    "footpaths"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

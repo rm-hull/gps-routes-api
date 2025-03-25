@@ -98,5 +98,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Street, Branscombe, East Devon, Devon, England, EX12 3AU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-6 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "chalk cliffs"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "UNESCO World Heritage Site",
+    "wooded habitat",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "forge",
+    "tea room",
+    "beach",
+    "shingle beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

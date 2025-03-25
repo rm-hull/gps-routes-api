@@ -113,5 +113,28 @@
   "display_address": "Glan-y-Bala Tunnel, Llanddeiniolen, Llanberis, Gwynedd, Cymru / Wales, LL55 4TY, United Kingdom",
   "postcode": "LL55 4TY",
   "district": "Llanberis",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfall"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -100,5 +100,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ridley Hall, A69, Thorngrafton, Bardon Mill, Northumberland, North East, England, NE47 7BW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

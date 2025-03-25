@@ -98,5 +98,26 @@
   "display_address": "B3357, Peter's Cottage, Widecombe-in-the-Moor, Teignbridge, Devon, England, PL20 6SG, United Kingdom",
   "postcode": "PL20 6SG",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical bridges",
+    "viewpoints",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

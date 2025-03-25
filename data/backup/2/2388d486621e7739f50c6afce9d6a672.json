@@ -58,5 +58,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sledmere House, B1253, Driffield, East Riding of Yorkshire, England, YO25 3XG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "gardens"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculptures",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

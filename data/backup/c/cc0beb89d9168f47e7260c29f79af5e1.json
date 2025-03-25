@@ -124,5 +124,28 @@
   "nominatim_found": true,
   "display_address": "Gradbach Mill Lane, Quarnford, Staffordshire Moorlands, Staffordshire, England, SK17 0SU, United Kingdom",
   "district": "Staffordshire Moorlands",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "rock formations",
+    "viewpoints",
+    "counties meeting point"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "packhorse bridge"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

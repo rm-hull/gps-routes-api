@@ -80,5 +80,25 @@
   "nominatim_found": true,
   "display_address": "Lady Canning's Blue Steel, Ringinglow, Sheffield, South Yorkshire, England, S10 4QN, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "dog friendly",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }
