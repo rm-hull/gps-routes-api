@@ -118,5 +118,25 @@
   "nominatim_found": true,
   "display_address": "Bascule Bridge, Craighall, Port Dundas, Glasgow, Glasgow City, Alba / Scotland, G4 0LF, United Kingdom",
   "postcode": "G4 0LF",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "shopping center",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -118,5 +118,24 @@
   "display_address": "Afan Valley Road, Cymer and Glyncorrwg, Ton-Mawr, Neath Port Talbot, Cymru / Wales, SA13 3HG, United Kingdom",
   "postcode": "SA13 3HG",
   "district": "Ton-Mawr",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

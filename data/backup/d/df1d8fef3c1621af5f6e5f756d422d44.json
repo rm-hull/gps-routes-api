@@ -99,5 +99,26 @@
   "display_address": "Clova, Angus, Alba / Scotland, DD8 4RA, United Kingdom",
   "postcode": "DD8 4RA",
   "district": "Clova",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

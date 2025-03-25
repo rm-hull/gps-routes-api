@@ -94,5 +94,27 @@
   "display_address": "Rodborough Common, Kingscourt Lane, Rooksmoor, Rodborough, Lightpill, Stroud, Gloucestershire, England, GL5 3PX, United Kingdom",
   "postcode": "GL5 3PX",
   "district": "Stroud",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildflower areas"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

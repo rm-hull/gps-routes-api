@@ -65,5 +65,28 @@
   "display_address": "Miserden Park Lane, Sudgrove, Miserden, Stroud, Gloucestershire, England, GL6 7JA, United Kingdom",
   "postcode": "GL6 7JA",
   "district": "Stroud",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "pub",
+    "shop",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -95,5 +95,26 @@
   "display_address": "Chapel Cottage, Knabbs Lane, Silkstone, Silkstone Common, Barnsley, South Yorkshire, England, S75 4RD, United Kingdom",
   "postcode": "S75 4RD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "country park"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

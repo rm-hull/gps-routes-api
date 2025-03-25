@@ -68,5 +68,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cowley Mews, Green Hammerton, North Yorkshire, York and North Yorkshire, England, YO26 8HF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "historical sites"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -113,5 +113,25 @@
   "nominatim_found": true,
   "display_address": "A823, Perth and Kinross, Alba / Scotland, FK14 7JZ, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "reservoirs",
+    "river views",
+    "viewpoint"
+  ],
+  "facilities": [
+    "car park",
+    "parking area"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

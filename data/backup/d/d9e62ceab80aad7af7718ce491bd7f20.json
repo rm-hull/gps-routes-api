@@ -104,5 +104,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Starbucks, 18-20, Northgate Street, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 2HA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "paved",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

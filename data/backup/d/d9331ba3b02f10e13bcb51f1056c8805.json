@@ -89,5 +89,29 @@
   "nominatim_found": true,
   "display_address": "Rivelin Valley Road, Malin Bridge, Hillsborough, Sheffield, South Yorkshire, England, S6 5DY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "waterfalls",
+    "ponds"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "toilets",
+    "play area",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

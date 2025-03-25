@@ -85,5 +85,22 @@
   "display_address": "Loch Tulla Viewpoint, A82, Argyll and Bute, Alba / Scotland, PA36 4AG, United Kingdom",
   "postcode": "PA36 4AG",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "mountain",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

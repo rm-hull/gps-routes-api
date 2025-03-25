@@ -90,5 +90,24 @@
   "display_address": "Newlands Hause, Buttermere, Cumberland, England, CA13 9UZ, United Kingdom",
   "postcode": "CA13 9UZ",
   "district": "Buttermere",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

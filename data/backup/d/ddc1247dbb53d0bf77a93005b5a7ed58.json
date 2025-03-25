@@ -99,5 +99,27 @@
   "display_address": "Balcombe Lane, Ardingly, Mid Sussex, West Sussex, England, RH17 6QY, United Kingdom",
   "postcode": "RH17 6QY",
   "district": "Mid Sussex",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "wetland",
+    "reedbed",
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical structures",
+    "gardens",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

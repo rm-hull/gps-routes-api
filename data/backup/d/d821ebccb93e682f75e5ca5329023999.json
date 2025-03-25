@@ -80,5 +80,25 @@
   "display_address": "Brighton & Hove Bypass, Coldean, Stanmer, Brighton and Hove, England, BN1 9GW, United Kingdom",
   "postcode": "BN1 9GW",
   "district": "Stanmer",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

@@ -70,5 +70,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Quay, Cley Next The Sea, Cley next the Sea, North Norfolk, Norfolk, England, NR25 7RP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "countryside",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "shop",
+    "bird hides",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

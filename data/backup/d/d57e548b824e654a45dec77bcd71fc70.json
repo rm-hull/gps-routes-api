@@ -105,5 +105,23 @@
   "nominatim_found": true,
   "display_address": "Cumbernauld Road, Hogganfield, Glasgow, Glasgow City, Alba / Scotland, G33 1QB, United Kingdom",
   "postcode": "G33 1QB",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "30-40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "natural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

@@ -47,5 +47,26 @@
   "nominatim_found": true,
   "display_address": "B1066, Cross Green, Hartest, Babergh, Suffolk, England, IP29 4DH, United Kingdom",
   "postcode": "IP29 4DH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "religious sites",
+    "architecture"
+  ],
+  "facilities": [
+    "car park",
+    "community hall"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

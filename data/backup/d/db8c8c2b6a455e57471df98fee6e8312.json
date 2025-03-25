@@ -113,5 +113,25 @@
   "display_address": "Broadhead House, Halifax Road, Littleborough, Rochdale, Greater Manchester, England, OL15 0LG, United Kingdom",
   "district": "Littleborough",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "water trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

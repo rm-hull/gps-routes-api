@@ -49,5 +49,25 @@
   "display_address": "Roman Road, Aber, Abergwyngregyn, Gwynedd, Cymru / Wales, LL33 0LP, United Kingdom",
   "postcode": "LL33 0LP",
   "district": "Abergwyngregyn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

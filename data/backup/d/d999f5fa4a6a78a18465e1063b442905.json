@@ -76,5 +76,25 @@
   "display_address": "Moorland Street, Axbridge, Somerset, England, BS26 2AR, United Kingdom",
   "postcode": "BS26 2AR",
   "district": "Axbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

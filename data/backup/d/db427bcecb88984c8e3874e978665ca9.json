@@ -100,5 +100,26 @@
   "display_address": "A82, North Laggan, Highland, Alba / Scotland, PH35 4HP, United Kingdom",
   "postcode": "PH35 4HP",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "traffic free trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

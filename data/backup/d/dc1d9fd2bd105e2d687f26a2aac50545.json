@@ -68,5 +68,32 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Carlisle Castle, Dacre Road, Caldewgate, Carlisle, Cumberland, England, CA3 8UR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "parkland",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views",
+    "gardens",
+    "nature reserve",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

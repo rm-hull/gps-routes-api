@@ -94,5 +94,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Worcester Road, Chipping Norton, West Oxfordshire, Oxfordshire, England, OX7 5XT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

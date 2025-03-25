@@ -90,5 +90,32 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Foreshore Road, The Old Town, Scarborough, North Yorkshire, York and North Yorkshire, England, YO11 1NQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "rock formations",
+    "sea birds"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible",
+    "play area",
+    "country park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

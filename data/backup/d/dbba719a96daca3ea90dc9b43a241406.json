@@ -87,5 +87,24 @@
   "display_address": "Boddington Road, Byfield, West Northamptonshire, England, NN11 6XU, United Kingdom",
   "postcode": "NN11 6XU",
   "district": "Byfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "fisheries"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

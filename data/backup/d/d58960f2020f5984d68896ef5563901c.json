@@ -70,5 +70,29 @@
   "display_address": "19A, Sycamore Road, Bournville, Stirchley, Birmingham, West Midlands, England, B30 2AA, United Kingdom",
   "postcode": "B30 2AA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "park",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "museum",
+    "gardens",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "cycle trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

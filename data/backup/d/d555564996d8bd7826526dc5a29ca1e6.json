@@ -80,5 +80,24 @@
   "nominatim_found": true,
   "display_address": "Chilbolton Cow Common, Joy's Lane, Chilbolton, Test Valley, Hampshire, England, SO20 6BB, United Kingdom",
   "postcode": "SO20 6BB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "cottages",
+    "rivers"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

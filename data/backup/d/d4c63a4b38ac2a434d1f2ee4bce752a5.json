@@ -102,5 +102,26 @@
   "display_address": "Manor Park, Minstead, New Forest, Hampshire, England, SO43 7FY, United Kingdom",
   "postcode": "SO43 7FY",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "woodland"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "picnic"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

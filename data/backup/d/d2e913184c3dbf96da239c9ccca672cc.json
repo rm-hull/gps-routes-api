@@ -95,5 +95,28 @@
   "display_address": "Ben Venue, Duke's Pass, Stirling, Alba / Scotland, FK17 8HY, United Kingdom",
   "postcode": "FK17 8HY",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "loch"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "mountain scenery",
+    "forestry"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails",
+    "cycle trails"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -113,5 +113,26 @@
   "nominatim_found": true,
   "display_address": "Railway Pay and Display Car Park, Riverside, Padstow, Cornwall, England, PL28 8DA, United Kingdom",
   "postcode": "PL28 8DA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "market town"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }
