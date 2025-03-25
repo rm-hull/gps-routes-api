@@ -72,5 +72,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Caistor Road, Nettleton Wold Farm, Nettleton CP, Caistor, West Lindsey, Lincolnshire, England, LN7 6NP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterway"
+  ],
+  "points_of_interest": [
+    "views",
+    "trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -89,5 +89,26 @@
   "county": "Medway",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "picnic areas"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

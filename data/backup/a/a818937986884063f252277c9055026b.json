@@ -98,5 +98,27 @@
   "postcode": "WF4 1QE",
   "district": "Wakefield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "lake views"
+  ],
+  "facilities": [
+    "car park",
+    "boathouse"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

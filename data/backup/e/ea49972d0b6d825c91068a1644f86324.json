@@ -83,5 +83,27 @@
   "display_address": "A442, Quatt Malvern, Quatford, Quatt, Shropshire, England, WV15 6AA, United Kingdom",
   "postcode": "WV15 6AA",
   "district": "Quatford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

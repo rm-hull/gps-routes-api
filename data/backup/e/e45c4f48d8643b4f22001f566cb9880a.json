@@ -33,5 +33,26 @@
   "nominatim_found": true,
   "display_address": "Home Park House, Home Park Terrace, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4AE, United Kingdom",
   "postcode": "KT1 4AE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "water features",
+    "gardens",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "river walking"
+  ]
 }

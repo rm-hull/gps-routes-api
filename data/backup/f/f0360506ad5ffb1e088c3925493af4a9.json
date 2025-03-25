@@ -82,5 +82,24 @@
   "display_address": "Hathersage Road, Grindleford, Derbyshire Dales, Derbyshire, East Midlands, England, S11 7TY, United Kingdom",
   "district": "Derbyshire Dales",
   "county": "Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "moorland",
+    "gritstone"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

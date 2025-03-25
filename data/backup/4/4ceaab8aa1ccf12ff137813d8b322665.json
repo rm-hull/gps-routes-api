@@ -80,5 +80,28 @@
   "display_address": "RHS Garden Harlow Carr, Crag Lane, Harlow Hill, Harlow, Harrogate, North Yorkshire, York and North Yorkshire, England, HG3 1QB, United Kingdom",
   "postcode": "HG3 1QB",
   "district": "Harrogate",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "flower displays",
+    "sculptures",
+    "mineral springs"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

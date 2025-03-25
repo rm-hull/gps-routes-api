@@ -99,5 +99,26 @@
   "display_address": "Moor Road, Anglezarke, Chorley, Lancashire, England, PR6 9DQ, United Kingdom",
   "postcode": "PR6 9DQ",
   "district": "Chorley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "hamlet",
+    "cycle trails"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

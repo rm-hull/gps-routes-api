@@ -100,5 +100,25 @@
   "county": "Lincolnshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "picnic area",
+    "country lanes"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

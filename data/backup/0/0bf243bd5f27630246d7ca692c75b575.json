@@ -100,5 +100,26 @@
   "display_address": "Lees Road, Stanton Lees, Stanton CP, Stanton-in-Peak, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2LR, United Kingdom",
   "postcode": "DE4 2LR",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moor",
+    "stone circle"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "stone circles",
+    "rock formations"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

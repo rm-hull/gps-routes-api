@@ -113,5 +113,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Llanfair-Mathafarn-Eithaf, Red Wharf Bay, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL75 8RX, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations",
+    "lighthouses"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -93,5 +93,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cinder Path, Beverley, East Riding of Yorkshire, England, HU17 8GF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "pasture",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

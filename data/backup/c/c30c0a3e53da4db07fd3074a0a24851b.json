@@ -70,5 +70,24 @@
   "nominatim_found": true,
   "display_address": "Dolwyddelan, Conwy, Cymru / Wales, LL25 0DQ, United Kingdom",
   "postcode": "LL25 0DQ",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

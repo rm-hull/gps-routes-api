@@ -76,5 +76,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Offa's Dyke Centre, West Street, Knighton, Powys, Cymru / Wales, LD7 1EP, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "river"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

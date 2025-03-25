@@ -108,5 +108,25 @@
   "display_address": "Great Wood, Great Wood Car Park, Borrowdale, Cumberland, England, CA12 5UP, United Kingdom",
   "postcode": "CA12 5UP",
   "district": "Borrowdale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

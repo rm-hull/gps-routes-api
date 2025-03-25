@@ -110,5 +110,27 @@
   "display_address": "Riddlesdown Road, Kenley, London Borough of Croydon, London, Greater London, England, CR8 1EE, United Kingdom",
   "postcode": "CR8 1EE",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

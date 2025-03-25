@@ -71,5 +71,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stowe Avenue, West End Farm, Buckingham, Buckinghamshire, England, MK18 1HT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical parkland",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -109,5 +109,25 @@
   "nominatim_found": true,
   "display_address": "Botallack Mine Count House, Botallack, Trewellard, St Just, Cornwall, England, TR19 7QQ, United Kingdom",
   "district": "St Just",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "Iron Age Castle"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

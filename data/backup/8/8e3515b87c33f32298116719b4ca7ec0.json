@@ -94,5 +94,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Plym Valley Trail, Buckland Monachorum, West Devon, Devon, England, PL20 6JD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

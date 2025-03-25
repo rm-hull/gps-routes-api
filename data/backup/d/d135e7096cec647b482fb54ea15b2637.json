@@ -123,5 +123,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Monastery Lane, Storrington and Sullington, Storrington, Horsham, West Sussex, England, RH20 4JD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

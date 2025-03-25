@@ -95,5 +95,27 @@
   "display_address": "Stirling, Alba / Scotland, FK17 8HF, United Kingdom",
   "postcode": "FK17 8HF",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakes",
+    "mountains"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

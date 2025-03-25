@@ -70,5 +70,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Regent's Canal towpath, Kentish Town, London Borough of Camden, London, Greater London, England, NW1 9LN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "park"
+  ],
+  "points_of_interest": [
+    "market",
+    "gardens",
+    "waterways"
+  ],
+  "facilities": [
+    "car park",
+    "restaurant",
+    "bar"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

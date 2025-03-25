@@ -69,5 +69,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Bridge Cafe, High Hill, Keswick, Cumberland, England, CA12 5NX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "summit"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

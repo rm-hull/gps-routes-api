@@ -89,5 +89,22 @@
   "nominatim_found": true,
   "display_address": "Hollin Lane, Green Quarter, Kentmere, Westmorland and Furness, England, LA8 9JL, United Kingdom",
   "postcode": "LA8 9JL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

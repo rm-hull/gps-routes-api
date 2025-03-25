@@ -123,5 +123,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Constitutional Hill Road, Southborough, Tunbridge Wells, Kent, England, TN4 0RU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

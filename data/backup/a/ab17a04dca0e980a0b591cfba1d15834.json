@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cross Hill, Laxton and Moorhouse CP, Laxton, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG22 0SX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "farms",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "memorial garden"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

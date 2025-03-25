@@ -88,5 +88,24 @@
   "display_address": "Holmes Chapel Road, Brereton, Cheshire East, England, CW12 4SP, United Kingdom",
   "postcode": "CW12 4SP",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -117,5 +117,30 @@
   "nominatim_found": true,
   "display_address": "Evesham Garden Centre, A46, Norton and Lenchwick, Norton, Wychavon, Worcestershire, England, WR11 4TP, United Kingdom",
   "district": "Wychavon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "town"
+  ],
+  "facilities": [
+    "garden centre",
+    "farm shop",
+    "clothing stores",
+    "eateries",
+    "miniature railway",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

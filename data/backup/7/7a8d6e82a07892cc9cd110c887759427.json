@@ -118,5 +118,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Heights of Abraham, Holme Road, Matlock Bath CP, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3NU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -68,5 +68,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ball Haye Road, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 6AN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature parks",
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "hiking"
+  ]
 }

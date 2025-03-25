@@ -68,5 +68,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Waste Lane, Butterton, Staffordshire Moorlands, Staffordshire, England, ST13 7TJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages",
+    "caves"
+  ],
+  "facilities": [
+    "visitor center",
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

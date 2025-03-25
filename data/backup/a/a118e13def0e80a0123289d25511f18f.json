@@ -98,5 +98,25 @@
   "display_address": "Sheep Pens Car Park, West Street, Kingston, Corfe Castle, Dorset, England, BH20 5JS, United Kingdom",
   "postcode": "BH20 5JS",
   "district": "Kingston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

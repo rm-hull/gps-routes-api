@@ -76,5 +76,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Malthouse, Kingston Winslow, Ashbury, Vale of White Horse, Oxfordshire, England, SN6 8LN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

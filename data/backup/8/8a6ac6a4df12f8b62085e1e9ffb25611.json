@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Lyoncross Junction, Aurs Road, Auchenback, Barrhead, East Renfrewshire, Alba / Scotland, G78 2FA, United Kingdom",
   "postcode": "G78 2FA",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "grassland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "waterside trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

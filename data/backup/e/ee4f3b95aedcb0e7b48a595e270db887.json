@@ -53,5 +53,27 @@
   "display_address": "Grange Road, Grange, West Kirby, Wirral, Liverpool City Region, England, CH48 4EE, United Kingdom",
   "postcode": "CH48 4EE",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "parks",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "model boating lake"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

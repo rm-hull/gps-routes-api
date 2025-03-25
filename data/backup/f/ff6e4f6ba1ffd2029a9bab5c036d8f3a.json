@@ -115,5 +115,23 @@
   "county": "County Down",
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "granite tors"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

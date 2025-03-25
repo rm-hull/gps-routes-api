@@ -70,5 +70,26 @@
   "display_address": "Liff Road, Myrekirk, Dundee, Dundee City, Alba / Scotland, DD2 4UT, United Kingdom",
   "postcode": "DD2 4UT",
   "district": "Dundee",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife center",
+    "woodland"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -67,5 +67,27 @@
   "display_address": "Westfield Lane, Rothley, Charnwood, Leicestershire, England, LE7 7LN, United Kingdom",
   "postcode": "LE7 7LN",
   "district": "Charnwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "country parks",
+    "lakeside trails",
+    "riverside trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

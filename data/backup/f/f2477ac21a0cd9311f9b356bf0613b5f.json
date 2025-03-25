@@ -75,5 +75,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Abbey Walk, St Andrews, Fife, Alba / Scotland, KY16 9QJ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "boat hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

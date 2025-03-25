@@ -108,5 +108,26 @@
   "display_address": "Legsheath Lane, Forest Row, Wealden, East Sussex, England, RH19 4HP, United Kingdom",
   "postcode": "RH19 4HP",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "bird sanctuary"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

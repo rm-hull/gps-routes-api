@@ -99,5 +99,23 @@
   "nominatim_found": true,
   "display_address": "Capel Curig, Conwy, Cymru / Wales, LL57 3LZ, United Kingdom",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural amphitheatre"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

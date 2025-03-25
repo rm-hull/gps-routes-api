@@ -93,5 +93,26 @@
   "nominatim_found": true,
   "display_address": "A595, The Grove, Muncaster, Ravenglass, Cumberland, England, CA18 1RG, United Kingdom",
   "district": "Ravenglass",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "steam trains"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

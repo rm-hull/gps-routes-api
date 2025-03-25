@@ -80,5 +80,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Street, Blairbeg, Lamlash, North Ayrshire, Alba / Scotland, KA27 8LA, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "beaches",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

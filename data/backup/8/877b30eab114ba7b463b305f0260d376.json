@@ -118,5 +118,26 @@
   "display_address": "Kirkgate, Kinross, Perth and Kinross, Alba / Scotland, KY13 8ET, United Kingdom",
   "postcode": "KY13 8ET",
   "district": "Kinross",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

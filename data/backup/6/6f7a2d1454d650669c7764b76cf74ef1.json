@@ -103,5 +103,27 @@
   "nominatim_found": true,
   "display_address": "Fielden House, 41, Rochdale Road, Salford, Todmorden, Calderdale, West Yorkshire, England, OL14 6LD, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "monument"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

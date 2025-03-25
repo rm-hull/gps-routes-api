@@ -94,5 +94,25 @@
   "display_address": "2, Stryd Fawr, Pant, Bethesda, Gwynedd, Cymru / Wales, LL57 3AY, United Kingdom",
   "postcode": "LL57 3AY",
   "district": "Bethesda",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "quarry"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "zip line"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

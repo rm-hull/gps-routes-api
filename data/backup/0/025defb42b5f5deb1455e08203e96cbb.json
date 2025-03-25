@@ -105,5 +105,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Fleet pond accessible parking, Southwood Lane, Fleet, Hart, Hampshire, England, GU51 2RR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

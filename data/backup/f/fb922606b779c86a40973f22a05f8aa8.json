@@ -118,5 +118,24 @@
   "display_address": "Abbots Well, Abbotswell Road, Blissford, Hyde, Frogham, New Forest, Hampshire, England, SP6 2JB, United Kingdom",
   "postcode": "SP6 2JB",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

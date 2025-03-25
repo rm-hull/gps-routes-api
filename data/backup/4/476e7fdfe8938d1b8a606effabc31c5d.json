@@ -75,5 +75,28 @@
   "display_address": "Abbey Farm, Launde, Harborough, Leicestershire, England, LE7 9XB, United Kingdom",
   "postcode": "LE7 9XB",
   "district": "Harborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "estate",
+    "landscape"
+  ],
+  "facilities": [
+    "tea rooms",
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -68,5 +68,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Calder Vale, Barnacre-with-Bonds, Wyre, Lancashire, England, PR3 1SP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

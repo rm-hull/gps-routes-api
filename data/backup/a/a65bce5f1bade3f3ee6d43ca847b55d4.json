@@ -125,5 +125,25 @@
   "display_address": "Traquair Road, Innerleithen, Scottish Borders, Alba / Scotland, EH44 6PE, United Kingdom",
   "postcode": "EH44 6PE",
   "district": "Innerleithen",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

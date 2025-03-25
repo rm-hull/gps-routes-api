@@ -103,5 +103,26 @@
   "display_address": "Holgate Street, Top O' Th' Meadows, Waterhead, Lees, Oldham, Greater Manchester, England, OL4 3NY, United Kingdom",
   "district": "Oldham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-45 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

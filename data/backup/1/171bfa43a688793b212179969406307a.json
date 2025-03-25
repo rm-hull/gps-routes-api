@@ -90,5 +90,22 @@
   "nominatim_found": true,
   "display_address": "Blakehopeburnhaugh, Rochester, Northumberland, North East, England, NE19 1SW, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -75,5 +75,27 @@
   "display_address": "Avalon Marshes Centre, Shapwick Road, Meare, Westhay, Somerset, England, BA6 9TT, United Kingdom",
   "postcode": "BA6 9TT",
   "district": "Westhay",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cycle trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

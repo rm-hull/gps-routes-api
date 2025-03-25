@@ -100,5 +100,25 @@
   "display_address": "Farlow Croft, Bickenhill and Marston Green, Marston Green, Solihull, West Midlands, England, B37 7AF, United Kingdom",
   "postcode": "B37 7AF",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "farmland",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

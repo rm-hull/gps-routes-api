@@ -71,5 +71,26 @@
   "display_address": "Brackley Bypass, Radstone Fields, Brackley, West Northamptonshire, England, NN13 7AL, United Kingdom",
   "postcode": "NN13 7AL",
   "district": "Brackley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical park",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

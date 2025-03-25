@@ -85,5 +85,28 @@
   "nominatim_found": true,
   "display_address": "Station Road, Dyce, Dyce and Stoneywood, Aberdeen City, Alba / Scotland, AB21 7BA, United Kingdom",
   "postcode": "AB21 7BA",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest",
+    "rural"
+  ],
+  "points_of_interest": [
+    "museum",
+    "lake",
+    "abbey",
+    "stone circle",
+    "historical landmark"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

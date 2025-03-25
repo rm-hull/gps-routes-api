@@ -37,5 +37,23 @@
   "nominatim_found": true,
   "display_address": "Age UK, Towngate, Cliff, Holme Valley, Holmfirth, Kirklees, West Yorkshire, England, HD9 1HA, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "cultural sites",
+    "villages"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -113,5 +113,29 @@
   "display_address": "Station Approach, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1AQ, United Kingdom",
   "postcode": "DA5 1AQ",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "bird hide",
+    "butterfly experience",
+    "owl experience"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

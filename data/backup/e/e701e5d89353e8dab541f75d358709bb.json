@@ -90,5 +90,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Swanage, Dorset, England, BH19 1LB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

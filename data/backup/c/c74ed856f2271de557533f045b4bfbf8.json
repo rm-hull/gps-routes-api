@@ -114,5 +114,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Lyme Fossil Shop, Bridge Street, Lyme Regis, Dorset, England, DT7 3QA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "fossil hunting"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

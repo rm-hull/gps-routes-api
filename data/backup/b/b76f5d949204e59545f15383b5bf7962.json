@@ -44,5 +44,24 @@
   "display_address": "Grantham\u2019s Bridge, Oughtrington, Broomedge, Lymm, Warrington, England, WA13 9JQ, United Kingdom",
   "postcode": "WA13 9JQ",
   "district": "Broomedge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "town",
+    "reservoir",
+    "hill"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

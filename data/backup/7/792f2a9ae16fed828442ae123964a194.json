@@ -67,5 +67,26 @@
   "display_address": "Brook Street, Caldermoor, Littleborough, Rochdale, Greater Manchester, England, OL15 0HE, United Kingdom",
   "postcode": "OL15 0HE",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "wildlife",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

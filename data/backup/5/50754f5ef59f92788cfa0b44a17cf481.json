@@ -76,5 +76,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lower Church Street, Stokenchurch, Buckinghamshire, England, HP14 3TG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "country lanes",
+    "trail"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserves",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

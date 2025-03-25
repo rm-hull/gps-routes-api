@@ -71,5 +71,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Deeves Hall Lane, South Mimms and Ridge, Ridge, Hertsmere, Hertfordshire, England, EN6 3LP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "museum"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

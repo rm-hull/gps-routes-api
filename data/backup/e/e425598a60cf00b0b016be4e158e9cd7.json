@@ -103,5 +103,24 @@
   "display_address": "Brimham Rocks Road, Hartwith cum Winsley, North Yorkshire, York and North Yorkshire, England, HG3 5EY, United Kingdom",
   "postcode": "HG3 5EY",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rock",
+    "moor"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "walking route"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

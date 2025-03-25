@@ -107,5 +107,24 @@
   "nominatim_found": true,
   "display_address": "Titsey Hill, Botley Hill, Titsey, Tandridge, Surrey, England, CR6 9QH, United Kingdom",
   "district": "Tandridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -103,5 +103,26 @@
   "nominatim_found": true,
   "display_address": "Diamond Way, Crow Hill, Irthlingborough, North Northamptonshire, England, NN9 5GU, United Kingdom",
   "postcode": "NN9 5GU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "meadow",
+    "nature"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "cycle hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

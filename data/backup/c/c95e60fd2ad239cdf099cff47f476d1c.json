@@ -120,5 +120,25 @@
   "county": "County Antrim",
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "gorge"
+  ],
+  "points_of_interest": [
+    "views",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "tea room",
+    "gift shop"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Shepreth Station Car park, Station Road, Shepreth, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, SG8 6PZ, United Kingdom",
   "postcode": "SG8 6PZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

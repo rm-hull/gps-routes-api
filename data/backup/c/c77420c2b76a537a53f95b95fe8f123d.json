@@ -98,5 +98,24 @@
   "display_address": "Willow Gardens, Little Dassett, Burton Dassett CP, Northend, Stratford-on-Avon, Warwickshire, England, CV47 2UY, United Kingdom",
   "postcode": "CV47 2UY",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "church"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

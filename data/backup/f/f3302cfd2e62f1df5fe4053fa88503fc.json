@@ -100,5 +100,25 @@
   "nominatim_found": true,
   "display_address": "Puncknowle, West Bexington, Dorset, England, DT2 9DG, United Kingdom",
   "postcode": "DT2 9DG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "historical monuments",
+    "monuments"
+  ],
+  "facilities": [
+    "church",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

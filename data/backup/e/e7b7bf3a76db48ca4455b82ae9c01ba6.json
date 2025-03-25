@@ -105,5 +105,29 @@
   "nominatim_found": true,
   "display_address": "Millennium Milepost Birmingham Arena, King Edwards Road, Ladywood, Park Central, Birmingham, West Midlands, England, B1 2NX, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "parks",
+    "lakes",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

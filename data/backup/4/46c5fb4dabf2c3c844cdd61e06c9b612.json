@@ -98,5 +98,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Claremont Guest House, 9/11, Witham Road, Oaklands, Woodhall Spa, East Lindsey, Lincolnshire, England, LN10 6RW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "rural scenery",
+    "village"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

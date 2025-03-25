@@ -112,5 +112,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Birches, Park South, South Swindon Parish, Swindon, England, SN3 1PT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "lake",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "historical fort"
+  ],
+  "facilities": [
+    "car park",
+    "ranger center",
+    "information point",
+    "pitch and putt"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

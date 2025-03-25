@@ -90,5 +90,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Old Sarum, Phillips Lane, Bemerton Heath, Stratford-sub-Castle, Salisbury, Wiltshire, England, SP1 3YS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalkland",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

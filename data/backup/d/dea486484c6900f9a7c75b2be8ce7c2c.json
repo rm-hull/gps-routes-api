@@ -68,5 +68,24 @@
   "nominatim_found": true,
   "display_address": "Stamford Road, Market Place, Market Deeping, South Kesteven, Lincolnshire, England, PE6 8BD, United Kingdom",
   "postcode": "PE6 8BD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "lakes"
+  ],
+  "facilities": [
+    "public footpaths",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

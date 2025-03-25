@@ -93,5 +93,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Blythe Road, Maidstone, Kent, England, ME15 7TR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "lakeside",
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfront"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "boat hire",
+    "playground"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

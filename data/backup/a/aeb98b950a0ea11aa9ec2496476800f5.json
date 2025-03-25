@@ -108,5 +108,26 @@
   "nominatim_found": true,
   "display_address": "Further House, Baulk Lane, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1AF, United Kingdom",
   "postcode": "S32 1AF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rock",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "caves",
+    "moorland"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

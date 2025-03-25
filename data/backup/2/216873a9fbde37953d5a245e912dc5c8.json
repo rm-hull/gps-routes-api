@@ -103,5 +103,26 @@
   "nominatim_found": true,
   "display_address": "Mayroyd Lane, Birchcliffe, Hebden Royd, Hebden Bridge, Calderdale, West Yorkshire, England, HX7 8NS, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "villages",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

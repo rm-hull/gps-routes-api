@@ -100,5 +100,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Rhes Fictoria / Victoria Terrace, Llanberis, Gwynedd, Cymru / Wales, LL55 4TS, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "refreshments"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

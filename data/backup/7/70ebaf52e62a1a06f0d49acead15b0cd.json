@@ -76,5 +76,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Post Office & Stores, Ringmore Drive, Bigbury-on-Sea, Bigbury, Bigbury-on-Sea, South Hams, Devon, England, TQ7 4AU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical pubs",
+    "island",
+    "villages",
+    "beach"
+  ],
+  "facilities": [
+    "pub",
+    "ferry",
+    "footpath",
+    "golf course"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

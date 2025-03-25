@@ -51,5 +51,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A541, Hendre, Cilcain, Rhydymwyn, Flintshire, Cymru / Wales, CH7 5QF, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "woodland birds"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

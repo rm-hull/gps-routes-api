@@ -95,5 +95,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Tayport, Fife, Alba / Scotland, DD6 9EZ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "cycle path"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

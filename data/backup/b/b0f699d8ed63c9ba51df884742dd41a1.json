@@ -76,5 +76,24 @@
   "nominatim_found": true,
   "display_address": "The Lion, Well Street, Broselake Farm, Malpas, Cheshire West and Chester, England, SY14 8QL, United Kingdom",
   "postcode": "SY14 8QL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "villages",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

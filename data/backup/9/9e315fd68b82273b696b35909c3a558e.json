@@ -105,5 +105,30 @@
   "nominatim_found": true,
   "display_address": "Urban Exchange, 100, Great Ancoats Street, Miles Platting, Manchester, Greater Manchester, England, M4 6DE, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfalls",
+    "mills"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible",
+    "cycle"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

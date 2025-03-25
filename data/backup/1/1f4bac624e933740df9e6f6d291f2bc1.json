@@ -128,5 +128,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Village Road, Llanfairfechan, Conwy, Cymru / Wales, LL33 0NH, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "local trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

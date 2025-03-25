@@ -98,5 +98,27 @@
   "display_address": "South Milton Sands (NT), Horswell Lane, Sutton, South Milton, South Hams, Devon, England, TQ7 3JU, United Kingdom",
   "postcode": "TQ7 3JU",
   "district": "South Hams",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "dunes"
+  ],
+  "points_of_interest": [
+    "views",
+    "geology",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

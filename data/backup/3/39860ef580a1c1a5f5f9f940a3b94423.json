@@ -114,5 +114,22 @@
   "nominatim_found": true,
   "display_address": "Hossil Lane, Stanton Fitzwarren, Swindon, England, SN6 7SB, United Kingdom",
   "postcode": "SN6 7SB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [
+    "ranger center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

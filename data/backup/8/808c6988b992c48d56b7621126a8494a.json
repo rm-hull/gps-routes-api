@@ -68,5 +68,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Teynham, Conyer, Swale, Kent, England, ME9 9HR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

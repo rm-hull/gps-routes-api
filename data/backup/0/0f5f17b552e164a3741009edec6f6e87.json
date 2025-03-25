@@ -85,5 +85,27 @@
   "display_address": "Haworth Road, Cullingworth, Bradford, West Yorkshire, England, BD13 5ER, United Kingdom",
   "postcode": "BD13 5ER",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "reservoir views",
+    "historic village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "water activities center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

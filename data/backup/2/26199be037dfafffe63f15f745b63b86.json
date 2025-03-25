@@ -70,5 +70,27 @@
   "display_address": "Wood Walton, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, United Kingdom",
   "postcode": null,
   "district": "Huntingdonshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "bird hides",
+    "information points"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

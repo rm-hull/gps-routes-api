@@ -103,5 +103,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mill Road, Oakamoor, Staffordshire Moorlands, Staffordshire, England, ST10 3AG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "wildflower spots"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

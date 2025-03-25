@@ -90,5 +90,31 @@
   "display_address": "Top Up Tap, A821, Stirling, Alba / Scotland, FK17 8HZ, United Kingdom",
   "postcode": "FK17 8HZ",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "rivers",
+    "streams",
+    "waterfalls",
+    "reservoir"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "ferry"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

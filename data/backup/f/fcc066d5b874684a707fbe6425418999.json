@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "Buckden, North Yorkshire, York and North Yorkshire, England, BD23 5JX, United Kingdom",
   "postcode": "BD23 5JX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildflowers",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

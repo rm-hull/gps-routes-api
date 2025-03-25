@@ -89,5 +89,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bwlch Sychnant, Nant, Penmaenmawr, Capelulo, Conwy, Cymru / Wales, LL32 8BJ, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

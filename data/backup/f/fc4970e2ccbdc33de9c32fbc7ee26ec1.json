@@ -113,5 +113,26 @@
   "display_address": "Military Road, Bardon Mill, Northumberland, North East, England, NE47 6NQ, United Kingdom",
   "postcode": "NE47 6NQ",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

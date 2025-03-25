@@ -80,5 +80,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Carriage Drive South, Battersea, London Borough of Wandsworth, London, Greater London, England, SW11 4EG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "garden"
+  ],
+  "points_of_interest": [
+    "nature area",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "cafe",
+    "boating lake",
+    "children's zoo"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

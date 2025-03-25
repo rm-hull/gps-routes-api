@@ -120,5 +120,25 @@
   "display_address": "Falla Brae Red, Scottish Borders, Alba / Scotland, EH45 8NB, United Kingdom",
   "postcode": "EH45 8NB",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

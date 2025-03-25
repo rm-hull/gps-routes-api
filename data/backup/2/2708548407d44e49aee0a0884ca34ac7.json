@@ -107,5 +107,28 @@
   "display_address": "Aira Force, A592, Matterdale, Westmorland and Furness, England, CA11 0JS, United Kingdom",
   "postcode": "CA11 0JS",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lakeside",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "views",
+    "woodland trails",
+    "lake views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

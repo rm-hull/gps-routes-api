@@ -98,5 +98,27 @@
   "nominatim_found": true,
   "display_address": "Blagdon Lane, Butcombe, North Somerset, England, BS40 7UP, United Kingdom",
   "postcode": "BS40 7UP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake shore"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "nature trail",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "picnic area",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

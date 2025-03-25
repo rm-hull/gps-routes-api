@@ -103,5 +103,28 @@
   "postcode": "S10 4QZ",
   "district": "Sheffield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "gritstone"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature trails",
+    "historical landmarks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

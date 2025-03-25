@@ -58,5 +58,23 @@
   "nominatim_found": true,
   "display_address": "South Parade, Seascale, Cumberland, England, CA20 1PZ, United Kingdom",
   "postcode": "CA20 1PZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "natural"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "wildlife"
+  ],
+  "facilities": [
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

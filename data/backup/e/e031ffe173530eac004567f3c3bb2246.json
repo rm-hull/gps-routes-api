@@ -85,5 +85,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Upton, Caldbeck, Cumberland, England, CA7 8GH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "path",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "summit"
+  ],
+  "facilities": [
+    "car park",
+    "wind shelter"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

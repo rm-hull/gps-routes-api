@@ -74,5 +74,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hero House, Railway Road, Mile Town, Sheerness, Swale, Kent, England, ME12 1PQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "birdlife",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

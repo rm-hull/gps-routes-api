@@ -90,5 +90,28 @@
   "nominatim_found": true,
   "display_address": "Beachy Head Road, East Dean and Friston, Birling Gap, Wealden, East Sussex, England, BN20 0AB, United Kingdom",
   "postcode": "BN20 0AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural habitats",
+    "historic sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

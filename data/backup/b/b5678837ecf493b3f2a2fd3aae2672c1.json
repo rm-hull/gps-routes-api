@@ -95,5 +95,26 @@
   "nominatim_found": true,
   "display_address": "Cheyne Beach Apartments, Capstone Road, Hele, Ilfracombe, North Devon, Devon, England, EX34 9BT, United Kingdom",
   "postcode": "EX34 9BT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach",
+    "National Trust-maintained path",
+    "staircase"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

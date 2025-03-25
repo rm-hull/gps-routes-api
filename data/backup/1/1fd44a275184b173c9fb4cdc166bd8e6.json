@@ -127,5 +127,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "High Street, Buriton, East Hampshire, Hampshire, England, GU31 5RT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "chalk ridge"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural areas"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

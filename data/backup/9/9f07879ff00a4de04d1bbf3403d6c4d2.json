@@ -65,5 +65,26 @@
   "display_address": "Park Lane, Wotton-under-Edge, Stroud, Gloucestershire, England, GL12 7PZ, United Kingdom",
   "postcode": "GL12 7PZ",
   "district": "Wotton-under-Edge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "scarpment"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical buildings",
+    "wildlife"
+  ],
+  "facilities": [
+    "footpaths",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

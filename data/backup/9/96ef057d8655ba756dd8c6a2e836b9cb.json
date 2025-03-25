@@ -72,5 +72,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Eastleach Martin, Eastleach, Eastleach Turville, Cotswold, Gloucestershire, England, GL7 3QB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "churches",
+    "cottages"
+  ],
+  "facilities": [
+    "pub",
+    "river walk"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

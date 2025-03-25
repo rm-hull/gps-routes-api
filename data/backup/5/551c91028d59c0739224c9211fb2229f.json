@@ -88,5 +88,24 @@
   "display_address": "Crickley Hill Camp, A417, Badgeworth, Birdlip, Tewkesbury, Gloucestershire, England, GL3 4UH, United Kingdom",
   "postcode": "GL3 4UH",
   "district": "Tewkesbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

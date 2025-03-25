@@ -99,5 +99,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kwik Fit, North Quay, Runham Vauxhall, Great Yarmouth, Norfolk, England, NR30 1JT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "marshland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "bird watching",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "bird observation hide"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

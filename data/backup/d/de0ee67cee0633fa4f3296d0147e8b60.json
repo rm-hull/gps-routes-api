@@ -112,5 +112,25 @@
   "nominatim_found": true,
   "display_address": "Naseby Road, Welford, West Northamptonshire, England, NN6 6JQ, United Kingdom",
   "postcode": "NN6 6JQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "battlefield"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

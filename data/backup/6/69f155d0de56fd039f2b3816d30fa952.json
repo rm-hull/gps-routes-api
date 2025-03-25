@@ -89,5 +89,26 @@
   "display_address": "Tower Road, Kilmington Common, Kilmington, Wiltshire, England, BA12 6RJ, United Kingdom",
   "postcode": "BA12 6RJ",
   "district": "Kilmington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "country park",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

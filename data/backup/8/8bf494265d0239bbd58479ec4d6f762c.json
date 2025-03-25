@@ -109,5 +109,27 @@
   "nominatim_found": true,
   "display_address": "Smedore & Swalland Private Road, Kimmeridge, Dorset, England, BH20 5PH, United Kingdom",
   "district": "Kimmeridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "countryside",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "dog friendly",
+    "museum"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

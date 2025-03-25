@@ -72,5 +72,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Oasis House, 38, Winchester Road, Tadburn, Romsey, Test Valley, Hampshire, England, SO51 8AA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "historic church",
+    "nature reserve",
+    "long distance trail",
+    "woodland trail"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "sculpture trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

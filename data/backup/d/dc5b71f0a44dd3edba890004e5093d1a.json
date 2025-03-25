@@ -84,5 +84,26 @@
   "display_address": "Jubilee Cottages, Derwent, High Peak, Derbyshire, East Midlands, England, S33 0AQ, United Kingdom",
   "postcode": "S33 0AQ",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

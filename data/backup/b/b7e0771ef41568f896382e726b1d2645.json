@@ -68,5 +68,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cliffield, Shalford, Braintree, Essex, England, CM7 5HP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside trails",
+    "artistic connections"
+  ],
+  "facilities": [
+    "pub",
+    "duck pond",
+    "village green",
+    "windmill",
+    "church"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -72,5 +72,26 @@
   "postcode": "S36 3SS",
   "district": "Sheffield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "path"
+  ],
+  "points_of_interest": [
+    "woodland trails",
+    "viewpoints",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

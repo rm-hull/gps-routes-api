@@ -75,5 +75,26 @@
   "display_address": "Skomer Island foot ferry, Marloes and St. Brides, Pembrokeshire, Cymru / Wales, SA62 3BJ, United Kingdom",
   "postcode": "SA62 3BJ",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "field"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "boat",
+    "bird hide"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

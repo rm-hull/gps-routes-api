@@ -67,5 +67,29 @@
   "nominatim_found": true,
   "display_address": "Earlesfield Lane, Earlesfield, Grantham, South Kesteven, Lincolnshire, England, NG31 7QQ, United Kingdom",
   "postcode": "NG31 7QQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "maze",
+    "deer park",
+    "lakes",
+    "village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

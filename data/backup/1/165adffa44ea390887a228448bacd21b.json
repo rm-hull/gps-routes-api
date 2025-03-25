@@ -113,5 +113,24 @@
   "display_address": "Oakpark Lane, Ashcombe, Teignbridge, Devon, England, EX6 8HG, United Kingdom",
   "postcode": "EX6 8HG",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

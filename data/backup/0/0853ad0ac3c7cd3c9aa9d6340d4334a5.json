@@ -76,5 +76,28 @@
   "nominatim_found": true,
   "display_address": "Cliff Terrace, Micklethwaite, Wetherby, West Yorkshire, England, LS22 6AN, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "nature reserve",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "bus",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

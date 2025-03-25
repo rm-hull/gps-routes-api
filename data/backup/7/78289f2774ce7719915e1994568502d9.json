@@ -95,5 +95,24 @@
   "display_address": "Gower Way 49, Rhydypandy Road, Mawr, Swansea, Cymru / Wales, SA8 4RU, United Kingdom",
   "postcode": "SA8 4RU",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

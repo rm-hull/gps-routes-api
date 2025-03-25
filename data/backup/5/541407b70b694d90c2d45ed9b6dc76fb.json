@@ -117,5 +117,27 @@
   "nominatim_found": true,
   "display_address": "Taylor Drive, Millfields, Nantwich, Cheshire East, England, CW5 5GH, United Kingdom",
   "postcode": "CW5 5GH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "church",
+    "countryside trails"
+  ],
+  "facilities": [
+    "cafe",
+    "toilets",
+    "shop",
+    "boatyard"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

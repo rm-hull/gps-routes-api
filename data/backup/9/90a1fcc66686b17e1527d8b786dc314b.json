@@ -68,5 +68,24 @@
   "display_address": "1, Old Post Office Terrace, Sunnyside Farm, Old Buckenham, Breckland, Norfolk, England, NR17 1RD, United Kingdom",
   "postcode": "NR17 1RD",
   "district": "Breckland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "village green",
+    "castle ruins"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

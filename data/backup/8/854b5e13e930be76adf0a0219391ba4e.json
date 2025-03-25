@@ -50,5 +50,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Grimsbury Reservoir, Hanwell View, Banbury, Cherwell, Oxfordshire, England, OX16 2AA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "fishing",
+    "sailing club",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "fishing"
+  ]
 }

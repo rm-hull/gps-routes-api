@@ -79,5 +79,25 @@
   "display_address": "Chells Surgery, Chells Way, Pin Green, Stevenage, Hertfordshire, England, SG2 0LZ, United Kingdom",
   "postcode": "SG2 0LZ",
   "district": "Stevenage",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "deer spotting"
+  ],
+  "facilities": [
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

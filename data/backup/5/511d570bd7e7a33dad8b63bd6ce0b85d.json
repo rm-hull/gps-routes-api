@@ -90,5 +90,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4583, St. David's and the Cathedral Close, St Davids, Pembrokeshire, Cymru / Wales, SA62 6PR, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "geological features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

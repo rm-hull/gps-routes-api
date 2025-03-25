@@ -80,5 +80,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bay Hill, St. Margaret's at Cliffe, Dover, Kent, England, CT15 6DU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "tea room",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

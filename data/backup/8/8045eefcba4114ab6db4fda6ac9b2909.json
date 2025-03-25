@@ -120,5 +120,25 @@
   "nominatim_found": true,
   "display_address": "Avenue F, Stoneleigh Park, Stoneleigh, Warwick, Warwickshire, England, CV8 2TZ, United Kingdom",
   "district": "Warwick",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "architecture",
+    "river views",
+    "historic sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

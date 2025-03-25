@@ -107,5 +107,27 @@
   "nominatim_found": true,
   "display_address": "Nook End, Station Road, Nether Staveley, Staveley, Westmorland and Furness, England, LA8 9NB, United Kingdom",
   "postcode": "LA8 9NB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfront",
+    "upland"
+  ],
+  "points_of_interest": [
+    "lakes",
+    "hills",
+    "river"
+  ],
+  "facilities": [
+    "train station",
+    "footpaths",
+    "country lanes"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -75,5 +75,27 @@
   "display_address": "Danson House, Danson Park, Crook Log, Welling, London Borough of Bexley, London, Greater London, England, DA16 1RU, United Kingdom",
   "postcode": "DA16 1RU",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature reserves"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

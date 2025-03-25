@@ -76,5 +76,28 @@
   "display_address": "Wearmouth Bridge, A1018, Ashbrooke, Sunderland, North East, England, SR1 3AH, United Kingdom",
   "postcode": "SR1 3AH",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "lighthouses",
+    "geological formations",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "footpath",
+    "cycleway"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

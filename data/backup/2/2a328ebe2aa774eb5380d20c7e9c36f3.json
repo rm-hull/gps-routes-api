@@ -110,5 +110,25 @@
   "nominatim_found": true,
   "display_address": "Great Torr, Kingston, South Hams, Devon, England, TQ7 4EY, United Kingdom",
   "postcode": "TQ7 4EY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "beaches",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

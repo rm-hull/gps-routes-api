@@ -104,5 +104,27 @@
   "nominatim_found": true,
   "display_address": "Langstone Wharf, 34, Langstone Road, Langstone, Havant, Hampshire, England, PO9 1RF, United Kingdom",
   "postcode": "PO9 1RF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "sailing club",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

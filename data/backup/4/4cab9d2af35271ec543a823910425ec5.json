@@ -75,5 +75,26 @@
   "display_address": "Weston Road, Heightley, Chirbury with Brompton, Priest Weston, Shropshire, England, SY15 6DD, United Kingdom",
   "postcode": "SY15 6DD",
   "district": "Priest Weston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "stone circle",
+    "views",
+    "nature reserve",
+    "footpath"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

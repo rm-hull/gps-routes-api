@@ -94,5 +94,28 @@
   "nominatim_found": true,
   "display_address": "Somerton Road, Horsey, North Norfolk, Norfolk, England, NR29 4EF, United Kingdom",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife watching",
+    "natural habitats"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "wildlife watching"
+  ]
 }

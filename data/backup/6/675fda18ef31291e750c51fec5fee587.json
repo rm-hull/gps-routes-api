@@ -110,5 +110,28 @@
   "nominatim_found": true,
   "display_address": "Tring Park School for the Performing Arts, Mansion Drive, Tring, Dacorum, Hertfordshire, England, HP23 5LX, United Kingdom",
   "postcode": "HP23 5LX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "butterflies",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

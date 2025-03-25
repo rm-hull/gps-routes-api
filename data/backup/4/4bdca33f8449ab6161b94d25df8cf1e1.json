@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Southend Pier Museum, Western Esplanade, Southchurch, Southend-on-Sea, Essex, England, SS1 1EE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "theme park",
+    "nature reserve",
+    "country park",
+    "historical ruins"
+  ],
+  "facilities": [
+    "car park",
+    "train"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

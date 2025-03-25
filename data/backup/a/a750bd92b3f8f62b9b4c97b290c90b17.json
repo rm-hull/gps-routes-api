@@ -84,5 +84,25 @@
   "display_address": "Main Road, Meriden, Four Oaks, Solihull, West Midlands, England, CV7 7JP, United Kingdom",
   "postcode": "CV7 7JP",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

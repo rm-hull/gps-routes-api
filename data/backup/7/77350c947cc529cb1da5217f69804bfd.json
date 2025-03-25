@@ -83,5 +83,27 @@
   "nominatim_found": true,
   "display_address": "Cool Oak Lane, West Hendon, London Borough of Barnet, London, Greater London, England, NW9 7ND, United Kingdom",
   "postcode": "NW9 7ND",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "bird hides",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

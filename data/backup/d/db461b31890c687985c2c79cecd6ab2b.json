@@ -90,5 +90,24 @@
   "display_address": "Main Road, Ormesby St. Michael, Ormesby Saint Michael, Great Yarmouth, Norfolk, England, NR29 3LT, United Kingdom",
   "postcode": "NR29 3LT",
   "district": "Great Yarmouth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "paved"
+  ],
+  "points_of_interest": [
+    "view"
+  ],
+  "facilities": [
+    "car park",
+    "benches",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

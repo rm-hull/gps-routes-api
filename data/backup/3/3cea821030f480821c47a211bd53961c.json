@@ -87,5 +87,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bridge Wharf, Chertsey, Runnymede, Surrey, England, KT16 8JB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "pasture",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views",
+    "meadows"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

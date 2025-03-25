@@ -118,5 +118,27 @@
   "nominatim_found": true,
   "display_address": "Fyvie Castle, A947, Fyvie, Aberdeenshire, Alba / Scotland, AB53 8JR, United Kingdom",
   "district": "Fyvie",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

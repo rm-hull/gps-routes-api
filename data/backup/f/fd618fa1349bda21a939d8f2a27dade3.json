@@ -84,5 +84,22 @@
   "nominatim_found": true,
   "display_address": "Newbridge Road, Hole Farm, Billingshurst, Horsham, West Sussex, England, RH14 0JG, United Kingdom",
   "district": "Billingshurst",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

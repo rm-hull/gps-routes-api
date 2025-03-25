@@ -143,5 +143,28 @@
   "county": "Northumberland",
   "region": "North East",
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles",
+    "villages",
+    "forests"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -95,5 +95,26 @@
   "display_address": "The Boyne Hotel, 2, North High Street, Portsoy, Aberdeenshire, Alba / Scotland, AB45 2PA, United Kingdom",
   "postcode": "AB45 2PA",
   "district": "Portsoy",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "rock formations",
+    "sea views",
+    "castle ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

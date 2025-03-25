@@ -108,5 +108,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bwlch yr Eifl, Pistyll, Trefor, Llanaelhaearn, Gwynedd, Cymru / Wales, LL53 6NU, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

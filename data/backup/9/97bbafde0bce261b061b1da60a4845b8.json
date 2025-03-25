@@ -123,5 +123,29 @@
   "postcode": "BD17 6AZ",
   "district": "Bradford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "natural trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

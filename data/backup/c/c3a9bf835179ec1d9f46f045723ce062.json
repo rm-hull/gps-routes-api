@@ -60,5 +60,23 @@
   "nominatim_found": true,
   "display_address": "Whitwell Wood Bungalow, Clinthill Lane, Whitwell, Hodthorpe, Bolsover, Derbyshire, East Midlands, England, S80 4QX, United Kingdom",
   "district": "Bolsover",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "wildflowers",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

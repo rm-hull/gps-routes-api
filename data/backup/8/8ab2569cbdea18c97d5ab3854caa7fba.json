@@ -85,5 +85,29 @@
   "display_address": "Beeswing, Dumfries and Galloway, Alba / Scotland, DG2 8JG, United Kingdom",
   "postcode": "DG2 8JG",
   "district": "Beeswing",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "garden"
+  ],
+  "points_of_interest": [
+    "farm",
+    "garden",
+    "shop",
+    "cafe"
+  ],
+  "facilities": [
+    "farm shop",
+    "cafe",
+    "creamery",
+    "bakery",
+    "craft workshops"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

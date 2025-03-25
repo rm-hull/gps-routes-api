@@ -94,5 +94,26 @@
   "display_address": "Kessingland, East Suffolk, Suffolk, England, NR33 7SD, United Kingdom",
   "postcode": "NR33 7SD",
   "district": "East Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "marshland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

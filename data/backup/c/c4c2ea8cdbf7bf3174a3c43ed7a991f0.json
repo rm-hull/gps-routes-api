@@ -105,5 +105,27 @@
   "display_address": "Brickhill Road, Soulbury, Heath and Reach, Central Bedfordshire, England, LU7 0BA, United Kingdom",
   "postcode": "LU7 0BA",
   "district": "Heath and Reach",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "heath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

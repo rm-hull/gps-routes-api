@@ -76,5 +76,26 @@
   "display_address": "Oulston Road, Railway Cottage, Coxwold, North Yorkshire, York and North Yorkshire, England, YO61 4AA, United Kingdom",
   "postcode": "YO61 4AA",
   "district": "Coxwold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "religious sites",
+    "observatory"
+  ],
+  "facilities": [
+    "car park",
+    "pub/hotel"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

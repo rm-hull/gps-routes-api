@@ -75,5 +75,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Spar, High Street, Glyn Ceiriog, Llansantffraid Glyn Ceiriog, Glyn Ceiriog, Wrexham, Cymru / Wales, LL20 7EH, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "reservoir",
+    "farmland"
+  ],
+  "facilities": [
+    "car park",
+    "river crossing"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

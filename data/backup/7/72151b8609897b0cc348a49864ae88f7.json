@@ -50,5 +50,26 @@
   "display_address": "Stanner Bank Car Park, Outer Promenade, Fairhaven, Ansdell, Lytham St Annes, Fylde, Lancashire, England, FY8 1BA, United Kingdom",
   "postcode": "FY8 1BA",
   "district": "Fylde",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "water"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "boat hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "boating"
+  ]
 }

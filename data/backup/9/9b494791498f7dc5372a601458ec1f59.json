@@ -93,5 +93,25 @@
   "nominatim_found": true,
   "display_address": "B4434, Resolven, Neath Port Talbot, Cymru / Wales, SA11 4BZ, United Kingdom",
   "district": "Resolven",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

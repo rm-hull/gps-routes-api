@@ -95,5 +95,27 @@
   "display_address": "Windy Gap Car Park, Old Blackgang Road, Niton and Whitwell, Niton, Isle of Wight, England, PO38 2BY, United Kingdom",
   "postcode": "PO38 2BY",
   "district": "Niton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

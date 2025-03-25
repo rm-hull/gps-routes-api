@@ -94,5 +94,24 @@
   "display_address": "Lydford Gorge (NT), Lydford, West Devon, Devon, England, EX20 4BH, United Kingdom",
   "postcode": "EX20 4BH",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "whirlpools",
+    "valley"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

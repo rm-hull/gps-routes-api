@@ -76,5 +76,25 @@
   "display_address": "Marple, Brabyns Brow / Marple Station (Stop A), Brabyns Brow, Marple Bridge, Stockport, Greater Manchester, England, SK6 7DA, United Kingdom",
   "postcode": "SK6 7DA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

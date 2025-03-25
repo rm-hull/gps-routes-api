@@ -72,5 +72,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Colquhoun Street, Helensburgh, Argyll and Bute, Alba / Scotland, G84 8AJ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "figure of eight",
+  "activities": [
+    "walking"
+  ]
 }

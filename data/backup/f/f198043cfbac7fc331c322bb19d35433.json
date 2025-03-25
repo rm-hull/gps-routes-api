@@ -76,5 +76,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Rotten Row, Belgravia, London, Greater London, England, SW1X 7TA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "memorials",
+    "public debates",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

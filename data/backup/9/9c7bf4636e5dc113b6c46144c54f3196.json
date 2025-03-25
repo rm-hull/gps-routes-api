@@ -75,5 +75,24 @@
   "nominatim_found": true,
   "display_address": "High Street, Broom Hill, Goddington, London Borough of Bromley, London, Greater London, England, BR6 0FH, United Kingdom",
   "postcode": "BR6 0FH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -33,5 +33,24 @@
   "nominatim_found": true,
   "display_address": "Croxdale Gardens, Wardley, Pelaw, Gateshead, Tyne and Wear, North East, England, NE10 0RP, United Kingdom",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "farmland",
+    "river"
+  ],
+  "points_of_interest": [
+    "farmland",
+    "local produce"
+  ],
+  "facilities": [
+    "cafe",
+    "farm shop"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

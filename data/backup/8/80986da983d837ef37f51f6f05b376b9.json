@@ -75,5 +75,25 @@
   "display_address": "Maldon Road, Langford, Maldon, Essex, England, CM9 4ST, United Kingdom",
   "postcode": "CM9 4ST",
   "district": "Maldon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "waterways"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -78,5 +78,25 @@
   "nominatim_found": true,
   "display_address": "Mapperley Reservoir Car Park, Shipley Lane, Shipley, Amber Valley, Derbyshire, East Midlands, England, DE7 6BR, United Kingdom",
   "district": "Amber Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "picnic tables",
+    "information board"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

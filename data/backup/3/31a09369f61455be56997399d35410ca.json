@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cheadle Road, Cheddleton, Staffordshire Moorlands, Staffordshire, England, ST13 7HL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "museum",
+    "historical sites",
+    "watermills",
+    "canals"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

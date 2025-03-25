@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pentre-du, Aber, Abergwyngregyn, Gwynedd, Cymru / Wales, LL33 0LE, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

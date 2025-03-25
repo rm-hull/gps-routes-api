@@ -84,5 +84,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ashby Road, Ashby Fields, Daventry, West Northamptonshire, England, NN11 0LA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

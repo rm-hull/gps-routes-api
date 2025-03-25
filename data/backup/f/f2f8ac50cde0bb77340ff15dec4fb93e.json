@@ -63,5 +63,26 @@
   "display_address": "Helebridge Road, Marhamchurch, Cornwall, England, EX23 0HY, United Kingdom",
   "postcode": "EX23 0HY",
   "district": "Marhamchurch",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

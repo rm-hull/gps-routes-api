@@ -98,5 +98,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A272, Easebourne, Chichester, West Sussex, England, GU29 0AQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "memorials"
+  ],
+  "facilities": [
+    "tea room",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

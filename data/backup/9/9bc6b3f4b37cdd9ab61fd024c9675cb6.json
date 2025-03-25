@@ -66,5 +66,26 @@
   "display_address": "Procession Road, Glenburn, Renfrewshire, Alba / Scotland, PA2 8TB, United Kingdom",
   "postcode": "PA2 8TB",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

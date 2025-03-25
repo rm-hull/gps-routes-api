@@ -76,5 +76,26 @@
   "display_address": "Brandsby Street, Crayke, North Yorkshire, York and North Yorkshire, England, YO61 4TE, United Kingdom",
   "postcode": "YO61 4TE",
   "district": "Crayke",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "historical sites"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "lake"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

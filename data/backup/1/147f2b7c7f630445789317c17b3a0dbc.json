@@ -64,5 +64,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B8000, Port Driseach, Tighnabruaich, Argyll and Bute, Alba / Scotland, PA21 2DX, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -118,5 +118,24 @@
   "nominatim_found": true,
   "display_address": "Blackstone Edge Road, Hebden Royd, Cragg Vale, Calderdale, West Yorkshire, England, HX7 5TE, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

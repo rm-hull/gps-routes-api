@@ -88,5 +88,27 @@
   "display_address": "Meadow Nature Trail, Stoneham, Eastleigh, Hampshire, England, SO18 3NE, United Kingdom",
   "postcode": "SO18 3NE",
   "district": "Eastleigh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "long distance trail"
+  ],
+  "facilities": [
+    "visitor center",
+    "gift shop",
+    "interactive displays"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

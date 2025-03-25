@@ -90,5 +90,28 @@
   "display_address": "Mere Sands Wood Car Park, Holmeswood Road, Rufford, West Lancashire, Lancashire, England, L40 1RZ, United Kingdom",
   "postcode": "L40 1RZ",
   "district": "West Lancashire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wet meadows",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife spotting",
+    "waterways"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

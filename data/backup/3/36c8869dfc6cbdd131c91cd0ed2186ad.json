@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Lower Coastguard Lane, Hastings, East Sussex, England, TN35 4AD, United Kingdom",
   "postcode": "TN35 4AD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

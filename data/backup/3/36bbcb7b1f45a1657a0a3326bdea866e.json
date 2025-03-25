@@ -123,5 +123,25 @@
   "nominatim_found": true,
   "display_address": "Main Street, Yardie, Buckie, Moray, Alba / Scotland, AB56 1QQ, United Kingdom",
   "postcode": "AB56 1QQ",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

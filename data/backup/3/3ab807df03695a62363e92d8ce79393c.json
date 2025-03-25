@@ -128,5 +128,25 @@
   "display_address": "Town Pier Square, Gravesend Town Centre, Milton, Gravesend, Gravesham, Kent, England, DA11 0BJ, United Kingdom",
   "postcode": "DA11 0BJ",
   "district": "Gravesham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "chalk ridge",
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

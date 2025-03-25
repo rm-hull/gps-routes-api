@@ -123,5 +123,30 @@
   "display_address": "Hardwick Top Road, Hardwick, Clumber and Hardwick, Bassetlaw, Nottinghamshire, East Midlands, England, S80 3PD, United Kingdom",
   "postcode": "S80 3PD",
   "district": "Bassetlaw",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "gardens",
+    "country park"
+  ],
+  "facilities": [
+    "bike hire",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

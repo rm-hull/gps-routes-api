@@ -118,5 +118,32 @@
   "nominatim_found": true,
   "display_address": "Treetop Walk Way, Palacerigg Cottages, North Lanarkshire, Alba / Scotland, ML6 7TU, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "water features",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "gift shop",
+    "cafe",
+    "picnic sites",
+    "field archery course",
+    "children's play area",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

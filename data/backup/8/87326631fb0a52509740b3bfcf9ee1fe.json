@@ -83,5 +83,25 @@
   "nominatim_found": true,
   "display_address": "Plantation Road, Witton and Ridlington, North Norfolk, Norfolk, England, NR28 9UE, United Kingdom",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "long distance trails"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

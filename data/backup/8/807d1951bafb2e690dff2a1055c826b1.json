@@ -113,5 +113,24 @@
   "display_address": "Grange Road, Newburn, Newcastle upon Tyne, North East, England, NE15 8HE, United Kingdom",
   "postcode": "NE15 8HE",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "pathway",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

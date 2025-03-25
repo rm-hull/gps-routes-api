@@ -63,5 +63,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lower Street, Desborough, North Northamptonshire, England, NN14 2NP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "nature"
+  ],
+  "facilities": [
+    "benches"
+  ],
+  "route_type": "linear",
+  "activities": [
+    "walking"
+  ]
 }

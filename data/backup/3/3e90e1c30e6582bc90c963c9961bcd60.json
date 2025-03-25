@@ -99,5 +99,28 @@
   "county": "Pembrokeshire",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "river",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

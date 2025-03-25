@@ -70,5 +70,26 @@
   "nominatim_found": true,
   "display_address": "Haworth Road, Sandy Lane, Bradford, West Yorkshire, England, BD15 9LL, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature observation"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "walking"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

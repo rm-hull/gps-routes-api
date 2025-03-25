@@ -75,5 +75,27 @@
   "nominatim_found": true,
   "display_address": "Hurdlow, Hartington Middle Quarter CP, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 9QJ, United Kingdom",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "hamlets",
+    "country lanes"
+  ],
+  "facilities": [
+    "car park",
+    "pub",
+    "trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

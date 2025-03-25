@@ -67,5 +67,23 @@
   "county": "Wiltshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "waymarking"
+  ],
+  "route_type": "linear",
+  "activities": [
+    "walking"
+  ]
 }

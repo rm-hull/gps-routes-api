@@ -105,5 +105,29 @@
   "postcode": "DN4 5PN",
   "district": "Doncaster",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "marsh",
+    "grassland",
+    "waterways"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

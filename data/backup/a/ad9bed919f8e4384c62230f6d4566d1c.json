@@ -66,5 +66,23 @@
   "nominatim_found": true,
   "display_address": "Eldon Street, Ossett, Wakefield, West Yorkshire, England, WF5 9JY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "lake"
+  ],
+  "facilities": [
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

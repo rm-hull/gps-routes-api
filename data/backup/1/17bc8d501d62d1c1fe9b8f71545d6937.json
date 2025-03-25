@@ -84,5 +84,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cliff Road, Hessle, East Riding of Yorkshire, England, HU13 0HE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved path",
+    "woodland",
+    "riverbank"
+  ],
+  "points_of_interest": [
+    "river views",
+    "city centre",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "rail station",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

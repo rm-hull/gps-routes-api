@@ -98,5 +98,25 @@
   "nominatim_found": true,
   "display_address": "Bridge of Tanar, Aberdeenshire, Alba / Scotland, AB34 5PH, United Kingdom",
   "postcode": "AB34 5PH",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2.5 - 5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "boat house"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

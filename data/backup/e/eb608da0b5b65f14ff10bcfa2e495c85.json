@@ -105,5 +105,24 @@
   "nominatim_found": true,
   "display_address": "Paysanne Restaurant, 147, Ffordd yr Orsaf, Llandudno Junction, Conwy, Cymru / Wales, LL31 9EJ, United Kingdom",
   "postcode": "LL31 9EJ",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

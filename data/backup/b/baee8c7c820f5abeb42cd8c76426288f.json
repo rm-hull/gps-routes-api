@@ -67,5 +67,29 @@
   "nominatim_found": true,
   "display_address": "Warwick Castle, Bowling Green Street, Cliff Hill, Warwick, Warwickshire, England, CV34 6AH, United Kingdom",
   "postcode": "CV34 6AH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "picnic areas",
+    "tea room",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

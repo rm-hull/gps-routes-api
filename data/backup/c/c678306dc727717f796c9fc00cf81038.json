@@ -84,5 +84,32 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Worcester Road, Leominster, Herefordshire, England, HR6 8AU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "village green",
+    "church",
+    "farmhouse",
+    "gardens",
+    "rare plants"
+  ],
+  "facilities": [
+    "visitor center",
+    "tea room",
+    "pub/cafe",
+    "footpath",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

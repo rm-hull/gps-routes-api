@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hanbury Road, Stoke CP, Stoke Prior, Bromsgrove, Worcestershire, England, B60 4LA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "natural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "water features"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

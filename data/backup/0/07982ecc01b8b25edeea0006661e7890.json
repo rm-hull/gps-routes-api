@@ -143,5 +143,27 @@
   "nominatim_found": true,
   "display_address": "Kasteale, Westgate, Haltwhistle, Northumberland, North East, England, NE49 9AF, United Kingdom",
   "postcode": "NE49 9AF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

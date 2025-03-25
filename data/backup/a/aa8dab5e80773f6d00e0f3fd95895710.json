@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "Haresfinch Road, Gerard's Bridge, St Helens, Liverpool City Region, England, WA10 1ND, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "park",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "park"
+  ],
+  "facilities": [
+    "public footpath",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

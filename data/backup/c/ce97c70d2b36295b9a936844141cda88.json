@@ -70,5 +70,24 @@
   "display_address": "Garner Lane, Holme Valley, Netherton, Kirklees, West Yorkshire, England, HD9 6RS, United Kingdom",
   "postcode": "HD9 6RS",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "field"
+  ],
+  "points_of_interest": [
+    "views",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

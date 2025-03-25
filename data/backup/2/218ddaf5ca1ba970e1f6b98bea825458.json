@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marys Lane, Grindsbrook Booth, Edale, High Peak, Derbyshire, East Midlands, England, S33 7ZN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildflower meadows",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

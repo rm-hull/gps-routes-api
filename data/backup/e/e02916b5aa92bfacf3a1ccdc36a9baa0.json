@@ -93,5 +93,28 @@
   "display_address": "A496, Barmouth, Gwynedd, Cymru / Wales, LL42 1LX, United Kingdom",
   "postcode": "LL42 1LX",
   "district": "Barmouth",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfalls",
+    "hill fort"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

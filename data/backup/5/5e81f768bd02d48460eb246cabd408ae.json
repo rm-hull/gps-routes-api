@@ -128,5 +128,24 @@
   "nominatim_found": true,
   "display_address": "Ashford Road, Ashford in the Water CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1PX, United Kingdom",
   "postcode": "DE45 1PX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "river views",
+    "historical bridges"
+  ],
+  "facilities": [
+    "pub",
+    "bus"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

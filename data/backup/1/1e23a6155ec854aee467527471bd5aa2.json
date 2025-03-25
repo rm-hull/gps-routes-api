@@ -128,5 +128,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Smiddy Brae, Cawdor, Highland, Alba / Scotland, IV12 5XP, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -90,5 +90,25 @@
   "nominatim_found": true,
   "display_address": "Coddenham Road, Mid Suffolk, Suffolk, England, IP6 8NT, United Kingdom",
   "postcode": "IP6 8NT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

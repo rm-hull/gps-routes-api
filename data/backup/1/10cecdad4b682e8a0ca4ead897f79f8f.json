@@ -66,5 +66,29 @@
   "nominatim_found": true,
   "display_address": "Coombs Road, Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1AR, United Kingdom",
   "postcode": "DE45 1AR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historic halls",
+    "countryside",
+    "church",
+    "gardens"
+  ],
+  "facilities": [
+    "tea room",
+    "pub/cafe",
+    "hotel",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

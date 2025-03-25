@@ -114,5 +114,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Station Car Park, Barton Close, Bradford-on-Avon, Wiltshire, England, BA15 1EF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "craft shops",
+    "tea rooms",
+    "church",
+    "golf course"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

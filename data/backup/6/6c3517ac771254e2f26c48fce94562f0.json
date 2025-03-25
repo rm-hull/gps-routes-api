@@ -72,5 +72,25 @@
   "display_address": "Sweeties of Rothbury, 4a, Bridge Street, Rothbury, Northumberland, North East, England, NE65 7SE, United Kingdom",
   "postcode": "NE65 7SE",
   "district": "Rothbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "rock carvings",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

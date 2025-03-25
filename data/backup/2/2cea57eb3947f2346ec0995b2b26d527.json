@@ -85,5 +85,27 @@
   "display_address": "Exbury Gardens, Inchmery Lane, Exbury, Exbury and Lepe, New Forest, Hampshire, England, SO45 1AH, United Kingdom",
   "postcode": "SO45 1AH",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

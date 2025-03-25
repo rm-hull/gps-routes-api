@@ -112,5 +112,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Limedale Court, Newcastle Road, Stonefield, Stone, Stafford, Staffordshire, England, ST15 8LF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "lake",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

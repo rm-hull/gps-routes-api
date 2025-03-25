@@ -65,5 +65,29 @@
   "nominatim_found": true,
   "display_address": "Centre Road, Aldersbrook, London Borough of Redbridge, London, Greater London, England, E7 0EF, United Kingdom",
   "postcode": "E7 0EF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "water features",
+    "pond",
+    "trail"
+  ],
+  "facilities": [
+    "car park",
+    "public transport",
+    "parkrun"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

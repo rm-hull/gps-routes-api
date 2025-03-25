@@ -124,5 +124,25 @@
   "nominatim_found": true,
   "display_address": "Tockholes Road, Ryal Fold, Tockholes, Blackburn with Darwen, England, BB3 0NZ, United Kingdom",
   "postcode": "BB3 0NZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

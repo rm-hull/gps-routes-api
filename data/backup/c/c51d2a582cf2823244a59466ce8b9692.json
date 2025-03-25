@@ -76,5 +76,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Street, Chelmorton CP, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 9SH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "limestone",
+    "gorge",
+    "river"
+  ],
+  "points_of_interest": [
+    "village",
+    "trails",
+    "scenery"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

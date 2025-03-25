@@ -127,5 +127,27 @@
   "nominatim_found": true,
   "display_address": "Keynsham Road, Bitton, Keynsham, South Gloucestershire, West of England, England, BS31 2UG, United Kingdom",
   "postcode": "BS31 2UG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "country park",
+    "village",
+    "river"
+  ],
+  "facilities": [
+    "play area",
+    "petting zoo",
+    "miniature railway",
+    "boating lake"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

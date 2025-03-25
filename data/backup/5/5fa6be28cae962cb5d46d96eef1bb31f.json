@@ -113,5 +113,25 @@
   "nominatim_found": true,
   "display_address": "1-4, Canal Street, Ulverston, Westmorland and Furness, England, LA12 7JZ, United Kingdom",
   "postcode": "LA12 7JZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "water loving wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "Cumbria Coastal Way"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

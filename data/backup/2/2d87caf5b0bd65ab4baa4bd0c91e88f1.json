@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Earlesfield Lane, Earlesfield, Grantham, South Kesteven, Lincolnshire, England, NG31 7QE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -103,5 +103,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Worden Park, Kingsway, Wade Hall, Moss Side, Leyland, South Ribble, Lancashire, England, PR25 1BN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water",
+    "garden"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "maze",
+    "historical site",
+    "water feature"
+  ],
+  "facilities": [
+    "car park",
+    "waterfront",
+    "accessible parking"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

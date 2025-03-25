@@ -78,5 +78,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Great British Car Journey, Matlock Road, Crich CP, Ambergate, Amber Valley, Derbyshire, East Midlands, England, DE56 2HE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

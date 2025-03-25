@@ -98,5 +98,24 @@
   "display_address": "South Meadow Walk, Harting, Chichester, West Sussex, England, GU31 5QR, United Kingdom",
   "postcode": "GU31 5QR",
   "district": "Chichester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

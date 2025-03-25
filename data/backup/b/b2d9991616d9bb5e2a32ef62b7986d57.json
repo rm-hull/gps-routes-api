@@ -119,5 +119,27 @@
   "county": "Cornwall",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museums",
+    "stone circles",
+    "village"
+  ],
+  "facilities": [
+    "tea shops",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

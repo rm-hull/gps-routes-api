@@ -108,5 +108,27 @@
   "nominatim_found": true,
   "display_address": "131, Thorpe Road, Thorpe CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 2BE, United Kingdom",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rock",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural arches",
+    "hilltops",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "tea shop"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

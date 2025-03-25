@@ -104,5 +104,24 @@
   "nominatim_found": true,
   "display_address": "Dragons Back Bunkhouse, A479, Pen-y-wern, Talgarth, Powys, Cymru / Wales, LD3 0ER, United Kingdom",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "hillfort"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

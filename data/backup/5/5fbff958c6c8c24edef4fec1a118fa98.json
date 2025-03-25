@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Street, Brandesburton, East Riding of Yorkshire, England, YO25 8RH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical church",
+    "country trails"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

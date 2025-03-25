@@ -75,5 +75,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Casa Muralla, Brag Lane, Shaugh Prior, South Hams, Devon, England, PL7 5EQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

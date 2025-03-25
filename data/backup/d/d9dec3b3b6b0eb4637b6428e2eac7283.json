@@ -99,5 +99,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Victory House, Trafalgar Place, Round Hill, Brighton, Brighton and Hove, England, BN1 4PW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "road",
+    "footpath",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "village",
+    "historic house",
+    "castle"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -67,5 +67,22 @@
   "nominatim_found": true,
   "display_address": "43, Haigh Moor Road, West Ardsley, Tingley, West Yorkshire, England, WF3 1EF, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved path",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

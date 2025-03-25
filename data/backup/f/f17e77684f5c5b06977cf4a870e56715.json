@@ -95,5 +95,24 @@
   "display_address": "Wasdale Campsite, Old Corpse Road, Wasdale, Cumberland, England, CA20 1EX, United Kingdom",
   "postcode": "CA20 1EX",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "bridge"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

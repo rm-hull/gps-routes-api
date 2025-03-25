@@ -123,5 +123,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Crawley Greenway, Pound Hill, Crawley, West Sussex, England, RH10 3DX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "natural"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "nature reserve",
+    "park"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

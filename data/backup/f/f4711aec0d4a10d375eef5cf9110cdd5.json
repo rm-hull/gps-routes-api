@@ -104,5 +104,25 @@
   "display_address": "National Park Visitor Centre, B3387, Smallacombe, Ilsington, Haytor Vale, Teignbridge, Devon, England, TQ13 9XP, United Kingdom",
   "postcode": "TQ13 9XP",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -84,5 +84,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Thames Path - northern Bank, London Borough of Hounslow, London, Greater London, England, TW8 8BD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "parkland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "gardens",
+    "ponds",
+    "wild plants",
+    "brooks"
+  ],
+  "facilities": [
+    "car park",
+    "trim trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

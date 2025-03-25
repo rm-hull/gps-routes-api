@@ -114,5 +114,26 @@
   "display_address": "Whiston Lane Ends, Whiston, Huyton, Knowsley, Liverpool City Region, England, L35 3SD, United Kingdom",
   "postcode": "L35 3SD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -80,5 +80,23 @@
   "display_address": "Brentor, North Brentor, West Devon, Devon, England, PL19 0NP, United Kingdom",
   "postcode": "PL19 0NP",
   "district": "West Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "stone"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

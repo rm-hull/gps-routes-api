@@ -108,5 +108,25 @@
   "display_address": "Kirkham, Westow, North Yorkshire, York and North Yorkshire, England, YO60 7JS, United Kingdom",
   "postcode": "YO60 7JS",
   "district": "Kirkham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

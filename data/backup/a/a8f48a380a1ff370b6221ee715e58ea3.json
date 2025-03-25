@@ -98,5 +98,24 @@
   "nominatim_found": true,
   "display_address": "Mansfield Road, Norton, Cuckney, Holbeck and Welbeck, Holbeck, Bassetlaw, Nottinghamshire, East Midlands, England, S80 3NB, United Kingdom",
   "district": "Bassetlaw",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

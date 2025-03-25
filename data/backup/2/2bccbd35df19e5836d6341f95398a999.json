@@ -84,5 +84,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Parkway, Yeading, London Borough of Hillingdon, London, Greater London, England, UB3 3QE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "picnic areas",
+    "meadows",
+    "hedgerows",
+    "views"
+  ],
+  "facilities": [
+    "picnic areas",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

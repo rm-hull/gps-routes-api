@@ -109,5 +109,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Waterside North, New Boultham, Lincoln, Lincolnshire, England, LN2 5AR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "fenland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "river views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

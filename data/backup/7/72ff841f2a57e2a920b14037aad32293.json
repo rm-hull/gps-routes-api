@@ -75,5 +75,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Cuckoo Trail, Sandy Cross, Heathfield and Waldron, Heathfield, Wealden, East Sussex, England, TN21 8AH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "wildlife"
+  ],
+  "facilities": [
+    "train station",
+    "accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

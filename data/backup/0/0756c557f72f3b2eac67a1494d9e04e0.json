@@ -90,5 +90,23 @@
   "display_address": "Howtown Pier, Howtown, Martindale, Westmorland and Furness, England, CA10 2ND, United Kingdom",
   "postcode": "CA10 2ND",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

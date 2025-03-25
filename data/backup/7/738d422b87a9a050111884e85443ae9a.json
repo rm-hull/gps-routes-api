@@ -104,5 +104,28 @@
   "nominatim_found": true,
   "display_address": "Ryde Transport Interchange, Esplanade, Pelhamfield, Ryde, Isle of Wight, England, PO33 2ED, United Kingdom",
   "postcode": "PO33 2ED",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "parks",
+    "beaches",
+    "harbour",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "beach",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "swimming"
+  ]
 }

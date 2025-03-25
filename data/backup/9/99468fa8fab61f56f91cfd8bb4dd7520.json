@@ -88,5 +88,23 @@
   "display_address": "A5093, Whicham, Cumberland, England, LA18 5LP, United Kingdom",
   "postcode": "LA18 5LP",
   "district": "Whicham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

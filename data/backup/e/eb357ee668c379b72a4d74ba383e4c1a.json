@@ -115,5 +115,25 @@
   "nominatim_found": true,
   "display_address": "Daneswood Road, Binley Woods CP, Brandon, Rugby, Warwickshire, England, CV3 2BJ, United Kingdom",
   "postcode": "CV3 2BJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildflower meadows",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -103,5 +103,28 @@
   "display_address": "A426, Thurlaston CP, Rugby, Warwickshire, England, CV23 8AB, United Kingdom",
   "postcode": "CV23 8AB",
   "district": "Rugby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "natural"
+  ],
+  "points_of_interest": [
+    "views",
+    "nature reserve",
+    "canal"
+  ],
+  "facilities": [
+    "visitor center",
+    "restaurant",
+    "bird hide",
+    "feeding station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

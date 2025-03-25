@@ -110,5 +110,28 @@
   "display_address": "Speech House Woods, Speech House Road, Cinderford, Forest of Dean, Gloucestershire, England, GL16 7EL, United Kingdom",
   "postcode": "GL16 7EL",
   "district": "Forest of Dean",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculpture trail",
+    "arboretum"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "hotel"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

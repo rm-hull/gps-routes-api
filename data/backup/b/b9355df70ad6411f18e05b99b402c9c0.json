@@ -104,5 +104,24 @@
   "display_address": "B9005, Cottown, Woodhead, Aberdeenshire, Alba / Scotland, AB41 7HX, United Kingdom",
   "postcode": "AB41 7HX",
   "district": "Woodhead",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

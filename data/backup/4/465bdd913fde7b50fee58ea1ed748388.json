@@ -77,5 +77,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "2, Skidmore Way, The Cedars Estate, Batchworth, Rickmansworth, Three Rivers, Hertfordshire, England, WD3 1JF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "wetlands",
+    "moors"
+  ],
+  "points_of_interest": [
+    "natural habitats"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

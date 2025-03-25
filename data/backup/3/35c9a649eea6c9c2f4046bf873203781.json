@@ -60,5 +60,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cunningham's Outdoors, Forest Road, Betws-y-coed, Conwy, Cymru / Wales, LL24 0BB, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

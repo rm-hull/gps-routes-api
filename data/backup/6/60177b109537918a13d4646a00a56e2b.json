@@ -128,5 +128,24 @@
   "display_address": "Panorama Road, Barmouth, Gwynedd, Cymru / Wales, LL42 1DJ, United Kingdom",
   "postcode": "LL42 1DJ",
   "district": "Barmouth",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

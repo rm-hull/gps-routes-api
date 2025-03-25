@@ -80,5 +80,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Throop Road, Throop and Holdenhurst, Throop, Bournemouth, Bournemouth, Christchurch and Poole, England, BH8 0DN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "nature reserve",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical mill",
+    "wildlife",
+    "farmland",
+    "pond"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "golf course"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

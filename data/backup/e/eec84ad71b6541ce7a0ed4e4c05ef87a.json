@@ -103,5 +103,28 @@
   "nominatim_found": true,
   "display_address": "Flatford Lane, Flatford, East Bergholt, Babergh, Suffolk, England, CO7 6UJ, United Kingdom",
   "district": "Babergh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "watermill",
+    "lake",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "tea room",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -63,5 +63,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "8, Chapel Lane, Burton in Lonsdale, North Yorkshire, York and North Yorkshire, England, LA6 3JY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views",
+    "trails"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

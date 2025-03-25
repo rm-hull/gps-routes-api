@@ -104,5 +104,28 @@
   "nominatim_found": true,
   "display_address": "Forth Drive, Bacon's End, Chelmsley Wood, Kingshurst, Solihull, West Midlands, England, B37 6PU, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "park",
+    "residential"
+  ],
+  "points_of_interest": [
+    "lakes",
+    "nature reserve",
+    "historic mill"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

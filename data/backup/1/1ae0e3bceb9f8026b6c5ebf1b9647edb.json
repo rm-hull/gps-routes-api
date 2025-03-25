@@ -103,5 +103,27 @@
   "nominatim_found": true,
   "display_address": "Steep Lane, South Greenslade Farm, Brompton Regis, Somerset, England, TA22 9NU, United Kingdom",
   "district": "Brompton Regis",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "countryside"
+  ],
+  "facilities": [
+    "cafe",
+    "cycle hire",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

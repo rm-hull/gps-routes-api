@@ -113,5 +113,27 @@
   "display_address": "Gartmorn Dam, Gartmorn Road, Clackmannan, Clackmannanshire, Alba / Scotland, FK10 3PB, United Kingdom",
   "postcode": "FK10 3PB",
   "district": "Clackmannan",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "wildlife watching",
+    "historical buildings",
+    "nature observation"
+  ],
+  "facilities": [
+    "visitor center",
+    "picnic areas",
+    "bird hide"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

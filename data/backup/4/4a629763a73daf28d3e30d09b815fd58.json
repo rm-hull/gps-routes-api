@@ -98,5 +98,26 @@
   "display_address": "Oak Walk Trail, Arlington, Polegate, Wealden, East Sussex, England, BN26 6SJ, United Kingdom",
   "postcode": "BN26 6SJ",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

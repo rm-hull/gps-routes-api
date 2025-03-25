@@ -139,5 +139,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Tramway, Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, CV37 6YY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "urban"
+  ],
+  "points_of_interest": [
+    "theatre",
+    "cricket ground",
+    "butterfly farm",
+    "church",
+    "historical building"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

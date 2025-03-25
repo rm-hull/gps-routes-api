@@ -83,5 +83,23 @@
   "display_address": "Ducketts Mead, Roydon, Epping Forest, Essex, England, CM19 5EG, United Kingdom",
   "postcode": "CM19 5EG",
   "district": "Epping Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "locks",
+    "parks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

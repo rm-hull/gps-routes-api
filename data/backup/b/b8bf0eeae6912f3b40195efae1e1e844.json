@@ -75,5 +75,24 @@
   "display_address": "The Farmhouse, Pembrokeshire Coast Path, Treginnis-isaf, St. David's and the Cathedral Close, St Davids, Pembrokeshire, Cymru / Wales, SA62 6RS, United Kingdom",
   "postcode": "SA62 6RS",
   "district": "St Davids",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "wildflowers"
+  ],
+  "facilities": [
+    "car park",
+    "boat access"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

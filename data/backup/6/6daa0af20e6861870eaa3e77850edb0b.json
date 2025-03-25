@@ -80,5 +80,28 @@
   "display_address": "High Street, Loxwood, Chichester, West Sussex, England, RH14 0RD, United Kingdom",
   "postcode": "RH14 0RD",
   "district": "Chichester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic locks",
+    "bridges",
+    "aqueduct",
+    "river views"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "beer garden",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -72,5 +72,27 @@
   "display_address": "Mulberry Park, Low Fell, Gateshead, Tyne and Wear, North East, England, NE9 5AR, United Kingdom",
   "postcode": "NE9 5AR",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "play areas",
+    "maze",
+    "visitor center",
+    "woodland valley"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "animal farm"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

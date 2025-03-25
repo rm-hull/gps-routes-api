@@ -108,5 +108,25 @@
   "display_address": "B4310, Nant-y-Ffin, Llanfihangel Rhos-y-Corn, Brechfa, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA32 7RG, United Kingdom",
   "postcode": "SA32 7RG",
   "district": "Brechfa",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

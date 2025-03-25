@@ -72,5 +72,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "2, Mount Pleasant Road, Knave-Go-By, Beacon, Camborne, Cornwall, England, TR14 7RH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "hillforts"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

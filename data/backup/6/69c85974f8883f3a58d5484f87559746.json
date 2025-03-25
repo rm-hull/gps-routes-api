@@ -143,5 +143,26 @@
   "display_address": "Finchdean Road, Rowlands Castle, East Hampshire, Hampshire, England, PO9 6BW, United Kingdom",
   "postcode": "PO9 6BW",
   "district": "East Hampshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

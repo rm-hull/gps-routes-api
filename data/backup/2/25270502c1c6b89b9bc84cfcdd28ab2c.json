@@ -118,5 +118,27 @@
   "nominatim_found": true,
   "display_address": "Segedunum, Buddle Street, Wallsend, North Tyneside, Tyne and Wear, North East, England, NE28 6HR, United Kingdom",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside",
+    "farmland",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "toilets"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -33,5 +33,27 @@
   "county": "Gwynedd",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "Bronze Age sites"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail",
+    "cycle trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

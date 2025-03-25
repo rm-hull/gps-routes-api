@@ -88,5 +88,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cedars Avenue, Mitcham, London Borough of Merton, London, Greater London, England, CR4 1HA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "scrub"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "ponds"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

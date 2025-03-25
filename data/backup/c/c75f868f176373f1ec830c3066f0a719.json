@@ -75,5 +75,26 @@
   "nominatim_found": true,
   "display_address": "36, East Approach Drive, Marle Hill, Pittville, Cheltenham, Gloucestershire, England, GL52 3JE, United Kingdom",
   "postcode": "GL52 3JE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "landmark"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -98,5 +98,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Great Notley Bypass, Great Notley, Braintree, Essex, England, CM77 7JS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "cafe",
+    "cycle hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

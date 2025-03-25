@@ -114,5 +114,27 @@
   "nominatim_found": true,
   "display_address": "Station Road, Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1AQ, United Kingdom",
   "postcode": "DE45 1AQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

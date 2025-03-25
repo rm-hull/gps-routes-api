@@ -89,5 +89,23 @@
   "postcode": "SK15 3QP",
   "district": "Tameside",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "footpaths"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

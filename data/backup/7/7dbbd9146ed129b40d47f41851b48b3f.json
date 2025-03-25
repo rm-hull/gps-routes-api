@@ -108,5 +108,25 @@
   "nominatim_found": true,
   "display_address": "Red Lion Inn, Main Street, Birchover CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2BN, United Kingdom",
   "postcode": "DE4 2BN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "stone circles",
+    "towers"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -59,5 +59,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "M23, Worth, Maidenbower, Crawley, West Sussex, England, RH10 7ZJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "park"
+  ],
+  "points_of_interest": [
+    "views",
+    "lake"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

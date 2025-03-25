@@ -93,5 +93,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Constitution Hill, Greenfoot, Settle, North Yorkshire, York and North Yorkshire, England, BD24 9ES, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "scenery",
+    "waterfalls",
+    "caves"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "public footpath"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

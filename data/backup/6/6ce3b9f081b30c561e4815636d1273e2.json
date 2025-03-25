@@ -68,5 +68,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Barley House Farm, Barley-with-Wheatley Booth, Barley, Pendle, Lancashire, England, BB12 9JX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

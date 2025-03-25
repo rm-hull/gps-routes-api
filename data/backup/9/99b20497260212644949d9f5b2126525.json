@@ -71,5 +71,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ruebury Lane, Osmotherley, North Yorkshire, York and North Yorkshire, England, DL6 3BQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "ancient sites",
+    "waterside paths"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

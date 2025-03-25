@@ -123,5 +123,24 @@
   "display_address": "Main Street, Manor House Farm, Wakerley, North Northamptonshire, England, LE15 8PA, United Kingdom",
   "postcode": "LE15 8PA",
   "district": "Wakerley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

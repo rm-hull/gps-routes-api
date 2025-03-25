@@ -68,5 +68,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Walwen, Ysceifiog, Flintshire, Cymru / Wales, CH8 8NE, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "country views",
+    "waterfall"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

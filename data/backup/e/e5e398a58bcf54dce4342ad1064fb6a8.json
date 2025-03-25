@@ -104,5 +104,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Trent Lock Dry Dock, Lock Lane, Sawley, Erewash, Derbyshire, East Midlands, England, NG10 2FY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

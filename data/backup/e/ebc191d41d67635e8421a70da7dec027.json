@@ -98,5 +98,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sarah Hodge, 2, Angel Hill, West Exe, Tiverton, Mid Devon, Devon, England, EX16 6PE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "shops",
+    "riverfront",
+    "village"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "shop",
+    "restaurant"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

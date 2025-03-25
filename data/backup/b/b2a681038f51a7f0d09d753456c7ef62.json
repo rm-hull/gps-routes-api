@@ -89,5 +89,25 @@
   "nominatim_found": true,
   "display_address": "Sutton Hill, Sutton Bingham, Closworth, Somerset, England, BA22 9QP, United Kingdom",
   "postcode": "BA22 9QP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "meadow",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "wildflower areas",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

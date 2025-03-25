@@ -90,5 +90,26 @@
   "display_address": "Farne Island Lighthouse, B1340, North Sunderland, Bamburgh, Northumberland, North East, England, NE68 7SY, United Kingdom",
   "postcode": "NE68 7SY",
   "district": "Bamburgh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

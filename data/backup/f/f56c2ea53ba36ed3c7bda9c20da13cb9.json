@@ -100,5 +100,24 @@
   "display_address": "Brick Kiln Lane, Limpsfield, Tandridge, Surrey, England, RH8 0QG, United Kingdom",
   "postcode": "RH8 0QG",
   "district": "Limpsfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "wildlife",
+    "historical sites"
+  ],
+  "facilities": [
+    "picnic"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

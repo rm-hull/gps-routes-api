@@ -98,5 +98,25 @@
   "display_address": "Porthgwidden Car Park, Wheal Dream, St. Ives, Cornwall, England, TR26 1PR, United Kingdom",
   "postcode": "TR26 1PR",
   "district": "St. Ives",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "beaches",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

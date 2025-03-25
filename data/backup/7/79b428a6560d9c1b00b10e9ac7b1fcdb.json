@@ -100,5 +100,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Leek Town 37, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 7AB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "views",
+    "river valley"
+  ],
+  "facilities": [
+    "footpaths",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

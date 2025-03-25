@@ -84,5 +84,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Surrey Drive, Kettlebrook, Tamworth, Staffordshire, England, B78 3XB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "religious sites",
+    "ruins",
+    "lakes",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

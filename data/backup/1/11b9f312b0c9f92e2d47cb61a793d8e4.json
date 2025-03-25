@@ -90,5 +90,26 @@
   "display_address": "Burley Lane, Duffield, Amber Valley, Derbyshire, East Midlands, England, DE22 2ET, United Kingdom",
   "postcode": "DE22 2ET",
   "district": "Amber Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "gardens"
+  ],
+  "facilities": [
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

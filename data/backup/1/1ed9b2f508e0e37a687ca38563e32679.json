@@ -52,5 +52,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Road, Claverdon CP, Claverdon, Stratford-on-Avon, Warwickshire, England, CV35 8PY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "common",
+    "canals"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

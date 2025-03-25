@@ -74,5 +74,27 @@
   "nominatim_found": true,
   "display_address": "Holvert Lane, Wayford, Somerset, England, TA18 8QH, United Kingdom",
   "postcode": "TA18 8QH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "picnic area",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

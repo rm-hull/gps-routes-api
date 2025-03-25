@@ -105,5 +105,26 @@
   "display_address": "Monsal Trail, Taddington CP, Priestcliffe, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 8SS, United Kingdom",
   "postcode": "SK17 8SS",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "dale"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

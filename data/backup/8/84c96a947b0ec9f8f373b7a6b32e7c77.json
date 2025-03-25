@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "Hamble Point, School Lane, Hamble-le-Rice, Eastleigh, Hampshire, England, SO31 4JD, United Kingdom",
   "district": "Eastleigh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "marshland",
+    "beach"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "natural areas"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

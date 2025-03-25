@@ -88,5 +88,27 @@
   "nominatim_found": true,
   "display_address": "Bog Boulder, Roach Road, Leekfrith, Staffordshire Moorlands, Staffordshire, England, ST13 8UB, United Kingdom",
   "district": "Staffordshire Moorlands",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rocky ridge",
+    "gritstone"
+  ],
+  "points_of_interest": [
+    "rock formations",
+    "waterfalls",
+    "countrside views",
+    "wildlife",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "information board"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

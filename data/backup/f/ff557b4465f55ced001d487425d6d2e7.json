@@ -108,5 +108,26 @@
   "postcode": "DH5 9GD",
   "district": "Sunderland",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "heritage trail",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "play area",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

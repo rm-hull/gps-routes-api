@@ -52,5 +52,22 @@
   "display_address": "St. Ives, Bingley, Harden, Bradford, West Yorkshire, England, BD16 1AS, United Kingdom",
   "district": "Bradford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -42,5 +42,25 @@
   "nominatim_found": true,
   "display_address": "The Cwmcarn Hotel, Newport Road, Abercarn, Pont-y-waun, Newport, Caerphilly, Cymru / Wales, NP11 7ND, United Kingdom",
   "postcode": "NP11 7ND",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

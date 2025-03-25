@@ -89,5 +89,26 @@
   "display_address": "Webb Road, Witley and Milford, Cramhurst, Waverley, Surrey, England, GU8 5QJ, United Kingdom",
   "postcode": "GU8 5QJ",
   "district": "Waverley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "pond"
+  ],
+  "points_of_interest": [
+    "flora",
+    "fauna",
+    "footpaths"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

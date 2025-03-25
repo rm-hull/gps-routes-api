@@ -95,5 +95,24 @@
   "display_address": "Tristram Cliff Top Car Park, Higher Tristram, Greenaway, St. Minver Lowlands, Polzeath, Cornwall, England, PL27 6TF, United Kingdom",
   "postcode": "PL27 6TF",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beaches"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -94,5 +94,26 @@
   "display_address": "Haytor Granite Tramway, Ilsington, Haytor Vale, Teignbridge, Devon, England, TQ13 9XS, United Kingdom",
   "postcode": "TQ13 9XS",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "park"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

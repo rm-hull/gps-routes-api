@@ -113,5 +113,27 @@
   "display_address": "St Martha's Hill - Guildford Lane Car Park, Guildford Lane, Albury, Chilworth, Guildford, Surrey, England, GU5 9BQ, United Kingdom",
   "postcode": "GU5 9BQ",
   "district": "Guildford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "cycle trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

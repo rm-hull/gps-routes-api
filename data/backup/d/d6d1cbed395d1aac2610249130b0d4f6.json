@@ -71,5 +71,25 @@
   "display_address": "West End, Hurworth, Hurworth-on-Tees, Darlington, Tees Valley, England, DL2 2HB, United Kingdom",
   "postcode": "DL2 2HB",
   "district": "Hurworth-on-Tees",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "farmland"
+  ],
+  "facilities": [
+    "pub",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -79,5 +79,27 @@
   "display_address": "Causeway, Nether Wallop, Test Valley, Hampshire, England, SO20 6HZ, United Kingdom",
   "postcode": "SO20 6HZ",
   "district": "Test Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "information boards"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

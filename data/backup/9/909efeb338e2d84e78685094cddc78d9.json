@@ -98,5 +98,28 @@
   "display_address": "George Green Drive, Wexham, Wexham and Ivers Community Board, George Green, Buckinghamshire, England, SL3 6BL, United Kingdom",
   "postcode": "SL3 6BL",
   "district": "George Green",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "garden",
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "views",
+    "gardens",
+    "country park"
+  ],
+  "facilities": [
+    "tea room",
+    "picnic areas",
+    "cycle racks"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -104,5 +104,27 @@
   "display_address": "Gatescarth Pass, Shap Rural, Westmorland and Furness, England, CA10 2RP, United Kingdom",
   "postcode": "CA10 2RP",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "nature reserve",
+    "fells"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

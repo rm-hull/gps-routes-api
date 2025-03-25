@@ -118,5 +118,28 @@
   "display_address": "Cliff Road, Cheddar, Somerset, England, BS40 7XT, United Kingdom",
   "postcode": "BS40 7XT",
   "district": "Cheddar",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "footpath",
+    "museum"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

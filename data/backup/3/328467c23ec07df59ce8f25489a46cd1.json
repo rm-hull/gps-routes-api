@@ -94,5 +94,26 @@
   "nominatim_found": true,
   "display_address": "Hexhamshire, Northumberland, North East, England, NE47 0HN, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

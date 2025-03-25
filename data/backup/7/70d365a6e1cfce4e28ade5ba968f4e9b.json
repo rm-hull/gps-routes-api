@@ -85,5 +85,26 @@
   "county": null,
   "region": "Greater London",
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "cultural attractions",
+    "parks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

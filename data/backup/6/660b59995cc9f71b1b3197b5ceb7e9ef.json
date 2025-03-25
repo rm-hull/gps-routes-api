@@ -89,5 +89,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mumbles Road, Oystermouth, Mumbles, Swansea, Cymru / Wales, SA3 4BX, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "beach",
+    "nature reserve",
+    "woodland trails"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "toilet",
+    "beach shop"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

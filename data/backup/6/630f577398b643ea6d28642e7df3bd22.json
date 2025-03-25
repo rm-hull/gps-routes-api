@@ -119,5 +119,23 @@
   "nominatim_found": true,
   "display_address": "Ravenstonedale, Westmorland and Furness, England, CA17 4NQ, United Kingdom",
   "postcode": "CA17 4NQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

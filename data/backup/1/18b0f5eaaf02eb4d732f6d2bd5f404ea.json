@@ -84,5 +84,24 @@
   "nominatim_found": true,
   "display_address": "Essex Marina, Creeksea Ferry Road, Canewdon, Rochford, Essex, England, SS4 2HA, United Kingdom",
   "district": "Rochford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "marshland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "linear",
+  "activities": [
+    "walking"
+  ]
 }

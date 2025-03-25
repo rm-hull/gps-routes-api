@@ -114,5 +114,26 @@
   "display_address": "Rosedale East Side, Rosedale Abbey, North Yorkshire, York and North Yorkshire, England, YO18 8SA, United Kingdom",
   "postcode": "YO18 8SA",
   "district": "Rosedale Abbey",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moor"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "industrial ruins"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "village"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

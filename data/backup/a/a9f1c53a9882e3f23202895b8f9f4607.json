@@ -173,5 +173,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "North Bridge, Shefford Hardwick, Shefford, Central Bedfordshire, England, SG17 5DJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "woodland birds",
+    "bluebells",
+    "deer"
+  ],
+  "facilities": [
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -103,5 +103,25 @@
   "display_address": "Water Lane, Thornhill, High Peak, Derbyshire, East Midlands, England, S33 0AL, United Kingdom",
   "postcode": "S33 0AL",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "long distance path"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

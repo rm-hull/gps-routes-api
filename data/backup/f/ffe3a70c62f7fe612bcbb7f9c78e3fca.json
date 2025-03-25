@@ -93,5 +93,26 @@
   "display_address": "Wiveton Downs, Glandford Road, Wiveton, Glandford, North Norfolk, Norfolk, England, NR25 7SN, United Kingdom",
   "postcode": "NR25 7SN",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "views",
+    "flora",
+    "fauna"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

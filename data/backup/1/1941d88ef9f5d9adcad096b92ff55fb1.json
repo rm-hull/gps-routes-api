@@ -60,5 +60,26 @@
   "display_address": "Tresco Abbey Gardens, Abbey Road, Tresco, New Grimsby, Isles of Scilly, England, TR24 0QH, United Kingdom",
   "postcode": "TR24 0QH",
   "district": "New Grimsby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "museum",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -123,5 +123,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Braehead, Alva, Clackmannanshire, Alba / Scotland, FK12 5JR, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -105,5 +105,26 @@
   "county": "Gwynedd",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "castle"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

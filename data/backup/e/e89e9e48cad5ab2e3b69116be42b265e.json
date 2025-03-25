@@ -99,5 +99,25 @@
   "display_address": "A5, Capel Curig, Conwy, Cymru / Wales, LL57 3LZ, United Kingdom",
   "postcode": "LL57 3LZ",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "lake",
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

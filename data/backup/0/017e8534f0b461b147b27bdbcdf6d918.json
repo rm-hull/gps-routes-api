@@ -119,5 +119,24 @@
   "display_address": "Midlothian, Alba / Scotland, EH23 4TF, United Kingdom",
   "postcode": "EH23 4TF",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "waterfront",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

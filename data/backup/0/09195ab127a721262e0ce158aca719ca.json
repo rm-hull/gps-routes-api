@@ -57,5 +57,25 @@
   "nominatim_found": true,
   "display_address": "Lark Valley Path, West Suffolk, Suffolk, England, IP28 7QY, United Kingdom",
   "postcode": "IP28 7QY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "bridleways"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

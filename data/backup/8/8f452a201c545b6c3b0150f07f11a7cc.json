@@ -60,5 +60,26 @@
   "nominatim_found": true,
   "display_address": "Highnam Court, A40, Linton, Highnam, Tewkesbury, Gloucestershire, England, GL2 8DW, United Kingdom",
   "district": "Tewkesbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "historical sites",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

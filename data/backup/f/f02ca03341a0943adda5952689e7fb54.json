@@ -72,5 +72,26 @@
   "nominatim_found": true,
   "display_address": "O'Briens, 67, Cooper Lane, Cliff, Holme Valley, Holmfirth, Kirklees, West Yorkshire, England, HD9 3BP, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "water"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

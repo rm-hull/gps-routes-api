@@ -52,5 +52,26 @@
   "nominatim_found": true,
   "display_address": "Horton Street, Woolshops, Claremount, Halifax, Calderdale, West Yorkshire, England, HX1 2NG, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -88,5 +88,26 @@
   "nominatim_found": true,
   "display_address": "Gooseham Mead, Congresbury, North Somerset, England, BS49 5BX, United Kingdom",
   "postcode": "BS49 5BX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

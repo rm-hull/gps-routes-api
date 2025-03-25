@@ -118,5 +118,26 @@
   "display_address": "Watersmeet Road, Lynton and Lynmouth, North Devon, Devon, England, EX35 6LF, United Kingdom",
   "postcode": "EX35 6LF",
   "district": "North Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "tea garden",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

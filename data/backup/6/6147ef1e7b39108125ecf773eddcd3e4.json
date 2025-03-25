@@ -94,5 +94,30 @@
   "display_address": "Rakewood Road, Caldermoor, Littleborough, Rochdale, Greater Manchester, England, OL15 0AZ, United Kingdom",
   "postcode": "OL15 0AZ",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "water features",
+    "valley views",
+    "hamlet"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

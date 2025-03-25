@@ -85,5 +85,29 @@
   "display_address": "Souter Lighthouse parking, Coast Road, South Tyneside, North East, England, SR6 7NQ, United Kingdom",
   "district": "South Tyneside",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "heritage trail"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "bird observatory",
+    "wildlife garden",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

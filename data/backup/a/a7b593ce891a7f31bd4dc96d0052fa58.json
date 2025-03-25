@@ -47,5 +47,26 @@
   "county": "Powys",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "forest",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "natural springs"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -128,5 +128,27 @@
   "nominatim_found": true,
   "display_address": "Mountain Road, St Martins, Caerphilly, Cymru / Wales, CF83 1JA, United Kingdom",
   "district": "Caerphilly",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "ridge"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "snack bar",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

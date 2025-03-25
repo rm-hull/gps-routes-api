@@ -113,5 +113,28 @@
   "nominatim_found": true,
   "display_address": "Station Road, Bramshott and Liphook, Liphook, East Hampshire, Hampshire, England, GU30 7GQ, United Kingdom",
   "postcode": "GU30 7GQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "museum",
+    "gardens",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

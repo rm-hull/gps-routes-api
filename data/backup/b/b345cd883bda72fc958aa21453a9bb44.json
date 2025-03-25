@@ -88,5 +88,28 @@
   "display_address": "Little Woodham Lane, Privett, Gosport, Hampshire, England, PO13 8GY, United Kingdom",
   "postcode": "PO13 8GY",
   "district": "Gosport",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

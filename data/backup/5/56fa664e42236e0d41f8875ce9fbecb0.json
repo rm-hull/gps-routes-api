@@ -105,5 +105,26 @@
   "nominatim_found": true,
   "display_address": "Park Close, Old Hatfield, Hatfield, Welwyn Hatfield, Hertfordshire, England, AL9 5AY, United Kingdom",
   "postcode": "AL9 5AY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes to 90 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "gift shop",
+    "kiosk",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

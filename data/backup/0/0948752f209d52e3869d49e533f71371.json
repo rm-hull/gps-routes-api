@@ -76,5 +76,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marwood Cottages, Barnard Castle, County Durham, North East, England, DL12 8AH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "gardens",
+    "river gorge"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

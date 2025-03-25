@@ -100,5 +100,28 @@
   "display_address": "Cross Lane, Barley House Farm, Barley-with-Wheatley Booth, Barley, Pendle, Lancashire, England, BB12 9JU, United Kingdom",
   "postcode": "BB12 9JU",
   "district": "Pendle",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "local landmarks",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "waterfall"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

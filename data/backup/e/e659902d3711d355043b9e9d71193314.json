@@ -140,5 +140,26 @@
   "display_address": "Bridges, Ratlinghope, Shropshire, England, SY5 0ST, United Kingdom",
   "postcode": "SY5 0ST",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "views",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

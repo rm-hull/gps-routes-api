@@ -68,5 +68,27 @@
   "display_address": "Nunburnholme, East Riding of Yorkshire, England, YO42 1UF, United Kingdom",
   "postcode": "YO42 1UF",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cafe",
+    "gift shop",
+    "bed and breakfast"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -144,5 +144,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Colehills Close, Clavering, Uttlesford, Essex, England, CB11 4QN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "village",
+    "footpath"
+  ],
+  "facilities": [
+    "pub",
+    "church",
+    "ford"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

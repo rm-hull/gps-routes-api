@@ -98,5 +98,24 @@
   "display_address": "Hackfall Woods Visitor Parking, Thorpe Road, Burton-on-Yore, Grewelthorpe, North Yorkshire, York and North Yorkshire, England, HG4 3DG, United Kingdom",
   "postcode": "HG4 3DG",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

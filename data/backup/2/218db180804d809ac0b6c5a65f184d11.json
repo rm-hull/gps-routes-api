@@ -72,5 +72,27 @@
   "nominatim_found": true,
   "display_address": "Mount Road, Wickford, Basildon, Essex, England, SS11 8HJ, United Kingdom",
   "postcode": "SS11 8HJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife watching",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

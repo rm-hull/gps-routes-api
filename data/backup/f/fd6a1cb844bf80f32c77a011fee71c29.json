@@ -105,5 +105,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ferry Road, Felixstowe Ferry, Felixstowe, East Suffolk, Suffolk, England, IP11 9RY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "riverside",
+    "nature reserve",
+    "beach",
+    "village"
+  ],
+  "facilities": [
+    "pub",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

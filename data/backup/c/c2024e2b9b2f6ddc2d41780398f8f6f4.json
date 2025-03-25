@@ -42,5 +42,25 @@
   "display_address": "Somerby Road, Burrough Hall Farm, Somerby, Burrough on the Hill, Melton, Leicestershire, England, LE14 2QZ, United Kingdom",
   "postcode": "LE14 2QZ",
   "district": "Melton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "wooded",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

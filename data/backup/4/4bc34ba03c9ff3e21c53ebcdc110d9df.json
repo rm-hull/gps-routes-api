@@ -85,5 +85,23 @@
   "nominatim_found": true,
   "display_address": "Powfoot Golf Club, Ryehill Road, Powfoot, Dumfries and Galloway, Alba / Scotland, DG12 5QE, United Kingdom",
   "district": "Powfoot",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

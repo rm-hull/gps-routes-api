@@ -184,5 +184,29 @@
   "county": "Powys",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "upland",
+    "canal",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "canals",
+    "historic towns",
+    "estuary"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

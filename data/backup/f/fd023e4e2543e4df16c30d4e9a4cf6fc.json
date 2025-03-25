@@ -108,5 +108,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mansfield Road, Temple Normanton, Corbriggs, North East Derbyshire, Derbyshire, East Midlands, England, S41 0JW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "natural"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

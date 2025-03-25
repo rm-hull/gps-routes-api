@@ -113,5 +113,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Dufton with Knock Methodist Church, The Ride, Dufton, Westmorland and Furness, England, CA16 6DD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "valley"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geological wonders"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

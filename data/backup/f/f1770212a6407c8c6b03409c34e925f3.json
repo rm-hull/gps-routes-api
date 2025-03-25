@@ -55,5 +55,25 @@
   "county": null,
   "region": null,
   "state": "Victoria",
-  "country": "Australia"
+  "country": "Australia",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rainforest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "visitor center",
+    "walking trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "zip-lining"
+  ]
 }

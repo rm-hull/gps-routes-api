@@ -93,5 +93,28 @@
   "display_address": "Welcome to Grangelands & The Rifle Range, Cross Dyke, Great and Little Kimble cum Marsh, Askett, Great Kimble, Buckinghamshire, England, HP17 0XH, United Kingdom",
   "postcode": "HP17 0XH",
   "district": "Askett",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "gardens",
+    "windmill"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "canal"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

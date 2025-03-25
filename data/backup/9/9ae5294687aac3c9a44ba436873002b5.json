@@ -118,5 +118,29 @@
   "postcode": "LS17 9LR",
   "district": "Harewood",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "monument",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

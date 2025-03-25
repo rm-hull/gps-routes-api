@@ -55,5 +55,24 @@
   "display_address": "New Forest Reptile Centre, Cut Walk, Allum Green, Lyndhurst, Emery Down, New Forest, Hampshire, England, SO43 7GR, United Kingdom",
   "postcode": "SO43 7GR",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "educational"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

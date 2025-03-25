@@ -100,5 +100,23 @@
   "display_address": "Badger, Shropshire, England, WV15 5LS, United Kingdom",
   "postcode": "WV15 5LS",
   "district": "Badger",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "historical sites"
+  ],
+  "facilities": [
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

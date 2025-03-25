@@ -105,5 +105,29 @@
   "nominatim_found": true,
   "display_address": "Portland Beach Road, Portland, Chiswell, Dorset, England, DT4 9XE, United Kingdom",
   "district": "Chiswell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

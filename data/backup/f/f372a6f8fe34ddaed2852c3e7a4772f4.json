@@ -65,5 +65,24 @@
   "display_address": "Colne Road, Higherford, Barrowford, Pendle, Lancashire, England, BB8 9QU, United Kingdom",
   "postcode": "BB8 9QU",
   "district": "Pendle",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

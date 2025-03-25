@@ -103,5 +103,27 @@
   "display_address": "Lanlivery, Cornwall, England, PL30 5DF, United Kingdom",
   "postcode": "PL30 5DF",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

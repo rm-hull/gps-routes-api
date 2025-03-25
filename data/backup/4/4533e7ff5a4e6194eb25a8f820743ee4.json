@@ -123,5 +123,26 @@
   "nominatim_found": true,
   "display_address": "School Lane, Nutbourne, Southbourne, Nutbourne, Chichester, West Sussex, England, PO18 8RZ, United Kingdom",
   "postcode": "PO18 8RZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "waterfront views",
+    "historical sites"
+  ],
+  "facilities": [
+    "train station",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -62,5 +62,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Albion Wharf, Stoke, Ipswich, Suffolk, England, IP4 1FZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -76,5 +76,28 @@
   "display_address": "Kitty's Walk, West Wycombe, Buckinghamshire, England, HP14 3AE, United Kingdom",
   "postcode": "HP14 3AE",
   "district": "West Wycombe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lawn",
+    "hill"
+  ],
+  "points_of_interest": [
+    "temples",
+    "follies",
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "church",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

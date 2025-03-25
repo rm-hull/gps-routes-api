@@ -93,5 +93,26 @@
   "postcode": "HX4 0EB",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "reservoir",
+    "moor"
+  ],
+  "points_of_interest": [
+    "views of countryside",
+    "views of moors",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "reservoir"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

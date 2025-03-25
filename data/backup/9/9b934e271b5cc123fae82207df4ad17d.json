@@ -105,5 +105,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Vaynol Arms, A4086, Llanberis, Nant Peris, Gwynedd, Cymru / Wales, LL55 4UF, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

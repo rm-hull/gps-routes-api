@@ -88,5 +88,26 @@
   "display_address": "The Railway, Station Road, Clough Lee, Marsden, Kirklees, West Yorkshire, England, HD7 6DH, United Kingdom",
   "postcode": "HD7 6DH",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historic mills",
+    "canalside pubs",
+    "reservoirs"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

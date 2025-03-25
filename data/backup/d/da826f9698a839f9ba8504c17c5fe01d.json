@@ -134,5 +134,24 @@
   "display_address": "Rockingham Castle, Main Street, Rockingham, North Northamptonshire, England, LE16 8TH, United Kingdom",
   "postcode": "LE16 8TH",
   "district": "Rockingham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "tea room",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

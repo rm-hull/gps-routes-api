@@ -89,5 +89,26 @@
   "display_address": "Langdale, Mill Row, Lakes, Elterwater, Westmorland and Furness, England, LA22 9JD, United Kingdom",
   "postcode": "LA22 9JD",
   "district": "Elterwater",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "riverside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "cafe",
+    "waterfall"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

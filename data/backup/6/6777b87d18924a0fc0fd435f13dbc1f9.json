@@ -109,5 +109,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mrs F's Fine Food Emporium, Main Street, Keswick, Cumberland, England, CA12 5DX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery",
+    "valley"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "walking path"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

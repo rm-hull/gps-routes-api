@@ -100,5 +100,26 @@
   "display_address": "B8074, Achnafalnich, Argyll and Bute, Alba / Scotland, PA33 1BD, United Kingdom",
   "postcode": "PA33 1BD",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "views",
+    "waterfalls",
+    "country lanes"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

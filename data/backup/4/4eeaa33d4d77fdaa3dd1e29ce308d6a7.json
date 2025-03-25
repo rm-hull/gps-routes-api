@@ -79,5 +79,23 @@
   "display_address": "North Jetty, Balmaha, Stirling, Alba / Scotland, G63 0AH, United Kingdom",
   "postcode": "G63 0AH",
   "district": "Balmaha",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "picnic tables",
+    "jetty"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

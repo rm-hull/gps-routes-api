@@ -63,5 +63,25 @@
   "nominatim_found": true,
   "display_address": "Leasowes Lane, Halesowen, Dudley, West Midlands, England, B62 8DH, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

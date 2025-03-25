@@ -94,5 +94,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Rouken Glen Road, Mains, Lower Whitecraigs, Thornliebank, East Renfrewshire, Alba / Scotland, G46 7JZ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "water features",
+    "walking trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

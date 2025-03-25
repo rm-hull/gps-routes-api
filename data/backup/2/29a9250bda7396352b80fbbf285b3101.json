@@ -110,5 +110,25 @@
   "details": [],
   "nominatim_found": true,
   "display_address": "Boat Horse Lane, Crick, West Northamptonshire, England, NN6 7TH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "waterways",
+    "countryside views",
+    "bridges"
+  ],
+  "facilities": [
+    "car park",
+    "marina"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

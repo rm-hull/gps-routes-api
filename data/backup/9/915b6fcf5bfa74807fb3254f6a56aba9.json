@@ -98,5 +98,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Julie Rose Stadium, Conningbrook Avenue, Kennington, Ashford, Kent, England, TN24 9QX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "wildflowers"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -103,5 +103,25 @@
   "nominatim_found": true,
   "display_address": "A697, Cragend, Whittingham, Northumberland, North East, England, NE66 4RZ, United Kingdom",
   "district": "Whittingham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

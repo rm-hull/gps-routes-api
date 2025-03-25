@@ -104,5 +104,25 @@
   "display_address": "Inkpen Beacon, Wright's Lane, Wright's Farm, Combe, West Berkshire, England, RG17 9EL, United Kingdom",
   "postcode": "RG17 9EL",
   "district": "Combe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "ridge"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

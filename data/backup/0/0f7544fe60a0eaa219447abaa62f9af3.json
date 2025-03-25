@@ -118,5 +118,25 @@
   "display_address": "Heath Trail, Elstead, Waverley, Surrey, England, GU8 6LW, United Kingdom",
   "postcode": "GU8 6LW",
   "district": "Waverley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

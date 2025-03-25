@@ -98,5 +98,27 @@
   "display_address": "Hadley Road, London Borough of Enfield, London, Greater London, England, EN4 0QA, United Kingdom",
   "postcode": "EN4 0QA",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

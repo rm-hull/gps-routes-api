@@ -88,5 +88,26 @@
   "nominatim_found": true,
   "display_address": "Ty Mawr Road, Coryton, Llandaff North, Cardiff, Cymru / Wales, CF14 2HG, United Kingdom",
   "postcode": "CF14 2HG",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

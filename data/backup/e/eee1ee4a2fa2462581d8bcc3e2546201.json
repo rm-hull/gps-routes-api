@@ -93,5 +93,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "23, Church Street, Hodsock, Langold, Bassetlaw, Nottinghamshire, East Midlands, England, S81 9NW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "play area",
+    "water park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

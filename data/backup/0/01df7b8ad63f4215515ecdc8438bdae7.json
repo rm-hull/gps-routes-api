@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Dingle Lane, Sandbach Heath, Sandbach, Cheshire East, England, CW11 1FR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "gardens",
+    "lake",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

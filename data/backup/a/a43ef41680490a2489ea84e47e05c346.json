@@ -89,5 +89,23 @@
   "nominatim_found": true,
   "display_address": "Riverside, Horley, Reigate and Banstead, Surrey, England, RH6 7LN, United Kingdom",
   "postcode": "RH6 7LN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

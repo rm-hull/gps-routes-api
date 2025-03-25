@@ -103,5 +103,23 @@
   "nominatim_found": true,
   "display_address": "Eyemouth Fishing Disaster Memorial, St Ella's Place, Eyemouth, Scottish Borders, Alba / Scotland, TD14 5EX, United Kingdom",
   "postcode": "TD14 5EX",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoint",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

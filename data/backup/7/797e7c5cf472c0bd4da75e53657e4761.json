@@ -125,5 +125,26 @@
   "display_address": "Knowsley Hall, Dark Entry, Knowsley, Liverpool City Region, England, L34 4AE, United Kingdom",
   "district": "Knowsley",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "grounds",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -95,5 +95,25 @@
   "display_address": "Tarrant Monkton, Dorset, England, DT11 8RX, United Kingdom",
   "postcode": "DT11 8RX",
   "district": "Tarrant Monkton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "earthwork"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "historic buildings"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

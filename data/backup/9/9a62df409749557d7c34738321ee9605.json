@@ -93,5 +93,26 @@
   "nominatim_found": true,
   "display_address": "Tongdam, 26, High Street, Dulverton, Somerset, England, TA22 9DJ, United Kingdom",
   "postcode": "TA22 9DJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

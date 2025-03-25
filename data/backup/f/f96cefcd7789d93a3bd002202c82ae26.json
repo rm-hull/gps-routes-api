@@ -99,5 +99,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "20, Steeley Lane, Chorley Moor, Chorley, Lancashire, England, PR6 0RD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "reservoirs",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

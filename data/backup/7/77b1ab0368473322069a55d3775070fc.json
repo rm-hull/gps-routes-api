@@ -124,5 +124,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "McKell Court, Woodlands, Falkirk, Alba / Scotland, FK1 5PW, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "woodland trails",
+    "waterside trail",
+    "aqueducts"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

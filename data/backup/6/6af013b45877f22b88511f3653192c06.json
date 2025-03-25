@@ -84,5 +84,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Winchester Cathedral, Cathedral Close, The Close, Winchester, Hampshire, England, SO23 9LF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "churches",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

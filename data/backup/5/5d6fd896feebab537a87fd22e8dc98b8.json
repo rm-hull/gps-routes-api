@@ -95,5 +95,23 @@
   "county": "County Dublin",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "urban",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "bridges"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "linear",
+  "activities": [
+    "walking"
+  ]
 }

@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Godstone Green, Bletchingley Road, Godstone, Tandridge, Surrey, England, RH9 8LL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "path"
+  ],
+  "points_of_interest": [
+    "views",
+    "ponds",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

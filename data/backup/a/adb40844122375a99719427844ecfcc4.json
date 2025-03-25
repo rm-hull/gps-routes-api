@@ -90,5 +90,29 @@
   "display_address": "Slad Road, Bulls Cross, Painswick, Slad, Stroud, Gloucestershire, England, GL6 7QD, United Kingdom",
   "postcode": "GL6 7QD",
   "district": "Painswick",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "churchyard",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

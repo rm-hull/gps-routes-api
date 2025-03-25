@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Ashburton Road, Hugglescote and Donington le Heath, Hugglescote, North West Leicestershire, Leicestershire, England, LE67 2GP, United Kingdom",
   "postcode": "LE67 2GP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "signed cycle route",
+    "radio mast"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

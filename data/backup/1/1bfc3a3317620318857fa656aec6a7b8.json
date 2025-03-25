@@ -55,5 +55,24 @@
   "display_address": "Whipsnade Zoo External Free Car Park, B4540, Whipsnade, Central Bedfordshire, England, LU6 2LG, United Kingdom",
   "postcode": "LU6 2LG",
   "district": "Whipsnade",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

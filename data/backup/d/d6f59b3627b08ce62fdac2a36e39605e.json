@@ -108,5 +108,22 @@
   "nominatim_found": true,
   "display_address": "Stocks Lane, Corhampton and Meonstoke, Exton, Winchester, Hampshire, England, SO32 3NS, United Kingdom",
   "postcode": "SO32 3NS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

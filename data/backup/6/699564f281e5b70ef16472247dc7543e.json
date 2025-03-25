@@ -90,5 +90,24 @@
   "display_address": "Castle End, Castle Bolton, Castle Bolton with East and West Bolton, Redmire, North Yorkshire, York and North Yorkshire, England, DL8 4ET, United Kingdom",
   "postcode": "DL8 4ET",
   "district": "Redmire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "villages"
+  ],
+  "facilities": [
+    "heritage railway"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

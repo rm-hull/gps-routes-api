@@ -76,5 +76,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "School Lane, Wetton, Staffordshire Moorlands, Staffordshire, England, DE6 2AF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "tea room",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

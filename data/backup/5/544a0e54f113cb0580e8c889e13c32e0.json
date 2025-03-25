@@ -98,5 +98,27 @@
   "nominatim_found": true,
   "display_address": "Lord Mayors Drive, Burnham, Beeches Community Board, Farnham Common, Buckinghamshire, England, SL2 3LB, United Kingdom",
   "postcode": "SL2 3LB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

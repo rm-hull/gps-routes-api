@@ -95,5 +95,21 @@
   "nominatim_found": true,
   "display_address": "Hove Park, Old Shoreham Road, Old Shoreham Road, West Blatchington, Hove, Brighton and Hove, England, BN3 6HD, United Kingdom",
   "postcode": "BN3 6HD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

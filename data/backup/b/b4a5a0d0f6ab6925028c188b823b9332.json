@@ -117,5 +117,26 @@
   "display_address": "Dursley Town Council, Castle Street, Dursley, Stroud, Gloucestershire, England, GL11 4BS, United Kingdom",
   "postcode": "GL11 4BS",
   "district": "Dursley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "hillfort",
+    "manor house"
+  ],
+  "facilities": [
+    "visitor center",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

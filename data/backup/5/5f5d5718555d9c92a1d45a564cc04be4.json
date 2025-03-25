@@ -85,5 +85,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Landguard Road, Lower Hyde, Shanklin, Isle of Wight, England, PO37 7HY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

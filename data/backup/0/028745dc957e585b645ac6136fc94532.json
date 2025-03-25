@@ -125,5 +125,27 @@
   "nominatim_found": true,
   "display_address": "Melrose Abbey, Buccleuch Street, Dingleton, Melrose, Scottish Borders, Alba / Scotland, TD6 9LB, United Kingdom",
   "postcode": "TD6 9LB",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "hillforts",
+    "waterfalls",
+    "river"
+  ],
+  "facilities": [
+    "visitor center",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

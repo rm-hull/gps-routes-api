@@ -112,5 +112,25 @@
   "nominatim_found": true,
   "display_address": "BW 31, Friday Street, Abinger, Mole Valley, Surrey, England, RH5 6LN, United Kingdom",
   "postcode": "RH5 6LN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

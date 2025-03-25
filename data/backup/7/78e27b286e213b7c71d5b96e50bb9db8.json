@@ -79,5 +79,29 @@
   "nominatim_found": true,
   "display_address": "Porter Brook Trail, Sharrow Vale, Endcliffe, Sheffield, South Yorkshire, England, S11 8TG, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "parks",
+    "countryside",
+    "woods",
+    "waterways",
+    "villages"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "cycle route"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

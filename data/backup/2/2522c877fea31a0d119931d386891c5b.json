@@ -99,5 +99,29 @@
   "display_address": "Beach Road, Cley Next The Sea, Cley next the Sea, North Norfolk, Norfolk, England, NR25 7RY, United Kingdom",
   "postcode": "NR25 7RY",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "shingle",
+    "salt marsh",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "boat trips"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

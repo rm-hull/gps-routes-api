@@ -117,5 +117,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Quarry Incline, Bethania, Ffestiniog, Manod, Gwynedd, Cymru / Wales, LL41 4DN, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "lakes",
+    "mountain views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

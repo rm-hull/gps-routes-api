@@ -68,5 +68,26 @@
   "display_address": "The Bear Inn, Shrewsbury Street, Wollerton, Market Drayton, Shropshire, England, TF9 3NH, United Kingdom",
   "postcode": "TF9 3NH",
   "district": "Market Drayton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "natural features"
+  ],
+  "facilities": [
+    "tea rooms",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

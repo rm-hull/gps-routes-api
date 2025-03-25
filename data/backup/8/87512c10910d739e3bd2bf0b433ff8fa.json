@@ -71,5 +71,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Spa Cottage, Coledale Beck Lane, Little Braithwaite, Above Derwent, Braithwaite, Cumberland, England, CA12 5SX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "summit"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

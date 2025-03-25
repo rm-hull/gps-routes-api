@@ -75,5 +75,26 @@
   "display_address": "Devon Expressway, Underwood, Plympton, Plymouth, England, PL7 2FB, United Kingdom",
   "postcode": "PL7 2FB",
   "district": "Plymouth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "family cycle trail"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

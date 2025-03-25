@@ -85,5 +85,24 @@
   "display_address": "Bowness Knott Car Park, Smithy Beck Trail, Ennerdale and Kinniside, Cumberland, England, CA23 3AU, United Kingdom",
   "postcode": "CA23 3AU",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "mountain"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

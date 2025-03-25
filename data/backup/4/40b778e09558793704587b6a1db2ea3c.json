@@ -50,5 +50,25 @@
   "display_address": "B9056, Orkney Islands, Alba / Scotland, KW16 3LR, United Kingdom",
   "postcode": "KW16 3LR",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

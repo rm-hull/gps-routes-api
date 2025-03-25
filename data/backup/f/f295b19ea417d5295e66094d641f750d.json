@@ -65,5 +65,23 @@
   "display_address": "Syntir, B4413, Pengroeslon, Botwnnog, Sarn Mellteyrn, Gwynedd, Cymru / Wales, LL53 8EN, United Kingdom",
   "postcode": "LL53 8EN",
   "district": "Sarn Mellteyrn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -95,5 +95,24 @@
   "display_address": "Cragside, Rothbury, Northumberland, North East, England, NE65 7PU, United Kingdom",
   "postcode": "NE65 7PU",
   "district": "Rothbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

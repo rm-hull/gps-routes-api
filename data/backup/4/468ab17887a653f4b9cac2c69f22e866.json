@@ -95,5 +95,25 @@
   "display_address": "The Hurst, Plaxtol, Tonbridge and Malling, Kent, England, TN11 9SP, United Kingdom",
   "postcode": "TN11 9SP",
   "district": "Tonbridge and Malling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -85,5 +85,22 @@
   "nominatim_found": true,
   "display_address": "John's Lane, Partridge E & Sons Copper Smiths, Horseley Heath, Tipton, Sandwell, West Midlands, England, DY4 7PT, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

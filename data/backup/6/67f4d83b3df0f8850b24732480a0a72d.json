@@ -61,5 +61,25 @@
   "display_address": "Belford Post Office, 5, West Street, Belford, Northumberland, North East, England, NE70 7QE, United Kingdom",
   "postcode": "NE70 7QE",
   "district": "Belford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

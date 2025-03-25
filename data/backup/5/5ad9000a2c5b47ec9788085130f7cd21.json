@@ -94,5 +94,27 @@
   "nominatim_found": true,
   "display_address": "Kielder Water Sailing Club, Lakeside Way, Mouseyhaugh, Falstone, Northumberland, North East, England, NE48 1AU, United Kingdom",
   "district": "Falstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "lakeside",
+    "peninsula"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "visitor center",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center",
+    "interactive exhibition"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

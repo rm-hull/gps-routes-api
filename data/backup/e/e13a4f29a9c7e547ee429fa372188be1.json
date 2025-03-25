@@ -75,5 +75,29 @@
   "nominatim_found": true,
   "display_address": "Orbiston, Viewpark, North Lanarkshire, Alba / Scotland, ML1 3RB, United Kingdom",
   "district": "Viewpark",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "wetland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife refuges",
+    "river views"
+  ],
+  "facilities": [
+    "watersports centre",
+    "bike hire",
+    "car park",
+    "walking route"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

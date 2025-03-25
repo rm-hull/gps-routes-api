@@ -72,5 +72,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A6108, North Stainley with Sleningford, North Yorkshire, York and North Yorkshire, England, HG4 5JX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "theme park",
+    "watermill"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

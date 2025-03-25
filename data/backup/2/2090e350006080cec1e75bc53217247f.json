@@ -43,5 +43,27 @@
   "nominatim_found": true,
   "display_address": "RSPB Troup Head, B9031, South Cross-slacks, Pennan, Aberdeenshire, Alba / Scotland, AB45 3ET, United Kingdom",
   "district": "Pennan",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "grassland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildflower areas",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching",
+    "nature watching"
+  ]
 }

@@ -90,5 +90,26 @@
   "display_address": "A821, Brig o' Turk, Stirling, Alba / Scotland, FK17 8HR, United Kingdom",
   "postcode": "FK17 8HR",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

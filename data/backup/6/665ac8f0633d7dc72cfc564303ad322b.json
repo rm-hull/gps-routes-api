@@ -103,5 +103,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "34B, Blomfield Road, Westbourne Green, Paddington, London, Greater London, England, W9 2PF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "urban"
+  ],
+  "points_of_interest": [
+    "parks",
+    "landmarks"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

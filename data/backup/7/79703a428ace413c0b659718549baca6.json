@@ -120,5 +120,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Road, Potter Heigham, North Norfolk, Norfolk, England, NR29 5LJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "country lanes",
+    "footpaths",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "historical bridges",
+    "mediaeval architecture",
+    "marina"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

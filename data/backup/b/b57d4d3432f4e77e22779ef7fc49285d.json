@@ -108,5 +108,25 @@
   "display_address": "Hollinghill, Northumberland, North East, England, NE61 4PU, United Kingdom",
   "postcode": "NE61 4PU",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rocky outcrops",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -76,5 +76,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stryd y Glorian, Porth Amlwch, Amlwch, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL68 9DP, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff tops"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "lighthouse"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

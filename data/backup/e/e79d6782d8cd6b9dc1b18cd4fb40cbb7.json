@@ -105,5 +105,28 @@
   "nominatim_found": true,
   "display_address": "Harlaw Road, Balerno, City of Edinburgh, Alba / Scotland, EH14 7AS, United Kingdom",
   "district": "City of Edinburgh",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "walkway"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

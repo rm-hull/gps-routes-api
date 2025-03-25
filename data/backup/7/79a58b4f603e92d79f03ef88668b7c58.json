@@ -75,5 +75,26 @@
   "display_address": "Beaulieu Road, Denny Lodge, East Boldre, New Forest, Hampshire, England, SO42 7QL, United Kingdom",
   "postcode": "SO42 7QL",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "streams"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

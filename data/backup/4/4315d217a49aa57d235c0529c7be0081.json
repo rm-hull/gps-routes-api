@@ -75,5 +75,27 @@
   "nominatim_found": true,
   "display_address": "Boat Layup Area, Whisstocks Place, Woodbridge, East Suffolk, Suffolk, England, IP12 4BB, United Kingdom",
   "postcode": "IP12 4BB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "saltings",
+    "mudflats"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "bird watching",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

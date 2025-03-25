@@ -85,5 +85,32 @@
   "county": "County Laois",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "orchard",
+    "avenue",
+    "statues",
+    "arboretum"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

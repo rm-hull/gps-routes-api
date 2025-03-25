@@ -63,5 +63,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Leopold Road, London Borough of Ealing, London, Greater London, England, W5 3NU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "riverside",
+    "urban"
+  ],
+  "points_of_interest": [
+    "parks",
+    "gardens",
+    "historic sites"
+  ],
+  "facilities": [
+    "cafe",
+    "pub/cafe",
+    "visitor center",
+    "tube station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

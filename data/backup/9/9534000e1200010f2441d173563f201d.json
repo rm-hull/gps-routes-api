@@ -108,5 +108,27 @@
   "display_address": "Church Lane, Levington, East Suffolk, Suffolk, England, IP10 0LG, United Kingdom",
   "postcode": "IP10 0LG",
   "district": "East Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "birdwatching",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

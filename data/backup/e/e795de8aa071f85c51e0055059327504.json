@@ -105,5 +105,29 @@
   "display_address": "Nook Farm, Howe Lane, Longthwaite, Rosthwaite, Borrowdale, Cumberland, England, CA12 5XB, United Kingdom",
   "postcode": "CA12 5XB",
   "district": "Rosthwaite",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "hamlets"
+  ],
+  "facilities": [
+    "car park",
+    "tea-room",
+    "pub/cafe",
+    "dog friendly",
+    "long distance footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

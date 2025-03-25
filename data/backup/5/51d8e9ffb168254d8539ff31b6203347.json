@@ -79,5 +79,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Salthouse Road, West End, Clevedon, North Somerset, England, BS21 7TT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

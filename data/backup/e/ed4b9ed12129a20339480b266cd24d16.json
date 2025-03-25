@@ -100,5 +100,26 @@
   "display_address": "The Village Tearooms, 1, High Street, Yalding, Maidstone, Kent, England, ME18 6JA, United Kingdom",
   "postcode": "ME18 6JA",
   "district": "Maidstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "river views",
+    "farmland",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

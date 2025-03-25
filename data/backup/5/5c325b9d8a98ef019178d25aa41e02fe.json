@@ -20,5 +20,24 @@
   "nominatim_found": true,
   "display_address": "Brackley Road, Westbury, Buckinghamshire, England, NN13 5YA, United Kingdom",
   "postcode": "NN13 5YA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "countryside",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -76,5 +76,26 @@
   "nominatim_found": true,
   "display_address": "Valonia Drive, Wivenhoe, Rowhedge, Colchester, Essex, England, CO7 9GY, United Kingdom",
   "postcode": "CO7 9GY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "historical sites",
+    "countryside views"
+  ],
+  "facilities": [
+    "train station",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

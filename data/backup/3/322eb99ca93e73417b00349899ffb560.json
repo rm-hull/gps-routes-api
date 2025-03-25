@@ -114,5 +114,26 @@
   "display_address": "A625, Froggatt, Derbyshire Dales, Derbyshire, East Midlands, England, S32 2HX, United Kingdom",
   "postcode": "S32 2HX",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

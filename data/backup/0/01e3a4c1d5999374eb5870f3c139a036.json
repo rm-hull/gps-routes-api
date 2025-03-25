@@ -89,5 +89,24 @@
   "nominatim_found": true,
   "display_address": "40, Station Road, Hayfield, Little Hayfield, High Peak, Derbyshire, East Midlands, England, SK22 2ES, United Kingdom",
   "postcode": "SK22 2ES",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "hamlets"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -123,5 +123,28 @@
   "display_address": "Sunset & Late parking, Kibworth Road, Kilby, Blaby, Leicestershire, England, LE8 0QF, United Kingdom",
   "postcode": "LE8 0QF",
   "district": "Kilby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "village",
+    "church"
+  ],
+  "facilities": [
+    "car park",
+    "cafe/bistro",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

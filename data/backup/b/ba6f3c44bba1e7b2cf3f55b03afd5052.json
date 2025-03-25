@@ -69,5 +69,26 @@
   "nominatim_found": true,
   "display_address": "Llewellyn Chase, Old Wolverton, Wolverton and Greenleys, Wolverton, Milton Keynes, City of Milton Keynes, England, MK12 5GA, United Kingdom",
   "postcode": "MK12 5GA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "museum",
+    "canalside pubs"
+  ],
+  "facilities": [
+    "canal",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

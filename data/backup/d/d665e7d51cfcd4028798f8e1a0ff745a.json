@@ -117,5 +117,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Grey Walk, Hadleigh, Castle Point, Essex, England, SS7 1QG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "marsh",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

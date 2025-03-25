@@ -134,5 +134,24 @@
   "display_address": "Preston Old Road, Feniscowles, Witton, Blackburn, Blackburn with Darwen, England, BB2 2TR, United Kingdom",
   "postcode": "BB2 2TR",
   "district": "Blackburn",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "reservoir"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

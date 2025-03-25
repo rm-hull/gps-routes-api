@@ -125,5 +125,26 @@
   "nominatim_found": true,
   "display_address": "New Road, Crickhowell, Powys, Cymru / Wales, NP8 1AR, United Kingdom",
   "postcode": "NP8 1AR",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "estate"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "canal access",
+    "bridge"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

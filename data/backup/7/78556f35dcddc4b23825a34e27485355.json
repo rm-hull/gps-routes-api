@@ -74,5 +74,25 @@
   "display_address": "U86, Newyears Green, London Borough of Hillingdon, London, Greater London, England, UB9 6LZ, United Kingdom",
   "postcode": "UB9 6LZ",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "marshland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "cycle routes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

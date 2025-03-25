@@ -59,5 +59,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Path, Ebernoe, Chichester, West Sussex, England, GU28 9LD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

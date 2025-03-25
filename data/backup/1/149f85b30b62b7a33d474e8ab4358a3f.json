@@ -118,5 +118,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Settlands Hill, Walton West, The Havens, Little Haven, Pembrokeshire, Cymru / Wales, SA62 3LA, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "beach",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "natural arches",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "hotel"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

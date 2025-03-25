@@ -103,5 +103,25 @@
   "postcode": "S26 3XL",
   "district": "Rotherham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved paths",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

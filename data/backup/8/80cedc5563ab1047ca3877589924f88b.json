@@ -98,5 +98,26 @@
   "nominatim_found": true,
   "display_address": "Pinmill Road, Pin Mill, Chelmondiston, Babergh, Suffolk, England, IP9 1JN, United Kingdom",
   "postcode": "IP9 1JN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "flora and fauna"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -95,5 +95,28 @@
   "display_address": "Wakehurst Place, Selsfield Road, Ardingly, Mid Sussex, West Sussex, England, RH17 6TN, United Kingdom",
   "postcode": "RH17 6TN",
   "district": "Mid Sussex",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "water"
+  ],
+  "points_of_interest": [
+    "botanic gardens",
+    "historical house",
+    "seed bank",
+    "landscape trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

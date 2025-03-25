@@ -109,5 +109,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Waterside Bistro, 2, Symons Passage, The Mount, Totnes, South Hams, Devon, England, TQ9 5DR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

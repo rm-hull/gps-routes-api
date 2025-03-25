@@ -71,5 +71,26 @@
   "county": "Ceredigion",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "dune system",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "local places"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

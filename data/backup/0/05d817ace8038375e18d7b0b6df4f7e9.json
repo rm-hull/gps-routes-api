@@ -100,5 +100,26 @@
   "display_address": "Trevose Close, Constantine Bay, St. Merryn, Cornwall, England, PL28 8JQ, United Kingdom",
   "postcode": "PL28 8JQ",
   "district": "Constantine Bay",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "beaches",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

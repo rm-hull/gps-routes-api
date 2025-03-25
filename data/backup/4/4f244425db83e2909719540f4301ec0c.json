@@ -64,5 +64,20 @@
   "display_address": "Ivinghoe Beacon, B489, Ivinghoe, Ivinghoe Aston, Buckinghamshire, England, LU7 9DJ, United Kingdom",
   "postcode": "LU7 9DJ",
   "district": "Ivinghoe Aston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

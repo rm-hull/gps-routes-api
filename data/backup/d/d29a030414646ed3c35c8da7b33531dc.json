@@ -110,5 +110,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B5054, Fawfieldhead, Hulme End, Staffordshire Moorlands, Staffordshire, England, SK17 0EZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "valley"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

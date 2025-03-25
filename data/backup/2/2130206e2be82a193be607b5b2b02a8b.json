@@ -128,5 +128,26 @@
   "postcode": "LS16 8LW",
   "district": "Leeds",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterside",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "birdwatching",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "nature reserve"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

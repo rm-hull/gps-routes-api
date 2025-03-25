@@ -144,5 +144,29 @@
   "nominatim_found": true,
   "display_address": "The Shed, The Ridge, Dumfries and Galloway, Alba / Scotland, DG2 8EG, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife sculptures",
+    "gardens",
+    "bluebells",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "cycle hire",
+    "waterside trail",
+    "nature reserve"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

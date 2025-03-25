@@ -68,5 +68,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Falls of Dochart Inn, Gray Street, Killin, Stirling, Alba / Scotland, FK21 8SL, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "bridges",
+    "castle ruins"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

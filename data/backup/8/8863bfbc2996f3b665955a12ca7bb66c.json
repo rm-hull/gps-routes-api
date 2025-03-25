@@ -32,5 +32,23 @@
   "nominatim_found": true,
   "display_address": "High Street, Bluntisham, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 3LA, United Kingdom",
   "postcode": "PE28 3LA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "variable",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "facilities": [],
+  "route_type": "variable",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -73,5 +73,27 @@
   "display_address": "John Street, Walkden, Salford, Greater Manchester, England, M28 3TD, United Kingdom",
   "postcode": "M28 3TD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "birdlife",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

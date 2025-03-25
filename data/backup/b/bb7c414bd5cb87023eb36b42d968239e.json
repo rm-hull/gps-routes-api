@@ -108,5 +108,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Spring House, Spring Street, Stoneleigh, Ewell, Epsom and Ewell, Surrey, England, KT17 1UD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grass",
+    "surfaced paths",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "museum",
+    "landscaped gardens",
+    "lake"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "visitor center",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

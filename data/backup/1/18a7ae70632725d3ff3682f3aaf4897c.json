@@ -68,5 +68,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Street, Ripley, North Yorkshire, York and North Yorkshire, England, HG3 3AZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

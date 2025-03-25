@@ -68,5 +68,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Street, Greathouse Farm, Rudgwick, Cox Green, Horsham, West Sussex, England, RH12 3EH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "historical sites"
+  ],
+  "facilities": [
+    "pub",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

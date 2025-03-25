@@ -145,5 +145,21 @@
   "display_address": "The Horse and Jockey, Old Malpas Road, Whitchurch Urban, Whitchurch, Shropshire, England, SY13 4QJ, United Kingdom",
   "postcode": "SY13 4QJ",
   "district": "Whitchurch",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

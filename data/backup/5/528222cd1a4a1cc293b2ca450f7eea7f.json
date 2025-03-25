@@ -84,5 +84,22 @@
   "display_address": "Mollington Road, Clattercote, Claydon with Clattercot, Claydon, Cherwell, Oxfordshire, England, OX17 1QE, United Kingdom",
   "postcode": "OX17 1QE",
   "district": "Cherwell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "path"
+  ],
+  "points_of_interest": [
+    "nature trail"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }
