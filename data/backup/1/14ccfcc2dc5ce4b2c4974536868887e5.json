@@ -83,5 +83,27 @@
   "display_address": "Chorlton-cum-Hardy Golf Club, Godbert Avenue, Manchester, Greater Manchester, England, M21 7JD, United Kingdom",
   "postcode": "M21 7JD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "gardens",
+    "herbaceous borders"
+  ],
+  "facilities": [
+    "car park",
+    "toilets",
+    "ice cream van"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

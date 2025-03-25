@@ -104,5 +104,20 @@
   "display_address": "The Blue Bridge, Fishergate, York, York and North Yorkshire, England, YO10 4NL, United Kingdom",
   "postcode": "YO10 4NL",
   "district": "York",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

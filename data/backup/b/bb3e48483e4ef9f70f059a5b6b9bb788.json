@@ -74,5 +74,26 @@
   "display_address": "Plodda Falls Car Park, Balcladaich Road, Tomich, Highland, Alba / Scotland, IV4 7LY, United Kingdom",
   "postcode": "IV4 7LY",
   "district": "Tomich",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "forest"
+  ],
+  "facilities": [
+    "car park",
+    "trailhead"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

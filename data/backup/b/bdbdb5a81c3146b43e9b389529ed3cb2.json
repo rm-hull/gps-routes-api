@@ -75,5 +75,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Saint John's Quad, Holywell, City Centre, Oxford, Oxfordshire, England, OX1 4AU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "river"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "historical sites",
+    "river views"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "morning coffee",
+    "snacks",
+    "light lunches",
+    "afternoon teas"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

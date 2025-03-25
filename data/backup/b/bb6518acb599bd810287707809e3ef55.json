@@ -138,5 +138,27 @@
   "nominatim_found": true,
   "display_address": "Burnt Mill Lane, Burnt Mill, Harlow, Essex, England, CM20 2JD, United Kingdom",
   "postcode": "CM20 2JD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "country parks",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -74,5 +74,26 @@
   "nominatim_found": true,
   "display_address": "Windsor Road, Stackpole and Castlemartin, Bosherston, Pembrokeshire, Cymru / Wales, SA71 5DW, United Kingdom",
   "postcode": "SA71 5DW",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -88,5 +88,24 @@
   "nominatim_found": true,
   "display_address": "Beili Priory, Abergavenny, Monmouthshire, Cymru / Wales, NP7 5NE, United Kingdom",
   "postcode": "NP7 5NE",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

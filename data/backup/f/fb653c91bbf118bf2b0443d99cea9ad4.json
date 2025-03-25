@@ -94,5 +94,26 @@
   "display_address": "Ditches Lane, London Borough of Croydon, London, Greater London, England, CR5 1DF, United Kingdom",
   "postcode": "CR5 1DF",
   "district": "London",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

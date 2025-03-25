@@ -90,5 +90,24 @@
   "display_address": "Marsh Farm Road, South Woodham Ferrers, Chelmsford, Essex, England, CM3 5WP, United Kingdom",
   "postcode": "CM3 5WP",
   "district": "Chelmsford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "tea room"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

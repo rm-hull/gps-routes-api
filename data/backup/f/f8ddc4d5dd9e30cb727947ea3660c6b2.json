@@ -65,5 +65,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Slancote Lane, Tideswell CP, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 8PJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "wooded valleys",
+    "flora and fauna"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

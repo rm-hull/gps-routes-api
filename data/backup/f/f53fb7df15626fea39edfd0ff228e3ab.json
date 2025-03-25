@@ -84,5 +84,24 @@
   "nominatim_found": true,
   "display_address": "Gidacre Lane, Wootton, East Staffordshire, Staffordshire, England, DE6 2GW, United Kingdom",
   "postcode": "DE6 2GW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "quarries"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

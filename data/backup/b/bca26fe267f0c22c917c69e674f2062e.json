@@ -75,5 +75,25 @@
   "display_address": "Nelson Street, Offerton, Hazel Grove, Stockport, Greater Manchester, England, SK7 4LP, United Kingdom",
   "postcode": "SK7 4LP",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "rock"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

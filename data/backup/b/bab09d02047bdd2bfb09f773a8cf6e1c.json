@@ -65,5 +65,24 @@
   "nominatim_found": true,
   "display_address": "A421, Lower Shelton, Marston Moretaine, Central Bedfordshire, England, MK43 0NB, United Kingdom",
   "district": "Marston Moretaine",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "parkland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

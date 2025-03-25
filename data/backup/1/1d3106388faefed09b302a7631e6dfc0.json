@@ -76,5 +76,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Symondsbury, Dorset, England, DT6 6HE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

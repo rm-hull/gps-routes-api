@@ -90,5 +90,22 @@
   "display_address": "Lake Head Car Park, Old Corpse Road, Wasdale, Cumberland, England, CA20 1EX, United Kingdom",
   "postcode": "CA20 1EX",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

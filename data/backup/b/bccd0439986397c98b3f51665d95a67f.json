@@ -84,5 +84,26 @@
   "display_address": "Mastiles Lane, Conistone with Kilnsey, Kilnsey, North Yorkshire, York and North Yorkshire, England, BD23 5PW, United Kingdom",
   "postcode": "BD23 5PW",
   "district": "Kilnsey",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "moor"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "wildlife"
+  ],
+  "facilities": [
+    "trout farm",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

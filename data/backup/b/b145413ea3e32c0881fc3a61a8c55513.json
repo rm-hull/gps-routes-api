@@ -117,5 +117,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Furlongs Close, Ron Hill, Cleobury Mortimer, Shropshire, England, DY14 8AR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "country"
+  ],
+  "points_of_interest": [
+    "river views",
+    "country views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

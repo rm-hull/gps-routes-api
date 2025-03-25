@@ -113,5 +113,26 @@
   "nominatim_found": true,
   "display_address": "Trinity Street, Newtown, St Philip's, Bristol, City of Bristol, West of England, England, BS2 0JZ, United Kingdom",
   "postcode": "BS2 0JZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "towpath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "stations"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -115,5 +115,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Vauxhall Bridge (Western Span), Runham Vauxhall, Great Yarmouth, Norfolk, England, NR30 1JJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "estate",
+    "village",
+    "windmill"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -72,5 +72,27 @@
   "display_address": "The Green, Tanworth in Arden CP, Wood End, Stratford-on-Avon, Warwickshire, England, B94 5AL, United Kingdom",
   "postcode": "B94 5AL",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "farmland",
+    "lake"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -95,5 +95,27 @@
   "display_address": "Penpol Terrace, Copperhouse, Phillack, Hayle, Cornwall, England, TR27 4FZ, United Kingdom",
   "postcode": "TR27 4FZ",
   "district": "Hayle",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "water"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "waterfront"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

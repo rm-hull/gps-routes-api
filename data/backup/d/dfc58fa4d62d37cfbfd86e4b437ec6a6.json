@@ -47,5 +47,24 @@
   "county": "Surrey",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "reservoir",
+    "views"
+  ],
+  "facilities": [
+    "train stations"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

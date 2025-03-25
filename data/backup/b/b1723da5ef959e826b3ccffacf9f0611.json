@@ -105,5 +105,23 @@
   "display_address": "Canal Street, Wollaston, Amblecote, Dudley, West Midlands, England, DY8 4LU, United Kingdom",
   "postcode": "DY8 4LU",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "locks",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -110,5 +110,28 @@
   "nominatim_found": true,
   "display_address": "Aire Valley Towpath, Holbeck Urban Village, Holbeck, Leeds, West Yorkshire, England, LS11 5FF, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical heritage",
+    "industrial history",
+    "nature reserve",
+    "historic hall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

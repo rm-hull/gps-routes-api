@@ -80,5 +80,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Samways, 9B-9C, Station Road, West Bay, Bridport, Dorset, England, DT6 4EN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "gardens",
+    "historic site"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

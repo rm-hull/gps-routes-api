@@ -114,5 +114,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Frome Library, Justice Lane, Fromefield, Frome, Somerset, England, BA11 1BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "lake",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic churches",
+    "villages",
+    "museum",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "museum",
+    "historic buildings"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

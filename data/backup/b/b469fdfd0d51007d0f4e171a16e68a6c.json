@@ -65,5 +65,23 @@
   "display_address": "High Street, Wye with Hinxhill, Wye, Ashford, Kent, England, TN25 5AJ, United Kingdom",
   "postcode": "TN25 5AJ",
   "district": "Ashford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "downland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "public footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

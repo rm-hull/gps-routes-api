@@ -113,5 +113,24 @@
   "display_address": "Broadclyst, East Devon, Devon, England, EX5 3DT, United Kingdom",
   "postcode": "EX5 3DT",
   "district": "East Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

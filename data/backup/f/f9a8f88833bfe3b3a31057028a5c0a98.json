@@ -103,5 +103,25 @@
   "nominatim_found": true,
   "display_address": "Harlestone Road, Upper Harlestone, Harlestone, West Northamptonshire, England, NN5 6UJ, United Kingdom",
   "district": "Upper Harlestone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

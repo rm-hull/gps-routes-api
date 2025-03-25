@@ -122,5 +122,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "49A, Llantysilio, Llangollen, Denbighshire, Cymru / Wales, LL20 8BS, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal towpath",
+    "woodland",
+    "lakeside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "estate"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

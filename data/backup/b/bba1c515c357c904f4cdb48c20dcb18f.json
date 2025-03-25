@@ -98,5 +98,26 @@
   "display_address": "Riverside Gardens, Middleton Estate, Ilkley, Bradford, West Yorkshire, England, LS29 0AA, United Kingdom",
   "postcode": "LS29 0AA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

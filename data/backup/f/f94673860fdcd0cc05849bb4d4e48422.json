@@ -85,5 +85,28 @@
   "display_address": "Holywell Ferry Road, Fen Drayton, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE27 4WA, United Kingdom",
   "postcode": "PE27 4WA",
   "district": "South Cambridgeshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "river",
+    "path"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "public footpath",
+    "cycle path"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

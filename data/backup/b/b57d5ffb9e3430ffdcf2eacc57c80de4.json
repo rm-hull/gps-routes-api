@@ -97,5 +97,26 @@
   "nominatim_found": true,
   "display_address": "Twyford Wood, Bourne Road, Silver Birches, Colsterworth, Corby Glen, South Kesteven, Lincolnshire, England, NG33 4LF, United Kingdom",
   "district": "South Kesteven",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature observation"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

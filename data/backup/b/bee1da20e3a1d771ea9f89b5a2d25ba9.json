@@ -124,5 +124,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Dufton, Westmorland and Furness, England, CA16 6BZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural",
+    "industrial"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "Roman fort",
+    "waterfalls",
+    "bridge"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

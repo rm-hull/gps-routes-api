@@ -128,5 +128,30 @@
   "nominatim_found": true,
   "display_address": "Icklingham Road, Wideham Farm, West Suffolk, Suffolk, England, IP28 6HE, United Kingdom",
   "district": "West Suffolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "historical village",
+    "nature reserve",
+    "deer"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center",
+    "bird hides"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

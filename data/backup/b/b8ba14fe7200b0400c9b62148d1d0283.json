@@ -89,5 +89,27 @@
   "display_address": "Blandford Road, Coombe Bissett, Wiltshire, England, SP5 4LE, United Kingdom",
   "postcode": "SP5 4LE",
   "district": "Coombe Bissett",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "church",
+    "village"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

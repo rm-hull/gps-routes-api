@@ -59,5 +59,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ash Priors, Somerset, England, TA4 3NE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "country"
+  ],
+  "points_of_interest": [
+    "country views"
+  ],
+  "facilities": [
+    "car park",
+    "village"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

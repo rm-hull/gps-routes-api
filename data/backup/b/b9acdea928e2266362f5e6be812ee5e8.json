@@ -108,5 +108,24 @@
   "nominatim_found": true,
   "display_address": "Fish Hill Car Park, Buckle Street, Broadway, Wychavon, Worcestershire, England, WR12 7LD, United Kingdom",
   "district": "Wychavon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "country"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -107,5 +107,24 @@
   "display_address": "Top Car Park, Lodge Street, Haworth Brow, Haworth and Stanbury, Haworth, Bradford, West Yorkshire, England, BD22 8DB, United Kingdom",
   "district": "Bradford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "moor"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

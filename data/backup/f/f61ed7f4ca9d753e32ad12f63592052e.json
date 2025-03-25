@@ -68,5 +68,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Wyche Lane, Bunbury, Cheshire East, England, CW6 9GS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "country lanes",
+    "stone trail",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historic castles",
+    "viewpoints",
+    "canalside trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

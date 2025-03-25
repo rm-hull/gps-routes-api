@@ -67,5 +67,28 @@
   "nominatim_found": true,
   "display_address": "Jubilee Way, Woodhill Fold, Buckley Wells, Bury, Greater Manchester, England, BL9 0JF, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "waterside",
+    "hill"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "canal",
+    "reservoir",
+    "country park",
+    "landmark"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

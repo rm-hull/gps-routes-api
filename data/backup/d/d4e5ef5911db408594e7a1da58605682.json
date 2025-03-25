@@ -98,5 +98,29 @@
   "display_address": "Ashbank Lane, Helsington, Westmorland and Furness, England, LA8 8AE, United Kingdom",
   "postcode": "LA8 8AE",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens",
+    "ancient tree"
+  ],
+  "facilities": [
+    "cafe",
+    "shop",
+    "guided tours",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -75,5 +75,24 @@
   "display_address": "Woolstone, Vale of White Horse, Oxfordshire, England, SN7 7ZB, United Kingdom",
   "postcode": "SN7 7ZB",
   "district": "Vale of White Horse",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages"
+  ],
+  "facilities": [
+    "picnic",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

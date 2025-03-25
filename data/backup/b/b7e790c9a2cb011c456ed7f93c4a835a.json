@@ -109,5 +109,28 @@
   "nominatim_found": true,
   "display_address": "Aston Hill Bike Park, Ricochet, Aston Clinton, Buckinghamshire, England, HP22 5NQ, United Kingdom",
   "district": "Aston Clinton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "woodland flowers",
+    "views"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "car park",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

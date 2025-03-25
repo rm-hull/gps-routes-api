@@ -105,5 +105,25 @@
   "display_address": "Ashprington, South Hams, Devon, England, TQ9 7UT, United Kingdom",
   "postcode": "TQ9 7UT",
   "district": "South Hams",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

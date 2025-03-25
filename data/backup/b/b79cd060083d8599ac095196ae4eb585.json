@@ -76,5 +76,24 @@
   "display_address": "Slip Lane, Ewell Minnis, Alkham, Dover, Kent, England, CT15 7DA, United Kingdom",
   "postcode": "CT15 7DA",
   "district": "Dover",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -99,5 +99,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bantham Beach Car Park, Avon Court, Bigbury, Bigbury-on-Sea, South Hams, Devon, England, TQ7 4AR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites",
+    "village"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "church",
+    "sea tractor"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

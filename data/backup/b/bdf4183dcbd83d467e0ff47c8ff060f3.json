@@ -103,5 +103,25 @@
   "nominatim_found": true,
   "display_address": "Blakeney Hotel - Granary Annexe, 4, The Quay, Blakeney, North Norfolk, Norfolk, England, NR25 7NE, United Kingdom",
   "postcode": "NR25 7NE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

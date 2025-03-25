@@ -76,5 +76,25 @@
   "nominatim_found": true,
   "display_address": "Station Car Park, Manor Road, South Woodham Ferrers, Chelmsford, Essex, England, CM3 5PW, United Kingdom",
   "postcode": "CM3 5PW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "creek",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "local park"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

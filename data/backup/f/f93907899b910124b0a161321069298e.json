@@ -118,5 +118,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Garden Hill House, 43, Totteridge Village, Totteridge, London Borough of Barnet, London, Greater London, England, N20 8PP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "park",
+    "wildlife"
+  ],
+  "facilities": [
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

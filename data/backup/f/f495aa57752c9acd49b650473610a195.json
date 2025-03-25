@@ -53,5 +53,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Harrow School, 5, High Street, Harrow on the Hill, Sudbury Hill, London Borough of Harrow, London, Greater London, England, HA1 3HP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "views"
+  ],
+  "facilities": [
+    "antiquarian shops",
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking"
+  ]
 }

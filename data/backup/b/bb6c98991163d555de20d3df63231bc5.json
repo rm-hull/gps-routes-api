@@ -80,5 +80,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "47-49 Castle Arcade, Castle Street, Castle Quarter, Castle, Cardiff, Cymru / Wales, CF10 1BW, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "lakes",
+    "peaks"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "hiking"
+  ]
 }

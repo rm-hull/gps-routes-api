@@ -100,5 +100,32 @@
   "display_address": "Wirral Way, Thurstaston, Wirral, Liverpool City Region, England, CH61 0HN, United Kingdom",
   "district": "Thurstaston",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "picnic areas",
+    "visitor center",
+    "shop",
+    "information staff",
+    "cafe",
+    "bbq area",
+    "bird hide"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

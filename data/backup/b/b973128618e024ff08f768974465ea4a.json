@@ -67,5 +67,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Card Factory, 24, High Street, Baron St Martin, Stamford, South Kesteven, Lincolnshire, England, PE9 2AY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "parks",
+    "sculpture park",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

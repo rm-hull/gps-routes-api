@@ -74,5 +74,27 @@
   "nominatim_found": true,
   "display_address": "Spaxton Road, West Bridgwater, Durleigh & Haygrove, Durleigh, Wembdon, Somerset, England, TA5 2AP, United Kingdom",
   "postcode": "TA5 2AP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "path",
+    "country lane",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "water birds",
+    "countryside",
+    "canal"
+  ],
+  "facilities": [
+    "sailing club",
+    "angler",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

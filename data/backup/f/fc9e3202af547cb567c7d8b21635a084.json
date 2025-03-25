@@ -93,5 +93,22 @@
   "display_address": "Lydeard Hill Car Park, Lydeard Hill Road, West Bagborough, Somerset, England, TA4 3DY, United Kingdom",
   "postcode": "TA4 3DY",
   "district": "West Bagborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

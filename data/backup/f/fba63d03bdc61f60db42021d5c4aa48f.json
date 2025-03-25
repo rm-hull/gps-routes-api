@@ -99,5 +99,28 @@
   "display_address": "Penmaen, Ilston, Swansea, Cymru / Wales, SA3 2HQ, United Kingdom",
   "postcode": "SA3 2HQ",
   "district": "Penmaen",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve",
+    "burial ground"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "toposcope"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

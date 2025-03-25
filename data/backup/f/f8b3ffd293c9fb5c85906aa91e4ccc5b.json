@@ -75,5 +75,25 @@
   "display_address": "Brookway Lane, New Bold, Moss Nook, St Helens, Liverpool City Region, England, WA9 3SB, United Kingdom",
   "postcode": "WA9 3SB",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "trails",
+    "viewpoints",
+    "sculpture"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

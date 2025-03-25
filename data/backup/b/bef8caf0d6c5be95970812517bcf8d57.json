@@ -95,5 +95,26 @@
   "display_address": "New Road, Cannop, West Dean, Forest of Dean, Gloucestershire, England, GL16 7EQ, United Kingdom",
   "postcode": "GL16 7EQ",
   "district": "Forest of Dean",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "footpath",
+    "water"
+  ],
+  "points_of_interest": [
+    "scenery",
+    "wildlife",
+    "plant life"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

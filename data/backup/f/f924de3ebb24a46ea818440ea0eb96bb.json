@@ -124,5 +124,30 @@
   "display_address": "High Street, Lechlade, Cotswold, Gloucestershire, England, GL7 3AD, United Kingdom",
   "postcode": "GL7 3AD",
   "district": "Cotswold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "gardens",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "church",
+    "tea shop",
+    "car park",
+    "boat hire"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

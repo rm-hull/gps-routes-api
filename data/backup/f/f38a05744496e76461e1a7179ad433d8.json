@@ -109,5 +109,24 @@
   "display_address": "Gummers How Car Park, Fell Foot Brow, Staveley-in-Cartmel, Westmorland and Furness, England, LA12 8NW, United Kingdom",
   "postcode": "LA12 8NW",
   "district": "Staveley-in-Cartmel",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

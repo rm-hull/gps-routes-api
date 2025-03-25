@@ -129,5 +129,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "2, High Street, Clachnaharry, Muirtown, Inverness, Highland, Alba / Scotland, IV3 8RA, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "museum",
+    "park",
+    "trail"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

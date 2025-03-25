@@ -123,5 +123,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marley Lane, Linchmere, Hammer, Chichester, West Sussex, England, GU27 3PU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

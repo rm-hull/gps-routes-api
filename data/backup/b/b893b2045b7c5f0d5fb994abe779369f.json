@@ -103,5 +103,27 @@
   "display_address": "Upper countryard, Tintagel Castle Bridge, Tintagel, Cornwall, England, PL34 0DQ, United Kingdom",
   "postcode": "PL34 0DQ",
   "district": "Tintagel",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "shops",
+    "cafes",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

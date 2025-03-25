@@ -103,5 +103,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "West Lane, Radbrook, Downham, Ribble Valley, Lancashire, England, BB7 4BT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "mill"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

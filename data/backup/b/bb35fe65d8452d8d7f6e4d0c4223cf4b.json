@@ -110,5 +110,24 @@
   "display_address": "Bollowall, Bosavern, St Just, Cornwall, England, TR19 7NP, United Kingdom",
   "postcode": "TR19 7NP",
   "district": "St Just",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

@@ -76,5 +76,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bridleway, 11, Larkhill, Charlton, Wantage, East Lockinge, Vale of White Horse, Oxfordshire, England, OX12 8HW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "hill forts",
+    "prehistoric sites"
+  ],
+  "facilities": [
+    "woodland walks",
+    "visitor center",
+    "estate"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

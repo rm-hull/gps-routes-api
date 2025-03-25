@@ -85,5 +85,24 @@
   "postcode": "HD7 6HU",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "roadside",
+    "trail",
+    "moor"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "reservoirs"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -87,5 +87,27 @@
   "display_address": "Martley, Malvern Hills, Worcestershire, England, WR6 6SD, United Kingdom",
   "postcode": "WR6 6SD",
   "district": "Malvern Hills",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "farms"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "church",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

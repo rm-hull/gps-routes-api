@@ -100,5 +100,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stoke Road, Amberley, Horsham, West Sussex, England, BN18 9LR, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "museum",
+    "estate"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

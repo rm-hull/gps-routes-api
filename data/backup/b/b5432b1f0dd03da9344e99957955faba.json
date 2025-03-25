@@ -76,5 +76,26 @@
   "display_address": "The Miers, Birchover CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2BG, United Kingdom",
   "postcode": "DE4 2BG",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "geological sites",
+    "stone circles",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -134,5 +134,27 @@
   "nominatim_found": true,
   "display_address": "Dumfries and Galloway, Alba / Scotland, DG3 4AQ, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "lake"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "bike hire",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

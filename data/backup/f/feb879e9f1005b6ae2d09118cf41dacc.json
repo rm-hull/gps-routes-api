@@ -112,5 +112,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ivy Close, Willington CP, South Derbyshire, Derbyshire, East Midlands, England, DE65 6BS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river",
+    "nature reserve"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -99,5 +99,29 @@
   "nominatim_found": true,
   "display_address": "Riverside Skate Park, Stourport Bridge, Mitton, Stourport-on-Severn, Wyre Forest, Worcestershire, England, DY13 8UY, United Kingdom",
   "postcode": "DY13 8UY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "woodland trails",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "museum"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -84,5 +84,28 @@
   "nominatim_found": true,
   "display_address": "Ethelston's Close, Uplyme, East Devon, Devon, England, DT7 3UJ, United Kingdom",
   "postcode": "DT7 3UJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "pasture",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "watermill",
+    "coastal views"
+  ],
+  "facilities": [
+    "church",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

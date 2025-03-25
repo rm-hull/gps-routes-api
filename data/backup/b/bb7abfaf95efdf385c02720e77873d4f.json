@@ -85,5 +85,26 @@
   "display_address": "Clachan of Campsie, Haughhead, Clachan of Campsie, East Dunbartonshire, Alba / Scotland, G66 7AT, United Kingdom",
   "postcode": "G66 7AT",
   "district": "Clachan of Campsie",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "flora"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

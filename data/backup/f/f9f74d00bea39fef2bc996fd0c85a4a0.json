@@ -109,5 +109,27 @@
   "display_address": "Elterwater Car Park, Mill Row, Lakes, Elterwater, Westmorland and Furness, England, LA22 9HP, United Kingdom",
   "postcode": "LA22 9HP",
   "district": "Elterwater",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "lakes",
+    "fells",
+    "valley"
+  ],
+  "facilities": [
+    "cafe",
+    "viewing platform"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

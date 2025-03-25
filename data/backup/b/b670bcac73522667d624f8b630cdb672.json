@@ -159,5 +159,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cobden Lane, Haslemere, Waverley, Surrey, England, GU27 2HP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "natural beauty",
+    "scientific interest"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

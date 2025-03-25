@@ -90,5 +90,25 @@
   "nominatim_found": true,
   "display_address": "Byretown Road, Corehouse Farm, New Lanark, South Lanarkshire, Alba / Scotland, ML11 9TQ, United Kingdom",
   "district": "New Lanark",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

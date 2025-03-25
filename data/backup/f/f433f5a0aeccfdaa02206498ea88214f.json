@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "Cedar Close, Potters Bar, Little Heath, Hertfordshire, England, EN6 1EW, United Kingdom",
   "postcode": "EN6 1EW",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "riverside",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "woodland trails",
+    "waterside paths"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

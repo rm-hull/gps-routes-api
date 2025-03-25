@@ -85,5 +85,25 @@
   "nominatim_found": true,
   "display_address": "Fannyside Road, Abronhill, North Lanarkshire, Alba / Scotland, FK1 3DU, United Kingdom",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "waterfront",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "water sports"
+  ]
 }

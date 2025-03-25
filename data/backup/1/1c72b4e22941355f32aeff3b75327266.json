@@ -88,5 +88,25 @@
   "display_address": "Bishop's Quarry Road, Llandudno, Conwy, Cymru / Wales, LL30 2XF, United Kingdom",
   "postcode": "LL30 2XF",
   "district": "Llandudno",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

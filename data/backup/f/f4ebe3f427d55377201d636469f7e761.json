@@ -82,5 +82,28 @@
   "display_address": "Old Lane, Ockham, Guildford, Surrey, England, KT11 1NA, United Kingdom",
   "postcode": "KT11 1NA",
   "district": "Guildford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center",
+    "water features",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

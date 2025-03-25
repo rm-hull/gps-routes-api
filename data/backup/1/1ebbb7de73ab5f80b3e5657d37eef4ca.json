@@ -93,5 +93,26 @@
   "nominatim_found": true,
   "display_address": "Park Lane, Thorncombe, Dorset, England, TA20 4LU, United Kingdom",
   "district": "Thorncombe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "scenery",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

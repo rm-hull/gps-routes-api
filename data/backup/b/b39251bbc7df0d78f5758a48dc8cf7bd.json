@@ -113,5 +113,27 @@
   "display_address": "Talkin Tarn, Brampton, Cumberland, England, CA8 1BF, United Kingdom",
   "postcode": "CA8 1BF",
   "district": "Brampton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "river"
+  ],
+  "points_of_interest": [
+    "footpaths",
+    "wildlife"
+  ],
+  "facilities": [
+    "tearoom",
+    "gift shop",
+    "row boats",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

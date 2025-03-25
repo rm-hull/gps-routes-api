@@ -105,5 +105,25 @@
   "display_address": "Beacon Drive, Goonvrea, St. Agnes, Cornwall, England, TR5 0NU, United Kingdom",
   "postcode": "TR5 0NU",
   "district": "St. Agnes",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "mining history"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

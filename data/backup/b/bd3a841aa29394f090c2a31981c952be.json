@@ -93,5 +93,29 @@
   "nominatim_found": true,
   "display_address": "36A, Choristers Square, Harnham, Salisbury, Wiltshire, England, SP1 2EL, United Kingdom",
   "postcode": "SP1 2EL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "castle",
+    "church",
+    "monument"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

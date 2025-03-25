@@ -98,5 +98,27 @@
   "display_address": "B3387, Smallacombe, Ilsington, Haytor Vale, Teignbridge, Devon, England, TQ13 9XT, United Kingdom",
   "postcode": "TQ13 9XT",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geology",
+    "rock formations"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "nature trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

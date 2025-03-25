@@ -80,5 +80,25 @@
   "display_address": "Toll Cottage, B3247, Cremyll, Maker-with-Rame, Torpoint, Cornwall, England, PL10 1HX, United Kingdom",
   "postcode": "PL10 1HX",
   "district": "Torpoint",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "villages",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

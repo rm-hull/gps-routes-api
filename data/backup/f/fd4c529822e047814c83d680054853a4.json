@@ -125,5 +125,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Anvil Square, Jenny Hill, Reeth, Fremington and Healaugh, Reeth, North Yorkshire, York and North Yorkshire, England, DL11 6TE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "country lane"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

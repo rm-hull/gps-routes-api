@@ -103,5 +103,27 @@
   "nominatim_found": true,
   "display_address": "St Giles Churchyard Extension, Grovely Road, Great Wishford, Wiltshire, England, SP2 0PF, United Kingdom",
   "postcode": "SP2 0PF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

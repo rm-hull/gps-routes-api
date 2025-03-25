@@ -70,5 +70,26 @@
   "display_address": "Seathwaite Bridge, Seathwaite, Seatoller, Borrowdale, Cumberland, England, CA12 5XJ, United Kingdom",
   "postcode": "CA12 5XJ",
   "district": "Seatoller",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "waterfall",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "climbing"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "climbing"
+  ]
 }

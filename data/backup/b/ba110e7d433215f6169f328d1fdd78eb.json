@@ -90,5 +90,23 @@
   "nominatim_found": true,
   "display_address": "Ogden Water, Ogden Lane, Ogden, Calderdale, West Yorkshire, England, HX2 8XY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

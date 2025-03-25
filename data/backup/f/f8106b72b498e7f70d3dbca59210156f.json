@@ -143,5 +143,24 @@
   "nominatim_found": true,
   "display_address": "Meadow Lane, West Derby, Liverpool, Liverpool City Region, England, L12 5EA, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

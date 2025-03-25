@@ -80,5 +80,24 @@
   "county": "Middle",
   "region": null,
   "state": null,
-  "country": "Isle of Man"
+  "country": "Isle of Man",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "railway"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

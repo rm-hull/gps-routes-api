@@ -48,5 +48,22 @@
   "nominatim_found": true,
   "display_address": "Duncryne Road, Gartocharn, West Dunbartonshire, Alba / Scotland, G83 8RZ, United Kingdom",
   "district": "Gartocharn",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

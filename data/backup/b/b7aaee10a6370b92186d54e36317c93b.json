@@ -84,5 +84,27 @@
   "county": "County Antrim",
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "parks",
+    "villages",
+    "racecourse"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

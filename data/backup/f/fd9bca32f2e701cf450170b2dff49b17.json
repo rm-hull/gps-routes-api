@@ -105,5 +105,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Whinlatter Pass, Above Derwent, Braithwaite, Cumberland, England, CA12 5RZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

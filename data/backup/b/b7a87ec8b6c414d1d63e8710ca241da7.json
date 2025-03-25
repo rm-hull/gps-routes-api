@@ -79,5 +79,22 @@
   "display_address": "The Incline, Bitterley, Shropshire, England, SY8 3PW, United Kingdom",
   "postcode": "SY8 3PW",
   "district": "Bitterley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

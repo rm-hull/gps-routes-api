@@ -72,5 +72,25 @@
   "nominatim_found": true,
   "display_address": "Wharf Lane, Radcliffe Park, Radcliffe on Trent, Rushcliffe, Nottinghamshire, East Midlands, England, NG12 2AN, United Kingdom",
   "postcode": "NG12 2AN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical memorial",
+    "nature trail",
+    "river views"
+  ],
+  "facilities": [
+    "wheelchair accessible",
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

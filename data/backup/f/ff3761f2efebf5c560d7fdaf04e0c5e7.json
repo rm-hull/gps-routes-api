@@ -70,5 +70,25 @@
   "nominatim_found": true,
   "display_address": "Pooh Bridge Parking, Chuck Hatch Lane, Chuck Hatch, Hartfield, Upper Hartfield, Wealden, East Sussex, England, TN7 4EN, United Kingdom",
   "postcode": "TN7 4EN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "literary locations",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "waymarked trails"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

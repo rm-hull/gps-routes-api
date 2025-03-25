@@ -90,5 +90,28 @@
   "nominatim_found": true,
   "display_address": "Mill Lane, Little Sandhurst, Sandhurst, Bracknell Forest, England, GU47 8JW, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "ponds",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "bird watching",
+    "cycling"
+  ]
 }

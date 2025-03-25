@@ -93,5 +93,25 @@
   "postcode": "NE39 1AU",
   "district": "Gateshead",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "viewpoints",
+    "nature trail"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "bird watching"
+  ]
 }

@@ -66,5 +66,28 @@
   "display_address": "Stepping Stones, St. Bride's Major, Merthyr Mawr, Vale of Glamorgan, Cymru / Wales, CF32 0LS, United Kingdom",
   "postcode": "CF32 0LS",
   "district": "Merthyr Mawr",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

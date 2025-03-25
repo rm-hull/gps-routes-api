@@ -85,5 +85,26 @@
   "nominatim_found": true,
   "display_address": "Calder Valley Greenway, Eightlands, West Town, Dewsbury, Kirklees, West Yorkshire, England, WF12 9QB, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "rural"
+  ],
+  "points_of_interest": [
+    "wildlife reserve",
+    "sculptures",
+    "heritage trail"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -75,5 +75,27 @@
   "nominatim_found": true,
   "display_address": "Kincardine Bridge, Falkirk, Alba / Scotland, FK2 8PW, United Kingdom",
   "postcode": "FK2 8PW",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "roadside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

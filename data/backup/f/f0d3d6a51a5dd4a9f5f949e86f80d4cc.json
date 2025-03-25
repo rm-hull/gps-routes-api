@@ -109,5 +109,25 @@
   "nominatim_found": true,
   "display_address": "Earle, Northumberland, North East, England, NE71 6RF, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "peat bog",
+    "stone"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

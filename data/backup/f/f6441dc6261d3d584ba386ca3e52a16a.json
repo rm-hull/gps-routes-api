@@ -95,5 +95,28 @@
   "display_address": "Long Walk, Llandygai, Gwynedd, Cymru / Wales, LL57 4HW, United Kingdom",
   "postcode": "LL57 4HW",
   "district": "Llandygai",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "gardens",
+    "museum"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

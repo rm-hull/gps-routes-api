@@ -109,5 +109,24 @@
   "display_address": "Portland Street South, Guide Bridge, Ashton-under-Lyne, Tameside, Greater Manchester, England, OL7 0PR, United Kingdom",
   "postcode": "OL7 0PR",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

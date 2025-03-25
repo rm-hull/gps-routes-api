@@ -112,5 +112,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "C J Leonard, A171, Guisborough, Redcar and Cleveland, Tees Valley, England, TS14 6PX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grasslands",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

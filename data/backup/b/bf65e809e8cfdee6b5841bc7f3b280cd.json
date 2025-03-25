@@ -88,5 +88,26 @@
   "display_address": "Galleywood Racecourse, Galleywood, Chelmsford, Essex, England, CM2 8PL, United Kingdom",
   "postcode": "CM2 8PL",
   "district": "Chelmsford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "country lanes",
+    "footpaths"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

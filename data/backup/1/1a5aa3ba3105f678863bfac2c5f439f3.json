@@ -85,5 +85,26 @@
   "display_address": "Fargo Road, Durrington, Wiltshire, England, SP4 8LY, United Kingdom",
   "postcode": "SP4 8LY",
   "district": "Durrington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths",
+    "river access"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

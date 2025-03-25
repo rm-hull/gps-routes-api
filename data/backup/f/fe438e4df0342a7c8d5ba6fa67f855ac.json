@@ -108,5 +108,27 @@
   "nominatim_found": true,
   "display_address": "Common road, Great Bookham, Mole Valley, Surrey, England, KT23 3JG, United Kingdom",
   "postcode": "KT23 3JG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "pond"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "bird hide",
+    "information board"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

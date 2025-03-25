@@ -76,5 +76,28 @@
   "display_address": "High Bondgate, Toronto, Bishop Auckland, County Durham, North East, England, DL14 7PP, United Kingdom",
   "postcode": "DL14 7PP",
   "district": "Bishop Auckland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "parkland",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "deer park",
+    "walled garden"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

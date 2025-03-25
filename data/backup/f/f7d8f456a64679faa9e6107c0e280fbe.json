@@ -95,5 +95,25 @@
   "display_address": "Botallack, Trewellard, St Just, Cornwall, England, TR19 7QH, United Kingdom",
   "postcode": "TR19 7QH",
   "district": "St Just",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

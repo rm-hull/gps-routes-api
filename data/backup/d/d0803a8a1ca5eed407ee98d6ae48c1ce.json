@@ -113,5 +113,28 @@
   "nominatim_found": true,
   "display_address": "Burton Road, Rosliston, Caldwell, South Derbyshire, Derbyshire, East Midlands, England, DE12 8JX, United Kingdom",
   "district": "South Derbyshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "bird hides"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cafe",
+    "bike hire"
+  ],
+  "route_type": "loop",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

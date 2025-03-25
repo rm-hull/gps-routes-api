@@ -67,5 +67,26 @@
   "nominatim_found": true,
   "display_address": "Castle House, Castle Hill, Overmonnow, Monmouth, Monmouthshire, Cymru / Wales, NP25 3BS, United Kingdom",
   "postcode": "NP25 3BS",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "monuments"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

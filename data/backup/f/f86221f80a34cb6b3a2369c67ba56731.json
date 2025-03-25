@@ -112,5 +112,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mickleton, Cotswold, Gloucestershire, England, GL55 6SL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "viewpoint",
+    "historic town"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

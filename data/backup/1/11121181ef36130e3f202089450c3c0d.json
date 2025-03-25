@@ -118,5 +118,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bellemonte Road, Netherton, Overton, Frodsham, Cheshire West and Chester, England, WA6 6BG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "iron age hillfort"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

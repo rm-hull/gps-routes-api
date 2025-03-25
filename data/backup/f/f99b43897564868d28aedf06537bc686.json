@@ -104,5 +104,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Black Dyke Road, Arnside, Westmorland and Furness, England, LA5 0HZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

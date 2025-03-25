@@ -104,5 +104,27 @@
   "display_address": "Rhinefield Road, Brockenhurst, New Forest, Hampshire, England, SO42 7QB, United Kingdom",
   "postcode": "SO42 7QB",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "hotel",
+    "pond"
+  ],
+  "facilities": [
+    "car park",
+    "hotel",
+    "tea room",
+    "outdoor terrace"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

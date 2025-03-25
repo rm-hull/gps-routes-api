@@ -88,5 +88,28 @@
   "display_address": "Mereheath Drive, Millington and Rostherne, Mere, Cheshire East, England, WA16 6SJ, United Kingdom",
   "postcode": "WA16 6SJ",
   "district": "Mere",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "farmland",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "cycle hire",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

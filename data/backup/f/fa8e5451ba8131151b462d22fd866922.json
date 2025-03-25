@@ -70,5 +70,24 @@
   "display_address": "Duncansby Head Road, Highland, Alba / Scotland, KW1 4YS, United Kingdom",
   "postcode": "KW1 4YS",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "sea stacks",
+    "seabirds",
+    "lighthouses"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

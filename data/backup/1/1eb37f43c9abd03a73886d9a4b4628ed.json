@@ -103,5 +103,24 @@
   "nominatim_found": true,
   "display_address": "B5056, Harthill, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2LZ, United Kingdom",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rock",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

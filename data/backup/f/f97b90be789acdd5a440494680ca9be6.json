@@ -60,5 +60,24 @@
   "display_address": "Mount Melville, Fife, Alba / Scotland, KY16 8NG, United Kingdom",
   "postcode": "KY16 8NG",
   "district": "Mount Melville",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "nature trail",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

@@ -75,5 +75,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Edgeside, Waterfoot, Rossendale, Lancashire, England, BB4 7EU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

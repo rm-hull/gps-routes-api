@@ -119,5 +119,23 @@
   "display_address": "Watkin Path, Nantgwynant, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NH, United Kingdom",
   "postcode": "LL55 4NH",
   "district": "Beddgelert",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "water/stream"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

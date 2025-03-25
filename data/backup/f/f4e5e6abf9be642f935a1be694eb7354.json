@@ -84,5 +84,28 @@
   "nominatim_found": true,
   "display_address": "Esplanade, Exmouth, East Devon, Devon, England, EX8 1BE, United Kingdom",
   "postcode": "EX8 1BE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "country"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "sculpture",
+    "nature reserve",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "holiday park"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

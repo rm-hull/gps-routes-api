@@ -57,5 +57,24 @@
   "nominatim_found": true,
   "display_address": "Church Street, Barford, Warwick, Warwickshire, England, CV35 8EN, United Kingdom",
   "postcode": "CV35 8EN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

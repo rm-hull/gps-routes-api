@@ -123,5 +123,28 @@
   "nominatim_found": true,
   "display_address": "Mill Lane, Bathampton, Bath and North East Somerset, West of England, England, BA2 6TR, United Kingdom",
   "postcode": "BA2 6TR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "pasture",
+    "hill"
+  ],
+  "points_of_interest": [
+    "museum",
+    "village",
+    "church",
+    "golf course"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

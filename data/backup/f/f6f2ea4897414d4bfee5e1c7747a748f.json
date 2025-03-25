@@ -133,5 +133,28 @@
   "nominatim_found": true,
   "display_address": "Brabyns Tennis Club, Brabyns Brow, Marple, Stockport, Greater Manchester, England, SK6 7DA, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical structures",
+    "villages",
+    "countryside views",
+    "canals"
+  ],
+  "facilities": [
+    "pub",
+    "country park",
+    "reservoir"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

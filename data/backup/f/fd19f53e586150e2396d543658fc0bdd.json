@@ -98,5 +98,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Green, Rose Cottage, Goathland, North Yorkshire, York and North Yorkshire, England, YO22 5LX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moors",
+    "water"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "tea room",
+    "rail trail"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

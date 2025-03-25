@@ -89,5 +89,25 @@
   "display_address": "Rixafer Road, Chudleigh, Luton, Teignbridge, Devon, England, TQ13 0BP, United Kingdom",
   "postcode": "TQ13 0BP",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "birdlife",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

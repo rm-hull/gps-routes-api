@@ -55,5 +55,28 @@
   "nominatim_found": true,
   "display_address": "Marton Mere Sign, Marples Drive, Little Marton, Blackpool, England, FY4 4ZA, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "gardens",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "boating lake",
+    "cycle route"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }

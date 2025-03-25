@@ -89,5 +89,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Chico's, 13, Bridge Street, Bishophill, York, York and North Yorkshire, England, YO1 6DA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "wooded"
+  ],
+  "points_of_interest": [
+    "parks",
+    "bridges",
+    "historic buildings",
+    "river trails"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "bus stop",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking"
+  ]
 }

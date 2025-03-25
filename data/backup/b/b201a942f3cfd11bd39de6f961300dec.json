@@ -104,5 +104,27 @@
   "nominatim_found": true,
   "display_address": "Dedham Mill, Mill Lane, Dedham Community Farm, Dedham, Colchester, Essex, England, CO7 6DJ, United Kingdom",
   "postcode": "CO7 6DJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "footpath",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "watermill",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activity_type": [
+    "walking"
+  ]
 }

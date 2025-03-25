@@ -64,5 +64,25 @@
   "nominatim_found": true,
   "display_address": "Hawker's Lane, Stour Provost, Stour Row, Dorset, England, SP7 0QJ, United Kingdom",
   "district": "Stour Row",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activity_type": [
+    "walking",
+    "cycling"
+  ]
 }
