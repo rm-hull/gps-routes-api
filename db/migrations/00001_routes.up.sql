@@ -38,13 +38,13 @@ CREATE INDEX idx_routes_county ON routes (county);
 CREATE INDEX idx_routes_region ON routes (region);
 CREATE INDEX idx_routes_state ON routes (state);
 CREATE INDEX idx_routes_country ON routes (country);
+CREATE INDEX idx_routes_route_type ON routes (route_type);
 CREATE INDEX idx_routes_estimated_duration ON routes (estimated_duration);
 CREATE INDEX idx_routes_difficulty ON routes (difficulty);
-CREATE INDEX idx_routes_terrain ON routes (terrain);
-CREATE INDEX idx_routes_facilities ON routes (facilities);
-CREATE INDEX idx_routes_points_of_interest ON routes (points_of_interest);
-CREATE INDEX idx_routes_route_type ON routes (route_type);
-CREATE INDEX idx_routes_activities ON routes (activities);
+CREATE INDEX idx_routes_terrain ON routes USING GIN (terrain);
+CREATE INDEX idx_routes_facilities ON routes USING GIN (facilities);
+CREATE INDEX idx_routes_points_of_interest ON routes USING GIN (points_of_interest);
+CREATE INDEX idx_routes_activities ON routes USING GIN (activities);
 CREATE INDEX idx_routes_geolocation ON routes USING GIST (_geoloc);
 CREATE INDEX idx_routes_search_vector ON routes USING GIN (search_vector);
 
