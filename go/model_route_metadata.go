@@ -28,7 +28,7 @@ type RouteMetadata struct {
 	Description string `json:"description"`
 
 	// The main image URL associated with the route
-	HeadlineImageUrl string `json:"headline_image_url"`
+	HeadlineImageUrl *string `json:"headline_image_url"`
 
 	StartPosition GeoLoc `json:"_geoloc,omitempty"`
 
