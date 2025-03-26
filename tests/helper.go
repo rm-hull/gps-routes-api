@@ -15,7 +15,7 @@ import (
 func setupPostgresContainer(ctx context.Context) (testcontainers.Container, error) {
 
 	req := testcontainers.ContainerRequest{
-		Image:        "postgis/postgis:17-master",
+		Image:        "ghcr.io/baosystems/postgis:latest",
 		ExposedPorts: []string{"5432/tcp"},
 		Env: map[string]string{
 			"POSTGRES_PASSWORD": "secret",

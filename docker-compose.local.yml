@@ -3,7 +3,7 @@ name: gps-routes-local
 services:
   postgis:
     container_name: postgis
-    image: postgis/postgis:latest
+    image: ghcr.io/baosystems/postgis:latest
     restart: always
     ports:
       - "5432:5432"
