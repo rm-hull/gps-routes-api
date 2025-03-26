@@ -15,6 +15,8 @@ type PostgresDbRepository struct {
 	schema string
 }
 
+var DEFAULT_ARRAY_FIELDS = []string{"activities", "terrain", "facilities", "points_of_interest"}
+
 func NewPostgresRouteRepository(pool *pgxpool.Pool, schema string) *PostgresDbRepository {
 	return &PostgresDbRepository{pool: pool, schema: schema}
 }
@@ -214,7 +216,7 @@ func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.
 
 	var count int64
 	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).
-		WithArrayFields("activities", "terrain", "facilities", "points_of_interest").
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		Build()
 
 	err := repo.pool.QueryRow(ctx, query, params...).Scan(&count)
@@ -228,15 +230,13 @@ func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.
 func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	results := make(map[string]int64, 0)
 
-	var selectPart string
-	if unnest {
-		selectPart = `SELECT UNNEST(%s) AS key, COUNT(*) AS value FROM routes`
-	} else {
-		selectPart = `SELECT %s AS key, COUNT(*) AS value FROM routes`
-	}
+	format := map[bool]string{
+		true:  `SELECT UNNEST(%s) AS key, COUNT(*) AS value FROM routes`,
+		false: `SELECT %s AS key, COUNT(*) AS value FROM routes`,
+	}[unnest]
 
-	query, params := db.NewQueryBuilder(fmt.Sprintf(selectPart, facetField), criteria).
-		WithArrayFields("activities", "terrain", "facilities", "points_of_interest").
+	query, params := db.NewQueryBuilder(fmt.Sprintf(format, facetField), criteria).
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
 		WithExcludeFacets(excludeFacets...).
 		WithGroupBy("key").
@@ -290,7 +290,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 	}
 
 	query, params := db.NewQueryBuilder(selectPart, criteria).
-		WithArrayFields("activities", "terrain", "facilities", "points_of_interest").
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithOrderBy(sortField).
 		WithOffset(criteria.Offset).
 		WithLimit(criteria.Limit).
