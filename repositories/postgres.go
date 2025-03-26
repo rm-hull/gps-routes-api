@@ -254,7 +254,7 @@ func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *mod
 		var name string
 		var value int
 
-		err := rows.Scan(&name, &value)
+		err = rows.Scan(&name, &value)
 		if err != nil {
 			return nil, fmt.Errorf("failed to scan %s-facet row: %v", facetField, err)
 		}
@@ -296,7 +296,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 		WithLimit(criteria.Limit).
 		Build()
 
-	results := make([]model.RouteSummary, 0)
+	var results []model.RouteSummary
 	rows, err := repo.pool.Query(ctx, query, params...)
 	if err != nil {
 		return nil, fmt.Errorf("failed to execute search query \"%s\":, %v", query, err)

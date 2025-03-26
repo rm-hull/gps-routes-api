@@ -5,6 +5,7 @@ import (
 	"strings"
 
 	"github.com/lib/pq"
+	
 	model "github.com/rm-hull/gps-routes-api/go"
 )
 
@@ -14,7 +15,7 @@ type QueryBuilder struct {
 	whereClauses   []string
 	excludedFacets map[string]struct{}
 	arrayFields    map[string]struct{}
-	params         []interface{}
+	params         []any
 	orderBy        string
 	groupBy        string
 	limit          string
@@ -25,7 +26,7 @@ func NewQueryBuilder(selectPart string, criteria *model.SearchRequest) *QueryBui
 	qb := &QueryBuilder{
 		selectPart: selectPart,
 		criteria:   criteria,
-		params:     make([]interface{}, 0),
+		params:     make([]any, 0),
 	}
 
 	return qb.applyWhereConditions()
@@ -96,12 +97,10 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 			}
 
 			_, isArrayField := qb.arrayFields[facet]
-			var format string
-			if isArrayField {
-				format = "%s && $%d::TEXT[]"
-			} else {
-				format = "%s = ANY($%d)"
-			}
+			format := map[bool]string{
+				true:  "%s && $%d::TEXT[]",
+				false: "%s = ANY($%d)",
+			}[isArrayField]
 			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1))
 			qb.params = append(qb.params, pq.Array(values))
 		}
@@ -112,7 +111,15 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
-	return fmt.Sprintf("%s %s %s %s %s %s", qb.selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit), qb.params
+	return fmt.Sprintf(
+		"%s %s %s %s %s %s",
+		qb.selectPart,
+		whereClause,
+		qb.groupBy,
+		qb.orderBy,
+		qb.offset,
+		qb.limit,
+	), qb.params
 }
 
 // split the query into words and suffix each word with ':*' to allow prefix matching, then join them with '&'
@@ -144,8 +151,8 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 func toSet(values ...string) map[string]struct{} {
 	set := make(map[string]struct{})
-	for _, s := range values {
-		set[s] = struct{}{}
+	for _, value := range values {
+		set[value] = struct{}{}
 	}
 	return set
 }
