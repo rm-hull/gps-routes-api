@@ -296,17 +296,17 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 		WithLimit(criteria.Limit).
 		Build()
 
-	var results []model.RouteSummary
 	rows, err := repo.pool.Query(ctx, query, params...)
 	if err != nil {
 		return nil, fmt.Errorf("failed to execute search query \"%s\":, %v", query, err)
 	}
 	defer rows.Close()
 
-	for rows.Next() {
-		var summary model.RouteSummary
-		var latitude, longitude float64
+	var results []model.RouteSummary
+	var summary model.RouteSummary
+	var latitude, longitude float64
 
+	for rows.Next() {
 		err := rows.Scan(
 			&summary.ObjectID, &summary.Ref, &summary.Title,
 			&summary.Description, &summary.HeadlineImageUrl,
