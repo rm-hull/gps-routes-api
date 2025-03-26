@@ -125,7 +125,6 @@ components:
           $ref: '#/components/schemas/GeoJSON'
       required:
       - description
-      - headline_image_url
       - objectID
       - ref
       - title

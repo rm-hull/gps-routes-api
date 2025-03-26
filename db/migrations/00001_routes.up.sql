@@ -6,7 +6,7 @@ CREATE TABLE routes (
     created_at TIMESTAMPTZ NOT NULL,
     ref TEXT NOT NULL,
     title TEXT NOT NULL,
-    headline_image_url TEXT NOT NULL,
+    headline_image_url TEXT,
     gpx_url TEXT,
     _geoloc GEOMETRY(Point, 4326) NOT NULL,
     distance_km NUMERIC(10, 2),
