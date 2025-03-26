@@ -4,6 +4,8 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/lib/pq"
+	
 	model "github.com/rm-hull/gps-routes-api/go"
 )
 
@@ -11,8 +13,9 @@ type QueryBuilder struct {
 	criteria       *model.SearchRequest
 	selectPart     string
 	whereClauses   []string
-	excludedFacets []string
-	params         []interface{}
+	excludedFacets map[string]struct{}
+	arrayFields    map[string]struct{}
+	params         []any
 	orderBy        string
 	groupBy        string
 	limit          string
@@ -23,7 +26,7 @@ func NewQueryBuilder(selectPart string, criteria *model.SearchRequest) *QueryBui
 	qb := &QueryBuilder{
 		selectPart: selectPart,
 		criteria:   criteria,
-		params:     make([]interface{}, 0),
+		params:     make([]any, 0),
 	}
 
 	return qb.applyWhereConditions()
@@ -75,7 +78,12 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 }
 
 func (qb *QueryBuilder) WithExcludeFacets(facetNames ...string) *QueryBuilder {
-	qb.excludedFacets = facetNames
+	qb.excludedFacets = toSet(facetNames...)
+	return qb
+}
+
+func (qb *QueryBuilder) WithArrayFields(arrayFields ...string) *QueryBuilder {
+	qb.arrayFields = toSet(arrayFields...)
 	return qb
 }
 
@@ -83,19 +91,18 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 
 	if qb.criteria.Facets != nil {
 		for facet, values := range qb.criteria.Facets {
-			excluded := false
-
-			for _, name := range qb.excludedFacets {
-				if name == facet {
-					excluded = true
-					break
-				}
+			_, isExcluded := qb.excludedFacets[facet]
+			if isExcluded {
+				continue
 			}
 
-			if !excluded {
-				qb.WithWhereClause(fmt.Sprintf("%s = ANY($%d)", facet, len(qb.params)+1))
-				qb.params = append(qb.params, values)
-			}
+			_, isArrayField := qb.arrayFields[facet]
+			format := map[bool]string{
+				true:  "%s && $%d::TEXT[]",
+				false: "%s = ANY($%d)",
+			}[isArrayField]
+			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1))
+			qb.params = append(qb.params, pq.Array(values))
 		}
 	}
 
@@ -104,7 +111,15 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
-	return fmt.Sprintf("%s %s %s %s %s %s", qb.selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit), qb.params
+	return fmt.Sprintf(
+		"%s %s %s %s %s %s",
+		qb.selectPart,
+		whereClause,
+		qb.groupBy,
+		qb.orderBy,
+		qb.offset,
+		qb.limit,
+	), qb.params
 }
 
 // split the query into words and suffix each word with ':*' to allow prefix matching, then join them with '&'
@@ -132,4 +147,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 	}
 
 	return qb
+}
+
+func toSet(values ...string) map[string]struct{} {
+	set := make(map[string]struct{})
+	for _, value := range values {
+		set[value] = struct{}{}
+	}
+	return set
 }

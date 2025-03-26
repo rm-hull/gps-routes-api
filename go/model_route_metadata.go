@@ -68,4 +68,18 @@ type RouteMetadata struct {
 
 	// The country in which the route starts
 	Country *string `json:"country,omitempty"`
+
+	EstimatedDuration *string `json:"estimated_duration,omitempty"`
+
+	Difficulty *string `json:"difficulty,omitempty"`
+
+	Terrain []string `json:"terrain,omitempty"`
+
+	PointsOfInterest []string `json:"points_of_interest,omitempty"`
+
+	Facilities []string `json:"facilities,omitempty"`
+
+	RouteType *string `json:"route_type,omitempty"`
+
+	Activities []string `json:"activities,omitempty"`
 }

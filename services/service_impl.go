@@ -55,8 +55,8 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 		resultsChan <- *results
 	}
 
-	fetchFacet := func(fieldName string, limit int32, excludeFacets ...string) {
-		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit, excludeFacets...)
+	fetchFacet := func(fieldName string, limit int32, unnest bool, excludeFacets ...string) {
+		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit, unnest, excludeFacets...)
 		if err != nil {
 			errorChan <- err
 		}
@@ -66,17 +66,24 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 
 	go fetchResults()
 	go fetchCounts()
-	go fetchFacet("district", 20, "district")
-	go fetchFacet("county", 100, "county", "district")
-	go fetchFacet("region", 20, "region", "county", "district")
-	go fetchFacet("state", 20, "state", "region", "county", "district")
-	go fetchFacet("country", 10, "country", "state", "region", "county", "district")
+	go fetchFacet("district", 20, false, "district")
+	go fetchFacet("county", 100, false, "county", "district")
+	go fetchFacet("region", 20, false, "region", "county", "district")
+	go fetchFacet("state", 20, false, "state", "region", "county", "district")
+	go fetchFacet("country", 10, false, "country", "state", "region", "county", "district")
+	go fetchFacet("route_type", 10, false, "route_type")
+	go fetchFacet("difficulty", 10, false, "difficulty")
+	go fetchFacet("estimated_duration", 10, false, "estimated_duration")
+	go fetchFacet("terrain", 50, true, "terrain")
+	go fetchFacet("facilities", 50, true, "facilities")
+	go fetchFacet("activities", 50, true, "activities")
+	go fetchFacet("points_of_interest", 50, true, "points_of_interest")
 
 	var total int64
 	var results []model.RouteSummary
 
 	facets := make(map[string]map[string]int64, 0)
-	remaining := 7
+	remaining := 14
 
 	for remaining > 0 {
 		select {
@@ -102,6 +109,8 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 			"GPS Cycle and Walking Routes: https://gps-routes.co.uk",
 			"OS DataHub: Names API. https://www.ordnancesurvey.co.uk",
 			"Nominatim: Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+			"Llama.cpp: https://github.com/ggml-org/llama.cpp/blob/master/LICENSE",
+			"lmstudio-community/gemma-3-4b-it-Q8_0.gguf: https://ai.google.dev/gemma/terms",
 		},
 	}, nil
 }

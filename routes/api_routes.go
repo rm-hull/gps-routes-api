@@ -45,7 +45,11 @@ func (api *RoutesAPI) FetchRecord(c *gin.Context) {
 	c.JSON(http.StatusOK, route)
 }
 
-var VALID_FACET_FIELDS = []string{"country", "state", "region", "district", "county"}
+var VALID_FACET_FIELDS = []string{
+	"country", "state", "region", "district", "county",
+	"activities", "facilities", "points_of_interest",
+	"route_type", "difficulty", "terrain", "estimated_duration",
+}
 
 func isValidFacetField(facetField string) bool {
 	for _, field := range VALID_FACET_FIELDS {
