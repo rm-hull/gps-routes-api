@@ -3,6 +3,7 @@ package cmds
 import (
 	"context"
 	"log"
+	"net/url"
 	"os"
 	"time"
 
@@ -37,7 +38,7 @@ func GenerateSitemap(host string) {
 	bar := progressbar.Default(int64(len(*routes)))
 	for _, route := range *routes {
 		url := stm.URL{
-			"loc":     route.Ref,
+			"loc":     url.QueryEscape(route.Ref),
 			"lastmod": now,
 		}
 
