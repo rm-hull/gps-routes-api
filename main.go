@@ -66,6 +66,15 @@ func main() {
 		},
 	}
 
+	var sitemapCmd = &cobra.Command{
+		Use:   "sitemap [base_host_url]",
+		Short: "Generate sitemap.xml",
+		Args:  cobra.ExactArgs(1),
+		Run: func(cmd *cobra.Command, args []string) {
+			cmds.GenerateSitemap(args[0])
+		},
+	}
+
 	var versionCmd = &cobra.Command{
 		Use:   "version",
 		Short: "Show version",
@@ -78,6 +87,7 @@ func main() {
 	rootCmd.AddCommand(serverCmd)
 	rootCmd.AddCommand(pingDbCmd)
 	rootCmd.AddCommand(migrationCmd)
+	rootCmd.AddCommand(sitemapCmd)
 	rootCmd.AddCommand(versionCmd)
 
 	if err := rootCmd.Execute(); err != nil {
