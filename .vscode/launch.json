@@ -21,6 +21,17 @@
             "args": ["import", "./data/backup"]
         },
         {
+            "name": "Generate sitemap",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "main.go",
+            "args": [
+                "sitemap",
+                "https://www.destructuring-bind.org/gps-routes/"
+            ]
+        },
+        {
             "name": "Ping Database",
             "type": "go",
             "request": "launch",
