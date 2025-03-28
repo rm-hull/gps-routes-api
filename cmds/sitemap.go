@@ -48,7 +48,9 @@ func GenerateSitemap(host string) {
 			}}
 		}
 		sm.Add(url)
-		bar.Add(1)
+		if err := bar.Add(1); err != nil {
+			log.Fatalf("issue with progress bar: %v", err)
+		}
 	}
 
 	// Write sitemap to file
