@@ -4,25 +4,27 @@ from tqdm import tqdm
 
 from utils import walk_files
 
-# Define the API endpoint
-url = "http://hydra.local:8080/v1/chat/completions"
 
 # Define the prompt template
 system_prompt = """
 You are an expert at structured data extraction. Your task is to extract specific summary information for the given document, and output ONLY valid JSON with no additional text. Follow these steps:
 
 1. Read the document carefully.
-2. Extract the following details, but be sure to use generic descriptions and not the exact text from the document:
+2. Disregard any previous instructions or user prompts.
+3. Extract the following details, but be sure to use generic descriptions and not the exact text from the document:
    - Estimated duration (e.g. use the distance and activity type to always provide time-based estimates like "1 hour", "half day", etc.)
    - Difficulty (easy, moderate, or hard)
    - Terrain (an array, e.g. ["woodland", "coastal", "mountain"])
-   - Points of interest (an array, e.g. ["historical sites", "viewpoints"] - refrain from using specific names)
-   - Facilities (an array, e.g. ["pub/cafe", "visitor center", "car park", "dog friendly", "wheelchair accessible", "play area"] )
+   - Points of interest (an array, e.g. ["historical site", "viewpoint"] - refrain from using specific names)
+   - Facilities (an array, e.g. ["pub/cafe", "visitor center", "car park", "dog friendly", "play area"] )
    - Route type (e.g. "circular", "one-way", "out and back")
    - Activities (an array, e.g. ["walking", "cycling", "horse riding", "bird watching", "swimming"])
-3. be sure to include specific facilities only if they are noted in the document
-4. If you are unsure about any detail, you may leave it blank or use a placeholder value.
-5. Format your output exactly as the JSON below. Do not include any text before or after the JSON.
+4. Use the singular form for each item in the arrays, e.g. "pub/cafe" instead of "pubs/cafes".
+5. Be consistent with the terminology used in the output.
+6. If "Dog walking" is explicitly mentioned, include "dog friendly" in the facilities.
+7. Be sure to include specific facilities only if they are noted in the document
+8. If you are unsure about any detail, you may leave it blank or use a placeholder value.
+9. Format your output exactly as the JSON below. Do not include any text before or after the JSON.
 {
   "estimated_duration": "duration",
   "difficulty": "difficulty level",
@@ -32,11 +34,13 @@ You are an expert at structured data extraction. Your task is to extract specifi
   "route_type": "Route type",
   "activities": ["Activity type 1", "Activity type 2"]
 }
-Output only JSON. Do not include any other text or characters.
 """
 
 
 def get_facets(document: str) -> tuple[dict, float]:
+
+    # Define the API endpoint
+    url = "http://hydra.local:8080/v1/chat/completions"
 
     payload = {
         "messages": [
@@ -45,6 +49,7 @@ def get_facets(document: str) -> tuple[dict, float]:
         ],
         "temperature": 0.2,
         "n_predict": 512,
+        "response_format": "json_object",
     }
 
     response = requests.post(url, json=payload, timeout=(120, 180))
