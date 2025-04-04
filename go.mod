@@ -7,11 +7,11 @@ require (
 	github.com/JGLTechnologies/gin-rate-limit v1.5.4
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
-	github.com/gin-contrib/cors v1.7.4
+	github.com/gin-contrib/cors v1.7.5
 	github.com/gin-contrib/size v1.0.1
 	github.com/gin-gonic/gin v1.10.0
 	github.com/golang-migrate/migrate/v4 v4.18.2
-	github.com/ikeikeikeike/go-sitemap-generator v2.0.1+incompatible
+	github.com/ikeikeikeike/go-sitemap-generator/v2 v2.0.2
 	github.com/jackc/pgx/v5 v5.7.4
 	github.com/joho/godotenv v1.5.1
 	github.com/pkg/errors v0.9.1
@@ -93,7 +93,7 @@ require (
 	github.com/gin-contrib/sse v1.0.0 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
-	github.com/go-playground/validator/v10 v10.25.0 // indirect
+	github.com/go-playground/validator/v10 v10.26.0 // indirect
 	github.com/goccy/go-json v0.10.5 // indirect
 	github.com/golang/snappy v1.0.0 // indirect
 	github.com/google/uuid v1.6.0 // indirect
