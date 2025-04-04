@@ -85,7 +85,11 @@ func NewHttpServer() {
 	)
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)
-	defer db.Close()
+	defer func() {
+		if err := db.Close(); err != nil {
+			log.Printf("failed to close database connection: %v", err)
+		}
+	}()
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
 		checks.SqlCheck{Sql: db},
 	})
