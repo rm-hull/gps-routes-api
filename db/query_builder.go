@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	"github.com/lib/pq"
-	
+
 	model "github.com/rm-hull/gps-routes-api/go"
 )
 
@@ -111,15 +111,18 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
-	return fmt.Sprintf(
-		"%s %s %s %s %s %s",
-		qb.selectPart,
-		whereClause,
-		qb.groupBy,
-		qb.orderBy,
-		qb.offset,
-		qb.limit,
-	), qb.params
+	filteredParts := removeEmptyStrings([]string{qb.selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit})
+	return strings.Join(filteredParts, " "), qb.params
+}
+
+func removeEmptyStrings(slice []string) []string {
+	var result []string
+	for _, str := range slice {
+		if str != "" {
+			result = append(result, str)
+		}
+	}
+	return result
 }
 
 // split the query into words and suffix each word with ':*' to allow prefix matching, then join them with '&'
