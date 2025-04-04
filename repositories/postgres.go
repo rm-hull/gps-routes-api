@@ -97,7 +97,11 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 	}
 
 	results := repo.pool.SendBatch(ctx, batch)
-	defer results.Close()
+	defer func() {
+		if err := results.Close(); err != nil {
+			fmt.Printf("Error closing batch results: %v\n", err)
+		}
+	}()
 
 	// Ensure all queries in the batch succeed
 	for i := range batch.Len() {

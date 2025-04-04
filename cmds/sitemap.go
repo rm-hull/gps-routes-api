@@ -60,7 +60,11 @@ func GenerateSitemap(host string) {
 	if err != nil {
 		log.Fatalf("failed to create sitemap file: %v", err)
 	}
-	defer f.Close()
+	defer func() {
+		if err := f.Close(); err != nil {
+			log.Printf("failed to close sitemap file: %v", err)
+		}
+	}()
 
 	if _, err := f.Write(sm.XMLContent()); err != nil {
 		log.Fatalf("failed to write sitemap: %v", err)
