@@ -90,5 +90,25 @@
   "county": "County Mayo",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -88,5 +88,24 @@
   "nominatim_found": true,
   "display_address": "Mill Lane, Islip, Thrapston, North Northamptonshire, England, NN14 3JN, United Kingdom",
   "district": "Thrapston",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "river"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

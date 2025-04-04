@@ -118,5 +118,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sawley Bridge, Lawson House, Sawley, Ribble Valley, Lancashire, England, BB7 4NH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

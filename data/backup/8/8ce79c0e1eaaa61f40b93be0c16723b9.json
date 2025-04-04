@@ -63,5 +63,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "St. James's Place, Port Elphinstone, Inverurie, Aberdeenshire, Alba / Scotland, AB51 3UB, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

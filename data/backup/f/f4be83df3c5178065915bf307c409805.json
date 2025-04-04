@@ -68,5 +68,25 @@
   "display_address": "Doncaster Road, Darfield, Barnsley, South Yorkshire, England, S73 9HG, United Kingdom",
   "postcode": "S73 9HG",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "wetlands",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "settlement"
+  ],
+  "facilities": [
+    "waterside footpath",
+    "lakeside cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

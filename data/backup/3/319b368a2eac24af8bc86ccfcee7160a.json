@@ -85,5 +85,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Forres, Moray, Alba / Scotland, IV36 2JX, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "farmland",
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

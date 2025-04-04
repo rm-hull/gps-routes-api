@@ -124,5 +124,28 @@
   "nominatim_found": true,
   "display_address": "Brookside, Knowltop, Chinley, Buxworth and Brownside, Buxworth, High Peak, Derbyshire, East Midlands, England, SK23 7NH, United Kingdom",
   "postcode": "SK23 7NH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river gorge",
+    "park",
+    "trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

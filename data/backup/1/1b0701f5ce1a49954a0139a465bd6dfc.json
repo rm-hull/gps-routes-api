@@ -100,5 +100,28 @@
   "display_address": "Marlborough Road, Park South, South Swindon Parish, Swindon, England, SN3 1PT, United Kingdom",
   "postcode": "SN3 1PT",
   "district": "Swindon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historical",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "river views"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

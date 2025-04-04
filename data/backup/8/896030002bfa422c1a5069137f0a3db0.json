@@ -85,5 +85,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Dawlish, Richmond Place, Dawlish, Teignbridge, Devon, England, EX7 9PL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "nature reserve",
+    "canal"
+  ],
+  "facilities": [
+    "cafe",
+    "restaurant",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

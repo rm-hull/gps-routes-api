@@ -88,5 +88,26 @@
   "display_address": "Tolpuddle Hollow, Troy Town, Athelhampton and Puddletown, Puddletown, Dorset, England, DT2 8QG, United Kingdom",
   "postcode": "DT2 8QG",
   "district": "Puddletown",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

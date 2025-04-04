@@ -80,5 +80,24 @@
   "display_address": "Baydons Meadow, Baydons Lane, Chippenham, Wiltshire, England, SN15 3JX, United Kingdom",
   "postcode": "SN15 3JX",
   "district": "Chippenham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "path"
+  ],
+  "points_of_interest": [
+    "parkland",
+    "gardens"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

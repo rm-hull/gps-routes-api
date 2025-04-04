@@ -84,5 +84,23 @@
   "display_address": "Glutton, Hartington Middle Quarter CP, Earl Sterndale, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 0BU, United Kingdom",
   "postcode": "SK17 0BU",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

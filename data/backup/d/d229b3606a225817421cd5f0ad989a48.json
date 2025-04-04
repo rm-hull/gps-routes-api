@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Saint Andrews Church Graveyard, Finkle Street, Sedbergh, Westmorland and Furness, England, LA10 5BZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfall",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

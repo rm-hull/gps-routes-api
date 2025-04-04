@@ -43,5 +43,24 @@
   "nominatim_found": true,
   "display_address": "Rowlands Avenue, Waterlooville, Havant, Hampshire, England, PO7 7RU, United Kingdom",
   "postcode": "PO7 7RU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "local walks"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

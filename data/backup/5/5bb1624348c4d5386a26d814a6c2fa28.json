@@ -83,5 +83,23 @@
   "display_address": "Coddington Lane, Moor Farm, Stapleford, North Kesteven, Lincolnshire, England, LN6 9LE, United Kingdom",
   "postcode": "LN6 9LE",
   "district": "North Kesteven",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half hour",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

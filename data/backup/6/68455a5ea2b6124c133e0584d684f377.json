@@ -114,5 +114,30 @@
   "nominatim_found": true,
   "display_address": "North Bridge Road, Sprotbrough and Cusworth, Doncaster, South Yorkshire, England, DN5 9AG, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "bridges",
+    "locks",
+    "waterfalls",
+    "viaduct",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -3,7 +3,6 @@
   "objectID": "854360ee354b7776fb68fd66e9ea6d0b",
   "ref": "carlow-oak-park-forest-walking-route",
   "title": "Carlow Oak Park Forest Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Kilkenny River and Canal Walk",
@@ -53,5 +52,25 @@
   "county": "County Kildare",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

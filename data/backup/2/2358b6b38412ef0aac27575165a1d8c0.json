@@ -103,5 +103,24 @@
   "display_address": "Church Road, Hucking, Maidstone, Kent, England, ME9 7RZ, United Kingdom",
   "postcode": "ME9 7RZ",
   "district": "Maidstone",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "views",
+    "sculptures"
+  ],
+  "facilities": [
+    "car park",
+    "parking"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

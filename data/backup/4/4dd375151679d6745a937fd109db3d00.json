@@ -112,5 +112,26 @@
   "nominatim_found": true,
   "display_address": "Ascot Business Park, Sunninghill and Ascot, Ascot, Windsor and Maidenhead, England, SL5 9ED, United Kingdom",
   "postcode": "SL5 9ED",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "road",
+    "bridleway",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural areas",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -89,5 +89,25 @@
   "nominatim_found": true,
   "display_address": "Hunmanby, North Yorkshire, York and North Yorkshire, England, YO14 0LB, United Kingdom",
   "postcode": "YO14 0LB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "coastal views",
+    "countryside",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -43,5 +43,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "N70, Ryesland Way, Creech St. Michael, Somerset, England, TA3 5TD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal"
+  ],
+  "points_of_interest": [
+    "solar system models",
+    "historic canal"
+  ],
+  "facilities": [
+    "car park",
+    "tea room"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

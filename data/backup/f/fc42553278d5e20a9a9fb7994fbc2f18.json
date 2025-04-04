@@ -65,5 +65,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Nutts Lane, Hinckley, Hinckley and Bosworth, Leicestershire, England, LE10 3EJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "canals",
+    "countryside"
+  ],
+  "facilities": [
+    "coffee bar",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

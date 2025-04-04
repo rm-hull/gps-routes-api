@@ -72,5 +72,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Horton Road, Tickford End, Milton Keynes, City of Milton Keynes, England, MK16 8AN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "parkland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife",
+    "picnic areas",
+    "viewpoints"
+  ],
+  "facilities": [
+    "dog friendly",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

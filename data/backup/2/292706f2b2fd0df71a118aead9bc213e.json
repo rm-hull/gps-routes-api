@@ -95,5 +95,24 @@
   "nominatim_found": true,
   "display_address": "Saint Paul's Drive, Mount Pleasant, Sunderland, Tyne and Wear, North East, England, DH4 7SH, United Kingdom",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

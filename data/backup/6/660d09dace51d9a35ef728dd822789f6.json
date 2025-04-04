@@ -103,5 +103,23 @@
   "nominatim_found": true,
   "display_address": "Old Basing Royal British Legion & Social Club, Crown Lane, Hatch, Old Basing and Lychpit, Old Basing, Basingstoke and Deane, Hampshire, England, RG24 7DN, United Kingdom",
   "postcode": "RG24 7DN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "historical sites",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "earthworks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -69,5 +69,26 @@
   "display_address": "Aylesbeare, East Devon, Devon, England, EX10 0DF, United Kingdom",
   "postcode": "EX10 0DF",
   "district": "East Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

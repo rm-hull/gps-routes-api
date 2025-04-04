@@ -72,5 +72,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "North Street, Broad Chalke, Wiltshire, England, SP5 5EN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "countryside",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "wildflower meadows"
+  ],
+  "facilities": [
+    "visitor center",
+    "footpaths",
+    "bridleways"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

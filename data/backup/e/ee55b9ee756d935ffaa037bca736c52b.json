@@ -94,5 +94,26 @@
   "nominatim_found": true,
   "display_address": "Seven Stars Lane, Tamerton Foliot, Plymouth, England, PL5 4NN, United Kingdom",
   "postcode": "PL5 4NN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "natural beauty",
+    "nature reserve",
+    "waterside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

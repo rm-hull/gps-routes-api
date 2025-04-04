@@ -79,5 +79,23 @@
   "nominatim_found": true,
   "display_address": "Lock Hill, Thorne, Doncaster, South Yorkshire, England, DN8 5EP, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "moorland",
+    "bog"
+  ],
+  "points_of_interest": [
+    "wildlife sites"
+  ],
+  "facilities": [
+    "car park",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

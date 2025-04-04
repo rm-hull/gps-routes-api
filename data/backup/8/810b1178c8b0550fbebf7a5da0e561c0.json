@@ -76,5 +76,25 @@
   "display_address": "Church Lane, Ellastone, East Staffordshire, Staffordshire, England, DE6 2HB, United Kingdom",
   "postcode": "DE6 2HB",
   "district": "East Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological sites",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

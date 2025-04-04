@@ -94,5 +94,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Parking Heartwood Forest, Sandridgebury Lane, Sandridge, St Albans, Hertfordshire, England, AL3 6RA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grass"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "wildlife viewing",
+    "orchard",
+    "arboretum"
+  ],
+  "facilities": [
+    "car park",
+    "cycle route",
+    "walking trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

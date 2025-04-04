@@ -89,5 +89,24 @@
   "nominatim_found": true,
   "display_address": "Glowson Wood Road, Woolhope, Herefordshire, England, HR1 4RH, United Kingdom",
   "district": "Woolhope",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "footpaths"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

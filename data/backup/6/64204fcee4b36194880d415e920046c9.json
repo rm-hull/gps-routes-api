@@ -93,5 +93,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marlow Bridge, Bisham, Windsor and Maidenhead, England, SL7 1RG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside views",
+    "historical landmarks",
+    "watermills"
+  ],
+  "facilities": [
+    "car park",
+    "bus stop",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

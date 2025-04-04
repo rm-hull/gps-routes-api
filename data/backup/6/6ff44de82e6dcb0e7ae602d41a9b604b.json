@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Reformery, River Lane, Alfriston, Wealden, East Sussex, England, BN26 5UD, United Kingdom",
   "postcode": "BN26 5UD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "hill figure",
+    "country park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

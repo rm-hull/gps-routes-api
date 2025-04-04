@@ -129,5 +129,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mill Hill, Bramerton, South Norfolk, Norfolk, England, NR14 7EN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "nature reserve",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "bird watching",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center",
+    "wheelchair accessible",
+    "garden"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

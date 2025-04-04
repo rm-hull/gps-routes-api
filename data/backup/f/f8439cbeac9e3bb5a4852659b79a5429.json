@@ -108,5 +108,27 @@
   "county": "Wiltshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historical",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "monuments",
+    "landscape"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

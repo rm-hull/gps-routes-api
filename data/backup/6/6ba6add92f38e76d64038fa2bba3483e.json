@@ -98,5 +98,27 @@
   "display_address": "Pembridge Lane, Brickendon Liberty, Brickendon, East Hertfordshire, Hertfordshire, England, EN10 7QR, United Kingdom",
   "postcode": "EN10 7QR",
   "district": "East Hertfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "field edges"
+  ],
+  "points_of_interest": [
+    "sculpture trail",
+    "historical sites",
+    "nature"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

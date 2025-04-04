@@ -75,5 +75,28 @@
   "nominatim_found": true,
   "display_address": "RSPB Loch of Strathbeg, Reserve Management Path , Crimond, Aberdeenshire, Alba / Scotland, AB43 8QN, United Kingdom",
   "district": "Crimond",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "footpaths"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -100,5 +100,25 @@
   "display_address": "Crown Hotel, Hawes Road, Harber, Settle, North Yorkshire, York and North Yorkshire, England, BD24 0HF, United Kingdom",
   "postcode": "BD24 0HF",
   "district": "Settle",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "12 hours",
+  "difficulty": "hard",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "caves"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -117,5 +117,25 @@
   "display_address": "Station Approach, West Malling, East Malling, Tonbridge and Malling, Kent, England, ME19 6HJ, United Kingdom",
   "postcode": "ME19 6HJ",
   "district": "Tonbridge and Malling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic sites",
+    "parks",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

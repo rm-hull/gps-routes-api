@@ -62,5 +62,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Surgery, Spa Road East, Llandrindod Wells, Llandrindod, Powys, Cymru / Wales, LD1 5HA, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "country lanes"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "lake",
+    "sculptures",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

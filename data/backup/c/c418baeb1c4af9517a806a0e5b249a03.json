@@ -114,5 +114,27 @@
   "display_address": "Town Hill, Yoxall, East Staffordshire, Staffordshire, England, DE13 8PN, United Kingdom",
   "postcode": "DE13 8PN",
   "district": "East Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "boating marina",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

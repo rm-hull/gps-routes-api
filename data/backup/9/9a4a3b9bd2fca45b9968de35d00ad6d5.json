@@ -57,5 +57,23 @@
   "display_address": "Station Road, Shrivenham, Vale of White Horse, Oxfordshire, England, SN6 8ED, United Kingdom",
   "postcode": "SN6 8ED",
   "state": "England",
-  "nominatim_found": true
+  "nominatim_found": true,
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal towpath",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

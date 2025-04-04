@@ -103,5 +103,27 @@
   "county": "Devon",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle ruins",
+    "archaeological sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "hotel"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

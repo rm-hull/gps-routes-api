@@ -3,7 +3,6 @@
   "objectID": "049f6d9f54108d31639093b6cba29bb4",
   "ref": "ulverston-to-coniston-walking-route",
   "title": "Ulverston to Coniston Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Grizedale Forest",
@@ -42,5 +41,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gill Banks, Ulverston, Westmorland and Furness, England, LA12 7BU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views",
+    "forest"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

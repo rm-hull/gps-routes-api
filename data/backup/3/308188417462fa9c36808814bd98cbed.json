@@ -69,5 +69,25 @@
   "nominatim_found": true,
   "display_address": "Clattowoods Drive, St Mary's, Dundee, Dundee City, Alba / Scotland, DD3 9SE, United Kingdom",
   "postcode": "DD3 9SE",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

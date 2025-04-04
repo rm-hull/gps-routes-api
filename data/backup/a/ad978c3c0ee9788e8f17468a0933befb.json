@@ -70,5 +70,25 @@
   "display_address": "South Stack Road, Trearddur, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 1YH, United Kingdom",
   "postcode": "LL65 1YH",
   "district": "Trearddur",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife viewing",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "nature trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

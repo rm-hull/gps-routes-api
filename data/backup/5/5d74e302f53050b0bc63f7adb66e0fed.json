@@ -89,5 +89,30 @@
   "nominatim_found": true,
   "display_address": "Bridge Street, East Twickenham, St Margarets, London Borough of Richmond upon Thames, London, Greater London, England, TW9 1EN, United Kingdom",
   "postcode": "TW9 1EN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "park",
+    "tennis courts",
+    "band stand"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

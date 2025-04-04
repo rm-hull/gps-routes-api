@@ -118,5 +118,25 @@
   "display_address": "Mansfield Road, Edwinstowe CP, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG21 9HF, United Kingdom",
   "postcode": "NG21 9HF",
   "district": "Newark and Sherwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -128,5 +128,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pam's Bridge, Ashford Hill, Ashford Hill with Headley, Axmansford, Basingstoke and Deane, Hampshire, England, RG19 8BD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grasslands",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "wildflower areas",
+    "wildlife spotting",
+    "historical sites",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "horse friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

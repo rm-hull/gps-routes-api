@@ -88,5 +88,27 @@
   "nominatim_found": true,
   "display_address": "8, Pitchcombe Gardens, Coombe Dingle, Bristol, City of Bristol, West of England, England, BS9 2RH, United Kingdom",
   "postcode": "BS9 2RH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "historical",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "hill fort",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

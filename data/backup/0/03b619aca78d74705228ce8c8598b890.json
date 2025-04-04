@@ -164,5 +164,26 @@
   "display_address": "Cork Hall Farm, Bradgate Road, Newtown Linford, Charnwood, Leicestershire, England, LE6 0HA, United Kingdom",
   "postcode": "LE6 0HA",
   "district": "Charnwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "waterfront",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "towns"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

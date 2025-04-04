@@ -105,5 +105,26 @@
   "display_address": "Hope Woodlands, High Peak, Derbyshire, East Midlands, England, S33 0AQ, United Kingdom",
   "postcode": "S33 0AQ",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "geological formations"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cafe",
+    "waterside trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

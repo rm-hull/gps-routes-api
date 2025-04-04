@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "East Street, Moreton-in-Marsh, Cotswold, Gloucestershire, England, GL56 0JX, United Kingdom",
   "postcode": "GL56 0JX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "cultural sites",
+    "gardens"
+  ],
+  "facilities": [
+    "pub",
+    "church",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

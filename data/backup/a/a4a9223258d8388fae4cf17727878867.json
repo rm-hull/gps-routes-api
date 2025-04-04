@@ -138,5 +138,27 @@
   "nominatim_found": true,
   "display_address": "Plas Y Coed, Abercegin, Llandygai, Gwynedd, Cymru / Wales, LL57 4FL, United Kingdom",
   "postcode": "LL57 4FL",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

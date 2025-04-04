@@ -93,5 +93,25 @@
   "display_address": "Birks Bridge, Dunnerdale-with-Seathwaite, Ulpha, Westmorland and Furness, England, LA20 6EF, United Kingdom",
   "postcode": "LA20 6EF",
   "district": "Ulpha",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

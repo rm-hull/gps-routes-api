@@ -112,5 +112,22 @@
   "nominatim_found": true,
   "display_address": "Stocksbridge Golf Club, 30, Royd Lane, Deepcar, Stocksbridge, Bolsterstone, Sheffield, South Yorkshire, England, S36 2TY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

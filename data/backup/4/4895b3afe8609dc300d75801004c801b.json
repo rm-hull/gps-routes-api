@@ -76,5 +76,24 @@
   "display_address": "Stanbridge Road, Haddenham, Buckinghamshire, England, HP17 8JQ, United Kingdom",
   "postcode": "HP17 8JQ",
   "district": "Haddenham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -88,5 +88,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "1, Mill Road, Tongwynlais, Cardiff, Cymru / Wales, CF15 7JP, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "gift shop",
+    "audio tour"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

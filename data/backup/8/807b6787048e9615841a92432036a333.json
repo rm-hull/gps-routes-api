@@ -99,5 +99,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Shipyard Road, Staynor Hall, Selby, North Yorkshire, York and North Yorkshire, England, YO8 8FB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "walking trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

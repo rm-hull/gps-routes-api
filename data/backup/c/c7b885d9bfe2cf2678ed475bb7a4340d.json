@@ -60,5 +60,25 @@
   "nominatim_found": true,
   "display_address": "Vaynor Road, Vaynor, Pontsticill, Merthyr Tydfil, Cymru / Wales, CF48 2UN, United Kingdom",
   "district": "Pontsticill",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "forest",
+    "lake",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "views",
+    "railway"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

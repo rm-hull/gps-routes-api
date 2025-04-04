@@ -80,5 +80,23 @@
   "display_address": "Beaulieu Road, Denny Lodge, New Forest, Hampshire, England, SO43 7FZ, United Kingdom",
   "postcode": "SO43 7FZ",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "views",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

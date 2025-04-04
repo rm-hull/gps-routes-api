@@ -79,5 +79,25 @@
   "display_address": "Walton Well Road, Osney, Oxford, Oxfordshire, England, OX1 1GD, United Kingdom",
   "postcode": "OX1 1GD",
   "district": "Oxford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "meadow",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "waterfront"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

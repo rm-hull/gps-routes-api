@@ -87,5 +87,28 @@
   "postcode": "WF4 2EE",
   "district": "Wakefield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "lake",
+    "pond",
+    "path"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "walking trail",
+    "gardens",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

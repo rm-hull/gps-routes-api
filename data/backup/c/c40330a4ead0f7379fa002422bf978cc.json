@@ -72,5 +72,23 @@
   "nominatim_found": true,
   "display_address": "Courthouse Interiors, The Square, Hartswell, Wiveliscombe, Somerset, England, TA4 2JT, United Kingdom",
   "postcode": "TA4 2JT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

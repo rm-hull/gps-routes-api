@@ -3,7 +3,6 @@
   "objectID": "2981f14d41a31b83260729a26955541e",
   "ref": "north-wiltshire-rivers-route-walking-and-cycle-route",
   "title": "North Wiltshire Rivers Route Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Avebury Stones",
@@ -52,5 +51,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lowbourne, Melksham Forest, Melksham, Wiltshire, England, SN12 7ED, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic towns",
+    "historic villages",
+    "ancient stones"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

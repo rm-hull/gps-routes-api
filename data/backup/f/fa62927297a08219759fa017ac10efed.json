@@ -94,5 +94,22 @@
   "county": "West Dunbartonshire",
   "region": null,
   "state": "Alba / Scotland",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

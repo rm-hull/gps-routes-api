@@ -94,5 +94,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pier Court, 10, Marine Parade, Kemptown, Brighton, Brighton and Hove, England, BN2 1WP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "sea cliffs",
+    "monument"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -104,5 +104,27 @@
   "display_address": "Hampton Road, Knowle, Solihull, West Midlands, England, B93 0PA, United Kingdom",
   "district": "Solihull",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "woodland trails",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

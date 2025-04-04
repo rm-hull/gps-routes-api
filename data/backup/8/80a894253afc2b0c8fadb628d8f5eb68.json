@@ -55,5 +55,25 @@
   "display_address": "Snake Road, Hope Woodlands, High Peak, Derbyshire, East Midlands, England, S33 0BJ, United Kingdom",
   "postcode": "S33 0BJ",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "memorial"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

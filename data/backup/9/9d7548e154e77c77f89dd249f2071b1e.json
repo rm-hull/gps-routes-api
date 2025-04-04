@@ -79,5 +79,25 @@
   "display_address": "Old Malpas Road, Agden, Tushingham, Cheshire West and Chester, England, SY13 4RF, United Kingdom",
   "postcode": "SY13 4RF",
   "district": "Tushingham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "riverside",
+    "canal",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "riverside scenery"
+  ],
+  "facilities": [
+    "car park",
+    "canal access"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

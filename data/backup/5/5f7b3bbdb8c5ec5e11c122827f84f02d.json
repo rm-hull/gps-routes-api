@@ -3,7 +3,6 @@
   "objectID": "5f7b3bbdb8c5ec5e11c122827f84f02d",
   "ref": "linn-park-walking-and-cycle-route",
   "title": "Linn Park Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Cathkin Braes Country Park",
@@ -33,5 +32,26 @@
   "nominatim_found": true,
   "display_address": "Lainshaw Drive, Simshill, Glasgow, Glasgow City, Alba / Scotland, G45 9SP, United Kingdom",
   "district": "Glasgow",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "riverbank"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "playground",
+    "golf course"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -85,5 +85,23 @@
   "nominatim_found": true,
   "display_address": "Heol Marged, Llanrhystyd, Llanrhystud, Ceredigion, Cymru / Wales, SY23 5DQ, United Kingdom",
   "postcode": "SY23 5DQ",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

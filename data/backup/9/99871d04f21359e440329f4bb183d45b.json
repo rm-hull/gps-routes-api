@@ -113,5 +113,26 @@
   "display_address": "Hatfield Forest Road, Bush End, Hatfield Broad Oak, Takeley Street, Uttlesford, Essex, England, CM22 6NJ, United Kingdom",
   "postcode": "CM22 6NJ",
   "district": "Uttlesford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural features"
+  ],
+  "facilities": [
+    "cycle hire",
+    "row boats",
+    "restaurant",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

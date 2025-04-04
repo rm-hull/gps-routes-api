@@ -125,7 +125,6 @@ components:
           $ref: '#/components/schemas/GeoJSON'
       required:
       - description
-      - headline_image_url
       - objectID
       - ref
       - title
@@ -180,6 +179,34 @@ components:
             description: The country in which the route starts
             example: England
             type: string
+          estimated_duration:
+            description: The estimated time to complete the route
+            example: 2-3 hours
+            type: string
+          difficulty:
+            description: The difficulty of the route
+            example: easy
+            type: string
+          terrain:
+            description: The terrain of the route
+            example: ["flat", "river", "woodland"]
+            type: array
+          points_of_interest:
+            description: Points of interest along the route
+            example: ["castle", "pub", "church"]
+            type: array
+          facilities:
+            description: Facilities available along the route
+            example: ["cafe", "toilets", "parking"]
+            type: array
+          route_type:
+            description: The type of route
+            example: "circular"
+            type: string
+          activities:
+            description: Activities available along the route
+            example: ["birdwatching", "cycling", "fishing"]
+            type: array
         required:
         - created_at
         type: object
@@ -232,6 +259,21 @@ components:
           type: Point
         region: East Midlands
         objectID: 0a0cafcd50f17284dc578271968f8341
+        estimated_duration: 1.5 - 2.5 hours
+        difficulty: easy
+        terrain: 
+          - woodland
+          - wetland
+          - grassland
+        points_of_interest:
+          - wildlife viewing
+          - nature trails
+        facilities:
+          - car park
+          - canal access
+        route_type: loop,
+        activities:
+          - walking
     Nearby:
       example:
         ref: chesterfield-canal-walking-route

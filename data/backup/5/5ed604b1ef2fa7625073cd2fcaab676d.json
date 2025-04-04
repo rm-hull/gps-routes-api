@@ -80,5 +80,25 @@
   "nominatim_found": true,
   "display_address": "Lundin Crescent, Tayport, Fife, Alba / Scotland, DD6 9EF, United Kingdom",
   "district": "Tayport",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildfowl"
+  ],
+  "facilities": [
+    "car park",
+    "nature trail"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

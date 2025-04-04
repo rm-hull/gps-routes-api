@@ -88,5 +88,25 @@
   "nominatim_found": true,
   "display_address": "Beecraigs Country Park, Sutherland Way, Linlithgow, West Lothian, Alba / Scotland, EH49 6PL, United Kingdom",
   "district": "Linlithgow",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterside paths"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

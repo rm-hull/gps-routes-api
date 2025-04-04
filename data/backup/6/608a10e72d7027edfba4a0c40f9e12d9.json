@@ -73,5 +73,25 @@
   "display_address": "Scots Mile, Aberdeenshire, Alba / Scotland, AB41 7EQ, United Kingdom",
   "postcode": "AB41 7EQ",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "park"
+  ],
+  "points_of_interest": [
+    "monuments",
+    "lakes",
+    "deer park"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

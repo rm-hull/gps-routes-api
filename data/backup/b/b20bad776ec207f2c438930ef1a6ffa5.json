@@ -50,5 +50,24 @@
   "display_address": "Dunster Beach, Sea Lane, Dunster, Somerset, England, TA24 6TH, United Kingdom",
   "postcode": "TA24 6TH",
   "district": "Dunster",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "path"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

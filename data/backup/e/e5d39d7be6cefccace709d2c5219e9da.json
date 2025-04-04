@@ -3,7 +3,6 @@
   "objectID": "e5d39d7be6cefccace709d2c5219e9da",
   "ref": "old-sarum-way-walking-route",
   "title": "Old Sarum Way Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Old Sarum Castle",
@@ -32,5 +31,23 @@
   "nominatim_found": true,
   "display_address": "Ranger's Lodge Cottage, Queen Manor Road, Ranger's Lodge Farm, Clarendon Park, Laverstock, Wiltshire, England, SP5 3BS, United Kingdom",
   "district": "Laverstock",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "downland"
+  ],
+  "points_of_interest": [
+    "villages",
+    "scenery"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

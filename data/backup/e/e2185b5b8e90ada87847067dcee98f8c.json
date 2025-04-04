@@ -3,7 +3,6 @@
   "objectID": "e2185b5b8e90ada87847067dcee98f8c",
   "ref": "teignmouth-and-dawlish-way-walking-route",
   "title": "Teignmouth and Dawlish Way Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Dawlish Sea Wall",
@@ -52,5 +51,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Upper Den Carriageway, Teignmouth, Shaldon, Teignbridge, Devon, England, TQ14 8BB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "villages",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -60,5 +60,29 @@
   "display_address": "Aigburth Drive, Aigburth, Liverpool, Liverpool City Region, England, L17 4JA, United Kingdom",
   "postcode": "L17 4JA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical figures",
+    "caves",
+    "waterfalls",
+    "viewpoints"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -113,5 +113,28 @@
   "display_address": "Fisherman\u2019s Car Park, Carr Lane, Blickling, Broadland, Norfolk, England, NR11 6PU, United Kingdom",
   "postcode": "NR11 6PU",
   "district": "Broadland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "bike hire",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

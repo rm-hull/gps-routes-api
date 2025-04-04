@@ -85,5 +85,26 @@
   "nominatim_found": true,
   "display_address": "Hampton, Chelmarsh, Shropshire, England, WV16 6BN, United Kingdom",
   "postcode": "WV16 6BN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterway",
+    "grassland",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "village",
+    "river views",
+    "long distance footpath"
+  ],
+  "facilities": [
+    "car park",
+    "railway station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

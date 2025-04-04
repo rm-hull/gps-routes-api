@@ -61,5 +61,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cae-Gybi, Machynlleth, Powys, Cymru / Wales, SY20 8EU, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

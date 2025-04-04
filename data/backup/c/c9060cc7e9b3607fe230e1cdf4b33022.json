@@ -114,5 +114,23 @@
   "county": "Hampshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "churches",
+    "ruined abbeys"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -104,5 +104,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Lindale Road, Grange-Over-Sands, Westmorland and Furness, England, LA11 6EG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "religious sites",
+    "nature reserve",
+    "archaeological sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

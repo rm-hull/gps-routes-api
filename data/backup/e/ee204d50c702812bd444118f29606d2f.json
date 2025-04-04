@@ -72,5 +72,26 @@
   "display_address": "Avenue Road, Aighton, Bailey and Chaigley, Hurst Green, Ribble Valley, Lancashire, England, BB7 9QG, United Kingdom",
   "postcode": "BB7 9QG",
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "literary locations",
+    "village"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "hotel",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

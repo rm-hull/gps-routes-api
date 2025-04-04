@@ -89,5 +89,26 @@
   "nominatim_found": true,
   "display_address": "B5426, Wern, Minera, New Brighton, Wrexham, Cymru / Wales, LL11 3DY, United Kingdom",
   "district": "New Brighton",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "geology",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "museum",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -95,5 +95,23 @@
   "nominatim_found": true,
   "display_address": "Froom Street, Cowling, Chorley, Lancashire, England, PR6 9FF, United Kingdom",
   "postcode": "PR6 9FF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "reservoirs"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

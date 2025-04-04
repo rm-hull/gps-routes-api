@@ -67,5 +67,26 @@
   "display_address": "A593, Lakes, Skelwith Bridge, Westmorland and Furness, England, LA22 9NJ, United Kingdom",
   "postcode": "LA22 9NJ",
   "district": "Skelwith Bridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "views"
+  ],
+  "facilities": [
+    "tea rooms",
+    "pub/cafe",
+    "outdoor seating"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -103,5 +103,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Llanwddyn, Powys, Cymru / Wales, SY10 0LU, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water",
+    "grass"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "sculpture trail",
+    "waterfall"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "bird hides",
+    "long distance footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

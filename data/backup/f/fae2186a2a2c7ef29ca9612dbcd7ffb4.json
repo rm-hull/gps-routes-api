@@ -100,5 +100,23 @@
   "display_address": "Hazelwood Castle, Paradise Lane, Stutton with Hazlewood, Tadcaster, North Yorkshire, York and North Yorkshire, England, LS24 9NJ, United Kingdom",
   "postcode": "LS24 9NJ",
   "district": "Tadcaster",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "country views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

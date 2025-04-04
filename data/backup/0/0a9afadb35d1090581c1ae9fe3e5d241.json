@@ -100,5 +100,31 @@
   "nominatim_found": true,
   "display_address": "78, Ewe Lamb Lane, Stapleford, Bramcote, City of Nottingham, Nottinghamshire, East Midlands, England, NG9 3JZ, United Kingdom",
   "postcode": "NG9 3JZ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "parkland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "geological features",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

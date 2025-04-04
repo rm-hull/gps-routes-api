@@ -90,5 +90,31 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B837, Balmaha, Stirling, Alba / Scotland, G63 0JQ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "forest",
+    "loch"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "shelter",
+    "toilets",
+    "changing facilities",
+    "bin-store",
+    "exhibition area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -133,5 +133,25 @@
   "nominatim_found": true,
   "display_address": "Ffordd Dewi Sant, Nefyn, Gwynedd, Cymru / Wales, LL53 6EF, United Kingdom",
   "postcode": "LL53 6EF",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

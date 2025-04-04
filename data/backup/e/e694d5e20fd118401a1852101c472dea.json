@@ -61,5 +61,22 @@
   "nominatim_found": true,
   "display_address": "Rectory Lane, Llanferres, Denbighshire, Cymru / Wales, CH7 5SR, United Kingdom",
   "postcode": "CH7 5SR",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "hill fort",
+    "tower",
+    "path"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -68,5 +68,27 @@
   "display_address": "The Street, Hailey, Ipsden, South Oxfordshire, Oxfordshire, England, OX10 6AG, United Kingdom",
   "postcode": "OX10 6AG",
   "district": "South Oxfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

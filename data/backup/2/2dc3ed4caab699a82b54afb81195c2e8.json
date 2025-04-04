@@ -84,5 +84,26 @@
   "nominatim_found": true,
   "display_address": "Coulsdon Road, Caterham-on-the-Hill, London Borough of Croydon, London, Surrey, Greater London, England, CR3 5QQ, United Kingdom",
   "postcode": "CR3 5QQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "chalk grassland"
+  ],
+  "points_of_interest": [
+    "Nature trails",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

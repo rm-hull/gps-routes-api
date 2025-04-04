@@ -93,5 +93,26 @@
   "display_address": "Treal, St Keverne, Kuggar, Cornwall, England, TR12 7LZ, United Kingdom",
   "postcode": "TR12 7LZ",
   "district": "Kuggar",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "satellite dishes",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

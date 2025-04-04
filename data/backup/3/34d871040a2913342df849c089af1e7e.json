@@ -93,5 +93,27 @@
   "nominatim_found": true,
   "display_address": "Millfield Lane, Hognaston CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1PW, United Kingdom",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "cycle hire",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

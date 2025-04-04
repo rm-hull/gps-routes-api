@@ -124,5 +124,25 @@
   "nominatim_found": true,
   "display_address": "Stoke Road, Caistor St Edmund and Bixley, Caistor St Edmund, South Norfolk, Norfolk, England, NR14 8QN, United Kingdom",
   "district": "South Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "archaeological remains",
+    "prehistoric sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "information boards"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

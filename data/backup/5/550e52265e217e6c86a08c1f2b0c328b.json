@@ -85,5 +85,24 @@
   "nominatim_found": true,
   "display_address": "Prinknash Park, Painswick Road, Pincott, Upton St. Leonards, Stroud, Gloucestershire, England, GL3 4RX, United Kingdom",
   "district": "Stroud",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -76,5 +76,27 @@
   "display_address": "Old Pyrites Kilns, Constance Way, West Bank, Widnes, Halton, Liverpool City Region, England, WA8 0QR, United Kingdom",
   "postcode": "WA8 0QR",
   "district": "Widnes",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "canal",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "lighthouses",
+    "gardens",
+    "airport"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

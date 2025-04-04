@@ -92,5 +92,28 @@
   "display_address": "Station Road, Irthlingborough, North Northamptonshire, England, NN9 5QF, United Kingdom",
   "postcode": "NN9 5QF",
   "district": "Irthlingborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "lake",
+    "grassland",
+    "wetland"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

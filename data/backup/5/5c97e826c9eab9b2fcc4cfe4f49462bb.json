@@ -76,5 +76,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B3081, Tollard Royal, Wiltshire, England, SP5 5PS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "tea rooms",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

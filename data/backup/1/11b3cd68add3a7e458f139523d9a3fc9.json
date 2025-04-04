@@ -83,5 +83,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marine Parade, East Blatchington, Seaford, Lewes, East Sussex, England, BN25 1EB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "13 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

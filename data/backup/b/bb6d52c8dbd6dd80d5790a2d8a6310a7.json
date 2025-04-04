@@ -3,7 +3,6 @@
   "objectID": "bb6d52c8dbd6dd80d5790a2d8a6310a7",
   "ref": "calder-aire-link-walking-and-cycle-route",
   "title": "Calder Aire Link Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Goit Stock Waterfall",
@@ -52,5 +51,22 @@
   "display_address": "St. Ives, Bingley, Harden, Bradford, West Yorkshire, England, BD16 1AS, United Kingdom",
   "district": "Bradford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

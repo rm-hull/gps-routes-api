@@ -89,5 +89,28 @@
   "display_address": "County Gate Car Park, A39, Wilsham, Brendon and Countisbury, Brendon, North Devon, Devon, England, EX35 6BL, United Kingdom",
   "postcode": "EX35 6BL",
   "district": "North Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "lighthouses",
+    "churches",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

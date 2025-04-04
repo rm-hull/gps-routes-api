@@ -110,5 +110,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sea Music, The Quay, Old Town, Poole, Bournemouth, Christchurch and Poole, England, BH15 1HJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "full day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "heathland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "gardens",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

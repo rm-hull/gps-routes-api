@@ -100,5 +100,25 @@
   "nominatim_found": true,
   "display_address": "Dark Lane, Old Woodhouses, Whitchurch Rural, Broughall, Shropshire, England, SY13 4EH, United Kingdom",
   "district": "Broughall",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

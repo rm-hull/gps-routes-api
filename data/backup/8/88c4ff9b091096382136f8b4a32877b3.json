@@ -71,5 +71,27 @@
   "display_address": "Swaine Street, Shaw Heath, Stockport, Greater Manchester, England, SK3 0EH, United Kingdom",
   "postcode": "SK3 0EH",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "nature park",
+    "river"
+  ],
+  "facilities": [
+    "bus station",
+    "visitor center",
+    "wheelchair accessible",
+    "park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

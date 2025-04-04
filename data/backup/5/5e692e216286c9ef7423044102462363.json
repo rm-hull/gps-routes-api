@@ -72,5 +72,28 @@
   "nominatim_found": true,
   "display_address": "Stanborough Road, Hatfield Garden Village, Stanborough, Welwyn Hatfield, Hertfordshire, England, AL8 6DF, United Kingdom",
   "district": "Welwyn Hatfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "bird hides",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

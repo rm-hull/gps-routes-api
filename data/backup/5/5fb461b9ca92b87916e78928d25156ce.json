@@ -63,5 +63,23 @@
   "display_address": "Craven Sailing Club, Pasture Road, Embsay with Eastby, Embsay, North Yorkshire, York and North Yorkshire, England, BD23 6PR, United Kingdom",
   "postcode": "BD23 6PR",
   "district": "Embsay",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Windmill Lane, Cheshunt, Broxbourne, Hertfordshire, England, EN8 9AQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "lakes"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "waymarked footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

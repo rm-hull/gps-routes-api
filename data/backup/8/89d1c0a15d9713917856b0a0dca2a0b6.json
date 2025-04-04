@@ -89,5 +89,27 @@
   "display_address": "Cheesefoot Head, Petersfield Road, Itchen Valley, Winchester, Hampshire, England, SO21 1HW, United Kingdom",
   "postcode": "SO21 1HW",
   "district": "Winchester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "downland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "church",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

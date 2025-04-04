@@ -90,5 +90,29 @@
   "nominatim_found": true,
   "display_address": "Coffee Reef, Pier Approach, Lansdowne, West Cliff, Bournemouth, Bournemouth, Christchurch and Poole, England, BH2 5AA, United Kingdom",
   "postcode": "BH2 5AA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "beach",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens",
+    "sculptures"
+  ],
+  "facilities": [
+    "cafe",
+    "car park",
+    "visitor center",
+    "ferry"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

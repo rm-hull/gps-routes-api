@@ -100,5 +100,25 @@
   "display_address": "North Poulner Road, Ringwood, Poulner, New Forest, Hampshire, England, BH24 1SP, United Kingdom",
   "postcode": "BH24 1SP",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

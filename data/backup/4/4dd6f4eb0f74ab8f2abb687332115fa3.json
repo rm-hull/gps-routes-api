@@ -99,5 +99,28 @@
   "display_address": "Mallards Pike, Moseley Green, West Dean, Forest of Dean, Gloucestershire, England, GL15 4HD, United Kingdom",
   "postcode": "GL15 4HD",
   "district": "Forest of Dean",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "paved"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "sculpture trail",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area",
+    "wheelchair accessible",
+    "cycle trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

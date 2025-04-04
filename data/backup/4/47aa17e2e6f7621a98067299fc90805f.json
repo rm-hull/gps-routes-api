@@ -83,5 +83,28 @@
   "display_address": "The lookout, The Kingfisher Trail, Clifton, Salford, Greater Manchester, England, M26 1EW, United Kingdom",
   "district": "Salford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "wildlife",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "walking trail",
+    "cycle trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

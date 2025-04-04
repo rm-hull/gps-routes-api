@@ -75,5 +75,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kingfisher Cottage, 2, Bradford Road, Youlgreave, Alport, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1WG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

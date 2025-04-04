@@ -98,5 +98,28 @@
   "postcode": "WN7 3UG",
   "district": "Wigan",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "path",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "bird hides",
+    "countryside"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

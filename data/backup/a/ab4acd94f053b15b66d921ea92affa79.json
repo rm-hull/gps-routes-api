@@ -40,5 +40,25 @@
   "display_address": "Steam Coast Trail (phase 2), Hungerford, Washford, Old Cleeve, Somerset, England, TA23 0PW, United Kingdom",
   "postcode": "TA23 0PW",
   "district": "Washford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

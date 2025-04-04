@@ -69,5 +69,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Road, Eyam CP, Derbyshire Dales, Derbyshire, East Midlands, England, S32 5AD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

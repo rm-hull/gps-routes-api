@@ -65,5 +65,26 @@
   "postcode": "B16 0HN",
   "district": "Birmingham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "park",
+    "reservoir",
+    "waterways"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

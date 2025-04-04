@@ -128,5 +128,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Dairy, Rudge Hill, Wreyland, Lustleigh, Teignbridge, Devon, England, TQ13 9TA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "tea rooms",
+    "village pub",
+    "church",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

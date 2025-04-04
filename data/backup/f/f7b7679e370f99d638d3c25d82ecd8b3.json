@@ -79,5 +79,26 @@
   "display_address": "Old Wardour Castle, Nightingale Lane, Wardour, Tisbury, Wiltshire, England, SP3 6RL, United Kingdom",
   "postcode": "SP3 6RL",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

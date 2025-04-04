@@ -94,5 +94,25 @@
   "display_address": "Rostherne Lane, Millington and Rostherne, Rostherne, Cheshire East, England, WA16 6RS, United Kingdom",
   "postcode": "WA16 6RS",
   "district": "Rostherne",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

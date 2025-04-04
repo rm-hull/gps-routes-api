@@ -114,5 +114,24 @@
   "postcode": "HD7 5UA",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "views",
+    "bird watching"
+  ],
+  "facilities": [
+    "public footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

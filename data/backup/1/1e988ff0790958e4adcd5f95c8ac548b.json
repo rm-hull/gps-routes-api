@@ -76,5 +76,28 @@
   "nominatim_found": true,
   "display_address": "New North Road, Attleborough, Besthorpe, Breckland, Norfolk, England, NR17 2BG, United Kingdom",
   "postcode": "NR17 2BG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "country lane"
+  ],
+  "points_of_interest": [
+    "historic church",
+    "village green",
+    "windmill",
+    "priory",
+    "countryside"
+  ],
+  "facilities": [
+    "train station",
+    "pub",
+    "village green"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

@@ -72,5 +72,31 @@
   "display_address": "Little Moor Lane, Loughborough, Charnwood, Leicestershire, England, LE11 1RS, United Kingdom",
   "postcode": "LE11 1RS",
   "district": "Charnwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland",
+    "grassland",
+    "water"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "lake",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "boating lake",
+    "model boat lake",
+    "miniature railway",
+    "sensory garden",
+    "playground"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

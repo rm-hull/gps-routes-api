@@ -98,5 +98,28 @@
   "nominatim_found": true,
   "display_address": "B6270, Muker, North Yorkshire, York and North Yorkshire, England, DL11 6QQ, United Kingdom",
   "postcode": "DL11 6QQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "meadows",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "tea room",
+    "shop",
+    "caf\u00e9",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

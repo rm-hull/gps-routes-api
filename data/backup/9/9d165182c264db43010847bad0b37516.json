@@ -99,5 +99,22 @@
   "nominatim_found": true,
   "display_address": "Hayfield Campsite, Kinder Road, Hill Houses, Hayfield, Little Hayfield, High Peak, Derbyshire, East Midlands, England, SK22 2LE, United Kingdom",
   "district": "High Peak",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

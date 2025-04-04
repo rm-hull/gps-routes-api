@@ -70,5 +70,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A710, Barend, Sandyhills, Dumfries and Galloway, Alba / Scotland, DG5 4NZ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "geology",
+    "coastal views",
+    "wildflowers",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

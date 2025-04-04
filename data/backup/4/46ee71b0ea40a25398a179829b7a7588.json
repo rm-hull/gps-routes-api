@@ -85,5 +85,25 @@
   "display_address": "Back Stile, Kingsbarns, Fife, Alba / Scotland, KY16 8QD, United Kingdom",
   "postcode": "KY16 8QD",
   "district": "Kingsbarns",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterways",
+    "farmland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

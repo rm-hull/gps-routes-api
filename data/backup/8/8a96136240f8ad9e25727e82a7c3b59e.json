@@ -108,5 +108,29 @@
   "nominatim_found": true,
   "display_address": "Shipley Lane, Shipley, Amber Valley, Derbyshire, East Midlands, England, DE7 6BR, United Kingdom",
   "district": "Amber Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "reservoir"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens",
+    "nature trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "play areas",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

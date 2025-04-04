@@ -57,5 +57,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Maescar, Sennybridge, Powys, Cymru / Wales, LD3 8PP, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views",
+    "waterside trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

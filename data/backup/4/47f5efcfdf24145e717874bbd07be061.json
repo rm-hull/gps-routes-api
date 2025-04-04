@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Harcourt House, Gaston street, East Bergholt, Babergh, Suffolk, England, CO7 6SD, United Kingdom",
   "postcode": "CO7 6SD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "watermills",
+    "villages"
+  ],
+  "facilities": [
+    "pub",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

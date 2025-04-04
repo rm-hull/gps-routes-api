@@ -90,5 +90,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "East View, B5054, Fawfieldhead, Hulme End, Staffordshire Moorlands, Staffordshire, England, SK17 0EZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cafe",
+    "bike hire"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -158,5 +158,26 @@
   "display_address": "Upper Icknield Way, Hempton Wainhill, Bledlow-cum-Saunderton, South Oxfordshire, Buckinghamshire, England, OX39 4AB, United Kingdom",
   "postcode": "OX39 4AB",
   "district": "South Oxfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

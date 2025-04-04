@@ -72,5 +72,25 @@
   "display_address": "Skipton Road, Gargrave, North Yorkshire, York and North Yorkshire, England, BD23 3LX, United Kingdom",
   "postcode": "BD23 3LX",
   "district": "Gargrave",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "natural landscapes"
+  ],
+  "facilities": [
+    "car park",
+    "accessible by train/bus"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

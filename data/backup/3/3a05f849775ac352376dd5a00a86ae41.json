@@ -88,5 +88,27 @@
   "display_address": "Skenfrith Castle, B4521, Skenfrith, Monmouthshire, Cymru / Wales, NP7 8UG, United Kingdom",
   "postcode": "NP7 8UG",
   "district": "Skenfrith",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "castles"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

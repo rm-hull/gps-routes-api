@@ -80,5 +80,22 @@
   "display_address": "B8008, Arisaig, Highland, Alba / Scotland, PH39 4NL, United Kingdom",
   "postcode": "PH39 4NL",
   "district": "Arisaig",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

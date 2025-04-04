@@ -117,5 +117,30 @@
   "nominatim_found": true,
   "display_address": "Minafon, Glan y M\u00f4r, Aberffraw, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL63 5DX, United Kingdom",
   "postcode": "LL63 5DX",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "beach"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "dunes",
+    "forest"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

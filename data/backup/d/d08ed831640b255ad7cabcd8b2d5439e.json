@@ -113,5 +113,27 @@
   "nominatim_found": true,
   "display_address": "Heol-y-Cwrt, Dyffryn Cennen, Trap, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA19 6TT, United Kingdom",
   "district": "Trap",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hillside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "nature reserve",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "deer park",
+    "viewpoints"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

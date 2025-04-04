@@ -93,5 +93,26 @@
   "nominatim_found": true,
   "display_address": "Scotney Castle, Sweetbourne Bridge, Lamberhurst, Tunbridge Wells, Kent, England, TN3 8JN, United Kingdom",
   "district": "Tunbridge Wells",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "ruins"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

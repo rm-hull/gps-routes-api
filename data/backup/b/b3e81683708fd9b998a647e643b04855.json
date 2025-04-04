@@ -3,7 +3,6 @@
   "objectID": "b3e81683708fd9b998a647e643b04855",
   "ref": "taith-ardudwy-way-walking-route",
   "title": "Taith Ardudwy Way - Barmouth to Llandecwyn Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Mawddach Trail",
@@ -33,5 +32,27 @@
   "county": "Gwynedd",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "Bronze Age sites"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail",
+    "cycle trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

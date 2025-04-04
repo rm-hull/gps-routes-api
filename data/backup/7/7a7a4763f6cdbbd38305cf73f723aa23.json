@@ -117,5 +117,24 @@
   "nominatim_found": true,
   "display_address": "Wem, Aston Road, Wem Urban, Wem, Shropshire, England, SY4 5BA, United Kingdom",
   "postcode": "SY4 5BA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

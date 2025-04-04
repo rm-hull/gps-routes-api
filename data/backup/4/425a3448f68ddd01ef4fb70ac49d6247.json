@@ -113,5 +113,27 @@
   "display_address": "Limekiln Lane, East Meon, East Hampshire, Hampshire, England, GU32 1RX, United Kingdom",
   "postcode": "GU32 1RX",
   "district": "East Hampshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "chalk grassland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "long distance trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

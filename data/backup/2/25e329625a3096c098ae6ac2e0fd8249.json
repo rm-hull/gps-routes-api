@@ -90,5 +90,28 @@
   "nominatim_found": true,
   "display_address": "Stanpit, Christchurch, Bournemouth, Christchurch and Poole, England, BH23 3LU, United Kingdom",
   "postcode": "BH23 3LU",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "marshland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "ferry",
+    "walking trails"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -123,5 +123,25 @@
   "nominatim_found": true,
   "display_address": "7 Bends, Walker Fold, Aighton, Bailey and Chaigley, Ribble Valley, Lancashire, England, BB7 3LU, United Kingdom",
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

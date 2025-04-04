@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Fisherman's Lane, Aldermaston, West Berkshire, England, RG7 4LL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterways"
+  ],
+  "facilities": [
+    "visitor center",
+    "tea room",
+    "car park",
+    "lock",
+    "bridge",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

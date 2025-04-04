@@ -105,5 +105,27 @@
   "county": "Buckinghamshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "pasture",
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "palaces"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

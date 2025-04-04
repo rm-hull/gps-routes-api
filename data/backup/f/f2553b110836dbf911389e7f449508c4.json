@@ -67,5 +67,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Warwick Close, Braintree, Essex, England, CM7 9JZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic buildings",
+    "windmill"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

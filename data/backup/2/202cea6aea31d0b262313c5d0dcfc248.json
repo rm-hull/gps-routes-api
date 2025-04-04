@@ -79,5 +79,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stars, 60, Ffordd-y-Mor / Terrace Road, Aberystwyth, Ceredigion, Cymru / Wales, SY23 2AJ, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland",
+    "golf course"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "visitor center",
+    "funicular",
+    "railway"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

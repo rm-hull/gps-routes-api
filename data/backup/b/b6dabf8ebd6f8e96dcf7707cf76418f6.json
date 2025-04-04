@@ -73,5 +73,28 @@
   "display_address": "Warley Woods Golf Course, Harborne Road, Bleakhouse, Warley Salop, Sandwell, West Midlands, England, B68 9JP, United Kingdom",
   "postcode": "B68 9JP",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "wildflower area",
+    "historical sites"
+  ],
+  "facilities": [
+    "cafe",
+    "shop",
+    "wheelchair accessible",
+    "bench",
+    "pond"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

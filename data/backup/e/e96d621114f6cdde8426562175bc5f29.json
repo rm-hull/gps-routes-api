@@ -128,5 +128,28 @@
   "nominatim_found": true,
   "display_address": "Etherow Country Park Car Park, George Street, Cherry Tree, Compstall, Stockport, Greater Manchester, England, SK6 5JD, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

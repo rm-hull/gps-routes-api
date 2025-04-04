@@ -113,5 +113,28 @@
   "display_address": "Lower Burway, All Stretton, Church Stretton, Shropshire, England, SY6 6JF, United Kingdom",
   "postcode": "SY6 6JF",
   "district": "Church Stretton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "stony"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfall"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

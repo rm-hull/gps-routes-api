@@ -94,5 +94,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Recreation Way, Kemsley, Swale, Kent, England, ME10 2UJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "path"
+  ],
+  "points_of_interest": [
+    "historical railway"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

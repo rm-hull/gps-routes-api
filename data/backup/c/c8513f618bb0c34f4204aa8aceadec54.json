@@ -110,5 +110,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Thornhill Park and Ride, A40, Risinghurst and Sandhills, Oxford, Oxfordshire, England, OX3 8EW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trail",
+    "viewpoints",
+    "arboretum"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

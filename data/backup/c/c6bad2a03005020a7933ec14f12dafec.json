@@ -72,5 +72,23 @@
   "display_address": "55, The Street, The Mallards, Brundall, Witton, Broadland, Norfolk, England, NR13 5JT, United Kingdom",
   "postcode": "NR13 5JT",
   "district": "Broadland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "nature"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "marina"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

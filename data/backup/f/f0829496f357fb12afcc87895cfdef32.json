@@ -73,5 +73,28 @@
   "nominatim_found": true,
   "display_address": "Trebah Garden, Helford Passage, Trebah, Mawnan, Falmouth, Cornwall, England, TR11 5JZ, United Kingdom",
   "district": "Falmouth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical churches",
+    "water features",
+    "maze",
+    "beach"
+  ],
+  "facilities": [
+    "boathouse cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

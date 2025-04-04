@@ -68,5 +68,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Quay, Old Town, Poole, Bournemouth, Christchurch and Poole, England, BH15 1HA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -125,5 +125,26 @@
   "county": "County Galway",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "bog",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "monument",
+    "radio station"
+  ],
+  "facilities": [
+    "car park",
+    "information points"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking",
+    "sightseeing"
+  ]
 }

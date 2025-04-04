@@ -100,5 +100,24 @@
   "nominatim_found": true,
   "display_address": "Playhatch Road, Sonning Eye, Eye and Dunsden, South Oxfordshire, Oxfordshire, England, RG4 6UT, United Kingdom",
   "postcode": "RG4 6UT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "path"
+  ],
+  "points_of_interest": [
+    "islands",
+    "weirs"
+  ],
+  "facilities": [
+    "visitor center",
+    "refreshment"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

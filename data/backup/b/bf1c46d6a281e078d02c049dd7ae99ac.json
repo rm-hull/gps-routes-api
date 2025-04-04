@@ -98,5 +98,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Coastguard, Bay Hill, St. Margaret's at Cliffe, Dover, Kent, England, CT15 6DU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff tops"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "museum",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -78,5 +78,27 @@
   "nominatim_found": true,
   "display_address": "Burbage Common Road, Elmesthorpe, Hinckley and Bosworth, Leicestershire, England, LE10 3DD, United Kingdom",
   "district": "Hinckley and Bosworth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "visitor center",
+    "walking paths",
+    "bridleway"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -70,5 +70,24 @@
   "nominatim_found": true,
   "display_address": "13-15, George Street, Town Centre, Oban, Argyll and Bute, Alba / Scotland, PA34 5SL, United Kingdom",
   "postcode": "PA34 5SL",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

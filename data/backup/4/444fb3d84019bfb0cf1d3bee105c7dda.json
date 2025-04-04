@@ -108,5 +108,29 @@
   "display_address": "Red 37, Low Dalby, Thornton-le-Dale, North Yorkshire, York and North Yorkshire, England, YO18 7LT, United Kingdom",
   "postcode": "YO18 7LT",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "countryside trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -104,5 +104,25 @@
   "display_address": "Flanchford Road, South Park, Reigate, Reigate and Banstead, Surrey, England, RH2 8QR, United Kingdom",
   "postcode": "RH2 8QR",
   "district": "Reigate and Banstead",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "map"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

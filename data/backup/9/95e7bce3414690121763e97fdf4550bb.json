@@ -118,5 +118,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Marlpit Lane, London Borough of Croydon, London, Greater London, England, CR5 2HA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

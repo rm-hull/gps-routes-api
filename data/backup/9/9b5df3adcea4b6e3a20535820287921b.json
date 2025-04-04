@@ -74,5 +74,26 @@
   "display_address": "Radfall Road, Radfall, Blean, Canterbury, Kent, England, CT5 3ER, United Kingdom",
   "postcode": "CT5 3ER",
   "district": "Canterbury",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "wet meadow"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

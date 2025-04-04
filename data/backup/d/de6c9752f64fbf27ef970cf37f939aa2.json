@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Heol Tan y Bryn, Abergynolwyn, Llanfihangel-y-Pennant, Abergynolwyn, Gwynedd, Cymru / Wales, LL36 9UY, United Kingdom",
   "postcode": "LL36 9UY",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

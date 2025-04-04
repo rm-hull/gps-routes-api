@@ -105,5 +105,24 @@
   "display_address": "Egglestone Abbey, Abbey Lane, Egglestone Abbey, County Durham, North East, England, DL12 9TN, United Kingdom",
   "postcode": "DL12 9TN",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

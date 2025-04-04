@@ -68,5 +68,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Glanaber Terrace, Bro Machno, Cwm Penmachno, Conwy, Cymru / Wales, LL24 0SB, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "forest"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

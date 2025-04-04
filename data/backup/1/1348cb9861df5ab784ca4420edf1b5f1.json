@@ -128,5 +128,27 @@
   "display_address": "California Country Park, Finchampstead, Wokingham, England, RG40 4HT, United Kingdom",
   "postcode": "RG40 4HT",
   "district": "Finchampstead",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildlife watching",
+    "viewpoints"
+  ],
+  "facilities": [
+    "cafe",
+    "paddling pool",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "water sports"
+  ]
 }

@@ -65,5 +65,25 @@
   "nominatim_found": true,
   "display_address": "B4329, North Court Farm, Spittal, Ambleston, Pembrokeshire, Cymru / Wales, SA62 5QL, United Kingdom",
   "district": "Ambleston",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "art exhibitions",
+    "exhibitions"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

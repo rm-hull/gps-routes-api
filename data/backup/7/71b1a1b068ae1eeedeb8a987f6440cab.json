@@ -3,7 +3,6 @@
   "objectID": "71b1a1b068ae1eeedeb8a987f6440cab",
   "ref": "coed-y-felin-woodland-walk-walking-route",
   "title": "Coed y Felin Woodland Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Mold",
@@ -51,5 +50,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "A541, Hendre, Cilcain, Rhydymwyn, Flintshire, Cymru / Wales, CH7 5QF, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildflower meadow",
+    "woodland birds"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

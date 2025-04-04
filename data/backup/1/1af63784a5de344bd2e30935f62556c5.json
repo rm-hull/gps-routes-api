@@ -104,5 +104,28 @@
   "nominatim_found": true,
   "display_address": "Kennel Lodge Road, Leigh Woods, Long Ashton, North Somerset, England, BS41 9JN, United Kingdom",
   "district": "Leigh Woods",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "deer park",
+    "woodland area"
+  ],
+  "facilities": [
+    "car park",
+    "mountain bike trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

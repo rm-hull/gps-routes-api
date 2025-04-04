@@ -89,5 +89,23 @@
   "display_address": "Whitefield Moor, Rhinefield Road, Brockenhurst, New Forest, Hampshire, England, SO42 7QD, United Kingdom",
   "postcode": "SO42 7QD",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "heathland",
+    "plain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

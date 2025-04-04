@@ -74,5 +74,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Therapy, 21, Burgate, The King's Mile, Canterbury, Kent, England, CT1 2HG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "lakes",
+    "orchards",
+    "park"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

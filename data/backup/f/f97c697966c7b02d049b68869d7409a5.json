@@ -3,7 +3,6 @@
   "objectID": "f97c697966c7b02d049b68869d7409a5",
   "ref": "sheffield-botanical-gardens-walking-route",
   "title": "Sheffield Botanical Gardens Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Endcliffe Park",
@@ -28,5 +27,25 @@
   "nominatim_found": true,
   "display_address": "Sheffield Botanical Gardens, Botanical Road, Sharrow Vale, Endcliffe, Sheffield, South Yorkshire, England, S11 8RQ, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "information boards",
+    "herbaceous borders"
+  ],
+  "facilities": [
+    "cafe",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

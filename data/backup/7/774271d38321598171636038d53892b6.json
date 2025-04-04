@@ -88,5 +88,25 @@
   "nominatim_found": true,
   "display_address": "Flamsteed Road, Herstmonceux, Wartling, Wealden, East Sussex, England, BN27 1RN, United Kingdom",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historic gardens",
+    "woodland",
+    "meadow"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -90,5 +90,21 @@
   "display_address": "The Bad Step, Highland, Alba / Scotland, United Kingdom",
   "postcode": null,
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "water"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "local legends"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

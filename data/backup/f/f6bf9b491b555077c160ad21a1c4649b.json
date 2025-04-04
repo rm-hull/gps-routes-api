@@ -72,5 +72,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Steep Hill, Maidencombe, Torbay, England, TQ1 4TS, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "views",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "cliff railway",
+    "model village"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

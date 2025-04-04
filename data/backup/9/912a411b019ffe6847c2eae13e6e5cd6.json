@@ -53,5 +53,24 @@
   "nominatim_found": true,
   "display_address": "A17, Sutton Bridge, South Holland, Lincolnshire, England, PE12 9UA, United Kingdom",
   "postcode": "PE12 9UA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "footpath"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "lighthouse"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

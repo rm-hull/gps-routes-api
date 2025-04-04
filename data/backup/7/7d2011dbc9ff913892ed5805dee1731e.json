@@ -67,5 +67,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cat Lane, Brookhampton, Stadhampton, Chiselhampton, South Oxfordshire, Oxfordshire, England, OX44 7UN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "countryside",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

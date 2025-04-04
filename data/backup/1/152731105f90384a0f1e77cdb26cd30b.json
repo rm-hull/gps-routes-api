@@ -104,5 +104,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Chipping Campden Market Hall, High Street, Chipping Campden, Broad Campden, Cotswold, Gloucestershire, England, GL55 6AJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "pasture",
+    "hill"
+  ],
+  "points_of_interest": [
+    "views",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

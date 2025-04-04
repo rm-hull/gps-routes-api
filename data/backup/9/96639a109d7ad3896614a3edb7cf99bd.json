@@ -93,5 +93,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B4393, Llanwddyn, Powys, Cymru / Wales, SY10 0NG, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "natural scenery",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

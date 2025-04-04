@@ -76,5 +76,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ireson Lane, Wincanton, Somerset, England, BA9 9LG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "footpath",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "village green"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

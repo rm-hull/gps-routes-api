@@ -93,5 +93,25 @@
   "display_address": "Oxford Street car park, Oxford Street, Salford, Todmorden, Calderdale, West Yorkshire, England, OL14 5AB, United Kingdom",
   "postcode": "OL14 5AB",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "river"
+  ],
+  "points_of_interest": [
+    "historic mills",
+    "bridges",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "train station"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

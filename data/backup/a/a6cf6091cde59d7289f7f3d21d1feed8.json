@@ -93,5 +93,28 @@
   "nominatim_found": true,
   "display_address": "Top Road, Pentre Pella, Holyhead, Llaingoch, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 1YW, United Kingdom",
   "district": "Llaingoch",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature trails",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible",
+    "play area"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -69,5 +69,25 @@
   "display_address": "Peters Lane, Great and Little Hampden, Whiteleaf, Princes Risborough, Buckinghamshire, England, HP27 0LH, United Kingdom",
   "postcode": "HP27 0LH",
   "district": "Princes Risborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

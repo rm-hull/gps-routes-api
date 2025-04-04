@@ -79,5 +79,24 @@
   "display_address": "Guilsborough, West Northamptonshire, England, NN6 8SR, United Kingdom",
   "postcode": "NN6 8SR",
   "district": "Guilsborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "water",
+    "nature"
+  ],
+  "points_of_interest": [
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

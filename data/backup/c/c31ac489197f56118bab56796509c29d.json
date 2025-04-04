@@ -80,5 +80,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Forge Coffee Shop, 6A, Main Street East, Menstrie Mains, Menstrie, Clackmannanshire, Alba / Scotland, FK11 7BL, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hillside",
+    "valley"
+  ],
+  "points_of_interest": [
+    "wildflowers",
+    "wildlife viewing",
+    "historical remnants"
+  ],
+  "facilities": [
+    "car park",
+    "reservoir"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

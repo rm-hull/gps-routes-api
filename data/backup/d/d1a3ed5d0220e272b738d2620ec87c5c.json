@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Devon Guild of Craftsmen, Fore Street, Southbrook Farm, Bovey Tracey, Teignbridge, Devon, England, TQ13 9AF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "valley",
+    "moor"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "river"
+  ],
+  "facilities": [
+    "visitor center",
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

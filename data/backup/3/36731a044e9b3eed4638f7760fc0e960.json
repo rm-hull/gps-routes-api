@@ -78,5 +78,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Nowton Road, Nowton, West Suffolk, Suffolk, England, IP33 2NH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside",
+    "historic sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

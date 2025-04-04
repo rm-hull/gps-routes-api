@@ -129,5 +129,25 @@
   "display_address": "Station Bridge, Clough Lee, Marsden, Kirklees, West Yorkshire, England, HD7 6AX, United Kingdom",
   "postcode": "HD7 6AX",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "trail",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "views",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

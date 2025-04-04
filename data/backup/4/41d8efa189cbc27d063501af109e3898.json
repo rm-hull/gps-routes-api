@@ -67,5 +67,23 @@
   "display_address": "Bicester Road, Bicester, Cherwell, Oxfordshire, England, OX26 5AF, United Kingdom",
   "postcode": "OX26 5AF",
   "district": "Cherwell",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside views"
+  ],
+  "facilities": [
+    "bus stop"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

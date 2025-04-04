@@ -153,5 +153,27 @@
   "nominatim_found": true,
   "display_address": "Townbridge Estate Agents, 1, St Michael's Way, Middlewich, Cheshire East, England, CW10 9HQ, United Kingdom",
   "postcode": "CW10 9HQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature park",
+    "engineering"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

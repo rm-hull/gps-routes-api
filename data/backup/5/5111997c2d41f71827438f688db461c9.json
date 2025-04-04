@@ -89,5 +89,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Broadgate, Town End, Lakes, Grasmere, Westmorland and Furness, England, LA22 9TA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural charms"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

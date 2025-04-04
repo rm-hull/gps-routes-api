@@ -68,5 +68,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "East Street, Sydling St. Nicholas, Sydling St Nicholas, Dorset, England, DT2 9NX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "views",
+    "natural landscape"
+  ],
+  "facilities": [
+    "pub",
+    "garden"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -85,5 +85,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Capstan Drive, Rainham, London Borough of Havering, London, Greater London, England, RM13 9JA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "path",
+    "boardwalk"
+  ],
+  "points_of_interest": [
+    "visitor center",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "bike hire",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

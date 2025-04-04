@@ -100,5 +100,19 @@
   "nominatim_found": true,
   "display_address": "Marple Water Point, Church Street, Marple, Stockport, Greater Manchester, England, SK6 6BW, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

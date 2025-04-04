@@ -94,5 +94,26 @@
   "display_address": "Doncaster Road, Belle Isle, Wakefield, West Yorkshire, England, WF1 5FY, United Kingdom",
   "postcode": "WF1 5FY",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "aqueducts",
+    "trail"
+  ],
+  "facilities": [
+    "car park",
+    "public transport"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

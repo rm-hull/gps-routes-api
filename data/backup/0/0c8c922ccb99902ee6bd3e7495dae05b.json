@@ -84,5 +84,25 @@
   "nominatim_found": true,
   "display_address": "The Rose and Crown, 44, High Street, Wick and Abson, Bristol, South Gloucestershire, West of England, England, BS30 5QH, United Kingdom",
   "postcode": "BS30 5QH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

@@ -110,5 +110,28 @@
   "nominatim_found": true,
   "display_address": "St. Peter's Place, St. Mildred's, Harbledown, Canterbury, Kent, England, CT1 2DE, United Kingdom",
   "postcode": "CT1 2DE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "orchard",
+    "iron age hill fort"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

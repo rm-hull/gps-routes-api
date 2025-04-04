@@ -119,5 +119,28 @@
   "nominatim_found": true,
   "display_address": "Battery Road, Tenby, Pembrokeshire, Cymru / Wales, SA70 7AQ, United Kingdom",
   "postcode": "SA70 7AQ",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "train station",
+    "bus",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

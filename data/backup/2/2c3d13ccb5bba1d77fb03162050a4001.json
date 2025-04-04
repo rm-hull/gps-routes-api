@@ -68,5 +68,24 @@
   "nominatim_found": true,
   "display_address": "Kiln Pay & Display Car Park, Hangman Path, Combe Martin, North Devon, Devon, England, EX34 0DN, United Kingdom",
   "postcode": "EX34 0DN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "hiking trails"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

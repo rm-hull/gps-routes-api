@@ -65,5 +65,27 @@
   "display_address": "Church Raike, Chipping, Ribble Valley, Lancashire, England, PR3 2QL, United Kingdom",
   "postcode": "PR3 2QL",
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "geographic center"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -98,5 +98,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Burrough Hill, Somerby Road, Burrough Hall Farm, Somerby, Burrough on the Hill, Melton, Leicestershire, England, LE14 2QZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views"
+  ],
+  "facilities": [
+    "footpaths",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

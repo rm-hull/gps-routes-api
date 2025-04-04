@@ -134,5 +134,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Woodland Walk, Kingsbury CP, Bodymoor Heath, North Warwickshire, Warwickshire, England, B76 0DY, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic castles",
+    "villages",
+    "churches",
+    "scenery"
+  ],
+  "facilities": [
+    "waymarked path"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

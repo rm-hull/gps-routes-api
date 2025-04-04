@@ -100,5 +100,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Langstone, Manaton, Water, Teignbridge, Devon, England, TQ13 9UJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "villages",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub",
+    "tea rooms",
+    "village pub",
+    "church",
+    "communal apple orchard"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

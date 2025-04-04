@@ -103,5 +103,24 @@
   "nominatim_found": true,
   "display_address": "Bonaly Road, Bonaly, City of Edinburgh, Alba / Scotland, EH13 0PB, United Kingdom",
   "district": "City of Edinburgh",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

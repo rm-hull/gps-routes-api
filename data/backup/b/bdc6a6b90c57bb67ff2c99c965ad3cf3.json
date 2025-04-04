@@ -113,5 +113,27 @@
   "nominatim_found": true,
   "display_address": "Washbrook Lane, Oadby, Oadby and Wigston, Leicestershire, England, LE2 5QG, United Kingdom",
   "postcode": "LE2 5QG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "ponds"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "information boards"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

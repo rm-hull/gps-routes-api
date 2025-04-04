@@ -114,5 +114,27 @@
   "nominatim_found": true,
   "display_address": "Etnam Street Car Park, Etnam Street, Leominster, Herefordshire, England, HR6 8AJ, United Kingdom",
   "postcode": "HR6 8AJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parkland",
+    "nature reserve",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

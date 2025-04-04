@@ -120,5 +120,26 @@
   "nominatim_found": true,
   "display_address": "Tewin Bury Farm Hotel, Churchfield Road, Tewin, East Hertfordshire, Hertfordshire, England, AL6 0JB, United Kingdom",
   "district": "East Hertfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "garden",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic church",
+    "farm shop"
+  ],
+  "facilities": [
+    "farm shop",
+    "tea room"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

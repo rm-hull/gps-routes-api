@@ -3,7 +3,6 @@
   "objectID": "b6f44bffc2ac4bde7874206488ef7be8",
   "ref": "bedford-to-sandy-walking-and-cycle-route",
   "title": "Bedford to Sandy Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Priory Country Park",
@@ -37,5 +36,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "St Johns Street, Fenlake, Cauldwell, Bedford, England, MK42 0PJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "grass"
+  ],
+  "points_of_interest": [
+    "parks",
+    "rivers",
+    "historical buildings"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

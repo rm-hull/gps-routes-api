@@ -52,5 +52,22 @@
   "nominatim_found": true,
   "display_address": "Luciano's, 3, Eagle Parade, Fairfield, Buxton, High Peak, Derbyshire, East Midlands, England, SK17 6EQ, United Kingdom",
   "postcode": "SK17 6EQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve"
+  ],
+  "facilities": [
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

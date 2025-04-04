@@ -78,5 +78,26 @@
   "nominatim_found": true,
   "display_address": "Station Road, Arlington, Wealden, East Sussex, England, BN26 6TG, United Kingdom",
   "district": "Wealden",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "bird hide",
+    "waymarked trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

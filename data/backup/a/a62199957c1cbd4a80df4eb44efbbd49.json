@@ -61,5 +61,26 @@
   "nominatim_found": true,
   "display_address": "Church Road, Woldingham, Tandridge, Surrey, England, CR3 7LQ, United Kingdom",
   "postcode": "CR3 7LQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trail",
+    "meadows",
+    "wooded area"
+  ],
+  "facilities": [
+    "car park",
+    "horse friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

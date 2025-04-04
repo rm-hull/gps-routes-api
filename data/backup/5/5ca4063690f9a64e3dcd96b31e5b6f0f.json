@@ -99,5 +99,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sweet Obsession, 119a, Bridge Road, Oulton Broad, East Suffolk, Suffolk, England, NR33 9JU, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterway"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "restaurants",
+    "shops"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

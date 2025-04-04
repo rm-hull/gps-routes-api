@@ -99,5 +99,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Sweet Shop, Water Street, Barmouth, Gwynedd, Cymru / Wales, LL42 1AT, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "beach"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "ferry service"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

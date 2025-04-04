@@ -115,5 +115,27 @@
   "nominatim_found": true,
   "display_address": "Kinver Edge Permissive Bridlway, Kinver, South Staffordshire, Staffordshire, England, DY11 5SB, United Kingdom",
   "district": "South Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "country park",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historic sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -84,5 +84,27 @@
   "nominatim_found": true,
   "display_address": "Greenway Bank, Brown Edge, Staffordshire Moorlands, Staffordshire, England, ST8 7QX, United Kingdom",
   "district": "Staffordshire Moorlands",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "canal",
+    "country park"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

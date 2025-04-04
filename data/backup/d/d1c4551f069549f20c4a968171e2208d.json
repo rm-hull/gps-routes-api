@@ -53,5 +53,24 @@
   "display_address": "Portuairk, Highland, Alba / Scotland, PH36 4LN, United Kingdom",
   "postcode": "PH36 4LN",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "beaches",
+    "lighthouses",
+    "rural landscapes"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

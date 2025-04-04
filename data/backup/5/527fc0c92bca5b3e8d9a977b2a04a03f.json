@@ -88,5 +88,25 @@
   "display_address": "The Common, Chapel Row, Bucklebury, West Berkshire, England, RG7 6QD, United Kingdom",
   "postcode": "RG7 6QD",
   "district": "Chapel Row",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

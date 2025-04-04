@@ -103,5 +103,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "New Road, Llangollen Rural, Trevor, Wrexham, Cymru / Wales, LL20 7TT, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "roadside",
+    "woodland",
+    "waterside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park",
+    "information point"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -129,5 +129,25 @@
   "display_address": "B5289, Longthwaite, Seatoller, Borrowdale, Cumberland, England, CA12 5XQ, United Kingdom",
   "postcode": "CA12 5XQ",
   "district": "Seatoller",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfall"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

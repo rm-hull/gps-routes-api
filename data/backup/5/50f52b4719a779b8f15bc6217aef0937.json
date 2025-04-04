@@ -134,5 +134,26 @@
   "nominatim_found": true,
   "display_address": "London Road, Wellingborough, Little Irchester, Wellingborough, North Northamptonshire, England, NN8 2EA, United Kingdom",
   "postcode": "NN8 2EA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "museum",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

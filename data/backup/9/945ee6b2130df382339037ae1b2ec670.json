@@ -147,5 +147,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cosener's House, 15-16, Abbey Close, Caldecott, Abingdon on Thames, Abingdon, Vale of White Horse, Oxfordshire, England, OX14 3JD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "gardens",
+    "church",
+    "reservoir",
+    "monuments"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

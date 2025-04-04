@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Wyre Estuary Country Car Park, River Road, Raikes, Little Thornton, Wyre, Lancashire, England, FY5 5LR, United Kingdom",
   "postcode": "FY5 5LR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "picnic areas",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

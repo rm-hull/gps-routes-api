@@ -114,5 +114,19 @@
   "nominatim_found": true,
   "display_address": "St David's Church of England Primary School, London Road, Moreton-in-Marsh, Cotswold, Gloucestershire, England, GL56 0LQ, United Kingdom",
   "postcode": "GL56 0LQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

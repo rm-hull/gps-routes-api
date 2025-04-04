@@ -89,5 +89,23 @@
   "nominatim_found": true,
   "display_address": "Ashbourne Tunnel, Mapleton Road, Offcote and Underwood CP, Compton, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1DB, United Kingdom",
   "postcode": "DE6 1DB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural"
+  ],
+  "points_of_interest": [
+    "scenic views"
+  ],
+  "facilities": [
+    "picnic areas",
+    "cycle hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

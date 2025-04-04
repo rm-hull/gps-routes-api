@@ -109,5 +109,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Lerburne, Wedmore, Somerset, England, BS28 4ED, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "river"
+  ],
+  "points_of_interest": [
+    "walking trails",
+    "wildlife",
+    "geological formations"
+  ],
+  "facilities": [
+    "public footpaths",
+    "bus"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

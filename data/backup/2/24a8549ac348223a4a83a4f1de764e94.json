@@ -90,5 +90,26 @@
   "nominatim_found": true,
   "display_address": "Alwinton, Northumberland, North East, England, NE65 7BP, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "scenic spots"
+  ],
+  "facilities": [
+    "car park",
+    "picnic"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

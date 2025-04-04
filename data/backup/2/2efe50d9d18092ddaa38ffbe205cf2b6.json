@@ -65,5 +65,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Rousham Gardens, Station Road, Lower Heyford, Steeple Aston, Cherwell, Oxfordshire, England, OX25 5PD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "scenic views"
+  ],
+  "facilities": [
+    "car park",
+    "river access"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

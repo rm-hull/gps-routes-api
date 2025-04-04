@@ -98,5 +98,24 @@
   "display_address": "Ingram, Northumberland, North East, England, NE66 4LT, United Kingdom",
   "postcode": "NE66 4LT",
   "district": "Ingram",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "archaeological sites",
+    "waterfall",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

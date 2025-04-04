@@ -100,5 +100,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Ratten Row, Alnwick, Northumberland, North East, England, NE66 3HX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "river"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

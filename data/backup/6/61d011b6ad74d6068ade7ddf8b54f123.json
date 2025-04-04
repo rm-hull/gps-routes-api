@@ -98,5 +98,28 @@
   "nominatim_found": true,
   "display_address": "B2089, Ewhurst, Cripps Corner, Rother, East Sussex, England, TN32 5RT, United Kingdom",
   "district": "Rother",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "coppice",
+    "ponds",
+    "streams"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -98,5 +98,28 @@
   "display_address": "Sherwood Lodge Drive, Gedling, Nottinghamshire, East Midlands, England, NG5 8RX, United Kingdom",
   "postcode": "NG5 8RX",
   "district": "Gedling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "heath"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "lakes",
+    "parkland"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

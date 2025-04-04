@@ -76,5 +76,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Taikoo driveway, Belstone, West Devon, Devon, England, EX20 1QZ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "common"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "natural formations"
+  ],
+  "facilities": [
+    "pub",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

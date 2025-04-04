@@ -55,5 +55,24 @@
   "display_address": "Greenock Road, Park Farm, Inverclyde, Alba / Scotland, PA14 6TE, United Kingdom",
   "postcode": "PA14 6TE",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "gardens"
+  ],
+  "facilities": [
+    "tea room",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

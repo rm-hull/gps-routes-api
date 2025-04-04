@@ -100,5 +100,26 @@
   "display_address": "Caldey Island Ferry, Cliff Top Walk, Pembrokeshire, Cymru / Wales, SA70 7UJ, United Kingdom",
   "postcode": "SA70 7UJ",
   "district": null,
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "religious sites",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "beach"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

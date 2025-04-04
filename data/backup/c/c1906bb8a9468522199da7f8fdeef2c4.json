@@ -118,5 +118,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Nottingham Racecourse, Racecourse Road, Sneinton, City of Nottingham, East Midlands, England, NG2 4BE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "walking trails",
+    "cycling trails",
+    "river views"
+  ],
+  "facilities": [
+    "visitor center",
+    "cycle hire",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

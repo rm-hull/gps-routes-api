@@ -113,5 +113,26 @@
   "display_address": "Little Warley, Brentwood, Essex, England, CM13 3RZ, United Kingdom",
   "postcode": "CM13 3RZ",
   "district": "Brentwood",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "shop",
+    "refreshments"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

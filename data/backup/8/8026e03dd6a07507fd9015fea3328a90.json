@@ -84,5 +84,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Merlewood Country Park, Gillow Park, Little Eccleston-with-Larbreck, Fylde, Lancashire, England, PR3 0ZT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "art gallery",
+    "countryside views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "footbridge",
+    "art gallery"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

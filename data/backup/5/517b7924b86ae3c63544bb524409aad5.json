@@ -80,5 +80,24 @@
   "nominatim_found": true,
   "display_address": "Padstow Bookseller, Broad Street, Padstow, Cornwall, England, PL28 8BS, United Kingdom",
   "postcode": "PL28 8BS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "beach"
+  ],
+  "points_of_interest": [
+    "cliff top paths",
+    "lighthouse"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

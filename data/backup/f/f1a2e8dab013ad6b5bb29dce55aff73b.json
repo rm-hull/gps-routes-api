@@ -83,5 +83,27 @@
   "nominatim_found": true,
   "display_address": "Reading Road, Basildon, Lower Basildon, West Berkshire, England, RG8 9NY, United Kingdom",
   "postcode": "RG8 9NY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "rose garden",
+    "village"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "river access"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

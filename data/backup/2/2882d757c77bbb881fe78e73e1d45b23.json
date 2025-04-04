@@ -76,5 +76,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Climar, Milverton Road, Tonedale, Lower Westford, Wellington, Somerset, England, TA21 0AJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "wooded valleys",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "neighbouring villages"
+  ],
+  "facilities": [
+    "visitor center",
+    "dog friendly",
+    "pub/cafe",
+    "wheelchair accessible",
+    "landscaped gardens"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

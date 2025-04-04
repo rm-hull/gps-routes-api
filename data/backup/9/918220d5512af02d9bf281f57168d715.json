@@ -3,7 +3,6 @@
   "objectID": "918220d5512af02d9bf281f57168d715",
   "ref": "derryounce-lakes-and-walkways-walking-route",
   "title": "Portarlington Derryounce Lakes Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Rock Of Dunamase",
@@ -43,5 +42,22 @@
   "county": "County Laois",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "bog",
+    "lake"
+  ],
+  "points_of_interest": [
+    "nature",
+    "wildlife"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

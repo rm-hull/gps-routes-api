@@ -85,5 +85,21 @@
   "display_address": "Doncaster Dome Car Park, Gliwice Way, Lakeside, Doncaster, South Yorkshire, England, DN4 7PD, United Kingdom",
   "postcode": "DN4 7PD",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "towns",
+    "villages"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -3,7 +3,6 @@
   "objectID": "e45c4f48d8643b4f22001f566cb9880a",
   "ref": "hampton-court-park-walking-and-cycle-route",
   "title": "Hampton Court Park Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Bushy Park",
@@ -33,5 +32,26 @@
   "nominatim_found": true,
   "display_address": "Home Park House, Home Park Terrace, Hampton Wick, London Borough of Richmond upon Thames, London, Greater London, England, KT1 4AE, United Kingdom",
   "postcode": "KT1 4AE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "water features",
+    "gardens",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "river walking"
+  ]
 }

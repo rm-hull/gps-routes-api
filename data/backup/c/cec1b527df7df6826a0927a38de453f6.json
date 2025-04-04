@@ -68,5 +68,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Kizzie's Bistro, Station Road, Lower Heyford, Steeple Aston, Cherwell, Oxfordshire, England, OX25 5PD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historic church",
+    "tithe barn",
+    "gardens"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

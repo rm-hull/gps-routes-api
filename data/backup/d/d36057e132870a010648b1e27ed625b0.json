@@ -100,5 +100,25 @@
   "display_address": "B8005, Clunes, Highland, Alba / Scotland, PH34 4EJ, United Kingdom",
   "postcode": "PH34 4EJ",
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "forest"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

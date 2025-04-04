@@ -124,5 +124,23 @@
   "nominatim_found": true,
   "display_address": "Upper Avenue, Brewood and Coven, Brewood, South Staffordshire, Staffordshire, England, WV8 1RD, United Kingdom",
   "district": "South Staffordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

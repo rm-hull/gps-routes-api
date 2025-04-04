@@ -80,5 +80,25 @@
   "display_address": "Meden Trail, Pleasley Hill, Mansfield, Nottinghamshire, East Midlands, England, NG19 7RU, United Kingdom",
   "postcode": "NG19 7RU",
   "district": "Mansfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

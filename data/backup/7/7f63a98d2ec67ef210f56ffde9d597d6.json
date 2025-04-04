@@ -85,5 +85,25 @@
   "display_address": "Cothelstone Hill Car Park, Merridge Hill, Broomfield, Somerset, England, TA5 1AU, United Kingdom",
   "postcode": "TA5 1AU",
   "district": "Broomfield",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

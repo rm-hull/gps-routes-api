@@ -100,5 +100,23 @@
   "nominatim_found": true,
   "display_address": "Redesmere Lane, Siddington, Cheshire East, England, SK11 9PR, United Kingdom",
   "district": "Siddington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "parkland"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

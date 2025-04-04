@@ -76,5 +76,27 @@
   "nominatim_found": true,
   "display_address": "Sussex Road, Heath Common, Petersfield, East Hampshire, Hampshire, England, GU31 4HS, United Kingdom",
   "postcode": "GU31 4HS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "heathland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "burial mounds",
+    "river views",
+    "hilltop views"
+  ],
+  "facilities": [
+    "car park",
+    "play area",
+    "cafe",
+    "boat hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

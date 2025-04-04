@@ -109,5 +109,25 @@
   "nominatim_found": true,
   "display_address": "The Dingle, Lymm, Warrington, England, WA13 0DQ, United Kingdom",
   "postcode": "WA13 0DQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "trails",
+    "canal",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "ice cream van"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

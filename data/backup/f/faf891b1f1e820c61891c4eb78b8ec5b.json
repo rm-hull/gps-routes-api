@@ -65,5 +65,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Old Deer, Aberdeenshire, Alba / Scotland, AB42 5JR, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "woodland",
+    "parkland"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

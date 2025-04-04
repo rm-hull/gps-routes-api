@@ -93,5 +93,23 @@
   "nominatim_found": true,
   "display_address": "Haywood Lane, Baddesley Clinton, Warwick, Warwickshire, England, B93 0DG, United Kingdom",
   "postcode": "B93 0DG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

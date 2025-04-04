@@ -71,5 +71,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Guardhouse, 10, Norwich Road, Lynch Green, Hethersett, Norwich, Norfolk, England, NR9 3AJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "grassland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildflowers",
+    "ponds"
+  ],
+  "facilities": [
+    "tea rooms",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

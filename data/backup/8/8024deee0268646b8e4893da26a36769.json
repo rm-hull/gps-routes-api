@@ -108,5 +108,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bromyard Downs Car Park, Bromyard Downs, Norton, Bromyard, Herefordshire, England, HR7 4QW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "coppice"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildflower areas"
+  ],
+  "facilities": [
+    "car park",
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

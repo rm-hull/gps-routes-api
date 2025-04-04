@@ -3,7 +3,6 @@
   "objectID": "de99b9795427a32fa05157b70e6d80b6",
   "ref": "lodge-park-walking-route",
   "title": "Lodge Park Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Sherborne Park",
@@ -27,5 +26,24 @@
   "nominatim_found": true,
   "display_address": "Lodge Park Woodland Walk, Sherborne, Cotswold, Gloucestershire, England, GL54 3PP, United Kingdom",
   "district": "Cotswold",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "views",
+    "park"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

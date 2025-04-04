@@ -123,5 +123,29 @@
   "nominatim_found": true,
   "display_address": "Birling Gap Road, East Dean and Friston, Birling Gap, Wealden, East Sussex, England, BN20 0AB, United Kingdom",
   "postcode": "BN20 0AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "landmark"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "footpaths",
+    "trail maps"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

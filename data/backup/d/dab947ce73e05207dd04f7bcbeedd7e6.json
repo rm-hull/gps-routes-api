@@ -105,5 +105,27 @@
   "nominatim_found": true,
   "display_address": "Top Wighay, Linby CP, Gedling, Nottinghamshire, East Midlands, England, NG15 8AG, United Kingdom",
   "postcode": "NG15 8AG",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "farmland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

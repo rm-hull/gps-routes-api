@@ -114,5 +114,27 @@
   "nominatim_found": true,
   "display_address": "Marbury Lane, Anderton with Marbury, Anderton, Cheshire West and Chester, England, CW9 6AS, United Kingdom",
   "district": "Anderton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trails",
+    "engineering"
+  ],
+  "facilities": [
+    "car park",
+    "canal access",
+    "walk/cycle paths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

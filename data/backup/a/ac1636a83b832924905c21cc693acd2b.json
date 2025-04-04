@@ -72,5 +72,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Strawberry Close, Ramslye, Royal Tunbridge Wells, Tunbridge Wells, Kent, England, TN2 5PD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "public transport",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -79,5 +79,23 @@
   "nominatim_found": true,
   "display_address": "Hollin Bank, North Lees, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1DZ, United Kingdom",
   "district": "Derbyshire Dales",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "gritstone"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "country lane"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

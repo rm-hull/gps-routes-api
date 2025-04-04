@@ -147,5 +147,26 @@
   "display_address": "Low Mill Lane, Keighley, Long Lee, Bradford, West Yorkshire, England, BD21 4HP, United Kingdom",
   "postcode": "BD21 4HP",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside views",
+    "heritage railway"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

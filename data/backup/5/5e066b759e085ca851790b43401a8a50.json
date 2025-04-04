@@ -103,5 +103,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Post Cottage, 154, High Street, Belluton, Publow, Bristol, Bath and North East Somerset, West of England, England, BS39 4HN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature trail",
+    "lake",
+    "historic estates"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

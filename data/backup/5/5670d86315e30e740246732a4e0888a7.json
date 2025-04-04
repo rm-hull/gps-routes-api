@@ -94,5 +94,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mill Beck Close, Windermere, Westmorland and Furness, England, LA23 2FE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural features"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

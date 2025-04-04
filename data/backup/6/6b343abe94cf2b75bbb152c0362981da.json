@@ -79,5 +79,29 @@
   "display_address": "Heol Llangeinor, Garw Valley, Brynmenyn, Bridgend, Cymru / Wales, CF32 8UU, United Kingdom",
   "postcode": "CF32 8UU",
   "district": "Brynmenyn",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "play area",
+    "garden",
+    "railway path"
+  ],
+  "facilities": [
+    "car park",
+    "tea house",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

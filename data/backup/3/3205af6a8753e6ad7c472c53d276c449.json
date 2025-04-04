@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Roden Lane, Uffington, Shropshire, England, SY4 4RP, United Kingdom",
   "district": "Uffington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "historical sites"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "Iron Age enclosure",
+    "river"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

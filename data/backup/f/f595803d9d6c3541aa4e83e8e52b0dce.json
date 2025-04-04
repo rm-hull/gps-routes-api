@@ -123,5 +123,25 @@
   "display_address": "30, Main Street, Lambley, Gedling, Nottinghamshire, East Midlands, England, NG4 4PP, United Kingdom",
   "postcode": "NG4 4PP",
   "district": "Gedling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "valley"
+  ],
+  "points_of_interest": [
+    "historical information",
+    "geology",
+    "flora"
+  ],
+  "facilities": [
+    "visitor center",
+    "map"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

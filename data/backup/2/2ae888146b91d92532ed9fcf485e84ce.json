@@ -3,7 +3,6 @@
   "objectID": "2ae888146b91d92532ed9fcf485e84ce",
   "ref": "strawberry-hill-house-walking-route",
   "title": "Strawberry Hill House Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Marble Hill Park",
@@ -53,5 +52,22 @@
   "nominatim_found": true,
   "display_address": "St Mary's University, Twickenham, 268, Waldegrave Road, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW1 4SX, United Kingdom",
   "postcode": "TW1 4SX",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

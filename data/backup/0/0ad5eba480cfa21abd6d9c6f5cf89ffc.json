@@ -95,5 +95,31 @@
   "nominatim_found": true,
   "display_address": "DoubleTree by Hilton Leeds City Centre, 2, Wharf Approach, Granary Wharf, Holbeck, Leeds, West Yorkshire, England, LS1 4GS, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "urban",
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "parks",
+    "shops",
+    "galleries"
+  ],
+  "facilities": [
+    "cafe",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

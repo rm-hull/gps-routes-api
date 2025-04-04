@@ -94,5 +94,24 @@
   "nominatim_found": true,
   "display_address": "Coleford Link, Poolway, Coleford, Forest of Dean, Gloucestershire, England, GL16 8PR, United Kingdom",
   "postcode": "GL16 8PR",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "historical sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

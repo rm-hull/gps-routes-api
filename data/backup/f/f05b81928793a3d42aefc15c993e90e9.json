@@ -83,5 +83,25 @@
   "nominatim_found": true,
   "display_address": "Play Trail, St. Leonards and St. Ives, Ashley Heath, Dorset, England, BH24 2ET, United Kingdom",
   "district": "Ashley Heath",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "cycle hire",
+    "steam railway",
+    "Go Ape"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

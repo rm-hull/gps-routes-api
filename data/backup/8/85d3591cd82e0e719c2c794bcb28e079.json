@@ -89,5 +89,27 @@
   "nominatim_found": true,
   "display_address": "Station Road, Tutnalls, Lydney, Forest of Dean, Gloucestershire, England, GL15 5EQ, United Kingdom",
   "postcode": "GL15 5EQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "railway",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

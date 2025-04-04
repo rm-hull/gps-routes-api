@@ -118,5 +118,28 @@
   "display_address": "Camilla Lacey Cottage, Chapel Lane, Westhumble, Mole Valley, Surrey, England, RH5 6AH, United Kingdom",
   "postcode": "RH5 6AH",
   "district": "Mole Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "farmland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "river side trails",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

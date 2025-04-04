@@ -53,5 +53,23 @@
   "display_address": "Wistanstow, Shropshire, England, SY7 8BS, United Kingdom",
   "postcode": "SY7 8BS",
   "district": "Wistanstow",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -3,7 +3,6 @@
   "objectID": "4ca449ebdffc9fbf818525b2fd5c6f50",
   "ref": "lands-end-trail-walking-route",
   "title": "Land's End Trail Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Glastonbury Tor",
@@ -67,5 +66,23 @@
   "county": "Wiltshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "multiple days",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural landmarks"
+  ],
+  "facilities": [
+    "waymarking"
+  ],
+  "route_type": "linear",
+  "activities": [
+    "walking"
+  ]
 }

@@ -68,5 +68,25 @@
   "nominatim_found": true,
   "display_address": "Halifax Lane, Kershaw, Norton Tower, Luddenden, Calderdale, West Yorkshire, England, HX2 6PW, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterway",
+    "canal"
+  ],
+  "points_of_interest": [
+    "villages",
+    "riverside views"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

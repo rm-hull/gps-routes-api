@@ -75,5 +75,24 @@
   "display_address": "Church Street, Home Farm, Ardington, East Lockinge, Vale of White Horse, Oxfordshire, England, OX12 8PF, United Kingdom",
   "postcode": "OX12 8PF",
   "district": "Vale of White Horse",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

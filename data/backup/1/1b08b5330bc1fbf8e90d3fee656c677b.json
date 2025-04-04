@@ -88,5 +88,32 @@
   "nominatim_found": true,
   "display_address": "The Museum Of Berkshire Aviation, Mohawk Way, Woodley, Wokingham, England, RG5 4UE, United Kingdom",
   "postcode": "RG5 4UE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "museum",
+    "nature society",
+    "country park"
+  ],
+  "facilities": [
+    "ranger office",
+    "cafe",
+    "picnic area",
+    "activity center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching",
+    "water sports"
+  ]
 }

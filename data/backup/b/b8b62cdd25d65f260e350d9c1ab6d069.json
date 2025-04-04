@@ -124,5 +124,29 @@
   "display_address": "The Twister, Palnure, Dumfries and Galloway, Alba / Scotland, DG8 7BE, United Kingdom",
   "postcode": "DG8 7BE",
   "district": "Palnure",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "visitor center",
+    "bike shop",
+    "car park",
+    "dog friendly",
+    "bird hides"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

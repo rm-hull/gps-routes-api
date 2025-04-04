@@ -127,5 +127,26 @@
   "postcode": "BD16 1AS",
   "district": "Bradford",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "play area",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

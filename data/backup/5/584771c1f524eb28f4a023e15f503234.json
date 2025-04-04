@@ -75,5 +75,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Castle Hill, Richmond, North Yorkshire, York and North Yorkshire, England, DL10 4QP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "castle"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

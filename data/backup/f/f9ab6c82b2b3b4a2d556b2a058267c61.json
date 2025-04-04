@@ -71,5 +71,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Leek Town 38, Leek, Staffordshire Moorlands, Staffordshire, England, ST13 5SP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "picnic areas",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

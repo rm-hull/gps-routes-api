@@ -107,5 +107,26 @@
   "display_address": "The Avenue, Micheldever, Winchester, Hampshire, England, SO21 3BW, United Kingdom",
   "postcode": "SO21 3BW",
   "district": "Winchester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center",
+    "bike hire"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

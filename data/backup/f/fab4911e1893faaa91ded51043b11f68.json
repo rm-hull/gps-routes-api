@@ -80,5 +80,29 @@
   "nominatim_found": true,
   "display_address": "Lower Bebington, Port Sunlight, Wirral, Liverpool City Region, England, CH62 5DH, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "garden"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "memorial",
+    "lake"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

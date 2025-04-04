@@ -110,5 +110,29 @@
   "display_address": "Silverdale Golf Club, Red Bridge Lane, Silverdale, Lancaster, Lancashire, England, LA5 0SP, United Kingdom",
   "postcode": "LA5 0SP",
   "district": "Lancaster",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "viewpoint",
+    "coastal trail"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "village school",
+    "library",
+    "village halls",
+    "churches"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -129,5 +129,28 @@
   "display_address": "Main Street, Brantingham, East Riding of Yorkshire, England, HU15 1QJ, United Kingdom",
   "postcode": "HU15 1QJ",
   "district": "Brantingham",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside",
+    "river"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "village green",
+    "pond",
+    "church",
+    "mill"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

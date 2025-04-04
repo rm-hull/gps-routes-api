@@ -90,5 +90,24 @@
   "display_address": "Flanders Moss carpark, B822, Thornhill, Stirling, Alba / Scotland, FK8 3QT, United Kingdom",
   "postcode": "FK8 3QT",
   "district": "Thornhill",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "peat bogland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

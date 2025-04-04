@@ -100,5 +100,26 @@
   "nominatim_found": true,
   "display_address": "Halewood Academy, The Avenue, Halewood Green, Halewood, Liverpool, Liverpool City Region, England, L26 1UU, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "racecourse",
+    "country park"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

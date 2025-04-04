@@ -123,5 +123,28 @@
   "display_address": "Golden Acre Park, Otley Road, Adel, Leeds, West Yorkshire, England, LS16 8BQ, United Kingdom",
   "district": "Leeds",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lakeside",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "nature reserves",
+    "trails",
+    "picnic areas"
+  ],
+  "facilities": [
+    "cafe",
+    "picnic benches",
+    "bird feeding shelter"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "nature watching"
+  ]
 }

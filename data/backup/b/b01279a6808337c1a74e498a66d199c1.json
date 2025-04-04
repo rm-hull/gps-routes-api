@@ -118,5 +118,29 @@
   "nominatim_found": true,
   "display_address": "Butt Lane, Slindon, Arun, West Sussex, England, BN18 0RP, United Kingdom",
   "postcode": "BN18 0RP",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "downland",
+    "farmland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "Roman road",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

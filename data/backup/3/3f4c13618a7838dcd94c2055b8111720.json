@@ -94,5 +94,29 @@
   "display_address": "Nun's Bridge, Hinchingbrooke, Huntingdon, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE29 3BN, United Kingdom",
   "postcode": "PE29 3BN",
   "district": "Huntingdonshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "meadows",
+    "lakeside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

@@ -65,5 +65,26 @@
   "nominatim_found": true,
   "display_address": "South Farm Lane, Lightwater, Windlesham, Bagshot, Surrey Heath, Surrey, England, GU19 5PA, United Kingdom",
   "postcode": "GU19 5PA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "monuments",
+    "follies",
+    "chapel",
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

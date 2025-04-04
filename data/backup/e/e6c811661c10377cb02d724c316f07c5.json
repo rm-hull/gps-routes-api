@@ -118,5 +118,27 @@
   "nominatim_found": true,
   "display_address": "Blue 1, Crowthorne, Bracknell Forest, England, RG12 7QW, United Kingdom",
   "district": "Crowthorne",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "trail"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "trails"
+  ],
+  "facilities": [
+    "bike hire",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

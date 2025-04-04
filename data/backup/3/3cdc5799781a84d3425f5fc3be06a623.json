@@ -71,5 +71,24 @@
   "display_address": "Crosby Ravensworth, Westmorland and Furness, England, CA10 3JW, United Kingdom",
   "postcode": "CA10 3JW",
   "district": "Crosby Ravensworth",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "limestone pavement",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

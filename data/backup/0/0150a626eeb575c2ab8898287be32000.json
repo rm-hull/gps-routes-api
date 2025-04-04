@@ -93,5 +93,27 @@
   "nominatim_found": true,
   "display_address": "Rowley Lane, Wexham, Wexham and Ivers Community Board, George Green, Buckinghamshire, England, SL3 6DR, United Kingdom",
   "district": "George Green",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "film studios",
+    "nature trails"
+  ],
+  "facilities": [
+    "car park",
+    "picnic areas",
+    "cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

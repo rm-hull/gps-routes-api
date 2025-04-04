@@ -3,7 +3,6 @@
   "objectID": "a8d34f7897a4dc31a6cba70fa7e4593f",
   "ref": "wisley-gardens-walking-route",
   "title": "Wisley Gardens Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Wisley and Ockham Common",
@@ -38,5 +37,28 @@
   "nominatim_found": true,
   "display_address": "RHS Garden Wisley, Portsmouth Road, Wisley, Ockham, Woking, Surrey, England, GU23 6QB, United Kingdom",
   "district": "Woking",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "ponds",
+    "woodland garden",
+    "plant collection"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

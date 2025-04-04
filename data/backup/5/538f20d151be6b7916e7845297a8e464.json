@@ -94,5 +94,26 @@
   "nominatim_found": true,
   "display_address": "Station Road Car Park, Station Road, Exwick, Exeter, Devon, England, EX4 2AB, United Kingdom",
   "postcode": "EX4 2AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "park"
+  ],
+  "points_of_interest": [
+    "waterfront",
+    "views",
+    "park"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -65,5 +65,23 @@
   "nominatim_found": true,
   "display_address": "Sammy's Fish Bar, 93, High Street, Cefn-coed-y-cymmer, Vaynor, Trefechan, Merthyr Tydfil, Cymru / Wales, CF48 2PN, United Kingdom",
   "postcode": "CF48 2PN",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

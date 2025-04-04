@@ -110,5 +110,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "21c (clean up), Chapel Street, Lower Town, Buckfastleigh, Teignbridge, Devon, England, TQ11 0AJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "paved"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "water mill",
+    "heritage railway"
+  ],
+  "facilities": [
+    "restaurant",
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

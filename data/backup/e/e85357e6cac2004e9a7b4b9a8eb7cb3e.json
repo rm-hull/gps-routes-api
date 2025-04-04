@@ -3,7 +3,6 @@
   "objectID": "e85357e6cac2004e9a7b4b9a8eb7cb3e",
   "ref": "chiswick-house-walking-route",
   "title": "Chiswick House Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Chiswick Riverside Walk",
@@ -38,5 +37,25 @@
   "nominatim_found": true,
   "display_address": "Burlington Lane, Grove Park, London Borough of Hounslow, London, Greater London, England, W4 3UN, United Kingdom",
   "postcode": "W4 3UN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "lawn",
+    "river",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "river views",
+    "park"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

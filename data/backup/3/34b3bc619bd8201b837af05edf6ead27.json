@@ -72,5 +72,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Subway, 3-5, Dig Street, Ashbourne CP, Compton, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1GF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "villages",
+    "countryside",
+    "trails"
+  ],
+  "facilities": [
+    "car park",
+    "walking path"
+  ],
+  "route_type": "loop",
+  "activities": [
+    "walking"
+  ]
 }

@@ -79,7 +79,6 @@ func ImportData(path string, maxRecords int) {
 	for _, file := range files {
 		if err := bar.Add(1); err != nil {
 			log.Fatalf("issue with progress bar: %v", err)
-
 		}
 		data, err := loadJson(file)
 		if err != nil {

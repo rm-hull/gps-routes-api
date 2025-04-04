@@ -76,5 +76,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Corby Bridge, Woodlands, Wetheral, Great Corby, Cumberland, England, CA4 8LX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "woods",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

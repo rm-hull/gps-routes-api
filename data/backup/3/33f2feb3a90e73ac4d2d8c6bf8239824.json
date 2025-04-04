@@ -143,5 +143,24 @@
   "display_address": "Haveringland Road, Horsford, Felthorpe, Broadland, Norfolk, England, NR10 4DF, United Kingdom",
   "postcode": "NR10 4DF",
   "district": "Broadland",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "flora"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

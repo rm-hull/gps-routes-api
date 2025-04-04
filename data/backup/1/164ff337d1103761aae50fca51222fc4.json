@@ -130,5 +130,27 @@
   "display_address": "Scalby Mills Road, Newlands, Scalby Mills, Scarborough, North Yorkshire, York and North Yorkshire, England, YO12 6QZ, United Kingdom",
   "postcode": "YO12 6QZ",
   "district": "Scarborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "natural amphitheatre",
+    "village"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

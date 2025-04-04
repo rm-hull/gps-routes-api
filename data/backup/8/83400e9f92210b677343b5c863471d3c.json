@@ -93,5 +93,29 @@
   "nominatim_found": true,
   "display_address": "B6372, Dewartown, Ford, Midlothian, Alba / Scotland, EH23 4NU, United Kingdom",
   "district": "Ford",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing",
+    "gardens"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "golf course",
+    "ranger service"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

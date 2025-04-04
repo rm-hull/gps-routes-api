@@ -69,5 +69,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Whaligoe steps, The Haven, Whaligoe, Ulbster, Highland, Alba / Scotland, KW2 6AB, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "cliffside",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical ruins",
+    "viewpoints",
+    "coastal plants",
+    "rock formations"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

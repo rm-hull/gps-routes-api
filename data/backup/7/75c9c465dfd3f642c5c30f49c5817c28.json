@@ -51,5 +51,27 @@
   "nominatim_found": true,
   "display_address": "The Street, Smarden, Ashford, Kent, England, TN27 8NB, United Kingdom",
   "postcode": "TN27 8NB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub",
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

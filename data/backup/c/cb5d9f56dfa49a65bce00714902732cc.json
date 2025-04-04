@@ -98,5 +98,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Bistro on the Square, High Street, Chipping Campden, Broad Campden, Cotswold, Gloucestershire, England, GL55 6AN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "country park"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

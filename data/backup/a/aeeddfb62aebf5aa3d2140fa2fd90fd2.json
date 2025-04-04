@@ -128,5 +128,29 @@
   "display_address": "Clennell Street, Alwinton, Northumberland, North East, England, NE65 7BQ, United Kingdom",
   "postcode": "NE65 7BQ",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "river",
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "castle ruins",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "pub",
+    "information board"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

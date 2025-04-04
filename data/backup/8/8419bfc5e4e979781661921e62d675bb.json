@@ -100,5 +100,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Cleobury Mortimer Primary School, Langland Road, Ron Hill, Cleobury Mortimer, Shropshire, England, DY14 8EH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "heritage railway"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

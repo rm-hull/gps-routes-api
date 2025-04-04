@@ -98,5 +98,28 @@
   "display_address": "Nutter Lane, Oakwell, Gomersal, Kirklees, West Yorkshire, England, WF17 9JA, United Kingdom",
   "postcode": "WF17 9JA",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland",
+    "gardens"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "museum",
+    "nature trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "gift shop",
+    "countryside center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

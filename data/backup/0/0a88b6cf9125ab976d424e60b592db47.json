@@ -62,5 +62,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Wood for the Trees, The Courtyard, Grizedale, Satterthwaite, Westmorland and Furness, England, LA22 0QJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland",
+    "forest"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "viewpoints"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "bike hire",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "mountain biking"
+  ]
 }

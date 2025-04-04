@@ -138,5 +138,27 @@
   "display_address": "Advanced MTB Trail, Buriton, East Hampshire, Hampshire, England, PO8 0QE, United Kingdom",
   "postcode": "PO8 0QE",
   "district": "East Hampshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "downland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "long distance trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

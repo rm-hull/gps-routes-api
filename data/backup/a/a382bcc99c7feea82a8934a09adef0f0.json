@@ -75,5 +75,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Willows, King's Sutton, West Northamptonshire, England, OX17 3QJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "settlements",
+    "long distance footpath"
+  ],
+  "facilities": [
+    "car park",
+    "water friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -133,5 +133,24 @@
   "nominatim_found": true,
   "display_address": "Snodland Bypass, East Malling and Larkfield, Ham Hill, Tonbridge and Malling, Kent, England, ME6 5LB, United Kingdom",
   "postcode": "ME6 5LB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

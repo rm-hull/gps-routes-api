@@ -94,5 +94,25 @@
   "display_address": "Aighton, Bailey and Chaigley, Ribble Valley, Lancashire, England, United Kingdom",
   "postcode": null,
   "district": "Ribble Valley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

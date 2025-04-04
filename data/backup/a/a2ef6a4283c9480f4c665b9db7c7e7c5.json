@@ -70,5 +70,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Tregirls Lane, Padstow, Cornwall, England, PL28 8RP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "tea room",
+    "cafe",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

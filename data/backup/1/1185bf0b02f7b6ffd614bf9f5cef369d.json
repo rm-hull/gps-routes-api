@@ -72,5 +72,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Market Street, Whittlesey, Fenland, Cambridgeshire, Cambridgeshire and Peterborough, England, PE7 1BD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "town"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "architecture",
+    "listed buildings",
+    "scheduled ancient monuments",
+    "old churches"
+  ],
+  "facilities": [
+    "information board",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -98,5 +98,26 @@
   "display_address": "Lamb Hill, Foxhole Cottages, Bradfield, Low Bradfield, Sheffield, South Yorkshire, England, S6 6HX, United Kingdom",
   "postcode": "S6 6HX",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "water features"
+  ],
+  "facilities": [
+    "car park",
+    "footpath"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

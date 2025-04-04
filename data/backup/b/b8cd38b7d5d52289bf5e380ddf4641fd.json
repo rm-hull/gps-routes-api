@@ -72,5 +72,26 @@
   "display_address": "West Strand, West Wittering, Chichester, West Sussex, England, PO20 8AU, United Kingdom",
   "postcode": "PO20 8AU",
   "district": "Chichester",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "4 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "sand",
+    "dune"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "views",
+    "harbour"
+  ],
+  "facilities": [
+    "car park",
+    "ferry"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -108,5 +108,30 @@
   "nominatim_found": true,
   "display_address": "Monellan Grove, Walton, Fenny Stratford, Milton Keynes, City of Milton Keynes, England, MK7 8NB, United Kingdom",
   "postcode": "MK7 8NB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "path"
+  ],
+  "points_of_interest": [
+    "bird watching",
+    "outdoor gym"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "trim trail",
+    "table tennis",
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

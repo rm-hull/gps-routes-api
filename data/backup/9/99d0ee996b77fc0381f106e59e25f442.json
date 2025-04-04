@@ -57,5 +57,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "King's Loade, Low Town, Oldbury, Bridgnorth, Shropshire, England, WV16 4BT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "meadows"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "country house",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "visitor center",
+    "wheelchair accessible",
+    "play area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

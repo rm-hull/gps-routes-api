@@ -85,5 +85,31 @@
   "nominatim_found": true,
   "display_address": "5, Bridge Road, Balerno, City of Edinburgh, Alba / Scotland, EH14 7AQ, United Kingdom",
   "postcode": "EH14 7AQ",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "urban"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "viewpoints",
+    "architecture"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "play area",
+    "garden"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

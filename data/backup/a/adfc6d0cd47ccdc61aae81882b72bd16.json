@@ -120,5 +120,26 @@
   "county": "County Meath",
   "region": null,
   "state": null,
-  "country": "\u00c9ire / Ireland"
+  "country": "\u00c9ire / Ireland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "ancient monuments",
+    "castle"
+  ],
+  "facilities": [
+    "car park",
+    "whiskey distillery"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

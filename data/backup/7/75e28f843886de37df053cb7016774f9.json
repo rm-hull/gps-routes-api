@@ -71,5 +71,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "2, Fen Lane, Beccles, East Suffolk, Suffolk, England, NR34 9BT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "marshland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "nature reserve",
+    "waterways",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "boat access"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

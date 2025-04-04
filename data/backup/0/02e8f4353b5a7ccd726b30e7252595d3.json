@@ -123,5 +123,28 @@
   "nominatim_found": true,
   "display_address": "Back Lane, Wicken, East Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, CB7 5YL, United Kingdom",
   "postcode": "CB7 5YL",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterways",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "bird hides",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "bike hire",
+    "boat trip",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

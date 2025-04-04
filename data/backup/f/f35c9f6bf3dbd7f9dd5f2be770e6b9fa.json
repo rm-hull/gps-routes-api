@@ -99,5 +99,29 @@
   "nominatim_found": true,
   "display_address": "Quay Road, Crumplehorn, Polperro, Cornwall, England, PL13 2RA, United Kingdom",
   "postcode": "PL13 2RA",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "cliff top",
+    "beach"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "bird watching",
+    "historical ruins",
+    "waterfall",
+    "coastal views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

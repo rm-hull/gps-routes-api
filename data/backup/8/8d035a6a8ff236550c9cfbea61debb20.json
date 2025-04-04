@@ -84,5 +84,28 @@
   "nominatim_found": true,
   "display_address": "Green Lane, Wootton Pillinge, Stewartby, Bedford, England, MK43 9LY, United Kingdom",
   "district": "Stewartby",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "bird watching"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "gift shop",
+    "bike hire"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

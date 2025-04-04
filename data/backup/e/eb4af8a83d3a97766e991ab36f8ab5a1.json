@@ -74,5 +74,24 @@
   "display_address": "Rigg Lane Car Park, Rigg Lane, Quernmore, Lancaster, Lancashire, England, LA2 9HD, United Kingdom",
   "postcode": "LA2 9HD",
   "district": "Lancaster",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "hill",
+    "boggy"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

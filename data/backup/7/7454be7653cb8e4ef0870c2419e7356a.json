@@ -89,5 +89,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "East Heath Road, South End Green, Belsize Park, London Borough of Camden, London, Greater London, England, NW3 1BN, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "gardens",
+    "sculptures"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

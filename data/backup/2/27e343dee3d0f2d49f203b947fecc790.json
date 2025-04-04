@@ -113,5 +113,25 @@
   "nominatim_found": true,
   "display_address": "Station Road, Greenfoot, Settle, North Yorkshire, York and North Yorkshire, England, BD24 9FJ, United Kingdom",
   "postcode": "BD24 9FJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

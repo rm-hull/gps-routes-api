@@ -76,5 +76,28 @@
   "nominatim_found": true,
   "display_address": "IP33 2060, Angel Hill, West Suffolk, Suffolk, England, IP33 1LS, United Kingdom",
   "postcode": "IP33 1LS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "nature reserves",
+    "park"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

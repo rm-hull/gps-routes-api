@@ -3,7 +3,6 @@
   "objectID": "c2024e2b9b2f6ddc2d41780398f8f6f4",
   "ref": "jubilee-way-(leics)-walking-route",
   "title": "Jubilee Way (Leics) Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Melton Country Park",
@@ -42,5 +41,25 @@
   "display_address": "Somerby Road, Burrough Hall Farm, Somerby, Burrough on the Hill, Melton, Leicestershire, England, LE14 2QZ, United Kingdom",
   "postcode": "LE14 2QZ",
   "district": "Melton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "wooded",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castles",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

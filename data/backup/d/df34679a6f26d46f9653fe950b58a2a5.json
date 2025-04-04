@@ -3,7 +3,6 @@
   "objectID": "df34679a6f26d46f9653fe950b58a2a5",
   "ref": "derwent-valley-walk-walking-and-cycle-route",
   "title": "Derwent Valley Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Gibside Rowlands Gill",
@@ -43,5 +42,28 @@
   "nominatim_found": true,
   "display_address": "Hexham Road, Swalwell, Gateshead, Tyne and Wear, North East, England, NE16 3DB, United Kingdom",
   "county": "Tyne and Wear",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "park"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "sculpture trail",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

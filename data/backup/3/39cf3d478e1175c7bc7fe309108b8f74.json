@@ -110,5 +110,25 @@
   "county": "West Northamptonshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "water meadows"
+  ],
+  "points_of_interest": [
+    "parks and gardens",
+    "watermill",
+    "lakes",
+    "nature reserve"
+  ],
+  "facilities": [
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

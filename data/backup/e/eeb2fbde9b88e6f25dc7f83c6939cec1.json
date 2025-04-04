@@ -85,5 +85,24 @@
   "nominatim_found": true,
   "display_address": "365 Steps, St Arvans, Monmouthshire, Cymru / Wales, NP16 6HD, United Kingdom",
   "district": "St Arvans",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "cliff"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "information board"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

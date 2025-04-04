@@ -80,5 +80,29 @@
   "nominatim_found": true,
   "display_address": "Station Road, Stainton Dale, Ravenscar, North Yorkshire, York and North Yorkshire, England, YO13 0NE, United Kingdom",
   "postcode": "YO13 0NE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "beach",
+    "waterfall",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "pub/cafe",
+    "cycling and walking trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

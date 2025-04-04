@@ -130,5 +130,29 @@
   "display_address": "Potton Road, Potton, Sandy, Central Bedfordshire, England, SG19 2EB, United Kingdom",
   "postcode": "SG19 2EB",
   "district": "Sandy",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "garden"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "visitor center",
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

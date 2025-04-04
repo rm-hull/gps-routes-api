@@ -99,5 +99,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Deep, Millennium Bridge, Old Town, Hull, Kingston upon Hull, England, HU1 4DP, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "woodland",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "lake",
+    "university"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

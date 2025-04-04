@@ -128,5 +128,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Castle Cottage, Castle Square, Castle Acre, King's Lynn and West Norfolk, Norfolk, England, PE32 2AJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "village",
+    "gardens"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

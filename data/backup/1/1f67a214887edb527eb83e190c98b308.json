@@ -94,5 +94,27 @@
   "nominatim_found": true,
   "display_address": "Ken Thomas, New Front Street, West Shield Row Villas, Tanfield Lea, Stanley, County Durham, North East, England, DH9 9UU, United Kingdom",
   "district": "Stanley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "geology"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

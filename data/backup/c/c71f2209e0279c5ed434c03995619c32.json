@@ -113,5 +113,29 @@
   "display_address": "Guildford Lane, Albury, Guildford, Surrey, England, GU5 9BQ, United Kingdom",
   "postcode": "GU5 9BQ",
   "district": "Guildford",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "canal",
+    "park",
+    "river"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "wildlife",
+    "historical castle"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

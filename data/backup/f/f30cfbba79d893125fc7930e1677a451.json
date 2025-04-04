@@ -123,5 +123,27 @@
   "nominatim_found": true,
   "display_address": "Stoneshot, Kirkby Stephen, Westmorland and Furness, England, CA17 4QT, United Kingdom",
   "postcode": "CA17 4QT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical sites",
+    "sculptures"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

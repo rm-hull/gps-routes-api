@@ -105,5 +105,25 @@
   "nominatim_found": true,
   "display_address": "St Mawes Castle, Castle Drive, St. Just-in-Roseland, St. Mawes, Cornwall, England, TR2 5DE, United Kingdom",
   "postcode": "TR2 5DE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "historical"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "ferry"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

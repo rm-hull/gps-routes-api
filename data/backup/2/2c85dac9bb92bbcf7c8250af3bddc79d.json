@@ -68,5 +68,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Gote Lane, Ringmer, Lewes, East Sussex, England, BN8 5HG, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "nature reserve",
+    "viewpoints"
+  ],
+  "facilities": [
+    "footpaths",
+    "bridleways",
+    "cycle paths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

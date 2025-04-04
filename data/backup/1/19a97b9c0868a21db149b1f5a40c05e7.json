@@ -80,5 +80,29 @@
   "county": "County Tyrone",
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "waterfalls",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "bike hire",
+    "dark sky park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

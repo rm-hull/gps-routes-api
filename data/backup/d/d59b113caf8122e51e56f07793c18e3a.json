@@ -89,5 +89,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "St Cuthbert Without, Wreay, Cumberland, England, CA4 0RL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "countryside views",
+    "bridges",
+    "mills"
+  ],
+  "facilities": [
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

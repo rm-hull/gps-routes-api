@@ -70,5 +70,26 @@
   "display_address": "Forest Park Road, Hillmead, West Swindon, Swindon, England, SN5 5PQ, United Kingdom",
   "postcode": "SN5 5PQ",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

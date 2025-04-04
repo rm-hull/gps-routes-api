@@ -64,5 +64,26 @@
   "display_address": "Molly Wood Lane, Hapton, Burnley, Lancashire, England, BB11 5QF, United Kingdom",
   "postcode": "BB11 5QF",
   "district": "Burnley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "rural"
+  ],
+  "points_of_interest": [
+    "park",
+    "river views",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

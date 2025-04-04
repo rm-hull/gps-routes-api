@@ -89,5 +89,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "B6050, Robin Hood, Baslow and Bubnell CP, Derbyshire Dales, Derbyshire, East Midlands, England, S42 7DE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "gritstone",
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "climbing"
+  ]
 }

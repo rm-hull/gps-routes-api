@@ -123,5 +123,27 @@
   "nominatim_found": true,
   "display_address": "The Maltsters, Woodbastwick Road, Ranworth, Woodbastwick, Panxworth, Norwich, Norfolk, England, NR13 6AB, United Kingdom",
   "postcode": "NR13 6AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "broad"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "church",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

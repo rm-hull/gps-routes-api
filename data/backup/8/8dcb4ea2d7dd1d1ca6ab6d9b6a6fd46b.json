@@ -85,5 +85,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Fieldhead Campsite, Marys Lane, Grindsbrook Booth, Edale, High Peak, Derbyshire, East Midlands, England, S33 7ZA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

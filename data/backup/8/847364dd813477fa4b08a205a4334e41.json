@@ -68,5 +68,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Waltham Abbey gateway bridge, Waltham Abbey, Epping Forest, Essex, England, EN9 1DT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife watching",
+    "nature reserve"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "footpaths",
+    "cycle trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -62,5 +62,24 @@
   "nominatim_found": true,
   "display_address": "Smitham Hill, Priddy, Somerset, England, BS40 6DA, United Kingdom",
   "district": "Priddy",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

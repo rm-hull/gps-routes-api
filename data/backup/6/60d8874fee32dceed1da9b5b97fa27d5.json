@@ -103,5 +103,27 @@
   "nominatim_found": true,
   "display_address": "Go Ape!, Kiddens Trail, Kenn, Teignbridge, Devon, England, EX6 7XR, United Kingdom",
   "district": "Teignbridge",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "views",
+    "gardens",
+    "historical sites"
+  ],
+  "facilities": [
+    "bike hire",
+    "wedding venue",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -90,5 +90,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "1, New Road, Lymm, Warrington, England, WA13 9DX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal towpath",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "parks",
+    "gardens",
+    "lakes",
+    "deer park"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

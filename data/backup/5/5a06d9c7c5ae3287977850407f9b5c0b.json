@@ -109,5 +109,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Croxden Abbey, Croxden Road, Croxden, East Staffordshire, Staffordshire, England, ST14 5JF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "field",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "information boards"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

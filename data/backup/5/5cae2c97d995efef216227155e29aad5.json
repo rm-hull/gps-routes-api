@@ -105,5 +105,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Moorland Road, St. Enoder, Indian Queens, Cornwall, England, TR9 6HB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "sanctuary"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

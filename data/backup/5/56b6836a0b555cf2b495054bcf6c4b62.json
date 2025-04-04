@@ -108,5 +108,25 @@
   "display_address": "The Pitch, Fownhope, Herefordshire, England, HR1 4QA, United Kingdom",
   "postcode": "HR1 4QA",
   "district": "Fownhope",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "information boards",
+    "long distance trail"
+  ],
+  "facilities": [
+    "car park",
+    "picnic benches"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

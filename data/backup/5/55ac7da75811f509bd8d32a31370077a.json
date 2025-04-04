@@ -133,5 +133,25 @@
   "nominatim_found": true,
   "display_address": "3, Brook Hill Lane, Dunford Bridge, Dunford, Sheffield, South Yorkshire, England, S36 4TF, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "paved",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "scenery",
+    "trail"
+  ],
+  "facilities": [
+    "car park",
+    "public parking"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

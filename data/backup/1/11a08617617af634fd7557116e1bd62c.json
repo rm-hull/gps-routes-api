@@ -95,5 +95,26 @@
   "display_address": "Water Street, Grassington, North Yorkshire, York and North Yorkshire, England, BD23 5EF, United Kingdom",
   "postcode": "BD23 5EF",
   "district": "Grassington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "footpath",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "river views",
+    "reservoir",
+    "gorge"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

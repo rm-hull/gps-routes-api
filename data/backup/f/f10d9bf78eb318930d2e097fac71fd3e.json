@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "Station Street, Haswell, County Durham, North East, England, DH6 2DF, United Kingdom",
   "postcode": "DH6 2DF",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "railway",
+    "trail",
+    "nature"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "rail trail"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

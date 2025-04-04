@@ -95,5 +95,24 @@
   "nominatim_found": true,
   "display_address": "Forester's Paddock, Keeper's Hill Lane, Linch Farm, Wytham, Vale of White Horse, Oxfordshire, England, OX2 8QQ, United Kingdom",
   "district": "Vale of White Horse",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "historical references"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

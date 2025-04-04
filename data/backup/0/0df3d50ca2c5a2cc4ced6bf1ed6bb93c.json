@@ -72,5 +72,28 @@
   "display_address": "Park Road, Northorpe, Dewsbury Moor, Dewsbury, Kirklees, West Yorkshire, England, WF13 3ER, United Kingdom",
   "postcode": "WF13 3ER",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "waterway",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "wildflower meadows",
+    "ponds",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "canal",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

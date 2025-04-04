@@ -89,5 +89,24 @@
   "nominatim_found": true,
   "display_address": "Finchale Abbey Touring Park, Cocken Road, Framwellgate Moor, County Durham, North East, England, DH1 5FY, United Kingdom",
   "district": "Framwellgate Moor",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

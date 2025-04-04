@@ -89,5 +89,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Watermead Way, London Borough of Haringey, London, Greater London, England, N17 0FJ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "meadows",
+    "scrubland",
+    "waterways"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "canal route",
+    "reservoir"
+  ],
+  "facilities": [
+    "car park",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

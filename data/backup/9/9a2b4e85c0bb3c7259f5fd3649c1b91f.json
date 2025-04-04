@@ -98,5 +98,30 @@
   "nominatim_found": true,
   "display_address": "Gwinear-Gwithian, Cornwall, England, TR27 5ED, United Kingdom",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "heathland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "beaches",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "cafe",
+    "visitor center",
+    "cycling trails",
+    "walking trails"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

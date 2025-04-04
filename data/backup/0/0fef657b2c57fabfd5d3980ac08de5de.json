@@ -98,5 +98,29 @@
   "display_address": "Estuary View Car Park, B3180, Woodbury, East Devon, Devon, England, EX5 1JL, United Kingdom",
   "postcode": "EX5 1JL",
   "district": "East Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "heathland",
+    "woodland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "nature reserve",
+    "wildlife spotting"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

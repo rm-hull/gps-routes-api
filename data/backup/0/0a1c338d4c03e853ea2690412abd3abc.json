@@ -114,5 +114,26 @@
   "display_address": "Coombe Hill Monument, Wendover Road, Butler's Cross, Ellesborough, Buckinghamshire, England, HP17 0TZ, United Kingdom",
   "postcode": "HP17 0TZ",
   "district": "Ellesborough",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "parks",
+    "lakes",
+    "mansion"
+  ],
+  "facilities": [
+    "car park",
+    "canal"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

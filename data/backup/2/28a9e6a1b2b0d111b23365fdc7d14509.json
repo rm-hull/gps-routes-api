@@ -98,5 +98,25 @@
   "display_address": "Higher Tramway, Lanlivery, Luxulyan, Cornwall, England, PL24 2SS, United Kingdom",
   "postcode": "PL24 2SS",
   "district": "Luxulyan",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserve",
+    "woodland"
+  ],
+  "facilities": [
+    "car park",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

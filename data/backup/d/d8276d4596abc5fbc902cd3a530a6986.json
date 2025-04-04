@@ -71,5 +71,24 @@
   "nominatim_found": true,
   "display_address": "Willow End, Willoughby with Sloothby, Willoughby, East Lindsey, Lincolnshire, England, LN13 9NQ, United Kingdom",
   "postcode": "LN13 9NQ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "rural",
+    "nature trail"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "gardens",
+    "historic estate"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

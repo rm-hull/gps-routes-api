@@ -109,5 +109,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Old School, Gloucester Street, Back Lane, Winchcombe, Tewkesbury, Gloucestershire, England, GL54 5LX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "manor house",
+    "museum",
+    "archaeological site"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

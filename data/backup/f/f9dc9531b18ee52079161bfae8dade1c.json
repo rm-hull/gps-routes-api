@@ -80,5 +80,24 @@
   "display_address": "Bank Lane, Saddleworth, Oldham, Greater Manchester, England, OL3 7NE, United Kingdom",
   "district": "Oldham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moorland",
+    "valley"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "rock formations",
+    "waterside trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

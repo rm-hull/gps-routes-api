@@ -95,5 +95,23 @@
   "nominatim_found": true,
   "display_address": "Station Road, Newlands, Newby and Scalby, Scalby, North Yorkshire, York and North Yorkshire, England, YO13 0QN, United Kingdom",
   "postcode": "YO13 0QN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "wildlife spotting",
+    "woodland trails"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

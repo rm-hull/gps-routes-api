@@ -113,5 +113,21 @@
   "nominatim_found": true,
   "display_address": "Wythop, Embleton, Cumberland, England, CA13 9YW, United Kingdom",
   "district": "Embleton",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

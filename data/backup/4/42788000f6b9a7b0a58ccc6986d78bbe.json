@@ -113,5 +113,27 @@
   "nominatim_found": true,
   "display_address": "Mill Street, Westleton, East Suffolk, Suffolk, England, IP17 3BD, United Kingdom",
   "postcode": "IP17 3BD",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "heathland",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "village green",
+    "church",
+    "nature reserve",
+    "beach"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "footpaths"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

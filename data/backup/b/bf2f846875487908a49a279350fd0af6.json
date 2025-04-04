@@ -70,5 +70,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Talbot Inn, B4197, Doddenham, Malvern Hills, Worcestershire, England, WR6 5PH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "views",
+    "orchards",
+    "woodland"
+  ],
+  "facilities": [
+    "church",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

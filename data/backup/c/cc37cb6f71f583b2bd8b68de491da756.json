@@ -124,5 +124,32 @@
   "nominatim_found": true,
   "display_address": "Lower Wharf Street, Hurst, Ashton-under-Lyne, Tameside, Greater Manchester, England, OL6 6XB, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "moorland",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical mills",
+    "views",
+    "museums",
+    "moorland scenery",
+    "valleys",
+    "peaks",
+    "crags"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

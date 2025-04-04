@@ -3,7 +3,6 @@
   "objectID": "a1d08f6eefb4a72e61bcc7b27dd01388",
   "ref": "nev-cole-way-walking-route",
   "title": "Nev Cole Way Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Hull",
@@ -32,5 +31,23 @@
   "county": "North Lincolnshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "natural scenery"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -3,7 +3,6 @@
   "objectID": "d44d6e55e25324d1f9c5e3a792876020",
   "ref": "millers-way-walking-route",
   "title": "Miller's Way Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Lowther Castle",
@@ -53,5 +52,26 @@
   "county": "Westmorland and Furness",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "park",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "castle ruins"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

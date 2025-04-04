@@ -85,5 +85,23 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Knebworth Country Park, Three Houses Lane, Knebworth, Old Knebworth, North Hertfordshire, Hertfordshire, England, SG4 8WT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife viewing"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

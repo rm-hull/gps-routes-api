@@ -68,7 +68,7 @@ func (repo *CachedDbRepository) CountAll(ctx context.Context, criteria *openapi.
 }
 
 // FacetCounts implements DbRepository.
-func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int32, excludeFacets ...string) (*map[string]int64, error) {
+func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	key, err := buildCacheKey(map[string]any{
 		"query":       criteria.Query,
 		"boundingBox": criteria.BoundingBox,
@@ -80,7 +80,7 @@ func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *opena
 		return nil, fmt.Errorf("failed to create cache key: %v", err)
 	}
 	result, err, cached := memoize.Call(repo.cache, key, func() (*map[string]int64, error) {
-		return repo.wrapped.FacetCounts(ctx, criteria, facetField, limit, excludeFacets...)
+		return repo.wrapped.FacetCounts(ctx, criteria, facetField, limit, unnest, excludeFacets...)
 	})
 	repo.updateMetrics("FacetCounts", cached)
 	return result, err

@@ -84,5 +84,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Winchcombe Conservative Working Men's Club, Abbey Terrace, Back Lane, Winchcombe, Cheltenham, Gloucestershire, England, GL54 5LL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "hill",
+    "woodland",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "golf course"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

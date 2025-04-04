@@ -119,5 +119,28 @@
   "display_address": "Foxtwood Cottages, Foxt Road, Ipstones, Foxt, Stoke-on-Trent, Staffordshire, England, ST10 2HJ, United Kingdom",
   "postcode": "ST10 2HJ",
   "district": "Stoke-on-Trent",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "canal towpath",
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature park",
+    "historical railway",
+    "views"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "train station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

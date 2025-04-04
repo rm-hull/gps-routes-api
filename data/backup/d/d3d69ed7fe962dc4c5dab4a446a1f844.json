@@ -62,5 +62,27 @@
   "display_address": "Hopton Castle, Shropshire, England, SY7 0BE, United Kingdom",
   "postcode": "SY7 0BE",
   "district": "Hopton Castle",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle ruins",
+    "village"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

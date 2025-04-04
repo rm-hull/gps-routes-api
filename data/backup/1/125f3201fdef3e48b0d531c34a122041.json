@@ -75,5 +75,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Culross West, Balgownie West, Blairburn, Culross, Fife, Alba / Scotland, KY12 8JJ, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "paved"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "bird watching"
+  ],
+  "facilities": [
+    "cycle path",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -119,5 +119,28 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Chapel Lane, Badby, West Northamptonshire, England, NN11 3AQ, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "natural"
+  ],
+  "points_of_interest": [
+    "historic villages",
+    "mills",
+    "wetlands",
+    "nature reserves"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

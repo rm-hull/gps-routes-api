@@ -100,5 +100,23 @@
   "display_address": "A832, Taagan, Kinlochewe, Highland, Alba / Scotland, IV22 2PD, United Kingdom",
   "postcode": "IV22 2PD",
   "district": "Kinlochewe",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "waterfalls",
+    "mountain views"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

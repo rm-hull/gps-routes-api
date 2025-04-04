@@ -119,5 +119,26 @@
   "display_address": "Riding Head Lane, Turn, Edenfield, Rossendale, Lancashire, England, BL0 0SY, United Kingdom",
   "postcode": "BL0 0SY",
   "district": "Rossendale",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moorland",
+    "reservoir"
+  ],
+  "points_of_interest": [
+    "historical landmarks",
+    "nature reserve",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

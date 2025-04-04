@@ -3,7 +3,6 @@
   "objectID": "a7b593ce891a7f31bd4dc96d0052fa58",
   "ref": "sarn-sabrina-walk-walking-route",
   "title": "Sarn Sabrina Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Glyndwr's Way",
@@ -47,5 +46,26 @@
   "county": "Powys",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "forest",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "water features",
+    "natural springs"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

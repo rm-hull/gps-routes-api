@@ -98,5 +98,29 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mosspark Road, Espieside, Coatbridge, North Lanarkshire, Alba / Scotland, ML5 2HG, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "grassland",
+    "lakes"
+  ],
+  "points_of_interest": [
+    "nature trails",
+    "canal"
+  ],
+  "facilities": [
+    "visitor center",
+    "cafeteria",
+    "peace garden",
+    "car park",
+    "cycle path"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

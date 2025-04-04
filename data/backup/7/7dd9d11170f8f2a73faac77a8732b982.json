@@ -76,5 +76,25 @@
   "display_address": "The Street, Ewelme, South Oxfordshire, Oxfordshire, England, OX10 6HJ, United Kingdom",
   "postcode": "OX10 6HJ",
   "district": "South Oxfordshire",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "historic sites"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

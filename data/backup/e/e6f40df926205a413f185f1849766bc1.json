@@ -103,5 +103,26 @@
   "display_address": "Church Street, Nunney, Somerset, England, BA11 4LW, United Kingdom",
   "postcode": "BA11 4LW",
   "district": "Nunney",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "water",
+    "pasture"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "castle",
+    "village"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

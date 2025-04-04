@@ -72,5 +72,22 @@
   "nominatim_found": true,
   "display_address": "Flyford Flavell, Wychavon, Worcestershire, England, WR7 4BT, United Kingdom",
   "postcode": "WR7 4BT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "wildlife",
+    "historical sites"
+  ],
+  "facilities": [
+    "pub"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

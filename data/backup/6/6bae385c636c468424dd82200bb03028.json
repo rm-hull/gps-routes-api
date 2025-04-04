@@ -3,7 +3,6 @@
   "objectID": "6bae385c636c468424dd82200bb03028",
   "ref": "cotswold-round-walking-route",
   "title": "Cotswold Round Circular Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Winchcombe Way",
@@ -68,5 +67,25 @@
   "county": "Oxfordshire",
   "region": null,
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "countryside",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historic houses",
+    "parks"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "country pubs"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

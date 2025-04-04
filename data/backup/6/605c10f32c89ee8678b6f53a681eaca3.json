@@ -90,5 +90,27 @@
   "nominatim_found": true,
   "display_address": "Cambrian Gardens, Penygloddfa, Newtown and Llanllwchaiarn, Newtown, Powys, Cymru / Wales, SY16 2AW, United Kingdom",
   "postcode": "SY16 2AW",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "villages",
+    "castle",
+    "aqueduct"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -71,5 +71,28 @@
   "nominatim_found": true,
   "display_address": "Worleys Drive, Tubbenden, Farnborough, London Borough of Bromley, London, Greater London, England, BR6 7DJ, United Kingdom",
   "postcode": "BR6 7DJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "park",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature centre",
+    "gardens",
+    "wildflower meadows"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

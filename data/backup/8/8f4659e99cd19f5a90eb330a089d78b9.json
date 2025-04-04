@@ -105,5 +105,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Brunel, Canal Walk, Queenstown, South Swindon Parish, Swindon, England, SN1 1LH, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "urban"
+  ],
+  "points_of_interest": [
+    "scenic highlights",
+    "canal"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

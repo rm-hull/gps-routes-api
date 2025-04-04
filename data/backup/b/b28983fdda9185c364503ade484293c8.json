@@ -123,5 +123,27 @@
   "nominatim_found": true,
   "display_address": "Priest End, Thame, South Oxfordshire, Oxfordshire, England, OX9 3AB, United Kingdom",
   "postcode": "OX9 3AB",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "nature reserves",
+    "village"
+  ],
+  "facilities": [
+    "pub",
+    "church",
+    "park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

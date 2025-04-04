@@ -90,5 +90,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "The Bothy Ballater, 43, Bridge Street, Ballater, Aberdeenshire, Alba / Scotland, AB35 5QD, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "castle ruins"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

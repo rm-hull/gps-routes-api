@@ -89,5 +89,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Swansea University Singleton Park Campus, Mumbles Road, Singleton, Sketty, Swansea, Cymru / Wales, SA2 8PP, United Kingdom",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "garden",
+    "coastal"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "bridge",
+    "lake"
+  ],
+  "facilities": [
+    "boating hire",
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "boating"
+  ]
 }

@@ -94,5 +94,21 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Greyhound Bridge Road, Castle and Priory Precinct, Skerton, Lancaster, Lancashire, England, LA1 1DB, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "moorland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "scenery",
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -68,5 +68,30 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Main Road, Bridge Farm, Skidbrooke with Saltfleet Haven, Saltfleet, East Lindsey, Lincolnshire, England, LN11 7SD, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal",
+    "dunes",
+    "marsh"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "bird watching",
+    "photogenic tank"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

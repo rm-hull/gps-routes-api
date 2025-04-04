@@ -58,5 +58,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Stoke Row Road, Peppard Common, Rotherfield Peppard, Sonning Common, South Oxfordshire, Oxfordshire, England, RG9 5JA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1-2 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "views",
+    "wildlife spotting",
+    "historical sites"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

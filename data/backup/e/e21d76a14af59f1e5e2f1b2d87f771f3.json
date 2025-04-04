@@ -103,5 +103,24 @@
   "nominatim_found": true,
   "display_address": "Fishers Lane, Brockencote, Chaddesley Corbett, Bluntington, Wyre Forest, Worcestershire, England, DY10 4SE, United Kingdom",
   "postcode": "DY10 4SE",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1 mile",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "nature reserve",
+    "historic houses"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

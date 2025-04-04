@@ -79,5 +79,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Pulteney Bridge, Walcot, Bath, Bath and North East Somerset, West of England, England, BA2 4AX, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "railway",
+    "canal",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

@@ -58,5 +58,23 @@
   "nominatim_found": true,
   "display_address": "Gatering Lane, Sutton, North Yorkshire, York and North Yorkshire, England, BD20 7NY, United Kingdom",
   "postcode": "BD20 7NY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "hill"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "historical monuments"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

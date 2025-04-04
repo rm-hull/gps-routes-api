@@ -95,5 +95,24 @@
   "display_address": "Normanby Road, Thealby, Burton upon Stather, North Lincolnshire, England, DN15 9AB, United Kingdom",
   "postcode": "DN15 9AB",
   "district": "Burton upon Stather",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -108,5 +108,29 @@
   "nominatim_found": true,
   "display_address": "Stackpole Quay, Stackpole Road, East Trewent, Stackpole and Castlemartin, Freshwater East, Pembrokeshire, Cymru / Wales, SA71 5LS, United Kingdom",
   "district": "Freshwater East",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildflower meadows",
+    "archaeological sites"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "visitor center",
+    "church"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

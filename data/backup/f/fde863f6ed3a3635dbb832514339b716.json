@@ -98,5 +98,25 @@
   "display_address": "Cow Green Reservoir Parking, Old Mine Tramway, Forest and Frith, County Durham, North East, England, DL12 0HX, United Kingdom",
   "postcode": "DL12 0HX",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "moorland",
+    "water"
+  ],
+  "points_of_interest": [
+    "waterfall",
+    "views",
+    "river"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

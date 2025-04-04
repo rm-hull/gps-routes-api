@@ -76,5 +76,23 @@
   "display_address": "Goose Lane, Upper Quinton, Quinton CP, Lower Quinton, Stratford-on-Avon, Warwickshire, England, CV37 8TA, United Kingdom",
   "postcode": "CV37 8TA",
   "district": "Stratford-on-Avon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "garden"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "historic villages"
+  ],
+  "facilities": [
+    "pub/cafe"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -80,5 +80,26 @@
   "nominatim_found": true,
   "display_address": "Edenfield Road, Cheesden, Rochdale, Greater Manchester, England, OL12 7TY, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 - 2.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "waterfront",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical pub",
+    "views",
+    "valley trails"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "outdoor seating"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

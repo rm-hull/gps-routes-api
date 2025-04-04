@@ -84,5 +84,25 @@
   "display_address": "Ellerhayes Bridge, Bridge Lane, Silverton, Mid Devon, Devon, England, EX5 4PX, United Kingdom",
   "postcode": "EX5 4PX",
   "district": "Mid Devon",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "countryside views",
+    "historic buildings",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

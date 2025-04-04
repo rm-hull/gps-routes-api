@@ -94,5 +94,29 @@
   "nominatim_found": true,
   "display_address": "Link Track, Sutton in Ashfield, Teversal, Ashfield, Nottinghamshire, East Midlands, England, NG17 3HJ, United Kingdom",
   "postcode": "NG17 3HJ",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "grassland"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "parkland",
+    "trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "cafe",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

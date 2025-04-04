@@ -139,5 +139,29 @@
   "nominatim_found": true,
   "display_address": "1530, Cross Street, Castleton, High Peak, Derbyshire, East Midlands, England, S33 8WH, United Kingdom",
   "postcode": "S33 8WH",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "limestone"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "waterfalls",
+    "gardens"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible",
+    "pub/cafe"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

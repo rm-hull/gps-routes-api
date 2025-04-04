@@ -103,5 +103,29 @@
   "county": "Westmorland and Furness",
   "region": "North East",
   "state": "England",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "moor",
+    "fell",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "railway",
+    "waterfall",
+    "castle",
+    "viaduct"
+  ],
+  "facilities": [
+    "car park",
+    "rail station"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

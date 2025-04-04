@@ -113,5 +113,27 @@
   "nominatim_found": true,
   "display_address": "National trust cafe, Pepper Lane, Boohay, Kingswear, South Hams, Devon, England, TQ6 0EE, United Kingdom",
   "district": "South Hams",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "coastal",
+    "garden"
+  ],
+  "points_of_interest": [
+    "sculptures",
+    "pools",
+    "herbaceous borders",
+    "streams"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

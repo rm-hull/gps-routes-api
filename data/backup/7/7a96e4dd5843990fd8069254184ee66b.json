@@ -99,5 +99,26 @@
   "display_address": "Trail, Cranleigh, Waverley, Surrey, England, GU6 7WH, United Kingdom",
   "postcode": "GU6 7WH",
   "district": "Waverley",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "picnic areas"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling",
+    "horse riding"
+  ]
 }

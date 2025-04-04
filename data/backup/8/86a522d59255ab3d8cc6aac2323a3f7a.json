@@ -68,5 +68,24 @@
   "nominatim_found": true,
   "display_address": "Rye Road, Hawkhurst, Tunbridge Wells, Kent, England, TN18 4HT, United Kingdom",
   "postcode": "TN18 4HT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "rural",
+    "historic"
+  ],
+  "points_of_interest": [
+    "historic castle",
+    "river trails"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

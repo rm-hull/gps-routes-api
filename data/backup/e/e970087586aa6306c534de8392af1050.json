@@ -94,5 +94,26 @@
   "display_address": "Courtyard Cafe, Monet Inspired Bridge, Kettlestone, North Norfolk, Norfolk, England, NR21 0LN, United Kingdom",
   "postcode": "NR21 0LN",
   "district": "North Norfolk",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "meadow"
+  ],
+  "points_of_interest": [
+    "wildlife viewing",
+    "gardens",
+    "river views"
+  ],
+  "facilities": [
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

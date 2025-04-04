@@ -133,5 +133,20 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Church Street, Chipping Norton, West Oxfordshire, Oxfordshire, England, OX7 5NT, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "rural"
+  ],
+  "points_of_interest": [
+    "villages"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

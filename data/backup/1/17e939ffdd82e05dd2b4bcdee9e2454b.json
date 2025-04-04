@@ -89,5 +89,26 @@
   "display_address": "Glen Affric Road, Highland, Alba / Scotland, United Kingdom",
   "postcode": null,
   "district": null,
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "mountain",
+    "forest",
+    "waterfall"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "waterfalls",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "waymarked trail"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

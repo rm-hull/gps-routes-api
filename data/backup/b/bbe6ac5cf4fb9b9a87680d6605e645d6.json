@@ -135,5 +135,25 @@
   "display_address": "St James' Church, Victoria Road, Llanwrtyd Wells, Powys, Cymru / Wales, LD5 4ST, United Kingdom",
   "postcode": "LD5 4ST",
   "district": "Llanwrtyd Wells",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "natural scenery",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

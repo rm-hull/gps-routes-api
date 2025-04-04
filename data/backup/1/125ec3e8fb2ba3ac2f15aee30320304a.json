@@ -58,5 +58,24 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Hill Top, B5285, Claife, Near Sawrey, Westmorland and Furness, England, LA22 0LF, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "lake"
+  ],
+  "points_of_interest": [
+    "water lilies",
+    "fish",
+    "woodland tracks"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

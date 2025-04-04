@@ -3,7 +3,6 @@
   "objectID": "1f325f9d98757447b9310eb23a5932ef",
   "ref": "barton-farm-country-park-walking-route",
   "title": "Barton Farm Country Park Walking Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Kennet and Avon Canal Walk",
@@ -37,5 +36,26 @@
   "nominatim_found": true,
   "display_address": "Frome Road, Bradford-on-Avon, Wiltshire, England, BA15 1FS, United Kingdom",
   "postcode": "BA15 1FS",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "town"
+  ],
+  "points_of_interest": [
+    "historic buildings",
+    "shops",
+    "tea rooms"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

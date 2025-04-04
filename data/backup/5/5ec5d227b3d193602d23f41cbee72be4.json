@@ -83,5 +83,26 @@
   "postcode": "S35 7DS",
   "district": "Sheffield",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain"
+  ],
+  "points_of_interest": [
+    "wildflower viewing",
+    "nature reserve",
+    "bird watching"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "bird watching"
+  ]
 }

@@ -65,5 +65,26 @@
   "display_address": "Marsh Lane, Stonebridge Cottages, North Somercotes, East Lindsey, Lincolnshire, England, LN11 7PB, United Kingdom",
   "postcode": "LN11 7PB",
   "district": "East Lindsey",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "coastal",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "villages"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

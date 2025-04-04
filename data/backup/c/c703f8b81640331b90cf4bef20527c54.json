@@ -3,7 +3,6 @@
   "objectID": "c703f8b81640331b90cf4bef20527c54",
   "ref": "mull-head-walking-route",
   "title": "Mull Head Orkney Walk Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "gpx_url": "https://raw.githubusercontent.com/rm-hull/gps-routes-api/refs/heads/main/data/routes/c/c703f8b81640331b90cf4bef20527c54.gpx",
   "_geoloc": {
     "lat": 58.956217243,
@@ -21,5 +20,24 @@
   "display_address": "Sandside Road, Deerness, Orkney Islands, Alba / Scotland, KW17 2QJ, United Kingdom",
   "postcode": "KW17 2QJ",
   "district": "Deerness",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "grassland",
+    "sea cliffs"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "natural features"
+  ],
+  "facilities": [
+    "car park",
+    "viewing platforms"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

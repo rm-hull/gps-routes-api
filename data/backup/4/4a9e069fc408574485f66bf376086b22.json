@@ -75,5 +75,20 @@
   "postcode": "HD9 2QG",
   "district": "Kirklees",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "moor"
+  ],
+  "points_of_interest": [
+    "viewpoints"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -85,5 +85,27 @@
   "nominatim_found": true,
   "display_address": "Chipping Hill, Witham, Braintree, Essex, England, CM8 2JT, United Kingdom",
   "postcode": "CM8 2JT",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "river",
+    "canal",
+    "path"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "river views",
+    "village"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

@@ -3,7 +3,6 @@
   "objectID": "85dd0e9f027ad8c650b4353104dd48fb",
   "ref": "llwybr-ceiriog-trail-walking-and-cycle-route",
   "title": "Llwybr Ceiriog Trail Walking and Cycle Route",
-  "headline_image_url": "http://www.gps-routes.co.uk/routes/home.nsf/Counties/isle%20of%20wight/$FILE/isleofwight.jpg/",
   "nearby": [
     {
       "description": "Glyn Ceiriog",
@@ -42,5 +41,22 @@
   "nominatim_found": true,
   "display_address": "Llansantffraid Glyn Ceiriog, Glyn Ceiriog, Wrexham, Cymru / Wales, LL20 7DF, United Kingdom",
   "district": "Glyn Ceiriog",
-  "state": "Cymru / Wales"
+  "state": "Cymru / Wales",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "villages",
+    "views"
+  ],
+  "facilities": [],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

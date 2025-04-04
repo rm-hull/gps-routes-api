@@ -89,5 +89,25 @@
   "display_address": "Sheep Wash, Quarry Lane, Whorlton, North Yorkshire, York and North Yorkshire, England, DL6 3DW, United Kingdom",
   "postcode": "DL6 3DW",
   "district": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "40 minutes",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "moorland"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "picnic area"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

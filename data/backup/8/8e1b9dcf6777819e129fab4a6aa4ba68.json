@@ -72,5 +72,23 @@
   "display_address": "Minterne Gardens, Sandy Lane, Minterne Parva, Minterne Magna, Dorset, England, DT2 7AU, United Kingdom",
   "postcode": "DT2 7AU",
   "district": "Minterne Magna",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water"
+  ],
+  "points_of_interest": [
+    "natural features",
+    "historical sites"
+  ],
+  "facilities": [
+    "footpaths"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

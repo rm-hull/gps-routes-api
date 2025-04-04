@@ -90,5 +90,24 @@
   "nominatim_found": true,
   "display_address": "4, Christ's Hospital Terrace, New Boultham, Lincoln, Lincolnshire, England, LN2 1LY, United Kingdom",
   "postcode": "LN2 1LY",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "fen",
+    "heath",
+    "river"
+  ],
+  "points_of_interest": [
+    "historical villages",
+    "countryside"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

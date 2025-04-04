@@ -15,6 +15,8 @@ type PostgresDbRepository struct {
 	schema string
 }
 
+var DEFAULT_ARRAY_FIELDS = []string{"activities", "terrain", "facilities", "points_of_interest"}
+
 func NewPostgresRouteRepository(pool *pgxpool.Pool, schema string) *PostgresDbRepository {
 	return &PostgresDbRepository{pool: pool, schema: schema}
 }
@@ -28,11 +30,13 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 		    object_id, created_at, ref, title, headline_image_url,
 		    gpx_url, _geoloc, distance_km, description, video_url,
 		    display_address, postcode, district, county, region,
-			state, country
+			state, country, estimated_duration, difficulty, terrain,
+			points_of_interest, facilities, route_type, activities
 		) VALUES (
 			$1, $2, $3, $4, $5,
 			$6, ST_SetSRID(ST_MakePoint($7, $8), 4326), $9, $10, $11,
-			$12, $13, $14, $15, $16, $17, $18
+			$12, $13, $14, $15, $16, $17, $18, $19, $20, $21,
+			$22, $23, $24, $25
 		)
 		ON CONFLICT (object_id) DO UPDATE SET
 			created_at = EXCLUDED.created_at, ref = EXCLUDED.ref,
@@ -41,11 +45,16 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 			distance_km = EXCLUDED.distance_km, description = EXCLUDED.description,
 			video_url = EXCLUDED.video_url, display_address = EXCLUDED.display_address,
 			postcode = EXCLUDED.postcode, district = EXCLUDED.district, county = EXCLUDED.county,
-			region = EXCLUDED.region, state = EXCLUDED.state, country = EXCLUDED.country`, repo.schema),
+			region = EXCLUDED.region, state = EXCLUDED.state, country = EXCLUDED.country,
+			estimated_duration = EXCLUDED.estimated_duration, difficulty = EXCLUDED.difficulty,
+			terrain = EXCLUDED.terrain, points_of_interest = EXCLUDED.points_of_interest,
+			facilities = EXCLUDED.facilities, route_type = EXCLUDED.route_type,
+			activities = EXCLUDED.activities`, repo.schema),
 		route.ObjectID, route.CreatedAt, route.Ref, route.Title, route.HeadlineImageUrl, route.GpxUrl,
 		route.StartPosition.Longitude, route.StartPosition.Latitude, route.DistanceKm, route.Description,
 		route.VideoUrl, route.DisplayAddress, route.Postcode, route.District, route.County, route.Region,
-		route.State, route.Country,
+		route.State, route.Country, route.EstimatedDuration, route.Difficulty, route.Terrain,
+		route.PointsOfInterest, route.Facilities, route.RouteType, route.Activities,
 	)
 
 	batch.Queue(
@@ -108,7 +117,9 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 			ST_X(_geoloc) AS longitude, ST_Y(_geoloc) AS latitude,
 			created_at, gpx_url, distance_km, video_url,
 			display_address, postcode, district, county,
-			region, state, country
+			region, state, country, estimated_duration,
+			difficulty, terrain, points_of_interest,
+			facilities, route_type, activities
 		FROM routes
 		WHERE object_id = $1`
 
@@ -121,7 +132,9 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 		&route.HeadlineImageUrl, &longitude, &latitude, &route.CreatedAt,
 		&route.GpxUrl, &route.DistanceKm, &route.VideoUrl, &route.DisplayAddress,
 		&route.Postcode, &route.District, &route.County, &route.Region,
-		&route.State, &route.Country,
+		&route.State, &route.Country, &route.EstimatedDuration, &route.Difficulty,
+		&route.Terrain, &route.PointsOfInterest, &route.Facilities, &route.RouteType,
+		&route.Activities,
 	)
 	if err == pgx.ErrNoRows {
 		return nil, nil
@@ -202,26 +215,38 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.SearchRequest) (int64, error) {
 
 	var count int64
-	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).Build()
+	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
+		Build()
+
 	err := repo.pool.QueryRow(ctx, query, params...).Scan(&count)
-	return count, err
+	if err != nil {
+		return 0, fmt.Errorf("failed to execute count-all query \"%s\": %v", query, err)
+	}
+
+	return count, nil
 }
 
-func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, excludeFacets ...string) (*map[string]int64, error) {
+func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	results := make(map[string]int64, 0)
 
-	selectPart := fmt.Sprintf(`SELECT %s, COUNT(*) AS value FROM routes`, facetField)
-	query, params := db.NewQueryBuilder(selectPart, criteria).
+	format := map[bool]string{
+		true:  `SELECT UNNEST(%s) AS key, COUNT(*) AS value FROM routes`,
+		false: `SELECT %s AS key, COUNT(*) AS value FROM routes`,
+	}[unnest]
+
+	query, params := db.NewQueryBuilder(fmt.Sprintf(format, facetField), criteria).
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
 		WithExcludeFacets(excludeFacets...).
-		WithGroupBy(facetField).
+		WithGroupBy("key").
 		WithOrderBy("value").
 		WithLimit(limit).
 		Build()
 
 	rows, err := repo.pool.Query(ctx, query, params...)
 	if err != nil {
-		return nil, fmt.Errorf("failed to execute %s-facet query: %v", facetField, err)
+		return nil, fmt.Errorf("failed to execute %s-facet query \"%s\": %v", facetField, query, err)
 	}
 	defer rows.Close()
 
@@ -229,7 +254,7 @@ func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *mod
 		var name string
 		var value int
 
-		err := rows.Scan(&name, &value)
+		err = rows.Scan(&name, &value)
 		if err != nil {
 			return nil, fmt.Errorf("failed to scan %s-facet row: %v", facetField, err)
 		}
@@ -265,22 +290,23 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 	}
 
 	query, params := db.NewQueryBuilder(selectPart, criteria).
+		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithOrderBy(sortField).
 		WithOffset(criteria.Offset).
 		WithLimit(criteria.Limit).
 		Build()
 
-	results := make([]model.RouteSummary, 0)
 	rows, err := repo.pool.Query(ctx, query, params...)
 	if err != nil {
-		return nil, fmt.Errorf("failed to execute search query: %v", err)
+		return nil, fmt.Errorf("failed to execute search query \"%s\":, %v", query, err)
 	}
 	defer rows.Close()
 
-	for rows.Next() {
-		var summary model.RouteSummary
-		var latitude, longitude float64
+	var results []model.RouteSummary
+	var summary model.RouteSummary
+	var latitude, longitude float64
 
+	for rows.Next() {
 		err := rows.Scan(
 			&summary.ObjectID, &summary.Ref, &summary.Title,
 			&summary.Description, &summary.HeadlineImageUrl,

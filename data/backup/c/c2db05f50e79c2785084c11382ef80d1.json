@@ -74,5 +74,28 @@
   "nominatim_found": true,
   "display_address": "Wallis Road, East Wick, Hackney Wick, London Borough of Tower Hamlets, London, Greater London, England, E9 5ET, United Kingdom",
   "postcode": "E9 5ET",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "canal",
+    "park",
+    "waterfront"
+  ],
+  "points_of_interest": [
+    "historical buildings",
+    "nature reserve",
+    "park"
+  ],
+  "facilities": [
+    "cafe",
+    "boating lake",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

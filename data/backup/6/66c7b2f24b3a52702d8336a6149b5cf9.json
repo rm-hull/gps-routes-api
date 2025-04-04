@@ -133,5 +133,27 @@
   "nominatim_found": true,
   "display_address": "Woodfall Lane, Nether Farm, Bradfield, High Bradfield, Sheffield, South Yorkshire, England, S6 6LH, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "water",
+    "hill"
+  ],
+  "points_of_interest": [
+    "villages",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

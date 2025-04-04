@@ -109,5 +109,30 @@
   "county": "Denbighshire",
   "region": null,
   "state": "Cymru / Wales",
-  "country": "United Kingdom"
+  "country": "United Kingdom",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "mountain",
+    "moor"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "flora",
+    "fauna"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "canal",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

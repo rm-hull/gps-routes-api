@@ -105,5 +105,25 @@
   "display_address": "Rhinefield Ornamental Drive, Brockenhurst, New Forest, Hampshire, England, SO42 7QB, United Kingdom",
   "postcode": "SO42 7QB",
   "district": "New Forest",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "path"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

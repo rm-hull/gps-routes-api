@@ -100,5 +100,25 @@
   "display_address": "Killhorse Lane, Ludford, Burrington, Herefordshire, England, SY8 2HF, United Kingdom",
   "postcode": "SY8 2HF",
   "district": "Burrington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "hard",
+  "terrain": [
+    "woodland",
+    "hill"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "parkland"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

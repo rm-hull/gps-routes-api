@@ -174,5 +174,29 @@
   "nominatim_found": true,
   "display_address": "Albert Terrace, Saltaire, Shipley, Saltaire, Bradford, West Yorkshire, England, BD18 4PR, United Kingdom",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 days",
+  "difficulty": "hard",
+  "terrain": [
+    "moorland",
+    "woodland",
+    "mountain",
+    "riverside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "waterfalls",
+    "national park"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center",
+    "wheelchair accessible"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

@@ -98,5 +98,26 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Chapel Hill, Middle Town, Skipton, North Yorkshire, York and North Yorkshire, England, BD23 1AW, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "pasture",
+    "canal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views",
+    "countryside"
+  ],
+  "facilities": [
+    "car park",
+    "waterfront"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

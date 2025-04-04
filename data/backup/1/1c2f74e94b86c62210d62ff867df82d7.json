@@ -143,5 +143,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Mill Street, Catmose, Oakham, Rutland, England, LE15 6EA, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "waterfront",
+    "rural"
+  ],
+  "points_of_interest": [
+    "birdwatching",
+    "walking trails",
+    "cycle routes"
+  ],
+  "facilities": [
+    "cycle hire",
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

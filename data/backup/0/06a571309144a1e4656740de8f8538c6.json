@@ -94,5 +94,28 @@
   "postcode": "WA14 4TJ",
   "district": "Manchester",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "park",
+    "canal",
+    "water"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "gardens",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "canal access",
+    "dog friendly"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "bird watching"
+  ]
 }

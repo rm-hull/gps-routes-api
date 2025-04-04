@@ -108,5 +108,27 @@
   "display_address": "Red/Blue, Abbots Leigh, North Somerset, England, BS8 3QB, United Kingdom",
   "postcode": "BS8 3QB",
   "district": "Abbots Leigh",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 miles",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river"
+  ],
+  "points_of_interest": [
+    "sculpture trails",
+    "views",
+    "wildlife"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible",
+    "parking"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

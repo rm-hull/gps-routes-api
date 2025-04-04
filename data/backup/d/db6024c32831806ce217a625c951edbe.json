@@ -129,5 +129,25 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Booze Road, Langthwaite, Arkengarthdale, North Yorkshire, York and North Yorkshire, England, DL11 6RE, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "water",
+    "rural"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "views"
+  ],
+  "facilities": [
+    "car park",
+    "pub/cafe",
+    "outdoor seating"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking"
+  ]
 }

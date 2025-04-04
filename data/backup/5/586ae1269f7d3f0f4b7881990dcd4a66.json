@@ -93,5 +93,28 @@
   "nominatim_found": true,
   "display_address": "1, Horse Lane, Monyash CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1HN, United Kingdom",
   "postcode": "DE45 1HN",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "woodland",
+    "river",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints",
+    "wildflower meadows",
+    "Neolithic monument"
+  ],
+  "facilities": [
+    "pub/cafe",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

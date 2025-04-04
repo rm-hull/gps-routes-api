@@ -97,5 +97,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Manzel, Colleyland, Chorleywood, Three Rivers, Hertfordshire, England, WD3 5LL, United Kingdom",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "river",
+    "country"
+  ],
+  "points_of_interest": [
+    "gardens",
+    "sculptures",
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

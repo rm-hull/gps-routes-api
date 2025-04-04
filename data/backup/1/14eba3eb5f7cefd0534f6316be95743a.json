@@ -108,5 +108,28 @@
   "display_address": "Meon Road, Hill Head, Stubbington, Fareham, Hampshire, England, PO14 3JT, United Kingdom",
   "postcode": "PO14 3JT",
   "district": "Stubbington",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "river",
+    "coastal",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "wildlife observation",
+    "nature reserve"
+  ],
+  "facilities": [
+    "visitor center",
+    "tea room",
+    "car park",
+    "hides"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

@@ -58,5 +58,22 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Harbour Row, Isle of Whithorn, Dumfries and Galloway, Alba / Scotland, DG8 8LL, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "easy",
+  "terrain": [
+    "coastal"
+  ],
+  "points_of_interest": [
+    "historical sites",
+    "viewpoints"
+  ],
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

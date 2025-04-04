@@ -103,5 +103,27 @@
   "display_address": "Spring Lane, Lambley, Arnold, Gedling, Nottinghamshire, East Midlands, England, NG3 5XB, United Kingdom",
   "postcode": "NG3 5XB",
   "district": "Gedling",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "lake",
+    "countryside"
+  ],
+  "points_of_interest": [
+    "viewpoints",
+    "birdwatching"
+  ],
+  "facilities": [
+    "car park",
+    "picnic tables",
+    "food facilities"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "cycling",
+    "walking"
+  ]
 }

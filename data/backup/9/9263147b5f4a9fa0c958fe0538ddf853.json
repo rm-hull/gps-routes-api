@@ -60,5 +60,27 @@
   "gazetteer_found": true,
   "nominatim_found": true,
   "display_address": "Puck's Hut, Redwood tree alley, Benmore, Argyll and Bute, Alba / Scotland, PA23 8QX, United Kingdom",
-  "state": "Alba / Scotland"
+  "state": "Alba / Scotland",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
+  "terrain": [
+    "woodland",
+    "waterfront",
+    "forest"
+  ],
+  "points_of_interest": [
+    "views",
+    "lochs",
+    "burns",
+    "waterfalls"
+  ],
+  "facilities": [
+    "car park",
+    "visitor center"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking"
+  ]
 }

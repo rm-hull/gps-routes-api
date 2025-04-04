@@ -133,5 +133,29 @@
   "postcode": "S26 5RN",
   "district": "Rotherham",
   "county": null,
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
+  "terrain": [
+    "lake",
+    "woodland",
+    "parkland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "sculpture trail",
+    "historical ruins",
+    "waterside trails"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park",
+    "wheelchair accessible"
+  ],
+  "route_type": "circular",
+  "activities": [
+    "walking",
+    "cycling"
+  ]
 }

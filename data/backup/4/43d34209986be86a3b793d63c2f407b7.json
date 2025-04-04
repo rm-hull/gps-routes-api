@@ -70,5 +70,27 @@
   "display_address": "Grasslands Parking, Adbolton Lane, Holme Pierrepont, West Bridgford, Rushcliffe, Nottinghamshire, East Midlands, England, NG12 2LU, United Kingdom",
   "postcode": "NG12 2LU",
   "district": "Rushcliffe",
-  "state": "England"
+  "state": "England",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "easy",
+  "terrain": [
+    "lakeside",
+    "woodland"
+  ],
+  "points_of_interest": [
+    "nature reserve",
+    "walking route"
+  ],
+  "facilities": [
+    "bike hire",
+    "car park",
+    "watersports"
+  ],
+  "route_type": "out and back",
+  "activities": [
+    "walking",
+    "cycling",
+    "watersports"
+  ]
 }
