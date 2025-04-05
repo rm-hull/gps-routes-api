@@ -275,11 +275,11 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 		SELECT
 			object_id, ref,
 			CASE
-				WHEN LENGTH(title) > 50 THEN SUBSTRING(title, 1, 47) || '...'
+				WHEN LENGTH(title) > 50 THEN SUBSTRING(title, 1, 49) || '…'
 				ELSE title
 			END AS title,
 			CASE
-				WHEN LENGTH(description) > 150 THEN SUBSTRING(description, 1, 147) || '...'
+				WHEN LENGTH(description) > 150 THEN SUBSTRING(description, 1, 149) || '…'
 				ELSE description
 			END AS description,
 			headline_image_url,
@@ -306,7 +306,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 	}
 	defer rows.Close()
 
-	var results []model.RouteSummary
+	results  := make([]model.RouteSummary, 0, criteria.Limit)
 	var summary model.RouteSummary
 	var latitude, longitude float64
 
