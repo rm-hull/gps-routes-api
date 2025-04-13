@@ -2,43 +2,56 @@ package services
 
 import (
 	"context"
+	"fmt"
 	"time"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/domain"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	repo "github.com/rm-hull/gps-routes-api/repositories"
+	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
 type RoutesService interface {
-	GetRouteByID(objectID string) (*model.RouteMetadata, error)
-	Search(criteria *model.SearchRequest) (*model.SearchResults, error)
+	GetRouteByID(objectID string) (*domain.RouteMetadata, error)
+	Search(criteria *request.SearchRequest) (*domain.SearchResults, error)
 }
 
 type RoutesServiceImpl struct {
-	Repository repo.DbRepository
+	repository    repo.DbRepository
+	namesApi      osdatahub.NamesApi
+	searchTimeout time.Duration
 }
 
-func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*model.RouteMetadata, error) {
+func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*domain.RouteMetadata, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Second)
 	defer cancel()
-	return service.Repository.FindByObjectID(ctx, objectID)
+	return service.repository.FindByObjectID(ctx, objectID)
 }
 
-func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.SearchResults, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 500*time.Second)
+type facet struct {
+	Name   string
+	Values map[string]int64
+}
+
+func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*domain.SearchResults, error) {
+	ctx, cancel := context.WithTimeout(context.Background(), service.searchTimeout)
 	defer cancel()
 
-	type Facet struct {
-		Name   string
-		Values map[string]int64
+	if criteria.Nearby != nil && criteria.Nearby.Place != "" && criteria.Nearby.Center == nil {
+		result, err := service.namesApi.Find(ctx, criteria.Nearby.Place)
+		if err != nil {
+			return nil, fmt.Errorf("error fetching from osdatahub Names API: %w", err)
+		}
+		criteria.Nearby.Center = osdatahub.ToWSG84(result)
 	}
 
 	totalChan := make(chan int64, 1)
-	resultsChan := make(chan []model.RouteSummary, 1)
-	facetsChan := make(chan Facet, 5)
+	resultsChan := make(chan []domain.RouteSummary, 1)
+	facetsChan := make(chan facet, 5)
 	errorChan := make(chan error, 2)
 
 	fetchCounts := func() {
-		total, err := service.Repository.CountAll(ctx, criteria)
+		total, err := service.repository.CountAll(ctx, criteria)
 		if err != nil {
 			errorChan <- err
 			return
@@ -47,7 +60,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	}
 
 	fetchResults := func() {
-		results, err := service.Repository.SearchHits(ctx, criteria)
+		results, err := service.repository.SearchHits(ctx, criteria)
 		if err != nil {
 			errorChan <- err
 			return
@@ -56,12 +69,12 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	}
 
 	fetchFacet := func(fieldName string, limit int32, unnest bool, excludeFacets ...string) {
-		results, err := service.Repository.FacetCounts(ctx, criteria, fieldName, limit, unnest, excludeFacets...)
+		results, err := service.repository.FacetCounts(ctx, criteria, fieldName, limit, unnest, excludeFacets...)
 		if err != nil {
 			errorChan <- err
 		}
 
-		facetsChan <- Facet{Name: fieldName, Values: *results}
+		facetsChan <- facet{Name: fieldName, Values: *results}
 	}
 
 	go fetchResults()
@@ -80,7 +93,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	go fetchFacet("points_of_interest", 50, true, "points_of_interest")
 
 	var total int64
-	var results []model.RouteSummary
+	var results []domain.RouteSummary
 
 	facets := make(map[string]map[string]int64, 0)
 	remaining := 14
@@ -101,7 +114,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 		}
 	}
 
-	return &model.SearchResults{
+	return &domain.SearchResults{
 		Hits:   results,
 		Total:  total,
 		Facets: facets,
@@ -115,6 +128,10 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	}, nil
 }
 
-func NewRoutesService(repo repo.DbRepository) *RoutesServiceImpl {
-	return &RoutesServiceImpl{Repository: repo}
+func NewRoutesService(repo repo.DbRepository, namesApi osdatahub.NamesApi) *RoutesServiceImpl {
+	return &RoutesServiceImpl{
+		repository:    repo,
+		namesApi:      namesApi,
+		searchTimeout: 10 * time.Second, // TODO: Consider changing to configurable options
+	}
 }

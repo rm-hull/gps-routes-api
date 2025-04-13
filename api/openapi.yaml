@@ -261,7 +261,7 @@ components:
         objectID: 0a0cafcd50f17284dc578271968f8341
         estimated_duration: 1.5 - 2.5 hours
         difficulty: easy
-        terrain: 
+        terrain:
           - woodland
           - wetland
           - grassland
@@ -373,8 +373,8 @@ components:
         limit:
           type: integer
         boundingBox:
-          description: "the bounding box with bottom-left lng/lat, followed by top-right\
-            \ lng/lat"
+          description: |
+           the bounding box with bottom-left lng/lat, followed by top-right lng/lat"
           example:
           - -2.945623397827149
           - 54.43847718997843
@@ -383,6 +383,30 @@ components:
           items:
             type: float64
           type: array
+        nearby:
+          description: |
+            one of `place` or `center` should be provided. If both are supplied,
+            `center` will take precedence"
+          type: object
+          properties:
+            required:
+              - distanceKm
+            place:
+              description: |
+                somewhere (city, postcode, waterfall, other geo-locations) to search nearby for
+              type: string
+            distanceKm:
+              type: number
+            center:
+              type: object
+              properties:
+                lat:
+                  type: number
+                lng:
+                  type: number
+              required:
+                - lat
+                - lng
         facets:
           additionalProperties:
             items:

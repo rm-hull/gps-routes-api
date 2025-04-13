@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/rm-hull/gps-routes-api/db"
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/domain"
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/schollz/progressbar/v3"
 )
@@ -39,8 +39,8 @@ func walkFiles(root string, maxFiles int) ([]string, error) {
 	return files, nil
 }
 
-func loadJson(filename string) (*model.RouteMetadata, error) {
-	var metadata model.RouteMetadata
+func loadJson(filename string) (*domain.RouteMetadata, error) {
+	var metadata domain.RouteMetadata
 
 	// Read the file content.
 	fileContent, err := os.ReadFile(filename)
