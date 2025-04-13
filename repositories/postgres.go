@@ -3,6 +3,7 @@ package repositories
 import (
 	"context"
 	"fmt"
+	"log"
 
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
@@ -101,7 +102,7 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *domain.Route
 	results := repo.pool.SendBatch(ctx, batch)
 	defer func() {
 		if err := results.Close(); err != nil {
-			fmt.Printf("Error closing batch results: %v\n", err)
+			log.Printf("Error closing batch results: %v", err)
 		}
 	}()
 

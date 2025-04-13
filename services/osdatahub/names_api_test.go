@@ -27,7 +27,7 @@ func TestFind_Success(t *testing.T) {
 		assert.Equal(t, "London", r.URL.Query().Get("query"))
 		assert.Equal(t, "test-api-key", r.URL.Query().Get("key"))
 		w.WriteHeader(http.StatusOK)
-		w.Write([]byte(`{
+		_, err := w.Write([]byte(`{
 			"header": {
 				"uri": "https://api.os.uk/search/names/v1/find?query=London",
 				"query": "London",
@@ -50,7 +50,11 @@ func TestFind_Success(t *testing.T) {
 				}
 			]
 		}`))
+		if err != nil {
+			t.Fatalf("Failed to write response: %v", err)
+		}
 	}))
+
 	defer server.Close()
 	api := NewNamesApi(nil, server.URL, "test-api-key")
 	result, err := api.Find(t.Context(), "London")
@@ -67,7 +71,7 @@ func TestFind_NoResults(t *testing.T) {
 		assert.Equal(t, "/find", r.URL.Path)
 
 		w.WriteHeader(http.StatusOK)
-		w.Write([]byte(`{
+		_, err := w.Write([]byte(`{
 			"header": {
 				"uri": "https://api.os.uk/search/names/v1/find?query=NonExistentPlace",
 				"query": "NonExistentPlace",
@@ -78,6 +82,9 @@ func TestFind_NoResults(t *testing.T) {
 			},
 			"results": []
 		}`))
+		if err != nil {
+			t.Fatalf("Failed to write response: %v", err)
+		}
 	}))
 	defer server.Close()
 	api := NewNamesApi(nil, server.URL, "test-api-key")
@@ -91,7 +98,7 @@ func TestFind_Error(t *testing.T) {
 		assert.Equal(t, "/find", r.URL.Path)
 
 		w.WriteHeader(http.StatusUnauthorized)
-		w.Write([]byte(`{
+		_, err := w.Write([]byte(`{
 			"fault": {
 				"faultstring": "Invalid API key",
 				"detail": {
@@ -99,6 +106,9 @@ func TestFind_Error(t *testing.T) {
 				}
 			}
 		}`))
+		if err != nil {
+			t.Fatalf("Failed to write response: %v", err)
+		}
 	}))
 	defer server.Close()
 	api := NewNamesApi(nil, server.URL, "invalid-api-key")
@@ -113,7 +123,10 @@ func TestFind_InvalidJSON(t *testing.T) {
 		assert.Equal(t, "/find", r.URL.Path)
 
 		w.WriteHeader(http.StatusOK)
-		w.Write([]byte(`invalid json response`))
+		_, err := w.Write([]byte(`invalid json response`))
+		if err != nil {
+			t.Fatalf("Failed to write response: %v", err)
+		}
 	}))
 	defer server.Close()
 	api := NewNamesApi(nil, server.URL, "test-api-key")
@@ -128,7 +141,7 @@ func TestFind_ErrorResponse(t *testing.T) {
 		assert.Equal(t, "/find", r.URL.Path)
 
 		w.WriteHeader(http.StatusInternalServerError)
-		w.Write([]byte(`{
+		_, err := w.Write([]byte(`{
 			"fault": {
 				"faultstring": "Internal server error",
 				"detail": {
@@ -136,6 +149,9 @@ func TestFind_ErrorResponse(t *testing.T) {
 				}
 			}
 		}`))
+		if err != nil {
+			t.Fatalf("Failed to write response: %v", err)
+		}
 	}))
 	defer server.Close()
 	api := NewNamesApi(nil, server.URL, "test-api-key")
