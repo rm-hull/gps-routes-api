@@ -42,9 +42,7 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 		if err != nil {
 			return nil, fmt.Errorf("error fetching from osdatahub Names API: %w", err)
 		}
-		if result != nil {
-			criteria.Nearby.Center = osdatahub.ToWSG84(result)
-		}
+		criteria.Nearby.Center = osdatahub.ToWSG84(result)
 	}
 
 	totalChan := make(chan int64, 1)

@@ -1,12 +1,12 @@
 package db
 
 import (
-	"reflect"
 	"testing"
 
 	"github.com/lib/pq"
 	"github.com/rm-hull/gps-routes-api/models/common"
 	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/stretchr/testify/assert"
 )
 
 type Result struct {
@@ -66,7 +66,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 			}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE ST_DWithin(ST_Transform(_geoloc, 3857), ST_Transform(ST_SetSRID(ST_Point($1, $2), 4326), 3857), $3)",
-				params: []interface{}{5.678, 1.234, 20000.0},
+				params: []interface{}{5.678, 1.234, int32(20000)},
 			},
 		},
 		{
@@ -170,14 +170,10 @@ func TestQueryBuilder_Build(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-
 			sql, params := tt.qb.Build()
-			if sql != tt.want.sql {
-				t.Errorf("QueryBuilder.Build() got = %v, want %v", sql, tt.want.sql)
-			}
-			if !reflect.DeepEqual(params, tt.want.params) {
-				t.Errorf("QueryBuilder.Build() got1 = %v, want %v", params, tt.want.params)
-			}
+
+			assert.Equal(t, tt.want.sql, sql)
+			assert.Equal(t, tt.want.params, params)
 		})
 	}
 }

@@ -158,8 +158,6 @@ func (service *NamesApiImpl) fetch(ctx context.Context, name string) (*Result, e
 	if payload.Header.TotalResults == 0 {
 		return nil, nil
 	}
-	latLng := ToWSG84(&payload.Results[0])
-	fmt.Printf("latLng: %v", latLng)
 
 	return &payload.Results[0], nil
 }
