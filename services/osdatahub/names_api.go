@@ -1,6 +1,7 @@
 package osdatahub
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -8,6 +9,7 @@ import (
 	"time"
 
 	"github.com/Depado/ginprom"
+	"github.com/kofalt/go-memoize"
 )
 
 type Payload struct {
@@ -68,31 +70,52 @@ type GazetteerEntry struct {
 }
 
 type NamesApi interface {
-	Find(name string) (*Result, error)
+	Find(ctx context.Context, name string) (*Result, error)
 }
 
 type NamesApiImpl struct {
 	baseUrl    string
 	apiKey     string
 	prometheus *ginprom.Prometheus
+	cache      *memoize.Memoizer
 }
 
 func NewNamesApi(prometheus *ginprom.Prometheus, baseUrl string, apiKey string) *NamesApiImpl {
 	if prometheus != nil {
-		prometheus.AddCustomCounter("os_names_api_call_count", "Number of calls to OS Names API", []string{})
+		prometheus.AddCustomCounter("names_api_cache_stats_total", "Number of calls to OS Names API cache statistics (hits & misses)", []string{"type"})
+		prometheus.AddCustomGauge("names_api_cache_size", "OS Names cache size (number of items)", []string{})
 	}
 
 	return &NamesApiImpl{
 		baseUrl:    baseUrl,
 		apiKey:     apiKey,
 		prometheus: prometheus,
+		cache:      memoize.NewMemoizer(8*time.Hour, 24*time.Hour),
 	}
 }
 
-func (service *NamesApiImpl) Find(name string) (*Result, error) {
-	client := &http.Client{Timeout: 3 * time.Second}
+func (service *NamesApiImpl) Find(ctx context.Context, name string) (*Result, error) {
+	result, err, cached := memoize.Call(service.cache, name, func() (*Result, error) {
+		return service.fetch(ctx, name)
+	})
+	service.updateMetrics(cached)
+	return result, err
+}
 
-	req, err := http.NewRequest("GET", service.baseUrl+"/find", nil)
+func (service *NamesApiImpl) updateMetrics(cached bool) {
+	if service.prometheus != nil {
+		service.prometheus.SetGaugeValue("names_api_cache_size", []string{}, float64(service.cache.Storage.ItemCount())) //nolint:errcheck
+		if cached {
+			service.prometheus.IncrementCounterValue("names_api_cache_stats_total", []string{"hit"}) //nolint:errcheck
+		} else {
+			service.prometheus.IncrementCounterValue("names_api_cache_stats_total", []string{"miss"}) //nolint:errcheck
+		}
+	}
+}
+
+func (service *NamesApiImpl) fetch(ctx context.Context, name string) (*Result, error) {
+
+	req, err := http.NewRequestWithContext(ctx, "GET", service.baseUrl+"/find", nil)
 	if err != nil {
 		return nil, fmt.Errorf("error creating request: %w", err)
 	}
@@ -104,6 +127,7 @@ func (service *NamesApiImpl) Find(name string) (*Result, error) {
 	q.Add("key", service.apiKey)
 	req.URL.RawQuery = q.Encode()
 
+	client := &http.Client{}
 	resp, err := client.Do(req)
 	if err != nil {
 		return nil, fmt.Errorf("error making request: %w", err)
@@ -129,10 +153,6 @@ func (service *NamesApiImpl) Find(name string) (*Result, error) {
 	err = json.Unmarshal(body, &payload)
 	if err != nil {
 		return nil, fmt.Errorf("error parsing JSON: %w", err)
-	}
-
-	if service.prometheus != nil {
-		service.prometheus.IncrementCounterValue("os_names_api_call_count", []string{}) //nolint:errcheck
 	}
 
 	if payload.Header.TotalResults == 0 {

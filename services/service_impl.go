@@ -32,11 +32,11 @@ type facet struct {
 }
 
 func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.SearchResults, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 500*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
 	if criteria.Nearby != nil && criteria.Nearby.Place != "" && criteria.Nearby.Center == nil {
-		result, err := service.namesApi.Find(criteria.Nearby.Place)
+		result, err := service.namesApi.Find(ctx, criteria.Nearby.Place)
 		if err != nil {
 			return nil, fmt.Errorf("error fetching from osdatahub Names API: %w", err)
 		}
