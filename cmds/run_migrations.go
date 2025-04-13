@@ -24,7 +24,11 @@ func RunMigration(direction string, migrationsPath string) {
 	defer pool.Close()
 
 	db := stdlib.OpenDB(*pool.Config().ConnConfig)
-	defer db.Close()
+	defer func() {
+		if err := db.Close(); err != nil {
+			log.Printf("failed to close database connection: %v", err)
+		}
+	}()
 
 	// Create the migrate instance
 	driver, err := postgres.WithInstance(db, &postgres.Config{

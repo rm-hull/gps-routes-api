@@ -7,9 +7,9 @@ import (
 	"os"
 	"time"
 
-	"github.com/ikeikeikeike/go-sitemap-generator/stm"
+	"github.com/ikeikeikeike/go-sitemap-generator/v2/stm"
 	"github.com/rm-hull/gps-routes-api/db"
-	openapi "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/schollz/progressbar/v3"
 )
@@ -24,11 +24,11 @@ func GenerateSitemap(host string) {
 	defer pool.Close()
 
 	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	routes, err := pg.SearchHits(ctx, &openapi.SearchRequest{Limit: 1_000_000})
+	routes, err := pg.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
 	if err != nil {
 		log.Fatalf("Failed to get routes: %v", err)
 	}
-	sm := stm.NewSitemap()
+	sm := stm.NewSitemap(1)
 	sm.SetDefaultHost(host)
 	sm.SetPretty(true)
 	sm.SetCompress(true)
@@ -38,14 +38,16 @@ func GenerateSitemap(host string) {
 	bar := progressbar.Default(int64(len(*routes)))
 	for _, route := range *routes {
 		url := stm.URL{
-			"loc":     url.QueryEscape(route.Ref),
-			"lastmod": now,
+			{"loc", url.QueryEscape(route.Ref)},
+			{"lastmod", now},
 		}
 
 		if route.HeadlineImageUrl != nil {
-			url["image"] = []stm.URL{{
-				"loc": *route.HeadlineImageUrl,
-			}}
+			url = append(url, stm.URL{
+				{"image", stm.URL{
+					{"loc", *route.HeadlineImageUrl},
+				}},
+			}...)
 		}
 		sm.Add(url)
 		if err := bar.Add(1); err != nil {
@@ -58,7 +60,11 @@ func GenerateSitemap(host string) {
 	if err != nil {
 		log.Fatalf("failed to create sitemap file: %v", err)
 	}
-	defer f.Close()
+	defer func() {
+		if err := f.Close(); err != nil {
+			log.Printf("failed to close sitemap file: %v", err)
+		}
+	}()
 
 	if _, err := f.Write(sm.XMLContent()); err != nil {
 		log.Fatalf("failed to write sitemap: %v", err)

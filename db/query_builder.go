@@ -5,12 +5,12 @@ import (
 	"strings"
 
 	"github.com/lib/pq"
-	
-	model "github.com/rm-hull/gps-routes-api/go"
+
+	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 type QueryBuilder struct {
-	criteria       *model.SearchRequest
+	criteria       *request.SearchRequest
 	selectPart     string
 	whereClauses   []string
 	excludedFacets map[string]struct{}
@@ -22,7 +22,7 @@ type QueryBuilder struct {
 	offset         string
 }
 
-func NewQueryBuilder(selectPart string, criteria *model.SearchRequest) *QueryBuilder {
+func NewQueryBuilder(selectPart string, criteria *request.SearchRequest) *QueryBuilder {
 	qb := &QueryBuilder{
 		selectPart: selectPart,
 		criteria:   criteria,
@@ -37,12 +37,12 @@ func (qb *QueryBuilder) WithWhereClause(whereClause string) *QueryBuilder {
 	return qb
 }
 
-func (qb *QueryBuilder) WithOrderBy(fieldName string) *QueryBuilder {
+func (qb *QueryBuilder) WithOrderBy(orderByClause string) *QueryBuilder {
 	if qb.orderBy != "" {
 		panic("unexpected: orderBy value already set")
 	}
 
-	qb.orderBy = fmt.Sprintf("ORDER BY %s DESC", fieldName)
+	qb.orderBy = fmt.Sprintf("ORDER BY %s", orderByClause)
 	return qb
 }
 
@@ -111,15 +111,18 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
-	return fmt.Sprintf(
-		"%s %s %s %s %s %s",
-		qb.selectPart,
-		whereClause,
-		qb.groupBy,
-		qb.orderBy,
-		qb.offset,
-		qb.limit,
-	), qb.params
+	filteredParts := removeEmptyStrings([]string{qb.selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit})
+	return strings.Join(filteredParts, " "), qb.params
+}
+
+func removeEmptyStrings(slice []string) []string {
+	var result []string
+	for _, str := range slice {
+		if str != "" {
+			result = append(result, str)
+		}
+	}
+	return result
 }
 
 // split the query into words and suffix each word with ':*' to allow prefix matching, then join them with '&'
@@ -144,6 +147,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 		for _, value := range qb.criteria.BoundingBox {
 			qb.params = append(qb.params, value)
 		}
+	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
+		offsetPlaceholder := len(qb.params) + 1
+		qb.WithWhereClause(fmt.Sprintf("ST_DWithin(ST_Transform(_geoloc, 3857), ST_Transform(ST_SetSRID(ST_Point($%d, $%d), 4326), 3857), $%d)", offsetPlaceholder, offsetPlaceholder+1, offsetPlaceholder+2))
+		qb.params = append(qb.params, qb.criteria.Nearby.Center.Longitude)
+		qb.params = append(qb.params, qb.criteria.Nearby.Center.Latitude)
+		qb.params = append(qb.params, qb.criteria.Nearby.DistanceKm*1000)
 	}
 
 	return qb

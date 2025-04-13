@@ -12,6 +12,13 @@ import (
 	"github.com/testcontainers/testcontainers-go/wait"
 )
 
+func setEnv(key, value string) error {
+	if err := os.Setenv(key, value); err != nil {
+		return fmt.Errorf("failed to set environment variable %s: %w", key, err)
+	}
+	return nil
+}
+
 func setupPostgresContainer(ctx context.Context) (testcontainers.Container, error) {
 
 	req := testcontainers.ContainerRequest{
@@ -47,12 +54,24 @@ func setupPostgresContainer(ctx context.Context) (testcontainers.Container, erro
 	fmt.Printf("PostGIS container ID: %s started on %s:%s\n", pgContainer.GetContainerID(), host, pgPort.Port())
 
 	// Set the environment variables expected by db.ConfigFromEnv()
-	os.Setenv("PGHOST", host)
-	os.Setenv("PGPORT", pgPort.Port())
-	os.Setenv("PGUSER", "postgres")
-	os.Setenv("PGPASSWORD", "secret")
-	os.Setenv("PGDATABASE", "testdb")
-	os.Setenv("PGSCHEMA", "public")
+	if err := setEnv("PGHOST", host); err != nil {
+		return nil, err
+	}
+	if err := setEnv("PGPORT", pgPort.Port()); err != nil {
+		return nil, err
+	}
+	if err := setEnv("PGUSER", "postgres"); err != nil {
+		return nil, err
+	}
+	if err := setEnv("PGPASSWORD", "secret"); err != nil {
+		return nil, err
+	}
+	if err := setEnv("PGDATABASE", "testdb"); err != nil {
+		return nil, err
+	}
+	if err := setEnv("PGSCHEMA", "public"); err != nil {
+		return nil, err
+	}
 
 	cmds.RunMigration("up", "../db/migrations")
 

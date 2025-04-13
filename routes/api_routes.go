@@ -15,7 +15,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	svc "github.com/rm-hull/gps-routes-api/services"
 )
 
@@ -63,7 +63,7 @@ func isValidFacetField(facetField string) bool {
 // Post /v1/gps-routes/search
 // Search for routes according to various criteria
 func (api *RoutesAPI) Search(c *gin.Context) {
-	var payload model.SearchRequest
+	var payload request.SearchRequest
 	err := c.ShouldBind(&payload)
 	if err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})
@@ -82,6 +82,11 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 
 	if payload.Offset < 0 || payload.Offset > 100_000 {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "offset is out of range - allowed values: 0..100_000"})
+		return
+	}
+
+	if payload.BoundingBox != nil && payload.Nearby != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "cannot specify both bounding box and nearby attributes in same request"})
 		return
 	}
 
