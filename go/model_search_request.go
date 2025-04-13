@@ -23,4 +23,10 @@ type SearchRequest struct {
 
 	// Filtering by facet values
 	Facets map[string][]string `json:"facets,omitempty"`
+
+	Nearby *struct {
+		Place      string  `json:"place"`
+		Center     *GeoLoc `json:"center,omitempty"`
+		DistanceKm int32   `json:"distanceKm"`
+	} `json:"nearby,omitempty"`
 }

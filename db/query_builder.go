@@ -37,12 +37,12 @@ func (qb *QueryBuilder) WithWhereClause(whereClause string) *QueryBuilder {
 	return qb
 }
 
-func (qb *QueryBuilder) WithOrderBy(fieldName string) *QueryBuilder {
+func (qb *QueryBuilder) WithOrderBy(orderByClause string) *QueryBuilder {
 	if qb.orderBy != "" {
 		panic("unexpected: orderBy value already set")
 	}
 
-	qb.orderBy = fmt.Sprintf("ORDER BY %s DESC", fieldName)
+	qb.orderBy = fmt.Sprintf("ORDER BY %s", orderByClause)
 	return qb
 }
 
@@ -147,6 +147,12 @@ func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 		for _, value := range qb.criteria.BoundingBox {
 			qb.params = append(qb.params, value)
 		}
+	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
+		offsetPlaceholder := len(qb.params) + 1
+		qb.WithWhereClause(fmt.Sprintf("ST_DWithin(ST_Transform(_geoloc, 3857), ST_Transform(ST_SetSRID(ST_Point($%d, $%d), 4326), 3857), $%d)", offsetPlaceholder, offsetPlaceholder+1, offsetPlaceholder+2))
+		qb.params = append(qb.params, qb.criteria.Nearby.Center.Longitude)
+		qb.params = append(qb.params, qb.criteria.Nearby.Center.Latitude)
+		qb.params = append(qb.params, qb.criteria.Nearby.DistanceKm*1000)
 	}
 
 	return qb

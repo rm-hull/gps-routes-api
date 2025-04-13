@@ -85,6 +85,11 @@ func (api *RoutesAPI) Search(c *gin.Context) {
 		return
 	}
 
+	if payload.BoundingBox != nil && payload.Nearby != nil {
+		c.JSON(http.StatusBadRequest, gin.H{"error": "cannot specify both bounding box and nearby attributes in same request"})
+		return
+	}
+
 	for facetField := range payload.Facets {
 		if !isValidFacetField(facetField) {
 			c.JSON(http.StatusBadRequest, gin.H{"error": fmt.Sprintf("invalid facet: %s", facetField)})

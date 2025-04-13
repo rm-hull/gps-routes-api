@@ -27,6 +27,7 @@ import (
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/rm-hull/gps-routes-api/routes"
 	"github.com/rm-hull/gps-routes-api/services"
+	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
 func NewHttpServer() {
@@ -97,9 +98,10 @@ func NewHttpServer() {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
 
+	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
 	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
 	repo := repositories.NewCachedRepository(prometheus, pg)
-	service := services.NewRoutesService(repo)
+	service := services.NewRoutesService(repo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{

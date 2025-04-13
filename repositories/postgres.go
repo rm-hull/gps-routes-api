@@ -244,7 +244,7 @@ func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *mod
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
 		WithExcludeFacets(excludeFacets...).
 		WithGroupBy("key").
-		WithOrderBy("value").
+		WithOrderBy("value DESC").
 		WithLimit(limit).
 		Build()
 
@@ -288,9 +288,12 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 			distance_km
 		FROM routes`
 
-	sortField := "created_at"
+	sortField := "created_at DESC"
+	// if criteria.Nearby != nil && criteria.Nearby.Center != nil {
+	// 	sortField = fmt.Sprintf("_geoloc <-> ST_Point(%f, %f)", criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude)
+	// } else
 	if criteria.Query != "" {
-		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32)"
+		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32) DESC"
 	}
 
 	query, params := db.NewQueryBuilder(selectPart, criteria).
@@ -306,7 +309,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 	}
 	defer rows.Close()
 
-	results  := make([]model.RouteSummary, 0, criteria.Limit)
+	results := make([]model.RouteSummary, 0, criteria.Limit)
 	var summary model.RouteSummary
 	var latitude, longitude float64
 

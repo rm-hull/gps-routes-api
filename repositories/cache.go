@@ -56,6 +56,7 @@ func (repo *CachedDbRepository) CountAll(ctx context.Context, criteria *openapi.
 		"query":       criteria.Query,
 		"boundingBox": criteria.BoundingBox,
 		"facets":      criteria.Facets,
+		"nearby":      criteria.Nearby,
 	})
 	if err != nil {
 		return 0, fmt.Errorf("failed to create cache key: %v", err)
@@ -73,6 +74,7 @@ func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *opena
 		"query":       criteria.Query,
 		"boundingBox": criteria.BoundingBox,
 		"facets":      criteria.Facets,
+		"nearby":      criteria.Nearby,
 		"field":       facetField,
 		"limit":       limit,
 	})
