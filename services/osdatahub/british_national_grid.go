@@ -13,7 +13,7 @@ func ToWSG84(result *Result) *common.GeoLoc {
 		return nil
 	}
 
-	lng, lat, _ := bng.To(epsg).Round(10)(
+	lng, lat, _ := bng.To(epsg)(
 		result.GazetteerEntry.GeometryX,
 		result.GazetteerEntry.GeometryY,
 		0,

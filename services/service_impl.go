@@ -17,8 +17,9 @@ type RoutesService interface {
 }
 
 type RoutesServiceImpl struct {
-	repository repo.DbRepository
-	namesApi   osdatahub.NamesApi
+	repository    repo.DbRepository
+	namesApi      osdatahub.NamesApi
+	searchTimeout time.Duration
 }
 
 func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*domain.RouteMetadata, error) {
@@ -33,7 +34,7 @@ type facet struct {
 }
 
 func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*domain.SearchResults, error) {
-	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
+	ctx, cancel := context.WithTimeout(context.Background(), service.searchTimeout)
 	defer cancel()
 
 	if criteria.Nearby != nil && criteria.Nearby.Place != "" && criteria.Nearby.Center == nil {
@@ -130,5 +131,9 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 }
 
 func NewRoutesService(repo repo.DbRepository, namesApi osdatahub.NamesApi) *RoutesServiceImpl {
-	return &RoutesServiceImpl{repository: repo, namesApi: namesApi}
+	return &RoutesServiceImpl{
+		repository:    repo,
+		namesApi:      namesApi,
+		searchTimeout: 10 * time.Second, // TODO: Consider changing to configurable options
+	}
 }
