@@ -5,14 +5,15 @@ import (
 	"fmt"
 	"time"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/domain"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	repo "github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
 type RoutesService interface {
-	GetRouteByID(objectID string) (*model.RouteMetadata, error)
-	Search(criteria *model.SearchRequest) (*model.SearchResults, error)
+	GetRouteByID(objectID string) (*domain.RouteMetadata, error)
+	Search(criteria *request.SearchRequest) (*domain.SearchResults, error)
 }
 
 type RoutesServiceImpl struct {
@@ -20,7 +21,7 @@ type RoutesServiceImpl struct {
 	namesApi   osdatahub.NamesApi
 }
 
-func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*model.RouteMetadata, error) {
+func (service *RoutesServiceImpl) GetRouteByID(objectID string) (*domain.RouteMetadata, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 3*time.Second)
 	defer cancel()
 	return service.repository.FindByObjectID(ctx, objectID)
@@ -31,7 +32,7 @@ type facet struct {
 	Values map[string]int64
 }
 
-func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.SearchResults, error) {
+func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*domain.SearchResults, error) {
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
@@ -46,7 +47,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	}
 
 	totalChan := make(chan int64, 1)
-	resultsChan := make(chan []model.RouteSummary, 1)
+	resultsChan := make(chan []domain.RouteSummary, 1)
 	facetsChan := make(chan facet, 5)
 	errorChan := make(chan error, 2)
 
@@ -93,7 +94,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 	go fetchFacet("points_of_interest", 50, true, "points_of_interest")
 
 	var total int64
-	var results []model.RouteSummary
+	var results []domain.RouteSummary
 
 	facets := make(map[string]map[string]int64, 0)
 	remaining := 14
@@ -114,7 +115,7 @@ func (service *RoutesServiceImpl) Search(criteria *model.SearchRequest) (*model.
 		}
 	}
 
-	return &model.SearchResults{
+	return &domain.SearchResults{
 		Hits:   results,
 		Total:  total,
 		Facets: facets,

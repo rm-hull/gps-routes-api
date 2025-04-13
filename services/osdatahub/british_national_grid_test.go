@@ -3,7 +3,7 @@ package osdatahub
 import (
 	"testing"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/common"
 	"github.com/stretchr/testify/assert"
 )
 
@@ -11,7 +11,7 @@ func TestToWSG84(t *testing.T) {
 	tests := []struct {
 		name     string
 		input    *Result
-		expected *model.GeoLoc
+		expected *common.GeoLoc
 	}{
 		{
 			name: "London - Trafalgar Square",
@@ -21,8 +21,8 @@ func TestToWSG84(t *testing.T) {
 					GeometryY: 180446, // Northing
 				},
 			},
-			expected: &model.GeoLoc{
-				Latitude: 51.5079941,
+			expected: &common.GeoLoc{
+				Latitude:  51.5079941,
 				Longitude: -0.1280116,
 			},
 		},
@@ -34,8 +34,8 @@ func TestToWSG84(t *testing.T) {
 					GeometryY: 673483, // Northing
 				},
 			},
-			expected: &model.GeoLoc{
-				Latitude: 55.9485258,
+			expected: &common.GeoLoc{
+				Latitude:  55.9485258,
 				Longitude: -3.2005757,
 			},
 		},
@@ -47,8 +47,8 @@ func TestToWSG84(t *testing.T) {
 					GeometryY: 176630, // Northing
 				},
 			},
-			expected: &model.GeoLoc{
-				Latitude: 51.4826620,
+			expected: &common.GeoLoc{
+				Latitude:  51.4826620,
 				Longitude: -3.1818654,
 			},
 		},
@@ -60,8 +60,8 @@ func TestToWSG84(t *testing.T) {
 					GeometryY: 520850, // Northing
 				},
 			},
-			expected: &model.GeoLoc{
-				Latitude: 54.5192536,
+			expected: &common.GeoLoc{
+				Latitude:  54.5192536,
 				Longitude: -5.9169090,
 			},
 		},
@@ -73,8 +73,8 @@ func TestToWSG84(t *testing.T) {
 					GeometryY: 0,
 				},
 			},
-			expected: &model.GeoLoc{
-				Latitude: 49.766827,
+			expected: &common.GeoLoc{
+				Latitude:  49.766827,
 				Longitude: -7.556855,
 			},
 		},

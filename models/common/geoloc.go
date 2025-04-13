@@ -1,4 +1,4 @@
-package openapi
+package common
 
 type GeoLoc struct {
 	Latitude  float64 `json:"lat"`

@@ -6,11 +6,11 @@ import (
 
 	"github.com/lib/pq"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 type QueryBuilder struct {
-	criteria       *model.SearchRequest
+	criteria       *request.SearchRequest
 	selectPart     string
 	whereClauses   []string
 	excludedFacets map[string]struct{}
@@ -22,7 +22,7 @@ type QueryBuilder struct {
 	offset         string
 }
 
-func NewQueryBuilder(selectPart string, criteria *model.SearchRequest) *QueryBuilder {
+func NewQueryBuilder(selectPart string, criteria *request.SearchRequest) *QueryBuilder {
 	qb := &QueryBuilder{
 		selectPart: selectPart,
 		criteria:   criteria,

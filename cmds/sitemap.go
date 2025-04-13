@@ -9,7 +9,7 @@ import (
 
 	"github.com/ikeikeikeike/go-sitemap-generator/v2/stm"
 	"github.com/rm-hull/gps-routes-api/db"
-	openapi "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/schollz/progressbar/v3"
 )
@@ -24,7 +24,7 @@ func GenerateSitemap(host string) {
 	defer pool.Close()
 
 	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	routes, err := pg.SearchHits(ctx, &openapi.SearchRequest{Limit: 1_000_000})
+	routes, err := pg.SearchHits(ctx, &request.SearchRequest{Limit: 1_000_000})
 	if err != nil {
 		log.Fatalf("Failed to get routes: %v", err)
 	}

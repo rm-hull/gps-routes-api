@@ -15,7 +15,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/request"
 	svc "github.com/rm-hull/gps-routes-api/services"
 )
 
@@ -63,7 +63,7 @@ func isValidFacetField(facetField string) bool {
 // Post /v1/gps-routes/search
 // Search for routes according to various criteria
 func (api *RoutesAPI) Search(c *gin.Context) {
-	var payload model.SearchRequest
+	var payload request.SearchRequest
 	err := c.ShouldBind(&payload)
 	if err != nil {
 		c.JSON(http.StatusBadRequest, gin.H{"error": "bad payload"})

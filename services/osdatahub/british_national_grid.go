@@ -1,14 +1,14 @@
 package osdatahub
 
 import (
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/common"
 	"github.com/wroge/wgs84"
 )
 
 var epsg = wgs84.EPSG().Code(4326)
 var bng = wgs84.OSGB36NationalGrid()
 
-func ToWSG84(result *Result) *model.GeoLoc {
+func ToWSG84(result *Result) *common.GeoLoc {
 	if result == nil {
 		return nil
 	}
@@ -19,5 +19,5 @@ func ToWSG84(result *Result) *model.GeoLoc {
 		0,
 	)
 
-	return &model.GeoLoc{Latitude: lat, Longitude: lng}
+	return &common.GeoLoc{Latitude: lat, Longitude: lng}
 }

@@ -7,7 +7,9 @@ import (
 	"github.com/jackc/pgx/v5"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"github.com/rm-hull/gps-routes-api/db"
-	model "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/common"
+	"github.com/rm-hull/gps-routes-api/models/domain"
+	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 type PostgresDbRepository struct {
@@ -21,7 +23,7 @@ func NewPostgresRouteRepository(pool *pgxpool.Pool, schema string) *PostgresDbRe
 	return &PostgresDbRepository{pool: pool, schema: schema}
 }
 
-func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteMetadata) error {
+func (repo *PostgresDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {
 
 	batch := &pgx.Batch{}
 
@@ -113,7 +115,7 @@ func (repo *PostgresDbRepository) Store(ctx context.Context, route *model.RouteM
 	return nil
 }
 
-func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID string) (*model.RouteMetadata, error) {
+func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID string) (*domain.RouteMetadata, error) {
 
 	mainQuery := `
 		SELECT
@@ -127,7 +129,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 		FROM routes
 		WHERE object_id = $1`
 
-	var route model.RouteMetadata
+	var route domain.RouteMetadata
 	var latitude, longitude float64
 
 	// Execute the query and scan the result into variables.
@@ -149,7 +151,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	}
 
 	// Map the start position to the GeoLoc struct.
-	route.StartPosition = model.GeoLoc{
+	route.StartPosition = common.GeoLoc{
 		Latitude:  latitude,
 		Longitude: longitude,
 	}
@@ -167,7 +169,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	defer rows.Close()
 
 	for rows.Next() {
-		var image model.Image
+		var image domain.Image
 		if err := rows.Scan(&image.Src, &image.Title, &image.Caption); err != nil {
 			return nil, fmt.Errorf("failed to scan image: %v", err)
 		}
@@ -187,7 +189,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	defer rows.Close()
 
 	for rows.Next() {
-		var nearby model.Nearby
+		var nearby domain.Nearby
 		if err := rows.Scan(&nearby.Description, &nearby.ObjectID, &nearby.Ref); err != nil {
 			return nil, fmt.Errorf("failed to scan nearby: %v", err)
 		}
@@ -207,7 +209,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	defer rows.Close()
 
 	for rows.Next() {
-		var detail model.Detail
+		var detail domain.Detail
 		if err := rows.Scan(&detail.Subtitle, &detail.Content); err != nil {
 			return nil, fmt.Errorf("failed to scan detail: %v", err)
 		}
@@ -216,7 +218,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	return &route, nil
 }
 
-func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.SearchRequest) (int64, error) {
+func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *request.SearchRequest) (int64, error) {
 
 	var count int64
 	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).
@@ -231,7 +233,7 @@ func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *model.
 	return count, nil
 }
 
-func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *model.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
+func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *request.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	results := make(map[string]int64, 0)
 
 	format := map[bool]string{
@@ -269,7 +271,7 @@ func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *mod
 	return &results, nil
 }
 
-func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *model.SearchRequest) (*[]model.RouteSummary, error) {
+func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *request.SearchRequest) (*[]domain.RouteSummary, error) {
 
 	selectPart := `
 		SELECT
@@ -309,8 +311,8 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 	}
 	defer rows.Close()
 
-	results := make([]model.RouteSummary, 0, criteria.Limit)
-	var summary model.RouteSummary
+	results := make([]domain.RouteSummary, 0, criteria.Limit)
+	var summary domain.RouteSummary
 	var latitude, longitude float64
 
 	for rows.Next() {
@@ -322,7 +324,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *mode
 			return nil, fmt.Errorf("failed to scan summary: %v", err)
 		}
 
-		summary.StartPosition = model.GeoLoc{
+		summary.StartPosition = common.GeoLoc{
 			Latitude:  latitude,
 			Longitude: longitude,
 		}

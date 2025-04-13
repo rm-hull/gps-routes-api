@@ -9,8 +9,8 @@ import (
 
 	"github.com/Depado/ginprom"
 	"github.com/kofalt/go-memoize"
-
-	openapi "github.com/rm-hull/gps-routes-api/go"
+	"github.com/rm-hull/gps-routes-api/models/domain"
+	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 type CachedDbRepository struct {
@@ -51,7 +51,7 @@ func buildCacheKey(v interface{}) (string, error) {
 }
 
 // CountAll implements DbRepository.
-func (repo *CachedDbRepository) CountAll(ctx context.Context, criteria *openapi.SearchRequest) (int64, error) {
+func (repo *CachedDbRepository) CountAll(ctx context.Context, criteria *request.SearchRequest) (int64, error) {
 	key, err := buildCacheKey(map[string]any{
 		"query":       criteria.Query,
 		"boundingBox": criteria.BoundingBox,
@@ -69,7 +69,7 @@ func (repo *CachedDbRepository) CountAll(ctx context.Context, criteria *openapi.
 }
 
 // FacetCounts implements DbRepository.
-func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *openapi.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
+func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *request.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	key, err := buildCacheKey(map[string]any{
 		"query":       criteria.Query,
 		"boundingBox": criteria.BoundingBox,
@@ -89,8 +89,8 @@ func (repo *CachedDbRepository) FacetCounts(ctx context.Context, criteria *opena
 }
 
 // FindByObjectID implements DbRepository.
-func (repo *CachedDbRepository) FindByObjectID(ctx context.Context, objectID string) (*openapi.RouteMetadata, error) {
-	result, err, cached := memoize.Call(repo.cache, objectID, func() (*openapi.RouteMetadata, error) {
+func (repo *CachedDbRepository) FindByObjectID(ctx context.Context, objectID string) (*domain.RouteMetadata, error) {
+	result, err, cached := memoize.Call(repo.cache, objectID, func() (*domain.RouteMetadata, error) {
 		return repo.wrapped.FindByObjectID(ctx, objectID)
 	})
 	repo.updateMetrics("FindByObjectID", cached)
@@ -98,12 +98,12 @@ func (repo *CachedDbRepository) FindByObjectID(ctx context.Context, objectID str
 }
 
 // SearchHits implements DbRepository.
-func (repo *CachedDbRepository) SearchHits(ctx context.Context, criteria *openapi.SearchRequest) (*[]openapi.RouteSummary, error) {
+func (repo *CachedDbRepository) SearchHits(ctx context.Context, criteria *request.SearchRequest) (*[]domain.RouteSummary, error) {
 	key, err := buildCacheKey(criteria)
 	if err != nil {
 		return nil, fmt.Errorf("failed to create cache key: %v", err)
 	}
-	result, err, cached := memoize.Call(repo.cache, key, func() (*[]openapi.RouteSummary, error) {
+	result, err, cached := memoize.Call(repo.cache, key, func() (*[]domain.RouteSummary, error) {
 		return repo.wrapped.SearchHits(ctx, criteria)
 	})
 	repo.updateMetrics("SearchHits", cached)
@@ -111,6 +111,6 @@ func (repo *CachedDbRepository) SearchHits(ctx context.Context, criteria *openap
 }
 
 // Store implements DbRepository.
-func (repo *CachedDbRepository) Store(ctx context.Context, route *openapi.RouteMetadata) error {
+func (repo *CachedDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {
 	return repo.wrapped.Store(ctx, route)
 }
