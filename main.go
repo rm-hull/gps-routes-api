@@ -14,18 +14,22 @@ import (
 	"log"
 	"math"
 	"os"
+	"strconv"
 
 	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/joho/godotenv"
 	"github.com/spf13/cobra"
 
 	"github.com/rm-hull/gps-routes-api/cmds"
+	"github.com/rm-hull/gps-routes-api/internal"
 )
 
 func main() {
+	internal.ShowVersion()
 	if err := godotenv.Load(); err != nil {
 		log.Println("No .env file found")
 	}
+	internal.EnvironmentVars()
 
 	var rootCmd = &cobra.Command{
 		Use:  "gps-routes",
@@ -41,11 +45,16 @@ func main() {
 		},
 	}
 
-	var serverCmd = &cobra.Command{
-		Use:   "server",
-		Short: "Start HTTP server",
+	var apiServerCmd = &cobra.Command{
+		Use:   "api-server [port]",
+		Short: "Start HTTP API server",
+		Args:  cobra.ExactArgs(1),
 		Run: func(cmd *cobra.Command, args []string) {
-			cmds.NewHttpServer()
+			port, err := strconv.Atoi(args[0])
+			if err != nil {
+				log.Fatalf("error parsing port: %w", err)
+			}
+			cmds.NewHttpServer(port)
 		},
 	}
 
@@ -84,7 +93,7 @@ func main() {
 	}
 
 	rootCmd.AddCommand(importCmd)
-	rootCmd.AddCommand(serverCmd)
+	rootCmd.AddCommand(apiServerCmd)
 	rootCmd.AddCommand(pingDbCmd)
 	rootCmd.AddCommand(migrationCmd)
 	rootCmd.AddCommand(sitemapCmd)
