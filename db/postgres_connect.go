@@ -56,16 +56,15 @@ func NewDBPool(ctx context.Context, config DBConfig) (*pgxpool.Pool, error) {
 	return pool, nil
 }
 
-// Same env.vars as per: https://www.postgresql.org/docs/current/libpq-envars.html
 func ConfigFromEnv() DBConfig {
 	return DBConfig{
-		Host:     getEnvOrDefault("PGHOST", "localhost"),
-		Port:     getEnvIntOrDefault("PGPORT", 5432),
-		User:     getEnvOrDefault("PGUSER", "postgres"),
-		Password: getEnvOrDefault("PGPASSWORD", ""),
-		DBName:   getEnvOrDefault("PGDATABASE", "postgres"),
-		SSLMode:  getEnvOrDefault("PGSSLMODE", "disable"),
-		Schema:   getEnvOrDefault("PGSCHEMA", "public"),
+		Host:     getEnvOrDefault("POSTGRES_HOST", "localhost"),
+		Port:     getEnvIntOrDefault("POSTGRES_PORT", 5432),
+		User:     getEnvOrDefault("POSTGRES_USER", "postgres"),
+		Password: getEnvOrDefault("POSTGRES_PASSWORD", ""),
+		DBName:   getEnvOrDefault("POSTGRES_DB", "postgres"),
+		SSLMode:  getEnvOrDefault("POSTGRES_SSLMODE", "disable"),
+		Schema:   getEnvOrDefault("POSTGRES_SCHEMA", "public"),
 	}
 }
 

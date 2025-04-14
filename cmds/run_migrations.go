@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"os"
 	"path/filepath"
 
 	"github.com/rm-hull/gps-routes-api/db"
@@ -13,6 +14,19 @@ import (
 	_ "github.com/golang-migrate/migrate/v4/source/file"
 	"github.com/jackc/pgx/v5/stdlib"
 )
+
+type loggerBridge struct {
+	verbose bool
+	logger  *log.Logger
+}
+
+func (l *loggerBridge) Printf(format string, v ...interface{}) {
+	l.logger.Printf(format, v...)
+}
+
+func (l *loggerBridge) Verbose() bool {
+	return l.verbose
+}
 
 func RunMigration(direction string, migrationsPath string) {
 	config := db.ConfigFromEnv()
@@ -58,6 +72,13 @@ func RunMigration(direction string, migrationsPath string) {
 		log.Fatalf("failed to create migrate instance: %v", err)
 	}
 
+	m.Log = &loggerBridge{
+		verbose: true,
+		logger:  log.New(os.Stdout, "", log.LstdFlags),
+	}
+
+	m.Log.Printf("Attempting to migrate %s from directory: %s", direction, migrationsPath)
+
 	// Run migrations
 	if direction == "up" {
 		err = m.Up()
@@ -66,11 +87,11 @@ func RunMigration(direction string, migrationsPath string) {
 	}
 	if err != nil {
 		if err == migrate.ErrNoChange {
-			log.Printf("No changes")
+			m.Log.Printf("No changes applied")
 		} else {
 			log.Fatalf("migrations failed: %v", err)
 		}
 		return
 	}
-	log.Printf("Migration applied")
+	m.Log.Printf("Migration applied")
 }
