@@ -54,22 +54,22 @@ func setupPostgresContainer(ctx context.Context) (testcontainers.Container, erro
 	fmt.Printf("PostGIS container ID: %s started on %s:%s\n", pgContainer.GetContainerID(), host, pgPort.Port())
 
 	// Set the environment variables expected by db.ConfigFromEnv()
-	if err := setEnv("PGHOST", host); err != nil {
+	if err := setEnv("POSTGRES_HOST", host); err != nil {
 		return nil, err
 	}
-	if err := setEnv("PGPORT", pgPort.Port()); err != nil {
+	if err := setEnv("POSTGRES_PORT", pgPort.Port()); err != nil {
 		return nil, err
 	}
-	if err := setEnv("PGUSER", "postgres"); err != nil {
+	if err := setEnv("POSTGRES_USER", "postgres"); err != nil {
 		return nil, err
 	}
-	if err := setEnv("PGPASSWORD", "secret"); err != nil {
+	if err := setEnv("POSTGRES_PASSWORD", "secret"); err != nil {
 		return nil, err
 	}
-	if err := setEnv("PGDATABASE", "testdb"); err != nil {
+	if err := setEnv("POSTGRES_DB", "testdb"); err != nil {
 		return nil, err
 	}
-	if err := setEnv("PGSCHEMA", "public"); err != nil {
+	if err := setEnv("POSTGRES_SCHEMA", "public"); err != nil {
 		return nil, err
 	}
 
