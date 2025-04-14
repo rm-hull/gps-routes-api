@@ -27,7 +27,7 @@ import (
 	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
-func NewHttpServer(port int) {
+func NewHttpApiServer(port int) {
 
 	// Connect to Postgres
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
@@ -65,7 +65,7 @@ func NewHttpServer(port int) {
 	})
 
 	engine.Use(
-		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz"),
+		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
 		gin.Recovery(),
 		cors.Default(),
 		middlewares.ErrorHandler(),
@@ -100,7 +100,7 @@ func NewHttpServer(port int) {
 		},
 	})
 
-	addr := fmt.Sprintf(":%d", port)
-	log.Println("HTTP API Server started on port", addr)
-	log.Fatal(router.Run(addr))
+	log.Printf("Starting HTTP API Server on port %d...", port)
+	err = router.Run(fmt.Sprintf(":%d", port))
+	log.Fatalf("HTTP API Server failed to start on port %d: %v", port, err)
 }

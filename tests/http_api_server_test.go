@@ -11,7 +11,7 @@ import (
 func TestHealthEndpoint(t *testing.T) {
 
 	// Start the HTTP server in a goroutine.
-	go cmds.NewHttpServer(8080)
+	go cmds.NewHttpApiServer(8080)
 
 	// Give the server a few seconds to start up.
 	time.Sleep(5 * time.Second)

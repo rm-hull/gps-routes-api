@@ -52,9 +52,9 @@ func main() {
 		Run: func(cmd *cobra.Command, args []string) {
 			port, err := strconv.Atoi(args[0])
 			if err != nil {
-				log.Fatalf("error parsing port: %w", err)
+				log.Fatalf("error parsing port: %v", err)
 			}
-			cmds.NewHttpServer(port)
+			cmds.NewHttpApiServer(port)
 		},
 	}
 
