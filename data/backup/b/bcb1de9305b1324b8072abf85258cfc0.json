@@ -73,7 +73,7 @@
   "postcode": "NE9 5AR",
   "county": "Tyne and Wear",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -81,18 +81,19 @@
     "garden"
   ],
   "points_of_interest": [
-    "play areas",
     "maze",
     "visitor center",
-    "woodland valley"
-  ],
-  "facilities": [
-    "visitor center",
-    "play area",
     "animal farm"
   ],
-  "route_type": "out and back",
+  "facilities": [
+    "play area",
+    "car park",
+    "visitor center",
+    "dog friendly"
+  ],
+  "route_type": "loop",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

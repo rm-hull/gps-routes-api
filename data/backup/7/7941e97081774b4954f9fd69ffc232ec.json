@@ -100,18 +100,18 @@
   "postcode": "PO38 1QA",
   "district": "Wroxall",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "downland",
     "woodland",
-    "coastal",
-    "downland"
+    "coastal"
   ],
   "points_of_interest": [
     "wildflowers",
     "wildlife",
-    "historical sites"
+    "military history"
   ],
   "facilities": [
     "car park",

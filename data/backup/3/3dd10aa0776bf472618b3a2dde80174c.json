@@ -101,7 +101,7 @@
   "display_address": "Yellow Car Park - YSP Country Park, Huddersfield Road, West Bretton, Wakefield, West Yorkshire, England, S75 4BY, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,15 +109,15 @@
     "water"
   ],
   "points_of_interest": [
-    "art",
-    "historical sites",
-    "nature"
+    "sculptures",
+    "historical building",
+    "natural features"
   ],
   "facilities": [
-    "footpaths",
-    "car park"
+    "visitor center",
+    "footpaths"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Northfield House, B6438, St. Abbs, Scottish Borders, Alba / Scotland, TD14 5PH, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,16 +112,15 @@
     "rocky"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "viewpoint",
+    "historical site",
+    "nature centre"
   ],
   "facilities": [
     "visitor center",
     "coffee shop",
     "art gallery",
-    "textile shop",
-    "Nature Centre"
+    "textile shop"
   ],
   "route_type": "circular",
   "activities": [

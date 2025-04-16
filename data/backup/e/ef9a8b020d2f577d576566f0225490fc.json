@@ -85,7 +85,7 @@
   "display_address": "Park Road, Burslem Cottage Farm, Little Budworth, Cheshire West and Chester, England, CW6 9DG, United Kingdom",
   "postcode": "CW6 9DG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -94,16 +94,15 @@
     "water"
   ],
   "points_of_interest": [
-    "nature trails",
-    "lakes",
-    "river"
+    "trail"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "waterside walking"
   ]
 }

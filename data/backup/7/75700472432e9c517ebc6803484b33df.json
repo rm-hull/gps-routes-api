@@ -100,7 +100,7 @@
   "postcode": "NE26 1RS",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -108,16 +108,19 @@
     "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "castle",
+    "pier",
+    "lighthouse",
+    "park"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "strolling"
   ]
 }

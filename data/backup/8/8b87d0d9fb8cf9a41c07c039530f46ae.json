@@ -63,22 +63,22 @@
   "nominatim_found": true,
   "display_address": "Bath Street, Ladybrook, Mansfield Woodhouse, Mansfield, Nottinghamshire, East Midlands, England, NG18 1AX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "country"
+    "forest"
   ],
   "points_of_interest": [
     "nature reserves",
     "historical sites",
-    "wildlife"
+    "country parks"
   ],
   "facilities": [
-    "cafe",
     "visitor center",
+    "cafe",
     "car park",
     "dog friendly"
   ],

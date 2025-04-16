@@ -101,16 +101,16 @@
   "postcode": "IV51 9JD",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "cliff"
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural landmarks"
+    "viewpoint",
+    "island highlight",
+    "climb"
   ],
   "facilities": [
     "car park"

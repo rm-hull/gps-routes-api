@@ -91,17 +91,18 @@
   "display_address": "RAF Wyton, Wyton-on-the-Hill, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 2EA, United Kingdom",
   "district": "Huntingdonshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
     "villages"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

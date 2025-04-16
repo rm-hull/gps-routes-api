@@ -89,23 +89,26 @@
   "postcode": "GU21 5SH",
   "district": "Woking",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "wet"
+    "wetland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "bird watching"
+    "barrows",
+    "ponds",
+    "sand pits"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

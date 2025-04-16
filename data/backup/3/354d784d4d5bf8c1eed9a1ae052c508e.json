@@ -81,7 +81,7 @@
   "display_address": "Lanchester Valley Walk, Relly Farm, Brandon and Byshottles, Durham, County Durham, North East, England, DH7 7RJ, United Kingdom",
   "district": "Durham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,8 +89,7 @@
     "riverside"
   ],
   "points_of_interest": [
-    "villages",
-    "historical sites"
+    "villages"
   ],
   "facilities": [
     "car park"

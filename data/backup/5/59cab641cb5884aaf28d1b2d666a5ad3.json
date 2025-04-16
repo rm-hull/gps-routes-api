@@ -71,24 +71,24 @@
   "display_address": "Forest Farm Road, Coryton, Whitchurch, Cardiff, Cymru / Wales, CF14 7JL, United Kingdom",
   "postcode": "CF14 7JL",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "canal"
+    "water"
   ],
   "points_of_interest": [
     "birdlife",
-    "historical sites",
-    "nature reserve"
+    "historical relics"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

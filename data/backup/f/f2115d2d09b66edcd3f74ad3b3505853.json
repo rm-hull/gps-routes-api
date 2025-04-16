@@ -106,7 +106,7 @@
   "nominatim_found": true,
   "display_address": "Glebe Street, Shelton, Stoke, Stoke-on-Trent, England, ST4 1ET, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -114,16 +114,16 @@
     "rural"
   ],
   "points_of_interest": [
-    "museums",
+    "museum",
     "park",
-    "lake",
-    "footpaths"
+    "mill"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "footpaths"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

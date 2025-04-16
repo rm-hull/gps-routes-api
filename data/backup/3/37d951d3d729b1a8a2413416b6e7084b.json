@@ -73,23 +73,24 @@
   "nominatim_found": true,
   "display_address": "Stoke Row, Checkendon, South Oxfordshire, Oxfordshire, England, RG9 5QR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "garden"
+    "woodland",
+    "urban"
   ],
   "points_of_interest": [
-    "historical sites",
     "village green",
+    "well",
     "orchard",
-    "mansion"
+    "mansion",
+    "gardens"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

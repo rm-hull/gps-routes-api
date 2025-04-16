@@ -85,7 +85,7 @@
   "nominatim_found": true,
   "display_address": "Waterloo Road, Lymington, Lymington and Pennington, Lymington, New Forest, Hampshire, England, SO41 9DD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -93,13 +93,13 @@
     "marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "cafe",
+    "car park",
     "bus stop"
   ],
   "route_type": "out and back",

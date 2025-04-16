@@ -146,15 +146,14 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "cliff top"
+    "cliff"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

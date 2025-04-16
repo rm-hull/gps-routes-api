@@ -105,21 +105,23 @@
   "postcode": "TQ13 9XP",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
+    "granite",
     "woodland",
-    "mountain"
+    "downland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "historical site",
+    "village ruins"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

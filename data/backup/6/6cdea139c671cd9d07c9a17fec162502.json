@@ -119,20 +119,18 @@
   "postcode": "HP23 5RZ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "commons",
     "chalk downland"
   ],
   "points_of_interest": [
-    "historical monument",
-    "panoramic views",
-    "landscape gardens",
-    "views",
-    "common",
+    "monument",
+    "valley",
+    "house",
+    "beacon",
     "wood"
   ],
   "facilities": [

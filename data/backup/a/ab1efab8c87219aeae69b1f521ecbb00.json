@@ -125,26 +125,24 @@
   "display_address": "The Strand, Starcross, Teignbridge, Devon, England, EX6 8NY, United Kingdom",
   "postcode": "EX6 8NY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "canal",
-    "rural",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "clapper bridge",
-    "bridge"
+    "castle",
+    "bridge",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "beach"
   ],
   "route_type": "out and back",
   "activities": [

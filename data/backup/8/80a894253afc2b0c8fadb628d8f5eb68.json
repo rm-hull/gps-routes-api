@@ -56,7 +56,7 @@
   "postcode": "S33 0BJ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -64,8 +64,8 @@
     "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",

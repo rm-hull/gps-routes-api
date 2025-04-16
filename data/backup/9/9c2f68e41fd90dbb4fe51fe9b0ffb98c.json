@@ -96,7 +96,7 @@
   "postcode": "HP4 1LS",
   "district": "Dacorum",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,8 +104,9 @@
     "heathland"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historic trails"
+    "farm",
+    "beaches",
+    "hill"
   ],
   "facilities": [
     "car park",

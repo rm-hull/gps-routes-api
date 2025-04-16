@@ -110,7 +110,7 @@
   "nominatim_found": true,
   "display_address": "Glen Mhor Hotel, 9, Ness Bank, Haugh, Crown and City Centre, Inverness, Highland, Alba / Scotland, IV2 4SG, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
@@ -118,15 +118,16 @@
     "river"
   ],
   "points_of_interest": [
-    "natural beauty spot",
-    "historical bridge"
+    "castle",
+    "park",
+    "natural beauty spot"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible",
-    "railway"
+    "railway",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

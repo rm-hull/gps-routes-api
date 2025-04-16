@@ -71,7 +71,7 @@
   "display_address": "Bodymoor Heath Road, Kingsbury CP, Marston, North Warwickshire, Warwickshire, England, B76 0DZ, United Kingdom",
   "postcode": "B76 0DZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,20 +80,20 @@
     "canal"
   ],
   "points_of_interest": [
-    "birdwatching",
+    "nature reserve",
     "walking routes",
-    "nature reserve"
+    "meadows"
   ],
   "facilities": [
     "visitor center",
     "bike hire",
     "miniature railway",
-    "canal",
-    "wheelchair accessible"
+    "canal"
   ],
   "route_type": "out and back",
   "activities": [
     "cycling",
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

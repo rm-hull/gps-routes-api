@@ -91,23 +91,25 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "meadow"
+    "meadows",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature trails"
+    "historic sites",
+    "arboretum",
+    "Japanese garden"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "footpaths",
-    "garden"
+    "fountains",
+    "walled garden"
   ],
   "route_type": "circular",
   "activities": [

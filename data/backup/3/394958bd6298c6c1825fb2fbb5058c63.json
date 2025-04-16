@@ -64,23 +64,21 @@
   "display_address": "Winter Gardens & Queens Hall, 45, Fort Crescent, Margate Old Town, Cliftonville, Margate, Thanet, Kent, England, CT9 1HX, United Kingdom",
   "postcode": "CT9 1HX",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
-    "local landmarks",
     "beaches",
-    "art gallery",
+    "gallery",
     "amusements"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "beach"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Grade Close, Elstree and Borehamwood, Borehamwood, Hertsmere, Hertfordshire, England, WD6 3HU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -86,13 +86,11 @@
     "pasture"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "viewpoints",
-    "gardens"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "waymarked trail"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

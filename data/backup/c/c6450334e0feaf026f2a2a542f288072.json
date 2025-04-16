@@ -71,21 +71,21 @@
   "postcode": "CV47 8NL",
   "district": "Stratford-on-Avon",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
+    "lake",
     "canal"
   ],
   "points_of_interest": [
-    "waterfront views",
-    "canal"
+    "canal",
+    "lock"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

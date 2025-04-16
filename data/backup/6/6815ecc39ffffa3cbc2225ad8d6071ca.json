@@ -130,7 +130,7 @@
   "nominatim_found": true,
   "display_address": "Chichester Way, Mudeford, Christchurch, Bournemouth, Christchurch and Poole, England, BH23 4AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -139,14 +139,15 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
+    "watermill",
     "nature reserve",
+    "parkland",
     "gardens",
     "estate"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -130,7 +130,7 @@
   "display_address": "Blaydon Road, Pendeford, Wolverhampton, West Midlands, England, WV10 6XF, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -139,14 +139,15 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "river views",
-    "canal links"
+    "river views"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

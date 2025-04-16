@@ -85,12 +85,12 @@
   "nominatim_found": true,
   "display_address": "26, French Weir Avenue, Tangier, Taunton, Somerset, England, TA1 1XH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
     "historic house",

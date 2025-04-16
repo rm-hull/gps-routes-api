@@ -95,16 +95,14 @@
   "display_address": "B5289, Brackenthwaite, Buttermere, Cumberland, England, CA13 9UY, United Kingdom",
   "district": "Buttermere",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "ridge"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lakes"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

@@ -80,7 +80,7 @@
   "display_address": "Stoney Road, Abbey Green, Nuneaton, Nuneaton and Bedworth, Warwickshire, England, CV11 5EY, United Kingdom",
   "postcode": "CV11 5EY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
@@ -92,7 +92,7 @@
   "facilities": [
     "car park"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -96,22 +96,20 @@
   "nominatim_found": true,
   "display_address": "St. Martha, Chilworth, Guildford, Surrey, England, GU4 8BF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "maps",
-    "ruins"
+    "historical site",
+    "information boards"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "linear",
   "activities": [
     "walking"
   ]

@@ -86,7 +86,7 @@
   "display_address": "Sudbury Hall, Main Road, Aston, Sudbury CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 5HT, United Kingdom",
   "postcode": "DE6 5HT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,13 +94,14 @@
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
     "museum",
-    "gardens"
+    "gardens",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

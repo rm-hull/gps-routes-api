@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "The Waterfront, Union Wharf, Market Harborough, Harborough, Leicestershire, England, LE16 7UW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -107,14 +107,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "country park",
-    "village"
+    "village",
+    "country park"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "dog friendly"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

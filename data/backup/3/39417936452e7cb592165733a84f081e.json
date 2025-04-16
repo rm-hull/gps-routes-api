@@ -94,22 +94,20 @@
   "display_address": "Pound Lane, Blackmoor Gate, Kentisbury, North Devon, Devon, England, EX31 4SJ, United Kingdom",
   "district": "North Devon",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife spotting"
+    "viewpoint",
+    "information boards"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "pushchair accessible",
-    "information boards"
+    "accessible paths"
   ],
   "route_type": "loop",
   "activities": [

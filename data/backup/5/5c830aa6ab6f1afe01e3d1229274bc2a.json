@@ -89,15 +89,15 @@
   "display_address": "2, Platt Street, Hadfield, High Peak, Derbyshire, East Midlands, England, SK13 1QT, United Kingdom",
   "postcode": "SK13 1QT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "reservoir"
+    "reservoir",
+    "hill"
   ],
   "points_of_interest": [
-    "views"
+    "view"
   ],
   "facilities": [
     "car park",

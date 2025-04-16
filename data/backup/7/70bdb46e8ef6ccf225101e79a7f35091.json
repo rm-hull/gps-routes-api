@@ -75,22 +75,21 @@
   "nominatim_found": true,
   "display_address": "Mortehoe Station Road, Mortehoe, North Devon, Devon, England, EX34 7DR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "beaches"
+    "rock formations",
+    "viewpoint",
+    "museum"
   ],
   "facilities": [
     "car park",
     "pub/cafe",
-    "museum",
     "visitor center"
   ],
   "route_type": "circular",

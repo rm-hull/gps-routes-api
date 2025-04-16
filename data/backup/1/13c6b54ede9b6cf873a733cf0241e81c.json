@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "OiSaki Kitchen, 19a, Silver Street, Crossgate, City of Durham, Durham, County Durham, North East, England, DH1 3RB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,13 +80,13 @@
   "points_of_interest": [
     "historical sites",
     "gardens",
-    "architecture",
-    "bridges"
+    "architecture"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

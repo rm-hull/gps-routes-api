@@ -73,7 +73,7 @@
   "display_address": "Green Lane, Corwen, Denbighshire, Cymru / Wales, LL21 0DN, United Kingdom",
   "postcode": "LL21 0DN",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,12 +82,13 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "statue",
+    "viewpoint",
+    "villages"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

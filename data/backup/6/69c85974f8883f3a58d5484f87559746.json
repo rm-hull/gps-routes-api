@@ -144,22 +144,23 @@
   "postcode": "PO9 6BW",
   "district": "East Hampshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "parkland",
+    "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parkland",
-    "woodland"
+    "historical site",
+    "park",
+    "trail"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "loop",
   "activities": [

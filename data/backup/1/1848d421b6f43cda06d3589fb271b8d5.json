@@ -56,16 +56,16 @@
   "postcode": "SO43 7GR",
   "district": "New Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "path"
+    "path",
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "educational"
+    "educational walk",
+    "pond"
   ],
   "facilities": [
     "visitor center",

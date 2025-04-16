@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Dr Johnson Avenue, Streatham Park, Furzedown, London Borough of Wandsworth, London, Greater London, England, SW16 1RT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
@@ -88,14 +88,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "avenues of trees",
+    "pond"
   ],
   "facilities": [
     "cafe",
     "tennis courts",
     "athletics track",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

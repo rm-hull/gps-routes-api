@@ -69,16 +69,17 @@
   "nominatim_found": true,
   "display_address": "Steel Green, Haverigg, Millom, Cumberland, England, LA18 4HT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "rural"
   ],
   "points_of_interest": [
-    "beaches",
-    "views"
+    "nature reserve",
+    "beach",
+    "mountains"
   ],
   "facilities": [
     "car park"

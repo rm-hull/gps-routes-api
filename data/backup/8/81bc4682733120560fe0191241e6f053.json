@@ -73,22 +73,24 @@
   "display_address": "Backwell Lake, Bucklands Batch, Backwell, North Somerset, England, BS48 1TN, United Kingdom",
   "district": "Backwell",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "lake",
-    "grassland"
+    "woodland"
   ],
   "points_of_interest": [
     "sculpture trail",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

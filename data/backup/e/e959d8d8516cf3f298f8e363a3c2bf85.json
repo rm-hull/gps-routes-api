@@ -94,20 +94,21 @@
   "display_address": "Rodwell Trail, Rodwell, Weymouth, Dorset, England, DT4 0AW, United Kingdom",
   "postcode": "DT4 0AW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "rural"
+    "railway"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing"
+    "castle",
+    "cove",
+    "bridge"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

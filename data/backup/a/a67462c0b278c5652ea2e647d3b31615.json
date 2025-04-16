@@ -129,7 +129,7 @@
   "display_address": "Hollinshead Terrace, Ryal Fold, Tockholes, Blackburn with Darwen, England, BB3 0PD, United Kingdom",
   "postcode": "BB3 0PD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -138,15 +138,14 @@
     "moor"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature trails"
+    "woodland plantation",
+    "reservoir",
+    "tower",
+    "park"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "woodland trails",
-    "ponds"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

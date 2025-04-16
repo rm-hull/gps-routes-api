@@ -101,7 +101,7 @@
   "display_address": "Station road, Stuckiedhu, Tarbet, Argyll and Bute, Alba / Scotland, G83 7DA, United Kingdom",
   "postcode": "G83 7DA",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,12 +109,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfalls"
   ],
   "facilities": [
-    "car park",
-    "waymarked trail"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

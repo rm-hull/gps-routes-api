@@ -85,20 +85,20 @@
   "nominatim_found": true,
   "display_address": "B4364, Burwarton, Neenton, Shropshire, England, WV16 6RP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "tarns"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "landmarks"
+    "landmarks",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

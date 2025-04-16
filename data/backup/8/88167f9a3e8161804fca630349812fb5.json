@@ -96,7 +96,7 @@
   "nominatim_found": true,
   "display_address": "Coast Road Car Park, Coast Road, West Mersea, Colchester, Essex, England, CO5 8PB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -106,16 +106,18 @@
     "beach"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature reserves",
-    "settlements"
+    "nature reserve",
+    "settlements",
+    "marsh"
   ],
   "facilities": [
-    "dog friendly",
-    "picnic areas"
+    "visitor center",
+    "picnic area",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -116,8 +116,8 @@
   "nominatim_found": true,
   "display_address": "Bolton Bridge, Bolton Abbey, North Yorkshire, York and North Yorkshire, England, BD23 6HB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "6 miles",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -125,13 +125,14 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls"
+    "ruins",
+    "viewpoint",
+    "valley"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

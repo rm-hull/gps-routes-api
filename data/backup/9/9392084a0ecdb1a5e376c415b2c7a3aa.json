@@ -91,7 +91,7 @@
   "postcode": "TA5 1HN",
   "district": "Bridgwater",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,18 +99,17 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viewpoint",
     "wildlife"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "picnic"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
     "cycling",
-    "horse riding"
+    "mountain biking"
   ]
 }

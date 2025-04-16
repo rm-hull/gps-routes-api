@@ -81,17 +81,19 @@
   "display_address": "Scandale Bridge, Rydal Road, Lakes, Ambleside, Westmorland and Furness, England, LA22 9PL, United Kingdom",
   "district": "Ambleside",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

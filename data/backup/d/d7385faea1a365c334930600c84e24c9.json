@@ -119,23 +119,24 @@
   "district": "Milnrow",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water",
-    "rural"
+    "waterfall",
+    "countryside"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "wildlife",
-    "views"
+    "lake",
+    "nature reserve",
+    "hill"
   ],
   "facilities": [
     "car park",
-    "nature reserve",
-    "waterside footpath"
+    "waterside footpath",
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

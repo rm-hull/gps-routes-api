@@ -126,25 +126,24 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "bog",
-    "rural"
+    "lakes"
   ],
   "points_of_interest": [
-    "historical sites",
     "monument",
-    "radio station"
+    "information points"
   ],
   "facilities": [
     "car park",
-    "information points"
+    "visitor center"
   ],
   "route_type": "loop",
   "activities": [
     "walking",
-    "sightseeing"
+    "bird watching"
   ]
 }

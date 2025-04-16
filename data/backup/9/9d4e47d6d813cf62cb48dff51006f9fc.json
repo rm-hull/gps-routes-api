@@ -64,7 +64,7 @@
   "display_address": "West Road, Millbrook Meadows, Gamlingay, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, SG19 3JT, United Kingdom",
   "postcode": "SG19 3JT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
@@ -72,9 +72,11 @@
   ],
   "points_of_interest": [
     "wildlife",
-    "nature"
+    "bluebells"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

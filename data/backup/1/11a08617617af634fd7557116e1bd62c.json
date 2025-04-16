@@ -96,7 +96,7 @@
   "postcode": "BD23 5EF",
   "district": "Grassington",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -105,15 +105,15 @@
     "countryside"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "river views",
+    "waterfall",
     "reservoir",
     "gorge"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

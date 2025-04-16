@@ -106,21 +106,24 @@
   "postcode": "SN8 1RF",
   "district": "Beckhampton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "countryside",
     "field"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "ancient sites"
+    "stone circle",
+    "historic site",
+    "hill figure",
+    "ancient site",
+    "chambered tomb"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "car park",
+    "viewpoint"
   ],
   "route_type": "out and back",
   "activities": [

@@ -109,7 +109,7 @@
   "display_address": "Stock Street, Brandlesholme, Walmersley, Bury, Greater Manchester, England, BL8 1BU, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "under an hour",
   "difficulty": "easy",
   "terrain": [
@@ -118,13 +118,15 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "sculpture trail",
+    "heritage railway station",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "cafe"
+    "cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

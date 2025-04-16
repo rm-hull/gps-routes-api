@@ -109,22 +109,24 @@
   "postcode": "BB7 9QS",
   "district": "Ribble Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "river",
-    "country lanes"
+    "country lane"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "forest views"
+    "historical site",
+    "viewpoint",
+    "college"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly",
+    "garden"
   ],
   "route_type": "circular",
   "activities": [

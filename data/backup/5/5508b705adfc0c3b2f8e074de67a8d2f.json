@@ -115,7 +115,7 @@
   "display_address": "Whisstocks Place, Woodbridge, East Suffolk, Suffolk, England, IP12 4BB, United Kingdom",
   "postcode": "IP12 4BB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,16 +123,15 @@
     "marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "beach"
+    "church",
+    "beach",
+    "nature reserve"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "visitor center"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

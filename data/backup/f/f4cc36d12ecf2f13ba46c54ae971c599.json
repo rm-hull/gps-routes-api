@@ -109,7 +109,7 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -117,14 +117,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfalls",
-    "wildlife spotting"
+    "arch"
   ],
   "facilities": [
     "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -49,20 +49,20 @@
   "display_address": "Eye Kettleby Drive, Eye Kettleby, Sysonby, Melton, Leicestershire, England, LE14 2TD, United Kingdom",
   "district": "Melton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "lakeside"
+    "lake",
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside",
-    "trails"
+    "park",
+    "trail"
   ],
   "facilities": [
     "tea room",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -90,26 +90,27 @@
   "nominatim_found": true,
   "display_address": "Oxleas Wood Cafe, Crown Woods Lane, Shooters Hill, Royal Borough of Greenwich, London, Greater London, England, SE18 3JA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
-    "garden"
+    "garden",
+    "parkland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "gardens"
+    "viewpoint",
+    "castle",
+    "ruins"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "picnic"
   ]
 }

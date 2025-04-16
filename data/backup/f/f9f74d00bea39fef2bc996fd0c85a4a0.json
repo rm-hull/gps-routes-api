@@ -110,25 +110,24 @@
   "postcode": "LA22 9HP",
   "district": "Elterwater",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
-    "waterfall"
+    "river"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "lakes",
-    "fells",
-    "valley"
+    "waterfall",
+    "lake",
+    "viewpoint"
   ],
   "facilities": [
     "cafe",
-    "viewing platform"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

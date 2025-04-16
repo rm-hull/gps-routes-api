@@ -76,25 +76,27 @@
   "display_address": "Whitewater Way, Teesdale Way, Portrack, Stockton-on-Tees, Tees Valley, England, TS17 6QB, United Kingdom",
   "postcode": "TS17 6QB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "paved",
+    "paved trail",
     "riverbank"
   ],
   "points_of_interest": [
-    "bridges",
+    "bridge",
     "nature reserve",
     "river"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly",
+    "wildflower meadow"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

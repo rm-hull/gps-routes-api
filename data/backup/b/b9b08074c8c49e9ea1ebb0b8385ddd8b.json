@@ -130,7 +130,7 @@
   "display_address": "Rainbows Day Nursery, Bridge Wharf, Banbury, Cherwell, Oxfordshire, England, OX16 5AY, United Kingdom",
   "postcode": "OX16 5AY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -139,14 +139,14 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "towns",
-    "villages",
-    "battlefield"
+    "historical site",
+    "battlefield",
+    "reservoir",
+    "village"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

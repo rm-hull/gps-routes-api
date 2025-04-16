@@ -77,23 +77,22 @@
   "display_address": "William Street, Hurdsfield, Macclesfield, Cheshire East, England, SK10 1NA, United Kingdom",
   "postcode": "SK10 1NA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "canal",
     "woodland",
-    "mountain"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "viewpoint",
+    "historical site",
+    "reservoir"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

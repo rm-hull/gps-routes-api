@@ -118,23 +118,23 @@
   "display_address": "The Salt Line, Betchton, Lawton Heath End, Cheshire East, England, ST7 3RG, United Kingdom",
   "postcode": "ST7 3RG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "footpath",
     "woodland",
-    "parkland"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "countryside trails",
+    "historic house",
+    "park",
     "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "public footpath"
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

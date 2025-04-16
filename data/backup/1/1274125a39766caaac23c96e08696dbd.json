@@ -95,18 +95,17 @@
   "display_address": "Tower Drive, North Turton, Chapeltown, Blackburn with Darwen, England, BL7 0HG, United Kingdom",
   "district": "Chapeltown",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "reservoir",
-    "pasture"
+    "reservoir"
   ],
   "points_of_interest": [
-    "historical landmarks",
-    "country park",
-    "waterfront"
+    "historical landmark",
+    "tower",
+    "country park"
   ],
   "facilities": [
     "car park",

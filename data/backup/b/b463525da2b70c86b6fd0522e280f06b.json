@@ -68,13 +68,12 @@
   "nominatim_found": true,
   "display_address": "Vicarage Road, Aish, South Brent, South Hams, Devon, England, TQ10 9AJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
     "moorland",
-    "countryside"
+    "rural"
   ],
   "points_of_interest": [
     "historical sites",

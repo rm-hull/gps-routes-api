@@ -104,17 +104,16 @@
   "display_address": "Earle, Northumberland, North East, England, NE71 6RF, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfall",
-    "historical sites"
+    "hillfort"
   ],
   "facilities": [
     "car park",

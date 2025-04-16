@@ -120,22 +120,20 @@
   "nominatim_found": true,
   "display_address": "Water Lane, Westerham, Sevenoaks, Kent, England, TN16 1AY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "views"
+    "historic house",
+    "hilltop"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "garden"
   ],
   "route_type": "circular",
   "activities": [

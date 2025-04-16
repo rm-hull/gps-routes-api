@@ -51,16 +51,15 @@
   "postcode": "FY8 1BA",
   "district": "Fylde",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "water"
+    "lake"
   ],
   "points_of_interest": [
-    "views",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "cafe",

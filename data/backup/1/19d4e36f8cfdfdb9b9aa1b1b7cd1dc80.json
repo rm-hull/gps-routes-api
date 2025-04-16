@@ -96,22 +96,21 @@
   "nominatim_found": true,
   "display_address": "Picton Crescent, New Quay, Ceredigion, Cymru / Wales, SA45 9NQ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "cliff top"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "harbour",
+    "beaches",
+    "wooded valley"
   ],
   "facilities": [
-    "car park",
-    "beach",
-    "harbour",
-    "restaurants"
+    "restaurant",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

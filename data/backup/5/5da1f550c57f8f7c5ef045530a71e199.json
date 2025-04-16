@@ -73,22 +73,23 @@
   "nominatim_found": true,
   "display_address": "Hades Lane, Taddington CP, Priestcliffe, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 9TZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "water"
+    "waterfront",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint",
+    "chambered tomb"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "shared trail"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

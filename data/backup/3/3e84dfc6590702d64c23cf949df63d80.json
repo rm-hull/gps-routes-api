@@ -81,7 +81,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,11 +89,10 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural scenery"
+    "riverside sections"
   ],
   "facilities": [
-    "waymarked"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

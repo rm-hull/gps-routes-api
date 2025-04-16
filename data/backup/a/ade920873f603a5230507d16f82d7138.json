@@ -104,24 +104,21 @@
   "nominatim_found": true,
   "display_address": "Ronald Shirley, Clarence Road, Wotton-under-Edge, Stroud, Gloucestershire, England, GL12 7EX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 to 3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "farmland",
-    "rural"
+    "pastureland"
   ],
   "points_of_interest": [
-    "historical sites",
     "estate",
-    "gardens",
-    "woodland trails",
-    "monument"
+    "monument",
+    "geological formation"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

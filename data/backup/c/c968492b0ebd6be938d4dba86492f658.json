@@ -119,7 +119,7 @@
   "nominatim_found": true,
   "display_address": "Townsend, Priddy, Somerset, England, BA5 3BP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -127,14 +127,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
-    "viewpoints"
+    "archaeological site",
+    "nature reserve",
+    "gorge"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

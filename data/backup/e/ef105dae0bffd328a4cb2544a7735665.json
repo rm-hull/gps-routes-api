@@ -104,21 +104,20 @@
   "postcode": "AL4 8EW",
   "district": "Welwyn Hatfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical bridge",
-    "wildlife"
+    "estate"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

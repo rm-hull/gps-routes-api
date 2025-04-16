@@ -101,7 +101,7 @@
   "display_address": "Seacombe Ferry Terminal, Seacombe Promenade, Seacombe, Birkenhead, Wirral, Liverpool City Region, England, CH44 6NP, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,19 +110,20 @@
     "estuary"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserves"
+    "country park",
+    "village",
+    "model village"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "cycle track"
   ],
   "route_type": "circular",
   "activities": [
+    "cycling",
     "walking",
-    "cycling"
+    "bird watching"
   ]
 }

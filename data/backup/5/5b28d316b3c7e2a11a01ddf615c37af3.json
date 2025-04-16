@@ -114,19 +114,17 @@
   "nominatim_found": true,
   "display_address": "North Euston Hotel, The Esplanade, Fleetwood, Wyre, Lancashire, England, FY7 6BN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "river",
-    "woodland"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
     "golf course",
-    "river estuary",
-    "beach"
+    "town"
   ],
   "facilities": [
     "car park",
@@ -134,6 +132,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "beach walking"
   ]
 }

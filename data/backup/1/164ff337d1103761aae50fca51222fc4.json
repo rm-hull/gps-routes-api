@@ -131,7 +131,7 @@
   "postcode": "YO12 6QZ",
   "district": "Scarborough",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -140,8 +140,8 @@
     "forest"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural amphitheatre",
+    "viewpoint",
+    "sculptures",
     "village"
   ],
   "facilities": [

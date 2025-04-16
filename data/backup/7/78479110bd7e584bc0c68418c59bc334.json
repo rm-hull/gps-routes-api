@@ -71,7 +71,7 @@
   "display_address": "Burnhead, Kirkton of Maryculter, Aberdeenshire, Alba / Scotland, AB12 5FT, United Kingdom",
   "postcode": "AB12 5FT",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -79,10 +79,12 @@
     "stream"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint",
+    "natural bog habitat"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],

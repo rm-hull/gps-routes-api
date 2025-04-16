@@ -72,23 +72,24 @@
   "postcode": "SK3 0EH",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "park"
   ],
   "points_of_interest": [
-    "gardens",
     "nature park",
-    "river"
+    "gardens",
+    "golf club"
   ],
   "facilities": [
-    "bus station",
     "visitor center",
-    "wheelchair accessible",
-    "park"
+    "bus station",
+    "train station",
+    "botanic garden",
+    "flower beds"
   ],
   "route_type": "out and back",
   "activities": [

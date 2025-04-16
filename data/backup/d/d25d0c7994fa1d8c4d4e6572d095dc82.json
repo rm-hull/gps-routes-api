@@ -80,7 +80,7 @@
   "display_address": "Marston Lane, Eaton Rise, Norwich, Norfolk, England, NR4 6LJ, United Kingdom",
   "postcode": "NR4 6LJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -88,15 +88,16 @@
     "marsh"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "nature trails"
+    "nature trail",
+    "broad"
   ],
   "facilities": [
     "car park",
-    "waymarked trail"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

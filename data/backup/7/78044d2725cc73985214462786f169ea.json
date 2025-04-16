@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Peels, Harbottle, Northumberland, North East, England, NE65 7DH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historic site",
+    "viewpoint",
     "rock formations"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

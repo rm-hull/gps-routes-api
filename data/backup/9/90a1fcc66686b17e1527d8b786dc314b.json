@@ -69,20 +69,21 @@
   "postcode": "NR17 1RD",
   "district": "Breckland",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "footpath",
-    "country lanes"
+    "woodland",
+    "rural"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "village green",
-    "castle ruins"
+    "historic building",
+    "castle ruins",
+    "village green"
   ],
   "facilities": [
-    "pub"
+    "pub",
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

@@ -79,7 +79,7 @@
   "postcode": "HP4 1LX",
   "district": "Dacorum",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -87,8 +87,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "hill"
   ],
   "facilities": [
     "visitor center",

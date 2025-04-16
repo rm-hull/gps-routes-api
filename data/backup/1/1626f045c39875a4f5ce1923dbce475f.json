@@ -115,7 +115,7 @@
   "postcode": "HU15 1QB",
   "district": "Elloughton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -124,13 +124,13 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "village ruins",
-    "estate ruins"
+    "village",
+    "historical site",
+    "hall"
   ],
   "facilities": [
     "cafe",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

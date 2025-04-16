@@ -73,7 +73,7 @@
   "display_address": "Down the Field, East Street, Voakes Manor, West Chiltington, West Chiltington Common, Horsham, West Sussex, England, RH20 2JX, United Kingdom",
   "postcode": "RH20 2JX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -81,8 +81,9 @@
     "field"
   ],
   "points_of_interest": [
-    "farmland",
-    "historic buildings"
+    "windmill",
+    "historic buildings",
+    "church"
   ],
   "facilities": [
     "car park"

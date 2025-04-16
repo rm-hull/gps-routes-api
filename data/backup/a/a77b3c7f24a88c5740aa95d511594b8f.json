@@ -71,7 +71,7 @@
   "postcode": "CA12 5XN",
   "district": "Borrowdale",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -79,14 +79,14 @@
     "quarry"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "waterfalls"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "mine tours"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

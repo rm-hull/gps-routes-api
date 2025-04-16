@@ -77,7 +77,7 @@
   "display_address": "Birches Valley Forest Centre, Birches Valley, Brindley Heath, Slitting Mill, Cannock Chase, Staffordshire, England, WS15 2UQ, United Kingdom",
   "district": "Cannock Chase",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,12 +85,11 @@
     "grassland"
   ],
   "points_of_interest": [
-    "trails",
-    "wildlife"
+    "trails"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "cycle hire"
   ],
   "route_type": "circular",
   "activities": [

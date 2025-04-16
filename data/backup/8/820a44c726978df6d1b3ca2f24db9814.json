@@ -74,7 +74,7 @@
   "display_address": "Montagu Street, Compstall, Stockport, Greater Manchester, England, SK6 5JF, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -87,8 +87,8 @@
     "walkway"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

@@ -119,21 +119,21 @@
   "nominatim_found": true,
   "display_address": "Sundridge with Ide Hill, Ide Hill, Sevenoaks, Kent, England, TN14 6JH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "grassland",
     "hill"
   ],
   "points_of_interest": [
+    "church",
     "historic house",
-    "views",
-    "long distance path"
+    "countryside views"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

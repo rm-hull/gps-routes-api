@@ -89,22 +89,21 @@
   "postcode": "TQ13 8EY",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "stone circle",
+    "viewpoint",
+    "settlement"
   ],
   "facilities": [
+    "toilet",
     "car park",
-    "toilets",
     "catering"
   ],
   "route_type": "out and back",

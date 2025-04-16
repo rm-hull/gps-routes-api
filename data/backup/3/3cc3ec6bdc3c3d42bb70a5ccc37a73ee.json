@@ -68,16 +68,15 @@
   "nominatim_found": true,
   "display_address": "Chestnuts Farm, Binbrook, East Lindsey, Lincolnshire, England, LN8 6EA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "views",
-    "historical trail"
+    "views"
   ],
   "facilities": [
     "car park"

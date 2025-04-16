@@ -118,18 +118,16 @@
   "display_address": "11, Kenworthy Gardens, Saddleworth, Uppermill, Oldham, Greater Manchester, England, OL3 6BS, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "moor",
-    "woodland"
+    "moor"
   ],
   "points_of_interest": [
-    "waterways",
-    "views",
-    "moorland"
+    "reservoir",
+    "moor"
   ],
   "facilities": [
     "car park",

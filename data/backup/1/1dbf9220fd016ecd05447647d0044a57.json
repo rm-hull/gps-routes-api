@@ -128,23 +128,20 @@
   "nominatim_found": true,
   "display_address": "Croxley Green, Rickmansworth, Three Rivers, Hertfordshire, England, WD3 3JD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural",
-    "river"
+    "rural"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historic trees",
-    "farmland",
-    "river views"
+    "avenue of lime trees",
+    "farm"
   ],
   "facilities": [
     "car park",
-    "canal access"
+    "canal"
   ],
   "route_type": "circular",
   "activities": [

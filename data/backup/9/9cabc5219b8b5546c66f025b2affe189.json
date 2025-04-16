@@ -76,7 +76,7 @@
   "postcode": "IV54 8XT",
   "district": "Applecross",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,12 +84,12 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "beach"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

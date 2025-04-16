@@ -99,16 +99,16 @@
   "nominatim_found": true,
   "display_address": "The Three Horseshoes, 44, Main Street, Breedon on the Hill, Derby, Leicestershire, England, DE73 8AN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "footpath"
+    "limestone",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "hill fort",
+    "church"
   ],
   "facilities": [
     "car park"

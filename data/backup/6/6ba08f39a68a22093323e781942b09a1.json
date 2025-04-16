@@ -86,21 +86,20 @@
   "nominatim_found": true,
   "display_address": "School View, Town End, Dufton, Westmorland and Furness, England, CA16 6BZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "road",
+    "rural",
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "radar station",
     "valley"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

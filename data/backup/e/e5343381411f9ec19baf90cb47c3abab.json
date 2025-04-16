@@ -51,21 +51,19 @@
   "display_address": "Morar, B8008, Toigal, M\u00f2rar, Highland, Alba / Scotland, PH40 4PH, United Kingdom",
   "postcode": "PH40 4PH",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "woodland",
-    "coastal"
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "beach"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

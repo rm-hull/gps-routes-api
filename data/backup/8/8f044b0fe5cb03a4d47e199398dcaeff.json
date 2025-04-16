@@ -93,15 +93,16 @@
   "nominatim_found": true,
   "display_address": "New Lairdsland Road, Barleybank, Kirkintilloch, East Dunbartonshire, Alba / Scotland, G66 1LR, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "towpath"
   ],
   "points_of_interest": [
+    "bridges",
     "historical sites",
-    "bridges"
+    "Roman forts"
   ],
   "facilities": [
     "car park"

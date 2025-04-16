@@ -77,20 +77,21 @@
   "display_address": "Brooks Road, Street, Somerset, England, BA16 0NU, United Kingdom",
   "postcode": "BA16 0NU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "church",
+    "park"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

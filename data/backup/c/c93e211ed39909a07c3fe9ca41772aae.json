@@ -126,22 +126,23 @@
   "display_address": "Slad Lane, Woodbastwick, Broadland, Norfolk, England, NR13 6HQ, United Kingdom",
   "postcode": "NR13 6HQ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "river",
     "woodland"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "river views"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

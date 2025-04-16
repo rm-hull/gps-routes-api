@@ -71,17 +71,19 @@
   "postcode": "SN5 5PQ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
+    "meadows",
     "grassland",
-    "lake"
+    "pond"
   ],
   "points_of_interest": [
     "wildlife",
-    "views"
+    "lake",
+    "canal"
   ],
   "facilities": [
     "car park",

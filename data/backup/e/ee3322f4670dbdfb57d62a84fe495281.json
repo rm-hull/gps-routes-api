@@ -89,13 +89,12 @@
   "display_address": "Romford Road, Kenningtons, Thurrock, Essex, England, RM15 4XH, United Kingdom",
   "district": "Kenningtons",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterfront"
+    "grassland"
   ],
   "points_of_interest": [
     "wildflower meadows",
@@ -104,7 +103,8 @@
   "facilities": [
     "visitor center",
     "refreshments",
-    "gifts"
+    "gifts",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

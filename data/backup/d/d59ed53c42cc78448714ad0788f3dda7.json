@@ -90,7 +90,7 @@
   "postcode": "CA10 2ND",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,8 +99,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint",
+    "summit"
   ],
   "facilities": [
     "car park",

@@ -135,7 +135,7 @@
   "postcode": "BB2 2TR",
   "district": "Blackburn",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -143,8 +143,8 @@
     "reservoir"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "tower",
+    "reservoir"
   ],
   "facilities": [
     "car park",

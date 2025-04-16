@@ -131,7 +131,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -139,14 +139,17 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "concert venue",
+    "fortification",
+    "historical site",
+    "amphitheatre",
     "ancient site"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "guided tours"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

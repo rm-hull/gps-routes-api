@@ -68,7 +68,7 @@
   "display_address": "Sensory Garden, High Street, Hythe, Colchester, Essex, England, CO1 1WR, United Kingdom",
   "postcode": "CO1 1WR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -76,10 +76,10 @@
     "river"
   ],
   "points_of_interest": [
+    "castle",
     "historic sites",
     "museum",
-    "sculptures",
-    "viewpoints"
+    "sculptures"
   ],
   "facilities": [
     "visitor center",

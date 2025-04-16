@@ -149,7 +149,7 @@
   "postcode": "LL54 6TW",
   "district": "Beddgelert",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -157,13 +157,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "bike hire",
     "visitor center",
+    "bike hire",
     "trail maps"
   ],
   "route_type": "circular",

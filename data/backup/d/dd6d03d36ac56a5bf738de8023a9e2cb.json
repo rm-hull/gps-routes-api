@@ -119,19 +119,17 @@
   "display_address": "Aylsham, Buxton Road, Aylsham, Broadland, Norfolk, England, NR11 6JD, United Kingdom",
   "postcode": "NR11 6JD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "path",
-    "country lanes"
+    "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "countryside"
+    "station",
+    "footpath"
   ],
   "facilities": [
-    "station",
     "car park"
   ],
   "route_type": "circular",

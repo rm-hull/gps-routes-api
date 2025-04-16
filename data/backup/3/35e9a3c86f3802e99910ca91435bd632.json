@@ -76,7 +76,7 @@
   "nominatim_found": true,
   "display_address": "University of Wales, Trinity Saint David, Bryn Road, Barley Mow, Lampeter, Ceredigion, Cymru / Wales, SA48 7EY, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -84,8 +84,7 @@
     "footpath"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "countryside"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

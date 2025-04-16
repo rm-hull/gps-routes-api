@@ -80,20 +80,19 @@
   "postcode": "PL32 9QG",
   "district": "Camelford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "country lane",
     "moor"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird watching"
+    "viewpoint",
+    "marsh"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

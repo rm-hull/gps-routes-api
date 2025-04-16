@@ -91,7 +91,7 @@
   "postcode": "LS18 4SY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -100,16 +100,17 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "bird watching"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

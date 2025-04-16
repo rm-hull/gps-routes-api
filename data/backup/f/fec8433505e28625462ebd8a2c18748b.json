@@ -76,23 +76,21 @@
   "nominatim_found": true,
   "display_address": "Epperstone By-Pass, Lowdham CP, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG14 7BT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "woodland",
-    "water"
+    "woodland"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "countryside",
-    "neighbouring village"
+    "historic building",
+    "church",
+    "village"
   ],
   "facilities": [
-    "pub",
-    "railway station",
-    "church"
+    "pub/cafe",
+    "railway station"
   ],
   "route_type": "circular",
   "activities": [

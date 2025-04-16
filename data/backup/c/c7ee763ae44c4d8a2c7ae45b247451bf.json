@@ -73,22 +73,21 @@
   "display_address": "Church Passage, Marlow, Buckinghamshire, England, SL7 1NU, United Kingdom",
   "postcode": "SL7 1NU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "pasture"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historic houses",
     "village"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

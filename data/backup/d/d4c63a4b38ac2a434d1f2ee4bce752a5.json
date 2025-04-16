@@ -103,7 +103,7 @@
   "postcode": "SO43 7FY",
   "district": "New Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -111,12 +111,15 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "village green",
+    "church",
+    "historical stone",
     "gardens",
-    "woodland"
+    "woodland trails"
   ],
   "facilities": [
     "pub",
+    "visitor center",
     "car park",
     "picnic"
   ],

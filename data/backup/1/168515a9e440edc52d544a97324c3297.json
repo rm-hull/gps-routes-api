@@ -90,7 +90,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,14 +98,15 @@
     "riverside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages"
+    "landscaped garden",
+    "villages",
+    "wood"
   ],
   "facilities": [
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -71,12 +71,11 @@
   "display_address": "Abbey Bridge, Tavistock, West Devon, Devon, England, PL19 0AA, United Kingdom",
   "postcode": "PL19 0AA",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "30-45 minutes",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "path"
+    "paved"
   ],
   "points_of_interest": [
     "bridges",

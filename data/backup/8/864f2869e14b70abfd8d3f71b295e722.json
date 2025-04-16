@@ -44,16 +44,16 @@
   "region": null,
   "state": "Manawat\u016b-Whanganui",
   "country": "New Zealand / Aotearoa",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "forest"
+    "forestry",
+    "alpine"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "volcanoes"
+    "viewpoint",
+    "lakes"
   ],
   "facilities": [
     "visitor center",

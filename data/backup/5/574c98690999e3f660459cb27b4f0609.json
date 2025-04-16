@@ -96,23 +96,23 @@
   "display_address": "South Brae, Lower Brora, Brora, Highland, Alba / Scotland, KW9 6NU, United Kingdom",
   "postcode": "KW9 6NU",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "3-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "broch",
+    "castle",
+    "loch"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -59,16 +59,16 @@
   "display_address": "Eaton Street, Westfield View, Eaton, Norwich, Norfolk, England, NR4 7LD, United Kingdom",
   "postcode": "NR4 7LD",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "woodland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife"
+    "nature trail",
+    "country walk"
   ],
   "facilities": [
     "car park",
@@ -76,6 +76,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "nature watching"
   ]
 }

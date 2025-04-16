@@ -88,18 +88,20 @@
   "nominatim_found": true,
   "display_address": "Great Rissington, Cotswold, Gloucestershire, England, GL54 2LN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "countryside"
+    "woodland"
   ],
   "points_of_interest": [
-    "villages",
-    "countryside"
+    "village",
+    "countryside",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

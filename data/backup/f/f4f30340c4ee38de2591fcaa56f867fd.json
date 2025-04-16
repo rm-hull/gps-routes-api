@@ -60,22 +60,20 @@
   "nominatim_found": true,
   "display_address": "The Magic Roundabout, Walcot West, South Swindon Parish, Swindon, England, SN3 1AW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "paved"
+    "path"
   ],
   "points_of_interest": [
     "park",
-    "golf course",
-    "railway"
+    "golf course"
   ],
   "facilities": [
     "car park",
-    "boat hire",
-    "parking"
+    "boat hire"
   ],
   "route_type": "circular",
   "activities": [

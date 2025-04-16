@@ -95,17 +95,17 @@
   "nominatim_found": true,
   "display_address": "Galton Memorial Hall, Hadzor Lane, Hadzor, Droitwich Spa, Wychavon, Worcestershire, England, WR9 7DR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "rural"
+    "countryside",
+    "park"
   ],
   "points_of_interest": [
-    "parks",
-    "towns",
-    "farms"
+    "town park",
+    "canal"
   ],
   "facilities": [
     "visitor center",
@@ -115,7 +115,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

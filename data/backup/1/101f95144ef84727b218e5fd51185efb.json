@@ -65,25 +65,23 @@
   "display_address": "Winstanley Road, Orrell Post, Far Moor, Wigan, Greater Manchester, England, WN5 7XD, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "meadow",
-    "canal"
+    "meadow"
   ],
   "points_of_interest": [
-    "wildlife",
-    "views"
+    "wildlife"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "nature reserve"
+    "canal"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -101,16 +101,15 @@
   "postcode": "PH35 4HP",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water",
-    "rural"
+    "water"
   ],
   "points_of_interest": [
-    "historical ruins",
+    "ruins",
     "views"
   ],
   "facilities": [
@@ -119,7 +118,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

@@ -73,25 +73,23 @@
   "display_address": "Fitzwilliam Street, Old Bletchley, West Bletchley, Bletchley, Milton Keynes, City of Milton Keynes, England, MK3 6DF, United Kingdom",
   "postcode": "MK3 6DF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "garden",
-    "lake",
-    "canal"
+    "lake"
   ],
   "points_of_interest": [
     "museum",
     "nature reserve",
-    "lakes"
+    "lake"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

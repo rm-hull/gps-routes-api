@@ -49,7 +49,7 @@
   "display_address": "South Avenue, Corsham, Wiltshire, England, SN13 0BY, United Kingdom",
   "postcode": "SN13 0BY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -57,12 +57,14 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "historic house",
+    "art collection",
+    "rose garden",
+    "stream"
   ],
   "facilities": [
     "visitor center",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

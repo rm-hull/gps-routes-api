@@ -68,24 +68,22 @@
   "nominatim_found": true,
   "display_address": "Cobham Village Store, 36-38, The Street, Battle Street, Cobham, Gravesham, Kent, England, DA12 3BZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "meadows",
-    "pasture"
+    "meadows"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
+    "park",
     "country park",
-    "tree trail"
+    "mausoleum",
+    "estate"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

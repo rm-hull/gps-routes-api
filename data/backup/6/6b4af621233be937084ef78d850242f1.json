@@ -95,7 +95,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,10 +104,9 @@
     "fell"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
+    "waterfall",
     "viaduct",
-    "villages",
+    "village",
     "abbey",
     "castle"
   ],

@@ -111,7 +111,7 @@
   "display_address": "Meadow Lane, Shipton-under-Wychwood, West Oxfordshire, Oxfordshire, England, OX7 6BW, United Kingdom",
   "postcode": "OX7 6BW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -120,11 +120,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "countryside trails",
-    "river views"
+    "countryside trails"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

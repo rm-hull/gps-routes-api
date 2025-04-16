@@ -90,26 +90,26 @@
   "display_address": "Hunter's Path, Drewsteignton, West Devon, Devon, England, EX6 6PB, United Kingdom",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "moorland"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "tor",
+    "hillfort",
+    "woods"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "wildlife watching"
   ]
 }

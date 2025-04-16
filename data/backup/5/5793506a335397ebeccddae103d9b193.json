@@ -56,21 +56,21 @@
   "postcode": "G83 8FB",
   "district": "Luss",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grass"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

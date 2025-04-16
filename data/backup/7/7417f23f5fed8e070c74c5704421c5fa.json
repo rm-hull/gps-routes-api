@@ -80,7 +80,7 @@
   "postcode": "SY10 0HN",
   "district": "Pen-y-bont-fawr",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -88,16 +88,14 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "summit"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "cafe",
-    "B&B"
+    "visitor center",
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

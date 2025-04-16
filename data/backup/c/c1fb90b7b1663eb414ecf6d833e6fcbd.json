@@ -76,7 +76,7 @@
   "postcode": "SA62 3BJ",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,17 +84,17 @@
     "field"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "visitor center",
+    "lighthouse",
+    "fort"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "boat",
     "bird hide"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

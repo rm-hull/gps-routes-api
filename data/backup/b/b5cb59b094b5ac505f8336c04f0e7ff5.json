@@ -101,18 +101,18 @@
   "district": "Thurstaston",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "coastal",
+    "woodland",
     "heathland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "village",
+    "gardens"
   ],
   "facilities": [
     "picnic areas",
@@ -121,9 +121,10 @@
     "information staff",
     "cafe",
     "bbq area",
-    "bird hide"
+    "bird hide",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

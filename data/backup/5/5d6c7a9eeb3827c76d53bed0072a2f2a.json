@@ -96,18 +96,16 @@
   "display_address": "Pen y Pass, A4086, Llanberis, Beddgelert, Gwynedd, Cymru / Wales, LL55 4NT, United Kingdom",
   "district": "Beddgelert",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "lake",
-    "waterside"
+    "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "mountain railway"
+    "ruins",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

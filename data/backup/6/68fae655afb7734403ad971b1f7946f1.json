@@ -86,17 +86,16 @@
   "display_address": "Quarry Incline, Newport, Pembrokeshire, Cymru / Wales, SA42 0QL, United Kingdom",
   "district": "Newport",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "rock"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "hillfort",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

@@ -89,15 +89,15 @@
   "postcode": "LA18 5LP",
   "district": "Whicham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "footpath",
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

@@ -94,22 +94,23 @@
   "nominatim_found": true,
   "display_address": "Altrincham Road, Farm Fold, Styal, Cheshire East, England, SK9 4JF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "garden"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "village",
     "gardens",
-    "museum"
+    "caves",
+    "mill"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

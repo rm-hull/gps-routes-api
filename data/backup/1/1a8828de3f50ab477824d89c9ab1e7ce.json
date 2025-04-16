@@ -134,23 +134,22 @@
   "display_address": "Rowsley Viaduct, Church Lane, Rowsley CP, Tinkersley, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 2DZ, United Kingdom",
   "postcode": "DE4 2DZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "countryside",
-    "park"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic houses",
-    "heritage way",
-    "gardens"
+    "historic house",
+    "gardens",
+    "heritage way"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

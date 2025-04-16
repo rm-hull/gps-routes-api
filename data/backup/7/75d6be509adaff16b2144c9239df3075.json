@@ -77,25 +77,25 @@
   "nominatim_found": true,
   "display_address": "166, High Street, Southover, Lewes, East Sussex, England, BN7 1XP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "hill",
-    "countryside"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
+    "historic house",
     "opera house",
-    "historic house"
+    "nature reserve"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

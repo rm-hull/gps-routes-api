@@ -65,21 +65,20 @@
   "nominatim_found": true,
   "display_address": "Anstie Court, Wharf Street, Devizes, Wiltshire, England, SN10 1EA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "canal"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfront",
-    "countryside views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

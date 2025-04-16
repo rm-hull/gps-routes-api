@@ -95,21 +95,23 @@
   "postcode": "CR5 1DF",
   "district": "London",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "chalk grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "long distance trail"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

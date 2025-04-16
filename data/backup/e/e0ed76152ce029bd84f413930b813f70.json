@@ -77,22 +77,22 @@
   "nominatim_found": true,
   "display_address": "5, Canal Road, Firepool, Taunton, Somerset, England, TA1 1AJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "canal",
-    "river"
+    "riverside"
   ],
   "points_of_interest": [
-    "historical properties",
-    "nature reserves",
-    "bridges"
+    "castle",
+    "parks",
+    "bridges",
+    "historical properties"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

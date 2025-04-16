@@ -124,21 +124,22 @@
   "postcode": "EX13 5UW",
   "district": "Marshwood",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
-    "acid grassland"
+    "woodland",
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "hill forts",
+    "country lanes",
+    "pond"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -69,22 +69,22 @@
   "nominatim_found": true,
   "display_address": "Loaning Head, Alston Moor, Garrigill, Westmorland and Furness, England, CA9 3DZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "waterfall"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "river views"
+    "sculpture",
+    "heritage centre",
+    "waterfall"
   ],
   "facilities": [
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

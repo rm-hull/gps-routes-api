@@ -91,16 +91,16 @@
   "nominatim_found": true,
   "display_address": "Rochdale, Greater Manchester, England, OL12 8RY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",

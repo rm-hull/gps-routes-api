@@ -95,7 +95,7 @@
   "display_address": "Recreation Road, Amesbury, Wiltshire, England, SP4 7BE, United Kingdom",
   "postcode": "SP4 7BE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,15 +104,16 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "farms"
+    "historical site",
+    "farm",
+    "church",
+    "village"
   ],
   "facilities": [
     "pub/cafe",
-    "church",
     "car park",
-    "river"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

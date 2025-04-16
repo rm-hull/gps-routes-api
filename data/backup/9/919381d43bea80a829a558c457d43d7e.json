@@ -86,7 +86,7 @@
   "postcode": "LA2 9BQ",
   "district": "Lancaster",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -94,14 +94,15 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rock climbing"
+    "viewpoint",
+    "rock formations"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "climbing"
   ]
 }

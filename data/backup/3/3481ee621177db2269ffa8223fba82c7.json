@@ -77,23 +77,23 @@
   "nominatim_found": true,
   "display_address": "Sandown Road, Poulders Gardens, Sandwich, Stone Cross, Dover, Kent, England, CT13 9NT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "coastal",
-    "historical"
+    "historic"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
     "golf course",
     "roman fort"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "pub/cafe",
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

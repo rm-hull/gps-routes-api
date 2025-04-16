@@ -76,7 +76,7 @@
   "postcode": "PL7 2FB",
   "district": "Plymouth",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -85,16 +85,16 @@
     "meadows"
   ],
   "points_of_interest": [
-    "historical sites",
-    "family cycle trail"
+    "trail",
+    "estate"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

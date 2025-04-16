@@ -69,17 +69,16 @@
   "display_address": "Windmill House, Dungley Hill, Ripley, Heage, Amber Valley, Derbyshire, East Midlands, England, DE56 2AN, United Kingdom",
   "postcode": "DE56 2AN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "woodland"
+    "pasture",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "heritage sites",
-    "local historical sites"
+    "historical site",
+    "heritage site"
   ],
   "facilities": [
     "visitor center",

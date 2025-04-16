@@ -130,24 +130,22 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "lake"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "settlements",
     "waterfall"
   ],
   "facilities": [
     "visitor center",
     "tea rooms",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

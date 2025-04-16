@@ -101,22 +101,22 @@
   "display_address": "Moulsham, Chelmsford, Essex, England, CM1 1LW, United Kingdom",
   "postcode": "CM1 1LW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "coastal"
+    "heath",
+    "coppice"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "nature reserve",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly",
-    "wheelchair accessible",
     "play area"
   ],
   "route_type": "circular",

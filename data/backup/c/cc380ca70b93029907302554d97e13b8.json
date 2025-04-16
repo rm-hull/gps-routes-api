@@ -96,22 +96,23 @@
   "nominatim_found": true,
   "display_address": "7, Lower Mall, Hammersmith, London Borough of Hammersmith and Fulham, London, Greater London, England, W6 9DJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "grassland",
-    "parkland"
+    "garden"
   ],
   "points_of_interest": [
+    "villa",
     "gardens",
-    "historical buildings",
-    "wildlife"
+    "common",
+    "lake"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -100,8 +100,8 @@
   "nominatim_found": true,
   "display_address": "Drake House, 4, Victory Place, Limehouse, London Borough of Tower Hamlets, London, Greater London, England, E14 8BG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "canal",
@@ -109,14 +109,12 @@
   ],
   "points_of_interest": [
     "wildlife",
-    "historical sites",
-    "park"
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "footpaths",
-    "cycling trails"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

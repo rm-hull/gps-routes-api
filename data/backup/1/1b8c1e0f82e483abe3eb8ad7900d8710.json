@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Down View, Hungerford, West Berkshire, England, RG17 0ED, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -85,12 +85,13 @@
     "canal"
   ],
   "points_of_interest": [
-    "natural beauty",
-    "river views",
-    "canal views"
+    "common",
+    "country lane"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

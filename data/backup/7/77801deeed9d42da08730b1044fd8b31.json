@@ -96,7 +96,7 @@
   "nominatim_found": true,
   "display_address": "Aberdaron, Gwynedd, Cymru / Wales, LL53 8BE, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,9 +104,9 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "bird watching"
+    "viewpoint",
+    "exhibition",
+    "mural"
   ],
   "facilities": [
     "picnic site",
@@ -116,6 +116,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

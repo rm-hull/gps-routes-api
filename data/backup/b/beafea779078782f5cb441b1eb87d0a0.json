@@ -72,18 +72,19 @@
   "display_address": "Stamford Lane, Eaglethorpe, Warmington, North Northamptonshire, England, PE8 6TW, United Kingdom",
   "postcode": "PE8 6TW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "countryside views"
+    "historic buildings"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking",

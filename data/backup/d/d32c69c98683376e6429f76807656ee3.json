@@ -94,7 +94,7 @@
   "display_address": "Hutton Roof Road, Hutton Roof, Mungrisdale, Westmorland and Furness, England, CA11 0XT, United Kingdom",
   "district": "Mungrisdale",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,13 +102,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

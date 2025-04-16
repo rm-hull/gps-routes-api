@@ -136,20 +136,19 @@
   "nominatim_found": true,
   "display_address": "East Riding Leisure, Promenade, Hornsea, East Riding of Yorkshire, England, HU18 1PZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "rural"
+    "paved"
   ],
   "points_of_interest": [
-    "scenic views"
+    "scenery"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "one-way",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

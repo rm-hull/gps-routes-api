@@ -110,26 +110,27 @@
   "display_address": "Ogston New Road, Woolley, Brackenfield CP, Woolley Moor, North East Derbyshire, Derbyshire, East Midlands, England, DE55 6FN, United Kingdom",
   "postcode": "DE55 6FN",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "bird watching",
-    "views"
+    "viewpoint",
+    "bird watching"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "footpaths",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "cycling"
   ]
 }

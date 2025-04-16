@@ -171,26 +171,24 @@
   "display_address": "Croxall Road, Alrewas, Lichfield, Staffordshire, England, DE13 7AR, United Kingdom",
   "district": "Lichfield",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 day",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake/waterfront",
+    "lake",
     "parkland"
   ],
   "points_of_interest": [
-    "historic villages",
-    "forests",
-    "industrial sites",
-    "gardens",
-    "parkland"
+    "historic village",
+    "industrial site",
+    "forest park"
   ],
   "facilities": [
     "visitor center",
     "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

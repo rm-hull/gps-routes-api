@@ -48,7 +48,7 @@
   "nominatim_found": true,
   "display_address": "1, Castle Road, Okemoor Park, Okehampton, West Devon, Devon, England, EX20 1HT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -57,8 +57,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "towns",
+    "villages",
     "geological features"
   ],
   "facilities": [

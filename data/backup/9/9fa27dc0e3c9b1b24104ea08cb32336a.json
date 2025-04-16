@@ -91,17 +91,18 @@
   "display_address": "CAIRNGORM SHOP, Northern Corries Path, Highland, Alba / Scotland, PH22 1RB, United Kingdom",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

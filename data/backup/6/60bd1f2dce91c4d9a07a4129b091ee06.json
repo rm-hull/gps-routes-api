@@ -84,15 +84,15 @@
   "nominatim_found": true,
   "display_address": "The Avenue, Knowles Hill, Newton Abbot, Teignbridge, Devon, England, TQ12 2DD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "woodland"
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
-    "nature trails",
+    "country park",
     "lake"
   ],
   "facilities": [

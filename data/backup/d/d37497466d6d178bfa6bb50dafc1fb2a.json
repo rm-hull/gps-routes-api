@@ -95,7 +95,7 @@
   "display_address": "Kings Langley Cricket Club, Vicarage Lane, Rectory Farm, Kings Langley, Dacorum, Hertfordshire, England, WD4 9HR, United Kingdom",
   "postcode": "WD4 9HR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,12 +103,14 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "common",
+    "historical site",
+    "school"
   ],
   "facilities": [
     "car park",
-    "train station"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

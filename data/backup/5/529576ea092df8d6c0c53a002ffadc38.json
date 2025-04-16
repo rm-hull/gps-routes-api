@@ -121,26 +121,25 @@
   "postcode": "L3 8EN",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "urban",
-    "parkland",
-    "waterfront"
+    "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museums",
-    "statues",
-    "gardens",
-    "shopping complex"
+    "monument",
+    "shopping complex",
+    "museum",
+    "dock"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "pub/cafe",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

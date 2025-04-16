@@ -49,21 +49,21 @@
   "nominatim_found": true,
   "display_address": "Booths, Victoria Street, Windermere, Westmorland and Furness, England, LA23 1QA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "hill",
-    "woodland"
+    "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "villages"
+    "viewpoint",
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "boat access",
-    "visitor center"
+    "boat access"
   ],
   "route_type": "circular",
   "activities": [

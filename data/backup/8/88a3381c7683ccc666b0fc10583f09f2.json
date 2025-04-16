@@ -77,24 +77,23 @@
   "nominatim_found": true,
   "display_address": "Waterside Close, Melton Mowbray, Melton, Leicestershire, England, LE13 1PF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "water",
     "farmland"
   ],
   "points_of_interest": [
-    "picnic areas",
-    "water features",
-    "countryside views"
+    "viewpoint",
+    "park"
   ],
   "facilities": [
     "visitor center",
-    "play areas",
+    "picnic tables",
     "cafe",
-    "picnic tables"
+    "play areas"
   ],
   "route_type": "out and back",
   "activities": [

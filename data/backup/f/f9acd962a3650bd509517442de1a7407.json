@@ -58,20 +58,20 @@
   "nominatim_found": true,
   "display_address": "Walking Bottom, Smoky Hole, Shere, Peaslake, Guildford, Surrey, England, GU5 9RW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "summit"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

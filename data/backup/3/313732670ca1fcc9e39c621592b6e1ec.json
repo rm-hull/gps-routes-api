@@ -66,7 +66,7 @@
   "nominatim_found": true,
   "display_address": "Coniston, Westmorland and Furness, England, LA21 8AH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -74,8 +74,9 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "walled garden",
+    "gazebo",
+    "waterside"
   ],
   "facilities": [
     "car park",

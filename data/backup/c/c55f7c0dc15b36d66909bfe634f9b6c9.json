@@ -96,7 +96,7 @@
   "nominatim_found": true,
   "display_address": "B4228, Old Bishton, Tidenham, Woodcroft, Forest of Dean, Gloucestershire, England, NP16 7PU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -104,12 +104,13 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "church ruins",
+    "historical plaque"
   ],
   "facilities": [
     "car park",
-    "footpath"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

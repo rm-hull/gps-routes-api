@@ -106,7 +106,7 @@
   "display_address": "Crossbill Car Park, Adventure Cycle Trail, Kings Clipstone, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG21 9JL, United Kingdom",
   "district": "Newark and Sherwood",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
@@ -114,16 +114,16 @@
     "heathland"
   ],
   "points_of_interest": [
-    "historical parkland"
+    "parkland"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

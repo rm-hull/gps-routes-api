@@ -100,7 +100,7 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -115,7 +115,7 @@
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

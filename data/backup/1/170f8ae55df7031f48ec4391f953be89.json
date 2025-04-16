@@ -104,17 +104,16 @@
   "nominatim_found": true,
   "display_address": "Long Trail, Stanmore, London Borough of Harrow, London, Greater London, England, HA7 3HQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "4.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland",
-    "waterfront"
+    "heathland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "sculpture trail"
+    "sculpture trail",
+    "waterside"
   ],
   "facilities": [
     "car park",

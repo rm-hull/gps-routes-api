@@ -81,7 +81,7 @@
   "postcode": "OX29 0RW",
   "district": "West Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,13 +89,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "archaeological sites",
-    "village"
+    "historical site",
+    "village",
+    "archaeological site"
   ],
   "facilities": [
     "pub/cafe",
-    "footpath"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

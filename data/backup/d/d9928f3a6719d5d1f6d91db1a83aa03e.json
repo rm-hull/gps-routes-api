@@ -111,7 +111,7 @@
   "nominatim_found": true,
   "display_address": "Tan Yr Eglwys Road, Rhuddlan, Denbighshire, Cymru / Wales, LL18 2UU, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -120,13 +120,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "marine lake"
+    "castle",
+    "viewpoint",
+    "city"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

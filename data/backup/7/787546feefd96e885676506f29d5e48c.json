@@ -94,7 +94,7 @@
   "district": "Bradford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,11 +102,13 @@
     "water"
   ],
   "points_of_interest": [
-    "natural scenery",
     "waterfalls",
     "valley"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

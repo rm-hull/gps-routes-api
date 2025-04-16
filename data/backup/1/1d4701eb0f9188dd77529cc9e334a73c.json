@@ -81,7 +81,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,14 +89,13 @@
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
+    "island",
     "towns"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

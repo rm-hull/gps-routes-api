@@ -321,7 +321,7 @@
   "display_address": "Quay Street, Higher Town, Alcombe, Minehead, Somerset, England, TA24 5UJ, United Kingdom",
   "postcode": "TA24 5UJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
@@ -331,8 +331,11 @@
   "points_of_interest": [
     "villages"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -86,24 +86,25 @@
   "postcode": "BB4 4AU",
   "district": "Rossendale",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "woodland",
+    "valley",
     "reservoir"
   ],
   "points_of_interest": [
-    "historic ruins",
-    "waterways",
+    "farmhouse ruins",
+    "reservoir",
     "viewpoint"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "footpaths",
+    "waterside trails"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

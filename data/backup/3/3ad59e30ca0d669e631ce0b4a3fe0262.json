@@ -121,22 +121,20 @@
   "nominatim_found": true,
   "display_address": "6,7,8,8a, Bridge Street, Middleton in Teesdale, County Durham, North East, England, DL12 0QB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "river"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "reservoirs"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

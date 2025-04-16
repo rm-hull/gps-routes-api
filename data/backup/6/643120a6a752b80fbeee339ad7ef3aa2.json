@@ -66,24 +66,23 @@
   "display_address": "Deri Ogilvie Terrace, Ogilvie Terrace, Pentwyn, Darran Valley, Tir-Phil, Fochriw, Caerphilly, Cymru / Wales, CF81 9NR, United Kingdom",
   "postcode": "CF81 9NR",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lakeside",
-    "meadow"
+    "lakeside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "learning centre"
+    "historical bridges",
+    "learning centre",
+    "local nature reserve"
   ],
   "facilities": [
     "coffee shop",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

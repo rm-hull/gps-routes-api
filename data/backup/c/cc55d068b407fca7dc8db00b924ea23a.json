@@ -34,7 +34,7 @@
   "nominatim_found": true,
   "display_address": "Newton Road, Bridgetown, Totnes, South Hams, Devon, England, TQ9 5BB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -42,14 +42,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "towns",
+    "national park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

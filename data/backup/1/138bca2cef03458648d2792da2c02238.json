@@ -54,16 +54,16 @@
   "nominatim_found": true,
   "display_address": "86, Albert Road, Marle Hill, Pittville, Cheltenham, Gloucestershire, England, GL52 2RD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "play areas"
+    "historical building",
+    "play area"
   ],
   "facilities": [
     "cafe",

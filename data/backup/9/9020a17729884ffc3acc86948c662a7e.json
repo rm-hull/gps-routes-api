@@ -91,27 +91,24 @@
   "postcode": "SA62 3BJ",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "cliff tops",
-    "woodland"
+    "cliff tops"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "fields",
+    "coastal rock formations"
   ],
   "facilities": [
     "visitor center",
-    "bird hide",
-    "car park"
+    "bird hide"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "wildlife watching"
   ]
 }

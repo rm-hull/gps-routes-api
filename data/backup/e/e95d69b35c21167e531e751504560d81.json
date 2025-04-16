@@ -67,19 +67,19 @@
   "nominatim_found": true,
   "display_address": "Reference Point Ltd, West Common, Gerrards Cross, Denham, Gerrards Cross and Chalfonts Community Board, Buckinghamshire, England, SL9 7QN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "mansion",
     "ponds"
   ],
   "facilities": [
-    "public transport",
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

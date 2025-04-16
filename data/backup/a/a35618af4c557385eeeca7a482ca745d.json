@@ -104,24 +104,21 @@
   "nominatim_found": true,
   "display_address": "Cinderdale Bridge, Mill Place, Wasdale, Nether Wasdale, Cumberland, England, CA20 1ET, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "country lanes"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "river"
+    "church",
+    "views"
   ],
   "facilities": [
     "pub/cafe",
     "youth hostel",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

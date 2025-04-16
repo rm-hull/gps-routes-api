@@ -95,23 +95,23 @@
   "postcode": "PE29 3BN",
   "district": "Huntingdonshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "grasslands",
     "meadows",
-    "lakeside"
+    "woodland",
+    "lakes"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "path",
+    "trail"
   ],
   "facilities": [
     "visitor center",
     "cafe",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

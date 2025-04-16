@@ -125,21 +125,20 @@
   "postcode": "NE48 3DY",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "forest",
     "mountain"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites"
+    "bird watching spots",
+    "river"
   ],
   "facilities": [
     "car park",
-    "camping site",
-    "wheelchair accessible"
+    "camping site"
   ],
   "route_type": "circular",
   "activities": [

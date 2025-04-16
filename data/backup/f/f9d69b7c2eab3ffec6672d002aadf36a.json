@@ -95,12 +95,11 @@
   "nominatim_found": true,
   "display_address": "The Old Rectory, Upper Road, Bristol, Bath and North East Somerset, West of England, England, BS39 5AX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "hard",
   "terrain": [
-    "hill",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
     "villages",
@@ -111,7 +110,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "running"
+    "walking"
   ]
 }

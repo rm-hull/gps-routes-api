@@ -94,7 +94,7 @@
   "postcode": "NE66 4EG",
   "district": "Chillingham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,13 +102,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

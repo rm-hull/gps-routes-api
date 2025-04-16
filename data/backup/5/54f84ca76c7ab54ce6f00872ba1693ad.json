@@ -90,7 +90,7 @@
   "postcode": "PH22 1QP",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -98,14 +98,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "ruined castle",
+    "visitor center"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "cycle route",
-    "train station"
+    "train station",
+    "pottery"
   ],
   "route_type": "circular",
   "activities": [

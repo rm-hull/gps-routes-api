@@ -72,23 +72,23 @@
   "nominatim_found": true,
   "display_address": "Cilcain Road, Pentre, Cilcain, Flintshire, Cymru / Wales, CH7 5PN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "grass"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "country parks"
+    "historical site",
+    "viewpoint",
+    "tower"
   ],
   "facilities": [
-    "car park",
+    "pub/cafe",
     "visitor center",
-    "pub/cafe"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

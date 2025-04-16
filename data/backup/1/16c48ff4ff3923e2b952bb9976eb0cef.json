@@ -76,23 +76,25 @@
   "nominatim_found": true,
   "display_address": "Priory Lane, Eaton Ford, St. Neots, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE19 2PU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "meadow",
+    "reedbed",
+    "scrub",
     "woodland",
-    "river",
-    "meadow"
+    "river"
   ],
   "points_of_interest": [
+    "museum",
     "nature reserve",
-    "historical sites",
-    "villages"
+    "lake"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

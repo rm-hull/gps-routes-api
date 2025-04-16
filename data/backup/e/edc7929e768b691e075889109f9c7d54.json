@@ -105,21 +105,20 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "waterway",
-    "woodland",
+    "river",
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

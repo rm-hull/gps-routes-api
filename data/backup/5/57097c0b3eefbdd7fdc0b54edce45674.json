@@ -63,17 +63,15 @@
   "display_address": "B3227, Chittlehampton, Umberleigh, North Devon, Devon, England, EX37 9AA, United Kingdom",
   "postcode": "EX37 9AA",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bridges",
-    "countryside"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

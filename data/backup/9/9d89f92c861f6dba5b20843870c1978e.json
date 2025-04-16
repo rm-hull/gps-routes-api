@@ -80,7 +80,7 @@
   "postcode": "CA19 1TJ",
   "district": "Ulpha",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -88,8 +88,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "car park",

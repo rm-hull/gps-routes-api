@@ -73,24 +73,23 @@
   "display_address": "Townsend Road, Aldworth, West Berkshire, England, RG8 9RX, United Kingdom",
   "postcode": "RG8 9RX",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
+    "countryside",
     "hill"
   ],
   "points_of_interest": [
-    "historic church",
-    "National Trail",
-    "views",
-    "Roman Temple"
+    "church",
+    "temple",
+    "national trail"
   ],
   "facilities": [
     "pub",
-    "river walk"
+    "river path"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

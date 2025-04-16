@@ -109,7 +109,7 @@
   "display_address": "A413, Amersham, Amersham and Villages Community Board, Buckinghamshire, England, HP7 0RN, United Kingdom",
   "district": "Amersham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -117,8 +117,9 @@
     "woodland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife"
+    "park",
+    "lake",
+    "trail"
   ],
   "facilities": [
     "car park"

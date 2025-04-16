@@ -85,24 +85,21 @@
   "display_address": "Whiteways Lodge car park, A29, Houghton, Arun, West Sussex, England, BN18 9FD, United Kingdom",
   "district": "Arun",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

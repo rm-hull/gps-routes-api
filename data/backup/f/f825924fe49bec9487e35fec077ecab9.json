@@ -115,26 +115,29 @@
   "nominatim_found": true,
   "display_address": "Riverside Cafe, 2-3, Severn Side North, Catchems End, Bewdley, Wyre Forest, Worcestershire, England, DY12 2EE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "meadows"
+    "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife watching"
+    "village",
+    "arboretum",
+    "reservoir",
+    "park"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "water features"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

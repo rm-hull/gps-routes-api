@@ -114,17 +114,17 @@
   "nominatim_found": true,
   "display_address": "King's Bruton, Plox, Bruton, Somerset, England, BA10 0ED, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
+    "tower",
     "gardens",
-    "tower"
+    "historic structure"
   ],
   "facilities": [
     "visitor center",

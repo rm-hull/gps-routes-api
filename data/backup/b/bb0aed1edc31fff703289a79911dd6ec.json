@@ -85,12 +85,12 @@
   "postcode": "S71 3EW",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "canal",
+    "reservoir",
     "wetland"
   ],
   "points_of_interest": [
@@ -100,7 +100,8 @@
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

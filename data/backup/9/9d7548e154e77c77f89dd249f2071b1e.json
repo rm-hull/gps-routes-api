@@ -80,23 +80,22 @@
   "postcode": "SY13 4RF",
   "district": "Tushingham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "riverside",
-    "canal",
-    "pasture"
+    "canal"
   ],
   "points_of_interest": [
-    "countryside views",
-    "riverside scenery"
+    "countryside"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "canal access"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

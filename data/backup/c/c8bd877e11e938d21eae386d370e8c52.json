@@ -115,25 +115,25 @@
   "postcode": "DY12 1PG",
   "district": "Wyre Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "reservoir"
+    "river"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "historical sites",
-    "nature trails"
+    "woodland",
+    "reservoir",
+    "arboretum"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

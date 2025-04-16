@@ -105,7 +105,7 @@
   "nominatim_found": true,
   "display_address": "4, Capstone Road, Hele, Ilfracombe, North Devon, Devon, England, EX34 9BT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,15 +114,13 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "beach"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "National Trust maintained path",
-    "staircase"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

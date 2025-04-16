@@ -91,23 +91,20 @@
   "postcode": "CA11 0JS",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "coastal"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "memorial seat"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

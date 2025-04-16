@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Railway Road, Downham Market, King's Lynn and West Norfolk, Norfolk, England, PE38 9EW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,14 @@
     "footpath"
   ],
   "points_of_interest": [
-    "historical sites",
-    "birdwatching"
+    "market square",
+    "church",
+    "clock tower"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

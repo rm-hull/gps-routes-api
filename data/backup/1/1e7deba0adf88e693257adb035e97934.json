@@ -74,16 +74,16 @@
   "postcode": "KY9 1BJ",
   "district": "Elie and Earlsferry",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "rocky"
+    "rock",
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rock formations"
+    "cave",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

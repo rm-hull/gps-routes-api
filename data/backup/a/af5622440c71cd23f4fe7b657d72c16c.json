@@ -80,8 +80,8 @@
   "display_address": "Southwick Road, Denmead, Southwick, Winchester, Hampshire, England, PO17 6HJ, United Kingdom",
   "postcode": "PO17 6HJ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -91,15 +91,15 @@
   ],
   "points_of_interest": [
     "play areas",
-    "waymarked trails"
+    "ponds"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "waymarked trails"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

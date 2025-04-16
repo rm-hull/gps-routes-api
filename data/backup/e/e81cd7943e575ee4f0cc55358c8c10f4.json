@@ -94,7 +94,7 @@
   "display_address": "How Stean Gorge, Whitbeck Farm, Stonebeck Down, Lofthouse, North Yorkshire, York and North Yorkshire, England, HG3 5SF, United Kingdom",
   "district": "Lofthouse",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,15 +102,19 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "activity centre"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "caving",
+    "rock climbing",
+    "abseiling",
+    "canoeing"
   ]
 }

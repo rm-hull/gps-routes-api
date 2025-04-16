@@ -81,24 +81,25 @@
   "postcode": "CH5 3DQ",
   "district": "Hawarden",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
-    "rural"
+    "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "religious sites"
+    "historical site",
+    "viewpoint",
+    "church",
+    "library"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "fish pond"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

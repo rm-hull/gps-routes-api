@@ -67,24 +67,30 @@
   "nominatim_found": true,
   "display_address": "The White House, Priory Farm Road, Inkberrow, Wychavon, Worcestershire, England, WR7 4DZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "grassland",
-    "rural"
+    "footpath"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "park"
+    "village green",
+    "church",
+    "historic site"
   ],
   "facilities": [
     "pub",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "walled garden",
+    "lake",
+    "knot garden",
+    "vegetable garden",
+    "orchard",
+    "bog garden"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

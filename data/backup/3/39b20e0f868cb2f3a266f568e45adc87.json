@@ -89,21 +89,22 @@
   "nominatim_found": true,
   "display_address": "The Street, Shotley, Shotley Gate, Babergh, Suffolk, England, IP9 1NQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
+    "riverside",
     "farmland",
-    "pasture"
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside",
-    "riverside"
+    "viewpoint",
+    "river"
   ],
   "facilities": [
     "pub/cafe",
-    "Suffolk Coast Path"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -89,20 +89,20 @@
   "nominatim_found": true,
   "display_address": "Preston, Linlithgow, West Lothian, Alba / Scotland, EH49 7AL, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "parkland"
+    "parkland",
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site",
+    "sculptures"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

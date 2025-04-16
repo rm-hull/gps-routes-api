@@ -55,15 +55,16 @@
   "display_address": "Roger Ground, Hawkshead, Westmorland and Furness, England, LA22 0NZ, United Kingdom",
   "postcode": "LA22 0NZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "country lanes",
+    "footpaths",
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

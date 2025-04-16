@@ -56,16 +56,16 @@
   "region": null,
   "state": "Victoria",
   "country": "Australia",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "forest",
     "rainforest"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "visitor center",

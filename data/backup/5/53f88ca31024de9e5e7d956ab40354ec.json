@@ -79,17 +79,17 @@
   "display_address": "The Cider House, Church Hill, Buckland Monachorum, Milton Combe, West Devon, Devon, England, PL20 6HF, United Kingdom",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "meadows",
-    "riverside"
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "gardens",
+    "woodland"
   ],
   "facilities": [
     "visitor center",

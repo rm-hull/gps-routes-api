@@ -129,7 +129,7 @@
   "nominatim_found": true,
   "display_address": "Station Road, Bentley Station, Binsted, Bentley, East Hampshire, Hampshire, England, GU10 5JZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -140,16 +140,16 @@
   "points_of_interest": [
     "views",
     "wildfowl",
-    "wildlife"
+    "ferry"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "ferry"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

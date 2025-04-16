@@ -85,23 +85,21 @@
   "display_address": "St Marys Cemetery, St Bernards Close, Higher Town, Buckfastleigh, Buckfast, Teignbridge, Devon, England, TQ11 0EP, United Kingdom",
   "postcode": "TQ11 0EP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
     "historical sites",
     "villages",
-    "monuments",
-    "mines"
+    "monuments"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park",
-    "wheelchair accessible"
+    "pubs/cafes",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

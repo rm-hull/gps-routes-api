@@ -74,7 +74,7 @@
   "postcode": "HG4 5AE",
   "district": "Bishop Monkton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,14 +82,13 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "garden",
     "parkland"
   ],
   "facilities": [
     "car park",
-    "playground",
-    "cafe"
+    "cafe",
+    "playground"
   ],
   "route_type": "out and back",
   "activities": [

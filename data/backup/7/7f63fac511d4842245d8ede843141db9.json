@@ -71,7 +71,7 @@
   "display_address": "Glen Road, Torwood, Falkirk, Alba / Scotland, FK5 4ED, United Kingdom",
   "postcode": "FK5 4ED",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -79,11 +79,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "castle ruins",
+    "broch remains",
+    "natural pool"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "park"
   ],
   "route_type": "circular",
   "activities": [

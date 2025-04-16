@@ -86,7 +86,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -95,13 +95,15 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "castle"
+    "waterfall",
+    "castle",
+    "forest",
+    "river valley"
   ],
   "facilities": [
     "car park",
-    "picnic area"
+    "picnic area",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

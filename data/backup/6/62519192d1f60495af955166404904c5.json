@@ -90,17 +90,16 @@
   "display_address": "Pontcysyllte Aqueduct, Llangollen Rural, Pontcysyllte, Wrexham, Cymru / Wales, LL20 7YS, United Kingdom",
   "postcode": "LL20 7YS",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

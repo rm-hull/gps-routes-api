@@ -90,7 +90,7 @@
   "display_address": "B5343, Lakes, Westmorland and Furness, England, LA22 9JX, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -98,14 +98,14 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfalls",
-    "mountains"
+    "backdrop"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "footpath"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -89,20 +89,21 @@
   "postcode": "HD7 5GY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "countryside"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint",
+    "village"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

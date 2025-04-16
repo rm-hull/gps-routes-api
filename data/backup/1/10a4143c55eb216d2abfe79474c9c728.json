@@ -106,17 +106,17 @@
   "display_address": "B4362, Croft and Yarpole, Lucton, Herefordshire, England, HR6 9PW, United Kingdom",
   "district": "Lucton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "parkland"
+    "farmland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",

@@ -94,18 +94,17 @@
   "nominatim_found": true,
   "display_address": "Waterfall Road, Penisa, Dyserth, Denbighshire, Cymru / Wales, LL18 6EU, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "waterfall"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "woodland trails"
+    "church",
+    "historical building",
+    "railway"
   ],
   "facilities": [
     "car park",

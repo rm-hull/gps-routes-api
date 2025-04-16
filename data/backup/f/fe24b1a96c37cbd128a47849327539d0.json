@@ -98,7 +98,7 @@
   "postcode": "SK11 0AR",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -106,11 +106,13 @@
     "grassland"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "historical sites"
+    "wildlife spotting area",
+    "heronry",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

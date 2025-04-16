@@ -115,7 +115,7 @@
   "display_address": "Cape Cornwall Club, Cape Cornwall Road, Boswedden, Bosavern, St Just, Cornwall, England, TR19 7NL, United Kingdom",
   "district": "St Just",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,13 +123,14 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "ruins"
+    "cliff castle",
+    "ruins",
+    "farm"
   ],
   "facilities": [
     "car park",
-    "village"
+    "village",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

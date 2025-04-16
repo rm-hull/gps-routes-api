@@ -115,20 +115,20 @@
   "display_address": "3, Lighthouse Lane, Whimpwell Green, Happisburgh, North Norfolk, Norfolk, England, NR12 0QE, United Kingdom",
   "postcode": "NR12 0QE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "woodland"
+    "country"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "lighthouse",
+    "church"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

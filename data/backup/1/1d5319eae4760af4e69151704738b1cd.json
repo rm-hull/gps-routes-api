@@ -71,24 +71,23 @@
   "display_address": "Great North Road, Sutton, Retford, Bassetlaw, Nottinghamshire, East Midlands, England, DN22 8SF, United Kingdom",
   "district": "Bassetlaw",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "wetland",
-    "water"
+    "water",
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "lake",
+    "river",
+    "wetland"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "childrens play area",
-    "educational center"
+    "rubbing trail"
   ],
   "route_type": "circular",
   "activities": [

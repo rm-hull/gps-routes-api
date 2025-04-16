@@ -76,22 +76,21 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "chalk downland",
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "stone circles",
     "nature reserve",
     "river valley"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

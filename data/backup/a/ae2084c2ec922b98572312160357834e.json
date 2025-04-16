@@ -61,7 +61,7 @@
   "display_address": "The Great War, Madeira Walk, East Cliff, Ramsgate, Thanet, Kent, England, CT11 8LN, United Kingdom",
   "postcode": "CT11 8LN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
@@ -69,12 +69,12 @@
     "garden"
   ],
   "points_of_interest": [
-    "gardens",
-    "natural features"
+    "garden",
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

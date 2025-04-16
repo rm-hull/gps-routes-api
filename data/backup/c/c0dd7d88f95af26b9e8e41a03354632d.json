@@ -116,25 +116,25 @@
   "nominatim_found": true,
   "display_address": "Warkworth Castle, Castle Street, Warkworth, Northumberland, North East, England, NE65 0UJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "beach",
-    "coastal",
-    "dunes"
+    "dunes",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "castle",
+    "village",
+    "bay"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

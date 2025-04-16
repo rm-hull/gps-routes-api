@@ -86,22 +86,19 @@
   "postcode": "CA13 9XA",
   "district": "Buttermere",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "mine tours",
-    "wheelchair accessible"
+    "bridge"
   ],
   "route_type": "circular",
   "activities": [

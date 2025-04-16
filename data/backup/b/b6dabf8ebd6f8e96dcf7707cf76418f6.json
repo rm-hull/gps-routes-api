@@ -74,9 +74,9 @@
   "postcode": "B68 9JP",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden"
@@ -84,16 +84,17 @@
   "points_of_interest": [
     "nature trails",
     "wildflower area",
-    "historical sites"
+    "mansion",
+    "garden"
   ],
   "facilities": [
     "cafe",
     "shop",
-    "wheelchair accessible",
-    "bench",
-    "pond"
+    "benches",
+    "ponds",
+    "flower beds"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

@@ -85,17 +85,15 @@
   "postcode": "LA6 3AS",
   "district": "Ingleton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "woodland",
-    "pasture"
+    "limestone"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildflower areas",
+    "viewpoint",
     "National Nature Reserve"
   ],
   "facilities": [

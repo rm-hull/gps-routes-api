@@ -67,21 +67,23 @@
   "display_address": "Old Swan House, High Street, Winton Hill, Stockbridge, Test Valley, Hampshire, England, SO20 6EU, United Kingdom",
   "postcode": "SO20 6EU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "pasture",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserves"
+    "nature reserves",
+    "village",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

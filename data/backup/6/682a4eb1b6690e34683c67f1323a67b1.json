@@ -99,24 +99,25 @@
   "display_address": "Raeburn Road South, Greenwich, Ipswich, Suffolk, England, IP3 0ET, United Kingdom",
   "postcode": "IP3 0ET",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites",
-    "viewpoints"
+    "birdwatching area",
+    "parkland",
+    "river"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

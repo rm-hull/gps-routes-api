@@ -95,20 +95,21 @@
   "postcode": "LL55 4EU",
   "district": "Llanberis",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "lake railway",
-    "dog friendly"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

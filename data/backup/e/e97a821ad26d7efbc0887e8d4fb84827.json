@@ -85,22 +85,20 @@
   "display_address": "Boat Storage Area, Appledram, Birdham, Chichester, West Sussex, England, PO20 7BX, United Kingdom",
   "district": "Chichester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "canal",
-    "coastal"
+    "coastal",
+    "water"
   ],
   "points_of_interest": [
-    "boats",
-    "sea views",
-    "harbour"
+    "viewpoint",
+    "marina"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
+    "car park",
     "waterside terrace"
   ],
   "route_type": "circular",

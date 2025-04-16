@@ -105,18 +105,20 @@
   "nominatim_found": true,
   "display_address": "Station Car Park, Riverside, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1DX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "rural"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
     "villages",
-    "riverside"
+    "waymarkers",
+    "audio points"
   ],
   "facilities": [
-    "waymarkers"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

@@ -80,20 +80,21 @@
   "display_address": "Co-op Food, Langborne Road, Whitby, North Yorkshire, York and North Yorkshire, England, YO21 1DH, United Kingdom",
   "postcode": "YO21 1DH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "views",
-    "historical buildings"
+    "hotel",
+    "historic building",
+    "views"
   ],
   "facilities": [
     "cafe",
-    "hotel bar",
-    "hotel accommodation"
+    "bar",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

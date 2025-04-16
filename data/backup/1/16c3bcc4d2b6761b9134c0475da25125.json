@@ -99,23 +99,23 @@
   "display_address": "Nowton Park Carpark, Lime Avenue, Nowton, West Suffolk, Suffolk, England, IP29 5LU, United Kingdom",
   "district": "West Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "grassland",
-    "pathway"
+    "parkland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "historical landscape"
+    "historical site",
+    "scenic views"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

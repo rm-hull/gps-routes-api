@@ -68,22 +68,21 @@
   "nominatim_found": true,
   "display_address": "Gwy Court, Chepstow, Monmouthshire, Cymru / Wales, NP16 5HQ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
     "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "monastery ruins"
+    "historical site",
+    "viewpoint",
+    "monastery"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

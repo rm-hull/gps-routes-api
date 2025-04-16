@@ -72,7 +72,7 @@
   "nominatim_found": true,
   "display_address": "Brambleton Model Railway Club, The Nickey Line, Roundwood, Harpenden, Allied Business Park, St Albans, Hertfordshire, England, AL5 4AY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,16 +81,14 @@
     "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "park",
+    "historical site",
     "manor",
-    "forest",
+    "village",
     "defensive ditch"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

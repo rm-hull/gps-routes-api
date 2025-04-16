@@ -144,7 +144,7 @@
   "nominatim_found": true,
   "display_address": "Church Hill, Easingwold, North Yorkshire, York and North Yorkshire, England, YO61 3AZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -152,19 +152,17 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "water garden",
-    "topiary",
-    "walled garden",
+    "historic priory",
+    "village",
     "lake",
-    "museum"
+    "museum",
+    "castle"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

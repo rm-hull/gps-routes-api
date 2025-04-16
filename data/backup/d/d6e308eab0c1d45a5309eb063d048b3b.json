@@ -125,25 +125,26 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature trails",
-    "wildlife"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "walking trail"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

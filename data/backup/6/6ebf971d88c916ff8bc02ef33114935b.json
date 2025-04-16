@@ -63,24 +63,25 @@
   "nominatim_found": true,
   "display_address": "Farnborough Road, Farnborough, Rushmoor, Hampshire, England, GU14 8AS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "nature reserve"
+    "nature"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "water birds"
+    "historical site",
+    "footpath"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

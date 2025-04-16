@@ -109,7 +109,7 @@
   "display_address": "Kielder, Northumberland, North East, England, NE48 1HG, United Kingdom",
   "postcode": "NE48 1HG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,15 +118,14 @@
   ],
   "points_of_interest": [
     "public art",
-    "wildlife spotting",
-    "visitor center"
+    "visitor center",
+    "viewpoint"
   ],
   "facilities": [
     "cafe",
-    "car park",
     "bike hire",
-    "repair shop",
-    "wheelchair accessible"
+    "car park",
+    "repair shop"
   ],
   "route_type": "circular",
   "activities": [

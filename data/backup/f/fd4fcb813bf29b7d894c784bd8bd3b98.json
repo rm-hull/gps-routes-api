@@ -89,7 +89,7 @@
   "nominatim_found": true,
   "display_address": "Chorcliffe House, 2, Hollinshead Street, Chorley Moor, Chorley, Lancashire, England, PR7 1EP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -98,15 +98,13 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "art gallery",
-    "visitor center"
+    "historical house",
+    "art gallery"
   ],
   "facilities": [
-    "car park",
     "cafe",
-    "wheelchair accessible",
-    "play area"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -73,18 +73,18 @@
   "display_address": "West Green, Cottingham, East Riding of Yorkshire, England, HU16 4BH, United Kingdom",
   "postcode": "HU16 4BH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "lake",
+    "road"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "lakes",
-    "ruins"
+    "mill",
+    "park",
+    "historical site"
   ],
   "facilities": [
     "visitor center",

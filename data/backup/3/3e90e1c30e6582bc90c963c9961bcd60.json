@@ -100,24 +100,26 @@
   "region": null,
   "state": "Cymru / Wales",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
-    "river",
-    "beach"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "lakes"
+    "historical site",
+    "estate",
+    "quay",
+    "castle",
+    "quayside"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

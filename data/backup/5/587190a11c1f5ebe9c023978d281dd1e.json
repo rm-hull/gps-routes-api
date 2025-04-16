@@ -113,7 +113,7 @@
   "nominatim_found": true,
   "display_address": "The Wyvern School, Great Chart Bypass, Singleton, Great Chart with Singleton, Great Chart, Ashford, Kent, England, TN23 4ER, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -122,10 +122,10 @@
     "chalk"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "villages",
-    "nature reserve"
+    "village",
+    "windmill",
+    "hill figure",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

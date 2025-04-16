@@ -94,7 +94,7 @@
   "district": "Kirklees",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -103,13 +103,12 @@
     "moor"
   ],
   "points_of_interest": [
-    "views of countryside",
-    "views of moors",
-    "river"
+    "reservoir",
+    "moor"
   ],
   "facilities": [
     "car park",
-    "reservoir"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

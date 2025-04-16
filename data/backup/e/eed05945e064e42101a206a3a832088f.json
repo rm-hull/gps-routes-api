@@ -119,8 +119,8 @@
   "postcode": "SY5 0TW",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "3-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -128,13 +128,12 @@
     "rock"
   ],
   "points_of_interest": [
-    "historical information",
-    "viewpoints"
+    "viewpoint",
+    "historical information"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "circular walks"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

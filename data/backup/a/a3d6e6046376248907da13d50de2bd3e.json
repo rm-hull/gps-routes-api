@@ -54,7 +54,7 @@
   "nominatim_found": true,
   "display_address": "Bridge Street, Myddfai, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA20 0NQ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -62,16 +62,18 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "church",
+    "visitor center",
+    "royal residence",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
     "craft shop",
     "gift shop",
     "cafe",
-    "wheelchair accessible",
-    "dog friendly"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

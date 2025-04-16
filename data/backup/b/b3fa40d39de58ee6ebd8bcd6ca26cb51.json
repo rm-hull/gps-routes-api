@@ -69,18 +69,16 @@
   "display_address": "Gravelly Hill, Caterham Valley, Caterham, Tandridge, Surrey, England, CR3 6TH, United Kingdom",
   "district": "Caterham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "pasture"
+    "countryside"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature reserve",
-    "countryside"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",

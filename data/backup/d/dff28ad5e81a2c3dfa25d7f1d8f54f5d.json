@@ -100,19 +100,21 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "forest",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

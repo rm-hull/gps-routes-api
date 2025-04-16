@@ -119,13 +119,13 @@
   "nominatim_found": true,
   "display_address": "Grove Ferry Road, Chislet, Upstreet, Canterbury, Kent, England, CT3 4BP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland",
-    "rural"
+    "nature reserve",
+    "countryside"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -134,7 +134,7 @@
   "facilities": [
     "car park",
     "picnic area",
-    "pub"
+    "pub/cafe"
   ],
   "route_type": "loop",
   "activities": [

@@ -85,7 +85,7 @@
   "display_address": "Standing Stone Road, Sutton, Cheshire East, England, SK11 0NS, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,8 +93,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",

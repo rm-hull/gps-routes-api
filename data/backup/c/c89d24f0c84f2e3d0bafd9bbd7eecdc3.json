@@ -104,18 +104,18 @@
   "display_address": "Llangollen Town Hall, Castle Street, Pengwern, Llangollen, Denbighshire, Cymru / Wales, LL20 8NU, United Kingdom",
   "postcode": "LL20 8NU",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "waymarked"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -106,7 +106,7 @@
   "display_address": "Trevone Road, Trevone, Padstow, Cornwall, England, PL28 8QY, United Kingdom",
   "postcode": "PL28 8QY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -115,15 +115,16 @@
     "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "rock formations"
+    "tower",
+    "beach",
+    "estuary"
   ],
   "facilities": [
     "car park",
     "cafe",
+    "pub/cafe",
     "visitor center",
-    "dog friendly"
+    "deer park"
   ],
   "route_type": "circular",
   "activities": [

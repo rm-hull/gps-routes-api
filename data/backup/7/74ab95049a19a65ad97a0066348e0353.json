@@ -86,25 +86,26 @@
   "nominatim_found": true,
   "display_address": "Faversham Road, Kennington Lees, Boughton Aluph, Boughton Lees, Ashford, Kent, England, TN25 4HT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "pasture",
+    "parkland",
+    "water",
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "church",
+    "estate",
     "village"
   ],
   "facilities": [
     "car park",
     "pub/cafe",
-    "hotel"
+    "hotel",
+    "gardens"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

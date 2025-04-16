@@ -66,24 +66,26 @@
   "nominatim_found": true,
   "display_address": "Railway Approach, Blackwell, East Grinstead, Mid Sussex, West Sussex, England, RH19 1BY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "countryside",
     "woodland",
-    "waterside",
-    "countryside"
+    "waterside"
   ],
   "points_of_interest": [
-    "historical houses",
+    "historic house",
+    "reservoir",
     "nature reserve",
-    "gardens",
+    "garden",
     "parkland",
     "bluebell woodland"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

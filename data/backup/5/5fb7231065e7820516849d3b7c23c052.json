@@ -101,21 +101,22 @@
   "postcode": "S33 8WA",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain"
+    "ridge",
+    "limestone"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "geological features"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

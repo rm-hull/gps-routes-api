@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Fishers, Wells Road, Burnham Overy Staithe, Burnham Overy, King's Lynn and West Norfolk, Norfolk, England, PE31 8JH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -115,15 +115,15 @@
     "marsh"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "birdwatching",
-    "nature reserve"
+    "harbour",
+    "nature reserve",
+    "village"
   ],
   "facilities": [
     "car park",
-    "boat trips"
+    "boat"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

@@ -69,24 +69,28 @@
   "display_address": "St Mary Magdalene, Flaunden Hill, Hogpits Bottom, Flaunden, Dacorum, Hertfordshire, England, HP3 0PP, United Kingdom",
   "postcode": "HP3 0PP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture"
+    "grassland"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "gardens",
+    "church",
+    "historic pub",
+    "manor house",
+    "garden",
     "burial mounds",
     "village green"
   ],
   "facilities": [
     "pub",
-    "visitor center"
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

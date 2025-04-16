@@ -115,7 +115,7 @@
   "nominatim_found": true,
   "display_address": "1, Chilton Street, Bridgwater, Somerset, England, TA6 3HS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -124,13 +124,13 @@
   ],
   "points_of_interest": [
     "lock structures",
-    "old bridges",
+    "bridges",
     "solar model",
-    "wildlife"
+    "nature reserve"
   ],
   "facilities": [
-    "pub/cafe",
-    "nature reserve"
+    "pubs/cafes",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

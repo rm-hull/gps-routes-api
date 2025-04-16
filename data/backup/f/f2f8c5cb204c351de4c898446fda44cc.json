@@ -114,7 +114,7 @@
   "nominatim_found": true,
   "display_address": "Bella Dorma, Station Road, Bourton-on-the-Water, Cotswold, Gloucestershire, England, GL54 2ER, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -122,11 +122,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "villages",
-    "countryside",
-    "nature reserve"
+    "village",
+    "nature reserve",
+    "forest"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

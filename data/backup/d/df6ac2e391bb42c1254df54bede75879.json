@@ -77,22 +77,24 @@
   "display_address": "Landulph, Cargreen, Cornwall, England, PL12 6PA, United Kingdom",
   "postcode": "PL12 6PA",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "estuary",
     "rural"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "waterfront views"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
+    "car park",
     "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

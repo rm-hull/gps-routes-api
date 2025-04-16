@@ -91,21 +91,21 @@
   "nominatim_found": true,
   "display_address": "Above Derwent, Braithwaite, Cumberland, England, CA12 5SX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "valley"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

@@ -129,17 +129,16 @@
   "display_address": "The Drunken Garden, Groombridge Hill, Speldhurst, Langton Green, Tunbridge Wells, Kent, England, TN3 9LZ, United Kingdom",
   "district": "Tunbridge Wells",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "rural"
+    "garden"
   ],
   "points_of_interest": [
-    "gardens",
-    "historical sites",
+    "historical site",
+    "garden",
     "wildlife"
   ],
   "facilities": [

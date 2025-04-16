@@ -95,20 +95,20 @@
   "nominatim_found": true,
   "display_address": "Newholm-cum-Dunsley, North Yorkshire, York and North Yorkshire, England, YO21 3SY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "coastal"
   ],
   "points_of_interest": [
-    "historical ruins",
+    "ruins",
     "waterfalls"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "loop",
   "activities": [

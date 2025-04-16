@@ -95,21 +95,20 @@
   "postcode": "TQ13 9XS",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "park"
+    "country park",
+    "canal",
+    "quarry"
   ],
   "facilities": [
-    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

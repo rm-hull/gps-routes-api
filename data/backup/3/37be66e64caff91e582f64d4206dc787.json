@@ -51,7 +51,7 @@
   "postcode": "KW16 3HY",
   "district": "Stenness",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -59,13 +59,12 @@
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "archaeological sites",
-    "wildlife"
+    "historical site",
+    "archaeological site"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -59,7 +59,7 @@
   "nominatim_found": true,
   "display_address": "Brodie House, Grange Central, Old Park, Lawley and Overdale, Telford, Telford and Wrekin, England, TF3 4DA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -68,14 +68,14 @@
     "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "dog friendly"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

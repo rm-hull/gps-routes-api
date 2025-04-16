@@ -75,7 +75,7 @@
   "nominatim_found": true,
   "display_address": "Lake Road, Waterhead, Lakes, Ambleside, Westmorland and Furness, England, LA22 0DX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
@@ -83,11 +83,11 @@
     "garden"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "gardens"
+    "viewpoint",
+    "garden"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "out and back",

@@ -81,7 +81,7 @@
   "postcode": "BD22 0HB",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,11 +89,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural landscapes"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

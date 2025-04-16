@@ -180,7 +180,7 @@
   "nominatim_found": true,
   "display_address": "Castlegate, Helmsley, North Yorkshire, York and North Yorkshire, England, YO62 5DR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -188,12 +188,13 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "country park",
+    "historic towns",
+    "horse"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -100,7 +100,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,9 +108,9 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "parks"
+    "village",
+    "park",
+    "historic building"
   ],
   "facilities": [
     "car park"

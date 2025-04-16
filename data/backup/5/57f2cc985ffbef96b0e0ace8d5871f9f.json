@@ -121,20 +121,21 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "two days",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural",
-    "waterside"
+    "countryside",
+    "waterside",
+    "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

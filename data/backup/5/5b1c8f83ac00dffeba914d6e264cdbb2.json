@@ -77,7 +77,7 @@
   "display_address": "School Lane, Sheeplands Farm, Wargrave, Wokingham, England, RG10 8DX, United Kingdom",
   "postcode": "RG10 8DX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,14 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical buildings",
+    "marina",
+    "church",
+    "countryside views"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park",
-    "wheelchair accessible"
+    "pub",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

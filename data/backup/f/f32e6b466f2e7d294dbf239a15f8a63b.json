@@ -105,7 +105,7 @@
   "display_address": "Cresswell Lane, Brewood and Coven, Brewood, South Staffordshire, Staffordshire, England, ST19 9BE, United Kingdom",
   "postcode": "ST19 9BE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -114,8 +114,8 @@
     "rural"
   ],
   "points_of_interest": [
-    "bird watching",
-    "nature trails"
+    "countryside",
+    "lake"
   ],
   "facilities": [
     "car park",
@@ -123,6 +123,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

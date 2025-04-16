@@ -56,19 +56,19 @@
   "nominatim_found": true,
   "display_address": "Old Forge, Chipstead, Chevening, Dunton Green, Sevenoaks, Kent, England, TN13 2RX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "path",
-    "waterfront"
+    "lake",
+    "path"
   ],
   "points_of_interest": [
-    "footpaths",
-    "lakes"
+    "footpaths"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "loop",
   "activities": [

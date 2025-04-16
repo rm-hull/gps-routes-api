@@ -85,7 +85,7 @@
   "display_address": "Tongue House, Dunnerdale-with-Seathwaite, Seathwaite, Westmorland and Furness, England, LA20 6ED, United Kingdom",
   "postcode": "LA20 6ED",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "7 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -93,8 +93,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",

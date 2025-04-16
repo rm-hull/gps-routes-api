@@ -80,20 +80,20 @@
   "nominatim_found": true,
   "display_address": "Dawley Road, Hayes, London Borough of Hillingdon, London, Greater London, England, UB3 1EJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "grassland",
-    "canal"
+    "meadows"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife viewing"
+    "nature trail",
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

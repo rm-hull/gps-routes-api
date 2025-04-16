@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "BMX Track, Crewe, Cheshire East, England, CW2 7SF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
@@ -81,12 +81,13 @@
     "canal"
   ],
   "points_of_interest": [
-    "landscaped gardens",
+    "park",
+    "garden",
     "lake"
   ],
   "facilities": [
-    "dog friendly",
-    "wheelchair accessible"
+    "footpaths",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

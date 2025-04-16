@@ -111,7 +111,7 @@
   "postcode": "IV25 3JF",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -124,10 +124,12 @@
     "wildlife viewing"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "coastal path"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

@@ -84,22 +84,21 @@
   "display_address": "Mansfield Road, Friezeland, Selston CP, Underwood, Ashfield, Nottinghamshire, East Midlands, England, NG16 5FJ, United Kingdom",
   "district": "Ashfield",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "historical site",
+    "garden"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

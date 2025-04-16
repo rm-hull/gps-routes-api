@@ -94,7 +94,7 @@
   "nominatim_found": true,
   "display_address": "Wagbeach, Minsterley, Shropshire, England, SY5 0NZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,9 +102,10 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "rock formations"
+    "historical site",
+    "nature reserve",
+    "rock formations",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

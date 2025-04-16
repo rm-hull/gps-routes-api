@@ -76,7 +76,7 @@
   "nominatim_found": true,
   "display_address": "28, Harbour Street, Stranraer, Dumfries and Galloway, Alba / Scotland, DG9 7RD, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,11 +84,11 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical information",
-    "viewpoints"
+    "historical information"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

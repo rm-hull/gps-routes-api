@@ -96,22 +96,24 @@
   "nominatim_found": true,
   "display_address": "Corwen, Denbighshire, Cymru / Wales, LL21 0DN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural",
     "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "hillfort",
+    "village",
+    "abbey"
   ],
   "facilities": [
     "car park",
+    "canal",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

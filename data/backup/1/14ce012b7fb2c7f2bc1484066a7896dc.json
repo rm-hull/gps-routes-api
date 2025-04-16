@@ -120,7 +120,7 @@
   "display_address": "Dunstanburgh Castle Golf Course, Sea Lane, Embleton, Northumberland, North East, England, NE66 3XQ, United Kingdom",
   "district": "Embleton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -128,12 +128,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "castle",
+    "village",
+    "beach"
   ],
   "facilities": [
     "car park",
-    "beach"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

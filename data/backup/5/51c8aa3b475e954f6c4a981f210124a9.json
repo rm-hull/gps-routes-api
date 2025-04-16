@@ -110,20 +110,18 @@
   "postcode": "PE36 6NB",
   "district": "King's Lynn and West Norfolk",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "coastal",
     "beach",
+    "woodland",
     "salt marsh"
   ],
   "points_of_interest": [
     "nature reserve",
-    "beaches",
-    "dunes",
-    "woodland area"
+    "beach",
+    "medieval abbey"
   ],
   "facilities": [
     "car park",
@@ -132,6 +130,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

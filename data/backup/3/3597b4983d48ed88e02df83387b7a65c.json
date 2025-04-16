@@ -86,17 +86,17 @@
   "postcode": "PL6 8LL",
   "district": "Plymouth",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viaducts",
+    "railway station",
+    "bridges",
     "wildlife"
   ],
   "facilities": [

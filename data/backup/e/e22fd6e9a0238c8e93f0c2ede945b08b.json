@@ -105,25 +105,21 @@
   "postcode": "NR29 3LS",
   "district": "Great Yarmouth",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "pavement",
-    "country lane",
     "waterfront"
   ],
   "points_of_interest": [
-    "village",
-    "broad",
     "church",
     "garden"
   ],
   "facilities": [
     "car park",
     "pub/cafe",
-    "visitor center",
-    "restaurant"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

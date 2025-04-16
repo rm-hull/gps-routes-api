@@ -116,7 +116,7 @@
   "postcode": "EH27 8DJ",
   "district": "City of Edinburgh",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -125,9 +125,11 @@
   ],
   "points_of_interest": [
     "historical route",
-    "countryside"
+    "landscape"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

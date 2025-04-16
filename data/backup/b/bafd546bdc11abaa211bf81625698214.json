@@ -95,7 +95,7 @@
   "display_address": "Chiseldon & Marlborough Railway Path, Badbury, Chiseldon, Swindon, England, SN4 0HT, United Kingdom",
   "district": "Badbury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,16 +103,17 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "hill fort",
+    "countryside views"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

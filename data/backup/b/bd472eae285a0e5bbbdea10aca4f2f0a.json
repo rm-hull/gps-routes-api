@@ -84,7 +84,7 @@
   "postcode": "CB11 4JA",
   "district": "Uttlesford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -92,14 +92,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "water features"
+    "historical site",
+    "garden",
+    "pond"
   ],
   "facilities": [
     "visitor center",
+    "tea house",
     "stable yard",
-    "tea house"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -54,18 +54,18 @@
   "postcode": "WS15 4NG",
   "district": "Lichfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "heathland",
-    "rural"
+    "heathland"
   ],
   "points_of_interest": [
     "views",
     "wildlife"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

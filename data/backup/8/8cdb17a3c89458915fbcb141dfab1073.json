@@ -69,16 +69,17 @@
   "display_address": "A760, Lochwinnoch, Renfrewshire, Alba / Scotland, PA12 4JF, United Kingdom",
   "district": "Lochwinnoch",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "waterfront",
-    "meadow"
+    "meadow",
+    "nature"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "birdwatching"
+    "nature reserve",
+    "loch"
   ],
   "facilities": [
     "car park",

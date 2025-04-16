@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Main Road, Icklesham, Winchelsea, Rother, East Sussex, England, TN36 4BH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,11 @@
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "neighbouring village"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

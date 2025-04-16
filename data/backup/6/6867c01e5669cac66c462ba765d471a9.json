@@ -73,18 +73,21 @@
   "postcode": "DN10 6TF",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "flora and fauna"
+    "nature trail"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "nature watching"
   ]
 }

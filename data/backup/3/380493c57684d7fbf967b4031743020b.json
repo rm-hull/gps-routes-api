@@ -139,7 +139,7 @@
   "display_address": "Heritage Mews, Lace Market, The Meadows, City of Nottingham, East Midlands, England, NG1 1HF, United Kingdom",
   "postcode": "NG1 1HF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -148,13 +148,14 @@
     "lake"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "historical sites",
-    "park"
+    "nature reserve",
+    "park",
+    "historic stone"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

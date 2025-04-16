@@ -91,12 +91,11 @@
   "display_address": "West Suffolk, Suffolk, England, IP30 0DR, United Kingdom",
   "district": "West Suffolk",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "rural"
+    "grassland"
   ],
   "points_of_interest": [
     "countryside views"
@@ -104,7 +103,7 @@
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

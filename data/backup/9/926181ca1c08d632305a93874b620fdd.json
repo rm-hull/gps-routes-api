@@ -115,7 +115,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,14 +123,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "coastal villages",
+    "villages",
     "beaches",
-    "bays",
-    "countryside"
+    "bays"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -99,7 +99,7 @@
   "display_address": "Abinger Roughs, Abinger Roughs Nature Trail, Abinger, Mole Valley, Surrey, England, RH5 6BF, United Kingdom",
   "district": "Mole Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,15 +107,15 @@
     "downland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "village"
   ],
   "facilities": [
-    "car park",
-    "village shop",
+    "visitor center",
     "tea rooms",
-    "playground",
-    "river"
+    "car park",
+    "pub/cafe",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

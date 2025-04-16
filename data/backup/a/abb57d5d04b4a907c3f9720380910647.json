@@ -105,20 +105,19 @@
   "postcode": "NP16 5EZ",
   "district": "Chepstow",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "field"
+    "field",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

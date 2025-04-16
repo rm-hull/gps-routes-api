@@ -65,7 +65,7 @@
   "postcode": "EX18 7LD",
   "district": "Mid Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -73,9 +73,9 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "forest"
+    "forest",
+    "castle",
+    "stream"
   ],
   "facilities": [
     "car park"

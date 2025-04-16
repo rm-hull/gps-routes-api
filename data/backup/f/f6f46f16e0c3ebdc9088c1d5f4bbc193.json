@@ -71,7 +71,7 @@
   "postcode": "G83 8QX",
   "district": "Balloch",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,16 +80,15 @@
     "garden"
   ],
   "points_of_interest": [
-    "nature trails",
     "visitor center",
     "garden",
     "village"
   ],
   "facilities": [
+    "kiosk",
     "visitor center",
     "car park",
-    "kiosk",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

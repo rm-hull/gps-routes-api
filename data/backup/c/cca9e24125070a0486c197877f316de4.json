@@ -61,22 +61,24 @@
   "postcode": "NP15 1PS",
   "district": "Usk",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historical sites",
-    "gardens"
+    "arboretum",
+    "historical site",
+    "garden"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -114,7 +114,7 @@
   "postcode": "CA12 5XJ",
   "district": "Seatoller",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,14 +123,14 @@
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lakes"
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

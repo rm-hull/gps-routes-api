@@ -73,7 +73,7 @@
   "postcode": "DT2 7AU",
   "district": "Minterne Magna",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,11 +81,12 @@
     "water"
   ],
   "points_of_interest": [
-    "natural features",
-    "historical sites"
+    "historical site",
+    "natural feature"
   ],
   "facilities": [
-    "footpaths"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

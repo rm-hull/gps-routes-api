@@ -73,7 +73,7 @@
   "postcode": "NE65 7SE",
   "district": "Rothbury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,13 +81,14 @@
     "hill"
   ],
   "points_of_interest": [
-    "archaeological sites",
+    "archaeological site",
     "rock carvings",
-    "historical sites"
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

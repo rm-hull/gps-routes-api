@@ -81,20 +81,20 @@
   "nominatim_found": true,
   "display_address": "King's Bridge, Llantysilio, Llangollen, Denbighshire, Cymru / Wales, LL20 8BN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

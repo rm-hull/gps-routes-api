@@ -76,23 +76,24 @@
   "nominatim_found": true,
   "display_address": "Old Park Dental Surgery, 72, Old Park Road, West Hitchin, Hitchin, North Hertfordshire, Hertfordshire, England, SG5 2JT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "chalk hills",
     "woodland",
-    "chalk grassland",
-    "downland"
+    "grassland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "views"
+    "hillfort",
+    "country park",
+    "trail"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

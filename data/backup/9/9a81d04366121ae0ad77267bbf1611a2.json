@@ -91,21 +91,16 @@
   "postcode": "FK17 8HZ",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "mountain"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "rivers",
-    "streams",
-    "waterfalls",
-    "reservoir"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",

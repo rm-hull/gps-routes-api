@@ -118,24 +118,24 @@
   "nominatim_found": true,
   "display_address": "Mill Street, Crickhowell, Powys, Cymru / Wales, NP8 1AU, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "canal towpath",
-    "country lanes",
+    "country lane",
     "woodland"
   ],
   "points_of_interest": [
-    "waterfront",
-    "countryside views",
-    "historical bridge",
-    "forest trails"
+    "river",
+    "reservoir",
+    "forest",
+    "bridge"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

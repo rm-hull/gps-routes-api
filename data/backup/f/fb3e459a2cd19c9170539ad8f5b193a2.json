@@ -104,7 +104,7 @@
   "display_address": "Hill Road, Christmas Common, Watlington, South Oxfordshire, Oxfordshire, England, OX49 5DF, United Kingdom",
   "district": "South Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,14 +112,15 @@
     "chalk grassland"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "nature reserve",
-    "historic estate"
+    "estate",
+    "windmill"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

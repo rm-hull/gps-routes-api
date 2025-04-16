@@ -86,7 +86,7 @@
   "display_address": "Well Lane, Lower Ascott, Wing, Buckinghamshire, England, LU7 0PS, United Kingdom",
   "postcode": "LU7 0PS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,12 +94,11 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "cultural attractions"
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "canal access"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

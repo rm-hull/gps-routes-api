@@ -61,7 +61,7 @@
   "postcode": "DT6 6LB",
   "district": "North Chideock",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -70,13 +70,14 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical site",
+    "viewpoint",
+    "chapel"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

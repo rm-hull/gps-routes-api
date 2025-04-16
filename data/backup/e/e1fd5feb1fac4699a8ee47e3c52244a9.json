@@ -95,7 +95,7 @@
   "display_address": "Stanhope Chase, Peterlee, County Durham, North East, England, SR8 1NJ, United Kingdom",
   "postcode": "SR8 1NJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -104,16 +104,17 @@
   ],
   "points_of_interest": [
     "nature trails",
-    "wildlife viewing"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

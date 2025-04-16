@@ -84,7 +84,7 @@
   "nominatim_found": true,
   "display_address": "GU30 35D, Passfield Common Road, Conford, Bramshott and Liphook, Standford, East Hampshire, Hampshire, England, GU30 7RB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,16 +93,18 @@
     "pastures"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "plant life",
-    "bird watching"
+    "viewpoint",
+    "lakes"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

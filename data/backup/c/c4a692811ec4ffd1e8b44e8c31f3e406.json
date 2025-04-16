@@ -58,19 +58,19 @@
   "display_address": "The Avenue, Nun Monkton, North Yorkshire, York and North Yorkshire, England, YO26 8ES, United Kingdom",
   "postcode": "YO26 8ES",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "trails"
+    "historical site",
+    "gardens"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

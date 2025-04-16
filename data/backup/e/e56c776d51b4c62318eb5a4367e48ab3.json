@@ -75,7 +75,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,18 +84,17 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "gardens",
     "museum",
     "pub",
-    "wildlife"
+    "wetland"
   ],
   "facilities": [
     "visitor center",
-    "shop",
     "pub/cafe",
-    "dog friendly",
-    "wheelchair accessible"
+    "shop",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

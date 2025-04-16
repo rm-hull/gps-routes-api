@@ -91,18 +91,18 @@
   "display_address": "Pen y Pass, Llanberis Pass, Llanberis, Gwynedd, Cymru / Wales, LL55 4NU, United Kingdom",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "mountain summit"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

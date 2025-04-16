@@ -56,7 +56,7 @@
   "display_address": "Temple Road, Halliwell, Bolton, Greater Manchester, England, BL1 8BQ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -65,13 +65,13 @@
     "farmland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "nature reserve",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

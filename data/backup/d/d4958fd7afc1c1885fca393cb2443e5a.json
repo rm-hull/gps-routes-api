@@ -114,7 +114,7 @@
   "display_address": "Chase View, Crich CP, Whatstandwell, Amber Valley, Derbyshire, East Midlands, England, DE4 5DZ, United Kingdom",
   "postcode": "DE4 5DZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,14 +123,14 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viewpoint",
+    "memorial",
     "museum"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
-    "car park",
+    "train station",
     "tram depot"
   ],
   "route_type": "circular",

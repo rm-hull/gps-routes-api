@@ -77,21 +77,23 @@
   "display_address": "Footpath W178, Leek Wootton and Guy's Cliffe, Leek Wootton, Warwick, Warwickshire, England, CV35 7QZ, United Kingdom",
   "postcode": "CV35 7QZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
+    "golf course",
     "woodland",
-    "canal"
-  ],
-  "points_of_interest": [
-    "historical estate",
     "park",
     "wood"
   ],
+  "points_of_interest": [
+    "estate",
+    "footpath",
+    "farm"
+  ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

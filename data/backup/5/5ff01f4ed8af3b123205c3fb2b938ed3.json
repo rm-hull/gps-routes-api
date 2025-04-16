@@ -100,7 +100,7 @@
   "district": "Oldham",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -108,14 +108,14 @@
     "rock"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "memorial",
     "rock formations",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "visitor center"
+    "waterside paths"
   ],
   "route_type": "circular",
   "activities": [

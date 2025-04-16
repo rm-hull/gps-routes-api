@@ -104,7 +104,7 @@
   "display_address": "Down House Garden, Luxted Road, Luxted, London Borough of Bromley, London, Greater London, England, BR6 7JT, United Kingdom",
   "postcode": "BR6 7JT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -113,14 +113,12 @@
     "farmland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museum",
-    "village"
+    "historical site",
+    "museum"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

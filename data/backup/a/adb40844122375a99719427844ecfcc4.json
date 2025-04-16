@@ -91,23 +91,22 @@
   "postcode": "GL6 7QD",
   "district": "Painswick",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "farmland",
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "viewpoints",
-    "archaeological sites"
+    "hill fort",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
-    "churchyard",
+    "visitor center",
     "car park",
     "dog friendly"
   ],

@@ -99,20 +99,21 @@
   "district": "Barnsley",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
+    "grasslands",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "waterfall"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

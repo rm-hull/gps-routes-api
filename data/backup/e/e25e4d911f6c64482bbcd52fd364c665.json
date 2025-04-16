@@ -114,7 +114,7 @@
   "display_address": "Ranger's Walk, Lotherton cum Aberford, Sherburn in Elmet, North Yorkshire, West Yorkshire, England, LS25 3EB, United Kingdom",
   "county": "North Yorkshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,13 +123,13 @@
     "park"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historical sites",
-    "gardens"
+    "chapel",
+    "garden"
   ],
   "facilities": [
     "tea rooms",
-    "gift shop"
+    "gift shop",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

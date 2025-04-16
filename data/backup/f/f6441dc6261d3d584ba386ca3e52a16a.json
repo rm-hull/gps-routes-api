@@ -96,18 +96,16 @@
   "postcode": "LL57 4HW",
   "district": "Llandygai",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "coastal"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "gardens",
+    "garden",
+    "viewpoint",
     "museum"
   ],
   "facilities": [

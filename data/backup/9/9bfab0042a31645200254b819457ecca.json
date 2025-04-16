@@ -81,21 +81,21 @@
   "nominatim_found": true,
   "display_address": "Town Wall, Tweedmouth, Berwick-upon-Tweed, Northumberland, North East, England, TD15 1DE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "urban"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "towers"
+    "bastions",
+    "church",
+    "tower"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

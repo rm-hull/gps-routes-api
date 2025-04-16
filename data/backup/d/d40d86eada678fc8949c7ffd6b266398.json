@@ -66,24 +66,25 @@
   "display_address": "Millingtons Fishing Tackle, 32, Steeley Lane, Chorley Moor, Chorley, Lancashire, England, PR6 0RD, United Kingdom",
   "postcode": "PR6 0RD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "canal",
-    "park"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
+    "country park",
+    "park",
     "nature reserve",
-    "lake",
-    "woodland trails"
+    "golf course"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

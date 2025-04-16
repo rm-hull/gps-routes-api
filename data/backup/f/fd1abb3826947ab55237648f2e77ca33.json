@@ -89,23 +89,20 @@
   "postcode": "WA16 6SJ",
   "district": "Mere",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "lake",
-    "garden"
+    "garden",
+    "park"
   ],
   "points_of_interest": [
-    "historical sites",
-    "farmland",
-    "gardens"
+    "farm",
+    "garden"
   ],
   "facilities": [
     "car park",
-    "cycle hire",
-    "visitor center"
+    "cycle hire"
   ],
   "route_type": "circular",
   "activities": [

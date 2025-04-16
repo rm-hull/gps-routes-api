@@ -89,7 +89,7 @@
   "nominatim_found": true,
   "display_address": "Weald Road, South Weald, Brentwood, Essex, England, CM14 5QU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -97,8 +97,8 @@
     "parkland"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites"
+    "bird hide",
+    "visitor center"
   ],
   "facilities": [
     "visitor center",

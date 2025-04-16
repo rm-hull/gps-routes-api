@@ -85,15 +85,14 @@
   "nominatim_found": true,
   "display_address": "Shiplake station, Station Road, Shiplake, Lower Shiplake, South Oxfordshire, Oxfordshire, England, RG9 3NY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "path"
+    "river"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "train station",

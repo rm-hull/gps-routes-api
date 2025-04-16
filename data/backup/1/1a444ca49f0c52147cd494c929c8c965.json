@@ -81,13 +81,13 @@
   "display_address": "Aikton, Thurstonfield, Cumberland, England, CA5 6NQ, United Kingdom",
   "district": "Thurstonfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "wetlands",
-    "meadows"
+    "meadows",
+    "wetlands"
   ],
   "points_of_interest": [
     "visitor center",
@@ -99,7 +99,8 @@
   ],
   "route_type": "circular",
   "activities": [
+    "cycling",
     "walking",
-    "cycling"
+    "bird watching"
   ]
 }

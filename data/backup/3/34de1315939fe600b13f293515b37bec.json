@@ -71,7 +71,7 @@
   "postcode": "NP16 7JB",
   "district": "Forest of Dean",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -79,13 +79,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historic sites",
-    "nature reserve",
-    "viewpoints"
+    "church ruins",
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

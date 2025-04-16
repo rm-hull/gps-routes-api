@@ -91,22 +91,22 @@
   "nominatim_found": true,
   "display_address": "The Street, Battle Street, Cobham, Gravesham, Kent, England, DA12 3BY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "grass"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "barrow",
+    "bunker",
+    "estate"
   ],
   "facilities": [
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

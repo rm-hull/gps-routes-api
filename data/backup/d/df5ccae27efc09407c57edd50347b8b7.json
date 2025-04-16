@@ -86,15 +86,14 @@
   "postcode": "PA36 4AG",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "mountain",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

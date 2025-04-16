@@ -81,7 +81,7 @@
   "nominatim_found": true,
   "display_address": "Dufftown Road, Craigellachie, Moray, Alba / Scotland, AB55 4BN, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,14 +89,14 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls"
+    "historical site",
+    "waterfall"
   ],
   "facilities": [
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

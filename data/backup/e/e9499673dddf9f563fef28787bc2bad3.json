@@ -100,23 +100,24 @@
   "nominatim_found": true,
   "display_address": "Duddingston Low Road, Duddingston Village, Duddingston, City of Edinburgh, Alba / Scotland, EH15 3PY, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "lake",
     "garden",
-    "grass"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "views"
+    "garden",
+    "village",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "church"
+    "church",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

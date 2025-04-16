@@ -95,7 +95,7 @@
   "region": null,
   "state": "Cymru / Wales",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,12 +103,11 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural scenery"
+    "town",
+    "valley"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

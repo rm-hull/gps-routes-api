@@ -58,7 +58,7 @@
   "nominatim_found": true,
   "display_address": "Market Place, Market Weighton, East Riding of Yorkshire, England, YO43 3AW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -67,15 +67,16 @@
     "canal"
   ],
   "points_of_interest": [
-    "streams",
-    "villages"
+    "village",
+    "streams"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "waterside walk"
   ]
 }

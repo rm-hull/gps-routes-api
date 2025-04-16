@@ -77,23 +77,23 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "parkland",
+    "pasture",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "art collections",
-    "park"
+    "castle",
+    "park",
+    "pond",
+    "house"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "bus station",
-    "visitor center"
+    "train station"
   ],
   "route_type": "out and back",
   "activities": [

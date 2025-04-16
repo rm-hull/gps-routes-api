@@ -101,7 +101,7 @@
   "display_address": "Ken-Dee trail, Mains of Duchrae Farm, Parton, Dumfries and Galloway, Alba / Scotland, DG7 3NE, United Kingdom",
   "district": "Parton",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -109,13 +109,12 @@
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird watching"
+    "viewpoint",
+    "bird hide"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "bird hide"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

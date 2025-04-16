@@ -90,7 +90,7 @@
   "nominatim_found": true,
   "display_address": "Sea Hill Lane, Seatown, Chideock, Dorset, England, DT6 6JU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
@@ -98,8 +98,9 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "chapel",
+    "woodland"
   ],
   "facilities": [
     "car park",

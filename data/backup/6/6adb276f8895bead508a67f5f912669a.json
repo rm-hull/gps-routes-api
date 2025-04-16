@@ -76,14 +76,14 @@
   "postcode": "NN6 8RQ",
   "district": "Coton",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "waterfront"
   ],
   "points_of_interest": [
-    "nature trails"
+    "reservoir"
   ],
   "facilities": [
     "visitor center",
@@ -91,6 +91,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

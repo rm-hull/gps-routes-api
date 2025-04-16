@@ -100,26 +100,28 @@
   "display_address": "North Avenue, Edenham, Grimsthorpe, South Kesteven, Lincolnshire, England, PE10 0LZ, United Kingdom",
   "postcode": "PE10 0LZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "parkland",
-    "rural"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing",
-    "deer park"
+    "deer park",
+    "avenues of trees",
+    "statues"
   ],
   "facilities": [
     "pub/cafe",
+    "car park",
     "footpaths"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

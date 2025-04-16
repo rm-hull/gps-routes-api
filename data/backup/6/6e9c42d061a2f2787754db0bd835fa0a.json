@@ -61,7 +61,7 @@
   "display_address": "Castle Street, Cymer and Glyncorrwg, Glyncorrwg, Neath Port Talbot, Cymru / Wales, SA13 3BA, United Kingdom",
   "postcode": "SA13 3BA",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -69,11 +69,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

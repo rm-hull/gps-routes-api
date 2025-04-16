@@ -90,13 +90,12 @@
   "display_address": "Leopold Street, Harrington Mills Business Park, Long Eaton, Erewash, Derbyshire, East Midlands, England, NG10 4QE, United Kingdom",
   "postcode": "NG10 4QE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "canal towpath",
-    "woodland",
-    "parkland"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -104,8 +103,8 @@
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly",
-    "wheelchair accessible",
     "play area"
   ],
   "route_type": "circular",

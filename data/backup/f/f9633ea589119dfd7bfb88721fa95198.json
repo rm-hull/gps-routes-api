@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Stubbins Lane, Dryclough, Chinley, Buxworth and Brownside, Chinley, High Peak, Derbyshire, East Midlands, England, SK23 6AE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,7 +89,7 @@
   ],
   "points_of_interest": [
     "geological features",
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

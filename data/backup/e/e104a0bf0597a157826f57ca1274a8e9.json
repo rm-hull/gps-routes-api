@@ -33,18 +33,15 @@
   "display_address": "Church Road, West Suffolk, Suffolk, England, IP31 1RQ, United Kingdom",
   "postcode": "IP31 1RQ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "variable",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "rural"
+    "river"
   ],
-  "points_of_interest": [
-    "nature trails"
-  ],
+  "points_of_interest": [],
   "facilities": [],
-  "route_type": "variable",
+  "route_type": "out and back",
   "activities": [
     "walking",
     "cycling"

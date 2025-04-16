@@ -100,20 +100,19 @@
   "nominatim_found": true,
   "display_address": "Station Hill, Worth, Three Bridges, Crawley, West Sussex, England, RH10 7AZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "paved",
-    "rural"
+    "grass"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "country park"
+    "country park",
+    "pond"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "visitor center"
   ],
   "route_type": "linear",
   "activities": [

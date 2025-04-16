@@ -66,20 +66,19 @@
   "postcode": "TN11 9BE",
   "district": "Tonbridge and Malling",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "paved path"
+    "paved"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites"
+    "information board",
+    "ruins"
   ],
   "facilities": [
-    "visitor center",
     "cafe",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -109,7 +109,7 @@
   "postcode": "DL13 3NP",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,15 +117,14 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "sculptures",
-    "waterfall"
+    "sculptures trail",
+    "waterfall",
+    "viewpoint"
   ],
   "facilities": [
     "cycle hire",
     "visitor center",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

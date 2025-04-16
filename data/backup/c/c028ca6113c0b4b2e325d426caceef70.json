@@ -80,19 +80,19 @@
   "nominatim_found": true,
   "display_address": "Cotswold Lane, Sodbury, Old Sodbury, South Gloucestershire, West of England, England, BS37 6NF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
+    "estuary",
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "landmark"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

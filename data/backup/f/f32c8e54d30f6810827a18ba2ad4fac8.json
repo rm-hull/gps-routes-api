@@ -138,22 +138,19 @@
   "nominatim_found": true,
   "display_address": "Musselburgh Road, Woodburn, Dalkeith, Midlothian, Alba / Scotland, EH22 1BZ, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "coastal"
+    "river"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "wildlife"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

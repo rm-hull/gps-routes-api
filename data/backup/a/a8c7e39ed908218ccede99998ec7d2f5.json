@@ -75,7 +75,7 @@
   "postcode": "BD19 5LY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -83,12 +83,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "trails"
+    "historic site",
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

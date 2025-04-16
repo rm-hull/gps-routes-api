@@ -95,20 +95,21 @@
   "postcode": "BN6 8SG",
   "district": "Lewes",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "grassland",
     "woodland",
-    "water"
+    "lake"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "natural beauty"
+    "viewpoint",
+    "bird watching"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

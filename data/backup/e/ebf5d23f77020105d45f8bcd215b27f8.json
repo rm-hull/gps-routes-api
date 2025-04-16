@@ -106,7 +106,7 @@
   "postcode": "AB56 4SB",
   "district": "Cullen",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
   "difficulty": "moderate",
   "terrain": [
@@ -114,14 +114,13 @@
     "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural arch"
+    "historical structure",
+    "natural arch",
+    "village"
   ],
   "facilities": [
     "car park",
-    "footpath",
-    "shared cycling and walking trail"
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

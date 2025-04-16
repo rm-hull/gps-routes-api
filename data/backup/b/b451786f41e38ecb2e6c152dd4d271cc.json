@@ -73,7 +73,7 @@
   "display_address": "Caledon Close, Beaconsfield New Town, Beaconsfield, Beaconsfield and Chepping Wye Community Board, Knotty Green, Buckinghamshire, England, HP9 2DA, United Kingdom",
   "postcode": "HP9 2DA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,15 +81,15 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "nature reserves"
+    "historical site",
+    "village",
+    "church",
+    "museum"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
-    "car park",
-    "duck pond"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

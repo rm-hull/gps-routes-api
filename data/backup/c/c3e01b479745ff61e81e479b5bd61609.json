@@ -68,27 +68,27 @@
   "nominatim_found": true,
   "display_address": "Novotel, Schooner Way, Newtown, Butetown, Cardiff, Cymru / Wales, CF10 4RT, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
-    "urban"
+    "limestone cliffs"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "views"
+    "historical site",
+    "country park"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "visitor center",
-    "beach",
-    "play area"
+    "car park",
+    "dog friendly",
+    "play area",
+    "waterside trails"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

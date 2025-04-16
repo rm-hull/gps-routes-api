@@ -119,23 +119,21 @@
   "display_address": "Fire Road 12, Santon Downham, West Suffolk, Suffolk, England, IP27 0AF, United Kingdom",
   "district": "West Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy/moderate",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "forest"
   ],
   "points_of_interest": [
     "viewing hide",
-    "wildlife",
     "arboretum"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "walled garden",
-    "wheelchair accessible"
+    "walled garden"
   ],
   "route_type": "circular",
   "activities": [

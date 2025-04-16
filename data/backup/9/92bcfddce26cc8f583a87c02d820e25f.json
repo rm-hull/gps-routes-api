@@ -44,21 +44,22 @@
   "display_address": "Eastcourt, Burbage, Wiltshire, England, SN8 3AG, United Kingdom",
   "postcode": "SN8 3AG",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "rural"
-  ],
-  "points_of_interest": [
-    "historic church",
     "countryside"
   ],
+  "points_of_interest": [
+    "church",
+    "windmill"
+  ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

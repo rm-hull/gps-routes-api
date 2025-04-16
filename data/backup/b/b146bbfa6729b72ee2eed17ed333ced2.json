@@ -84,23 +84,24 @@
   "display_address": "Sunholme Drive, Benton, Wallsend, North Tyneside, Tyne and Wear, North East, England, NE28 9YT, United Kingdom",
   "county": "Tyne and Wear",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "grassland",
     "woodland",
-    "wetlands"
+    "ponds",
+    "wetlands",
+    "lake"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "bird watching"
+    "bird hide",
+    "visitor center",
+    "exhibition room"
   ],
   "facilities": [
-    "visitor center",
     "restaurant",
-    "exhibition room",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

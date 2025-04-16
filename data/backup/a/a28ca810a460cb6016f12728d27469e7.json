@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "Nexus House, Station Road, Ripley Springs, Egham, Runnymede, Surrey, England, TW20 9FA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -81,8 +81,8 @@
     "park"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "historical site",
+    "park"
   ],
   "facilities": [
     "cafe",

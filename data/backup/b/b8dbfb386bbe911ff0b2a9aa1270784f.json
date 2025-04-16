@@ -69,21 +69,20 @@
   "nominatim_found": true,
   "display_address": "Aynho Village Hall, 2, Croughton Road, Aynho, West Northamptonshire, England, OX17 3BD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "pasture"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "views",
-    "church"
+    "historic church",
+    "estate"
   ],
   "facilities": [
-    "car park",
-    "canal access"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

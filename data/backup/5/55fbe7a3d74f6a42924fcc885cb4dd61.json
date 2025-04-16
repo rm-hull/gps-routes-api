@@ -76,7 +76,7 @@
   "postcode": "SN5 3PA",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,12 +85,14 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical building",
+    "gardens",
+    "park"
   ],
   "facilities": [
-    "car park",
     "play area",
+    "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

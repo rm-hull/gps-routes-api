@@ -94,7 +94,7 @@
   "nominatim_found": true,
   "display_address": "The Round House, 1, The Esplanade, Rodwell, Weymouth, Dorset, England, DT4 8EA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,15 +102,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural landmarks",
+    "nature reserve",
+    "historical site",
     "beach"
   ],
   "facilities": [
     "visitor center",
+    "pub/cafe",
     "car park",
-    "beach",
-    "pub/cafe"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

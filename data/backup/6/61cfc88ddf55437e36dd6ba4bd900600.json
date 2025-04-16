@@ -85,15 +85,16 @@
   "nominatim_found": true,
   "display_address": "The Chalets, Stronafyne, Succoth, Argyll and Bute, Alba / Scotland, G83 7AP, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "stone"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "boulders",
+    "panoramic views"
   ],
   "facilities": [
     "car park"

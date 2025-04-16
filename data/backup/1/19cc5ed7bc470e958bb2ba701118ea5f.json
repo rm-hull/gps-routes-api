@@ -91,8 +91,8 @@
   "display_address": "54, Hertford Road, Welwyn, Digswell, Welwyn Hatfield, Hertfordshire, England, AL6 0DA, United Kingdom",
   "postcode": "AL6 0DA",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -100,19 +100,19 @@
     "park"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "historic bridges",
-    "gardens",
+    "nature reserve",
+    "lake",
+    "bridge",
     "church",
-    "lake"
+    "estate"
   ],
   "facilities": [
     "car park",
-    "watersports centre",
     "restaurant",
     "coffee shop",
-    "farm shop",
-    "visitor center"
+    "watersports centre",
+    "visitor center",
+    "farm shop"
   ],
   "route_type": "circular",
   "activities": [

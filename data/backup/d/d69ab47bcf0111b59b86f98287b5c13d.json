@@ -76,7 +76,7 @@
   "display_address": "Oxburgh Hall, Oxborough Road, Oxborough, Breckland, Norfolk, England, PE33 9PS, United Kingdom",
   "postcode": "PE33 9PS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -85,8 +85,7 @@
   ],
   "points_of_interest": [
     "gardens",
-    "trails",
-    "water features"
+    "trails"
   ],
   "facilities": [
     "visitor center",

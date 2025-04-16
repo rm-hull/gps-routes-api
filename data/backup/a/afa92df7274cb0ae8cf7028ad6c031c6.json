@@ -63,8 +63,8 @@
   "postcode": "DN16 2BU",
   "district": "Scunthorpe",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -72,13 +72,13 @@
   ],
   "points_of_interest": [
     "gardens",
-    "nature reserve",
-    "trails"
+    "fountain",
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "footpaths",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

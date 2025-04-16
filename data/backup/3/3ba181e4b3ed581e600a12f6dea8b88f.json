@@ -116,22 +116,23 @@
   "display_address": "St Richard's Hospice, B4190, Catchems End, Bewdley, Wyre Forest, Worcestershire, England, DY12 2AP, United Kingdom",
   "postcode": "DY12 2AP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "river"
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside views",
-    "gardens",
-    "reservoirs"
+    "country park",
+    "reservoir",
+    "wood"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

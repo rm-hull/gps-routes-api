@@ -90,7 +90,7 @@
   "display_address": "B4090, Hanbury, Droitwich Spa, Wychavon, Worcestershire, England, WR9 7FB, United Kingdom",
   "district": "Wychavon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -98,13 +98,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "villages",
-    "countryside",
-    "church"
+    "church",
+    "historic trail"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

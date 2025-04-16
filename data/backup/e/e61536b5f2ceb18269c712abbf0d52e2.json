@@ -125,23 +125,22 @@
   "display_address": "Oxford Street, Southam CP, Stratford-on-Avon, Warwickshire, England, CV47 1NS, United Kingdom",
   "postcode": "CV47 1NS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
+    "holy well",
     "nature reserve",
-    "historical well",
-    "woodland trails"
+    "village"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "lake"
   ],
   "route_type": "loop",
   "activities": [

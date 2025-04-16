@@ -110,26 +110,27 @@
   "display_address": "Lapwing Lane, Penketh, Warrington, England, WA4 6XE, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "water",
-    "canal"
+    "meadow"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical sites",
-    "river views"
+    "viewpoint",
+    "canal"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "walking trails"
+    "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "cycling"
   ]
 }

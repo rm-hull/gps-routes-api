@@ -115,21 +115,20 @@
   "postcode": "L35 3SD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "meadows",
     "woodland",
-    "grassland",
-    "marsh"
+    "ponds"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -95,22 +95,24 @@
   "nominatim_found": true,
   "display_address": "King William Walk, Greenwich Town Centre, East Greenwich, Royal Borough of Greenwich, London, Greater London, England, SE10 8PU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
-    "urban"
+    "lawn",
+    "garden",
+    "park"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks"
+    "viewpoint",
+    "deer park",
+    "observatory",
+    "planetarium"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

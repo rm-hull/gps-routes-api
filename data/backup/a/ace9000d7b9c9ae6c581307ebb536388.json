@@ -125,7 +125,7 @@
   "display_address": "Victoria House, Pottery Road, Eckersley Mills, Wallgate, Wigan, Greater Manchester, England, WN3 4EX, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -137,16 +137,15 @@
     "historical buildings",
     "football stadium",
     "rugby stadium",
-    "village",
-    "waterfalls",
-    "cliff faces"
+    "fairy glen",
+    "hill"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "train station"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

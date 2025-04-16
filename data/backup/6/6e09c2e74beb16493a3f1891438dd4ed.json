@@ -76,22 +76,22 @@
   "nominatim_found": true,
   "display_address": "Park Lane, Henlow, Central Bedfordshire, England, SG16 6BS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "country"
   ],
   "points_of_interest": [
-    "country views",
-    "water wildlife",
-    "historic mill"
+    "waterfall",
+    "country views"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

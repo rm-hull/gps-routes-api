@@ -64,23 +64,26 @@
   "display_address": "Yorktown Road, Little Sandhurst, Sandhurst, Bracknell Forest, England, GU47 9DP, United Kingdom",
   "district": "Sandhurst",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "wet meadows"
+    "meadows",
+    "lake"
   ],
   "points_of_interest": [
+    "memorial park",
     "nature reserve",
-    "wildflower areas",
-    "lake"
+    "country park",
+    "woodland"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
     "bird watching"

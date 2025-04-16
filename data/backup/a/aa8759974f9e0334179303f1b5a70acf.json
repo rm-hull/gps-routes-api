@@ -90,7 +90,7 @@
   "display_address": "Putney Bridge, Putney Bridge Approach, Hurlingham, Fulham, London Borough of Hammersmith and Fulham, London, Greater London, England, SW6 3LA, United Kingdom",
   "postcode": "SW6 3LA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -98,15 +98,16 @@
     "park"
   ],
   "points_of_interest": [
-    "wildlife",
     "gardens",
-    "park"
+    "park",
+    "bridge"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

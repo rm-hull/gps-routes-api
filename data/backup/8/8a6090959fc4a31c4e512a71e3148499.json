@@ -105,16 +105,15 @@
   "display_address": "Station Road, Killin, Stirling, Alba / Scotland, FK21 8TU, United Kingdom",
   "postcode": "FK21 8TU",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river"
+    "mountain"
   ],
   "points_of_interest": [
-    "views",
-    "beaches"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

@@ -75,7 +75,7 @@
   "display_address": "Pig Lane, Friday Street, Eastbourne, East Sussex, England, BN23 8AL, United Kingdom",
   "postcode": "BN23 8AL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -83,16 +83,15 @@
     "natural"
   ],
   "points_of_interest": [
-    "historic ruins",
-    "country walk"
+    "historic ruins"
   ],
   "facilities": [
     "skate park",
     "bmx park",
     "cricket court",
     "playground",
-    "wheelchair accessible",
-    "car park"
+    "accessible entrance",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

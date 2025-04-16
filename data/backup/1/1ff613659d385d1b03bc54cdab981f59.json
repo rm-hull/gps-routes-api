@@ -91,23 +91,22 @@
   "nominatim_found": true,
   "display_address": "Southgate National Trust Car Park, Southgate Road, Pennard, Southgate, Swansea, Cymru / Wales, SA3 2DJ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "coastal",
-    "sand",
-    "grass"
+    "sandy"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "coastal path"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

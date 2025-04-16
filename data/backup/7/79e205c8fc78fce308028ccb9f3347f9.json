@@ -69,15 +69,15 @@
   "nominatim_found": true,
   "display_address": "Promenade, A955, Innerleven, Leven, Fife, Alba / Scotland, KY8 4NR, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
   "difficulty": "easy",
   "terrain": [
     "beach",
     "coastal"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

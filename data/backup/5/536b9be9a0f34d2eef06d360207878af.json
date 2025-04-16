@@ -105,19 +105,18 @@
   "postcode": "SO19 7BG",
   "district": "Southampton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "pasture",
-    "hill"
+    "pasture"
   ],
   "points_of_interest": [
     "park",
     "country park",
     "cathedral",
-    "views"
+    "hill"
   ],
   "facilities": [
     "car park",

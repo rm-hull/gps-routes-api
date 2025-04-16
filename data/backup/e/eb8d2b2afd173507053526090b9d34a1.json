@@ -118,8 +118,8 @@
   "postcode": "GU24 0JT",
   "district": "Guildford",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -130,12 +130,11 @@
     "village green",
     "duck pond",
     "cricket pitch",
-    "birdlife",
     "cemetery"
   ],
   "facilities": [
-    "car park",
-    "footpaths"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

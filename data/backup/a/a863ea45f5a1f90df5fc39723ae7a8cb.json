@@ -99,19 +99,17 @@
   "nominatim_found": true,
   "display_address": "Byan Lowarth, B3294, St Keverne, Coverack, Cornwall, England, TR12 6TF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "harbour"
+    "coastal"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

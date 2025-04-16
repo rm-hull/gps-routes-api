@@ -90,7 +90,7 @@
   "display_address": "The Batch, Draycott, Rodney Stoke, Somerset, England, BS27 3SW, United Kingdom",
   "postcode": "BS27 3SW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,8 +98,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "viewpoints"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",

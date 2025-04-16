@@ -89,7 +89,7 @@
   "postcode": "RG7 6QD",
   "district": "Chapel Row",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -97,8 +97,9 @@
     "heathland"
   ],
   "points_of_interest": [
-    "natural features",
-    "wildlife viewing"
+    "greens",
+    "woodland birds",
+    "flora and fauna"
   ],
   "facilities": [
     "car park",

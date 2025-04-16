@@ -90,18 +90,16 @@
   "postcode": "GU8 5QJ",
   "district": "Waverley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
-    "pond"
+    "woodland"
   ],
   "points_of_interest": [
     "flora",
-    "fauna",
-    "footpaths"
+    "fauna"
   ],
   "facilities": [
     "visitor center",

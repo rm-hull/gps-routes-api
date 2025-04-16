@@ -94,7 +94,7 @@
   "postcode": "IV14 9EJ",
   "district": "Garve",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,16 +103,16 @@
   ],
   "points_of_interest": [
     "viewing bridge",
-    "rock formations",
-    "wildlife"
+    "rock formations"
   ],
   "facilities": [
     "car park",
-    "walking trails"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "wildlife watching"
   ]
 }

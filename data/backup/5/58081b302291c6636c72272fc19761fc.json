@@ -69,18 +69,19 @@
   "display_address": "Cow Lane, Lothersdale, North Yorkshire, York and North Yorkshire, England, BD20 8EN, United Kingdom",
   "postcode": "BD20 8EN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "moorland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural landmarks"
+    "viewpoint",
+    "trig point"
   ],
   "facilities": [
-    "pub"
+    "pub",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

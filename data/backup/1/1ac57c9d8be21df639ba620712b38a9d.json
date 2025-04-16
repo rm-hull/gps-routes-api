@@ -131,22 +131,23 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "historical",
+    "limestone ridge",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "monument",
+    "historical highlight"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

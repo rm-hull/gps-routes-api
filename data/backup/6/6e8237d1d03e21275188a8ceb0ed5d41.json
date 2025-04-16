@@ -125,25 +125,25 @@
   "district": "Bradford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
     "geological features",
-    "waterfalls",
-    "literary locations"
+    "stone circles",
+    "panoramic views",
+    "waterside path",
+    "ruined farmhouse"
   ],
   "facilities": [
     "car park",
-    "waterfront",
-    "reservoir"
+    "visitor center",
+    "waterside path",
+    "bridge"
   ],
   "route_type": "circular",
   "activities": [

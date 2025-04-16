@@ -86,16 +86,15 @@
   "display_address": "Old Nags Head Car Park, Back Street, Castleton, High Peak, Derbyshire, East Midlands, England, S33 8WF, United Kingdom",
   "postcode": "S33 8WF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "limestone",
-    "hill"
+    "limestone"
   ],
   "points_of_interest": [
-    "historical sites",
-    "geological features",
+    "geological feature",
+    "historical site",
     "castle"
   ],
   "facilities": [

@@ -59,7 +59,7 @@
   "nominatim_found": true,
   "display_address": "68, Rayens Cross Road, Bristol, North Somerset, England, BS41 9BN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -68,12 +68,13 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "estate",
+    "woods",
+    "bridge",
+    "pool"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

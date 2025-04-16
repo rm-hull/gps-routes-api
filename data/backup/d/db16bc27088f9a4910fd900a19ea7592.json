@@ -86,7 +86,7 @@
   "display_address": "Stanner's Lane, Newtown Farm, Byers Green, Spennymoor, County Durham, North East, England, DL16 7QX, United Kingdom",
   "district": "Spennymoor",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,14 +94,13 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "gardens",
-    "historical sites",
-    "nature trails"
+    "garden",
+    "vineyard",
+    "trail"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

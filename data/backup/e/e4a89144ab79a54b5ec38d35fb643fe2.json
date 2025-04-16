@@ -70,7 +70,7 @@
   "postcode": "LL23 7PB",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -78,13 +78,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
     "memorial",
-    "summit"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "footpaths"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

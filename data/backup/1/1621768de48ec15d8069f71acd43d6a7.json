@@ -72,21 +72,21 @@
   "nominatim_found": true,
   "display_address": "The Street, Graffham, Chichester, West Sussex, England, GU28 0QA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "heathland"
+    "heathland",
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
+    "church",
     "views"
   ],
   "facilities": [
-    "pub",
-    "footpaths",
-    "cycle paths"
+    "pub/cafe",
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

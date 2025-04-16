@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "High Street, Brook Street, Tonbridge, Tonbridge and Malling, Kent, England, TN9 1DL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,15 +82,15 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "water wildlife",
-    "gardens",
-    "parkland"
+    "historical site",
+    "mansion",
+    "lake",
+    "park"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

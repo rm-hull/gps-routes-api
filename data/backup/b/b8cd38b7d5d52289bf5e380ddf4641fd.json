@@ -73,7 +73,7 @@
   "postcode": "PO20 8AU",
   "district": "Chichester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "4 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -88,7 +88,8 @@
   ],
   "facilities": [
     "car park",
-    "ferry"
+    "visitor center",
+    "nature reserve"
   ],
   "route_type": "out and back",
   "activities": [

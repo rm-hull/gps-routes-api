@@ -105,19 +105,22 @@
   "nominatim_found": true,
   "display_address": "Granite Way, Meldon, Okehampton Hamlets, West Devon, Devon, England, EX20 4LU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "waterland",
-    "upland"
+    "reservoir",
+    "hill",
+    "common"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "common"
+    "viewpoint",
+    "summit",
+    "stone"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "footpath"
   ],
   "route_type": "circular",

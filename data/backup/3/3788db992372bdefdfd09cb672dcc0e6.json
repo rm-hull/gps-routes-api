@@ -100,7 +100,7 @@
   "nominatim_found": true,
   "display_address": "Parkhurst Forest, Forest Road, Gunville, Newport, Isle of Wight, England, PO30 5LY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,8 +108,7 @@
     "coastal"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

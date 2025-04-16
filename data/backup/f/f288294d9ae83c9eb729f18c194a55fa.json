@@ -76,20 +76,17 @@
   "nominatim_found": true,
   "display_address": "Bracklinn Falls, Bracklinn Road, Callander, Stirling, Alba / Scotland, FK17 8EQ, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "views",
-    "countryside"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "bridge"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

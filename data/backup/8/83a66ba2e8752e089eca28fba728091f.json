@@ -101,7 +101,7 @@
   "display_address": "Wick Lane, Fingringhoe, Colchester, Essex, England, CO5 7DN, United Kingdom",
   "district": "Colchester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -109,10 +109,11 @@
     "river"
   ],
   "points_of_interest": [
-    "wildlife",
-    "views"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

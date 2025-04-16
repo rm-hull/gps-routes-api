@@ -124,7 +124,7 @@
   "district": "Bury",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -132,13 +132,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical landmarks",
-    "scenic views"
+    "monument",
+    "viewpoint",
+    "reservoir"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

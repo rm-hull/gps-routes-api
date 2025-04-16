@@ -95,29 +95,32 @@
   "postcode": "TQ2 6NX",
   "district": "Torquay",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
-    "beach"
+    "field"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "villages",
-    "historical sites",
-    "nature reserve"
+    "beach",
+    "village",
+    "park",
+    "nature reserve",
+    "historic site"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "pub/cafe",
-    "play area",
-    "wheelchair accessible"
+    "water park",
+    "boating lake",
+    "restaurant"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

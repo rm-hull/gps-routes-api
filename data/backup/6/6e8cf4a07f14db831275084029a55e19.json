@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Compton Abbas, Dorset, England, SP7 0NF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "nature reserve",
+    "airfield",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

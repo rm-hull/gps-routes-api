@@ -95,7 +95,7 @@
   "region": null,
   "state": null,
   "country": "Isle of Man",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -105,13 +105,12 @@
     "rock"
   ],
   "points_of_interest": [
-    "landmarks",
-    "viewpoints"
+    "landmark directions",
+    "summit view"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "pub/cafe"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

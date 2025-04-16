@@ -119,7 +119,7 @@
   "display_address": "Park Road, Bestwood Village, Arnold, Gedling, Nottinghamshire, East Midlands, England, NG6 8UG, United Kingdom",
   "district": "Gedling",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -128,12 +128,13 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "gardens",
-    "woodland"
+    "reservoir",
+    "historic house"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

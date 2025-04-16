@@ -106,23 +106,23 @@
   "display_address": "Dee Lane, Grange, West Kirby, Wirral, Liverpool City Region, England, CH48 4HD, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "sand",
     "rock"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "tidal pools"
+    "wildlife observation"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

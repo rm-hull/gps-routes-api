@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "A684, Appersett, Hawes, North Yorkshire, York and North Yorkshire, England, DL8 3LL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,16 +112,14 @@
     "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "rivers",
-    "hills"
+    "waterfall",
+    "heritage center",
+    "trail"
   ],
   "facilities": [
-    "visitor center",
+    "cafe",
     "toilets",
     "showers",
-    "cafe",
     "pub/cafe"
   ],
   "route_type": "circular",

@@ -71,20 +71,21 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "fort",
+    "lakes",
+    "beaches"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

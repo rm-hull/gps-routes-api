@@ -85,18 +85,16 @@
   "postcode": "LD6 5HR",
   "district": "Elan Village",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "waterfront"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "historical sites"
+    "viewpoint",
+    "waterfalls"
   ],
   "facilities": [
     "visitor center",

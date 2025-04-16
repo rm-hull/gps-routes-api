@@ -86,28 +86,32 @@
   "display_address": "Chare Ends, Holy Island, Northumberland, North East, England, TD15 2SE, United Kingdom",
   "postcode": "TD15 2SE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
-    "rocky"
+    "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "castle",
+    "garden",
+    "ruins",
     "nature reserve",
-    "archaeological sites"
+    "cave",
+    "woodland"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "hiking"
   ]
 }

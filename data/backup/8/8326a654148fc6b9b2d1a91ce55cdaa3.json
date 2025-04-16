@@ -80,20 +80,18 @@
   "postcode": "TF10 9EB",
   "district": "Stafford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "waterfront"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "local towns"
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

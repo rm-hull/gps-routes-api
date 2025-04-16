@@ -105,17 +105,16 @@
   "display_address": "Troutbeck House, Guning Lane, Melbecks, Gunnerside, North Yorkshire, York and North Yorkshire, England, DL11 6LA, United Kingdom",
   "postcode": "DL11 6LA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfall",
     "valley"
   ],
   "points_of_interest": [
-    "historical sites",
-    "industrial heritage"
+    "historical site",
+    "waterfalls"
   ],
   "facilities": [
     "car park",

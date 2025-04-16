@@ -146,18 +146,20 @@
   "postcode": "SY13 4QJ",
   "district": "Whitchurch",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "rural"
+    "edge"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
     "views"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

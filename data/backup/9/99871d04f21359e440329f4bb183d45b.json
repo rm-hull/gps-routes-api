@@ -114,20 +114,21 @@
   "postcode": "CM22 6NJ",
   "district": "Uttlesford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural features"
+    "historical site",
+    "lake",
+    "waterside building"
   ],
   "facilities": [
     "cycle hire",
     "row boats",
-    "restaurant",
+    "pub/cafe",
     "car park"
   ],
   "route_type": "circular",

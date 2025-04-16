@@ -76,7 +76,7 @@
   "nominatim_found": true,
   "display_address": "Smoo Cave, A838, Leirinmore, Highland, Alba / Scotland, IV27 4QB, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,16 +84,18 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "garden",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "toilets",
-    "wheelchair accessible"
+    "stairs",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "exploration"
   ]
 }

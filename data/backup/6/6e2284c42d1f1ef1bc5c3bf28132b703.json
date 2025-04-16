@@ -154,23 +154,24 @@
   "postcode": "BL0 9AB",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "road"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "sculptures"
+    "sculptures",
+    "landmark",
+    "reservoir",
+    "heritage railway station"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

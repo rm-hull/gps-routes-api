@@ -99,7 +99,7 @@
   "display_address": "Chinthurst Hill, B2128, Wonersh, Waverley, Surrey, England, GU5 0PR, United Kingdom",
   "district": "Waverley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,15 +107,16 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "viewpoint",
+    "tower",
+    "folly"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "toposcope"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

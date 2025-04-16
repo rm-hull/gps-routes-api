@@ -106,7 +106,7 @@
   "postcode": "SK17 8SS",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -115,13 +115,13 @@
     "dale"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "trails"
+    "historical site",
+    "trail",
+    "dale"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

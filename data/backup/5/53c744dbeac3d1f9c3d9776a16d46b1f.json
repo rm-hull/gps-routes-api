@@ -58,21 +58,22 @@
   "display_address": "Broad Street Bridge, Broad Street, Springfield, Heath Town, Park Village, Wolverhampton, West Midlands, England, WV1 1LJ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "canal"
   ],
   "points_of_interest": [
-    "historic locks",
-    "bridges",
-    "cottages"
+    "lock cottages",
+    "railway bridges",
+    "racecourse"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

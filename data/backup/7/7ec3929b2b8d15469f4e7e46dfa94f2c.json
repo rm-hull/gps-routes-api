@@ -86,13 +86,12 @@
   "display_address": "Broughton Farm Caravan Park, Burrows Lane, Llangennith, Llanmadoc and Cheriton, Llangennith, Swansea, Cymru / Wales, SA3 1JP, United Kingdom",
   "district": "Llangennith",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 hours",
   "difficulty": "moderate",
   "terrain": [
     "beach",
-    "cliff tops",
-    "sand dunes"
+    "cliff tops"
   ],
   "points_of_interest": [
     "views"

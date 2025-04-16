@@ -100,18 +100,17 @@
   "display_address": "Great Tower, Castle Walk, Ludlow, Shropshire, England, SY8 1EH, United Kingdom",
   "postcode": "SY8 1EH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "hill"
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "parkland"
+    "viewpoint",
+    "hillfort",
+    "castle"
   ],
   "facilities": [
     "car park",

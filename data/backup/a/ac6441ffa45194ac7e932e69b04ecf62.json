@@ -68,19 +68,20 @@
   "nominatim_found": true,
   "display_address": "Abercorris, Corris, Gwynedd, Cymru / Wales, SY20 9SW, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "forest",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
+    "quarry",
     "waterfalls",
-    "walking trails",
-    "cycling trails"
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

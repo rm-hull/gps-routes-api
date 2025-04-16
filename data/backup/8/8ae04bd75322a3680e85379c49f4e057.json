@@ -109,7 +109,7 @@
   "postcode": "YO13 9LB",
   "district": "East Ayton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -117,11 +117,11 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "viewpoint",
+    "historical ruins"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],

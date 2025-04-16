@@ -129,20 +129,18 @@
   "postcode": "NE65 7BQ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
     "river",
-    "woodland",
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "castle ruins",
-    "natural features"
+    "castle",
+    "historic church",
+    "stone"
   ],
   "facilities": [
     "car park",

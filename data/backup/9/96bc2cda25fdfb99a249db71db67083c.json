@@ -91,21 +91,21 @@
   "postcode": "G63 0AR",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal"
+    "waterfront"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "waterfall",
     "nature trail",
-    "water transport"
+    "forest"
   ],
   "facilities": [
-    "car park",
-    "hotel"
+    "visitor center",
+    "waterbus"
   ],
   "route_type": "circular",
   "activities": [

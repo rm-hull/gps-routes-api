@@ -95,7 +95,7 @@
   "nominatim_found": true,
   "display_address": "New River Path, Pinehurst, Hertford, East Hertfordshire, Hertfordshire, England, SG13 7EL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -104,11 +104,11 @@
   ],
   "points_of_interest": [
     "nature reserves",
-    "parks"
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

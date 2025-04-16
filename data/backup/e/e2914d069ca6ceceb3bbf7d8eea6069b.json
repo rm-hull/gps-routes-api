@@ -68,27 +68,27 @@
   "postcode": "S80 1DX",
   "district": "Bassetlaw",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "towpath",
     "woodland",
-    "grass"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "lakes",
-    "country park"
+    "historical site",
+    "lake",
+    "reservoir",
+    "park"
   ],
   "facilities": [
     "pub/cafe",
-    "fishing",
-    "beer garden",
     "car park",
-    "train station"
+    "fishing lake",
+    "beer garden"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

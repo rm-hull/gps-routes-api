@@ -111,18 +111,18 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "5 miles",
   "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "geology"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

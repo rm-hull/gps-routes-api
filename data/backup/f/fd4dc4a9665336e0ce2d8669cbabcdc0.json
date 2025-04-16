@@ -73,23 +73,22 @@
   "postcode": "B94 5AL",
   "district": "Stratford-on-Avon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "pasture",
-    "waterfront"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "farmland",
-    "lake"
+    "village green",
+    "church",
+    "estate"
   ],
   "facilities": [
-    "cafe",
-    "car park",
-    "dog friendly"
+    "pub/cafe",
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

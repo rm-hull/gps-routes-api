@@ -61,7 +61,7 @@
   "display_address": "Church Drive, Duffield, Amber Valley, Derbyshire, East Midlands, England, DE56 4BA, United Kingdom",
   "postcode": "DE56 4BA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -71,15 +71,14 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "archaeological sites",
-    "places of worship"
+    "places of worship",
+    "villages"
   ],
   "facilities": [
-    "pub/cafe",
-    "bus services",
     "canal-side taverns",
     "lock-keepers' cottages",
-    "tea rooms"
+    "tea rooms",
+    "bus services"
   ],
   "route_type": "linear",
   "activities": [

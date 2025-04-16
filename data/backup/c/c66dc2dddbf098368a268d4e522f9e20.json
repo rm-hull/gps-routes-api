@@ -77,22 +77,24 @@
   "display_address": "Camelot, 9, Home Farm Rise, Abbey Farm, Weybourne, North Norfolk, Norfolk, England, NR25 7SP, United Kingdom",
   "postcode": "NR25 7SP",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
+    "coast",
+    "heathland",
     "woodland",
     "farmland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "beach",
+    "windmill",
     "church",
-    "windmill"
+    "priory"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

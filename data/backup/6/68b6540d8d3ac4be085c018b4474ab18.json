@@ -75,7 +75,7 @@
   "postcode": "DT6 5NZ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -83,14 +83,15 @@
     "ridgeway"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "hill fort",
+    "burial mounds",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "bridleway"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

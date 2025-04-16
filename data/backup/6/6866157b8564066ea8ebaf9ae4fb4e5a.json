@@ -121,21 +121,21 @@
   "postcode": "CM16 6PU",
   "district": "Epping Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "forest",
     "woodland",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical walk",
+    "waterside"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

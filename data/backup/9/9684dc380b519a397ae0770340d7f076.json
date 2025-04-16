@@ -131,8 +131,8 @@
   "nominatim_found": true,
   "display_address": "Sister Dora Rest Home, Brocton Road, Milford, Berkswich, Milford, Stafford, Staffordshire, England, ST17 0UH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 days",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
   "difficulty": "moderate",
   "terrain": [
     "rural",
@@ -142,7 +142,9 @@
     "towns",
     "cities"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

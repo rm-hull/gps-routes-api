@@ -51,7 +51,7 @@
   "display_address": "Inverness Road, Sough, Darwen, Blackburn with Darwen, England, BB3 2RZ, United Kingdom",
   "postcode": "BB3 2RZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -61,11 +61,13 @@
   "points_of_interest": [
     "sculptures",
     "waterfalls",
-    "views"
+    "memorial",
+    "gardens"
   ],
   "facilities": [
     "car park",
-    "formal gardens"
+    "lake",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

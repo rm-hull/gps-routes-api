@@ -89,7 +89,7 @@
   "postcode": "RM10 7BL",
   "district": "London",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -99,11 +99,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "views"
+    "country park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

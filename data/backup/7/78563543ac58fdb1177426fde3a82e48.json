@@ -105,23 +105,23 @@
   "nominatim_found": true,
   "display_address": "Sheader Road, Peinchonnich, Uig, Highland, Alba / Scotland, IV51 9YF, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "hill",
-    "water"
+    "loch"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rock formations",
-    "flora and fauna"
+    "viewpoint",
+    "waterfalls",
+    "rock formations"
   ],
   "facilities": [
     "car park",
     "picnic"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
     "photography"

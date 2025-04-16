@@ -42,7 +42,7 @@
   "nominatim_found": true,
   "display_address": "Sheet's Heath, Water Lane, Bisley, Surrey Heath, Surrey, England, GU24 9BA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -50,13 +50,13 @@
     "canal"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "train stations",
-    "wheelchair accessible"
+    "train station",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

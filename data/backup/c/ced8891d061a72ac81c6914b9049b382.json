@@ -104,7 +104,7 @@
   "postcode": "NG3 5XB",
   "district": "Gedling",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -113,17 +113,17 @@
     "countryside"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "birdwatching"
+    "view"
   ],
   "facilities": [
     "car park",
     "picnic tables",
-    "food facilities"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
     "cycling",
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

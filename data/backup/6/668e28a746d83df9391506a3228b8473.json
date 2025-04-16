@@ -100,7 +100,7 @@
   "nominatim_found": true,
   "display_address": "Inchmacoble Park, Benholm Gardens, Orchardbank, Halfpennyburn, Forfar, Angus, Alba / Scotland, DD8 1XY, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -109,12 +109,13 @@
     "countryside"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "gardens"
+    "wildlife garden",
+    "pitch and putt",
+    "crazy golf"
   ],
   "facilities": [
     "visitor center",
-    "playground",
+    "dog friendly",
     "car park"
   ],
   "route_type": "circular",

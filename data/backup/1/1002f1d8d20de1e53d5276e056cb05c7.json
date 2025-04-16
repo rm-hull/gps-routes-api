@@ -106,7 +106,7 @@
   "postcode": "SG8 0BT",
   "district": "South Cambridgeshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,14 +114,14 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "nature reserve",
-    "gardens"
+    "garden",
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "animal encounters",
-    "mini tractor"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

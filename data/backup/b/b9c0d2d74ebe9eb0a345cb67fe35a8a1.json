@@ -96,7 +96,7 @@
   "postcode": "AB45 2PA",
   "district": "Portsoy",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,14 +104,13 @@
     "cliff top"
   ],
   "points_of_interest": [
-    "beaches",
+    "beach",
     "rock formations",
     "sea views",
     "castle ruins"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -120,7 +120,7 @@
   "nominatim_found": true,
   "display_address": "Theatr Brycheiniog, Canal Road, Pendre, Brecon, Powys, Cymru / Wales, LD3 7EW, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -128,15 +128,16 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
+    "castle",
     "gardens",
-    "castle"
+    "heritage centre"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "boat hire",
-    "heritage centre"
+    "lock"
   ],
   "route_type": "circular",
   "activities": [

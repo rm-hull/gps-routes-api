@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Schoolers Lane, Adlestrop, Cotswold, Gloucestershire, England, GL56 0YW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -78,11 +78,11 @@
   ],
   "points_of_interest": [
     "historic architecture",
-    "countryside",
-    "historic buildings"
+    "country house",
+    "market town"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
     "visitor center",
     "car park",
     "garden"

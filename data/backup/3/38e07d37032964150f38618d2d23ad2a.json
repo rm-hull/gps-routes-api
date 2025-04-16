@@ -77,22 +77,19 @@
   "nominatim_found": true,
   "display_address": "Box Pharmacy, 10, High Street, Box, Wiltshire, England, SN13 8NN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "water",
-    "trail",
-    "rural"
+    "trail"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "church",
-    "pub"
+    "tunnel",
+    "historic buildings"
   ],
   "facilities": [
-    "car park",
-    "historic buildings"
+    "pub"
   ],
   "route_type": "circular",
   "activities": [

@@ -77,16 +77,16 @@
   "display_address": "10, Station Street, Calmlands, Meltham, Kirklees, West Yorkshire, England, HD9 5QL, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "moorland",
-    "hill"
+    "moorland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rock formations"
+    "hill climbs",
+    "rock formations",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

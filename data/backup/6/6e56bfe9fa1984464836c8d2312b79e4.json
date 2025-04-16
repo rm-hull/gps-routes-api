@@ -81,7 +81,7 @@
   "postcode": "YO13 0DT",
   "district": "Harwood Dale",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,13 +89,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "church",
+    "forest"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

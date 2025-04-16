@@ -68,26 +68,25 @@
   "display_address": "Redcar rocks and wrecks, Granville Terrace, Redcar, Redcar and Cleveland, Tees Valley, England, TS10 3AP, United Kingdom",
   "postcode": "TS10 3AP",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
+    "beach",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks"
+    "village",
+    "historical site",
+    "garden"
   ],
   "facilities": [
     "cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible",
     "play area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

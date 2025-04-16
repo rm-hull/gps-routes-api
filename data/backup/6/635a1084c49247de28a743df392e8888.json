@@ -77,18 +77,21 @@
   "postcode": "CV7 7BJ",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "rural"
   ],
   "points_of_interest": [
-    "historic sites",
-    "countryside"
+    "church",
+    "historic building",
+    "windmill",
+    "village green",
+    "cottages"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

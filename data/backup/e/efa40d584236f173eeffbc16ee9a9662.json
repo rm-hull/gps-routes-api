@@ -99,25 +99,23 @@
   "postcode": "BL2 4JP",
   "district": "Bolton",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront",
     "countryside"
   ],
   "points_of_interest": [
     "nature reserve",
-    "meadows",
-    "historic paths"
+    "meadows"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

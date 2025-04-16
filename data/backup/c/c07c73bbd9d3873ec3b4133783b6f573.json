@@ -89,18 +89,16 @@
   "nominatim_found": true,
   "display_address": "Withybed Corner, Walton On The Hill, Reigate and Banstead, Surrey, England, KT20 7UJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland",
-    "grassland"
+    "meadows",
+    "heathland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "meadows",
-    "paths"
+    "wildlife viewing"
   ],
   "facilities": [
     "dog friendly"

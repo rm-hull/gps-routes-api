@@ -105,16 +105,16 @@
   "postcode": "BD7 4PL",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "hill",
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "nature trail"
   ],
   "facilities": [
     "visitor center",

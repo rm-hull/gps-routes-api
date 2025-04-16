@@ -49,9 +49,9 @@
   "display_address": "Wootton Rivers, Wiltshire, England, SN8 4NH, United Kingdom",
   "postcode": "SN8 4NH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "canal",
     "rural"
@@ -62,10 +62,8 @@
   ],
   "facilities": [
     "pub",
-    "car park",
-    "footpaths",
-    "bridleways",
-    "cycle paths"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

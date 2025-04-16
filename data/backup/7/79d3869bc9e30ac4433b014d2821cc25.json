@@ -119,19 +119,18 @@
   "nominatim_found": true,
   "display_address": "B6479, Harber, Horton in Ribblesdale, North Yorkshire, York and North Yorkshire, England, BD24 0HG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "walking trails"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

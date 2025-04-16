@@ -109,18 +109,17 @@
   "postcode": "ST10 4BX",
   "district": "Staffordshire Moorlands",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water",
-    "grass"
+    "valley"
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

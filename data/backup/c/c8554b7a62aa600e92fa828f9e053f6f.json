@@ -49,8 +49,8 @@
   "nominatim_found": true,
   "display_address": "London Road, Hook, Hart, Hampshire, England, RG27 9EH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -58,13 +58,13 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "information boards"
+    "park"
   ],
   "facilities": [
     "car park",
-    "playground"
+    "information boards"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

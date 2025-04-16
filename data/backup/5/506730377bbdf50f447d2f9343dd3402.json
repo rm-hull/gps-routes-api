@@ -166,7 +166,7 @@
   "nominatim_found": true,
   "display_address": "Chipping Campden Post Office, High Street, Chipping Campden, Broad Campden, Cotswold, Gloucestershire, England, GL55 6AT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -174,9 +174,10 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "historical site",
+    "park",
+    "castle",
+    "archaeological site"
   ],
   "facilities": [
     "visitor center",

@@ -73,7 +73,7 @@
   "display_address": "Thomas Telford, Heather Way, Harrop Dale, Saddleworth, Diggle, Oldham, Greater Manchester, England, OL3 5PZ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,16 +82,13 @@
   ],
   "points_of_interest": [
     "historic mills",
-    "wildlife",
-    "views"
+    "wildlife"
   ],
   "facilities": [
-    "car park",
-    "footpaths",
-    "bridleways",
-    "cycle paths"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

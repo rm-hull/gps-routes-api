@@ -101,15 +101,16 @@
   "nominatim_found": true,
   "display_address": "Harford Road, Ivybridge, South Hams, Devon, England, PL21 0AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "wooded valleys"
+    "woodland"
   ],
   "points_of_interest": [
-    "scenery"
+    "reservoir",
+    "bridge"
   ],
   "facilities": [
     "car park"

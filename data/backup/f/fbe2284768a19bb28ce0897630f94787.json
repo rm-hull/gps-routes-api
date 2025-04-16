@@ -69,8 +69,8 @@
   "nominatim_found": true,
   "display_address": "Sea Wall, Dymchurch, St Marys Bay, Folkestone and Hythe, Kent, England, TN29 0LA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
@@ -78,7 +78,8 @@
     "shingle"
   ],
   "points_of_interest": [
-    "historical sites",
+    "fort",
+    "towers",
     "nature reserve",
     "beach"
   ],

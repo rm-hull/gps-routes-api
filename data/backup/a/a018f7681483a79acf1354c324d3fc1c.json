@@ -73,9 +73,9 @@
   "postcode": "BD2 4LY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "park",
     "canal"
@@ -86,7 +86,8 @@
     "lakes"
   ],
   "facilities": [
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "loop",
   "activities": [

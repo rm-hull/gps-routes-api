@@ -77,7 +77,7 @@
   "display_address": "Churchgates, Church Street, Brassington CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 4HJ, United Kingdom",
   "postcode": "DE4 4HJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historic settlements"
+    "viewpoint",
+    "historical settlement"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

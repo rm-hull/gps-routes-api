@@ -72,20 +72,19 @@
   "postcode": "NN13 7AL",
   "district": "Brackley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "farmland",
-    "rural"
+    "farmland"
   ],
   "points_of_interest": [
-    "historical park",
-    "villages"
+    "historic park",
+    "village"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "footpaths"
   ],
   "route_type": "circular",

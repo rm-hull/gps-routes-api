@@ -96,17 +96,19 @@
   "display_address": "1, Victoria Street, Keswick, Cumberland, England, CA12 4NR, United Kingdom",
   "postcode": "CA12 4NR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "fell"
+    "fell",
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

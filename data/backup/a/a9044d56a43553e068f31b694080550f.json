@@ -84,19 +84,18 @@
   "display_address": "Little Thorpe Lane, The Stud Farm, Thorpe on the Hill, North Kesteven, Lincolnshire, England, LN6 9BL, United Kingdom",
   "postcode": "LN6 9BL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "grassland",
     "marsh",
-    "lake"
+    "scrub",
+    "woodland"
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "flora viewing",
-    "historical sites"
+    "floral viewing"
   ],
   "facilities": [
     "car park",
@@ -107,7 +106,6 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "bird watching"
+    "cycling"
   ]
 }

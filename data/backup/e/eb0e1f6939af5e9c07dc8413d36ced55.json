@@ -95,7 +95,7 @@
   "district": "Maltby",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,9 +103,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

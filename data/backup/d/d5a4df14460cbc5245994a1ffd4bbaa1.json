@@ -134,20 +134,21 @@
   "postcode": "GU26 6DT",
   "district": "East Hampshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "heathland"
+    "heathland",
+    "woodland"
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "long distance trails"
+    "trails"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

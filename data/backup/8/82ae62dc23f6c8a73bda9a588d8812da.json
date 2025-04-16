@@ -115,15 +115,14 @@
   "display_address": "Litter, Cromer Promenade, Cromer, North Norfolk, Norfolk, England, NR27 9HE, United Kingdom",
   "postcode": "NR27 9HE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "inland"
   ],
   "points_of_interest": [
-    "coastal scenery",
     "seaside towns",
     "nature reserve"
   ],

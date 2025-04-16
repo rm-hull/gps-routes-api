@@ -104,24 +104,23 @@
   "region": "North East",
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moor",
     "fell",
-    "river"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "railway",
-    "waterfall",
     "castle",
+    "waterfall",
+    "railway",
     "viaduct"
   ],
   "facilities": [
     "car park",
-    "rail station"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

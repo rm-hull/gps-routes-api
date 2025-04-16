@@ -69,16 +69,15 @@
   "display_address": "Bridgwater Marina, Northgate, Bridgwater, Somerset, England, TA6 3JY, United Kingdom",
   "postcode": "TA6 3JY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "river",
-    "urban"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve"
   ],
   "facilities": [

@@ -106,7 +106,7 @@
   "display_address": "Ashopton Road, Yorkshire Bridge, Bamford, High Peak, Derbyshire, East Midlands, England, S33 0BY, United Kingdom",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,14 +114,15 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "loop",
   "activities": [
     "walking",
     "cycling"

@@ -61,7 +61,7 @@
   "nominatim_found": true,
   "display_address": "Accommodation Lane, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, UB7 0AS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -70,18 +70,19 @@
     "hill"
   ],
   "points_of_interest": [
-    "views",
-    "birdlife",
-    "reservoir"
+    "viewpoint",
+    "reservoir",
+    "village"
   ],
   "facilities": [
     "car park",
-    "walk",
+    "visitor center",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

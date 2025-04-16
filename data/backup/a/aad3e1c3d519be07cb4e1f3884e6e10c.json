@@ -120,16 +120,17 @@
   "nominatim_found": true,
   "display_address": "Hall Drive, Gosfield, Braintree, Essex, England, CO9 1SY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "lake",
     "footpath"
   ],
   "points_of_interest": [
-    "historic building",
-    "sports fields"
+    "church",
+    "wedding venue",
+    "historic house"
   ],
   "facilities": [
     "picnic area",

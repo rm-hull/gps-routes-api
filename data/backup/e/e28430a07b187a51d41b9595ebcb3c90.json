@@ -91,23 +91,22 @@
   "district": "Doncaster",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "parkland"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
     "museum",
-    "viewpoints"
+    "chapel",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

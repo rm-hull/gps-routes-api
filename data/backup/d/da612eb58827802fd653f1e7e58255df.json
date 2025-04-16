@@ -94,18 +94,20 @@
   "display_address": "Camp Hill Road, Enville, South Staffordshire, Staffordshire, England, DY7 5BN, United Kingdom",
   "district": "South Staffordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "heathland"
+    "heathland",
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "nature reserve"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

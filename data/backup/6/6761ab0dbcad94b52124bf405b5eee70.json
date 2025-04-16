@@ -101,7 +101,7 @@
   "postcode": "SY8 2HF",
   "district": "Burrington",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "hard",
   "terrain": [
@@ -109,9 +109,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parkland"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

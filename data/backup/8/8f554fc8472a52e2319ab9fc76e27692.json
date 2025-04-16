@@ -121,15 +121,15 @@
   "postcode": "EH45 8NB",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
+    "water feature",
     "wildlife"
   ],
   "facilities": [

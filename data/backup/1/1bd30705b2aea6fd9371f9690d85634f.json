@@ -80,16 +80,17 @@
   "nominatim_found": true,
   "display_address": "Clockhouse Lane, Bedfont, London Borough of Hounslow, London, Greater London, England, TW14 8QA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
+    "meadows",
     "woodland",
     "lake"
   ],
   "points_of_interest": [
-    "picnic spots",
-    "orientering"
+    "picnic area",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
@@ -99,7 +100,8 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "fishing",
-    "picnics"
+    "picnicking",
+    "orienteering",
+    "fishing"
   ]
 }

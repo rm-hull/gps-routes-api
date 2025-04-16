@@ -77,24 +77,22 @@
   "nominatim_found": true,
   "display_address": "Style Car Park, Church Street, Giggleswick, North Yorkshire, York and North Yorkshire, England, BD24 0DA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "scarp",
-    "river"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "caves",
-    "limestone cliffs"
+    "church",
+    "viewpoint",
+    "tower cairn"
   ],
   "facilities": [
     "pub",
     "car park",
-    "railway station"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

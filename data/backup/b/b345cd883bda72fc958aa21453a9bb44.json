@@ -89,23 +89,23 @@
   "postcode": "PO13 8GY",
   "district": "Gosport",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
-    "river"
+    "lake",
+    "pond",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "view"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "footpath"
+    "visitor center",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

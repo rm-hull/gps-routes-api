@@ -135,7 +135,7 @@
   "postcode": "DE72 2HP",
   "district": "South Derbyshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 days",
   "difficulty": "moderate",
   "terrain": [
@@ -144,17 +144,18 @@
     "parkland"
   ],
   "points_of_interest": [
-    "memorials",
+    "memorial arboretum",
     "country park",
     "nature reserve",
-    "historic house",
-    "engineering landmark"
+    "engineering marvel",
+    "historic hall"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "canal-side access",
-    "parkland"
+    "dog friendly",
+    "parkland",
+    "gardens"
   ],
   "route_type": "circular",
   "activities": [

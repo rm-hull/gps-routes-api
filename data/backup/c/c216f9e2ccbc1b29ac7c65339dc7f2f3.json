@@ -120,30 +120,27 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
     "historical sites",
     "villages",
-    "scientific interest",
-    "folklore"
+    "church",
+    "lake"
   ],
   "facilities": [
     "pub/cafe",
-    "shops",
-    "blacksmith",
-    "trekking shop",
     "tea house",
     "art gallery",
-    "church",
+    "shop",
     "car park",
-    "waterfront"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

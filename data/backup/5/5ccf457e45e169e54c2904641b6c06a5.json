@@ -72,21 +72,22 @@
   "display_address": "High Weald Landscape Trail, Brenchley, Matfield, Tunbridge Wells, Kent, England, TN12 7PR, United Kingdom",
   "postcode": "TN12 7PR",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "trails",
-    "reservoir"
+    "village green",
+    "nature reserve"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center"
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

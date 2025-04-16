@@ -135,7 +135,7 @@
   "postcode": "LE16 8TH",
   "district": "Rockingham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -143,8 +143,8 @@
     "garden"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "gardens"
+    "viewpoint",
+    "garden"
   ],
   "facilities": [
     "tea room",

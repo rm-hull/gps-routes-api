@@ -84,18 +84,20 @@
   "display_address": "Station Road, St Stephen, Bricket Wood, St Albans, Hertfordshire, England, AL2 3LT, United Kingdom",
   "postcode": "AL2 3LT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "heathland"
+    "heath"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "water features"
+    "ponds",
+    "streams",
+    "wildlife"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

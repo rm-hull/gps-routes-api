@@ -101,7 +101,7 @@
   "display_address": "Mawddwy, Aberangell, Gwynedd, Cymru / Wales, SY20 9QP, United Kingdom",
   "district": "Aberangell",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,10 +109,11 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

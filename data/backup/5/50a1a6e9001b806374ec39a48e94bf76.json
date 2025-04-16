@@ -109,7 +109,7 @@
   "postcode": "LA10 5PP",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,8 +118,9 @@
     "pasture"
   ],
   "points_of_interest": [
+    "waterfall",
     "countryside views",
-    "waterfalls"
+    "hill"
   ],
   "facilities": [
     "car park"

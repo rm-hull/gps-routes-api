@@ -118,7 +118,7 @@
   "postcode": "GL11 4BS",
   "district": "Dursley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -126,14 +126,13 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
     "hillfort",
     "manor house"
   ],
   "facilities": [
     "visitor center",
-    "footpaths"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

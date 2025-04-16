@@ -128,7 +128,7 @@
   "postcode": "DE4 2DS",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -137,13 +137,13 @@
     "river"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "heritage ways",
-    "villages"
+    "historical building",
+    "scale model",
+    "river"
   ],
   "facilities": [
     "visitor center",
-    "footpaths"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

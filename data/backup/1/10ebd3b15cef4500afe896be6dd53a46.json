@@ -95,23 +95,23 @@
   "postcode": "DD8 4QS",
   "district": "Clova",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 hours",
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
-    "wildlife",
-    "alpine flowers",
-    "river views"
+    "nature reserve",
+    "valley",
+    "river"
   ],
   "facilities": [
     "car park",
     "picnic area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

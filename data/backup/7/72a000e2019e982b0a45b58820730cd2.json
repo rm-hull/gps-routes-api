@@ -108,23 +108,22 @@
   "nominatim_found": true,
   "display_address": "Hambledon Road, Hambledon, Waverley, Surrey, England, GU8 4HL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "field",
-    "pasture"
+    "field"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "arboretum"
+    "historical site",
+    "viewpoint",
+    "memorial"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

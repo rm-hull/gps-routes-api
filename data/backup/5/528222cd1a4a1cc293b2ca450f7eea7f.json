@@ -85,15 +85,15 @@
   "postcode": "OX17 1QE",
   "district": "Cherwell",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "path"
+    "lake",
+    "woodland"
   ],
   "points_of_interest": [
-    "nature trail"
+    "canal"
   ],
   "facilities": [
     "car park"

@@ -124,16 +124,15 @@
   "postcode": "TQ9 6NJ",
   "district": "South Hams",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "limestone"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical sites"
   ],
   "facilities": [
     "cafe",
@@ -142,6 +141,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "historical sightseeing"
   ]
 }

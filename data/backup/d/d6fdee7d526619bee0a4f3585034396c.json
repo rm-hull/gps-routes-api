@@ -48,7 +48,7 @@
   "nominatim_found": true,
   "display_address": "Cranleigh Court Road, Ladden Garden Village, Yate, South Gloucestershire, West of England, England, BS37 5TP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -56,12 +56,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historic villages",
-    "long distance trails"
+    "village",
+    "church",
+    "garden centre"
   ],
   "facilities": [
     "pub",
-    "garden centre"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

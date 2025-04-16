@@ -62,21 +62,20 @@
   "postcode": "SN12 8AR",
   "district": "Melksham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "canal",
     "countryside"
   ],
   "points_of_interest": [
-    "footpaths",
-    "villages"
+    "village",
+    "bridge"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -110,7 +110,7 @@
   "postcode": "S32 3YR",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -119,18 +119,19 @@
     "escarpment"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "rock formations",
-    "historical sites"
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "river walk"
+    "pub/cafe",
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "bird watching"
   ]
 }

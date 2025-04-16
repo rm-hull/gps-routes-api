@@ -109,21 +109,24 @@
   "postcode": "GL10 3UP",
   "district": "Stroud",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "boat house",
+    "mansion",
+    "viewpoint",
+    "common"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

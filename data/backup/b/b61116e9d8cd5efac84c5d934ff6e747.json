@@ -76,18 +76,17 @@
   "display_address": "Haughton House Park Campsite, The Lang Stracht, Alford, Aberdeenshire, Alba / Scotland, AB33 8FW, United Kingdom",
   "postcode": "AB33 8FW",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "forest"
+    "grassland"
   ],
   "points_of_interest": [
-    "wildflower meadow",
-    "historical sites",
-    "viewpoints"
+    "meadow",
+    "mansion",
+    "railway"
   ],
   "facilities": [
     "picnic"

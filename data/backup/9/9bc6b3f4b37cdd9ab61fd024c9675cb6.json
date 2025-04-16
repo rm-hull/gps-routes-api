@@ -67,20 +67,21 @@
   "postcode": "PA2 8TB",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moorland",
-    "waterfall"
+    "farmland"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfalls",
-    "reservoir"
+    "gorge"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

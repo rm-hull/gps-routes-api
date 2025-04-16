@@ -73,7 +73,7 @@
   "display_address": "Ward Street, Arthuret, Longtown, Cumberland, England, CA6 5NP, United Kingdom",
   "postcode": "CA6 5NP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -81,8 +81,9 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river views"
+    "historical site",
+    "park",
+    "river"
   ],
   "facilities": [
     "car park"

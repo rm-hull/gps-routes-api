@@ -73,23 +73,23 @@
   "nominatim_found": true,
   "display_address": "Sheriff Well Close, Egton with Newland, Greenodd, Westmorland and Furness, England, LA12 7RA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "water"
+    "valley",
+    "moorland"
   ],
   "points_of_interest": [
-    "views",
-    "mountains",
+    "viewpoint",
     "village"
   ],
   "facilities": [
-    "footbridge"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -129,24 +129,23 @@
   "nominatim_found": true,
   "display_address": "Beaufort Arms, High Street, Hawkesbury, Hawkesbury Upton, South Gloucestershire, West of England, England, GL9 1AU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "pasture",
-    "rural"
+    "country lane",
+    "woodland"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "gardens",
+    "manor house",
     "monument",
-    "countryside"
+    "lake"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

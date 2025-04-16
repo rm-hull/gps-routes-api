@@ -120,22 +120,22 @@
   "display_address": "Rom Duck Arena, Twickenham Road, St Margarets, London Borough of Richmond upon Thames, London, Greater London, England, TW9 1PG, United Kingdom",
   "postcode": "TW9 1PG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "full day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural",
-    "coastal"
+    "grassland",
+    "road"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "countryside"
+    "park",
+    "countryside",
+    "valley"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

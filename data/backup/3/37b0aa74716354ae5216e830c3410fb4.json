@@ -95,20 +95,18 @@
   "nominatim_found": true,
   "display_address": "SPAR, 7-9, Westgate Street, Blakeney, North Norfolk, Norfolk, England, NR25 7NQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "footpath"
+    "coastal"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "viewpoints"
+    "church"
   ],
   "facilities": [
-    "church"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

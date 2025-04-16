@@ -73,7 +73,7 @@
   "postcode": "LL36 0DF",
   "district": "Tywyn",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,18 +82,17 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "river mouth",
+    "lake"
   ],
   "facilities": [
     "train station",
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -105,7 +105,7 @@
   "display_address": "Steel Rigg Car Park, Steel Rigg, Henshaw, Northumberland, North East, England, NE47 7AW, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -113,14 +113,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "lough"
+    "historical site",
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "toilet"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -85,22 +85,21 @@
   "postcode": "DL8 5QE",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural features",
-    "village"
+    "village",
+    "stream"
   ],
   "facilities": [
     "pub/cafe",
     "car park",
-    "wheelchair accessible"
+    "footpath"
   ],
   "route_type": "out and back",
   "activities": [

@@ -111,7 +111,7 @@
   "nominatim_found": true,
   "display_address": "Blue Anchor Bay Road, Blue Anchor, Carhampton, Somerset, England, TA24 6LE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -120,14 +120,14 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "nature reserve",
+    "castle",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "nature trail"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

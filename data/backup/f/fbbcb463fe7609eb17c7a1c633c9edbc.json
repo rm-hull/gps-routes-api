@@ -71,25 +71,25 @@
   "nominatim_found": true,
   "display_address": "Brockhill Park Performing Arts College, Sandling Road, Sandling, Saltwood, Folkestone and Hythe, Kent, England, CT21 4HL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland",
-    "lake"
+    "meadow"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "wildlife"
   ],
   "facilities": [
     "picnic areas",
-    "cafe"
+    "cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "nature watching"
+    "bird watching"
   ]
 }

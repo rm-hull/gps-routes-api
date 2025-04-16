@@ -38,7 +38,7 @@
   "display_address": "RHS Garden Wisley, Portsmouth Road, Wisley, Ockham, Woking, Surrey, England, GU23 6QB, United Kingdom",
   "district": "Woking",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -47,15 +47,14 @@
     "grassland"
   ],
   "points_of_interest": [
-    "gardens",
+    "pagoda",
     "ponds",
-    "woodland garden",
-    "plant collection"
+    "woodland garden"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "glasshouse",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

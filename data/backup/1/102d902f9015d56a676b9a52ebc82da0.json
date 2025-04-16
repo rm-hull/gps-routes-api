@@ -110,23 +110,24 @@
   "display_address": "Millennium Avenue, Alrewas, Lichfield, Staffordshire, England, DE13 7AR, United Kingdom",
   "district": "Lichfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "canal",
-    "grass"
+    "riverside"
   ],
   "points_of_interest": [
     "memorials",
     "nature reserve",
-    "historic bridges"
+    "canal"
   ],
   "facilities": [
     "car park",
     "pub/cafe",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

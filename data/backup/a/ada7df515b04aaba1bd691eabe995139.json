@@ -101,7 +101,7 @@
   "display_address": "Old Ashford Road, Lenham, Maidstone, Kent, England, ME17 2PH, United Kingdom",
   "postcode": "ME17 2PH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,8 +110,9 @@
     "marshland"
   ],
   "points_of_interest": [
-    "historic towns",
     "villages",
+    "hamlets",
+    "historic towns",
     "lake",
     "watermill",
     "Norman Keep"

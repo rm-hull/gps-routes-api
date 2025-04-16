@@ -104,26 +104,29 @@
   "postcode": "SO43 7HJ",
   "district": "New Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture"
+    "plain",
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "watering hole",
+    "picnic spot",
+    "photogenic location",
+    "viewing platform"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

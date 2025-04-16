@@ -77,23 +77,24 @@
   "nominatim_found": true,
   "display_address": "High Street, Gilling West, Gilling with Hartforth and Sedbury, Gilling West, North Yorkshire, York and North Yorkshire, England, DL10 5JF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
-  ],
-  "points_of_interest": [
-    "historical buildings",
-    "gardens",
-    "castle",
     "countryside"
   ],
+  "points_of_interest": [
+    "historic street",
+    "church",
+    "house",
+    "castle",
+    "bridge"
+  ],
   "facilities": [
-    "car park",
     "visitor center",
-    "pub/cafe"
+    "golf course",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

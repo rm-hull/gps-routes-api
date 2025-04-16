@@ -69,24 +69,23 @@
   "nominatim_found": true,
   "display_address": "East Burrows Road, SA1 Swansea Waterfront, Waterfront, Swansea, Cymru / Wales, SA1 1RT, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
-    "parkland"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks"
+    "historical site",
+    "viewpoint",
+    "park"
   ],
   "facilities": [
-    "pub/cafe",
     "car park",
-    "wheelchair accessible",
-    "lighthouse"
+    "pub/cafe",
+    "visitor center",
+    "pier"
   ],
   "route_type": "circular",
   "activities": [

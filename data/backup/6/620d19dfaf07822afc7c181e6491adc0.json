@@ -86,27 +86,32 @@
   "nominatim_found": true,
   "display_address": "Cardiff Road, Coedkernew, Newport, Cymru / Wales, NP10 8QQ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "garden",
-    "woodland",
-    "coastal"
+    "parkland",
+    "waterside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "wildlife spotting"
+    "garden",
+    "lake",
+    "canal",
+    "nature reserve",
+    "seawall",
+    "church"
   ],
   "facilities": [
     "visitor center",
-    "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "pub/cafe",
+    "car park",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

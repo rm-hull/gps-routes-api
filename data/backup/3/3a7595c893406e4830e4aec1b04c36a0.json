@@ -104,20 +104,20 @@
   "region": "East Midlands",
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "scenery"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "pub/cafe"
+    "pub/cafe",
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

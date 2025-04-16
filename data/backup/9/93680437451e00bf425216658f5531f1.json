@@ -105,28 +105,27 @@
   "display_address": "Wellfield Bypass, Castle Eden, County Durham, North East, England, TS28 5PH, United Kingdom",
   "postcode": "TS28 5PH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront",
-    "nature"
+    "waterfront"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "nature trails",
-    "woodland trails"
+    "nature reserve",
+    "wildflower meadow",
+    "observatory"
   ],
   "facilities": [
     "cafe",
     "visitor center",
-    "car park",
-    "playground"
+    "benches",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

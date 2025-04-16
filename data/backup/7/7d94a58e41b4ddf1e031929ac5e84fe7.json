@@ -81,22 +81,20 @@
   "nominatim_found": true,
   "display_address": "Bellever, Dartmoor Forest, West Devon, Devon, England, PL20 6TU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "woodland",
+    "forest",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "graveyard"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

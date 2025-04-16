@@ -71,7 +71,7 @@
   "nominatim_found": true,
   "display_address": "The Colonnade, Colton, Staveley-in-Cartmel, Westmorland and Furness, England, LA12 8NB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,11 +80,11 @@
   ],
   "points_of_interest": [
     "visitor attractions",
-    "views"
+    "fells"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

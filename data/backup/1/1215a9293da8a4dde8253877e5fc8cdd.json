@@ -75,17 +75,16 @@
   "nominatim_found": true,
   "display_address": "Church Path, Middle Deal, Deal, Dover, Kent, England, CT14 9RG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
-    "road"
+    "lake",
+    "coastal"
   ],
   "points_of_interest": [
-    "views",
-    "lakes"
+    "views"
   ],
   "facilities": [
     "cycle hire",

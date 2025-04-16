@@ -139,24 +139,22 @@
   "nominatim_found": true,
   "display_address": "Pont Dol-y-bont, Mawddwy, Dinas Mawddwy, Gwynedd, Cymru / Wales, SY20 9JB, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river",
-    "rural"
-  ],
-  "points_of_interest": [
-    "historical sites",
     "forest",
     "river"
+  ],
+  "points_of_interest": [
+    "mill",
+    "bridge",
+    "countryside"
   ],
   "facilities": [
     "car park",
     "caf\u00e9",
-    "shop",
-    "packhorse bridge"
+    "shop"
   ],
   "route_type": "circular",
   "activities": [

@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "The Three Horseshoes Inn, Church Square, Bures St. Mary, Bures, Babergh, Suffolk, England, CO8 5BS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,11 +85,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "countryside"
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "pub/cafe"
   ],
   "route_type": "circular",

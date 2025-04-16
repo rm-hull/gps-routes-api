@@ -119,7 +119,7 @@
   "district": "Bradford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -127,13 +127,14 @@
     "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "stone circles"
+    "stone circle",
+    "rock formation",
+    "river"
   ],
   "facilities": [
     "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "walking trail"
   ],
   "route_type": "circular",
   "activities": [

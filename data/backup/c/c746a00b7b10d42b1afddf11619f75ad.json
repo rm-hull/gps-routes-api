@@ -91,21 +91,21 @@
   "display_address": "Roving Bridge, Leamore, Bloxwich, Walsall, West Midlands, England, WS2 7FD, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "rural"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "canals"
+    "locks",
+    "mills",
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

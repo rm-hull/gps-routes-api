@@ -115,26 +115,24 @@
   "nominatim_found": true,
   "display_address": "Shawarma Grill, 8, Spencer Street, Sydenham, Royal Leamington Spa, Warwick, Warwickshire, England, CV31 3NF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
     "woodland",
-    "parkland",
-    "canal"
+    "river",
+    "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "gardens",
-    "park"
+    "gardens"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

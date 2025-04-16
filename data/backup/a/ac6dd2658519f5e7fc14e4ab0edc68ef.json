@@ -119,16 +119,16 @@
   "display_address": "Pewsey Road, St Margarets, Marlborough, Wiltshire, England, SN8 1XG, United Kingdom",
   "postcode": "SN8 1XG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "chalk-land"
+    "chalkland",
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park"

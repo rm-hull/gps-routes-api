@@ -115,7 +115,7 @@
   "postcode": "HG4 4LS",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,8 +123,8 @@
     "moor"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "temple",
+    "trail"
   ],
   "facilities": [
     "car park",

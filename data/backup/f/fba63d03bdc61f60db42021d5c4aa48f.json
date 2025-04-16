@@ -100,26 +100,25 @@
   "postcode": "SA3 2HQ",
   "district": "Penmaen",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
+    "sand dune",
     "woodland",
-    "coastal",
-    "mountain"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "burial ground",
     "nature reserve",
-    "burial ground"
+    "landmark"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "toposcope"
+    "toposcope",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

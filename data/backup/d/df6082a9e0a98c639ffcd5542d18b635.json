@@ -81,22 +81,23 @@
   "nominatim_found": true,
   "display_address": "Swannery, Jubilee Close, Jubilee Estate, Melcombe Regis, Weymouth, Dorset, England, DT4 7BG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "water",
+    "lake",
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
+    "gardens",
     "nature reserve"
   ],
   "facilities": [
     "visitor center",
     "cycle path"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

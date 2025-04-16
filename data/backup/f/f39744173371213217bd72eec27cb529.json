@@ -105,23 +105,20 @@
   "nominatim_found": true,
   "display_address": "Esplanade Car Park, Challacombe Hill Road, Mortehoe, Woolacombe, North Devon, Devon, England, EX34 7DL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "6 miles",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "sand",
-    "woodland"
+    "beach",
+    "sand dunes",
+    "headland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "climbing areas",
-    "beach"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

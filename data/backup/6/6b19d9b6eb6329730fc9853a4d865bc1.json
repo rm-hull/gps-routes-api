@@ -90,24 +90,23 @@
   "display_address": "Basingstoke Canal Towpath, Odiham, Hart, Hampshire, England, RG29 1DH, United Kingdom",
   "postcode": "RG29 1DH",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "parkland"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "water features",
-    "park"
+    "castle",
+    "lake",
+    "pond"
   ],
   "facilities": [
     "car park",
     "cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

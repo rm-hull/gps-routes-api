@@ -85,21 +85,21 @@
   "postcode": "EX39 2LY",
   "district": "Torridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "mountain"
+    "cliff",
+    "grass"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildflower meadows",
-    "cliff tops"
+    "viewpoint",
+    "wildlife"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

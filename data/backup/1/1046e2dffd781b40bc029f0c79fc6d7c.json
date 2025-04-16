@@ -86,7 +86,7 @@
   "display_address": "Hammersmith, A38, Pentrich CP, Amber Valley, Derbyshire, East Midlands, England, DE5 3RD, United Kingdom",
   "postcode": "DE5 3RD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -95,8 +95,8 @@
     "canal"
   ],
   "points_of_interest": [
-    "wildlife areas",
-    "views"
+    "views",
+    "wildlife areas"
   ],
   "facilities": [
     "car park",

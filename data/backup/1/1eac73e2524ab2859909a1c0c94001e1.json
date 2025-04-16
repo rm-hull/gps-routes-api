@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Churchend, Foulness, Rochford, Essex, England, SS3 9XG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,10 +89,10 @@
     "woodland"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites"
+    "bird watching"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

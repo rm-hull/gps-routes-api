@@ -72,7 +72,7 @@
   "display_address": "2a, The Crescent, Hampton in Arden, Solihull, West Midlands, England, B92 0BP, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -81,14 +81,14 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "lake",
-    "river views"
+    "lake"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
     "visitor center",
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "feeding stations"
   ],
   "route_type": "circular",
   "activities": [

@@ -86,20 +86,22 @@
   "nominatim_found": true,
   "display_address": "9, Martello Terrace, Golden Valley, Sandgate, Folkestone and Hythe, Kent, England, CT20 3AQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "woodland"
+    "woodland",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "garden",
+    "play area",
+    "amphitheatre",
+    "rock formations",
+    "meadows"
   ],
   "facilities": [
-    "play area",
+    "visitor center",
     "car park",
     "dog friendly"
   ],

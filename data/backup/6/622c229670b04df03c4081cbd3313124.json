@@ -76,7 +76,7 @@
   "display_address": "Church Lane, West Bedlington, Bebside, Bedlington, Northumberland, North East, England, NE22 5RT, United Kingdom",
   "district": "Bedlington",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -84,14 +84,14 @@
     "coastal"
   ],
   "points_of_interest": [
-    "nature trails",
-    "river views"
+    "trails",
+    "wildlife"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

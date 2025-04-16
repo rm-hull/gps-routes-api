@@ -105,7 +105,7 @@
   "display_address": "Jintana Thai Restaurant, Compston Road, Waterhead, Lakes, Ambleside, Westmorland and Furness, England, LA22 9DJ, United Kingdom",
   "postcode": "LA22 9DJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -113,13 +113,12 @@
     "upland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "riverside"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park",
+    "cafe",
+    "hotel",
     "bus stop"
   ],
   "route_type": "circular",

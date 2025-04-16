@@ -53,7 +53,7 @@
   "nominatim_found": true,
   "display_address": "Bagillt Road, Holywell, Greenfield, Flintshire, Cymru / Wales, CH8 7ES, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -61,15 +61,13 @@
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
+    "monument",
     "museum",
-    "adventure"
+    "farm house"
   ],
   "facilities": [
     "visitor center",
-    "play area",
-    "car park",
-    "dog friendly"
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

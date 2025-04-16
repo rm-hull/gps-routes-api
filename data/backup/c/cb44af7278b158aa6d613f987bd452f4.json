@@ -81,22 +81,24 @@
   "nominatim_found": true,
   "display_address": "Beaulieu Road, Denny Lodge, Dibden Purlieu, New Forest, Hampshire, England, SO45 4PR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland"
+    "heathland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint",
+    "trails"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "off lead area",
+    "waterside walk"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

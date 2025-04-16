@@ -89,23 +89,22 @@
   "nominatim_found": true,
   "display_address": "Kingfisher House, 61, Walton Street, Walton, Aylesbury, Buckinghamshire, England, HP21 7FS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "canal",
     "rural"
   ],
   "points_of_interest": [
     "countryside views",
-    "water features",
-    "long distance footpath"
+    "reservoirs"
   ],
   "facilities": [
     "car park",
     "footpaths"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

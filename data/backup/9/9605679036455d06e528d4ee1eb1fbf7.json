@@ -129,8 +129,8 @@
   "postcode": "M18 7LJ",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "waterfront",
@@ -138,16 +138,16 @@
     "trail"
   ],
   "points_of_interest": [
-    "nature trails",
-    "reservoir views"
+    "reservoir",
+    "park"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

@@ -65,12 +65,12 @@
   "display_address": "Bonaly Road, Bonaly, City of Edinburgh, Alba / Scotland, EH13 0PB, United Kingdom",
   "district": "City of Edinburgh",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "water",
-    "woodland"
+    "reservoir",
+    "hills"
   ],
   "points_of_interest": [
     "views"

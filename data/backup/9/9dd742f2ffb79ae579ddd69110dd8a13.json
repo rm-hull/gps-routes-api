@@ -76,7 +76,7 @@
   "display_address": "Turnpike Trail, Aberdeenshire, Alba / Scotland, AB51 5HX, United Kingdom",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,14 +84,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife spotting"
+    "hillfort",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

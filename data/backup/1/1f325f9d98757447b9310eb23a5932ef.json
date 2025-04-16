@@ -37,22 +37,21 @@
   "display_address": "Frome Road, Bradford-on-Avon, Wiltshire, England, BA15 1FS, United Kingdom",
   "postcode": "BA15 1FS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "canal",
-    "town"
+    "canal"
   ],
   "points_of_interest": [
     "historic buildings",
-    "shops",
-    "tea rooms"
+    "tea rooms",
+    "aqueduct"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

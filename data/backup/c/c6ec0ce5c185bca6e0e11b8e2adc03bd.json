@@ -90,7 +90,7 @@
   "nominatim_found": true,
   "display_address": "Horton Scar Lane, Brackenbottom, Horton in Ribblesdale, North Yorkshire, York and North Yorkshire, England, BD24 0EU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,9 +98,10 @@
     "waterfall"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

@@ -111,23 +111,23 @@
   "display_address": "Mapleton Road, Westerham, French Street, Sevenoaks, Kent, England, TN16 1PS, United Kingdom",
   "district": "Sevenoaks",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "garden"
+    "garden",
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "wildlife"
+    "viewpoint",
+    "garden",
+    "estate"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

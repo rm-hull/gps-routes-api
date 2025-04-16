@@ -81,7 +81,7 @@
   "postcode": "LA22 0JA",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -89,8 +89,8 @@
     "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lakeside paths"
+    "viewpoint",
+    "island"
   ],
   "facilities": [
     "car park",

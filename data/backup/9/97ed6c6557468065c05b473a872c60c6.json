@@ -69,23 +69,24 @@
   "nominatim_found": true,
   "display_address": "Eccleston, Paddock Road / Eccleston Terminus, Church Road, Eaton and Eccleston, Eccleston, Cheshire West and Chester, England, CH4 9HT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "path"
+    "footpath"
   ],
   "points_of_interest": [
     "historic buildings",
-    "gardens",
-    "canal"
+    "mansion",
+    "gardens"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

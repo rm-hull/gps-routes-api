@@ -96,7 +96,7 @@
   "display_address": "LA22 163, A591, High Broadrayne, Lakes, Westmorland and Furness, England, LA22 9RU, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,12 +104,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "mountain ranges",
-    "lakes"
+    "viewpoint",
+    "summit"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

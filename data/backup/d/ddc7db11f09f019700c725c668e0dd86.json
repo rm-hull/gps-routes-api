@@ -91,7 +91,7 @@
   "nominatim_found": true,
   "display_address": "LA22 133, Rydal Road, Waterhead, Lakes, Ambleside, Westmorland and Furness, England, LA22 9AR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -99,18 +99,16 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "museums",
-    "waterfalls",
-    "viewpoints"
+    "mansion",
+    "waterfall",
+    "house",
+    "museum",
+    "graveyard"
   ],
   "facilities": [
     "tea shop",
     "visitor center",
-    "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

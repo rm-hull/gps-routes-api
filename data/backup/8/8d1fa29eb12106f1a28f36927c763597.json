@@ -71,28 +71,28 @@
   "display_address": "Moor Lane, Georgeham, Croyde, North Devon, Devon, England, EX33 1FF, United Kingdom",
   "postcode": "EX33 1FF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
-    "grassland"
+    "woodland"
   ],
   "points_of_interest": [
     "wildflower areas",
     "rock pools",
-    "geological features",
-    "dune system"
+    "geological features"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "pub/cafe",
-    "beach"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

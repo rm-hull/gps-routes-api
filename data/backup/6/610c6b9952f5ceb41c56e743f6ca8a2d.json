@@ -106,22 +106,22 @@
   "postcode": "S33 0AQ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "moorland"
+    "moorland",
+    "ridge"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "geological formations"
+    "summit",
+    "geological formations",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "cafe",
-    "waterside trail"
+    "cafe"
   ],
   "route_type": "circular",
   "activities": [

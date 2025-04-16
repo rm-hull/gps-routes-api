@@ -95,16 +95,15 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "natural"
+    "forest"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "lakes",
+    "lochs",
     "streams"
   ],
   "facilities": [

@@ -43,17 +43,19 @@
   "postcode": "TN26 3AE",
   "district": "Ashford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "nature trails"
+    "trails"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking",

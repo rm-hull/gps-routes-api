@@ -109,22 +109,20 @@
   "nominatim_found": true,
   "display_address": "Crag Road, Millhead, Warton, Lancaster, Lancashire, England, LA5 9RY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "limestone"
+    "hill"
   ],
   "points_of_interest": [
-    "wildlife",
-    "plantlife",
-    "nature reserve"
+    "nature reserve",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

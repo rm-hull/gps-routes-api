@@ -81,7 +81,7 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,16 +89,17 @@
     "mountain"
   ],
   "points_of_interest": [
-    "wildlife viewing",
     "waterfalls",
-    "nature reserve"
+    "nature reserve",
+    "lake"
   ],
   "facilities": [
     "visitor center",
     "car park",
     "bike hire",
     "dark sky park",
-    "wheelchair accessible"
+    "observatory",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

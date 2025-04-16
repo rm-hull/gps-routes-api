@@ -101,7 +101,7 @@
   "display_address": "City Walls, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 1HH, United Kingdom",
   "postcode": "CH1 1HH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,13 +110,15 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "museum",
-    "clock"
+    "viewpoints",
+    "museum"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

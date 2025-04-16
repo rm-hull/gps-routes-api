@@ -95,21 +95,20 @@
   "nominatim_found": true,
   "display_address": "Church Lane, Pevensey, Wealden, East Sussex, England, BN24 5LD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "rural"
   ],
   "points_of_interest": [
-    "castles",
-    "battlefields",
-    "historic towns"
+    "castle",
+    "historic site",
+    "abbey"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

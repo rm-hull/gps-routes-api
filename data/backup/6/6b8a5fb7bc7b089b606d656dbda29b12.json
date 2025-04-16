@@ -70,21 +70,24 @@
   "nominatim_found": true,
   "display_address": "Naima, Southgate, Chichester, West Sussex, England, PO19 1EU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "urban",
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "park",
+    "gardens",
+    "art center",
+    "market"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

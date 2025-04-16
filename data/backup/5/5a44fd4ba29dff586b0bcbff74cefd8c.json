@@ -20,14 +20,16 @@
   "postcode": "SP1 2SJ",
   "district": "Salisbury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "stony"
   ],
   "points_of_interest": [],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking",

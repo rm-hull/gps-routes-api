@@ -106,24 +106,24 @@
   "display_address": "Tennis Way, Baildon, Bradford, West Yorkshire, England, BD17 5HT, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "parkland"
+    "parkland",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "gardens",
     "funicular tramway"
   ],
   "facilities": [
     "visitor center",
-    "car park",
     "cafe",
-    "wheelchair accessible",
+    "car park",
+    "dog friendly",
     "play area"
   ],
   "route_type": "circular",

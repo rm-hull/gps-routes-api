@@ -124,21 +124,19 @@
   "nominatim_found": true,
   "display_address": "Nebo, Llaneilian, Penysarn, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL69 9UN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "views",
-    "historical sites",
-    "landscape"
+    "windmill",
+    "pools/ponds"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -69,20 +69,20 @@
   "display_address": "The Old Post Office, Kirkgate Lane, Hamley House, Appleton-le-Moors, North Yorkshire, York and North Yorkshire, England, YO62 6TE, United Kingdom",
   "postcode": "YO62 6TE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "moorland",
-    "river"
+    "moorland"
   ],
   "points_of_interest": [
-    "countryside views",
-    "historical sites"
+    "church",
+    "pub"
   ],
   "facilities": [
     "pub",
+    "car park",
     "footpath"
   ],
   "route_type": "out and back",

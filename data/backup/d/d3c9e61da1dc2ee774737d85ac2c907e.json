@@ -100,22 +100,20 @@
   "nominatim_found": true,
   "display_address": "Station Approach, Duffield, Makeney, Amber Valley, Derbyshire, East Midlands, England, DE56 4HP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland",
-    "pasture"
+    "woodland"
   ],
   "points_of_interest": [
     "stations",
-    "countryside",
-    "riverside paths"
+    "countryside"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

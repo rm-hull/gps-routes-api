@@ -109,23 +109,22 @@
   "postcode": "B93 0DG",
   "district": "Warwick",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water",
-    "garden"
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
     "gardens",
+    "historical building",
     "parkland"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "canal access",
-    "visitor center"
+    "canal"
   ],
   "route_type": "circular",
   "activities": [

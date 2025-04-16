@@ -71,12 +71,11 @@
   "nominatim_found": true,
   "display_address": "Wheelock Rail Trail, Wheelock, Sandbach, Cheshire East, England, CW11 4SQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "woodland"
+    "paved"
   ],
   "points_of_interest": [
     "flora"

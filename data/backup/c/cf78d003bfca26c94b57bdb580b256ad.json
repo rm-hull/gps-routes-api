@@ -118,23 +118,21 @@
   "display_address": "Railway Station, Clayhithe Road, Waterbeach, South Cambridgeshire, Cambridgeshire, Cambridgeshire and Peterborough, England, CB25 9HX, United Kingdom",
   "postcode": "CB25 9HX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland"
+    "park"
   ],
   "points_of_interest": [
-    "parks",
-    "countryside",
-    "villages"
+    "park",
+    "country park"
   ],
   "facilities": [
-    "pub/cafe",
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

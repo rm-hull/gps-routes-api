@@ -85,7 +85,7 @@
   "postcode": "EX5 4PX",
   "district": "Mid Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -93,15 +93,15 @@
     "river"
   ],
   "points_of_interest": [
-    "countryside views",
-    "historic buildings",
-    "gardens"
+    "historical site",
+    "scenery",
+    "countryside views"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

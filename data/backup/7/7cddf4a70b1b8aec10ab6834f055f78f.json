@@ -76,7 +76,7 @@
   "postcode": "PH10 6RF",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
@@ -84,12 +84,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "views"
+    "castle ruins",
+    "water views"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

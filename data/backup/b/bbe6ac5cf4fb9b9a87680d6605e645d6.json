@@ -136,20 +136,22 @@
   "postcode": "LD5 4ST",
   "district": "Llanwrtyd Wells",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "countryside",
+    "lake"
   ],
   "points_of_interest": [
     "historic buildings",
-    "natural scenery",
-    "waterfalls"
+    "church",
+    "lake"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

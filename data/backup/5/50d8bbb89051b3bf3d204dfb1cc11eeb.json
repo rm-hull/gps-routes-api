@@ -68,7 +68,7 @@
   "postcode": "EX39 2HW",
   "district": "Torridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -77,10 +77,10 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "heritage trail",
-    "marine wildlife"
+    "bridge",
+    "park"
   ],
   "facilities": [
     "car park",

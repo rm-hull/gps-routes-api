@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Denpoint, Bacup Road, Wood Top, Rawtenstall, Rossendale, Lancashire, England, BB4 7NJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,12 +85,13 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "scenic views"
+    "sculpture trail",
+    "heritage railway",
+    "moor"
   ],
   "facilities": [
     "car park",
-    "railway"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

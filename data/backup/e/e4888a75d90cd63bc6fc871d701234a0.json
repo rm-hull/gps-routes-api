@@ -130,7 +130,7 @@
   "nominatim_found": true,
   "display_address": "The Chiltern Way, Chaulden, Felden, Dacorum, Hertfordshire, England, HP3 0AX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -138,12 +138,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museums",
-    "villages"
+    "villages",
+    "churches",
+    "museums"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

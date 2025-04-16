@@ -126,23 +126,23 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "waterfront"
+    "paved path",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "monument"
+    "castle",
+    "monument",
+    "bridge"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

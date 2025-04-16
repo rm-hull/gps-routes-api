@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Scott's, 4, Whittaker Avenue, East Twickenham, St Margarets, London Borough of Richmond upon Thames, London, Greater London, England, TW9 1EH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -113,17 +113,18 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "river views",
-    "canal"
+    "historical site",
+    "park",
+    "canal",
+    "fountain",
+    "palace"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "car park",
-    "ice cream van",
-    "playground"
+    "dog friendly",
+    "ice cream van"
   ],
   "route_type": "out and back",
   "activities": [

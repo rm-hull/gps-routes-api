@@ -91,7 +91,7 @@
   "display_address": "NT Standen, West Hoathly Road, Saint Hill Green, East Grinstead, Mid Sussex, West Sussex, England, RH19 4NE, United Kingdom",
   "district": "Mid Sussex",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -100,17 +100,16 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
+    "viewpoint",
     "nature reserve",
-    "woodland trails"
+    "historical site"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

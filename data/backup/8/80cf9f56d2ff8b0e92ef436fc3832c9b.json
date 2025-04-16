@@ -53,26 +53,27 @@
   "nominatim_found": true,
   "display_address": "Iceland, 24, Agincourt Square, Overmonnow, Monmouth, Monmouthshire, Cymru / Wales, NP25 3DY, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "river",
+    "woodland",
     "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "cave",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "bird watching"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

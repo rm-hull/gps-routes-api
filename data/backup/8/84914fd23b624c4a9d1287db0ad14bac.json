@@ -81,26 +81,26 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "mountain",
     "woodland",
-    "river",
+    "riverside",
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "arboretum",
+    "gardens",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

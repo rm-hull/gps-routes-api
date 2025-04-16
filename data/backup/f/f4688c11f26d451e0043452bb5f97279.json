@@ -77,29 +77,27 @@
   "display_address": "Eastern Way, Southbrook, Daventry, West Northamptonshire, England, NN11 4GX, United Kingdom",
   "postcode": "NN11 4GX",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "waterfront",
-    "grassland",
-    "path"
+    "woodland",
+    "waterfront"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "bird hides",
+    "nature trail",
     "sensory garden",
-    "pond",
-    "high points"
+    "bird hides"
   ],
   "facilities": [
     "visitor center",
     "cafe",
-    "fitness equipment"
+    "fitness equipment",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "bird watching"
   ]
 }

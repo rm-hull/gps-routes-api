@@ -68,7 +68,7 @@
   "postcode": "LA22 9NJ",
   "district": "Skelwith Bridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -78,12 +78,13 @@
   ],
   "points_of_interest": [
     "waterfalls",
-    "views"
+    "village",
+    "lake"
   ],
   "facilities": [
     "tea rooms",
     "pub/cafe",
-    "outdoor seating"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -138,7 +138,7 @@
   "nominatim_found": true,
   "display_address": "Little Stretton, Church Stretton, Shropshire, England, SY6 6AP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -146,12 +146,13 @@
     "pasture"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "landmarks"
+    "hill",
+    "valley",
+    "landmark"
   ],
   "facilities": [
     "pub",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -110,22 +110,21 @@
   "display_address": "A614, Londesborough, Market Weighton, East Riding of Yorkshire, England, YO43 3LW, United Kingdom",
   "district": "Market Weighton",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "lake",
-    "pasture"
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside",
     "village",
-    "historic site"
+    "countryside"
   ],
   "facilities": [
     "car park",
-    "public footpaths"
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

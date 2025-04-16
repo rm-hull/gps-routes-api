@@ -115,7 +115,7 @@
   "display_address": "Mount Road, Wheathampstead, St Albans, Hertfordshire, England, AL4 8BU, United Kingdom",
   "postcode": "AL4 8BU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -123,12 +123,12 @@
     "grass"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "river views"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

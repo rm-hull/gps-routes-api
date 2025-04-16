@@ -94,7 +94,7 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,12 +102,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildflowers",
-    "nature trail"
+    "viewpoint",
+    "natural reserve"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

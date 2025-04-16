@@ -89,25 +89,27 @@
   "postcode": "EX31 4PY",
   "district": "North Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "views"
+    "viewpoint",
+    "beach",
+    "wooded cove"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "beach"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching",
+    "wildlife spotting"
   ]
 }

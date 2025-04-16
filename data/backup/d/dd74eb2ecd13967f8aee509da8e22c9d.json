@@ -91,20 +91,20 @@
   "nominatim_found": true,
   "display_address": "1, Gartness Road, Drumbeg, Drymen, Stirling, Alba / Scotland, G63 0BH, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "forest"
+    "forest",
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "woodland trails"
+    "viewpoint",
+    "island"
   ],
   "facilities": [
-    "boat trip",
-    "visitor center"
+    "visitor center",
+    "boat trip"
   ],
   "route_type": "circular",
   "activities": [

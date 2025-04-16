@@ -109,22 +109,22 @@
   "postcode": "GU10 3EA",
   "district": "Waverley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "heathland",
     "woodland",
-    "nature reserve"
+    "streams"
   ],
   "points_of_interest": [
     "nature reserve",
-    "sculpture park",
+    "Sculpture Park",
     "film set"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

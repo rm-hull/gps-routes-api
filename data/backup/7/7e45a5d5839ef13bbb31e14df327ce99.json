@@ -101,7 +101,7 @@
   "postcode": "CA13 9UE",
   "district": "Lorton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,10 +109,10 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lake views"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "cycle hire",
     "car park"
   ],

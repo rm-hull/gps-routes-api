@@ -89,18 +89,16 @@
   "nominatim_found": true,
   "display_address": "George Street, Maulden, Central Bedfordshire, England, MK45 2DE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "countryside"
+    "grassland"
   ],
   "points_of_interest": [
-    "wildlife",
-    "wildflowers",
-    "viewpoints"
+    "wildlife viewing",
+    "flower meadows"
   ],
   "facilities": [
     "car park",

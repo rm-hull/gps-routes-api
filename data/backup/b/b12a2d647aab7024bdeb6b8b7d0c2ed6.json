@@ -100,7 +100,7 @@
   "postcode": "CF44 9JB",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,12 +108,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "viewpoints"
+    "viewpoint",
+    "waterfalls"
   ],
   "facilities": [
     "car park",
-    "picnic area"
+    "picnic area",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

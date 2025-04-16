@@ -76,7 +76,7 @@
   "postcode": "SN7 7ZB",
   "district": "Vale of White Horse",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,11 +84,12 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages"
+    "historical site",
+    "hill figure",
+    "castle"
   ],
   "facilities": [
-    "picnic",
+    "picnic area",
     "visitor center"
   ],
   "route_type": "out and back",

@@ -73,24 +73,21 @@
   "nominatim_found": true,
   "display_address": "5, Brook End Close, Henley-in-Arden, Stratford-on-Avon, Warwickshire, England, B95 5JE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "canal",
-    "woodland"
+    "canal"
   ],
   "points_of_interest": [
     "historical buildings",
-    "canals",
-    "countryside",
-    "castles",
-    "river"
+    "castle",
+    "long distance trail"
   ],
   "facilities": [
-    "car park",
-    "footpaths"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

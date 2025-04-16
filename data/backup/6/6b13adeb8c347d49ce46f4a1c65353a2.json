@@ -93,7 +93,7 @@
   "display_address": "Brackenwell Lane, North Rigton, Huby, North Rigton, North Yorkshire, York and North Yorkshire, England, LS17 0DG, United Kingdom",
   "postcode": "LS17 0DG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -101,9 +101,9 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "architecture"
+    "viewpoint",
+    "historical structure",
+    "archaeological site"
   ],
   "facilities": [
     "pub/cafe",

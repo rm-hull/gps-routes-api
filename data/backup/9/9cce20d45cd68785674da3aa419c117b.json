@@ -81,24 +81,25 @@
   "nominatim_found": true,
   "display_address": "The Broad Walk, Fitzrovia, London Borough of Camden, London, Greater London, England, NW1 4LL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "waterfront"
+    "woodland",
+    "urban"
   ],
   "points_of_interest": [
     "gardens",
+    "waterfall",
     "statues",
     "fountains",
-    "waterfall",
-    "city views"
+    "lake",
+    "zoo"
   ],
   "facilities": [
-    "boating lake",
+    "visitor center",
     "car park",
-    "visitor center"
+    "boating"
   ],
   "route_type": "circular",
   "activities": [

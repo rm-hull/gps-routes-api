@@ -99,22 +99,23 @@
   "display_address": "Gannow Green Lane, Dayhouse Bank, Romsley CP, Rubery, Bromsgrove, Worcestershire, England, B45 9AT, United Kingdom",
   "district": "Bromsgrove",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "river source",
+    "historic path"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "information board"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

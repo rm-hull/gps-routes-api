@@ -143,23 +143,25 @@
   "display_address": "Clarendon Royal Hotel Parking, Royal Pier Road, Milton, Gravesend, Gravesham, Kent, England, DA12 2BD, United Kingdom",
   "postcode": "DA12 2BD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "marshland",
-    "woodland"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "viewpoints"
+    "historic settlement",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "footpaths",
-    "visitor center"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

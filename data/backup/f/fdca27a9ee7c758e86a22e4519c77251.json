@@ -59,19 +59,20 @@
   "display_address": "Whitehall Drive, Broomfield and Kingswood, Kingswood, Maidstone, Kent, England, ME17 3PW, United Kingdom",
   "postcode": "ME17 3PW",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parkland",
-    "gardens"
+    "castle",
+    "historic site",
+    "park"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

@@ -89,23 +89,21 @@
   "display_address": "Gower Road, Trefriw, Conwy, Cymru / Wales, LL26 0PW, United Kingdom",
   "postcode": "LL26 0PW",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "mountains"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "pub/cafe",
-    "hotel"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

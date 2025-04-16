@@ -119,16 +119,15 @@
   "display_address": "A73, Fallburn, Thankerton, South Lanarkshire, Alba / Scotland, ML12 6PD, United Kingdom",
   "district": "Thankerton",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park"

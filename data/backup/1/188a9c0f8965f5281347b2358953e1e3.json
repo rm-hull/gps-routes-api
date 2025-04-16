@@ -76,7 +76,7 @@
   "nominatim_found": true,
   "display_address": "Market Place, Wells, Somerset, England, BA5 2RE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,13 +84,14 @@
     "river"
   ],
   "points_of_interest": [
-    "gardens",
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "garden",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

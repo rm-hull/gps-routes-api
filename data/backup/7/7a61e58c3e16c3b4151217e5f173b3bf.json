@@ -96,15 +96,15 @@
   "nominatim_found": true,
   "display_address": "Gressenhall Farm and Workhouse, Litcham Road, Rougholm, Gressenhall, Beetley, Breckland, Norfolk, England, NR20 4DR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "footpath",
-    "rural"
+    "nature"
   ],
   "points_of_interest": [
-    "historic sites",
+    "historic site",
     "villages",
     "nature reserve"
   ],

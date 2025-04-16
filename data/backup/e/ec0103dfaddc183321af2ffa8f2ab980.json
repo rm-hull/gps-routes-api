@@ -94,17 +94,17 @@
   "nominatim_found": true,
   "display_address": "Bassett Gardens, Osterley, London Borough of Hounslow, London, Greater London, England, TW7 4QZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "grassland",
-    "water",
-    "garden"
+    "garden",
+    "canal"
   ],
   "points_of_interest": [
-    "nature trails",
-    "historical estate"
+    "trails",
+    "farmland"
   ],
   "facilities": [
     "car park",

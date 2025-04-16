@@ -64,7 +64,7 @@
   "district": "Wallasey",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -72,12 +72,14 @@
     "natural"
   ],
   "points_of_interest": [
+    "historical site",
     "nature reserve",
     "park"
   ],
   "facilities": [
     "car park",
-    "walking path"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

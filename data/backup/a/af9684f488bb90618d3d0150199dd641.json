@@ -60,8 +60,8 @@
   "district": "Royston",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -73,10 +73,10 @@
   ],
   "facilities": [
     "car park",
-    "Trans Pennine Trail",
-    "Barnsley Canal"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

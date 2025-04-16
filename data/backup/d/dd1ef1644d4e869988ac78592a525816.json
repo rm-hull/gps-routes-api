@@ -105,7 +105,7 @@
   "nominatim_found": true,
   "display_address": "Brookside Villas, Amroth, Pembrokeshire, Cymru / Wales, SA67 8NF, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -113,17 +113,16 @@
     "woodland"
   ],
   "points_of_interest": [
-    "beaches",
-    "villages",
-    "woodland trails",
-    "harbour"
+    "woodland garden",
+    "harbour",
+    "beach"
   ],
   "facilities": [
     "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

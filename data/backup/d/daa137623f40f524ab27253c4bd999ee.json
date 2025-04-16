@@ -89,7 +89,7 @@
   "nominatim_found": true,
   "display_address": "1,2, Cattlegate Road Crews Hill, London Borough of Enfield, London, Greater London, England, EN2 8BA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,6 +102,7 @@
     "nature reserves"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "linear",

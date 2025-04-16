@@ -54,19 +54,17 @@
   "display_address": "Allt y Castell, Caernarfon, Gwynedd, Cymru / Wales, LL55 2AU, United Kingdom",
   "postcode": "LL55 2AU",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "religious sites",
-    "railway path"
+    "historical site",
+    "church",
+    "nature reserve"
   ],
   "facilities": [
     "car park",

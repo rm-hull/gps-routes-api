@@ -114,16 +114,15 @@
   "postcode": "IV27 4EE",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint",
+    "river"
   ],
   "facilities": [
     "visitor center",

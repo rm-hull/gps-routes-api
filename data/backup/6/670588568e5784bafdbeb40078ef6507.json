@@ -119,7 +119,7 @@
   "postcode": "BS40 7XT",
   "district": "Cheddar",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -127,15 +127,15 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "historical site",
+    "nature reserve",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "footpath",
-    "museum"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

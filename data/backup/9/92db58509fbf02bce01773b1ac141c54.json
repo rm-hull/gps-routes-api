@@ -77,22 +77,20 @@
   "display_address": "Breary Lane, Bramhope, West Yorkshire, England, LS16 9EQ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "grassland"
+    "lake"
   ],
   "points_of_interest": [
     "park",
-    "countryside",
-    "reservoir"
+    "country park"
   ],
   "facilities": [
-    "car park",
-    "footpaths"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -81,18 +81,17 @@
   "postcode": "DT3 4LA",
   "district": "Abbotsbury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1-2 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "coastal",
-    "garden"
+    "coastal"
   ],
   "points_of_interest": [
     "sculpture trail",
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "visitor center",

@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Bowlish, Shepton Mallet, Somerset, England, BA4 5AX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,13 +77,14 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "river"
+    "garden",
+    "village",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "public footpath"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

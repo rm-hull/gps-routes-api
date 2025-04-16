@@ -111,19 +111,19 @@
   "nominatim_found": true,
   "display_address": "Southwold, East Suffolk, Suffolk, England, IP18 6JJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "marshland",
-    "rural"
+    "marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "bird watching"
+    "church ruins",
+    "birdwatching"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

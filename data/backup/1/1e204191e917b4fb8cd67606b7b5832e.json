@@ -150,7 +150,7 @@
   "postcode": "BD19 6HD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -158,14 +158,12 @@
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
     "visitor center",
-    "canals"
+    "tunnel"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "canal"
   ],
   "route_type": "circular",
   "activities": [

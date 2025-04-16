@@ -99,7 +99,7 @@
   "postcode": "CA20 1EX",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,11 +107,11 @@
     "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural scenery"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

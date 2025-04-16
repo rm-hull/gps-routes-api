@@ -77,16 +77,16 @@
   "nominatim_found": true,
   "display_address": "Riverside Park, Blairgowrie, Blairgowrie and Rattray, Perth and Kinross, Alba / Scotland, PH10 6GB, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside views",
-    "historical trail"
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "car park"

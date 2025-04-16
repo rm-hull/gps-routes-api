@@ -89,18 +89,18 @@
   "display_address": "Washford Lane, Park Farm South, Ipsley, Redditch, Worcestershire, England, B98 0HY, United Kingdom",
   "postcode": "B98 0HY",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "lake",
-    "path"
+    "trail"
   ],
   "points_of_interest": [
     "museum",
-    "historical sites",
-    "waterfront"
+    "visitor center",
+    "lake"
   ],
   "facilities": [
     "visitor center",
@@ -109,7 +109,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

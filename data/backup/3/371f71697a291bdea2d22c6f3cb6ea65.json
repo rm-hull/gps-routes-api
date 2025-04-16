@@ -91,25 +91,21 @@
   "postcode": "M9 7GS",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "water",
     "gullies"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "sports facilities",
-    "boating lake",
     "cafe",
+    "boating lake",
     "bike hire"
   ],
   "route_type": "circular",

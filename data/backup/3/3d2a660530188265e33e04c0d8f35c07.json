@@ -111,7 +111,7 @@
   "display_address": "Fish Lane, Tarlscough, Burscough, West Lancashire, Lancashire, England, L40 0RL, United Kingdom",
   "district": "West Lancashire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -120,18 +120,18 @@
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "sculptures",
-    "gardens"
+    "sculptures"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "public transport",
-    "canal towpath",
-    "cycle route"
+    "canal towpath"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

@@ -129,7 +129,7 @@
   "nominatim_found": true,
   "display_address": "Queen Street, Coggeshall, Braintree, Essex, England, CO6 1UF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -137,9 +137,9 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "woodland trails",
-    "river views"
+    "historic buildings",
+    "National Trust properties",
+    "monastic barn"
   ],
   "facilities": [
     "visitor center",

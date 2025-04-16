@@ -95,24 +95,23 @@
   "display_address": "Cammo Walk, Cammo, City of Edinburgh, Alba / Scotland, EH4 8GA, United Kingdom",
   "postcode": "EH4 8GA",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "meadow"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing"
+    "ruins",
+    "tower"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

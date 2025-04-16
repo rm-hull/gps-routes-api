@@ -119,7 +119,7 @@
   "postcode": "DL8 3HS",
   "district": "Askrigg",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -128,12 +128,13 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "village",
+    "historical site",
+    "waterfalls"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

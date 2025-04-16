@@ -85,7 +85,7 @@
   "postcode": "NP7 7LY",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,12 +93,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

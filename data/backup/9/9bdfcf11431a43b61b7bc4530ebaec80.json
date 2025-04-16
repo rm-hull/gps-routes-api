@@ -101,21 +101,21 @@
   "postcode": "IV63 6XL",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "loch"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

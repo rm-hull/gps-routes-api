@@ -54,13 +54,13 @@
   "display_address": "Forest of Dean Railway, New Town, Cinderford, Forest of Dean, Gloucestershire, England, GL14 2YG, United Kingdom",
   "postcode": "GL14 2YG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "heathland"
+    "heathland",
+    "lake"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -69,7 +69,8 @@
   ],
   "facilities": [
     "car park",
-    "cycle track"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

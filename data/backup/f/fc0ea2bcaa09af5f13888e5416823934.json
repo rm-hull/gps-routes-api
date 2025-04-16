@@ -104,7 +104,7 @@
   "display_address": "Green Lake Close, Bourton-on-the-Water, Cotswold, Gloucestershire, England, GL54 2AT, United Kingdom",
   "postcode": "GL54 2AT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,14 +112,15 @@
     "village"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "historical site",
+    "garden",
     "chapel"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

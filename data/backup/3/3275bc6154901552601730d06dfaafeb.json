@@ -115,23 +115,24 @@
   "display_address": "45, Station Road, Spacey Houses, Pannal and Burn Bridge, Pannal, North Yorkshire, York and North Yorkshire, England, HG3 1JS, United Kingdom",
   "postcode": "HG3 1JS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "rural"
+    "valley"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "wildflower meadow",
-    "viewpoints",
-    "hidden gem"
+    "gardens",
+    "historic buildings",
+    "hidden gem",
+    "valley views"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

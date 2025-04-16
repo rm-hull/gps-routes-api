@@ -58,12 +58,11 @@
   "display_address": "Tranwell Woods, Mitford, Tranwell, Northumberland, North East, England, NE61 6AG, United Kingdom",
   "postcode": "NE61 6AG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
     "country lanes",
@@ -72,7 +71,7 @@
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -111,12 +111,12 @@
   "nominatim_found": true,
   "display_address": "Rye Road, Stanstead Abbots, East Hertfordshire, Hertfordshire, England, EN11 0EH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
-    "waterfront",
-    "rural"
+    "water",
+    "river"
   ],
   "points_of_interest": [
     "nature trails",
@@ -128,6 +128,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

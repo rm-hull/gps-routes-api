@@ -76,7 +76,7 @@
   "nominatim_found": true,
   "display_address": "Church Street, Crondall, Hart, Hampshire, England, GU10 5QQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,17 +85,17 @@
     "country lanes"
   ],
   "points_of_interest": [
-    "historical sites",
     "castle ruins",
     "lake"
   ],
   "facilities": [
     "pub",
-    "car park",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "waterside stroll"
   ]
 }

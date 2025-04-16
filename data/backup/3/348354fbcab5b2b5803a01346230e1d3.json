@@ -76,16 +76,18 @@
   "nominatim_found": true,
   "display_address": "B6341, Elsdon, Northumberland, North East, England, NE19 1AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "church",
+    "village green",
+    "castle",
+    "tower"
   ],
   "facilities": [
     "car park",

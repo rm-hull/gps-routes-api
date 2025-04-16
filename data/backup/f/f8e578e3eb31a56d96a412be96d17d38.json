@@ -120,19 +120,20 @@
   "postcode": "LL55 4NH",
   "district": "Beddgelert",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "woodland",
-    "water/stream"
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "waterfalls",
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

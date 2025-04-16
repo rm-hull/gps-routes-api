@@ -139,22 +139,20 @@
   "nominatim_found": true,
   "display_address": "Stratford upon Avon College, The Willows, Shottery, Stratford-upon-Avon, Stratford-on-Avon, Warwickshire, England, CV37 9QJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "paved",
     "rural"
   ],
   "points_of_interest": [
     "picnic area",
-    "canal towpath",
-    "footpath"
+    "canal"
   ],
   "facilities": [
-    "car park",
     "cafe",
-    "wheelchair accessible"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

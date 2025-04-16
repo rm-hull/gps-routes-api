@@ -151,12 +151,12 @@
   "postcode": "EH23 4SW",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "forest",
+    "countryside"
   ],
   "points_of_interest": [
     "scenic views"
@@ -166,6 +166,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "fishing"
   ]
 }

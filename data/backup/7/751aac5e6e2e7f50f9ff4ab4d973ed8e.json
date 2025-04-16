@@ -81,21 +81,20 @@
   "display_address": "Oak Lane, Snaith and Cowick, East Riding of Yorkshire, England, DN14 9AB, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "waterfront",
-    "rural"
+    "trail"
   ],
   "points_of_interest": [
-    "country views",
-    "navigation"
+    "country views"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

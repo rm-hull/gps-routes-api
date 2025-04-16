@@ -75,20 +75,21 @@
   "display_address": "Little Town, Above Derwent, Cumberland, England, CA12 5TU, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "woodland"
+    "edge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "church",
+    "story setting",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

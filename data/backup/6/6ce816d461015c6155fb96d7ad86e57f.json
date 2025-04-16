@@ -53,22 +53,22 @@
   "nominatim_found": true,
   "display_address": "Church Square, Rose Hill, Dorking, Mole Valley, Surrey, England, RH4 1UT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
+    "grassland",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "vineyard"
+    "viewpoint",
+    "historical site",
+    "village green"
   ],
   "facilities": [
-    "cafe",
     "visitor center",
+    "cafe",
     "car park",
     "dog friendly"
   ],

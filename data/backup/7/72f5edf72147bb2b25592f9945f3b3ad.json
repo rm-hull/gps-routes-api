@@ -96,8 +96,8 @@
   "postcode": "GU29 0QQ",
   "district": "Chichester",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -105,13 +105,13 @@
     "pond"
   ],
   "points_of_interest": [
-    "footpaths",
-    "trails",
-    "river valley",
-    "common"
+    "common",
+    "hamlet",
+    "river valley"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

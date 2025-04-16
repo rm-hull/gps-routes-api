@@ -99,8 +99,8 @@
   "display_address": "Low Street, Manor Farm, Collingham CP, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG23 7LS, United Kingdom",
   "postcode": "NG23 7LS",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
@@ -108,9 +108,10 @@
   ],
   "points_of_interest": [
     "memorial garden",
-    "historical sites"
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

@@ -49,7 +49,7 @@
   "postcode": "SK10 4QT",
   "district": "Mottram St Andrew",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -57,12 +57,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "village",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

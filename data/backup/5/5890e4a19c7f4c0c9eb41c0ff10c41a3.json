@@ -111,25 +111,26 @@
   "nominatim_found": true,
   "display_address": "Spine Road West, Somerford Keynes, Cotswold, Gloucestershire, England, GL7 6DS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "waterfront",
-    "path"
+    "trail"
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "trails"
+    "town"
   ],
   "facilities": [
     "bike hire",
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

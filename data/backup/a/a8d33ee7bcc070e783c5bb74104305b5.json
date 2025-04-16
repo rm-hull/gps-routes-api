@@ -100,22 +100,20 @@
   "display_address": "Market Square, Ludlow, Shropshire, England, SY8 1FE, United Kingdom",
   "postcode": "SY8 1FE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "woodland",
-    "pasture",
-    "river"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "viewpoint",
+    "hill fort",
+    "historic garden"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

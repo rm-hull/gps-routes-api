@@ -105,7 +105,7 @@
   "display_address": "Beachy Head Road, Holywell, Eastbourne, East Sussex, England, BN20 7XY, United Kingdom",
   "district": "Eastbourne",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -113,9 +113,8 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildflowers",
-    "birdlife"
+    "viewpoint",
+    "countryside"
   ],
   "facilities": [
     "car park",
@@ -125,6 +124,7 @@
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

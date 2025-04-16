@@ -125,7 +125,7 @@
   "display_address": "A Varina, 49, Marine Parade, Northgate, Great Yarmouth, Norfolk, England, NR30 2EJ, United Kingdom",
   "postcode": "NR30 2EJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -133,10 +133,9 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "Roman fort",
-    "lake"
+    "village"
   ],
   "facilities": [
     "car park",

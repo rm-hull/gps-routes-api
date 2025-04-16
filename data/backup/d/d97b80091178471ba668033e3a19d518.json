@@ -76,17 +76,15 @@
   "postcode": "SY25 6ES",
   "district": "Strata Florida",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "lake views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

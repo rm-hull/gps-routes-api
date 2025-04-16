@@ -81,7 +81,7 @@
   "display_address": "St Mary's Bridge, North Bridge Road, Sprotbrough and Cusworth, Doncaster, South Yorkshire, England, DN5 9AG, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,13 +89,14 @@
     "path"
   ],
   "points_of_interest": [
-    "historic sites",
-    "scenic spots",
-    "waterfront"
+    "waterfall",
+    "viaduct",
+    "park",
+    "mills"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "cycle route"
   ],
   "route_type": "out and back",
   "activities": [

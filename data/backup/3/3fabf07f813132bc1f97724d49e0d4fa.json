@@ -104,20 +104,22 @@
   "nominatim_found": true,
   "display_address": "Castle Inn, Peters Green Road, Bodiam, Ewhurst Green, Rother, East Sussex, England, TN32 5UJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
+    "lawn",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint",
+    "moat"
   ],
   "facilities": [
+    "visitor center",
     "public footpath",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

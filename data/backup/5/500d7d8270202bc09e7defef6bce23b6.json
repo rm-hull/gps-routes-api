@@ -44,12 +44,11 @@
   "display_address": "21, Ashgap Lane, Hopetown, Normanton and Altofts, Altofts, Wakefield, West Yorkshire, England, WF6 2DT, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "grass"
+    "paved"
   ],
   "points_of_interest": [
     "play area",
@@ -59,7 +58,7 @@
     "play area",
     "gym",
     "tennis courts",
-    "car park"
+    "duck pond"
   ],
   "route_type": "circular",
   "activities": [

@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Fore Street, Evershot, Dorset, England, DT2 0JR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,13 +112,14 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "rural villages"
+    "church",
+    "historic house",
+    "village"
   ],
   "facilities": [
-    "church",
     "pub/cafe",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

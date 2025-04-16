@@ -101,23 +101,22 @@
   "nominatim_found": true,
   "display_address": "Delaware, Spitalfield Lane, New Romney, Folkestone and Hythe, Kent, England, TN28 8FP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "wetland",
-    "coastal",
-    "rural"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
+    "church",
     "nature reserve",
-    "villages"
+    "historical site"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

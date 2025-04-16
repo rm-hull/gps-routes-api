@@ -86,22 +86,22 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
+    "wet grassland",
     "woodland",
-    "wetland",
-    "coastal"
+    "water"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "waterfront",
+    "viewpoint",
     "nature reserves"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "walking trails"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -68,22 +68,20 @@
   "display_address": "Village Hall, Mill Lane, Weston-on-the-Green, Cherwell, Oxfordshire, England, OX25 3QR, United Kingdom",
   "postcode": "OX25 3QR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "waterway",
-    "countryside"
+    "waterfront"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historic house",
-    "countryside views"
+    "country house"
   ],
   "facilities": [
-    "car park",
-    "footpath"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

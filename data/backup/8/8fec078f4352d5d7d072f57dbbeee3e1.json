@@ -101,7 +101,7 @@
   "nominatim_found": true,
   "display_address": "Rock Walk, Ellacombe, Torquay, Torbay, England, TQ2 5EX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -109,10 +109,10 @@
     "paved"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

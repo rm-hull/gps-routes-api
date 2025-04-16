@@ -100,7 +100,7 @@
   "nominatim_found": true,
   "display_address": "Aylesbury Road, Wendover, Buckinghamshire, England, HP22 6LF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -108,12 +108,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "countryside views",
-    "bird watching"
+    "viewpoint",
+    "reservoir"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

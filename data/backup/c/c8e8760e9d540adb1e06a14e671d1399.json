@@ -99,24 +99,24 @@
   "postcode": "EX39 6DB",
   "district": "Torridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "village",
+    "church",
+    "abbey",
+    "lighthouse"
   ],
   "facilities": [
     "car park",
     "tea rooms",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

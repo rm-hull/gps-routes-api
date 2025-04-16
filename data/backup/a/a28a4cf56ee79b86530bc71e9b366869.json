@@ -71,16 +71,15 @@
   "display_address": "Bankside, Selsdon, London Borough of Croydon, London, Greater London, England, CR2 7BP, United Kingdom",
   "postcode": "CR2 7BP",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural areas"
+    "viewpoint",
+    "meadows"
   ],
   "facilities": [
     "car park"

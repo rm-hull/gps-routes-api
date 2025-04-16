@@ -89,18 +89,17 @@
   "display_address": "BW 492, Headley, Mole Valley, Surrey, England, KT18 6NR, United Kingdom",
   "postcode": "KT18 6NR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
+    "woodland",
     "chalk downland"
   ],
   "points_of_interest": [
     "wildlife viewing",
-    "nature trails",
-    "butterfly spotting"
+    "butterfly walk"
   ],
   "facilities": [
     "car park",
@@ -108,7 +107,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

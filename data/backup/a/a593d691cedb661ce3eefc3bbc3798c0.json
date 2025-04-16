@@ -114,17 +114,18 @@
   "postcode": "NR11 6PU",
   "district": "Broadland",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "mausoleum",
+    "garden",
+    "temple"
   ],
   "facilities": [
     "bike hire",

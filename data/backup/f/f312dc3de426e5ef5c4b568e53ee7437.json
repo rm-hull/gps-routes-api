@@ -79,16 +79,18 @@
   "display_address": "Little Scotland, Boyton, East Suffolk, Suffolk, England, IP12 3LE, United Kingdom",
   "district": "East Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
+    "forest",
     "woodland",
     "road"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve"
+    "UFO trail",
+    "nature reserve",
+    "river"
   ],
   "facilities": [
     "car park",
@@ -98,7 +100,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

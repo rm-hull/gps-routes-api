@@ -95,28 +95,30 @@
   "postcode": "BS8 4DU",
   "district": "Bristol",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "urban",
-    "river"
+    "river",
+    "meadow"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "museum",
     "sculpture trails",
-    "wildflowers"
+    "bird watching"
   ],
   "facilities": [
     "cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "outdoor seating"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

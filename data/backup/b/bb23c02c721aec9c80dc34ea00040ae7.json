@@ -84,7 +84,7 @@
   "display_address": "Lower Park Road, Chipstead, Reigate and Banstead, Surrey, England, CR5 3NR, United Kingdom",
   "postcode": "CR5 3NR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,14 +93,15 @@
   ],
   "points_of_interest": [
     "nature trail",
-    "wildflowers",
-    "views"
+    "scientific interest site",
+    "countryside"
   ],
   "facilities": [
     "car park",
-    "train station"
+    "visitor center",
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

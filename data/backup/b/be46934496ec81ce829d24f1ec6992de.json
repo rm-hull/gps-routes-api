@@ -133,24 +133,22 @@
   "nominatim_found": true,
   "display_address": "Betws-y-coed, Conwy, Cymru / Wales, LL24 0AD, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
     "waterfalls",
-    "lakes",
-    "nature reserve",
     "reservoirs",
-    "village"
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

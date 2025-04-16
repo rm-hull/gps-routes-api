@@ -90,7 +90,7 @@
   "postcode": null,
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,13 +99,12 @@
     "waterfall"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "wildlife"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "car park",
-    "waymarked trail"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

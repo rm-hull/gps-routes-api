@@ -95,7 +95,7 @@
   "postcode": "PL32 9QG",
   "district": "Camelford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,12 +104,13 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "viewpoints",
-    "monuments"
+    "monuments",
+    "cairns"
   ],
   "facilities": [
     "car park",
     "dog friendly",
+    "visitor center",
     "long distance trail"
   ],
   "route_type": "circular",

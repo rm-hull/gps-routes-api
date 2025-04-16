@@ -145,18 +145,18 @@
   "display_address": "3-4, Station Road, Lower Town, Buckfastleigh, Teignbridge, Devon, England, TQ11 0BU, United Kingdom",
   "postcode": "TQ11 0BU",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 day",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "valley"
+    "valley",
+    "waterfall"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "villages",
+    "village",
+    "castle",
+    "waterfall",
     "gorge"
   ],
   "facilities": [

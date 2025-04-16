@@ -95,22 +95,20 @@
   "nominatim_found": true,
   "display_address": "Gill Banks, Ulverston, Westmorland and Furness, England, LA12 7BU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "lake"
+    "mountain"
   ],
   "points_of_interest": [
     "towns",
-    "villages",
-    "scenery"
+    "villages"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking"
   ]

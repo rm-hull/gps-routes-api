@@ -68,7 +68,7 @@
   "nominatim_found": true,
   "display_address": "Madeira Avenue, New Town, Horsham, West Sussex, England, RH12 1AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -79,11 +79,10 @@
   "points_of_interest": [
     "nature reserve",
     "countryside views",
-    "historic trails"
+    "historic trail"
   ],
   "facilities": [
     "car park",
-    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

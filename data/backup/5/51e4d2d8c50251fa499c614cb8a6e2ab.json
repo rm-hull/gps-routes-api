@@ -116,20 +116,21 @@
   "nominatim_found": true,
   "display_address": "Blatherwycke, North Northamptonshire, England, PE8 6YW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "water",
-    "woodland"
+    "lake",
+    "brook"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural landmarks"
+    "church",
+    "garden",
+    "arboretum"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

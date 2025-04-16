@@ -54,7 +54,7 @@
   "postcode": "PH36 4LN",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -62,9 +62,9 @@
     "rural"
   ],
   "points_of_interest": [
-    "beaches",
-    "lighthouses",
-    "rural landscapes"
+    "lighthouse",
+    "beach",
+    "loch"
   ],
   "facilities": [
     "car park"

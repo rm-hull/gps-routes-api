@@ -69,22 +69,23 @@
   "nominatim_found": true,
   "display_address": "Skippers Walk, Caister-on-Sea, Great Yarmouth, Norfolk, England, NR30 5DJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "coastal",
     "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "nature reserve",
+    "dunes system"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

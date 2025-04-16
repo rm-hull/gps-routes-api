@@ -95,13 +95,13 @@
   "display_address": "Crooked Lane, Gravesend Town Centre, Milton, Gravesend, Gravesham, Kent, England, DA12 2EL, United Kingdom",
   "postcode": "DA12 2EL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "marsh",
     "mudflats",
-    "coastal"
+    "lagoon"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -109,8 +109,7 @@
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

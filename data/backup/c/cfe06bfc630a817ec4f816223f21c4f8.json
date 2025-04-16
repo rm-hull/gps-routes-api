@@ -104,26 +104,28 @@
   "postcode": "BH21 4ED",
   "district": "Pamphill",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden",
-    "grassland"
+    "grass"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "woodland",
-    "viewpoints"
+    "garden",
+    "tea house",
+    "arboretum",
+    "hill fort"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "kitchen garden",
+    "rose garden",
+    "fernery"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

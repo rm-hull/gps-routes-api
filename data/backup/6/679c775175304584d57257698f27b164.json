@@ -109,7 +109,7 @@
   "display_address": "Rye, New Road, Point Hill, Rye, Playden, Rother, East Sussex, England, TN31 7LS, United Kingdom",
   "postcode": "TN31 7LS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -120,14 +120,14 @@
   "points_of_interest": [
     "nature reserve",
     "historical ruins",
-    "waterways"
+    "waterfront"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

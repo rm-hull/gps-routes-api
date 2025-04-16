@@ -59,23 +59,21 @@
   "nominatim_found": true,
   "display_address": "Stoney Road, Abbey Green, Nuneaton, Nuneaton and Bedworth, Warwickshire, England, CV10 0EY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "parkland",
-    "canal"
+    "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "countryside",
+    "parks",
+    "canals"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

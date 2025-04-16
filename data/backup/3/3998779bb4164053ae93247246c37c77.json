@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Dory's Cafe, 21, Church Street, Netherton, Overton, Frodsham, Cheshire West and Chester, England, WA6 6PN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,8 +107,9 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "hillfort",
+    "forest",
+    "lake"
   ],
   "facilities": [
     "car park",

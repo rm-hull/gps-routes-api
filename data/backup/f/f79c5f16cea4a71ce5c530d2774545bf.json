@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Conyngham Hall, Beryl Burton Cycleway, Tentergate, Calcutt, Knaresborough, North Yorkshire, York and North Yorkshire, England, HG5 9AY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -107,12 +107,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "cycleway"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -86,17 +86,16 @@
   "postcode": "LA10 5RF",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "pasture",
-    "country lane",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical structure"
   ],
   "facilities": [
     "car park",

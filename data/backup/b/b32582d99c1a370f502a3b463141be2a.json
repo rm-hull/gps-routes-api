@@ -90,7 +90,7 @@
   "nominatim_found": true,
   "display_address": "Station Road, Wool, Dorset, England, BH20 6DT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,9 +98,9 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "village"
+    "historic village",
+    "castle"
   ],
   "facilities": [
     "pub/cafe",

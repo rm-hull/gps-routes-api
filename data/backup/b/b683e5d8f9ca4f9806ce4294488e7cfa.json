@@ -76,21 +76,22 @@
   "nominatim_found": true,
   "display_address": "Brayford Wharf North, New Boultham, Lincoln, Lincolnshire, England, LN5 7WA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
-    "rural"
+    "waterside",
+    "woodland"
   ],
   "points_of_interest": [
-    "woodland trails"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "cycle route"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

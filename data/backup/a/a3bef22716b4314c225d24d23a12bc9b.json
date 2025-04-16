@@ -115,26 +115,27 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill",
-    "coastal"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "fort",
+    "deer park",
     "nature reserve",
-    "deer park"
+    "harbour",
+    "beach",
+    "waterfalls"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "woodland trails"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

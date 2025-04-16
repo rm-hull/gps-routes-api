@@ -73,7 +73,7 @@
   "display_address": "Penn Lane, Gayle, Hawes, North Yorkshire, York and North Yorkshire, England, DL8 3QU, United Kingdom",
   "postcode": "DL8 3QU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,13 +81,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "historical sites"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "pub/cafe",
     "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

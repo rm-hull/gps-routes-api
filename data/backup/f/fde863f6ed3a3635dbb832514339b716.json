@@ -99,18 +99,17 @@
   "postcode": "DL12 0HX",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
     "moorland",
-    "water"
+    "river"
   ],
   "points_of_interest": [
     "waterfall",
-    "views",
-    "river"
+    "river views",
+    "lake district views"
   ],
   "facilities": [
     "car park"

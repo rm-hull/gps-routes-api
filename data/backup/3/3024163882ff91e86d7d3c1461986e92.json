@@ -73,7 +73,7 @@
   "display_address": "Alva, Clackmannanshire, Alba / Scotland, FK12 5HU, United Kingdom",
   "district": "Alva",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,14 +81,15 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "glens",
     "waterfalls",
     "lakes"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -115,21 +115,22 @@
   "display_address": "Small Talk Tea Room, High Street, Bourton-on-the-Water, Cotswold, Gloucestershire, England, GL54 2AN, United Kingdom",
   "postcode": "GL54 2AN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pastures",
+    "countryside",
     "river"
   ],
   "points_of_interest": [
-    "villages",
-    "historic sites"
+    "village",
+    "castle",
+    "wood"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

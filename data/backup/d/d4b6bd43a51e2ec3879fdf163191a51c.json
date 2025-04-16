@@ -115,7 +115,7 @@
   "postcode": "TQ2 6NX",
   "district": "Torquay",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -124,15 +124,15 @@
     "garden"
   ],
   "points_of_interest": [
-    "cliff top views",
-    "beaches",
-    "geological significance"
+    "viewpoint",
+    "beach",
+    "geological site"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "bus",
-    "wheelchair accessible",
+    "pub/cafe",
+    "cliff railway",
     "play area"
   ],
   "route_type": "out and back",

@@ -72,7 +72,7 @@
   "region": null,
   "state": "Cymru / Wales",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -81,15 +81,17 @@
     "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
+    "historical site",
+    "estate",
+    "trail",
     "local places"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

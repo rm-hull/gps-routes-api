@@ -71,18 +71,17 @@
   "postcode": "CA12 5XJ",
   "district": "Seatoller",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "waterfall",
-    "woodland"
+    "waterfall"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "climbing"
+    "viewpoint",
+    "waterfall",
+    "peak"
   ],
   "facilities": [
     "car park"

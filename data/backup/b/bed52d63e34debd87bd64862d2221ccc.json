@@ -57,19 +57,20 @@
   "display_address": "Church Lane, Exton, Winchester, Hampshire, England, SO32 3LT, United Kingdom",
   "postcode": "SO32 3LT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "chalk downland",
-    "rivers",
-    "canals"
+    "river",
+    "canal"
   ],
   "points_of_interest": [
     "villages"
   ],
   "facilities": [
-    "waymarking"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

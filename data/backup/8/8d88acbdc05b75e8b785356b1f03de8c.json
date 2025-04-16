@@ -66,7 +66,7 @@
   "postcode": "PR3 2QL",
   "district": "Ribble Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -75,16 +75,17 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "geographic center"
+    "viewpoint",
+    "geographic centre",
+    "reservoir"
   ],
   "facilities": [
     "pub/cafe",
     "car park",
+    "visitor center",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

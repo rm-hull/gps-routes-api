@@ -48,18 +48,20 @@
   "nominatim_found": true,
   "display_address": "Ware Road, Widford, East Hertfordshire, Hertfordshire, England, SG12 8RF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "nature trails"
+    "village"
   ],
-  "facilities": [],
-  "route_type": "loop",
+  "facilities": [
+    "footpath",
+    "cycle paths"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -72,16 +72,16 @@
   "postcode": "NG13 8JF",
   "district": "Rushcliffe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "grassland",
-    "urban"
+    "rural"
   ],
   "points_of_interest": [
     "historic buildings",
-    "churches"
+    "church"
   ],
   "facilities": [
     "car park"

@@ -104,22 +104,24 @@
   "display_address": "Shirley Hills Road, Shirley, London Borough of Croydon, London, Greater London, England, CR0 5FB, United Kingdom",
   "postcode": "CR0 5FB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland"
+    "heathland",
+    "ancient woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "walking trails"
+    "walking trails",
+    "tram stop"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

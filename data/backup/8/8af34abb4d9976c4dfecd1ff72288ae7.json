@@ -115,25 +115,26 @@
   "display_address": "Roaches Gradbach, Gradbach Mill Lane, Quarnford, Staffordshire Moorlands, Staffordshire, England, SK17 0SU, United Kingdom",
   "district": "Staffordshire Moorlands",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls"
+    "historical bridge",
+    "waterfalls",
+    "rock formations"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "swimming"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "swimming"
   ]
 }

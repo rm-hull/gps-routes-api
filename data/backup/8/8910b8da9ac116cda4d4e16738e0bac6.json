@@ -86,15 +86,14 @@
   "postcode": "PH33 6TE",
   "district": "Glen Nevis",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "7-10 hours",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "stony"
+    "mountain"
   ],
   "points_of_interest": [
-    "views",
+    "viewpoint",
     "memorials",
     "trig point"
   ],

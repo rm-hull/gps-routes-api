@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Church Street, Rattle, Ashover CP, Kelstedge, North East Derbyshire, Derbyshire, East Midlands, England, S45 0AD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -77,13 +77,14 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "bird watching"
+    "viewpoint",
+    "historical site",
+    "reservoir"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

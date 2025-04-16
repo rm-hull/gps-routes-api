@@ -63,26 +63,28 @@
   "nominatim_found": true,
   "display_address": "Shrewsbury Castle, The Dana, Mountfields, Greenfields, Shrewsbury, Shropshire, England, SY1 2AT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "park",
-    "town"
+    "urban",
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
+    "park",
+    "bridge",
     "museum",
-    "gardens",
+    "garden",
+    "memorial",
     "sculpture",
-    "viewpoint",
-    "nature reserve"
+    "library"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "library",
+    "dog friendly",
     "pub/cafe"
   ],
   "route_type": "circular",

@@ -104,7 +104,7 @@
   "display_address": "Monsal Trail, Blackwell in the Peak CP, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 8TD, United Kingdom",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,10 +112,11 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viaduct",
+    "valley"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

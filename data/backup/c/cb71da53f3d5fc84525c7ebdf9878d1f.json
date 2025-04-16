@@ -119,15 +119,14 @@
   "nominatim_found": true,
   "display_address": "Shore Road, Freiston Shore, Freiston CP, Boston, Lincolnshire, England, PE22 0LY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "wetland"
+    "coastal"
   ],
   "points_of_interest": [
-    "wildlife watching"
+    "wildlife watching sites"
   ],
   "facilities": [
     "car park",

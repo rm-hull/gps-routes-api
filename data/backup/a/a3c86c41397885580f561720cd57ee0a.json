@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Royal Albion Hotel, 35, Old Steine, Queen's Park, Brighton, Brighton and Hove, England, BN1 1NT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -89,13 +89,14 @@
     "clifftop"
   ],
   "points_of_interest": [
-    "water sports centre",
+    "watersports centre",
     "marina",
     "harbour"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

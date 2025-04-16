@@ -63,16 +63,16 @@
   "nominatim_found": true,
   "display_address": "High Street, Earith, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 3PX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 hour",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "gravel",
+    "fen"
   ],
   "points_of_interest": [
     "footpaths",
-    "views"
+    "river"
   ],
   "facilities": [
     "car park"

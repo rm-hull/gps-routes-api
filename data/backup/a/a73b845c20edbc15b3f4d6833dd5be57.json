@@ -99,23 +99,23 @@
   "postcode": "TQ7 3JU",
   "district": "South Hams",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "beach",
     "dunes"
   ],
   "points_of_interest": [
-    "views",
-    "geology",
-    "river"
+    "beach",
+    "river",
+    "archway"
   ],
   "facilities": [
     "car park",
-    "beach",
-    "footpath"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

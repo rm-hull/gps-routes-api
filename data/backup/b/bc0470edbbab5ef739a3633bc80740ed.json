@@ -91,24 +91,25 @@
   "nominatim_found": true,
   "display_address": "Saltway, Hanbury, Droitwich Spa, Wychavon, Worcestershire, England, WR9 7ER, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "parkland",
-    "canal"
+    "garden"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "gardens"
+    "viewpoint",
+    "church",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "visitor center",
+    "pub/cafe",
     "dog friendly",
-    "wheelchair accessible"
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

@@ -99,7 +99,7 @@
   "display_address": "Beacon Hill, Lickey and Blackwell CP, Rubery, Bromsgrove, Worcestershire, England, B45 9QL, United Kingdom",
   "district": "Bromsgrove",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,9 +107,8 @@
     "rural"
   ],
   "points_of_interest": [
-    "nature trails",
-    "birdlife",
-    "countryside views"
+    "viewpoint",
+    "nature trails"
   ],
   "facilities": [
     "visitor center",
@@ -118,6 +117,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

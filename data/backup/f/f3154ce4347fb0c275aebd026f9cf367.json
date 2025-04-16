@@ -99,22 +99,20 @@
   "nominatim_found": true,
   "display_address": "Cardiff Lawn Tennis Club, City Hall Road, Civic Centre, Castle, Cardiff, Cymru / Wales, CF10 3NN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterfront"
+    "grassland"
   ],
   "points_of_interest": [
     "gardens",
-    "parkland",
-    "historical sites"
+    "parkland"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

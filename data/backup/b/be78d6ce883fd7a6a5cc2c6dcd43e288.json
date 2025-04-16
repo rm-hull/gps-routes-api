@@ -101,7 +101,7 @@
   "display_address": "Dover Castle, Castle Hill Road, Clarendon, Dover, Kent, England, CT16 1QR, United Kingdom",
   "postcode": "CT16 1QR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,9 +109,10 @@
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "military history"
+    "historical site",
+    "lighthouse",
+    "gardens",
+    "forts"
   ],
   "facilities": [
     "visitor center",

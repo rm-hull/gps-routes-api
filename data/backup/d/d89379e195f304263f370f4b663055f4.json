@@ -100,7 +100,7 @@
   "postcode": "YO62 7LQ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,8 +108,8 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint",
+    "river"
   ],
   "facilities": [
     "pub/cafe",

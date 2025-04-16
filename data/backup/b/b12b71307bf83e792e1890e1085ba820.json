@@ -95,24 +95,22 @@
   "nominatim_found": true,
   "display_address": "A182, Dawdon, Seaham, County Durham, North East, England, SR7 7HA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "7 miles",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "woodland",
-    "natural"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature reserve",
-    "dene"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

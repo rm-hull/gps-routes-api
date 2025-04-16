@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Milton Abbas, Dorset, England, DT11 0BS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -107,13 +107,13 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "natural features",
-    "villages"
+    "historic abbey",
+    "church",
+    "waterfalls"
   ],
   "facilities": [
-    "church",
-    "trails"
+    "car park",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

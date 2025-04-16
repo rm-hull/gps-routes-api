@@ -77,22 +77,23 @@
   "nominatim_found": true,
   "display_address": "Dovecote, Hill Head, Llantwit Major, Vale of Glamorgan, Cymru / Wales, CF61 1FB, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "4 miles",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "historical site",
+    "viewpoint",
+    "monastery",
+    "castle"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

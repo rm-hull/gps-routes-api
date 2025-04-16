@@ -116,7 +116,7 @@
   "postcode": "NR22 6EE",
   "district": "North Norfolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -125,13 +125,13 @@
   ],
   "points_of_interest": [
     "religious sites",
-    "nature reserve",
     "historic chapel",
-    "river"
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "nature reserve"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

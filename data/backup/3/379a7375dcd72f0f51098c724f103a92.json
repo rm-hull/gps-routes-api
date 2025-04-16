@@ -54,16 +54,19 @@
   "nominatim_found": true,
   "display_address": "Hinderclay Road, Rickinghall Inferior, Rickinghall, Mid Suffolk, Suffolk, England, IP22 1HD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "historical sites"
+    "church"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

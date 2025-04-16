@@ -95,19 +95,16 @@
   "postcode": "ME17 1PG",
   "district": "Maidstone",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "water"
+    "garden"
   ],
   "points_of_interest": [
     "maze",
-    "grotto",
-    "gardens",
-    "state rooms"
+    "grotto"
   ],
   "facilities": [
     "visitor center",

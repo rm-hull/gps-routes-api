@@ -90,15 +90,15 @@
   "display_address": "Church Street, Windermere, Westmorland and Furness, England, LA23 1AQ, United Kingdom",
   "postcode": "LA23 1AQ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "mountain"
+    "pasture"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

@@ -105,20 +105,19 @@
   "display_address": "Wrexham Road, Bickerton, Bulkeley, Cheshire East, England, SY14 8BE, United Kingdom",
   "district": "Bulkeley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill"
+    "sandstone"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -71,16 +71,18 @@
   "postcode": "FK8 3LE",
   "district": "Callander",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland"
+    "forest"
   ],
   "points_of_interest": [
-    "nature trails"
+    "trails"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

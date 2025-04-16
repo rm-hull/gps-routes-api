@@ -99,7 +99,7 @@
   "display_address": "Bridge Street, Lyme Regis, Dorset, England, DT7 3QA, United Kingdom",
   "postcode": "DT7 3QA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,15 +107,16 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "historical site",
+    "nature reserve",
+    "geological site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

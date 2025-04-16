@@ -95,7 +95,7 @@
   "display_address": "Old London Road, Towton, North Yorkshire, York and North Yorkshire, England, LS24 9PB, United Kingdom",
   "postcode": "LS24 9PB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -104,14 +104,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
+    "information boards",
     "battlefield"
   ],
   "facilities": [
     "pub/cafe",
     "car park",
-    "visitor center",
-    "long distance footpaths"
+    "long distance footpaths",
+    "waterside trails"
   ],
   "route_type": "loop",
   "activities": [

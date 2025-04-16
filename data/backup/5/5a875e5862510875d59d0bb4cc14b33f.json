@@ -95,18 +95,18 @@
   "display_address": "Stonehouse Road, Boldmere, Sutton Coldfield, Birmingham, West Midlands, England, B73 6LJ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
+    "woodland",
     "wetlands",
     "lakes"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "nature reserve",
+    "site of special scientific interest"
   ],
   "facilities": [
     "visitor center",

@@ -86,20 +86,20 @@
   "display_address": "Cole's Lane, Heathcockham, Ockley, Capel, Mole Valley, Surrey, England, RH5 5HY, United Kingdom",
   "district": "Mole Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill"
+    "forest"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "tower"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

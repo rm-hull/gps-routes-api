@@ -54,19 +54,22 @@
   "nominatim_found": true,
   "display_address": "Woolhope, Herefordshire, England, HR1 4QP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "pasture",
+    "common"
   ],
   "points_of_interest": [
     "nature reserve",
-    "views"
+    "woods"
   ],
   "facilities": [
-    "car park"
+    "footpaths",
+    "bridleways",
+    "cycle paths"
   ],
   "route_type": "circular",
   "activities": [

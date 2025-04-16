@@ -121,7 +121,7 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -129,8 +129,7 @@
     "gorge"
   ],
   "points_of_interest": [
-    "views",
-    "waterfalls"
+    "views"
   ],
   "facilities": [
     "car park",

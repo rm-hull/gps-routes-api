@@ -75,28 +75,29 @@
   "postcode": "TA4 3PX",
   "district": "Elworthy",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "hill"
+    "parkland",
+    "gardens"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "manor house",
     "deer park",
     "herb garden",
     "rose garden",
-    "wildlife"
+    "peacock house",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "pub/cafe",
-    "visitor center"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

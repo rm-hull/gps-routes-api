@@ -66,24 +66,25 @@
   "nominatim_found": true,
   "display_address": "Hessle, East Riding of Yorkshire, England, HU13 0UB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "river views",
     "wildlife reserve",
-    "riverbank"
+    "aquarium"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "footpath",
+    "nature reserve",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

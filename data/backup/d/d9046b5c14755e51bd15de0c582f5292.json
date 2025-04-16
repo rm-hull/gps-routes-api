@@ -95,7 +95,7 @@
   "display_address": "7,8, Hillcrest Way, Steward's Green, Epping, Ivy Chimneys, Epping Forest, Essex, England, CM16 7AR, United Kingdom",
   "postcode": "CM16 7AR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,7 +108,8 @@
     "nature reserve"
   ],
   "facilities": [
-    "waymarked"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

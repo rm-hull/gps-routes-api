@@ -77,18 +77,16 @@
   "postcode": "YO61 4TE",
   "district": "Crayke",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "historical sites"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "lake"
+    "historical site",
+    "historic site"
   ],
   "facilities": [
     "visitor center",

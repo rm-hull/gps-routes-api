@@ -105,7 +105,7 @@
   "nominatim_found": true,
   "display_address": "Mullion Cove Hotel, Mullion Cove, Porth Mellin, Mullion, Cornwall, England, TR12 7EP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "7 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -115,12 +115,13 @@
   "points_of_interest": [
     "geology",
     "beaches",
-    "views"
+    "historical area"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "harbour"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

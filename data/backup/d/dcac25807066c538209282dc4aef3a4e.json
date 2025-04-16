@@ -69,7 +69,7 @@
   "display_address": "A40, Llywel, Trecastle, Powys, Cymru / Wales, LD3 8UW, United Kingdom",
   "postcode": "LD3 8UW",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -78,14 +78,15 @@
     "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "Roman site",
+    "stone circle",
+    "river"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "dog friendly",
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

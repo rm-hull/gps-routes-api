@@ -64,7 +64,7 @@
   "display_address": "Bure Valley Path, Hoveton, North Norfolk, Norfolk, England, NR12 8FN, United Kingdom",
   "postcode": "NR12 8FN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -72,12 +72,12 @@
     "country lanes"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "lake"
+    "historical hall",
+    "gardens"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

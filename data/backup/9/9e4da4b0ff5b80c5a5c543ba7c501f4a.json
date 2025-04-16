@@ -109,7 +109,7 @@
   "postcode": "HU11 4LN",
   "district": "West Newton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,14 +117,12 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "sculptures",
-    "wildlife"
+    "trail",
+    "sculpture trail"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

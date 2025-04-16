@@ -100,16 +100,14 @@
   "postcode": "PL20 6SW",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

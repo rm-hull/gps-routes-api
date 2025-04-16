@@ -101,20 +101,22 @@
   "display_address": "Esplanade, Lansdowne Hill, The Polygon, Southampton, England, SO14 2DD, United Kingdom",
   "postcode": "SO14 2DD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "urban",
     "historical"
   ],
   "points_of_interest": [
     "historical sites",
-    "views"
+    "towers",
+    "arches",
+    "wall sections"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

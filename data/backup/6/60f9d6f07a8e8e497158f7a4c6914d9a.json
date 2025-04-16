@@ -91,8 +91,8 @@
   "display_address": "Roath Road, West Hill, North Weston, Portishead, North Somerset, England, BS20 6AN, United Kingdom",
   "postcode": "BS20 6AN",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
@@ -100,14 +100,12 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
     "villages",
     "nature reserve"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

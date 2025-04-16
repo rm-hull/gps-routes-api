@@ -79,17 +79,17 @@
   "postcode": "IP18 6JJ",
   "district": "East Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "marshland",
     "beach",
-    "woodland"
+    "grassland"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "nature reserve"
+    "nature reserve",
+    "village"
   ],
   "facilities": [
     "cafe",
@@ -97,6 +97,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

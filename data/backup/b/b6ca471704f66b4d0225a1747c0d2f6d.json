@@ -81,16 +81,15 @@
   "display_address": "Grewgrass Lane, Saltburn, Marske and New Marske, Guisborough, Redcar and Cleveland, Tees Valley, England, TS11 8HP, United Kingdom",
   "postcode": "TS11 8HP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "coastal"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

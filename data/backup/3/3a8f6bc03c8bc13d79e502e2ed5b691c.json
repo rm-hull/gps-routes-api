@@ -60,22 +60,23 @@
   "display_address": "78, Abbey Street, The Brents, Faversham, Oare, Swale, Kent, England, ME13 7BN, United Kingdom",
   "postcode": "ME13 7BN",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "waterfront"
+    "nature"
   ],
   "points_of_interest": [
     "nature reserve",
     "estuary views"
   ],
   "facilities": [
-    "car park"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -75,18 +75,19 @@
   "display_address": "Pennington Flash, Atherleigh Way, Aspull Common, Pennington, Wigan, Greater Manchester, England, WN7 3UG, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterway"
+    "water"
   ],
   "points_of_interest": [
     "nature reserve",
-    "birdlife"
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

@@ -90,7 +90,7 @@
   "postcode": "EX35 6BL",
   "district": "North Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,15 +99,17 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "lighthouses",
-    "churches",
-    "villages"
+    "historical site",
+    "church",
+    "lighthouse",
+    "harbour",
+    "cottages"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

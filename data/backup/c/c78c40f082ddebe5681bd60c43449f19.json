@@ -99,7 +99,7 @@
   "district": "Wigan",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,15 +107,14 @@
     "canal"
   ],
   "points_of_interest": [
-    "nature reserve",
     "bird hides",
-    "countryside"
+    "nature reserve"
   ],
   "facilities": [
-    "visitor center",
+    "information center",
     "cafe",
-    "car park",
-    "wheelchair accessible"
+    "golf course",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

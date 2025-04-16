@@ -124,7 +124,7 @@
   "nominatim_found": true,
   "display_address": "The Thatch, Bolford Street, Thaxted, Uttlesford, Essex, England, CM6 2QS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -132,13 +132,18 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historic houses",
+    "Guildhall",
+    "almshouses",
+    "windmill",
+    "abbey ruins",
+    "mill ruins"
   ],
   "facilities": [
-    "footpath"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

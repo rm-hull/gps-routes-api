@@ -81,7 +81,7 @@
   "display_address": "Heligan Woods, Beacon Path, Pengrugla, St. Ewe, Cornwall, England, PL26 6EN, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -92,12 +92,14 @@
   "points_of_interest": [
     "sculptures",
     "wildflower meadow",
-    "views"
+    "headland"
   ],
   "facilities": [
     "car park",
-    "parking",
-    "coast path"
+    "visitor center",
+    "dog friendly",
+    "harbour",
+    "beaches"
   ],
   "route_type": "out and back",
   "activities": [

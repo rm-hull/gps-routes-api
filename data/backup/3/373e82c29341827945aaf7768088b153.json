@@ -81,7 +81,7 @@
   "display_address": "Market Square, Heol Gosport, Laugharne Township, Laugharne, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA33 4TA, United Kingdom",
   "postcode": "SA33 4TA",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,15 +89,16 @@
     "inland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "museum",
-    "viewpoints",
-    "literary landmarks"
+    "viewpoint",
+    "writing shed"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

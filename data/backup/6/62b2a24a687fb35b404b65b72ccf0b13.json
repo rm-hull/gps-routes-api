@@ -64,20 +64,21 @@
   "display_address": "Castlethwaite, Mallerstang, Westmorland and Furness, England, CA17 4JT, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "valley",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "sculptures"
+    "sculptures",
+    "waterfalls",
+    "summit"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

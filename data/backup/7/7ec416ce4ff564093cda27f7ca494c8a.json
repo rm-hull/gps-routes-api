@@ -105,17 +105,18 @@
   "postcode": "TR2 4NR",
   "district": "Ladock",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "pub"
+    "pub/cafe",
+    "river view"
   ],
   "route_type": "loop",
   "activities": [

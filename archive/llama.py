@@ -84,7 +84,7 @@ for file in tqdm(
     with open(file, "r") as fp:
         record: dict = json.load(fp)
 
-        if "llama_cpp" in record:
+        if record.get("llama_cpp", False):
             continue
 
         document = f"""

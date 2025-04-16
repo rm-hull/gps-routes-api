@@ -104,23 +104,22 @@
   "postcode": "CA10 2ND",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
+    "lake",
     "woodland",
-    "lake shore",
-    "mountain"
+    "waterfall"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfall",
-    "historical sites"
+    "hill"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

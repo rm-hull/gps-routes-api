@@ -149,7 +149,7 @@
   "nominatim_found": true,
   "display_address": "Nova Car Park, First Avenue, Prestatyn, Denbighshire, Cymru / Wales, LL19 7LP, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -158,7 +158,7 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "nature reserve",
     "village",
     "waterfall"
@@ -166,7 +166,8 @@
   "facilities": [
     "car park",
     "tea rooms",
-    "railway line"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

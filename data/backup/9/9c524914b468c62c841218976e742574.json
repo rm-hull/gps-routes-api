@@ -130,24 +130,23 @@
   "display_address": "S32 337, Sheffield Road, Hathersage Booths, Hathersage, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1DT, United Kingdom",
   "postcode": "S32 1DT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
     "wooded valley",
-    "gritstone"
+    "rock"
   ],
   "points_of_interest": [
     "hill fort",
-    "rock formations",
-    "wooded valley",
+    "tor",
     "brook"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wooded valley"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

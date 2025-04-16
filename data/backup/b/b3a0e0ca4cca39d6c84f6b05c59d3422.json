@@ -95,7 +95,7 @@
   "display_address": "Birches Valley, Brindley Heath, Slitting Mill, Cannock Chase, Staffordshire, England, WS15 2UH, United Kingdom",
   "district": "Cannock Chase",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -103,11 +103,12 @@
     "water"
   ],
   "points_of_interest": [
+    "visitor center",
     "water features"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "car park",
+    "walking paths"
   ],
   "route_type": "circular",
   "activities": [

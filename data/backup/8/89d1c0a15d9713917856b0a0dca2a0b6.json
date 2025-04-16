@@ -90,23 +90,22 @@
   "postcode": "SO21 1HW",
   "district": "Winchester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "downland"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "historical site",
+    "garden",
     "church",
-    "countryside"
+    "stately home"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

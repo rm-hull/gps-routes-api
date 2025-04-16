@@ -62,17 +62,18 @@
   "display_address": "Highfield Lane, Compton Martin, Bath and North East Somerset, West of England, England, BS40 6LA, United Kingdom",
   "postcode": "BS40 6LA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "country lanes",
+    "limestone"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
-    "long distance footpaths"
+    "church",
+    "millpond",
+    "nature reserve",
+    "gorge"
   ],
   "facilities": [
     "visitor center",

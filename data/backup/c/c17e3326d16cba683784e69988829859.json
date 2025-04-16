@@ -56,21 +56,21 @@
   "nominatim_found": true,
   "display_address": "The London Dungeon, The Queen's Walk, South Bank, Lambeth, London Borough of Lambeth, London, Greater London, England, SE1 7PB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "urban",
-    "river"
+    "paved"
   ],
   "points_of_interest": [
-    "art galleries",
-    "concerts",
-    "cultural attractions"
+    "gardens",
+    "exhibitions",
+    "galleries",
+    "concerts"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "one-way",
   "activities": [

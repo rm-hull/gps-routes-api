@@ -96,21 +96,21 @@
   "nominatim_found": true,
   "display_address": "B4224, Bagpiper's Tump, Mordiford, Herefordshire, England, HR1 4LN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "grassland"
   ],
   "points_of_interest": [
     "sculptures",
     "information panels",
-    "wildlife"
+    "woodland"
   ],
   "facilities": [
-    "car park",
-    "waymarked trail"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

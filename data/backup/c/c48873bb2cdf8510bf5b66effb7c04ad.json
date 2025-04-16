@@ -95,7 +95,7 @@
   "postcode": "SK17 6GJ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,8 +104,8 @@
     "ridge"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
+    "historical site",
+    "viewpoint",
     "cemetery"
   ],
   "facilities": [

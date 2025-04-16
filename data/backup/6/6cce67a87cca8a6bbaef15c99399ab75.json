@@ -59,23 +59,24 @@
   "nominatim_found": true,
   "display_address": "South Lakes Lettings, 85, Market Street, Dalton Town with Newton, Dalton-in-Furness, Westmorland and Furness, England, LA15 8DL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "historical sites",
-    "country trails"
+    "rural",
+    "historical"
   ],
   "points_of_interest": [
     "historical sites",
-    "nature reserves"
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "history"
   ]
 }

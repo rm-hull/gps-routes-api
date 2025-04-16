@@ -130,7 +130,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
@@ -140,10 +140,7 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "museums",
-    "World Heritage Sites",
-    "National Park",
-    "Areas of Outstanding Natural Beauty"
+    "museums"
   ],
   "facilities": [
     "visitor center",

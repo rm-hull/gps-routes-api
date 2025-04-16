@@ -76,24 +76,22 @@
   "display_address": "A6, Levens, Westmorland and Furness, England, LA8 0PB, United Kingdom",
   "district": "Levens",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "garden"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "garden",
     "sculptures",
-    "woodland"
-  ],
-  "facilities": [
-    "car park",
     "rose gardens",
     "herb garden"
+  ],
+  "facilities": [
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

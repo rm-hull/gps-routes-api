@@ -69,20 +69,21 @@
   "display_address": "Heythrop, Church Enstone, West Oxfordshire, Oxfordshire, England, OX7 5UF, United Kingdom",
   "district": "West Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical building",
     "village"
   ],
   "facilities": [
     "visitor center",
-    "dog friendly"
+    "garden",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

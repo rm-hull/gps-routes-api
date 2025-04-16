@@ -101,24 +101,23 @@
   "postcode": "LL54 7YS",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "rocky"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lakes",
+    "viewpoint",
     "climbing cliffs"
   ],
   "facilities": [
     "car park",
-    "railway station"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "hiking"
   ]
 }

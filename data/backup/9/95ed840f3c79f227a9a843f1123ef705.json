@@ -80,8 +80,8 @@
   "display_address": "Back Lane, Norton, Campsall, Doncaster, South Yorkshire, England, DN6 9SB, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "grassland",
@@ -89,7 +89,6 @@
     "woodland"
   ],
   "points_of_interest": [
-    "gardens",
     "trees"
   ],
   "facilities": [

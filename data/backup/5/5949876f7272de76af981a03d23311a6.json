@@ -114,22 +114,20 @@
   "nominatim_found": true,
   "display_address": "Churnet Valley Cycleway, Stubwood, Denstone, East Staffordshire, Staffordshire, England, ST14 5DG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural features",
-    "village"
+    "theme park",
+    "woodland trails",
+    "ponds"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

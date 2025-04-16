@@ -94,12 +94,12 @@
   "nominatim_found": true,
   "display_address": "A841, Cladach, North Ayrshire, Alba / Scotland, KA27 8DE, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
+    "coastline",
     "mountain"
   ],
   "points_of_interest": [
@@ -111,7 +111,7 @@
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

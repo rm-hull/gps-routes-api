@@ -99,18 +99,16 @@
   "display_address": "Shibden Park (Mereside) car park, Red Beck Road, Claremount, Stump Cross, Calderdale, West Yorkshire, England, HX3 6XL, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "water"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "water features"
+    "historical site",
+    "garden"
   ],
   "facilities": [
     "cafe",

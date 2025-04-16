@@ -71,7 +71,7 @@
   "postcode": "DD2 4UT",
   "district": "Dundee",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -79,14 +79,13 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical house",
     "wildlife center",
-    "woodland"
+    "reservoir"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

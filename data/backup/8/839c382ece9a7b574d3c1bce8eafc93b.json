@@ -109,23 +109,24 @@
   "display_address": "Beck Hill, Bayons Lodge, Tealby CP, Tealby, West Lindsey, Lincolnshire, England, LN8 3XS, United Kingdom",
   "postcode": "LN8 3XS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside",
+    "moor"
   ],
   "points_of_interest": [
-    "historic settlement",
     "church",
-    "countryside",
-    "woodland trails",
-    "wildlife"
+    "historic settlement",
+    "woodland"
   ],
   "facilities": [
     "pub",
-    "bridle track",
+    "visitor center",
+    "car park",
+    "dog friendly",
     "footpath"
   ],
   "route_type": "circular",

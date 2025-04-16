@@ -96,7 +96,7 @@
   "postcode": "PO38 2BY",
   "district": "Niton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -105,8 +105,8 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",

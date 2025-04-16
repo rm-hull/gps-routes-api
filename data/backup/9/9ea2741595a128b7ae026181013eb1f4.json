@@ -81,16 +81,16 @@
   "nominatim_found": true,
   "display_address": "North Beach Road, Balmedie, Aberdeenshire, Alba / Scotland, AB23 8XU, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "beach",
     "dune system",
-    "woodland"
+    "forest"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

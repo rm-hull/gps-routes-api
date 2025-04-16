@@ -133,7 +133,7 @@
   "nominatim_found": true,
   "display_address": "Park Lane, Aggborough, Kidderminster, Foley Park, Wyre Forest, Worcestershire, England, DY11 6TR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -142,13 +142,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "country park",
-    "river"
+    "viewpoint",
+    "country park"
   ],
   "facilities": [
     "car park",
-    "towpath"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

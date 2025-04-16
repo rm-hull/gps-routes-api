@@ -115,26 +115,28 @@
   "display_address": "6, Mill Lane, Blackpill, Mumbles, Swansea, Cymru / Wales, SA3 5BE, United Kingdom",
   "postcode": "SA3 5BE",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "meadows",
-    "valley"
+    "valley floor"
   ],
   "points_of_interest": [
-    "birdwatching",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "traffic free bike path"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

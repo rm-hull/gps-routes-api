@@ -90,19 +90,21 @@
   "display_address": "CAIRNGORM CAFE, CAIRNGORM MOUNTAIN BIKE FLOW TRAILS & UPTRACK, Highland, Alba / Scotland, PH22 1RB, United Kingdom",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "restaurant",
+    "weather station",
+    "viewpoint"
   ],
   "facilities": [
-    "restaurant",
-    "train station",
-    "weather station"
+    "car park",
+    "funicular railway",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

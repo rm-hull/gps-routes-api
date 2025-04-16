@@ -81,7 +81,7 @@
   "postcode": "SO31 7HA",
   "district": "Fareham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -90,12 +90,12 @@
     "lakes"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "wildlife"
+    "historic buildings",
+    "church"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

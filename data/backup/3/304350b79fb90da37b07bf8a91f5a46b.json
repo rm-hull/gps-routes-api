@@ -94,22 +94,20 @@
   "display_address": "Grimwith Road, Appletreewick, North Yorkshire, York and North Yorkshire, England, BD23 5ED, United Kingdom",
   "district": "Appletreewick",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "moorland",
-    "water"
+    "moorland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features",
-    "bird watching"
+    "viewpoint",
+    "water features"
   ],
   "facilities": [
     "car park",
-    "footpath"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -126,16 +126,14 @@
   "nominatim_found": true,
   "display_address": "Breighton Road, Bubwith, East Riding of Yorkshire, England, YO8 6DQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "river"
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river views"
+    "historical site"
   ],
   "facilities": [
     "car park"

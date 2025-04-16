@@ -69,17 +69,18 @@
   "nominatim_found": true,
   "display_address": "Crown Inn PH, Main Street, Ullesthorpe, Harborough, Leicestershire, England, LE17 5DN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "countryside"
+    "rural"
   ],
   "points_of_interest": [
-    "views"
+    "countryside views"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

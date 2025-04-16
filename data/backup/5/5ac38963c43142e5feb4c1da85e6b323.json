@@ -94,7 +94,7 @@
   "postcode": "L22 5NB",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -102,11 +102,11 @@
   ],
   "points_of_interest": [
     "sculptures",
-    "waterfront views"
+    "viewpoint"
   ],
   "facilities": [
-    "train station",
-    "car park"
+    "car park",
+    "train station"
   ],
   "route_type": "out and back",
   "activities": [

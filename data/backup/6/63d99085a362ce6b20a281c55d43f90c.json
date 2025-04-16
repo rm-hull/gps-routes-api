@@ -149,19 +149,19 @@
   "display_address": "Reading Bridge House, George Street, Caversham, Reading, England, RG1 8LS, United Kingdom",
   "postcode": "RG1 8LS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
     "river",
     "park",
-    "historical"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "historical site",
     "museum",
-    "watermills"
+    "garden",
+    "ruins"
   ],
   "facilities": [
     "visitor center",

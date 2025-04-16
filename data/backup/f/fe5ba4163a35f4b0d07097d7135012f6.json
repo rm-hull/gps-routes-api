@@ -86,18 +86,20 @@
   "postcode": "DN4 7PD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "farmland"
+    "farmland",
+    "rural"
   ],
   "points_of_interest": [
     "towns",
     "villages"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

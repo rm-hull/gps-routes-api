@@ -110,7 +110,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,15 +118,14 @@
     "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "geology"
+    "historical tower",
+    "geological features",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "cafe",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

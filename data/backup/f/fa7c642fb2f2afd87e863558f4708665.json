@@ -86,7 +86,7 @@
   "display_address": "Badgers Run, Troed-y-rhiw, Abercanaid, Merthyr Tydfil, Cymru / Wales, CF48 1YZ, United Kingdom",
   "district": "Abercanaid",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -95,17 +95,17 @@
     "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "countryside"
+    "country park",
+    "castle",
+    "gardens",
+    "park"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible",
-    "play area"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

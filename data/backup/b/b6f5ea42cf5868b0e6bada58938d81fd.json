@@ -91,7 +91,7 @@
   "postcode": "FK17 8HR",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -100,12 +100,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "waterfalls"
+    "trail",
+    "lake",
+    "loch"
   ],
   "facilities": [
     "car park",
-    "waymarked trail"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

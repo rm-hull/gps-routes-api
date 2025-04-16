@@ -64,17 +64,17 @@
   "nominatim_found": true,
   "display_address": "Walkey Way, Shoeburyness, Southend-on-Sea, Essex, England, SS3 9SR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "grassland"
+    "sand"
   ],
   "points_of_interest": [
     "nature reserve",
     "historical buildings",
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

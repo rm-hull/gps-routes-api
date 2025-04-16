@@ -80,21 +80,25 @@
   "nominatim_found": true,
   "display_address": "Lochcraig, Glencraig, Fife, Alba / Scotland, KY5 8BA, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
+    "meadows",
     "grasslands",
-    "waterfront"
+    "ponds"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "castle",
+    "wood",
+    "viewpoint",
     "archaeological features"
   ],
   "facilities": [
-    "car park"
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

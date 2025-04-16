@@ -77,7 +77,7 @@
   "display_address": "Klondyke Road, Okemoor Park, Okehampton, West Devon, Devon, England, EX20 1EJ, United Kingdom",
   "postcode": "EX20 1EJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,12 +85,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

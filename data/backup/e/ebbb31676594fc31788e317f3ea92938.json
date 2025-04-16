@@ -75,7 +75,7 @@
   "display_address": "B9002, Mill of Syde, Kennethmont, Aberdeenshire, Alba / Scotland, AB54 4QQ, United Kingdom",
   "district": "Kennethmont",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -83,9 +83,11 @@
     "parkland"
   ],
   "points_of_interest": [
-    "nature trails"
+    "trails"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

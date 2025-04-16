@@ -80,7 +80,7 @@
   "display_address": "Nutfield Marsh Road, Nutfield, Tandridge, Surrey, England, RH1 4EU, United Kingdom",
   "district": "Nutfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "full day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,8 +93,7 @@
   ],
   "facilities": [
     "car park",
-    "lakeside trail",
-    "wildlife spotting"
+    "lakeside trail"
   ],
   "route_type": "circular",
   "activities": [

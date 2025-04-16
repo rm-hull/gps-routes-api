@@ -113,7 +113,7 @@
   "display_address": "Bridge Street, Caversham, Reading, England, RG4 8AH, United Kingdom",
   "postcode": "RG4 8AH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "easy",
   "terrain": [
@@ -121,9 +121,10 @@
     "rural"
   ],
   "points_of_interest": [
-    "historic bridges",
-    "natural beauty",
-    "river scenery"
+    "historic bridge",
+    "lake",
+    "village",
+    "riverbank"
   ],
   "facilities": [
     "car park",

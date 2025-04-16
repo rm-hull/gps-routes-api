@@ -94,7 +94,7 @@
   "nominatim_found": true,
   "display_address": "Valley Close, Low Habberley, Kidderminster Foreign, Ferndale, Wyre Forest, Worcestershire, England, DY11 5RD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -103,7 +103,8 @@
     "heathland"
   ],
   "points_of_interest": [
-    "wildlife viewing"
+    "trails",
+    "wildlife"
   ],
   "facilities": [
     "car park",

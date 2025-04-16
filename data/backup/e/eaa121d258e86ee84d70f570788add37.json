@@ -155,7 +155,7 @@
   "nominatim_found": true,
   "display_address": "High Street, Milford-on-Sea, Milford on Sea, New Forest, Hampshire, England, SO41 0QE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -164,10 +164,10 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museums",
-    "nature reserves",
-    "maritime history"
+    "historical site",
+    "museum",
+    "nature reserve",
+    "harbour"
   ],
   "facilities": [
     "car park",
@@ -175,9 +175,10 @@
     "visitor center",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "ferry riding"
+    "bird watching",
+    "sightseeing"
   ]
 }

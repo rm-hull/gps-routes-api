@@ -80,21 +80,20 @@
   "postcode": "OX1 1GD",
   "district": "Oxford",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "meadow",
+    "meadowland",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site",
+    "waterfront"
   ],
   "facilities": [
     "car park",
-    "waterfront"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

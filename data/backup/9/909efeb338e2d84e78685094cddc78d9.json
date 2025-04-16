@@ -99,7 +99,7 @@
   "postcode": "SL3 6BL",
   "district": "George Green",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,9 +108,9 @@
     "parkland"
   ],
   "points_of_interest": [
-    "views",
-    "gardens",
-    "country park"
+    "viewpoint",
+    "garden",
+    "pond"
   ],
   "facilities": [
     "tea room",

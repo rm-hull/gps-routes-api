@@ -119,21 +119,21 @@
   "nominatim_found": true,
   "display_address": "Back Union Road, Newtown, New Mills, High Peak, Derbyshire, East Midlands, England, SK22 4BZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "canal"
+    "river gorge"
   ],
   "points_of_interest": [
     "waterfalls",
-    "industrial buildings",
-    "historical sites"
+    "weirs",
+    "industrial buildings"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

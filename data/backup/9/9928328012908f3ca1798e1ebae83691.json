@@ -86,22 +86,21 @@
   "postcode": "SP3 5RZ",
   "district": "Fonthill Gifford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
+    "lake",
     "countryside"
   ],
   "points_of_interest": [
-    "countryside views",
-    "river",
-    "lake"
+    "viewpoint",
+    "river"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

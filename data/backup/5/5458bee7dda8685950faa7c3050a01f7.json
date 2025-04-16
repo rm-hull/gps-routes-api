@@ -111,7 +111,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -119,10 +119,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "dog friendly"
+    "dog friendly",
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

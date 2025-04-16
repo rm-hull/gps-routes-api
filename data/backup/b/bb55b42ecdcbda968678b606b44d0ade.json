@@ -69,22 +69,22 @@
   "nominatim_found": true,
   "display_address": "Caledonian Place, Moffat, Dumfries and Galloway, Alba / Scotland, DG10 9EG, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "forest"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical routes",
-    "nature trails",
-    "waterside trails"
+    "park",
+    "historical route",
+    "forest"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "boating lake"
   ],
   "route_type": "circular",
   "activities": [

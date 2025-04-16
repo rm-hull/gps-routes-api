@@ -95,7 +95,7 @@
   "district": "Sheffield",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,11 +103,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "views",
+    "viewpoint",
     "countryside"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

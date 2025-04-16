@@ -79,8 +79,8 @@
   "display_address": "Knap Terrace Car Park, Beachway, The Knap, Barry, Vale of Glamorgan, Cymru / Wales, CF62 6UD, United Kingdom",
   "postcode": "CF62 6UD",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -88,14 +88,11 @@
     "coastal"
   ],
   "points_of_interest": [
-    "wildflower meadow",
-    "stream",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "cafe",
-    "children's play area",
+    "play area",
     "golf course"
   ],
   "route_type": "circular",

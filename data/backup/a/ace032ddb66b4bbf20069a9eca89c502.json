@@ -108,22 +108,23 @@
   "postcode": "NE61 4EA",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "woodland"
+    "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "rock formations"
+    "burial mounds",
+    "standing stone",
+    "tumulus"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "dog friendly",
+    "walled garden"
   ],
   "route_type": "circular",
   "activities": [

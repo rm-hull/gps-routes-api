@@ -89,7 +89,7 @@
   "display_address": "Pet Cemetry, Coventry Road, Coombe Fields CP, Rugby, Warwickshire, England, CV3 2AB, United Kingdom",
   "district": "Rugby",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,15 +98,16 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "garden",
+    "sculpture",
+    "meadow",
+    "park"
   ],
   "facilities": [
     "visitor center",
     "discovery center",
     "car park",
-    "dog friendly"
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

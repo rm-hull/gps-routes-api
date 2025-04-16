@@ -91,7 +91,7 @@
   "display_address": "Soar Valley Way, Enderby, Blaby, Leicestershire, England, LE19 1HY, United Kingdom",
   "district": "Blaby",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,16 +99,17 @@
     "meadow"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "cycling"
+    "wildlife area",
+    "nature area"
   ],
   "facilities": [
     "cycle hire",
-    "car park"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "cycling",
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

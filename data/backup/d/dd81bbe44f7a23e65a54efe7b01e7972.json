@@ -153,7 +153,7 @@
   "nominatim_found": true,
   "display_address": "Cholmondeley Road, Weaver Farm, Wrenbury cum Frith, Wrenbury, Cheshire East, England, CW5 8FS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -164,13 +164,13 @@
   "points_of_interest": [
     "historic properties",
     "village green",
-    "river views",
-    "train station"
+    "train station",
+    "hall"
   ],
   "facilities": [
     "pub",
-    "canal basin",
-    "footpath"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -85,7 +85,7 @@
   "display_address": "Station Road, South Benfleet, Castle Point, Essex, England, SS7 1NG, United Kingdom",
   "postcode": "SS7 1NG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,14 +94,15 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

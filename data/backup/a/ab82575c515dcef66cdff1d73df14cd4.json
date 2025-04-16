@@ -64,24 +64,23 @@
   "nominatim_found": true,
   "display_address": "Dentaid, 116, Commercial Road, Totton, Totton and Eling, Eling, Southampton, Hampshire, England, SO40 3AD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
+    "riverside",
     "marshland",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
+    "nature reserve",
     "local history",
-    "wildlife"
+    "historical walk"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

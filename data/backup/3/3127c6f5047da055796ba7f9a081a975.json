@@ -77,7 +77,7 @@
   "postcode": "RH5 6AH",
   "district": "Mole Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -86,13 +86,15 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "local beauty spot"
+    "ruins",
+    "viewpoint",
+    "vineyard"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

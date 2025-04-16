@@ -114,17 +114,16 @@
   "postcode": "NE47 6NQ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
+    "historical site",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [

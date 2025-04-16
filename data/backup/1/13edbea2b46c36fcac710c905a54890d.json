@@ -71,18 +71,19 @@
   "postcode": "SY21 0QQ",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
+    "river valley",
+    "gorge",
     "meadow",
     "woodland",
     "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "religious sites"
+    "historical site",
+    "memorial chapel"
   ],
   "facilities": [
     "car park"

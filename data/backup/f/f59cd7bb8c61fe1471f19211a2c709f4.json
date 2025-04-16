@@ -69,20 +69,21 @@
   "nominatim_found": true,
   "display_address": "Castle Street, Palmbourne Industrial Park, Castletown, Stafford, Staffordshire, England, ST16 2EF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "historic"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historic castle",
+    "herb garden",
+    "landmark"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

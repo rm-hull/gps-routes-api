@@ -71,21 +71,22 @@
   "display_address": "Wharf Hill, Geufron, Llangollen, Denbighshire, Cymru / Wales, LL20 8UE, United Kingdom",
   "postcode": "LL20 8UE",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "mountain",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

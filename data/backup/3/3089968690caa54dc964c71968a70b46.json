@@ -91,21 +91,21 @@
   "nominatim_found": true,
   "display_address": "King Edward's Parade, Meads, Eastbourne, East Sussex, England, BN20 7AF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "coastal"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "hill figure",
+    "valley"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

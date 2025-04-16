@@ -103,7 +103,7 @@
   "nominatim_found": true,
   "display_address": "M&Co, Station Road, Upminster, London Borough of Havering, London, Greater London, England, RM14 2TU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,15 +112,14 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historic mill",
     "nature reserve",
-    "lake",
-    "farm"
+    "lake"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

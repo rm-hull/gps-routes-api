@@ -94,23 +94,23 @@
   "nominatim_found": true,
   "display_address": "Barnard Castle Grounds, Bridgegate, Barnard Castle, County Durham, North East, England, DL12 9BN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "pasture"
+    "grass"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "river views"
+    "castle",
+    "village",
+    "church",
+    "ruins"
   ],
   "facilities": [
     "car park",
-    "church",
-    "historic ruins"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

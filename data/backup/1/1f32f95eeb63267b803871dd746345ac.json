@@ -41,19 +41,21 @@
   "display_address": "The Strand, Quainton, Buckinghamshire, England, HP22 4AS, United Kingdom",
   "postcode": "HP22 4AS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "canal",
     "river",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
+    "historical site",
     "scenery"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

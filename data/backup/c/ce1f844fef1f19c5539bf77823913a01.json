@@ -75,19 +75,20 @@
   "nominatim_found": true,
   "display_address": "Bungay, East Suffolk, Suffolk, England, NR35 1HG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "grassland"
+    "common"
   ],
   "points_of_interest": [
+    "castle",
     "historical sites",
-    "wildlife",
-    "views"
+    "countryside"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

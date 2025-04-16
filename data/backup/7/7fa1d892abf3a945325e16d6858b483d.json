@@ -73,22 +73,24 @@
   "nominatim_found": true,
   "display_address": "Coleford, Monmouth, Usk & Pontypool Railway, Llanbadoc, Usk, Monmouthshire, Cymru / Wales, NP15 1SZ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "river",
-    "canal"
+    "urban"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "waterfront",
-    "views"
+    "castle ruins"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

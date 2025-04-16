@@ -91,20 +91,21 @@
   "nominatim_found": true,
   "display_address": "London Bridge, Monument, London Borough of Southwark, City of London, Greater London, England, EC4R 3AE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "10-15 minutes",
   "difficulty": "easy",
   "terrain": [
-    "path"
+    "river",
+    "urban"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks"
+    "historical site",
+    "viewpoint",
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

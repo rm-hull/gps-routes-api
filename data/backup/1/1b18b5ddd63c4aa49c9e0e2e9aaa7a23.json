@@ -81,26 +81,24 @@
   "display_address": "B4343, Tregaron, Ceredigion, Cymru / Wales, SY25 6JF, United Kingdom",
   "district": "Tregaron",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1-2 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "grasslands",
     "river",
-    "reedbeds"
+    "pond"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "wildlife"
   ],
   "facilities": [
-    "car park",
-    "cycle route"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

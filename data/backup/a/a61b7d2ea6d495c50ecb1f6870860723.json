@@ -86,22 +86,21 @@
   "nominatim_found": true,
   "display_address": "Featherstone Park, Hall Bank, Rowfoot, Featherstone, Northumberland, North East, England, NE49 0JG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "countryside",
-    "footpath"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfront",
-    "archaeological sites"
+    "castle",
+    "viaduct",
+    "railway station"
   ],
   "facilities": [
     "car park",
-    "railway remains"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -95,12 +95,11 @@
   "postcode": "YO43 4XE",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "grass"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",

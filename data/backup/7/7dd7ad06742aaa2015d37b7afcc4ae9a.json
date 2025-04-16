@@ -69,24 +69,25 @@
   "display_address": "West Lane, Kemble, Cotswold, Gloucestershire, England, GL7 6QJ, United Kingdom",
   "postcode": "GL7 6QJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "parkland",
-    "lake"
+    "lakes"
   ],
   "points_of_interest": [
-    "historical sites",
     "monument",
-    "trails"
+    "church",
+    "park"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

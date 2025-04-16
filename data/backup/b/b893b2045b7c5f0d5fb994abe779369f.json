@@ -104,22 +104,21 @@
   "postcode": "PL34 0DQ",
   "district": "Tintagel",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "beach",
-    "cliff"
+    "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "villages"
+    "historical site",
+    "village",
+    "beach"
   ],
   "facilities": [
+    "cafe",
     "shops",
-    "cafes",
     "car park"
   ],
   "route_type": "out and back",

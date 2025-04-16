@@ -120,25 +120,28 @@
   "nominatim_found": true,
   "display_address": "West Road, Castle and Priory Precinct, Marsh, Lancaster, Lancashire, England, LA1 5SJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "canal",
     "coastal",
-    "woodland"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "castle",
+    "aqueduct",
+    "bridge",
     "beach",
-    "wildlife"
+    "peninsula"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "giftshop",
+    "car park",
+    "dog friendly",
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

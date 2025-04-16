@@ -76,21 +76,21 @@
   "postcode": "PH24 3BT",
   "district": "Aviemore",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "waterfront"
+    "waterfront",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historic structure",
     "water views"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

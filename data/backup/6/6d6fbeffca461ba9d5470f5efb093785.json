@@ -73,18 +73,16 @@
   "display_address": "The Chequers, 36, Hill Street, Feltwell, King's Lynn and West Norfolk, Norfolk, England, IP26 4AB, United Kingdom",
   "postcode": "IP26 4AB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "woodland",
-    "water"
+    "countryside",
+    "waterfront"
   ],
   "points_of_interest": [
     "archaeological sites",
-    "farmland views",
-    "wildlife"
+    "farmland"
   ],
   "facilities": [
     "car park"

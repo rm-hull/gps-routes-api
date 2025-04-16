@@ -59,16 +59,17 @@
   "nominatim_found": true,
   "display_address": "Grafton Underwood, North Northamptonshire, England, NN14 3AA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "architecture"
+    "church",
+    "village",
+    "parkland",
+    "gardens"
   ],
   "facilities": [
     "visitor center"

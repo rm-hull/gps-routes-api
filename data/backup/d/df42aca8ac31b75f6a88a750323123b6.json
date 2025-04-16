@@ -135,20 +135,20 @@
   "nominatim_found": true,
   "display_address": "Iford, Lewes, East Sussex, England, BN7 3EW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
-    "hill"
+    "hill",
+    "pasture"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "views",
-    "cultural sites"
+    "historic settlement",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

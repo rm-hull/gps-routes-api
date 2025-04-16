@@ -71,20 +71,21 @@
   "display_address": "Foxholes Lane, Olveston, Elberton, Aust, South Gloucestershire, West of England, England, BS32 4PF, United Kingdom",
   "district": "Elberton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden"
   ],
   "points_of_interest": [
     "wildflower meadows",
-    "views"
+    "view"
   ],
   "facilities": [
     "cafe",
-    "playground"
+    "playground",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

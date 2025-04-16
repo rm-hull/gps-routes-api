@@ -51,17 +51,19 @@
   "display_address": "Linton, Bromyard, Herefordshire, England, WR6 5TG, United Kingdom",
   "district": "Bromyard",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "track"
   ],
   "points_of_interest": [
-    "historical sites"
+    "historical site"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

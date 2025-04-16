@@ -101,7 +101,7 @@
   "postcode": "ML7 5TX",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -109,8 +109,7 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "scenic views",
-    "countryside"
+    "scenic views"
   ],
   "facilities": [
     "car park"
@@ -118,6 +117,6 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "fishing"
   ]
 }

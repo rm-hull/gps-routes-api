@@ -69,19 +69,20 @@
   "nominatim_found": true,
   "display_address": "Lockerbie Road, Lochmaben, Dumfries and Galloway, Alba / Scotland, DG11 1NJ, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "3 miles",
   "difficulty": "moderate",
   "terrain": [
     "water",
-    "path"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river views"
+    "castle ruins",
+    "river"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

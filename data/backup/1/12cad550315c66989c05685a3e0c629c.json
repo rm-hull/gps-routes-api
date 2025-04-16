@@ -119,22 +119,20 @@
   "postcode": "EX35 6LF",
   "district": "North Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
-    "river"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "tea garden",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

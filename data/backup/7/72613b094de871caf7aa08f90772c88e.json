@@ -76,19 +76,18 @@
   "nominatim_found": true,
   "display_address": "Stock Ghyll Lane, Waterhead, Lakes, Ambleside, Westmorland and Furness, England, LA22 9BX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "church",
+    "viewpoint"
   ],
   "facilities": [
-    "church"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

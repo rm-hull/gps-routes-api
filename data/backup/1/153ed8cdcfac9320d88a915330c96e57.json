@@ -104,21 +104,23 @@
   "display_address": "Ilam Hall overflow car park, The Oaks, Ilam, Staffordshire Moorlands, Staffordshire, England, DE6 2AZ, United Kingdom",
   "postcode": "DE6 2AZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural landscapes"
+    "garden",
+    "historical site",
+    "valley"
   ],
   "facilities": [
     "visitor center",
     "tea-room",
-    "shop"
+    "shop",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

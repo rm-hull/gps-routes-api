@@ -124,7 +124,7 @@
   "nominatim_found": true,
   "display_address": "The Coach House, 95, Cranmore Lane, Cargate, Aldershot, Rushmoor, Hampshire, England, GU11 3AP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -134,13 +134,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "lakeside park",
-    "footpath"
+    "lakeside park"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

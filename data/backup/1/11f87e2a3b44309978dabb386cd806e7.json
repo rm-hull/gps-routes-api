@@ -185,29 +185,32 @@
   "postcode": "LL57 4FL",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "mountain",
-    "lake"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "mountain viewpoints",
-    "slate quarries",
-    "railway heritage"
+    "historic mining villages",
+    "slate museum",
+    "heritage railway",
+    "mountain sports centre"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "mountain sports centre",
+    "pub/cafe",
+    "dog friendly",
     "play area"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "scuba diving",
+    "mountain sports"
   ]
 }

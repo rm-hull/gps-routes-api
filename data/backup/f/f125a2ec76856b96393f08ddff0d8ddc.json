@@ -95,27 +95,27 @@
   "postcode": "LL68 0UE",
   "district": "Cemaes",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland"
   ],
   "points_of_interest": [
-    "wildflowers",
-    "orchids",
-    "heather",
-    "wildlife spotting",
-    "historical sites"
+    "viewpoint",
+    "wildflower area",
+    "orchard"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "footpaths"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

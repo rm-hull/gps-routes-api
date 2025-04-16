@@ -101,7 +101,7 @@
   "display_address": "Berrington Hall, Eye Lane, Moreton, Eye, Moreton and Ashton, Herefordshire, England, HR6 0DR, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,14 +110,14 @@
     "heathland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "garden",
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "tea room",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

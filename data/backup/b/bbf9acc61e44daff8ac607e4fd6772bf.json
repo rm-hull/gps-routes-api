@@ -90,22 +90,22 @@
   "nominatim_found": true,
   "display_address": "St George's Crescent, Craig-y-don, Llandudno, Conwy, Cymru / Wales, LL30 2LF, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "limestone"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "historical site",
+    "viewpoint",
+    "fortress"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

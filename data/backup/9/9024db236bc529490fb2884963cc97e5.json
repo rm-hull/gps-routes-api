@@ -96,21 +96,21 @@
   "display_address": "Church Hill, Roger Ground, Hawkshead, Westmorland and Furness, England, LA22 0PQ, United Kingdom",
   "postcode": "LA22 0PQ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "fishing spots",
-    "lake views"
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "cafe"
+    "cafe",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

@@ -55,23 +55,22 @@
   "district": "Manchester",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterfront"
+    "grassland"
   ],
   "points_of_interest": [
-    "gardens",
-    "meadows",
-    "historical sites"
+    "farm",
+    "garden",
+    "historical house"
   ],
   "facilities": [
     "visitor center",
-    "dog friendly",
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

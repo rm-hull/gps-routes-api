@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "Womack Lodge, Horse Fen Road, Ludham, North Norfolk, Norfolk, England, NR29 5GB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -81,7 +81,7 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
+    "church",
     "broads",
     "village"
   ],

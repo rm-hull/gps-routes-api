@@ -115,22 +115,23 @@
   "display_address": "Mannington Hall Road, Itteringham, North Norfolk, Norfolk, England, NR11 7BB, United Kingdom",
   "district": "North Norfolk",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "parkland",
     "woodland",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "historic estates",
-    "gardens",
-    "country house"
+    "ruined chapel",
+    "moat",
+    "gardens"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

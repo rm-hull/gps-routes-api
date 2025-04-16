@@ -124,7 +124,7 @@
   "display_address": "Gilwern Wharf, Winsford Grove, Maesygwartha, Llanelly, Gilwern, Monmouthshire, Cymru / Wales, NP7 0RL, United Kingdom",
   "postcode": "NP7 0RL",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -132,8 +132,7 @@
     "river"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "natural scenery"
+    "waterfalls"
   ],
   "facilities": [
     "car park",

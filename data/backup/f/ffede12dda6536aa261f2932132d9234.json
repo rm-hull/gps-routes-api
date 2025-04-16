@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "Orchard Street, Barnyards, Beauly, Highland, Alba / Scotland, IV4 7DT, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -81,10 +81,11 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historic site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

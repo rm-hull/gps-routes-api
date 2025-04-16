@@ -139,22 +139,20 @@
   "nominatim_found": true,
   "display_address": "UHI West Highland - Fort William Centre, Carmichael Way, An Aird, Fort William, Highland, Alba / Scotland, PH33 6FF, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "woodland",
-    "canal"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

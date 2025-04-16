@@ -119,7 +119,7 @@
   "postcode": "SA13 3HG",
   "district": "Ton-Mawr",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -127,10 +127,11 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

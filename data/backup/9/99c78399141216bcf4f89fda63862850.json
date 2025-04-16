@@ -73,18 +73,16 @@
   "display_address": "The Village, Dale Brow, Prestbury, Cheshire East, England, SK10 4DQ, United Kingdom",
   "postcode": "SK10 4DQ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
     "rural",
     "river"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "churchyard",
-    "chapel",
-    "gardens"
+    "church",
+    "chapel"
   ],
   "facilities": [
     "pub/cafe",

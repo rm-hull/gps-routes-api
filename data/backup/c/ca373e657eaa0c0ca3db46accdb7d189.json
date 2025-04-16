@@ -114,23 +114,22 @@
   "postcode": "LL55 4TY",
   "district": "Llanberis",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake"
+    "lakeside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfall"
+    "castle",
+    "waterfall",
+    "peak"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible",
-    "dog friendly"
+    "railway"
   ],
   "route_type": "circular",
   "activities": [

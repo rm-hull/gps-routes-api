@@ -99,7 +99,7 @@
   "postcode": "TR26 1PR",
   "district": "St. Ives",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,13 +107,14 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "beaches",
-    "views"
+    "beach",
+    "viewpoint",
+    "village"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "car park",
+    "boat trips"
   ],
   "route_type": "circular",
   "activities": [

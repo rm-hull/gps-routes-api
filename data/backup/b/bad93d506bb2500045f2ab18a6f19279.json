@@ -81,21 +81,20 @@
   "postcode": "PL10 1HX",
   "district": "Torpoint",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1 day",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "coastal",
-    "river"
+    "riverside"
   ],
   "points_of_interest": [
     "villages",
     "coastal views"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

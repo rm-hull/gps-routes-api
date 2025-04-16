@@ -128,7 +128,7 @@
   "district": "Bradford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -136,14 +136,15 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "bird hide",
+    "herb garden",
+    "village"
   ],
   "facilities": [
     "visitor center",
     "play area",
-    "cafe"
+    "cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

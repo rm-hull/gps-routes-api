@@ -110,24 +110,23 @@
   "nominatim_found": true,
   "display_address": "Cranham, Stroud, Gloucestershire, England, GL4 8HP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "river"
+    "grassland",
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "countryside",
-    "panoramic views",
-    "ancient monument",
-    "village"
+    "country park",
+    "historical monument",
+    "village",
+    "city"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "out and back",

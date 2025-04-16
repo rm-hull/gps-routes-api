@@ -144,22 +144,21 @@
   "nominatim_found": true,
   "display_address": "Chancery Lane, Kerridge, Bollington, Cheshire East, England, SK10 5GJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "canal",
-    "woodland"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "monument"
+    "folly",
+    "standing stone",
+    "historic sites"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -85,7 +85,7 @@
   "nominatim_found": true,
   "display_address": "Harbour Street, Plockton, Highland, Alba / Scotland, IV52 8TG, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
@@ -93,13 +93,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical ruins",
-    "water views"
+    "rail stations",
+    "castle ruins"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

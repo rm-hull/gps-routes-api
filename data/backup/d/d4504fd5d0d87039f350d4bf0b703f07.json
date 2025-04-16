@@ -70,7 +70,7 @@
   "display_address": "Canal Bridge, Willington CP, South Derbyshire, Derbyshire, East Midlands, England, DE65 6EL, United Kingdom",
   "postcode": "DE65 6EL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -78,16 +78,16 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "bird watching"
+    "villages",
+    "waterbirds"
   ],
   "facilities": [
     "cafe",
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

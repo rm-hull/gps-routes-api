@@ -71,24 +71,22 @@
   "display_address": "Long Lane, Aughton Park, Aughton, Town Green, West Lancashire, Lancashire, England, L39 5FD, United Kingdom",
   "postcode": "L39 5FD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "canal"
+    "country lane",
+    "footpath"
   ],
   "points_of_interest": [
-    "countryside views",
-    "city views"
+    "viewpoint"
   ],
   "facilities": [
-    "railway station",
-    "canal towpath"
+    "car park",
+    "railway station"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

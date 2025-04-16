@@ -106,17 +106,17 @@
   "postcode": "S17 3BQ",
   "district": "North East Derbyshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "woodland"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "ancient site",
+    "monument",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

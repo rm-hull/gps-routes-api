@@ -85,22 +85,23 @@
   "nominatim_found": true,
   "display_address": "Bolton Road, Grove Park, London Borough of Hounslow, London, Greater London, England, W4 3TW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "urban"
+    "garden"
   ],
   "points_of_interest": [
     "historical sites",
     "nature reserve",
-    "gardens",
+    "villa",
     "houses"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

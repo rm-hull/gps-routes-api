@@ -120,20 +120,21 @@
   "nominatim_found": true,
   "display_address": "Clyde Street, Laurieston, Gorbals, Glasgow, Glasgow City, Alba / Scotland, G1 4EU, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
-    "urban",
-    "riverside"
+    "river",
+    "urban"
   ],
   "points_of_interest": [
     "murals",
-    "art"
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "footpath"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

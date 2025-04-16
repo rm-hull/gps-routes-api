@@ -89,26 +89,24 @@
   "postcode": "YO12 5TB",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "forest"
+    "mountain"
   ],
   "points_of_interest": [
-    "wildlife spotting",
     "nature reserve",
-    "boardwalk trail"
+    "trail"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "boardwalk"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "bird watching"
+    "mountain biking"
   ]
 }

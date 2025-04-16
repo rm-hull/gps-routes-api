@@ -58,20 +58,21 @@
   "display_address": "Rookery Court, Marden, Maidstone, Kent, England, TN12 9AZ, United Kingdom",
   "postcode": "TN12 9AZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "pasture"
+    "pasture",
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "church",
     "orchards",
-    "religious sites"
+    "oast houses"
   ],
   "facilities": [
-    "pub/cafe",
+    "pub",
+    "visitor center",
     "railway station"
   ],
   "route_type": "circular",

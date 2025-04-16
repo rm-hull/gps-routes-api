@@ -124,7 +124,7 @@
   "display_address": "Hag Farm Road, Scalebor Park, Burley, Burley-in-Wharfedale, Bradford, West Yorkshire, England, LS29 7AB, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -132,15 +132,16 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "viewpoints",
+    "historic buildings",
+    "viewpoint",
     "stone circle"
   ],
   "facilities": [
     "train station",
-    "waymarked trail"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
     "horse riding"

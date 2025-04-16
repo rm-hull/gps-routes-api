@@ -71,23 +71,23 @@
   "nominatim_found": true,
   "display_address": "Church Road, Murston, Sittingbourne, Swale, Kent, England, ME10 3TW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "marshland",
-    "coastal",
-    "rural"
+    "coastal"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "villages",
-    "views"
+    "nature reserve",
+    "village",
+    "market town"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

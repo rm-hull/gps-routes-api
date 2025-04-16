@@ -68,22 +68,23 @@
   "postcode": "OL15 0HE",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "canal",
-    "woodland",
-    "hill"
+    "hill",
+    "reservoir",
+    "canal"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "wildlife",
-    "views"
+    "lake",
+    "viewpoint",
+    "reservoir"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

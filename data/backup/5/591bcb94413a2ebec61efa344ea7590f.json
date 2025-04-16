@@ -69,21 +69,20 @@
   "postcode": "EX6 7PD",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "forest",
-    "rural"
+    "garden"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "gardens",
-    "historical sites"
+    "castle",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

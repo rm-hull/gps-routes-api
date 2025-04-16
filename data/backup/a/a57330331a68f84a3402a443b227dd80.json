@@ -77,7 +77,7 @@
   "display_address": "Golden Phoenix, 10, Station Road, Oaklands, Woodhall Spa, East Lindsey, Lincolnshire, England, LN10 6QL, United Kingdom",
   "postcode": "LN10 6QL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -86,14 +86,16 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "woodland trails",
+    "countryside views",
+    "riverbank"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "shared cycling and walking trail"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

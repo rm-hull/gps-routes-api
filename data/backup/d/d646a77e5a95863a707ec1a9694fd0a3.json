@@ -84,7 +84,7 @@
   "display_address": "Seaton, East Devon, Devon, England, EX12 2WD, United Kingdom",
   "postcode": "EX12 2WD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 - 2.5 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -92,13 +92,11 @@
     "beach"
   ],
   "points_of_interest": [
-    "views",
-    "beaches",
-    "countryside"
+    "viewpoint"
   ],
   "facilities": [
-    "cafes",
-    "bus"
+    "cafe",
+    "bus stop"
   ],
   "route_type": "out and back",
   "activities": [

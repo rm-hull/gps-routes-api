@@ -89,7 +89,7 @@
   "postcode": "IP29 5QE",
   "district": "Bury St Edmunds",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -97,10 +97,11 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "garden",
+    "rotunda"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "bike hire"
   ],

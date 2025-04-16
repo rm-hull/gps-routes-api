@@ -111,22 +111,20 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
     "mountain",
-    "woodland"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "island exploration"
+    "viewpoint",
+    "island"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

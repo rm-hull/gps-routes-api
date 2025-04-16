@@ -100,27 +100,29 @@
   "display_address": "Cumnor Road, Filchampstead, Cumnor, Farmoor, Vale of White Horse, Oxfordshire, England, OX2 9NT, United Kingdom",
   "postcode": "OX2 9NT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "meadows",
-    "river"
+    "wetland"
   ],
   "points_of_interest": [
     "nature reserves",
-    "watersports",
-    "long distance routes"
+    "countryside views",
+    "river"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "dog friendly",
+    "canal"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "watersports"
   ]
 }

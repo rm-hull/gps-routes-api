@@ -84,7 +84,7 @@
   "display_address": "Fyne Court, Church Road, Broomfield, Somerset, England, TA5 2EH, United Kingdom",
   "district": "Broomfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,15 +93,18 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "views",
-    "gardens"
+    "courtyard",
+    "library",
+    "music room",
+    "follies",
+    "woodland"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "boathouse",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

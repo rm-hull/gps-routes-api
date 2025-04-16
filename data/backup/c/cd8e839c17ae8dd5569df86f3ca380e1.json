@@ -100,20 +100,18 @@
   "nominatim_found": true,
   "display_address": "A5, Capel Curig, Conwy, Cymru / Wales, LL24 0EN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "photo opportunities"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

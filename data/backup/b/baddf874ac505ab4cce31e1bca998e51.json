@@ -114,24 +114,27 @@
   "nominatim_found": true,
   "display_address": "Craster Quarry Car Park, Whin Hill, Dunstan, Craster, Northumberland, North East, England, NE66 3TP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "woodland",
+    "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "historical site",
+    "nature reserve",
+    "beach"
   ],
   "facilities": [
-    "car park",
-    "bird hides"
+    "visitor center",
+    "dog friendly",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

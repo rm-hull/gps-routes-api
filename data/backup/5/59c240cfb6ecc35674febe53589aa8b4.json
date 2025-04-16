@@ -100,18 +100,18 @@
   "display_address": "South Parade, Budleigh Salterton, East Devon, Devon, England, EX9 6NR, United Kingdom",
   "postcode": "EX9 6NR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "coastal",
-    "woodland"
+    "pastureland",
+    "heathland",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "bird watching",
+    "historic mill",
     "beach",
     "sculpture"
   ],

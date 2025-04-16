@@ -110,7 +110,7 @@
   "display_address": "Llandegla, Denbighshire, Cymru / Wales, LL20 8DR, United Kingdom",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -120,13 +120,11 @@
   ],
   "points_of_interest": [
     "transmitter towers",
-    "historical sites",
-    "viewpoints"
+    "historical site"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -95,23 +95,22 @@
   "region": null,
   "state": "Cymru / Wales",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "valley"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "park"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

@@ -101,21 +101,22 @@
   "nominatim_found": true,
   "display_address": "Worthington Lane, Woolsthorpe By Belvoir, Woolsthorpe-by-Belvoir, South Kesteven, Lincolnshire, England, NG32 1NW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "3-5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "canal",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterways",
-    "estate"
+    "historic castle",
+    "estate",
+    "canal"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

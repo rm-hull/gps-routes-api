@@ -81,22 +81,21 @@
   "display_address": "College View, Compton, Tettenhall Wood, Wolverhampton, West Midlands, England, WV6 8PW, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "canal",
-    "meadows"
+    "meadows",
+    "scrubland",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "historic manor"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "canal"
   ],
   "route_type": "out and back",
   "activities": [

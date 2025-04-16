@@ -94,23 +94,23 @@
   "postcode": "B71 4AD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "lake"
+    "grassland",
+    "lake",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
-    "museum"
+    "farm",
+    "museum",
+    "nature center"
   ],
   "facilities": [
     "tea rooms",
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -110,7 +110,7 @@
   "nominatim_found": true,
   "display_address": "Priorwood Garden, Abbey Street, Dingleton, Melrose, Scottish Borders, Alba / Scotland, TD6 9PZ, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,13 +118,14 @@
     "pasture"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "natural features"
+    "viewpoint",
+    "historical site",
+    "holy place"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

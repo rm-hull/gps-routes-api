@@ -96,23 +96,22 @@
   "postcode": "LL20 7DH",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "mountain",
-    "woodland",
-    "canal"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "aqueduct",
+    "hill fort",
+    "castle ruins",
+    "canal"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

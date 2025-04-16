@@ -66,17 +66,15 @@
   "display_address": "Druridge Bay, National Cycle Network Route 1, East Chevington, Northumberland, North East, England, NE61 5BX, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "beach",
-    "dunes"
+    "coastal"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "nature reserve"
+    "nature reserve",
+    "wildlife watching"
   ],
   "facilities": [
     "car park",

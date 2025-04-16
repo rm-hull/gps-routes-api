@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "The Old Vicarage, 29, Castle Street, Thornbury, South Gloucestershire, West of England, England, BS35 1HG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,13 +112,15 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "bridges",
-    "villages"
+    "historic buildings",
+    "castle",
+    "church",
+    "bridge"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "church"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

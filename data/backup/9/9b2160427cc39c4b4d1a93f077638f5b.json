@@ -84,21 +84,21 @@
   "district": "Sheffield",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "reservoir"
+    "roadside",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "water features"
+    "historic house",
+    "reservoir"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

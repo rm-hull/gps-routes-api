@@ -115,8 +115,8 @@
   "nominatim_found": true,
   "display_address": "Lucy's, Beach Road, Mundesley Beck, Mundesley, North Norfolk, Norfolk, England, NR11 8BQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
   "difficulty": "easy",
   "terrain": [
     "coastal",
@@ -124,12 +124,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "viewpoints"
+    "canal"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

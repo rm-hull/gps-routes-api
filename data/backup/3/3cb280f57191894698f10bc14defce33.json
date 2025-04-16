@@ -130,7 +130,7 @@
   "postcode": "OX17 1EJ",
   "district": "Stratford-on-Avon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -140,13 +140,12 @@
   ],
   "points_of_interest": [
     "ancient sites",
-    "countryside views",
-    "megalithic monuments"
+    "megalithic monuments",
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

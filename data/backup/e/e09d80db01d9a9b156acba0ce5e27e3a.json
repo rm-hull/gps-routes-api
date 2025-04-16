@@ -79,17 +79,18 @@
   "nominatim_found": true,
   "display_address": "A4007, London Borough of Hillingdon, London, Greater London, England, UB8 2FD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal path"
+    "canal"
   ],
   "points_of_interest": [
     "lakes",
     "footpath"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

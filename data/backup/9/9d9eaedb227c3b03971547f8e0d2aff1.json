@@ -85,26 +85,27 @@
   "nominatim_found": true,
   "display_address": "North Street, Wareham Town, Wareham, Dorset, England, BH20 4AF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
+    "woodland",
     "coastal",
-    "mountain"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
     "nature reserve",
-    "wildflowers"
+    "castle",
+    "church",
+    "village"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

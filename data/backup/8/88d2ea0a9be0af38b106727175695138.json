@@ -134,18 +134,18 @@
   "display_address": "St Mary's Street, Overmonnow, Monmouth, Monmouthshire, Cymru / Wales, NP25 3DB, United Kingdom",
   "postcode": "NP25 3DB",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "forest",
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

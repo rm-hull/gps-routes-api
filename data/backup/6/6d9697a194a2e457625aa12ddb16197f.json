@@ -91,21 +91,23 @@
   "postcode": "NP16 7JW",
   "district": "Forest of Dean",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "path"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "woodland"
+    "viewpoint",
+    "historical site",
+    "wood"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

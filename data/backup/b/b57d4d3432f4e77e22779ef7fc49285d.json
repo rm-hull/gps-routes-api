@@ -109,7 +109,7 @@
   "postcode": "NE61 4PU",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -117,9 +117,9 @@
     "moorland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rocky outcrops",
-    "archaeological sites"
+    "viewpoint",
+    "rock formations",
+    "forest"
   ],
   "facilities": [
     "car park",

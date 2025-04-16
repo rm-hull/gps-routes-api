@@ -120,7 +120,7 @@
   "display_address": "Trafford Wharf, Wharfside, Stretford, Trafford, Greater Manchester, England, M50 3RA, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -131,14 +131,14 @@
   "points_of_interest": [
     "art galleries",
     "museums",
-    "landmark",
-    "views"
+    "landmark"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

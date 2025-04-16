@@ -109,7 +109,7 @@
   "nominatim_found": true,
   "display_address": "Abbey House Gardens, Mill Lane, Gloucester Road Industrial Estate, Malmesbury, Wiltshire, England, SN16 9JT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -117,12 +117,12 @@
     "town"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "abbey",
     "market cross",
-    "river"
+    "gardens"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

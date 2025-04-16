@@ -94,7 +94,7 @@
   "display_address": "Common Lane, Allerthorpe, Thornton, East Riding of Yorkshire, England, YO42 4RU, United Kingdom",
   "district": "Thornton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -106,10 +106,9 @@
   ],
   "facilities": [
     "car park",
-    "canal",
-    "long distance trail"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

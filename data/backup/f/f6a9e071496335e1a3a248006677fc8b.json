@@ -77,16 +77,15 @@
   "nominatim_found": true,
   "display_address": "White Hill, Ecchinswell, Sydmonton and Bishops Green, Ecchinswell, Basingstoke and Deane, Hampshire, England, RG20 4UF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "downland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "estate"
   ],
   "facilities": [
     "car park"

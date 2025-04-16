@@ -64,22 +64,23 @@
   "display_address": "Leverlake Lane, Tiverton, Chettiscombe, Mid Devon, Devon, England, EX16 7PT, United Kingdom",
   "district": "Mid Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "garden",
     "parkland",
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
+    "garden",
     "views",
-    "paths"
+    "path"
   ],
   "facilities": [
     "car park",
-    "towpath"
+    "pub/cafe",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

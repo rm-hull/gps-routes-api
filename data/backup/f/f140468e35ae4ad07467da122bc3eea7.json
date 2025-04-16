@@ -100,7 +100,7 @@
   "postcode": null,
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -108,8 +108,8 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "views",
-    "wildlife"
+    "viewpoint",
+    "estate"
   ],
   "facilities": [
     "car park"

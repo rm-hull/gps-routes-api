@@ -79,7 +79,7 @@
   "nominatim_found": true,
   "display_address": "Harrow Viewpoint, Old Redding, Sandringham Community, London Borough of Harrow, London, Greater London, England, HA3 6SQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -88,13 +88,15 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
+    "viewpoint",
+    "common",
     "nature reserve",
-    "park"
+    "stately home",
+    "deer park"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "path"
   ],
   "route_type": "circular",
   "activities": [

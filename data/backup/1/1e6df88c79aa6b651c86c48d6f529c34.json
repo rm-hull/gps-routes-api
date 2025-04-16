@@ -106,14 +106,15 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "lake shore",
+    "lake",
     "bog"
   ],
   "points_of_interest": [
+    "viewpoint",
     "flora",
     "fauna"
   ],

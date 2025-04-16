@@ -76,22 +76,23 @@
   "display_address": "Bakers Lane, Ashton under Hill, Wychavon, Worcestershire, England, WR11 7ZS, United Kingdom",
   "postcode": "WR11 7ZS",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "hill",
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
+    "viewpoint",
+    "historical site",
     "nature reserve"
   ],
   "facilities": [
-    "pub",
-    "village pond",
-    "church"
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

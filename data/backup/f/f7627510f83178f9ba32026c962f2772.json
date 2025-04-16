@@ -93,21 +93,21 @@
   "nominatim_found": true,
   "display_address": "Chessington School, Garrison Lane, Chessington, Royal Borough of Kingston upon Thames, London, Greater London, England, KT9 2JS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "parkland"
+    "countryside"
   ],
   "points_of_interest": [
+    "theme park",
     "nature reserve",
-    "country views"
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

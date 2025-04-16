@@ -104,7 +104,7 @@
   "postcode": "ST4 8SN",
   "district": "Stafford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,20 +112,21 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "historical site",
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
     "car park",
+    "pub/cafe",
     "visitor center",
-    "lake",
-    "garden"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
     "cycling",
-    "horse riding"
+    "bird watching"
   ]
 }

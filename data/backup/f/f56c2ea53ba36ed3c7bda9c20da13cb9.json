@@ -101,17 +101,15 @@
   "postcode": "RH8 0QG",
   "district": "Limpsfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "countryside"
+    "woodland"
   ],
   "points_of_interest": [
-    "wildflowers",
-    "wildlife",
-    "historical sites"
+    "orchard",
+    "trail"
   ],
   "facilities": [
     "picnic"

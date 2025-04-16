@@ -101,7 +101,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -110,11 +110,10 @@
   ],
   "points_of_interest": [
     "picnic area",
-    "country lanes"
+    "car park"
   ],
   "facilities": [
-    "car park",
-    "picnic area"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -100,22 +100,22 @@
   "display_address": "Beacon Lane, Haresfield, Whiteshill, Stroud, Gloucestershire, England, GL6 6PP, United Kingdom",
   "district": "Stroud",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "hill"
+    "grassland",
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildflower meadows"
+    "hill fort",
+    "barrow",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

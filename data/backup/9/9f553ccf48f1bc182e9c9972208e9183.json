@@ -55,7 +55,7 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -63,8 +63,7 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

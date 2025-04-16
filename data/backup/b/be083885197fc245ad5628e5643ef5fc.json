@@ -105,8 +105,8 @@
   "postcode": "YO10 4NL",
   "district": "York",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
@@ -115,7 +115,9 @@
   "points_of_interest": [
     "villages"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

@@ -70,7 +70,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -78,13 +78,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "lakes",
-    "waterfall"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "waymarked trails"
+    "visitor center",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

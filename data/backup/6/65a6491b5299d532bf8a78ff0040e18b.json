@@ -89,26 +89,26 @@
   "postcode": "PO30 4EA",
   "district": "Brighstone",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "coastal",
-    "downland"
+    "downland",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museums",
-    "villages",
-    "nature"
+    "village",
+    "museum",
+    "house",
+    "trail"
   ],
   "facilities": [
     "car park",
     "visitor center",
+    "pub/cafe",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

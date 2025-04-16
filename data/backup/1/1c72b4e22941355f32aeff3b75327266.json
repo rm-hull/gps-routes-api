@@ -89,7 +89,7 @@
   "postcode": "LL30 2XF",
   "district": "Llandudno",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -97,13 +97,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -66,7 +66,7 @@
   "nominatim_found": true,
   "display_address": "Castle Hill, Esplanade, Troy Town, Rochester, Medway, England, ME1 1SW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -75,13 +75,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "archaeological sites"
+    "castle",
+    "marshes",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
+    "dog friendly",
     "park"
   ],
   "route_type": "out and back",

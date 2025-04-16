@@ -81,24 +81,22 @@
   "postcode": "SA38 9JL",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "viewpoints"
+    "waterfall",
+    "river"
   ],
   "facilities": [
     "car park",
     "gift shop",
     "tea rooms"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

@@ -59,23 +59,22 @@
   "display_address": "Tower Esplanade, Skegness, East Lindsey, Lincolnshire, England, PE25 3HH, United Kingdom",
   "postcode": "PE25 3HH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "45 minutes",
   "difficulty": "easy",
   "terrain": [
     "coastal",
     "sand",
-    "woodland"
+    "dunes"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird hides",
-    "historical sites"
+    "viewpoint",
+    "bird hides"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

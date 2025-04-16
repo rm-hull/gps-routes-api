@@ -86,7 +86,7 @@
   "display_address": "Rhos-y-Cribed, St. David's and the Cathedral Close, St Davids, Pembrokeshire, Cymru / Wales, SA62 6RR, United Kingdom",
   "district": "St Davids",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,17 +94,20 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical site",
+    "viewpoint",
+    "harbour"
   ],
   "facilities": [
     "car park",
     "visitor center",
+    "pub/cafe",
+    "dog friendly",
     "boat trips"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

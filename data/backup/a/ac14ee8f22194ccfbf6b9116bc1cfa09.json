@@ -129,7 +129,7 @@
   "display_address": "Grannie Annie's, Marine Walk, Roker Marina, Sunderland, North East, England, SR6 0PL, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -138,14 +138,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "monument",
+    "park",
+    "museum"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

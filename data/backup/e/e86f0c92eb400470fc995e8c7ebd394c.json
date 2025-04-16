@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Falmouth Post Office, 13, Market Strand, Falmouth, Cornwall, England, TR11 3DB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -77,19 +77,20 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "waterfront"
+    "viewpoint"
   ],
   "facilities": [
-    "outdoor cafe",
+    "visitor center",
+    "cafe",
     "crazy golf",
     "water-sports",
-    "kayak hire",
-    "visitor center"
+    "kayak hire"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

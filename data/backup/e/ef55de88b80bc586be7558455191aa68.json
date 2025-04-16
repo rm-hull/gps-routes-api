@@ -118,18 +118,17 @@
   "postcode": "SN4 9NR",
   "district": "Winterbourne Bassett",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
     "hill",
-    "path"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "hill figure",
+    "castle",
+    "archaeological site"
   ],
   "facilities": [
     "car park",

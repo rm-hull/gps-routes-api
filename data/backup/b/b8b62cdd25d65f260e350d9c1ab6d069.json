@@ -125,22 +125,20 @@
   "postcode": "DG8 7BE",
   "district": "Palnure",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "mountain",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "visitor center",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "bike shop",
     "car park",
+    "bike shop",
     "dog friendly",
     "bird hides"
   ],

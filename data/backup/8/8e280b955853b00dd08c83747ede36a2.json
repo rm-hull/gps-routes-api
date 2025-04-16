@@ -81,24 +81,25 @@
   "nominatim_found": true,
   "display_address": "Western Esplanade, Canvey Island, Castle Point, Essex, England, SS8 0BW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "marshland",
-    "woodland"
+    "woodland",
+    "marshland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature discovery center"
+    "viewpoint",
+    "nature reserve",
+    "castle ruins"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

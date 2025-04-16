@@ -144,26 +144,22 @@
   "display_address": "Hyde Cricket & Squash Club, Werneth Low Road, Werneth Low, Hyde, Stockport, Greater Manchester, England, SK14 3AA, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling",
-    "horse riding"
+    "cycling"
   ]
 }

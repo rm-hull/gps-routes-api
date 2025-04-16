@@ -174,22 +174,20 @@
   "nominatim_found": true,
   "display_address": "Red Willow, 1, George Street, Fairfield, Buxton, High Peak, Derbyshire, East Midlands, England, SK17 6AT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "20 miles",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "valley"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "valleys",
+    "village"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

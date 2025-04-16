@@ -62,24 +62,25 @@
   "nominatim_found": true,
   "display_address": "High Street, Bellingham, Northumberland, North East, England, NE48 2AA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
     "waterfall",
-    "views"
+    "historical building",
+    "museum",
+    "forest"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "museum"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
     "cycling"

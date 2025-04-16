@@ -81,22 +81,22 @@
   "nominatim_found": true,
   "display_address": "B4247, Middleton, Rhossili, Swansea, Cymru / Wales, SA3 1PP, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "shipwrecks"
+    "shipwrecks",
+    "viewpoint",
+    "ridge"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "beach"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

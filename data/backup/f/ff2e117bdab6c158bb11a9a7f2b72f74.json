@@ -69,7 +69,7 @@
   "display_address": "Formal Gardens, B3247, Cremyll, Maker-with-Rame, Torpoint, Cornwall, England, PL10 1HX, United Kingdom",
   "postcode": "PL10 1HX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "park"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

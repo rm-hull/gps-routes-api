@@ -89,19 +89,20 @@
   "nominatim_found": true,
   "display_address": "The Hand Hotel, Ffordd Pen Bwlch Llandrillo, Glas aber, Ceiriog Ucha, Llanarmon Dyffryn Ceiriog, Wrexham, Cymru / Wales, LL20 7LJ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "mountain"
+    "hill",
+    "waterfall"
   ],
   "points_of_interest": [
-    "villages",
-    "waterfalls",
-    "river views"
+    "village"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "cycling",

@@ -126,26 +126,25 @@
   "display_address": "North Sea Cycle Route, Tynemouth, North Tyneside, North East, England, NE30 4DD, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "natural gorge",
-    "archaeological trail"
+    "castle",
+    "priory",
+    "national trail",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

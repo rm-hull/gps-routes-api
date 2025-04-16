@@ -58,7 +58,7 @@
   "nominatim_found": true,
   "display_address": "Walverden Reservoir Parking, Boston Street, Pendle Industrial Estate, Nelson, Pendle, Lancashire, England, BB9 0LY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -66,11 +66,12 @@
     "moor"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "reservoirs"
+    "viewpoint",
+    "valley"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

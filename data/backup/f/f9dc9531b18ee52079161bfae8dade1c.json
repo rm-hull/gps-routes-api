@@ -81,7 +81,7 @@
   "district": "Oldham",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,9 +89,9 @@
     "valley"
   ],
   "points_of_interest": [
-    "viewpoints",
     "rock formations",
-    "waterside trails"
+    "reservoir",
+    "hills"
   ],
   "facilities": [
     "car park"

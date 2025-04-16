@@ -85,26 +85,25 @@
   "display_address": "Woodhill Road, Danbury, Chelmsford, Essex, England, CM3 4AL, United Kingdom",
   "postcode": "CM3 4AL",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland",
-    "lakeside"
+    "lake"
   ],
   "points_of_interest": [
-    "wildflower meadow",
-    "orchids",
-    "bluebells",
-    "National Trust footpaths"
+    "gardens",
+    "meadow",
+    "woodland"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

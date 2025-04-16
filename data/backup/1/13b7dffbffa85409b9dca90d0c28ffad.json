@@ -110,22 +110,22 @@
   "display_address": "New Ground, Portland, Fortuneswell, Dorset, England, DT5 1LL, United Kingdom",
   "postcode": "DT5 1LL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "quarry"
   ],
   "points_of_interest": [
-    "wildflower areas",
-    "bird watching",
-    "historical sites",
-    "viewpoints"
+    "nature reserve",
+    "lighthouse",
+    "pier",
+    "beach"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

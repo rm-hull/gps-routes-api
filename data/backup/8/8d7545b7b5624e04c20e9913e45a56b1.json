@@ -63,7 +63,7 @@
   "nominatim_found": true,
   "display_address": "Bournemouth Road, Blandford St. Mary, Dorset, England, DT11 9LH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -72,13 +72,15 @@
   ],
   "points_of_interest": [
     "villages",
-    "trails",
+    "cottages",
+    "church",
     "forest"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

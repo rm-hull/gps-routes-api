@@ -104,23 +104,24 @@
   "nominatim_found": true,
   "display_address": "The Studio, Beach Road, Porthtowan, St. Agnes, Porthtowan, Cornwall, England, TR4 8AW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural",
-    "woodland"
+    "countryside",
+    "heathland"
   ],
   "points_of_interest": [
     "beach",
     "mine stacks",
     "valley",
-    "coastline"
+    "mine"
   ],
   "facilities": [
     "car park",
-    "path"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

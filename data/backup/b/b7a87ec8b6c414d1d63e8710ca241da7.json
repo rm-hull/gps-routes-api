@@ -80,15 +80,16 @@
   "postcode": "SY8 3PW",
   "district": "Bitterley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "quarry",
+    "radar station"
   ],
   "facilities": [
     "car park"

@@ -52,7 +52,7 @@
   "display_address": "Stanhill Road, West End, Stanhill, Hyndburn, Lancashire, England, BB5 4PP, United Kingdom",
   "postcode": "BB5 4PP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -60,8 +60,8 @@
     "woodland"
   ],
   "points_of_interest": [
-    "water features",
-    "canals"
+    "reservoirs",
+    "canal"
   ],
   "facilities": [
     "car park"

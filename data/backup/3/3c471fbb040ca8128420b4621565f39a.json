@@ -66,22 +66,22 @@
   "display_address": "Lyth Hill Road, Little Lyth, Bayston Hill, Shropshire, England, SY3 0AU, United Kingdom",
   "postcode": "SY3 0AU",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

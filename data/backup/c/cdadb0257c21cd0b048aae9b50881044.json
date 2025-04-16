@@ -71,7 +71,7 @@
   "postcode": "CA12 4TP",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -79,7 +79,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "waterfall",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

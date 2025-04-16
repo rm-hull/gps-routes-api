@@ -124,7 +124,7 @@
   "display_address": "Pont Fawr, Llanrwst, Conwy, Cymru / Wales, LL26 0PL, United Kingdom",
   "postcode": "LL26 0PL",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -133,14 +133,16 @@
     "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "stone circles",
-    "waterfalls",
-    "gardens"
+    "stone circle",
+    "castle",
+    "lake",
+    "waterfall",
+    "chapel"
   ],
   "facilities": [
     "car park",
-    "nature reserve"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

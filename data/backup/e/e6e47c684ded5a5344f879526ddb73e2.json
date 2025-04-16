@@ -105,7 +105,7 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -113,10 +113,11 @@
     "woodland"
   ],
   "points_of_interest": [
-    "views of countryside",
-    "boardwalk"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
+    "boardwalk",
     "car park"
   ],
   "route_type": "circular",

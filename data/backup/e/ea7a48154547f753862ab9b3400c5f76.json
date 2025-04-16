@@ -68,15 +68,14 @@
   "nominatim_found": true,
   "display_address": "Church Street, Wigton, Cumberland, England, CA7 9AU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
     "countryside views"
   ],
   "facilities": [

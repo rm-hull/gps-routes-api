@@ -125,7 +125,7 @@
   "display_address": "Buxton Road, Aylsham, Broadland, Norfolk, England, NR11 6JD, United Kingdom",
   "postcode": "NR11 6JD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -134,15 +134,14 @@
   ],
   "points_of_interest": [
     "rail sculptures",
-    "wildlife"
+    "nature reserve"
   ],
   "facilities": [
     "cafe",
     "cycle hire",
-    "nature reserve",
-    "walking trails"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

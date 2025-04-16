@@ -75,7 +75,7 @@
   "postcode": "AB32 7BL",
   "district": "Dunecht",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -83,14 +83,15 @@
     "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "castle",
+    "arboretum",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "waymarked trails"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

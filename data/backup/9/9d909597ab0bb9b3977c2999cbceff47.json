@@ -90,7 +90,7 @@
   "postcode": "SN10 2JF",
   "district": "Devizes",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "4 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -98,12 +98,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

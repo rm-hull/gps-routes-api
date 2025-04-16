@@ -77,24 +77,24 @@
   "display_address": "Church Lane, Sapperton, Cotswold, Gloucestershire, England, GL7 6LG, United Kingdom",
   "postcode": "GL7 6LG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "canal",
-    "country lanes"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "riverside",
-    "woodland"
+    "canal tunnel",
+    "river",
+    "wood"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -110,16 +110,16 @@
   "postcode": "LA12 8NW",
   "district": "Staveley-in-Cartmel",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "hamlet",
+    "church",
+    "valley"
   ],
   "facilities": [
     "car park",

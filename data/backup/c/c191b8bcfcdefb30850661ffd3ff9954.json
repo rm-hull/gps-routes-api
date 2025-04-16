@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Russell Road, Shepperton, Spelthorne, Surrey, England, TW17 9HJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -91,11 +91,13 @@
   ],
   "facilities": [
     "car park",
-    "ferry",
-    "visitor center"
+    "visitor center",
+    "pub/cafe",
+    "ferry"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "ferry riding"
   ]
 }

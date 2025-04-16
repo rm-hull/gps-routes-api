@@ -50,16 +50,14 @@
   "display_address": "Milford Common, Brocton Road, Milford, Berkswich, Milford, Stafford, Staffordshire, England, ST17 0UH, United Kingdom",
   "postcode": "ST17 0UH",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "natural"
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "picnic spots"
+    "wildlife"
   ],
   "facilities": [
     "car park",
@@ -67,7 +65,6 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "dog walking"
+    "walking"
   ]
 }

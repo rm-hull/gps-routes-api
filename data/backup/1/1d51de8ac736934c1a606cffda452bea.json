@@ -60,21 +60,21 @@
   "postcode": "SK23 7RF",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moorland",
-    "mountain"
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "geological features"
+    "viewpoint",
+    "geological feature"
   ],
   "facilities": [
     "car park",
-    "waterside trails"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

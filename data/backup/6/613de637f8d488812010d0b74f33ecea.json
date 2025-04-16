@@ -89,23 +89,25 @@
   "nominatim_found": true,
   "display_address": "Pontcysyllte Aqueduct, Llangollen Rural, Pontcysyllte, Wrexham, Cymru / Wales, LL20 7YQ, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing"
+    "historical site",
+    "wildlife"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

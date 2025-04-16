@@ -76,23 +76,22 @@
   "postcode": "LS17 9EY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "country lane"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "park"
+    "historic house",
+    "reservoir",
+    "woods"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

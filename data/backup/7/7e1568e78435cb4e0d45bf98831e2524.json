@@ -195,7 +195,7 @@
   "display_address": "Pennine Way, Marys Lane, Grindsbrook Booth, Edale, High Peak, Derbyshire, East Midlands, England, S33 7ZD, United Kingdom",
   "postcode": "S33 7ZD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
@@ -204,18 +204,17 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural landmarks",
-    "waterfalls",
-    "literary locations"
+    "national park",
+    "waterfall",
+    "moorland"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "waterfall viewing"
+    "waterside walking"
   ]
 }

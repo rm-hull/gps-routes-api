@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Avenue Mews, Flitwick, Central Bedfordshire, England, MK45 1BF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,11 +85,12 @@
     "moor"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserve",
+    "church",
+    "manor",
     "village"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "trail"
   ],

@@ -76,7 +76,7 @@
   "postcode": "SA62 6RS",
   "district": "St Davids",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,15 +84,15 @@
     "cliff"
   ],
   "points_of_interest": [
-    "bird watching",
-    "wildflowers"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "boat access"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

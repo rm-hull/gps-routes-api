@@ -104,27 +104,28 @@
   "display_address": "255, Abbeydale Road South, Abbeydale, Whirlow, Sheffield, South Yorkshire, England, S17 3LB, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river"
+    "stream"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "park"
+    "plantation",
+    "park",
+    "industrial hamlet",
+    "garden"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "visitor center"
+    "river"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling",
-    "bird watching"
+    "mountain biking"
   ]
 }

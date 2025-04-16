@@ -95,18 +95,17 @@
   "postcode": "CT21 4NB",
   "district": "Folkestone and Hythe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "canal path",
-    "woodland",
-    "rural"
+    "canal",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "fort",
     "castle",
-    "park"
+    "village"
   ],
   "facilities": [
     "car park",

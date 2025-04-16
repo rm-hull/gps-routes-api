@@ -125,21 +125,19 @@
   "display_address": "Animal war memorial, Brownwood Avenue, Woodbank Estate, Portwood, Stockport, Greater Manchester, England, SK1 4AY, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
     "reservoir"
   ],
   "points_of_interest": [
-    "views",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

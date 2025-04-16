@@ -164,23 +164,21 @@
   "display_address": "Marsden, Dirker Drive, Dirker, Marsden, Kirklees, West Yorkshire, England, HD7 6AP, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "woodland",
-    "water"
-  ],
-  "points_of_interest": [
-    "viewpoints",
-    "historical sites",
     "canal"
   ],
+  "points_of_interest": [
+    "viewpoint",
+    "tunnel"
+  ],
   "facilities": [
-    "car park",
     "visitor center",
     "cafe",
+    "car park",
     "trail"
   ],
   "route_type": "circular",

@@ -77,7 +77,7 @@
   "postcode": "OX10 6HJ",
   "district": "South Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -86,12 +86,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "historic sites"
+    "village"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

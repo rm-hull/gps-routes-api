@@ -66,23 +66,20 @@
   "display_address": "Park Road, Ashbourne CP, Compton, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1PF, United Kingdom",
   "postcode": "DE6 1PF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural",
+    "countryside",
     "waterfront"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "views",
-    "trails"
+    "mansion",
+    "trail"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "cycle trail"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

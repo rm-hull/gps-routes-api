@@ -114,20 +114,18 @@
   "nominatim_found": true,
   "display_address": "Low Gelt Bridge, Hayton, Brampton, Cumberland, England, CA8 1SZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "6 miles",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

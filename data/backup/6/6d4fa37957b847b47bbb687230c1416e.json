@@ -77,7 +77,7 @@
   "display_address": "Sun Lane, The Soke, New Alresford, Winchester, Hampshire, England, SO24 9NP, United Kingdom",
   "postcode": "SO24 9NP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -86,13 +86,15 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "river paths"
+    "church",
+    "cottages",
+    "battle site",
+    "parkland"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

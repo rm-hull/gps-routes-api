@@ -119,7 +119,7 @@
   "nominatim_found": true,
   "display_address": "Brassica Mercantile, Lynden Way, Beaminster, Dorset, England, DT8 3AW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -127,13 +127,12 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historic manor houses",
-    "countryside views",
-    "footpath"
+    "manor house",
+    "hill"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

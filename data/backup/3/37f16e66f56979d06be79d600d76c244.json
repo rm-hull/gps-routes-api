@@ -68,7 +68,7 @@
   "postcode": "CV5 6JD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -79,12 +79,12 @@
   "points_of_interest": [
     "historical locations",
     "parks",
-    "common land",
-    "nature reserve"
+    "common land"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "nature reserve",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

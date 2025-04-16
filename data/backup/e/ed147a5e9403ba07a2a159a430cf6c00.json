@@ -64,7 +64,7 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/vzG9KBfsamU",
   "gazetteer_found": false,
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -72,18 +72,18 @@
     "waterfall"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "lakes"
+    "hill fort",
+    "visitor center",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "walking trail",
-    "cycle trail"
+    "dog friendly",
+    "walking trail"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

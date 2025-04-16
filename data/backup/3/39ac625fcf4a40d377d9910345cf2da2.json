@@ -101,18 +101,19 @@
   "postcode": "BD24 9PT",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features",
-    "waterfalls"
+    "viewpoint",
+    "nature reserve",
+    "waterfall"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

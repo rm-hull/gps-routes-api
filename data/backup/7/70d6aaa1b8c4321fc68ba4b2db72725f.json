@@ -71,23 +71,23 @@
   "region": null,
   "state": null,
   "country": "Isle of Man",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
     "waterfall",
-    "beach"
+    "beach",
+    "cliffs"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

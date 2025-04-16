@@ -77,17 +77,16 @@
   "postcode": "SK6 7DA",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "canal",
-    "park"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "countryside",
+    "historic estate"
   ],
   "facilities": [
     "car park",

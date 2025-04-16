@@ -76,7 +76,7 @@
   "postcode": "LL36 9AQ",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -84,14 +84,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "lakeside views",
-    "mountain views"
+    "viewpoint"
   ],
   "facilities": [
     "hotel",
-    "refreshments"
+    "cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

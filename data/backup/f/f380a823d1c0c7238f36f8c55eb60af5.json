@@ -84,21 +84,20 @@
   "nominatim_found": true,
   "display_address": "Mapleton Road, Ashbourne CP, Compton, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1FD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "hill"
+    "trail",
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -80,22 +80,22 @@
   "postcode": null,
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "woodland"
+    "valley"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "viewpoint",
+    "historical site",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

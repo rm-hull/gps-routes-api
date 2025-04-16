@@ -72,20 +72,19 @@
   "nominatim_found": true,
   "display_address": "B6451, New York, Hartwith cum Winsley, Summerbridge, North Yorkshire, York and North Yorkshire, England, HG3 4HR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "viewpoint",
+    "geological features"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

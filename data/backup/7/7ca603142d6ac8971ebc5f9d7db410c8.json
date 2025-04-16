@@ -76,17 +76,20 @@
   "display_address": "4, Pleasant View, Withnell Farm, Withnell, Chorley, Lancashire, England, PR6 8SE, United Kingdom",
   "postcode": "PR6 8SE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
     "nature trail",
-    "wildlife viewing"
+    "historical site"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

@@ -109,21 +109,19 @@
   "display_address": "East Town Park, Coupals Road, Sturmer, Haverhill, Braintree, Essex, England, CB9 0NF, United Kingdom",
   "postcode": "CB9 0NF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "grass"
+    "footpath"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "nature reserve",
-    "river views"
+    "historical building",
+    "park"
   ],
   "facilities": [
     "picnic tables",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

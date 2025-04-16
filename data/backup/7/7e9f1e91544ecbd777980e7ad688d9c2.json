@@ -56,15 +56,15 @@
   "nominatim_found": true,
   "display_address": "EG Group, A6077, Blackamoor, Guide, Blackburn with Darwen, England, BB1 2FD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "grassland",
     "waterfront"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

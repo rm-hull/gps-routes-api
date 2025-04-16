@@ -72,8 +72,8 @@
   "display_address": "Watery Lane, London Colney, St Albans, Hertfordshire, England, AL2 1PZ, United Kingdom",
   "postcode": "AL2 1PZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "river",
@@ -82,11 +82,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "local nature reserve",
-    "gardens"
+    "garden"
   ],
   "facilities": [
-    "car park"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

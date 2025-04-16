@@ -120,22 +120,23 @@
   "nominatim_found": true,
   "display_address": "Aysgarth Falls, Aysgarth, North Yorkshire, York and North Yorkshire, England, DL8 3AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "mountain",
-    "river"
+    "moor"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "mining history"
+    "historical site",
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "circular",

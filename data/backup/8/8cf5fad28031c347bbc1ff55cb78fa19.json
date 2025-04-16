@@ -76,7 +76,7 @@
   "display_address": "Wylde Green Road, Walmley, Sutton Coldfield, Birmingham, West Midlands, England, B76 1QU, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,10 +85,11 @@
     "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "water mill",
+    "cottage"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],

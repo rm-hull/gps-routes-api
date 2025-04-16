@@ -105,7 +105,7 @@
   "display_address": "The Saltings, Uny Lelant, St. Ives, Cornwall, England, TR26 3DP, United Kingdom",
   "postcode": "TR26 3DP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -113,12 +113,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird watching"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly",
+    "bird watching"
   ],
   "route_type": "out and back",
   "activities": [

@@ -75,7 +75,7 @@
   "nominatim_found": true,
   "display_address": "B4347, Ewyas Harold, Herefordshire, England, HR2 0HU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -83,8 +83,9 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site",
+    "archaeological site",
+    "garden"
   ],
   "facilities": [
     "car park",

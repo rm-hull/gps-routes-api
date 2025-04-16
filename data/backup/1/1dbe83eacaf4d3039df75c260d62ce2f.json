@@ -69,17 +69,16 @@
   "nominatim_found": true,
   "display_address": "Red Star Chinese Takeaway, 1, Cape Cornwall Street, Carrallack, Bosavern, St Just, Cornwall, England, TR19 7JZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural"
+    "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "beaches"
+    "mines",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

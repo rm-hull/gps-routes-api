@@ -81,16 +81,16 @@
   "postcode": "PL19 0NP",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "llama_cpp": true,
+  "estimated_duration": "30-60 minutes",
+  "difficulty": "easy",
   "terrain": [
-    "grassland",
+    "grass",
     "stone"
   ],
   "points_of_interest": [
-    "historic sites",
-    "viewpoints"
+    "church",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

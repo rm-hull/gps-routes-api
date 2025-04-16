@@ -69,22 +69,20 @@
   "nominatim_found": true,
   "display_address": "Chiltern Hill, Chalfont Heights, Chalfont St. Peter, Denham, Gerrards Cross and Chalfonts Community Board, Buckinghamshire, England, SL9 9TL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture",
-    "waterfront"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "lakes",
-    "rivers"
+    "footpath",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "footpath"
+    "canal"
   ],
   "route_type": "circular",
   "activities": [

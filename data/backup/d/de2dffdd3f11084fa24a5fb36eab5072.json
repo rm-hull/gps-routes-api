@@ -73,25 +73,22 @@
   "display_address": "Cogges, Witney, West Oxfordshire, Oxfordshire, England, OX28 4YA, United Kingdom",
   "postcode": "OX28 4YA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "meadow",
-    "town"
+    "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
     "museum",
     "church",
     "recreation ground"
   ],
   "facilities": [
-    "car park",
-    "toilet facilities",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "toilet facilities"
   ],
   "route_type": "circular",
   "activities": [

@@ -80,12 +80,11 @@
   "display_address": "Naseby Road, Sulby, Welford, West Northamptonshire, England, NN6 6HZ, United Kingdom",
   "postcode": "NN6 6HZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "rural"
   ],
   "points_of_interest": [
     "battlefield",
@@ -93,7 +92,7 @@
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

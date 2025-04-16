@@ -144,24 +144,22 @@
   "region": "North East",
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural",
+    "river",
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "castles",
-    "villages",
-    "forests"
+    "historical site",
+    "castle",
+    "church"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

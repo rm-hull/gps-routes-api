@@ -81,20 +81,18 @@
   "display_address": "Holly Hill Woodland Park, Barnes Lane, Locks Heath, Sarisbury, Fareham, Hampshire, England, SO31 7BJ, United Kingdom",
   "postcode": "SO31 7BJ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "coastal"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

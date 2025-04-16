@@ -131,7 +131,7 @@
   "display_address": "A590, Witherslack, Meathop and Ulpha, Mill Side, Westmorland and Furness, England, LA11 6SJ, United Kingdom",
   "district": "Mill Side",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -139,14 +139,15 @@
     "limestone"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "nature reserve",
+    "hides",
+    "scenery"
   ],
   "facilities": [
     "car park",
     "toilets"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

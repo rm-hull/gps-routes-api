@@ -99,18 +99,18 @@
   "postcode": "WF17 9JA",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
-    "gardens"
+    "gardens",
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "museum",
-    "nature trail"
+    "heritage trail"
   ],
   "facilities": [
     "car park",

@@ -95,7 +95,7 @@
   "display_address": "Station Approach, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1AQ, United Kingdom",
   "postcode": "DA5 1AQ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -103,20 +103,20 @@
     "heathland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "archeological sites",
-    "nature reserves",
-    "parks"
+    "historical site",
+    "archeological site",
+    "nature reserve"
   ],
   "facilities": [
     "picnic tables",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

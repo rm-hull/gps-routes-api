@@ -116,17 +116,17 @@
   "display_address": "Appleby-in-Westmorland, Westmorland and Furness, England, CA16 6TT, United Kingdom",
   "postcode": "CA16 6TT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "countryside"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "castle",
+    "village",
     "waterfall"
   ],
   "facilities": [

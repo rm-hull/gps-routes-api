@@ -91,8 +91,8 @@
   "postcode": "BH23 6LP",
   "district": "Hurn",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -100,15 +100,14 @@
     "ponds"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife viewing"
+    "wildlife"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

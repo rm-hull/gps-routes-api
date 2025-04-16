@@ -61,21 +61,20 @@
   "nominatim_found": true,
   "display_address": "Cams Mill, Cams Hill, Downend, Fareham, Hampshire, England, PO16 8RB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "paved trail",
-    "waterfront"
+    "paved trail"
   ],
   "points_of_interest": [
-    "historic sites",
-    "views"
+    "historic house",
+    "castle"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

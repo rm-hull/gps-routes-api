@@ -99,21 +99,22 @@
   "display_address": "Blacksmith's Lane, Little Pell Farm, Wadhurst, Wealden, East Sussex, England, TN5 6DN, United Kingdom",
   "postcode": "TN5 6DN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
+    "historical site",
     "wildlife spotting",
-    "historical sites",
-    "nature trails"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

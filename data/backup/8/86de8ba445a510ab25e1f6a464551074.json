@@ -68,24 +68,23 @@
   "nominatim_found": true,
   "display_address": "Hughenden Boulevard, High Wycombe Community Board, High Wycombe, Buckinghamshire, England, HP13 5GG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "grass"
+    "grassland"
   ],
   "points_of_interest": [
-    "parkland",
-    "gardens",
+    "park",
     "woodland",
-    "wildlife"
+    "village"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "train station"
+    "car park",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

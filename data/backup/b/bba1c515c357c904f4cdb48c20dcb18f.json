@@ -99,7 +99,7 @@
   "postcode": "LS29 0AA",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,8 +108,9 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "museum",
+    "fort"
   ],
   "facilities": [
     "pub/cafe",

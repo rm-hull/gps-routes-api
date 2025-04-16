@@ -96,7 +96,7 @@
   "display_address": "Acres Down, Tarmac Farm Road, Manor Park, Minstead, New Forest, Hampshire, England, SO43 7GA, United Kingdom",
   "district": "New Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -106,13 +106,14 @@
   "points_of_interest": [
     "deer sanctuary",
     "viewpoint",
-    "memorial",
+    "war memorial",
     "wood"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "campsite"
+    "campsite",
+    "farm"
   ],
   "route_type": "circular",
   "activities": [

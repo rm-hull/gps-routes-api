@@ -116,7 +116,7 @@
   "postcode": "YO61 4AN",
   "district": "Oldstead",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -124,13 +124,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical monuments",
-    "viewpoints"
+    "hill figure",
+    "prehistoric monument",
+    "lake"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

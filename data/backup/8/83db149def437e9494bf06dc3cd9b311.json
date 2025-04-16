@@ -77,7 +77,7 @@
   "display_address": "Jerrams Lane, Stapenhill, Burton-on-Trent, East Staffordshire, Staffordshire, England, DE15 9AP, United Kingdom",
   "postcode": "DE15 9AP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -86,13 +86,14 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
     "sculpture trail",
-    "viewpoints"
+    "park",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "cycle path"
   ],
   "route_type": "circular",
   "activities": [

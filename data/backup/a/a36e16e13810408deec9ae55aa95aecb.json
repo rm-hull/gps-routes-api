@@ -71,23 +71,23 @@
   "display_address": "Sennen Beach Car Park, Cove Hill, Sennen Cove, Sennen, Cornwall, England, TR19 7AU, United Kingdom",
   "postcode": "TR19 7AU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 miles",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "cliff top"
+    "coastal"
   ],
   "points_of_interest": [
-    "bird watching",
-    "rock pools",
+    "viewpoint",
     "beach"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

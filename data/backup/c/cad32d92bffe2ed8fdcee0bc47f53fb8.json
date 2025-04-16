@@ -96,7 +96,7 @@
   "postcode": "EX39 6AN",
   "district": "Torridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -104,8 +104,8 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "hillfort",
+    "beach"
   ],
   "facilities": [
     "car park",

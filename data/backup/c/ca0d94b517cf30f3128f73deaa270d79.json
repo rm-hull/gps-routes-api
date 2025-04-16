@@ -59,17 +59,19 @@
   "postcode": "LD3 7AZ",
   "district": "Llanfrynach",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "views"
+    "aqueduct",
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

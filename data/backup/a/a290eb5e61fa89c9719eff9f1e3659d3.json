@@ -95,22 +95,20 @@
   "display_address": "Moses' Trod, Wasdale Head, Wasdale, Cumberland, England, CA20 1EX, United Kingdom",
   "postcode": "CA20 1EX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "grassland",
-    "scree"
+    "grassland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
+    "viewpoint",
     "rock climbing"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

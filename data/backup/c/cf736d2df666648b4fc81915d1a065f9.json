@@ -84,21 +84,21 @@
   "nominatim_found": true,
   "display_address": "Launton Road, Stratton Audley, Cherwell, Oxfordshire, England, OX27 9AX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
+    "countryside",
     "canal"
   ],
   "points_of_interest": [
-    "countryside views",
-    "historic areas"
+    "countryside"
   ],
   "facilities": [
-    "canal access"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

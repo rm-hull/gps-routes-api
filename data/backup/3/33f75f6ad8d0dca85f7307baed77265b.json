@@ -106,15 +106,15 @@
   "postcode": "G68 9DS",
   "district": "Cumbernauld",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "water",
-    "path"
+    "lake",
+    "woodland"
   ],
   "points_of_interest": [
-    "views",
+    "viewpoint",
     "nature trails"
   ],
   "facilities": [

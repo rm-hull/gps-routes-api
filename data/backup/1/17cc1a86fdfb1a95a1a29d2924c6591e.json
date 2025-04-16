@@ -69,23 +69,23 @@
   "nominatim_found": true,
   "display_address": "Cow lane, Cuckmere Valley, Litlington, Wealden, East Sussex, England, BN26 5RG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "hill",
     "heathland",
-    "pasture"
+    "chalk"
   ],
   "points_of_interest": [
-    "historical figure",
+    "hill figure",
     "nature reserve",
-    "white horse",
-    "village"
+    "white horse"
   ],
   "facilities": [
-    "pub"
+    "pub",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

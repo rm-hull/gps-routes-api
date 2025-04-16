@@ -80,21 +80,21 @@
   "display_address": "A40, Llawhaden, Pembrokeshire, Cymru / Wales, SA67 8EB, United Kingdom",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "rural"
+    "rural",
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "castles",
-    "archaeological sites"
+    "historical site",
+    "castle",
+    "archaeological site"
   ],
   "facilities": [
     "car park",
-    "water access"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

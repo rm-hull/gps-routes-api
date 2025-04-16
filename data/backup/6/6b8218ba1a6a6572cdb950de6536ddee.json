@@ -76,7 +76,7 @@
   "postcode": "EH23 4SR",
   "district": "Temple",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -85,14 +85,14 @@
   ],
   "points_of_interest": [
     "waterfalls",
-    "historical buildings",
-    "countryside views"
+    "historic buildings"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "fishing"
   ]
 }

@@ -110,27 +110,27 @@
   "nominatim_found": true,
   "display_address": "Ferry Road, Walberswick, East Suffolk, Suffolk, England, IP18 6TX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "coastal",
     "heathland",
+    "woodland",
     "shingle",
-    "mudflats"
+    "coast"
   ],
   "points_of_interest": [
     "wildlife watching",
-    "nature trails"
+    "country lane"
   ],
   "facilities": [
     "car park",
-    "beach",
-    "country lane"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

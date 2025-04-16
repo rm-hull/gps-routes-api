@@ -99,24 +99,23 @@
   "display_address": "B5010, Elvaston CP, Elvaston, South Derbyshire, Derbyshire, East Midlands, England, DE72 3EN, United Kingdom",
   "postcode": "DE72 3EN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grass",
+    "garden",
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
     "gardens",
-    "nature reserve",
-    "lake"
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "boathouse"
   ],
   "route_type": "out and back",
   "activities": [

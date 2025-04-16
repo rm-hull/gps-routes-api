@@ -43,18 +43,17 @@
   "nominatim_found": true,
   "display_address": "Factory Lane, Whittle-le-Woods, Chorley, Lancashire, England, PR6 7YS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
-    "grassland"
+    "waterfront"
   ],
   "points_of_interest": [
     "park",
     "countryside views",
-    "historical sites"
+    "historical site"
   ],
   "facilities": [
     "car park",

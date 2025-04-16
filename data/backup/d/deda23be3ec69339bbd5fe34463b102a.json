@@ -85,8 +85,8 @@
   "nominatim_found": true,
   "display_address": "Longwell Green, Oldland, Oldland Common, South Gloucestershire, West of England, England, BS30 6EX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -94,14 +94,14 @@
     "ponds"
   ],
   "points_of_interest": [
-    "historical sites",
+    "museum",
     "nature reserve",
-    "museum"
+    "tramway"
   ],
   "facilities": [
-    "car park",
-    "gift shop",
     "cafe",
+    "gift shop",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

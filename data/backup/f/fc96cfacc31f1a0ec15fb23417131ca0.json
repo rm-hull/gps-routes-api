@@ -71,22 +71,20 @@
   "postcode": "S33 0AQ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "reservoir",
-    "moor"
+    "reservoir"
   ],
   "points_of_interest": [
-    "historical sites",
-    "water views",
-    "river views"
+    "bridge",
+    "river"
   ],
   "facilities": [
     "car park",
-    "wild swimming"
+    "swimming"
   ],
   "route_type": "circular",
   "activities": [

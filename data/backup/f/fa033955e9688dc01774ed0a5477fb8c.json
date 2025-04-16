@@ -50,20 +50,18 @@
   "display_address": "Blease Road, Wescoe, Threlkeld, Westmorland and Furness, England, CA12 4SF, United Kingdom",
   "district": "Threlkeld",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "ridge",
-    "woodland"
+    "ridge"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

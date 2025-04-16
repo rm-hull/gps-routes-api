@@ -100,16 +100,16 @@
   "display_address": "Greensleeves Avenue, Broadstone, Poole, Bournemouth, Christchurch and Poole, England, BH18 8BJ, United Kingdom",
   "postcode": "BH18 8BJ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "stream"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "historic site",
+    "nature trail"
   ],
   "facilities": [
     "car park",
@@ -118,6 +118,7 @@
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

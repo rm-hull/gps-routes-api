@@ -114,16 +114,15 @@
   "postcode": "EX6 8HG",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "path"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "obelisk",
+    "historic house"
   ],
   "facilities": [
     "car park",

@@ -85,12 +85,11 @@
   "nominatim_found": true,
   "display_address": "Abellio Greater Anglia Information, Station Approach, Thorpe Hamlet, Norwich, Norfolk, England, NR1 1EG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historical"
+    "rural"
   ],
   "points_of_interest": [
     "historical sites",
@@ -99,7 +98,7 @@
   ],
   "facilities": [
     "car park",
-    "railway stations"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

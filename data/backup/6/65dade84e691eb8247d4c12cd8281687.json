@@ -96,24 +96,25 @@
   "nominatim_found": true,
   "display_address": "Love Lane, Easby, Catterick Garrison, North Yorkshire, York and North Yorkshire, England, DL10 7EU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "grassland",
-    "river",
+    "meadow",
     "countryside"
   ],
   "points_of_interest": [
-    "historical ruins",
-    "religious sites",
-    "stone"
+    "ruins",
+    "stone",
+    "church"
   ],
   "facilities": [
     "car park",
-    "church"
+    "pub/cafe",
+    "dog friendly",
+    "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

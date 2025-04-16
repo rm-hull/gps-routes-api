@@ -66,21 +66,18 @@
   "postcode": "GL12 7PZ",
   "district": "Wotton-under-Edge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
     "scarpment"
   ],
   "points_of_interest": [
-    "views",
-    "historical buildings",
-    "wildlife"
+    "views"
   ],
   "facilities": [
-    "footpaths",
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

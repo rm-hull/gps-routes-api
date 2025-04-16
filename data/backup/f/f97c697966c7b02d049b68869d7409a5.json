@@ -28,16 +28,16 @@
   "display_address": "Sheffield Botanical Gardens, Botanical Road, Sharrow Vale, Endcliffe, Sheffield, South Yorkshire, England, S11 8RQ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "garden"
+    "lawn"
   ],
   "points_of_interest": [
-    "information boards",
-    "herbaceous borders"
+    "herbaceous borders",
+    "information boards"
   ],
   "facilities": [
     "cafe",

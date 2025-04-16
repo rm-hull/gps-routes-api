@@ -150,23 +150,24 @@
   "nominatim_found": true,
   "display_address": "The Mermaid of St Dogmaels, B4546, St. Dogmaels, St Dogmaels, Pembrokeshire, Cymru / Wales, SA43 3GF, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "islands"
+    "islands",
+    "towns",
+    "villages"
   ],
   "facilities": [
     "visitor center",
-    "boat"
+    "car park"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking",
-    "bird watching"
+    "wildlife watching"
   ]
 }

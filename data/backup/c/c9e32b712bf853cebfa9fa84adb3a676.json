@@ -69,20 +69,20 @@
   "nominatim_found": true,
   "display_address": "The Keeper's Arms, Church Road, Quenington, Cotswold, Gloucestershire, England, GL7 5BL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "countryside"
+    "rural",
+    "river"
   ],
   "points_of_interest": [
     "historic buildings",
-    "village",
-    "countryside trails"
+    "village"
   ],
   "facilities": [
-    "footpath"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

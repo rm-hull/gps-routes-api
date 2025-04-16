@@ -53,7 +53,7 @@
   "nominatim_found": true,
   "display_address": "Hartington Farm Shop & Cafe, Mill Lane, Hartington Town Quarter CP, Hartington, Derbyshire Dales, Derbyshire, East Midlands, England, SK17 0AN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -61,14 +61,15 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
-    "archaeological sites"
+    "historical site",
+    "monument",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "pub/cafe",
     "visitor center",
-    "pub/cafe"
+    "trail"
   ],
   "route_type": "circular",
   "activities": [

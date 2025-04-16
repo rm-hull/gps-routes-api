@@ -105,19 +105,18 @@
   "nominatim_found": true,
   "display_address": "Minions, Linkinhorne, Cornwall, England, PL14 5LR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moorland",
-    "river"
+    "water"
   ],
   "points_of_interest": [
     "historic mines",
     "stone structures",
-    "waterfalls",
-    "reservoirs"
+    "reservoir"
   ],
   "facilities": [
     "car park",

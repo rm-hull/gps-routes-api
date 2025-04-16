@@ -95,7 +95,7 @@
   "display_address": "Castlegate, Burngreave, Sheffield, South Yorkshire, England, S3 8LE, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -103,11 +103,12 @@
     "urban"
   ],
   "points_of_interest": [
-    "industrial sites",
+    "industrial buildings",
     "nature reserve"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "canal"
   ],
   "route_type": "circular",

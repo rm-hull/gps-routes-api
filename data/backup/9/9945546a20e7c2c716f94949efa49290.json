@@ -66,7 +66,7 @@
   "postcode": "DD8 2TG",
   "district": "Forfar",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -74,10 +74,11 @@
     "land"
   ],
   "points_of_interest": [
-    "historical sites",
-    "bird watching"
+    "church",
+    "bird watching area"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

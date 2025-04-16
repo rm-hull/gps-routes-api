@@ -129,17 +129,17 @@
   "postcode": "WD3 6BL",
   "district": "Three Rivers",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "river"
+    "river",
+    "countryside"
   ],
   "points_of_interest": [
+    "village green",
     "historic house",
-    "village",
-    "river"
+    "garden"
   ],
   "facilities": [
     "visitor center",

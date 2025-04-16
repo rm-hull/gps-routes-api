@@ -69,22 +69,20 @@
   "display_address": "Dingle Cycle Route, Llangefni, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL77 7PF, United Kingdom",
   "postcode": "LL77 7PF",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "nature reserve"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
-    "waterfront",
-    "woodland gorge"
+    "nature trail"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

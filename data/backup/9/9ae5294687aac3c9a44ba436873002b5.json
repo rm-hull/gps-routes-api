@@ -119,7 +119,7 @@
   "district": "Harewood",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -128,19 +128,20 @@
     "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens",
+    "historical site",
+    "garden",
     "monument",
-    "bird watching"
+    "bird garden"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "visitor center",
+    "dog friendly",
+    "play area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

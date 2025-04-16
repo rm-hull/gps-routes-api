@@ -86,7 +86,7 @@
   "display_address": "Home Farm Attingham Open Farm, Pelham Road, Berwick Wharf, Atcham, Shropshire, England, SY4 4TU, United Kingdom",
   "district": "Atcham",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -95,13 +95,13 @@
     "river"
   ],
   "points_of_interest": [
-    "gardens",
-    "historical buildings",
+    "garden",
+    "mansion",
     "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

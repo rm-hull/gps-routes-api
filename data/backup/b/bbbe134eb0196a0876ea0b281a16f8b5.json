@@ -119,21 +119,20 @@
   "nominatim_found": true,
   "display_address": "Sennings Lane, Romaldkirk, County Durham, North East, England, DL12 9EE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural features"
+    "church",
+    "historic bridge"
   ],
   "facilities": [
-    "car park",
-    "pub/cafe"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

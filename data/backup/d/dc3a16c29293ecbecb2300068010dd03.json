@@ -164,19 +164,18 @@
   "display_address": "Park Head Road, Matlock Town, Matlock, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3AP, United Kingdom",
   "postcode": "DE4 3AP",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river",
-    "limestone"
+    "limestone",
+    "river"
   ],
   "points_of_interest": [
-    "views",
-    "heritage way"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

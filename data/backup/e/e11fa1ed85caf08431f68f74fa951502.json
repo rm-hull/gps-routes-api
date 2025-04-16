@@ -71,7 +71,7 @@
   "display_address": "Tyne Green Road, Hexham, Northumberland, North East, England, NE46 1XT, United Kingdom",
   "postcode": "NE46 1XT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -79,20 +79,19 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "cafe",
-    "play area",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

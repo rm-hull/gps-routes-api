@@ -64,20 +64,21 @@
   "display_address": "Milne Street, Irwell Vale, Ewood Bridge, Rossendale, Lancashire, England, BL0 0QP, United Kingdom",
   "postcode": "BL0 0QP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "woodland",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "local highlights"
+    "reservoir",
+    "church",
+    "railway",
+    "quarry"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],

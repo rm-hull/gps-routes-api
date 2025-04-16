@@ -69,18 +69,18 @@
   "nominatim_found": true,
   "display_address": "Harragrove, Peter Tavy, West Devon, Devon, England, PL19 9NW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls"
+    "church",
+    "village",
+    "bridge",
+    "tor"
   ],
   "facilities": [
     "pub/cafe",

@@ -130,23 +130,23 @@
   "postcode": "LL55 4YG",
   "district": "Nantmor",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "mountain"
+    "rocky"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "memorial"
+    "memorial",
+    "church",
+    "bridge"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "bridge"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

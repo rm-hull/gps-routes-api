@@ -71,7 +71,7 @@
   "postcode": "IV36 1AJ",
   "district": "Forres",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,8 +80,10 @@
   "points_of_interest": [
     "wildlife"
   ],
-  "facilities": [],
-  "route_type": "linear",
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

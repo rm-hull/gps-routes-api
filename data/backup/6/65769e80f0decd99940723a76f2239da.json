@@ -96,22 +96,22 @@
   "postcode": "KY8 6HF",
   "district": "Lower Largo",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildfowl"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "beach"
+    "beach",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

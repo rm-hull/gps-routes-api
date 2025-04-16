@@ -104,23 +104,24 @@
   "nominatim_found": true,
   "display_address": "Ramsgate Harbour, Marina Esplanade, East Cliff, Ramsgate, Broadstairs, Thanet, Kent, England, CT11 8FP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "cliff top"
+    "cliff"
   ],
   "points_of_interest": [
-    "towns",
-    "beaches",
-    "views",
-    "historical sites"
+    "town",
+    "beach",
+    "viewpoint",
+    "castle"
   ],
   "facilities": [
     "cafe",
     "ice cream parlours",
     "visitor center",
+    "dog friendly",
     "bird watching"
   ],
   "route_type": "circular",

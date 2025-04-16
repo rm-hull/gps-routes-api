@@ -90,7 +90,7 @@
   "display_address": "St. Bene't, Bene't Street, Newnham, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB2 3PT, United Kingdom",
   "postcode": "CB2 3PT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -99,18 +99,16 @@
     "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
-    "countryside views"
+    "nature reserve",
+    "village"
   ],
   "facilities": [
     "visitor center",
     "tea room",
     "bus stop"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "sightseeing"
+    "walking"
   ]
 }

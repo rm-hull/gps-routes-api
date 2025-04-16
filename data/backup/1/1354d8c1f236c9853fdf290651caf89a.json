@@ -71,17 +71,19 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "river"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "waterfowl"
+    "buildings",
+    "tower",
+    "church"
   ],
   "facilities": [
+    "car park",
     "waymarked posts"
   ],
   "route_type": "loop",

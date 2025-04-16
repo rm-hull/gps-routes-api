@@ -63,16 +63,15 @@
   "postcode": "DT11 0ER",
   "district": "Woolland",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

@@ -106,7 +106,7 @@
   "nominatim_found": true,
   "display_address": "Corriegills Road, North Corriegills, North Ayrshire, Alba / Scotland, KA27 8BL, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,13 +114,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "gardens"
+    "viewpoint",
+    "garden",
+    "castle"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

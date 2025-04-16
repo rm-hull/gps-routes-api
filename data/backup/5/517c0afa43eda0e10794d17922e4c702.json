@@ -111,15 +111,15 @@
   "postcode": "PH7 4JY",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
-    "waterfront",
-    "hill"
+    "lake",
+    "mountain"
   ],
   "points_of_interest": [
-    "summit"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

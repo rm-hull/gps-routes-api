@@ -43,7 +43,7 @@
   "display_address": "George's Lane, Calverton CP, Arnold, Gedling, Nottinghamshire, East Midlands, England, NG14 6QG, United Kingdom",
   "postcode": "NG14 6QG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -51,13 +51,13 @@
     "lake"
   ],
   "points_of_interest": [
-    "natural scenery",
-    "local villages"
+    "country park",
+    "lakes"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

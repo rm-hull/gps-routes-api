@@ -85,20 +85,19 @@
   "display_address": "A4, Silbury Cottages, Avebury, Wiltshire, England, SN8 1QH, United Kingdom",
   "district": "Avebury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "information boards"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

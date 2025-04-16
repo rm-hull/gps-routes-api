@@ -81,13 +81,13 @@
   "nominatim_found": true,
   "display_address": "Combe Valley Way, Sidley, Bexhill-on-Sea, Rother, East Sussex, England, TN39 5JF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "beach",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
     "countryside views",

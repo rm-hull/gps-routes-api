@@ -99,22 +99,22 @@
   "district": "Wakefield",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
-    "garden"
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "lake views"
+    "garden",
+    "lake",
+    "lodge"
   ],
   "facilities": [
     "car park",
-    "boathouse"
+    "boathouse",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

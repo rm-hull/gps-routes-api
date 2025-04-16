@@ -81,7 +81,7 @@
   "display_address": "Redmires Road, Lodge Moor, Sheffield, South Yorkshire, England, S10 4NH, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,8 +89,8 @@
     "moor"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "local highlights",
+    "views"
   ],
   "facilities": [
     "car park"

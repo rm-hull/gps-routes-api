@@ -86,8 +86,8 @@
   "postcode": "NE22 5RX",
   "district": "Bedlington",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -95,15 +95,14 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "woodland birds",
-    "flora"
+    "woodland"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "cafe"
+    "cafe",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

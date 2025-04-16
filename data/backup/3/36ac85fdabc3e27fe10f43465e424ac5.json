@@ -59,7 +59,7 @@
   "nominatim_found": true,
   "display_address": "Hyndburn Greenway, Milnshaw, Accrington, Hyndburn, Lancashire, England, BB5 0RW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -67,8 +67,8 @@
     "rural"
   ],
   "points_of_interest": [
-    "nature trail",
-    "reservoir"
+    "reservoir",
+    "town centre"
   ],
   "facilities": [
     "car park",

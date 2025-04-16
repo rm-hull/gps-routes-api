@@ -90,18 +90,19 @@
   "postcode": "GL54 2AN",
   "district": "Cotswold",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "countryside",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
     "villages",
-    "riverbanks"
+    "church",
+    "village greens",
+    "watermill"
   ],
   "facilities": [
     "pub/cafe",

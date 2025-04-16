@@ -105,24 +105,22 @@
   "postcode": "LL27 0YZ",
   "district": "Llanrhychwyn",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "lake",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterside trails",
-    "forest trails"
+    "viewpoint",
+    "village"
   ],
   "facilities": [
     "car park",
     "picnic area",
     "toilets",
-    "lakeside cafe",
+    "cafe",
     "rowing boats"
   ],
   "route_type": "circular",

@@ -79,13 +79,13 @@
   "display_address": "Blakes Wood Car Park, Riffhams Chase, Little Baddow, Chelmsford, Essex, England, CM3 4AU, United Kingdom",
   "district": "Chelmsford",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "heath",
-    "common"
+    "woodland"
   ],
   "points_of_interest": [
     "wild flowers",
@@ -93,9 +93,10 @@
     "bogs"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

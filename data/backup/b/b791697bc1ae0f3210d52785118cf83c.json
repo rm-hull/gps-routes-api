@@ -58,25 +58,26 @@
   "nominatim_found": true,
   "display_address": "Harcourt Street, Huttocks Top, Bacup, Rossendale, Lancashire, England, OL13 9FL, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour 30 minutes",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river",
-    "path"
+    "valley",
+    "footpath",
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "views"
+    "historical buildings",
+    "sculpture trail",
+    "park"
   ],
   "facilities": [
-    "car park",
+    "bus stop",
     "play area",
     "outdoor gym",
+    "bowling greens",
     "tennis courts",
-    "cycling track"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

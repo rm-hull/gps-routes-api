@@ -68,18 +68,19 @@
   "nominatim_found": true,
   "display_address": "Spurgrove Lane, Frieth, Hambleden, Buckinghamshire, England, RG9 6NY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

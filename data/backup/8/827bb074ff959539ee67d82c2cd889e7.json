@@ -120,7 +120,7 @@
   "postcode": "OX9 2LP",
   "district": "South Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 day",
   "difficulty": "moderate",
   "terrain": [
@@ -128,9 +128,9 @@
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural habitats",
-    "towns"
+    "historical site",
+    "town",
+    "church"
   ],
   "facilities": [
     "car park"

@@ -99,15 +99,14 @@
   "postcode": "CV47 2UY",
   "district": "Stratford-on-Avon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "church"
   ],
   "facilities": [

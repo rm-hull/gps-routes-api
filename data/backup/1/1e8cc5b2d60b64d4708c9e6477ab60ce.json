@@ -73,20 +73,20 @@
   "nominatim_found": true,
   "display_address": "Cecily Hill, Cirencester, Chesterton, Cotswold, Gloucestershire, England, GL7 2BB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "parkland"
+    "grassland"
   ],
   "points_of_interest": [
-    "views",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

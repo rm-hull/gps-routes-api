@@ -96,12 +96,12 @@
   "nominatim_found": true,
   "display_address": "Embankment, Putney, London Borough of Wandsworth, London, Greater London, England, SW15 1LB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "grassland"
+    "grassland",
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -109,7 +109,8 @@
   ],
   "facilities": [
     "visitor center",
-    "public transport"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Grassington Post Office, 15, Main Street, Skipton, North Yorkshire, York and North Yorkshire, England, BD23 5AD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "6 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -113,12 +113,12 @@
   ],
   "points_of_interest": [
     "views",
-    "historical buildings",
-    "peaks"
+    "house",
+    "barn"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

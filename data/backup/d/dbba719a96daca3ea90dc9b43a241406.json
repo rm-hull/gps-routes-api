@@ -88,20 +88,18 @@
   "postcode": "NN11 6XU",
   "district": "Byfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "waterfront"
+    "woodland"
   ],
   "points_of_interest": [
-    "countryside views",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "fisheries"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -104,17 +104,17 @@
   "nominatim_found": true,
   "display_address": "Swan Hotel, Chamberlain Walk, Coleshill CP, North Warwickshire, Warwickshire, England, B46 3BZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
+    "countryside",
     "woodland"
   ],
   "points_of_interest": [
-    "nature reserves",
+    "nature reserve",
     "historic buildings",
-    "countryside"
+    "lake"
   ],
   "facilities": [
     "car park",

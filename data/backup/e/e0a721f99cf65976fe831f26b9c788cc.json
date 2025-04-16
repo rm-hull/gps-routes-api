@@ -91,7 +91,7 @@
   "display_address": "Swillington, West Yorkshire, England, LS26 8ZG, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -100,15 +100,15 @@
   ],
   "points_of_interest": [
     "museum",
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "armoury"
   ],
   "facilities": [
     "cafe",
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -110,18 +110,16 @@
   "postcode": "NE66 4LT",
   "district": "Ingram",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "river",
-    "hill"
+    "river"
   ],
   "points_of_interest": [
     "waterfall",
-    "hills",
-    "river"
+    "hills"
   ],
   "facilities": [
     "car park"

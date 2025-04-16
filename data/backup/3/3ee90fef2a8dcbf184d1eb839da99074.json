@@ -86,12 +86,12 @@
   "nominatim_found": true,
   "display_address": "Gates Road, Lochwinnoch, Renfrewshire, Alba / Scotland, PA12 4EA, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront"
+    "lake"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -99,8 +99,7 @@
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "bird hides"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

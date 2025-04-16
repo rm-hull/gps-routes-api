@@ -111,18 +111,19 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "water meadows"
+    "water meadow"
   ],
   "points_of_interest": [
-    "parks and gardens",
+    "park",
+    "garden",
     "watermill",
-    "lakes",
-    "nature reserve"
+    "nature reserve",
+    "lakes"
   ],
   "facilities": [
     "footpaths"

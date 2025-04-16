@@ -59,21 +59,22 @@
   "display_address": "Mill Lane, Romanby, North Yorkshire, York and North Yorkshire, England, DL7 8UN, United Kingdom",
   "postcode": "DL7 8UN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "trails",
-    "national trail"
+    "historic ruins",
+    "national trail",
+    "reservoir",
+    "church"
   ],
   "facilities": [
-    "church",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -101,7 +101,7 @@
   "nominatim_found": true,
   "display_address": "Ae, Dumfries and Galloway, Alba / Scotland, DG1 1QB, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,8 +109,8 @@
     "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "valley",
+    "forest"
   ],
   "facilities": [
     "car park",

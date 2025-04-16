@@ -104,22 +104,21 @@
   "postcode": "LE67 2TD",
   "district": "North West Leicestershire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "forest trails",
-    "waterways"
+    "lake",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "bridletrack"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

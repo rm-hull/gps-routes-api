@@ -114,7 +114,7 @@
   "display_address": "Wesley Street, Penygloddfa, Newtown and Llanllwchaiarn, Newtown, Powys, Cymru / Wales, SY16 2NQ, United Kingdom",
   "postcode": "SY16 2NQ",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,16 +123,17 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "museum",
     "nature reserve",
     "castle"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

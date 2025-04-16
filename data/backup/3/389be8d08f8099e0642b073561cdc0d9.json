@@ -76,7 +76,7 @@
   "display_address": "Bishopstoke Road, Newtown, Eastleigh, Bishopstoke, Eastleigh, Hampshire, England, SO50 6RR, United Kingdom",
   "postcode": "SO50 6RR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -84,16 +84,16 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature reserve",
-    "city center"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife spotting"
   ]
 }

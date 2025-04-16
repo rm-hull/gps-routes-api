@@ -124,23 +124,23 @@
   "display_address": "Abbey Passage, The Close, Winchester, Hampshire, England, SO23 9LL, United Kingdom",
   "postcode": "SO23 9LL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "grassland",
-    "urban"
+    "hill"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "views",
-    "park",
-    "river"
+    "historical site",
+    "viewpoint",
+    "church",
+    "hall"
   ],
   "facilities": [
     "visitor center",
     "tea room",
+    "park",
     "information board"
   ],
   "route_type": "circular",

@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Nant-y-Felin, Draethen, Rudry, Caerphilly, Cymru / Wales, NP10 8GB, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -88,9 +88,9 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "castle ruins"
+    "viewpoint",
+    "castle ruins",
+    "bridge"
   ],
   "facilities": [
     "pub/cafe",

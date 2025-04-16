@@ -69,22 +69,20 @@
   "display_address": "A14, Haughley New Street, Mid Suffolk, Suffolk, England, IP14 3JZ, United Kingdom",
   "district": "Mid Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "garden"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "landscaped gardens",
-    "village"
+    "church",
+    "farm",
+    "castle"
   ],
   "facilities": [
-    "car park",
-    "church",
-    "castle"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

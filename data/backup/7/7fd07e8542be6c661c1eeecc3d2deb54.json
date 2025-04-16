@@ -71,7 +71,7 @@
   "nominatim_found": true,
   "display_address": "74, Alum Chine, Westbourne, Bournemouth, Bournemouth, Christchurch and Poole, England, BH4 8BG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
@@ -79,12 +79,12 @@
     "coastal"
   ],
   "points_of_interest": [
-    "views",
+    "viewpoint",
     "beach"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

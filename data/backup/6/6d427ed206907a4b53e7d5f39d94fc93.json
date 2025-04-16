@@ -100,9 +100,9 @@
   "display_address": "Medmerry Cycle Link, Porthold Farm, Sidlesham, Chichester, West Sussex, England, PO20 7NJ, United Kingdom",
   "district": "Chichester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
     "salt marsh",
@@ -112,9 +112,8 @@
     "shingle beaches"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "harbour"
   ],
   "facilities": [
     "car park",

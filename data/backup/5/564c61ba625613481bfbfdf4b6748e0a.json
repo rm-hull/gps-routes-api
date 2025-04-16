@@ -109,7 +109,7 @@
   "postcode": "CA12 4QD",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,18 +117,17 @@
     "open hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "gardens",
-    "historical sites"
+    "woodland"
   ],
   "facilities": [
     "car park",
     "cafe",
     "picnic areas",
     "toilets",
-    "visitor center",
-    "pub/cafe",
-    "Old Sawmill Tearoom"
+    "dog friendly",
+    "tearoom"
   ],
   "route_type": "circular",
   "activities": [

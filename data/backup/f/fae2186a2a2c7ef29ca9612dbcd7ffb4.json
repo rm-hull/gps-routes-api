@@ -101,7 +101,7 @@
   "postcode": "LS24 9NJ",
   "district": "Tadcaster",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,9 +109,11 @@
     "rural"
   ],
   "points_of_interest": [
+    "nature trails",
     "country views"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

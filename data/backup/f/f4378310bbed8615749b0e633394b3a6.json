@@ -141,7 +141,7 @@
   "display_address": "Princes Square, Holbeck Urban Village, Holbeck, Leeds, West Yorkshire, England, LS1 4QY, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -152,13 +152,13 @@
   "points_of_interest": [
     "nature reserve",
     "ruins",
-    "village",
     "model village",
     "wood"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
+    "pub/cafe",
     "dog friendly"
   ],
   "route_type": "out and back",

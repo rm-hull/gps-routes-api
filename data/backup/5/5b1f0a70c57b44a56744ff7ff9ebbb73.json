@@ -96,16 +96,16 @@
   "nominatim_found": true,
   "display_address": "Stryd Smith, Beddgelert, Gwynedd, Cymru / Wales, LL55 4LT, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "hard",
+  "difficulty": "challenging",
   "terrain": [
     "mountain",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

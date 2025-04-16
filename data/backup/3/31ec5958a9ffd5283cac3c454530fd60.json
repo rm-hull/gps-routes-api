@@ -100,17 +100,20 @@
   "postcode": "OX20 1XR",
   "district": "West Oxfordshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "long distance trails"
+    "historical site",
+    "long distance trail"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

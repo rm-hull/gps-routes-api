@@ -85,20 +85,19 @@
   "postcode": "DY7 6HU",
   "district": "Wyre Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
-    "sand",
-    "mountain"
+    "sandstone ridge"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "trails"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

@@ -126,17 +126,17 @@
   "postcode": "DN11 9QX",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "paved"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "castle ruins",
-    "village center"
+    "castle",
+    "historic site",
+    "village"
   ],
   "facilities": [
     "car park",

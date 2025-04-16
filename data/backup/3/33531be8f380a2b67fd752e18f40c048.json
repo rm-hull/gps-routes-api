@@ -69,7 +69,7 @@
   "display_address": "Southam Road, Long Itchington CP, Long Itchington, Stratford-on-Avon, Warwickshire, England, CV47 9RE, United Kingdom",
   "postcode": "CV47 9RE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -80,10 +80,11 @@
   "points_of_interest": [
     "historic buildings",
     "nature reserve",
-    "views"
+    "woodland"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

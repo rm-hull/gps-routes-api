@@ -105,7 +105,7 @@
   "district": "Solihull",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -115,13 +115,13 @@
   ],
   "points_of_interest": [
     "historical buildings",
-    "woodland trails",
-    "lake"
+    "lake",
+    "woodland trails"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "canal"
+    "walled garden"
   ],
   "route_type": "circular",
   "activities": [

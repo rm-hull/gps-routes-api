@@ -69,17 +69,16 @@
   "postcode": "IP28 6QB",
   "district": "West Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "grassland"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserves",
-    "countryside views"
+    "countryside"
   ],
   "facilities": [
     "car park"

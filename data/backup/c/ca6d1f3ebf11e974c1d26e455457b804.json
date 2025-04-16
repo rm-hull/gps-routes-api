@@ -114,20 +114,20 @@
   "nominatim_found": true,
   "display_address": "West Bagborough Road, West Bagborough, Somerset, England, TA4 3EF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "hill",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historic path",
+    "natural area"
   ],
   "facilities": [
     "pub/cafe",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

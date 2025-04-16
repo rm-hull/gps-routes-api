@@ -89,23 +89,21 @@
   "postcode": "EX6 7NZ",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "waterfront"
+    "woodland"
   ],
   "points_of_interest": [
-    "birdwatching",
-    "natural scenery"
+    "waterside trails",
+    "birdlife"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

@@ -89,23 +89,26 @@
   "postcode": "SA3 1DJ",
   "district": "Cwm Ivy",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
-    "sand"
+    "sand dunes",
+    "coastal"
   ],
   "points_of_interest": [
-    "wildlife watching",
+    "woodland trails",
+    "marsh",
     "views"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

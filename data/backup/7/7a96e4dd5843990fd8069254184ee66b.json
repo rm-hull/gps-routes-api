@@ -100,7 +100,7 @@
   "postcode": "GU6 7WH",
   "district": "Waverley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,17 +108,16 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "picnic areas"
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "picnic areas"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling",
-    "horse riding"
+    "cycling"
   ]
 }

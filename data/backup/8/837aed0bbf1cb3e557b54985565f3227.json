@@ -91,22 +91,20 @@
   "postcode": "FK8 3QT",
   "district": "Thornhill",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "peat bogland",
-    "woodland"
+    "peat bogland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

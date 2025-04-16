@@ -109,7 +109,7 @@
   "nominatim_found": true,
   "display_address": "New Quay Road, Whitby, North Yorkshire, York and North Yorkshire, England, YO21 3BT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,19 +117,18 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "village",
     "geological features"
   ],
   "facilities": [
     "cafe",
-    "pub/cafe",
-    "car park",
-    "beach",
-    "visitor center"
+    "hotel",
+    "bus stop"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "fossil hunting"
   ]
 }

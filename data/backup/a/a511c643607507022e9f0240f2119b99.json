@@ -111,7 +111,7 @@
   "postcode": "CR8 1EE",
   "district": "London",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -120,9 +120,8 @@
     "downland"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "historical sites",
-    "viewpoints"
+    "trail",
+    "park"
   ],
   "facilities": [
     "car park",

@@ -51,20 +51,20 @@
   "display_address": "The Square, Balmacara Square, Balmacara, Highland, Alba / Scotland, IV40 8DP, United Kingdom",
   "postcode": "IV40 8DP",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
+    "coastline",
     "moorland"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

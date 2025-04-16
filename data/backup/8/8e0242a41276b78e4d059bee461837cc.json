@@ -77,8 +77,8 @@
   "display_address": "Great Common, Inkpen, West Berkshire, England, RG17 9QR, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "common",
@@ -86,8 +86,9 @@
     "country lanes"
   ],
   "points_of_interest": [
+    "church",
     "historical structure",
-    "views"
+    "hills"
   ],
   "facilities": [
     "pub/cafe",

@@ -73,7 +73,7 @@
   "display_address": "Clarence Park Band Stand, Denby Dale Road, Thornes, Wakefield, West Yorkshire, England, WF2 8DJ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -82,6 +82,7 @@
   ],
   "points_of_interest": [
     "rose gardens",
+    "conservatory",
     "lake",
     "aviary",
     "nature reserve"
@@ -91,9 +92,8 @@
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

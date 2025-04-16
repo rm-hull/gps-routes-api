@@ -77,22 +77,20 @@
   "display_address": "Station Road, Hesket, Armathwaite, Westmorland and Furness, England, CA4 9PN, United Kingdom",
   "postcode": "CA4 9PN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "countryside"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "countryside"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "wheelchair accessible"
+    "bridge"
   ],
   "route_type": "circular",
   "activities": [

@@ -100,7 +100,7 @@
   "display_address": "East Cliff, Plaidy, East Looe, Looe, Cornwall, England, PL13 1BU, United Kingdom",
   "postcode": "PL13 1BU",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -108,22 +108,21 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve",
-    "island"
+    "historical site",
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "car park",
     "dog friendly",
-    "beach",
-    "boat trips"
+    "beach"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

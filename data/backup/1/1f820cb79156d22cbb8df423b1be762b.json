@@ -43,17 +43,18 @@
   "nominatim_found": true,
   "display_address": "Strait Lane, Huby, Weeton, North Yorkshire, York and North Yorkshire, England, LS17 0HF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "farmland"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "linear",
   "activities": [
     "walking"

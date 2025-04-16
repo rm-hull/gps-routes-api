@@ -85,7 +85,7 @@
   "nominatim_found": true,
   "display_address": "A82, Drumnadrochit, Highland, Alba / Scotland, IV63 6TX, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,15 +94,16 @@
     "river"
   ],
   "points_of_interest": [
-    "historic roads",
+    "historic drove roads",
     "lochs",
+    "ancient woodland",
     "glens"
   ],
   "facilities": [
     "visitor center",
     "refreshments"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

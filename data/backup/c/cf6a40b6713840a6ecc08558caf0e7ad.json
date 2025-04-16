@@ -59,24 +59,22 @@
   "display_address": "Red Lane, Belan, Welshpool, Powys, Cymru / Wales, SY21 8RN, United Kingdom",
   "district": "Welshpool",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "garden"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viewpoint",
     "statues",
     "herbaceous borders"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -76,17 +76,19 @@
   "display_address": "The Broadway, The Close, Winchester, Hampshire, England, SO23 9JX, United Kingdom",
   "postcode": "SO23 9JX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "downland"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling",

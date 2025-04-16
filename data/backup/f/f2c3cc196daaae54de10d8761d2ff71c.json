@@ -43,19 +43,19 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
+    "meadows",
     "woodland",
-    "garden",
-    "meadow"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "water features",
-    "rose garden"
+    "historical house",
+    "arboretum",
+    "rose garden",
+    "memorial garden"
   ],
   "facilities": [
     "car park",

@@ -115,7 +115,7 @@
   "nominatim_found": true,
   "display_address": "199 Steps, Whitby, North Yorkshire, York and North Yorkshire, England, YO22 4DR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,13 +123,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "fishing village"
+    "historical site",
+    "viewpoint",
+    "village"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -72,25 +72,22 @@
   "display_address": "Station Road, Newtown, New Mills, Hague Bar, High Peak, Derbyshire, East Midlands, England, SK22 3JB, United Kingdom",
   "postcode": "SK22 3JB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "river",
-    "canal"
+    "river"
   ],
   "points_of_interest": [
     "park",
     "nature reserve",
-    "river gorge",
-    "hydroelectric scheme",
-    "wildlife"
+    "river gorge"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

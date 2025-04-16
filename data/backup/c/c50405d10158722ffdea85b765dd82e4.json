@@ -104,23 +104,25 @@
   "nominatim_found": true,
   "display_address": "Park Street, Guildford Park, Guildford, Surrey, England, GU1 4YD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland",
-    "mountain"
+    "heathland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "historical site",
+    "viewpoint",
+    "hill summit"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

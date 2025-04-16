@@ -111,17 +111,16 @@
   "nominatim_found": true,
   "display_address": "Woodland Walk, Aberdeenshire, Alba / Scotland, AB31 5EY, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "forest"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "gardens"
   ],
   "facilities": [
@@ -131,6 +130,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

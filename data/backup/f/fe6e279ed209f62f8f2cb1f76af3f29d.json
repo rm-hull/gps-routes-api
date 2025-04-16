@@ -69,21 +69,23 @@
   "display_address": "West Dean, Parkend, Forest of Dean, Gloucestershire, England, GL15 4JE, United Kingdom",
   "postcode": "GL15 4JE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "path"
+    "woodland"
   ],
   "points_of_interest": [
+    "viewpoint",
     "nature reserve",
-    "viewpoints",
-    "historical sites"
+    "sculpture",
+    "map"
   ],
   "facilities": [
     "car park",
-    "picnic area"
+    "picnic area",
+    "visitor center",
+    "railway"
   ],
   "route_type": "circular",
   "activities": [

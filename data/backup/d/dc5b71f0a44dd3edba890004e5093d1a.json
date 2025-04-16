@@ -85,7 +85,7 @@
   "postcode": "S33 0AQ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -93,13 +93,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
-    "car park",
     "visitor center",
     "cafe",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

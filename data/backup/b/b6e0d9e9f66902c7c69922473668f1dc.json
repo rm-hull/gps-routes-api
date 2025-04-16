@@ -51,19 +51,18 @@
   "postcode": "G83 7DZ",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "picnic benches"
+    "picnic benches",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

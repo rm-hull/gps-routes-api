@@ -96,7 +96,7 @@
   "postcode": "S75 4RD",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -104,13 +104,13 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical mill",
     "nature reserve",
-    "country park"
+    "lake"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

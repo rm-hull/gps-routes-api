@@ -76,14 +76,13 @@
   "postcode": "GU4 7YH",
   "district": "Guildford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "heathland",
-    "grassland"
+    "heathland"
   ],
   "points_of_interest": [
     "wildlife viewing",
@@ -91,8 +90,8 @@
   ],
   "facilities": [
     "car park",
-    "footpaths",
-    "wheelchair accessible"
+    "visitor center",
+    "footpaths"
   ],
   "route_type": "out and back",
   "activities": [

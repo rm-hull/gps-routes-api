@@ -68,7 +68,7 @@
   "postcode": "LE7 7LN",
   "district": "Charnwood",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,15 +77,15 @@
     "park"
   ],
   "points_of_interest": [
-    "country parks",
-    "lakeside trails",
-    "riverside trails"
+    "park",
+    "mill"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

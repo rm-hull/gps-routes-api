@@ -85,7 +85,7 @@
   "postcode": "YO15 1AA",
   "district": "Bridlington",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -93,7 +93,6 @@
     "coastal"
   ],
   "points_of_interest": [
-    "nature reserve",
     "beach",
     "cliff tops"
   ],

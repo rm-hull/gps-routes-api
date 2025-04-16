@@ -73,7 +73,7 @@
   "nominatim_found": true,
   "display_address": "Oakley Wharf, Porthmadog, Gwynedd, Cymru / Wales, LL49 9LP, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,9 +82,9 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "beach"
+    "viewpoint",
+    "historical site",
+    "hillfort"
   ],
   "facilities": [
     "car park",

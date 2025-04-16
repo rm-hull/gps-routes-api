@@ -71,20 +71,19 @@
   "display_address": "Sprat & Winkle Line, Winton Hill, Stockbridge, Houghton, Test Valley, Hampshire, England, SO20 6JB, United Kingdom",
   "postcode": "SO20 6JB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "difficulty": "easy",
   "terrain": [
-    "path",
-    "river"
+    "path"
   ],
   "points_of_interest": [
     "historic abbey",
-    "river views",
-    "former railway"
+    "station"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "linear",
   "activities": [

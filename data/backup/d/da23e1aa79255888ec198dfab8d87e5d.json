@@ -134,23 +134,25 @@
   "nominatim_found": true,
   "display_address": "Teign Road, Buckland, Newton Abbot, Teignbridge, Devon, England, TQ12 2DG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "8 miles",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "canal",
-    "river"
+    "woodland",
+    "heathland",
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "country park"
+    "river",
+    "countryside",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "dog friendly"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

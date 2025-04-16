@@ -134,18 +134,16 @@
   "display_address": "B4194, Button Oak, Kinlet, Shropshire, England, DY12 3AL, United Kingdom",
   "postcode": "DY12 3AL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "forest",
-    "waterside"
+    "forest"
   ],
   "points_of_interest": [
     "nature reserve",
-    "arboretum",
-    "wildlife"
+    "arboretum"
   ],
   "facilities": [
     "car park",

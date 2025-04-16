@@ -51,24 +51,27 @@
   "postcode": "PA72 6JS",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
+    "forest",
     "woodland",
-    "mountain"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical village",
+    "harbour",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

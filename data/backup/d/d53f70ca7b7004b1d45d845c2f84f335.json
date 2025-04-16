@@ -69,18 +69,19 @@
   "nominatim_found": true,
   "display_address": "2, Abbey Road, Leiston, East Suffolk, Suffolk, England, IP16 4TA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "countryside",
-    "historic"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic sites",
-    "countryside views"
+    "historic ruins",
+    "scenic spot"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

@@ -99,22 +99,21 @@
   "display_address": "Coppermill Bridge, London Borough of Waltham Forest, London, Greater London, England, E5 9BL, United Kingdom",
   "postcode": "E5 9BL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 miles",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "water"
+    "reservoir"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historical sites",
-    "nature"
+    "wildlife observation",
+    "park"
   ],
   "facilities": [
     "car park",
-    "dog friendly",
-    "fishing"
+    "fishing",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

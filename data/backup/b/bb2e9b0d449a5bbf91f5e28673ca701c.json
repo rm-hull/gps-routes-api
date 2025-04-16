@@ -75,7 +75,7 @@
   "postcode": "LU6 2GY",
   "district": "Totternhoe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -83,8 +83,8 @@
     "woodland"
   ],
   "points_of_interest": [
-    "views",
-    "wildlife"
+    "viewpoint",
+    "natural landmark"
   ],
   "facilities": [
     "visitor center",

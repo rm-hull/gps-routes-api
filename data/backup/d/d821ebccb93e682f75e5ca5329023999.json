@@ -81,7 +81,7 @@
   "postcode": "BN1 9GW",
   "district": "Stanmer",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,8 +89,9 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "village",
+    "historic building",
+    "church"
   ],
   "facilities": [
     "visitor center",

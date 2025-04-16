@@ -99,20 +99,20 @@
   "display_address": "Station Road, Esholt, Bradford, West Yorkshire, England, BD17 7RB, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "waterway"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural features"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "canal",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

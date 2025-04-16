@@ -75,26 +75,25 @@
   "postcode": "KA18 3SB",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "coastal"
+    "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
+    "historical site",
     "castle",
     "nature reserve"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

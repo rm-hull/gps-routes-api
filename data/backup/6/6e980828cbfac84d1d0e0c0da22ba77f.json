@@ -77,7 +77,7 @@
   "display_address": "The Vicarage, 27, Station Road, Bentham, Lancaster, North Yorkshire, York and North Yorkshire, England, LA2 7LH, United Kingdom",
   "postcode": "LA2 7LH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -87,11 +87,11 @@
   ],
   "points_of_interest": [
     "waterfalls",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

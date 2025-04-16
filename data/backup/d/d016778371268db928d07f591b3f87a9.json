@@ -100,15 +100,14 @@
   "display_address": "Mow Cop Castle, High Street, Mount Pleasant, Odd Rode, Cheshire East, England, ST7 3NZ, United Kingdom",
   "postcode": "ST7 3NZ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "rocky"
+    "gritstone"
   ],
   "points_of_interest": [
-    "views",
+    "viewpoint",
     "landmark",
     "rock formation"
   ],

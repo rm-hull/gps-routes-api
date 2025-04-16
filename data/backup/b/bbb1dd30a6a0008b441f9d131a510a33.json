@@ -96,16 +96,16 @@
   "postcode": "LA18 4LG",
   "district": "Millom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
     "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife observation"
+    "viewpoint",
+    "natural reserve"
   ],
   "facilities": [
     "car park",

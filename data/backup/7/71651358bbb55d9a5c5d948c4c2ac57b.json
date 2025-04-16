@@ -99,17 +99,16 @@
   "nominatim_found": true,
   "display_address": "The Swartle, Lanercost, Burtholme, Cumberland, England, CA8 2HJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "historical",
-    "river",
-    "wall"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "wall"
   ],
   "facilities": [
     "car park",

@@ -144,23 +144,24 @@
   "nominatim_found": true,
   "display_address": "Bramingham Road, Marsh Farm, Luton, England, LU3 2AN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "canal",
-    "park"
+    "park",
+    "canal"
   ],
   "points_of_interest": [
     "nature reserves",
     "villages",
-    "open space",
-    "Olympic Park"
+    "park",
+    "canal"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

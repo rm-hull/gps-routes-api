@@ -68,21 +68,23 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "countryside",
-    "historic"
+    "woodland",
+    "historic houses"
   ],
   "points_of_interest": [
+    "villages",
     "historic houses",
     "parks"
   ],
   "facilities": [
     "pub/cafe",
-    "country pubs"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

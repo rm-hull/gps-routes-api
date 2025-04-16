@@ -100,27 +100,25 @@
   "nominatim_found": true,
   "display_address": "Winyard's Gap, Chedington, Dorset, England, DT8 3HY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "industrial",
-    "natural"
+    "marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "geological sites",
+    "abbey",
+    "geological site",
     "museum",
     "nature reserve"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "canal",
-    "wheelchair accessible"
+    "canal"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

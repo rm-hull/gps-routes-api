@@ -75,15 +75,14 @@
   "display_address": "B4434, Resolven, Neath Port Talbot, Cymru / Wales, SA11 4BZ, United Kingdom",
   "postcode": "SA11 4BZ",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "waterfront",
-    "woodland"
+    "woodland",
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
     "waterfalls",
     "park"
   ],

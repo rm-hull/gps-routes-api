@@ -110,7 +110,7 @@
   "nominatim_found": true,
   "display_address": "Brixham Marina, Berry Head Road, Rea Hill, Brixham, Torbay, England, TQ5 9AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,15 +118,16 @@
     "cliff top"
   ],
   "points_of_interest": [
-    "wildlife viewing",
     "gardens",
-    "historical sites",
-    "waterfront"
+    "historic site",
+    "wildlife"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "ferry"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

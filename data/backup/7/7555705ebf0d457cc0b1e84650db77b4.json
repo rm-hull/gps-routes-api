@@ -101,21 +101,21 @@
   "postcode": "ME2 1LA",
   "district": "Cuxton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "meadows"
+    "meadows",
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "plant life",
-    "walking trails"
+    "plant species",
+    "walking trail"
   ],
   "facilities": [
-    "rail station",
-    "country park"
+    "visitor center",
+    "rail station"
   ],
   "route_type": "circular",
   "activities": [

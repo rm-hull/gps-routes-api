@@ -94,7 +94,7 @@
   "postcode": "SP7 0EP",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -102,9 +102,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "nature reserve"
+    "bowl barrow",
+    "landmarks"
   ],
   "facilities": [
     "car park",

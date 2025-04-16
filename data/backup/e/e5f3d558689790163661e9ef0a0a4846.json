@@ -106,16 +106,16 @@
   "postcode": "PH26 3PY",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "waterfront"
   ],
   "points_of_interest": [
-    "historical ruins",
-    "bird watching"
+    "ruins",
+    "woodland"
   ],
   "facilities": [
     "car park"
@@ -123,6 +123,7 @@
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

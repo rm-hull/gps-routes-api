@@ -72,7 +72,7 @@
   "display_address": "Sandford Avenue, Church Stretton town centre, Hazler, Church Stretton, Shropshire, England, SY6 6FD, United Kingdom",
   "postcode": "SY6 6FD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -80,15 +80,15 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural beauty"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

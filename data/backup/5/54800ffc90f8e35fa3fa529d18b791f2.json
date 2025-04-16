@@ -86,26 +86,25 @@
   "display_address": "Wilne Road, Church Wilne, Draycott and Church Wilne, Draycott, Erewash, Derbyshire, East Midlands, England, DE72 3QJ, United Kingdom",
   "postcode": "DE72 3QJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterfront"
+    "grassland"
   ],
   "points_of_interest": [
-    "historic sites",
-    "wildlife viewing",
+    "church",
+    "wildflower meadow",
     "canal"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "nature watching"
+    "walking"
   ]
 }

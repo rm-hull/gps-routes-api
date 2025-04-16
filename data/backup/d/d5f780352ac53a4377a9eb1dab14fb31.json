@@ -105,20 +105,19 @@
   "display_address": "12, Samuel Street, Levenshulme, Manchester, Greater Manchester, England, M19 2ST, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife viewing"
+    "nature reserve",
+    "country walks"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

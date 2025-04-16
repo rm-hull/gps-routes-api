@@ -68,21 +68,22 @@
   "postcode": "IP14 6RG",
   "district": "Mid Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "waterfront",
-    "rural"
+    "garden"
   ],
   "points_of_interest": [
-    "gardens",
-    "historical sites"
+    "historical hall",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

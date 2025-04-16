@@ -74,16 +74,17 @@
   "display_address": "Hardwick Park, Grand Terrace, Sedgefield, County Durham, North East, England, TS21 2DN, United Kingdom",
   "district": "Sedgefield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "scenic views"
+    "temple",
+    "grotto",
+    "folly"
   ],
   "facilities": [
     "visitor center",
@@ -91,7 +92,7 @@
     "cafe",
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

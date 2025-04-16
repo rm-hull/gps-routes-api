@@ -61,7 +61,7 @@
   "display_address": "Nightingale Walk, Hound, Netley, Eastleigh, Hampshire, England, SO31 5GB, United Kingdom",
   "postcode": "SO31 5GB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -70,19 +70,19 @@
     "grassland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "wildlife"
   ],
   "facilities": [
-    "car park",
     "miniature railway",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

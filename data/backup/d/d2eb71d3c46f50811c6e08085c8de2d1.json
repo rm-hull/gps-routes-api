@@ -73,21 +73,23 @@
   "postcode": "WR11 1LF",
   "district": "Wychavon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "parkland",
     "river"
   ],
   "points_of_interest": [
     "gardens",
-    "historical sites",
-    "natural landscape"
+    "park",
+    "bridge"
   ],
   "facilities": [
     "car park",
-    "playground"
+    "lily pond",
+    "natural terrace",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

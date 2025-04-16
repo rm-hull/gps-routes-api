@@ -125,23 +125,23 @@
   "postcode": "BH19 1DD",
   "district": "Swanage",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "marsh"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "bird watching",
-    "views"
+    "nature reserve",
+    "bird watching"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

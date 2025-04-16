@@ -77,7 +77,7 @@
   "display_address": "Main Road, Ryehill Farm, Belchford, East Lindsey, Lincolnshire, England, LN9 6LL, United Kingdom",
   "postcode": "LN9 6LL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -85,13 +85,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
     "settlements",
-    "countryside"
+    "historic town",
+    "canal"
   ],
   "facilities": [
     "car park",
-    "footpath"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Newhaven Fort, Fort Rise, Newhaven, Lewes, East Sussex, England, BN9 9DW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,18 +77,18 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "villages",
+    "village",
     "church",
     "cottage",
-    "historic buildings"
+    "monument"
   ],
   "facilities": [
     "car park",
     "ferry",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

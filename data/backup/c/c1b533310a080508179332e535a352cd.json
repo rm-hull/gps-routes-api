@@ -119,25 +119,25 @@
   "postcode": "LL11 3AA",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "mountain",
-    "wooded",
-    "rural"
+    "wooded"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird hides",
-    "historical path"
+    "reservoir",
+    "range",
+    "moors",
+    "gorge"
   ],
   "facilities": [
     "visitor center",
-    "bike hire",
     "cafe",
-    "car park",
-    "wheelchair accessible"
+    "bike hire",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

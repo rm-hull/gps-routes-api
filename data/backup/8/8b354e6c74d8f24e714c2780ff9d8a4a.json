@@ -95,17 +95,16 @@
   "display_address": "Taw Vale, Fort Hill, Barnstaple, North Devon, Devon, England, EX32 8NN, United Kingdom",
   "postcode": "EX32 8NN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "coastal",
-    "dune"
+    "estuary"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "river"
+    "nature reserve"
   ],
   "facilities": [
     "car park",

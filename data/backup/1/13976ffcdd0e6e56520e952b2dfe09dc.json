@@ -86,7 +86,7 @@
   "display_address": "Warmstone Lane, Waddesdon, Buckinghamshire, England, HP18 0NF, United Kingdom",
   "postcode": "HP18 0NF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 miles",
   "difficulty": "easy",
   "terrain": [
@@ -94,8 +94,8 @@
     "river"
   ],
   "points_of_interest": [
-    "views",
-    "gardens"
+    "viewpoint",
+    "garden"
   ],
   "facilities": [
     "car park",

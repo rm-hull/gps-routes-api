@@ -33,7 +33,7 @@
   "postcode": "PE28 2TB",
   "district": "Huntingdonshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -42,7 +42,10 @@
   "points_of_interest": [
     "countryside"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking",

@@ -86,7 +86,7 @@
   "postcode": "PL26 6HT",
   "district": "Gorran Haven",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -94,13 +94,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "beaches",
-    "historical sites"
+    "granite cross",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "beach",
+    "harbour"
   ],
   "route_type": "circular",
   "activities": [

@@ -61,24 +61,23 @@
   "postcode": "L17 4JA",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "garden"
+    "lake"
   ],
   "points_of_interest": [
     "historical figures",
     "caves",
     "waterfalls",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "cafe",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

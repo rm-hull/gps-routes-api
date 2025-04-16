@@ -73,21 +73,22 @@
   "display_address": "Dean Road, Beansburn, Kilmarnock, East Ayrshire, Alba / Scotland, KA3 1RR, United Kingdom",
   "postcode": "KA3 1RR",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "animal encounters"
+    "historical site",
+    "farm"
   ],
   "facilities": [
     "visitor center",
     "tearoom",
-    "shop"
+    "shop",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

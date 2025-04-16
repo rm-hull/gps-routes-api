@@ -68,7 +68,7 @@
   "display_address": "Elliott Footbridge, High Stanners, Morpeth, Northumberland, North East, England, NE61 1PR, United Kingdom",
   "postcode": "NE61 1PR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,15 +77,16 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "museums",
-    "parkland"
+    "historical site",
+    "museum",
+    "park",
+    "views"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "country park"
   ],
   "route_type": "circular",
   "activities": [

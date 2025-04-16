@@ -99,22 +99,20 @@
   "district": "Rotherham",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "45 minutes to an hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "lake"
+    "countryside"
   ],
   "points_of_interest": [
-    "wildflower areas",
-    "bird watching"
+    "wildflower area",
+    "bird watching area"
   ],
   "facilities": [
-    "visitor center",
+    "bird hides",
     "play area",
-    "cafe",
-    "bird hides"
+    "lakeside cafe"
   ],
   "route_type": "circular",
   "activities": [

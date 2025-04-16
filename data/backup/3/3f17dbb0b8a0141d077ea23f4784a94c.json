@@ -69,19 +69,20 @@
   "display_address": "4, Broad Street, Redenhall with Harleston, Harleston, South Norfolk, Norfolk, England, IP20 9BD, United Kingdom",
   "postcode": "IP20 9BD",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "river",
-    "countryside"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
-    "views",
-    "settlements"
+    "settlements",
+    "views"
   ],
   "facilities": [
-    "footpath"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

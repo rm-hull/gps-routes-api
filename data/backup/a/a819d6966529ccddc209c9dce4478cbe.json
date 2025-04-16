@@ -90,25 +90,23 @@
   "display_address": "Glen Dale, Bingley, Cottingley, Bradford, West Yorkshire, England, BD16 1QY, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "waterfront"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "cultural sites"
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

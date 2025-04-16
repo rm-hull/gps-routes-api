@@ -96,21 +96,23 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "farmland",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "cultural heritage"
+    "station buildings",
+    "bridges",
+    "stations",
+    "signal boxes"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

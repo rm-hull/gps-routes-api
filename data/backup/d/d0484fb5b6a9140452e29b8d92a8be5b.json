@@ -91,24 +91,21 @@
   "display_address": "Cernes Farm, Starborough Road, Dormansland, Tandridge, Surrey, England, TN8 5QY, United Kingdom",
   "district": "Tandridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "field",
-    "park"
+    "field"
   ],
   "points_of_interest": [
     "historical architecture",
-    "gardens",
     "castle"
   ],
   "facilities": [
+    "pub",
     "visitor center",
-    "pub/cafe",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

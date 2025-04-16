@@ -66,22 +66,25 @@
   "nominatim_found": true,
   "display_address": "Curiosity Corner, 1, Church Street, Lavenham, Babergh, Suffolk, England, CO10 9QT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "churches"
+    "church",
+    "priory",
+    "cottages",
+    "stately home",
+    "garden",
+    "church"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "dog friendly",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

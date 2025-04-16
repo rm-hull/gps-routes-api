@@ -131,17 +131,18 @@
   "postcode": "DL6 3DW",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "moorland",
+    "peat bog",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "country park"
+    "country park",
+    "rocky outcrops",
+    "Bronze Age carvings"
   ],
   "facilities": [
     "car park",

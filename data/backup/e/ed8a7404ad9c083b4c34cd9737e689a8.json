@@ -99,7 +99,7 @@
   "display_address": "White Moss (Lower), A591, Town End, Lakes, Rydal, Westmorland and Furness, England, LA22 9SE, United Kingdom",
   "district": "Rydal",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,15 +107,15 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "bus stops",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

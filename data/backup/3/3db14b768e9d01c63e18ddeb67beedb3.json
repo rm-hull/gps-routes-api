@@ -84,7 +84,7 @@
   "display_address": "The Bridge, North Town, Taunton, Somerset, England, TA1 1UG, United Kingdom",
   "postcode": "TA1 1UG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -92,12 +92,13 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "natural scenery",
-    "historic towns"
+    "historical site",
+    "natural feature"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "canal access"
+    "canal"
   ],
   "route_type": "circular",
   "activities": [

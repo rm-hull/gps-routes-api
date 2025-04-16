@@ -90,18 +90,19 @@
   "display_address": "Shepherd's Bridge Lane, Dixon Ground, Coniston, Westmorland and Furness, England, LA21 8AL, United Kingdom",
   "postcode": "LA21 8AL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "lake",
     "woodland",
-    "waterfall",
-    "lake"
+    "waterfall"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "villages",
-    "waterfalls"
+    "lake",
+    "village",
+    "waterfalls",
+    "mountain views"
   ],
   "facilities": [
     "car park",

@@ -70,17 +70,18 @@
   "nominatim_found": true,
   "display_address": "Station Road, Perranporth, Perranzabuloe, Cornwall, England, TR6 0LR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "rural"
   ],
   "points_of_interest": [
     "views"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

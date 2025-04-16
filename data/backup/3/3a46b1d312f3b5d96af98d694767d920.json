@@ -110,17 +110,19 @@
   "display_address": "North Lodge, B941, Kilconquhar, Fife, Alba / Scotland, KY9 1JT, United Kingdom",
   "district": "Kilconquhar",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "water",
-    "grassland"
+    "reed beds"
   ],
   "points_of_interest": [
     "wildlife watching"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking",

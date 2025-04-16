@@ -124,7 +124,7 @@
   "nominatim_found": true,
   "display_address": "Bramingham Road, Marsh Farm, Luton, England, LU3 2AN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -134,14 +134,11 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical pub",
-    "wildlife"
+    "pub"
   ],
   "facilities": [
-    "pub/cafe",
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -96,7 +96,7 @@
   "postcode": "SA8 4RU",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -105,11 +105,11 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

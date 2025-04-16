@@ -59,7 +59,7 @@
   "display_address": "Manor Lodge Road, Rowlands Castle, East Hampshire, Hampshire, England, PO9 6HE, United Kingdom",
   "postcode": "PO9 6HE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -67,13 +67,11 @@
     "moorland"
   ],
   "points_of_interest": [
-    "wildlife",
-    "historical sites",
-    "gardens"
+    "ponds",
+    "wildlife"
   ],
   "facilities": [
     "car park",
-    "visitor center",
     "farm",
     "maze",
     "walled garden",

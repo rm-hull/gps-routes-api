@@ -94,22 +94,24 @@
   "display_address": "Rothesay Drive, Highcliffe and Walkford, Highcliffe-on-Sea, Bournemouth, Christchurch and Poole, England, BH23 4LD, United Kingdom",
   "postcode": "BH23 4LD",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "coastal",
-    "beach"
+    "cliff"
   ],
   "points_of_interest": [
-    "nature reserves",
+    "nature reserve",
     "gardens",
-    "views"
+    "beach"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

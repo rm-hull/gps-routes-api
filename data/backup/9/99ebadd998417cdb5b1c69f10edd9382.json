@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Parkland Walk, Stroud Green, London Borough of Haringey, London, Greater London, England, N4 4LT, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -107,15 +107,16 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildflower areas",
-    "urban environment"
+    "historical building",
+    "park",
+    "wildflower area"
   ],
   "facilities": [
     "boating lake",
-    "visitor center",
-    "playground",
-    "deer enclosure"
+    "greenhouse",
+    "deer enclosure",
+    "pitch and putt golf course",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

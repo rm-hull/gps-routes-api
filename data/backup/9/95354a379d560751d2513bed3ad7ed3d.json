@@ -83,22 +83,21 @@
   "nominatim_found": true,
   "display_address": "Ashmore Lane, London Borough of Bromley, London, Greater London, England, BR2 6DJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
     "museum",
-    "views"
+    "historical house",
+    "village"
   ],
   "facilities": [
     "village green",
-    "visitor center",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

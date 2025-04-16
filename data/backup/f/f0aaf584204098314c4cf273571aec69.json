@@ -99,22 +99,24 @@
   "postcode": "EN4 0QA",
   "district": "London",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "meadows",
     "woodland",
-    "lake",
-    "meadow"
+    "lake"
   ],
   "points_of_interest": [
     "historical sites",
-    "wildlife"
+    "statues",
+    "water garden"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "pond"
   ],
   "route_type": "circular",
   "activities": [

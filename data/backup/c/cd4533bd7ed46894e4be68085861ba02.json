@@ -91,7 +91,7 @@
   "nominatim_found": true,
   "display_address": "1, New Road, Lymm, Warrington, England, WA13 9DX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -99,10 +99,10 @@
     "woodland"
   ],
   "points_of_interest": [
-    "parks",
-    "gardens",
+    "deer park",
     "lakes",
-    "deer park"
+    "mill",
+    "gardens"
   ],
   "facilities": [
     "car park"

@@ -89,7 +89,7 @@
   "display_address": "Blackdown Hill Road, Wellington Without, Somerset, England, TA21 9PB, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -97,13 +97,12 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical monument",
-    "viewpoints",
-    "wildflowers"
+    "monument",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "public footpath"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

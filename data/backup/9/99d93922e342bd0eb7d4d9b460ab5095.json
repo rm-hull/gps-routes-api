@@ -90,7 +90,7 @@
   "display_address": "Avon Mill Lane, Keynsham, Bath and North East Somerset, West of England, England, BS31 2UG, United Kingdom",
   "postcode": "BS31 2UG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -99,14 +99,14 @@
     "suburban"
   ],
   "points_of_interest": [
-    "historic estates",
+    "historic estate",
     "nature reserve",
-    "parkland",
-    "viaduct"
+    "park"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -84,16 +84,15 @@
   "district": "Sheffield",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "wildflower viewing",
     "nature reserve",
+    "wildflower area",
     "bird watching"
   ],
   "facilities": [

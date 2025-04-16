@@ -77,7 +77,7 @@
   "display_address": "7, Well Lane, Pike Lowe, Withnell, Brinscall, Chorley, Lancashire, England, PR6 8QX, United Kingdom",
   "postcode": "PR6 8QX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -86,9 +86,9 @@
     "reservoir"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "country park",
-    "hiking trails"
+    "waterfall",
+    "reservoir",
+    "country park"
   ],
   "facilities": [
     "car park",

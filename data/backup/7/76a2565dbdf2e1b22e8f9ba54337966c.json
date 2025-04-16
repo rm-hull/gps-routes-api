@@ -129,16 +129,16 @@
   "nominatim_found": true,
   "display_address": "Crowden Campsite, Woodhead Road, Crowden, Tintwistle, High Peak, Derbyshire, East Midlands, England, SK13 1HZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "challenging",
   "terrain": [
     "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",

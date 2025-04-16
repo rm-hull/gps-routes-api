@@ -81,7 +81,7 @@
   "nominatim_found": true,
   "display_address": "Arley Hall and Gardens, Back Lane, Arley, Aston by Budworth, Cheshire East, England, CW9 6NA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,11 +89,12 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
+    "country house",
     "cottages",
     "pond"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

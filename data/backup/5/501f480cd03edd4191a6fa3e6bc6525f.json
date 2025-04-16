@@ -106,7 +106,7 @@
   "postcode": "TQ7 3EA",
   "district": "South Hams",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -114,12 +114,14 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "beach"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "hotel"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

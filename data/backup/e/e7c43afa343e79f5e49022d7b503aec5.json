@@ -91,7 +91,7 @@
   "display_address": "Taplow FP26, Taplow, Beeches Community Board, Buckinghamshire, England, SL6 0BF, United Kingdom",
   "postcode": "SL6 0BF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -100,14 +100,13 @@
   ],
   "points_of_interest": [
     "lake",
-    "countryside",
-    "village",
-    "manor house"
+    "manor house",
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "cycle trail",
-    "walking trail"
+    "cycling trail"
   ],
   "route_type": "out and back",
   "activities": [

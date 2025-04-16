@@ -69,21 +69,22 @@
   "nominatim_found": true,
   "display_address": "High Street, Hemingford Grey, Huntingdonshire, Cambridgeshire, Cambridgeshire and Peterborough, England, PE28 9BN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
+    "meadow",
     "river"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "gardens",
-    "town quay"
+    "manor house",
+    "town quay",
+    "mill",
+    "chapel"
   ],
   "facilities": [
-    "bridge",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

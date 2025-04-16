@@ -119,7 +119,7 @@
   "nominatim_found": true,
   "display_address": "Castle Street, Clun, Shropshire, England, SY7 8JU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "9 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -127,14 +127,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "countryside views",
-    "hamlets"
+    "castle",
+    "hamlet",
+    "river"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "bridge"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -91,7 +91,7 @@
   "nominatim_found": true,
   "display_address": "The Waffle Cone, 73, Main Street, Sedbergh, Westmorland and Furness, England, LA10 5AB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-5 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -99,11 +99,11 @@
     "fell"
   ],
   "points_of_interest": [
-    "views",
     "waterfall",
-    "trail"
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

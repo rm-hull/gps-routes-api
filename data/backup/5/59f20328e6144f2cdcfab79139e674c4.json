@@ -91,18 +91,17 @@
   "postcode": "S21 3WB",
   "district": "North East Derbyshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "river"
+    "grassland"
   ],
   "points_of_interest": [
-    "gardens",
-    "trails",
-    "lakes"
+    "garden",
+    "lake",
+    "trail"
   ],
   "facilities": [
     "visitor center",

@@ -101,16 +101,16 @@
   "nominatim_found": true,
   "display_address": "116, Uphill Way, Uphill, Weston-super-Mare, North Somerset, England, BS23 4XP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "windmill",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

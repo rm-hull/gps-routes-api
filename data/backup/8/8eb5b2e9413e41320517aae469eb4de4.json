@@ -111,21 +111,20 @@
   "display_address": "B970, Boat of Garten, Highland, Alba / Scotland, PH24 3BY, United Kingdom",
   "district": "Boat of Garten",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "forest",
-    "lake/loch"
+    "lake"
   ],
   "points_of_interest": [
+    "visitor center",
     "nature trails",
-    "wildlife viewing",
     "mountains"
   ],
   "facilities": [
-    "visitor center",
     "car park",
     "pub/cafe"
   ],

@@ -76,7 +76,7 @@
   "display_address": "B6259, Outhgill, Mallerstang, Westmorland and Furness, England, CA17 4JU, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -84,14 +84,13 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

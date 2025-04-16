@@ -66,7 +66,7 @@
   "display_address": "Lee, Quernmore, Lancaster, Lancashire, England, LA2 0QS, United Kingdom",
   "district": "Lancaster",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -74,12 +74,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "ecological importance",
-    "rock climbing"
+    "viewpoint",
+    "historical tower",
+    "ecological area"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

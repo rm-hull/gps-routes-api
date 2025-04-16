@@ -106,17 +106,18 @@
   "postcode": "SL6 4QQ",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "scheduled monument",
+    "wildflower area"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

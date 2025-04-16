@@ -105,19 +105,20 @@
   "display_address": "The Promenade, Withernsea, East Riding of Yorkshire, England, HU19 2JS, United Kingdom",
   "postcode": "HU19 2JS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "beach",
-    "coastal"
+    "sand"
   ],
   "points_of_interest": [
     "local landmarks",
     "nature reserve"
   ],
   "facilities": [
-    "bus stop"
+    "bus stop",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

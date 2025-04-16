@@ -106,21 +106,22 @@
   "postcode": "TQ9 7UT",
   "district": "South Hams",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "pub/cafe",
-    "footpaths"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

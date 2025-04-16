@@ -124,21 +124,21 @@
   "postcode": "OL15 0AQ",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain"
+    "moorland"
   ],
   "points_of_interest": [
-    "trails",
     "park",
-    "woods"
+    "woods",
+    "valley"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

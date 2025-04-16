@@ -95,17 +95,16 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
     "woodland",
-    "mountain",
-    "coastal"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viewpoint",
+    "historical site",
     "beach"
   ],
   "facilities": [

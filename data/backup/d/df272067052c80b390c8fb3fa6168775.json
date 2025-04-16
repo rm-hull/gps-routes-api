@@ -86,25 +86,25 @@
   "nominatim_found": true,
   "display_address": "Lawn Terrace, Silloth-on-Solway, Silloth, Cumberland, England, CA7 4AJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "marsh",
-    "woodland"
+    "nature reserve"
   ],
   "points_of_interest": [
-    "historical sites",
+    "discovery center",
     "nature reserve",
-    "bird watching"
+    "river"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

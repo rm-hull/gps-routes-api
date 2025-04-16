@@ -94,7 +94,7 @@
   "postcode": "HP17 0XH",
   "district": "Askett",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,10 +103,11 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "gardens",
-    "windmill"
+    "nature reserve",
+    "historic house",
+    "park",
+    "windmill",
+    "estate"
   ],
   "facilities": [
     "visitor center",

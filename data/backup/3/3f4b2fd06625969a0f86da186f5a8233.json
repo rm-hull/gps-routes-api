@@ -59,16 +59,16 @@
   "postcode": "IP31 2HJ",
   "district": "Ixworth",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "historic"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "local landmarks"
+    "historical landmark",
+    "church",
+    "historic mill"
   ],
   "facilities": [
     "pub",

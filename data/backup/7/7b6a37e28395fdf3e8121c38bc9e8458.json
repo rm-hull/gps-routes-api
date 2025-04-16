@@ -69,7 +69,7 @@
   "display_address": "Back Lane, Jenny Hill, Reeth, Fremington and Healaugh, Reeth, North Yorkshire, York and North Yorkshire, England, DL11 6UY, United Kingdom",
   "postcode": "DL11 6UY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -78,16 +78,14 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
     "museum",
-    "valley"
+    "valley",
+    "moor"
   ],
   "facilities": [
     "pub/cafe",
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

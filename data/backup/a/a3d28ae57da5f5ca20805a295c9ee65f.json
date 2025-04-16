@@ -104,17 +104,17 @@
   "nominatim_found": true,
   "display_address": "The Green, Sunnymeads, Wraysbury, Windsor and Maidenhead, England, TW19 5NA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
+    "ruined priory",
     "ancient tree",
-    "ruined priory"
+    "reservoir"
   ],
   "facilities": [
     "car park"

@@ -90,24 +90,26 @@
   "display_address": "B818, Craigannet, Stirling, Alba / Scotland, FK6 5JL, United Kingdom",
   "district": "Stirling",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "waterfront"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "picnic sites",
-    "cafe"
+    "cafe",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

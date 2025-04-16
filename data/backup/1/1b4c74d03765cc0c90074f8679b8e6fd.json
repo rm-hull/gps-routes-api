@@ -115,7 +115,7 @@
   "nominatim_found": true,
   "display_address": "The Crescent, Bude\u2013Stratton, Bude, Cornwall, England, EX23 8JH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -127,19 +127,18 @@
   "points_of_interest": [
     "nature reserve",
     "beach",
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "trig point"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "beachside bar",
-    "bird hide",
-    "church"
+    "car park",
+    "pub/cafe",
+    "bird hide"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "bird watching"
   ]
 }

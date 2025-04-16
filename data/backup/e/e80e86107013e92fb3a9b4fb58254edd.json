@@ -80,7 +80,7 @@
   "display_address": "Scouts - Ennerdale Campsite, Broadmoor Jubilee Trail, Ennerdale and Kinniside, Ennerdale Bridge, Cumberland, England, CA23 3AR, United Kingdom",
   "district": "Ennerdale Bridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -88,14 +88,12 @@
     "lake shore"
   ],
   "points_of_interest": [
-    "views",
-    "fells",
-    "woodland trails"
+    "viewpoint",
+    "natural landscape"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -116,29 +116,26 @@
   "display_address": "Holne Bridge, Holne, Ashburton, South Hams, Devon, England, TQ13 7NR, United Kingdom",
   "district": "South Hams",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "waterfront",
-    "grass"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "play area",
-    "iron age hillfort"
+    "castle",
+    "reservoir",
+    "abbey"
   ],
   "facilities": [
     "cafe",
     "restaurant",
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "hiking"
+    "walking"
   ]
 }

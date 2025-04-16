@@ -114,21 +114,21 @@
   "nominatim_found": true,
   "display_address": "Stourton with Gasper, Stourton, Wiltshire, England, BA12 6QD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "parkland"
+    "parkland",
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "architecture",
+    "grottoes",
+    "tower"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

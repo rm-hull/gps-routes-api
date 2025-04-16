@@ -109,8 +109,8 @@
   "postcode": "IP10 0LG",
   "district": "East Suffolk",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -118,17 +118,19 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "birdwatching",
-    "nature reserve"
+    "church",
+    "nature reserve",
+    "beach"
   ],
   "facilities": [
-    "car park",
     "pub/cafe",
+    "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

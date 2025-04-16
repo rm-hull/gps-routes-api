@@ -69,7 +69,7 @@
   "details": [],
   "video_url": "https://www.youtube.com/embed/BiM5YK7Eibc",
   "gazetteer_found": false,
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,18 +77,19 @@
     "woodland"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "historical sites",
-    "nature trails"
+    "historical site",
+    "viewpoint",
+    "gardens"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "wildlife spotting"
   ]
 }

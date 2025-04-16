@@ -119,16 +119,16 @@
   "nominatim_found": true,
   "display_address": "Station Road, Ringstead, North Northamptonshire, England, NN14 4TU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "waterfront",
+    "lake",
     "rural"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "villages"
+    "village",
+    "nature reserve"
   ],
   "facilities": [
     "car park",

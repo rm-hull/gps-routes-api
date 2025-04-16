@@ -95,24 +95,21 @@
   "postcode": "HP22 5NF",
   "district": "Halton",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "long distance trails"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "hiking"
+    "hill climbing"
   ]
 }

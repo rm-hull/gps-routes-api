@@ -68,7 +68,7 @@
   "nominatim_found": true,
   "display_address": "2,3, London Road, Montreal Park, Riverhead, Dunton Green, Sevenoaks, Kent, England, TN13 2DF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -78,8 +78,7 @@
   "points_of_interest": [
     "nature reserve",
     "village",
-    "lake",
-    "historical ruins"
+    "lake"
   ],
   "facilities": [
     "visitor center",

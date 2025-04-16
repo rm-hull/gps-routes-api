@@ -100,18 +100,15 @@
   "postcode": "KA19 7NS",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
-    "hill"
+    "waterfront"
   ],
   "points_of_interest": [
-    "views",
-    "local lochs",
-    "brooks"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

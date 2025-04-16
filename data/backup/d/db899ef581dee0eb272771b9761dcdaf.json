@@ -96,25 +96,26 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "bog",
-    "woodland",
-    "river"
+    "limestone",
+    "woodland"
   ],
   "points_of_interest": [
     "geological sites",
     "cultural heritage",
     "cave features",
-    "viewpoints",
-    "rare species"
+    "viewpoint",
+    "woodland"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "walled garden"
+    "walled garden",
+    "forest trails"
   ],
   "route_type": "circular",
   "activities": [

@@ -104,7 +104,7 @@
   "postcode": "PR3 2NL",
   "district": "Preston",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -113,8 +113,8 @@
     "farmland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "landmarks"
+    "viewpoint",
+    "landmark"
   ],
   "facilities": [
     "visitor center",

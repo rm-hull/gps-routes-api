@@ -119,19 +119,19 @@
   "display_address": "Winston Avenue, Croft, Blaby, Leicestershire, England, LE9 3ZG, United Kingdom",
   "postcode": "LE9 3ZG",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "footpath",
+    "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "geology",
-    "river"
+    "viewpoint",
+    "geological features"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

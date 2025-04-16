@@ -61,7 +61,7 @@
   "display_address": "University of Stirling, Airthrey Road, Causewayhead, Stirling, Alba / Scotland, FK9 5LE, United Kingdom",
   "postcode": "FK9 5LE",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -70,8 +70,7 @@
     "rocky"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

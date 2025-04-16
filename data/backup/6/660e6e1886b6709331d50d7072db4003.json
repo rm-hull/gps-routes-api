@@ -109,8 +109,8 @@
   "postcode": "WS15 3PL",
   "district": "East Staffordshire",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -124,7 +124,10 @@
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

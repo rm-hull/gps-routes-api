@@ -99,29 +99,30 @@
   "display_address": "Thomas Yeoman House, Leicester Row, Bishopsgate Green, Hillfields, Daimler Green, Coventry, West Midlands, England, CV1 4LH, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "canal towpath",
+    "canal",
     "countryside",
-    "woodland"
+    "park"
   ],
   "points_of_interest": [
-    "artworks",
+    "shops",
+    "art gallery",
+    "footpaths",
     "nature reserve",
-    "historical sites",
-    "viewpoints"
+    "bird watching"
   ],
   "facilities": [
     "visitor center",
+    "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
     "cycling",
-    "bird watching"
+    "walking"
   ]
 }

@@ -63,7 +63,7 @@
   "display_address": "Drapery Common, Glemsford, Babergh, Suffolk, England, CO10 7RW, United Kingdom",
   "postcode": "CO10 7RW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -71,15 +71,14 @@
     "river"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "historic halls",
-    "riverside scenery"
+    "historic hall",
+    "church"
   ],
   "facilities": [
     "pub",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

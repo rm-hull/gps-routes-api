@@ -95,17 +95,17 @@
   "region": null,
   "state": "Alba / Scotland",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "mountain"
+    "meadows",
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bridges"
+    "bridge",
+    "view"
   ],
   "facilities": [
     "car park"

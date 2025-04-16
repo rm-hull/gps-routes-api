@@ -106,22 +106,21 @@
   "display_address": "Bank Street, Summerlee, Blairhill, Coatbridge, North Lanarkshire, Alba / Scotland, ML5 1AW, United Kingdom",
   "postcode": "ML5 1AW",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
+    "canal",
     "woodland",
-    "waterfront",
     "grassland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "parkland"
+    "park"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

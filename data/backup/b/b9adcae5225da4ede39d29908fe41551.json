@@ -104,7 +104,7 @@
   "nominatim_found": true,
   "display_address": "Saltburn Road, Old Saltburn, Saltburn, Marske and New Marske, Saltburn by the Sea, Redcar and Cleveland, Tees Valley, England, TS12 1HF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,15 +112,18 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "gardens",
     "villages",
-    "seabird colony"
+    "harbour",
+    "cottages",
+    "seabird colony",
+    "quarry"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "dog friendly",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

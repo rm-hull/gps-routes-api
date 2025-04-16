@@ -73,17 +73,19 @@
   "nominatim_found": true,
   "display_address": "Mentmore, Buckinghamshire, England, LU7 0QF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
+  "difficulty": "moderate",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "historic sites",
-    "villages"
+    "historic estate",
+    "village"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

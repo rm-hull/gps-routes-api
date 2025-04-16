@@ -109,21 +109,22 @@
   "nominatim_found": true,
   "display_address": "Rock Road, St. Minver Lowlands, Rock, Cornwall, England, PL27 6LB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "beaches"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "shops",
-    "cafes"
+    "cafes",
+    "dog friendly",
+    "beach"
   ],
   "route_type": "out and back",
   "activities": [

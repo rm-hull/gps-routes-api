@@ -94,20 +94,20 @@
   "display_address": "A683, Sedbergh, Westmorland and Furness, England, LA10 5NF, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "waterfall",
-    "hill"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural scenery"
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "pub/cafe",
-    "footpath"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

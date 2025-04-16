@@ -56,27 +56,28 @@
   "postcode": "EH42 1XW",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "coastal",
-    "beach"
+    "beach",
+    "dunes"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical site",
+    "viewpoint",
+    "gannet colony"
   ],
   "facilities": [
     "car park",
-    "beach",
+    "dog friendly",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "swimming"
   ]
 }

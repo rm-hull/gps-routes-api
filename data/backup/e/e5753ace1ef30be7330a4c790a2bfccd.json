@@ -80,7 +80,7 @@
   "postcode": "AB35 5TB",
   "district": "Ballater",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -88,14 +88,14 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

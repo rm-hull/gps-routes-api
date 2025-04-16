@@ -52,7 +52,7 @@
   "district": "Bradford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -62,6 +62,7 @@
     "scenery"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

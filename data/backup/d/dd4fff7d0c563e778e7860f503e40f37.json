@@ -103,7 +103,7 @@
   "display_address": "Frog Lane, Great Bedwyn, Wiltshire, England, SN8 3PB, United Kingdom",
   "postcode": "SN8 3PB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -112,13 +112,16 @@
     "country lane"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "River Dun"
+    "historical place",
+    "church",
+    "windmill",
+    "river"
   ],
   "facilities": [
+    "visitor center",
+    "pub/cafe",
     "car park",
-    "pub/cafe"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

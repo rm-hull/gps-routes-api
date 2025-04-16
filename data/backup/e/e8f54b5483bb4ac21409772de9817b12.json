@@ -101,7 +101,7 @@
   "display_address": "Calderstones Road, Allerton, Liverpool, Liverpool City Region, England, L18 3HY, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,15 +110,15 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural features",
+    "megaliths",
+    "stream",
+    "tree",
     "garden"
   ],
   "facilities": [
     "cafe",
     "visitor center",
-    "car park",
-    "walking trail"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

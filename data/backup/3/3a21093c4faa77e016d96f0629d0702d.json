@@ -91,22 +91,23 @@
   "nominatim_found": true,
   "display_address": "Mill Road, Crickhowell, Powys, Cymru / Wales, NP8 1DS, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "field"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "Iron Age Hill Fort"
+    "historical site",
+    "viewpoint",
+    "hill fort"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

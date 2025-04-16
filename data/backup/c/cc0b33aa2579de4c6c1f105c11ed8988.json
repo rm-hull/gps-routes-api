@@ -96,23 +96,21 @@
   "nominatim_found": true,
   "display_address": "Grove Road, St Stephens, St Albans, Hertfordshire, England, AL1 1DH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "waterfront",
-    "parkland"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "museum",
-    "wildlife"
+    "historical site",
+    "museum"
   ],
   "facilities": [
-    "visitor center",
     "cafe",
     "splash park",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

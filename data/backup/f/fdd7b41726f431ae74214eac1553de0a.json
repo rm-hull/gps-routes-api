@@ -125,20 +125,20 @@
   "district": "Calderdale",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "waterfront"
+    "lake"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "rock formations"
+    "rock formation",
+    "village"
   ],
   "facilities": [
     "car park",
-    "pub/cafe"
+    "pub"
   ],
   "route_type": "circular",
   "activities": [

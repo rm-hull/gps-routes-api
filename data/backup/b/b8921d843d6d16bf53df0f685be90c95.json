@@ -110,7 +110,7 @@
   "nominatim_found": true,
   "display_address": "Walled Garden, Ransome Road, Far Cotton and Delapre, Far Cotton, West Northamptonshire, England, NN4 8AA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -119,12 +119,12 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "hill fort"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Broad Street, Presteigne, Powys, Cymru / Wales, LD8 2AE, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -86,12 +86,11 @@
   ],
   "points_of_interest": [
     "historic street",
-    "countryside views",
-    "river views"
+    "countryside"
   ],
   "facilities": [
-    "car park",
-    "bridge"
+    "river bridge",
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [
