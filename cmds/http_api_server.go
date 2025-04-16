@@ -2,21 +2,18 @@ package cmds
 
 import (
 	"context"
+	"fmt"
 	"log"
-	"log/slog"
 	"os"
-	"runtime/debug"
 	"time"
 
 	"github.com/Depado/ginprom"
 	ratelimit "github.com/JGLTechnologies/gin-rate-limit"
 	"github.com/aurowora/compress"
-	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
 	"github.com/jackc/pgx/v5/stdlib"
-	sloggin "github.com/samber/slog-gin"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
@@ -30,7 +27,7 @@ import (
 	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
-func NewHttpServer() {
+func NewHttpApiServer(port int) {
 
 	// Connect to Postgres
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
@@ -44,7 +41,6 @@ func NewHttpServer() {
 	defer pool.Close()
 
 	engine := gin.New()
-	logger := createLogger()
 
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
@@ -69,12 +65,7 @@ func NewHttpServer() {
 	})
 
 	engine.Use(
-		sloggin.NewWithConfig(logger, sloggin.Config{
-			WithSpanID:  true,
-			WithTraceID: true,
-			Filters: []sloggin.Filter{
-				sloggin.IgnorePath("/healthz", "/metrics"),
-			}}),
+		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
 		gin.Recovery(),
 		cors.Default(),
 		middlewares.ErrorHandler(),
@@ -109,21 +100,7 @@ func NewHttpServer() {
 		},
 	})
 
-	logger.
-		With("version", versioninfo.Short()).
-		Info("Server started")
-
-	err = router.Run(":8080")
-	logger.
-		With("error", err).
-		With("stack", string(debug.Stack())).
-		Error("Unhandled/unexpected crash")
-}
-
-func createLogger() *slog.Logger {
-	if gin.IsDebugging() {
-		return slog.New(slog.NewTextHandler(os.Stdout, nil))
-	}
-
-	return slog.New(slog.NewJSONHandler(os.Stdout, nil))
+	log.Printf("Starting HTTP API Server on port %d...", port)
+	err = router.Run(fmt.Sprintf(":%d", port))
+	log.Fatalf("HTTP API Server failed to start on port %d: %v", port, err)
 }
