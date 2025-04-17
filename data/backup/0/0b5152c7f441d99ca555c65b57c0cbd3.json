@@ -99,7 +99,7 @@
   "postcode": "GL52 3PZ",
   "district": "Tewkesbury",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -107,9 +107,8 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "ancient monument",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

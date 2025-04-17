@@ -71,16 +71,15 @@
   "nominatim_found": true,
   "display_address": "Brunel Road, Totton, Totton and Eling, Calmore, New Forest, Hampshire, England, SO40 3SA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "wildflowers",
-    "wildfowl",
+    "wild flowers",
     "bird hides"
   ],
   "facilities": [

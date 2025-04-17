@@ -106,7 +106,7 @@
   "postcode": "DL12 9TN",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
@@ -114,8 +114,8 @@
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river views"
+    "historical site",
+    "church"
   ],
   "facilities": [
     "car park",

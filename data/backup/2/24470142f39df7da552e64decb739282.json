@@ -114,7 +114,7 @@
   "postcode": "ST4 8AY",
   "district": "Stoke-on-Trent",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -123,14 +123,15 @@
     "lake"
   ],
   "points_of_interest": [
-    "gardens",
-    "wildlife",
-    "historical sites",
-    "viewpoints"
+    "maze",
+    "miniature railway",
+    "deer park",
+    "monkey forest",
+    "heronry"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "miniature railway",
     "boardwalk"
   ],
   "route_type": "circular",

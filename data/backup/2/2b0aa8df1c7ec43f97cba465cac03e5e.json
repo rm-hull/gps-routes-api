@@ -90,21 +90,22 @@
   "nominatim_found": true,
   "display_address": "Marsh Drive, Giffard Park, Great Linford, Milton Keynes, City of Milton Keynes, England, MK14 5AS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "bridleway",
-    "road"
+    "countryside",
+    "bridleways"
   ],
   "points_of_interest": [
     "nature reserve",
     "wildfowl centre",
-    "historic village",
-    "manor house"
+    "church",
+    "manor house",
+    "cottages"
   ],
   "facilities": [
+    "car park",
     "waymarking"
   ],
   "route_type": "circular",

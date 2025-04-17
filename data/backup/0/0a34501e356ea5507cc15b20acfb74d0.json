@@ -96,13 +96,12 @@
   "display_address": "Station Approach, Woodford Bridge, London Borough of Redbridge, London, Greater London, England, IG9 6EY, United Kingdom",
   "postcode": "IG9 6EY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "park",
-    "river"
+    "park"
   ],
   "points_of_interest": [
     "nature reserve",
@@ -110,8 +109,10 @@
     "trail"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

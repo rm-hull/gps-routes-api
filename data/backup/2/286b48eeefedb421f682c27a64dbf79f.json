@@ -96,8 +96,8 @@
   "nominatim_found": true,
   "display_address": "The Bedford, 1, Plymouth Road, Tavistock, West Devon, Devon, England, PL19 8BB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -109,9 +109,9 @@
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -115,25 +115,25 @@
   "nominatim_found": true,
   "display_address": "Cranford Lane, London Borough of Hillingdon, London, Greater London, England, UB3 5HE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterside"
+    "waterside",
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural habitats"
+    "countryside",
+    "reservoir",
+    "railway"
   ],
   "facilities": [
     "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -103,20 +103,20 @@
   "nominatim_found": true,
   "display_address": "6, Clopton Gardens, Hadleigh, Babergh, Suffolk, England, IP7 5JG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "woodland"
+    "paved path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river"
+    "historical site",
+    "town centre",
+    "natural area"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "river"
   ],
   "route_type": "out and back",
   "activities": [

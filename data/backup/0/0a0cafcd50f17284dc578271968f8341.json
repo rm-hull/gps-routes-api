@@ -85,8 +85,8 @@
   "postcode": "DN22 8RB",
   "district": "Bassetlaw",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -94,12 +94,11 @@
     "grassland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "wildlife"
   ],
   "facilities": [
     "car park",
-    "canal access"
+    "visitor center"
   ],
   "route_type": "loop",
   "activities": [

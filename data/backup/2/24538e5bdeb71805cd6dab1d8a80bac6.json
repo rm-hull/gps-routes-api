@@ -104,13 +104,13 @@
   "postcode": "GU46 6BB",
   "district": "Hart",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "heathland",
-    "ponds"
+    "pond"
   ],
   "points_of_interest": [
     "woodland trails",
@@ -118,12 +118,11 @@
     "animal park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

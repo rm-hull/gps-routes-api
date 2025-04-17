@@ -100,25 +100,24 @@
   "display_address": "Ferry Road, Studland, Dorset, England, BH19 3BA, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "heathland",
-    "coastal"
+    "dunes",
+    "heathland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "birdlife",
+    "lake",
+    "views"
   ],
   "facilities": [
     "car park",
     "bird hides",
-    "wheelchair accessible"
+    "ferry"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

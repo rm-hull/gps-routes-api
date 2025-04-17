@@ -114,7 +114,7 @@
   "nominatim_found": true,
   "display_address": "Higher Park Lane, North Wheddon Farm, Cutcombe, Wheddon Cross, Somerset, England, TA24 7ER, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -122,13 +122,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -86,7 +86,7 @@
   "postcode": "FK8 3TU",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -94,13 +94,14 @@
     "river"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "natural scenery"
+    "waterfall",
+    "river"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

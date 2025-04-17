@@ -89,7 +89,7 @@
   "nominatim_found": true,
   "display_address": "The Esplanade, Sidmouth, East Devon, Devon, England, EX10 8BG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -97,16 +97,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "beaches",
+    "viewpoint",
     "geological features",
     "wildflowers"
   ],
   "facilities": [
     "car park",
     "beach",
-    "National Trust properties",
-    "fishing boats"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

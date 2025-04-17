@@ -124,8 +124,8 @@
   "nominatim_found": true,
   "display_address": "Pages, 29, High Street, Cranbrook & Sissinghurst, Cranbrook, Tunbridge Wells, Kent, England, TN17 3EE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "3 miles",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
@@ -133,14 +133,14 @@
   ],
   "points_of_interest": [
     "historical buildings",
-    "gardens",
-    "parkland"
+    "windmill",
+    "village"
   ],
   "facilities": [
     "pub",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "clock mechanism"
   ],
   "route_type": "circular",
   "activities": [

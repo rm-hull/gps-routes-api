@@ -65,22 +65,23 @@
   "display_address": "Ballam Road, Lytham St Annes, Fylde, Lancashire, England, FY8 4TS, United Kingdom",
   "postcode": "FY8 4TS",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "garden",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "picnic area"
   ],
   "route_type": "circular",
   "activities": [

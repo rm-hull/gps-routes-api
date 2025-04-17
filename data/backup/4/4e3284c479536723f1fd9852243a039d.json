@@ -104,7 +104,7 @@
   "display_address": "The Falcon Steakhouse, 20, Church Street, Wotton-under-Edge, Stroud, Gloucestershire, England, GL12 7HB, United Kingdom",
   "postcode": "GL12 7HB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,16 +112,19 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical landmarks",
-    "geological sites"
+    "viewpoint",
+    "landmark",
+    "geological site"
   ],
   "facilities": [
+    "visitor center",
+    "pub/cafe",
     "car park",
-    "pub/cafe"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "climbing"
   ]
 }

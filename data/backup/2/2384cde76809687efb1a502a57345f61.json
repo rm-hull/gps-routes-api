@@ -116,23 +116,22 @@
   "nominatim_found": true,
   "display_address": "The Ridgeway, West Overton, East Kennett, Wiltshire, England, SN8 4EY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "chalk ridge",
-    "hill",
-    "river"
+    "hill"
   ],
   "points_of_interest": [
     "iron age forts",
-    "historical landmarks",
-    "viewpoints"
+    "white horse",
+    "river"
   ],
   "facilities": [
-    "river access"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

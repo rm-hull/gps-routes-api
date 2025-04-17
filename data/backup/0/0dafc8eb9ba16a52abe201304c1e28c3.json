@@ -86,17 +86,17 @@
   "nominatim_found": true,
   "display_address": "Somerford Keynes, Cotswold, Gloucestershire, England, GL7 6DX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "waterfront",
+    "lake",
     "path"
   ],
   "points_of_interest": [
-    "historical sites",
-    "sculptures",
-    "views"
+    "manor house",
+    "church",
+    "sculpture park"
   ],
   "facilities": [
     "car park",

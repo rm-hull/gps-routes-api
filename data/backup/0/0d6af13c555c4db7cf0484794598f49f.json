@@ -100,7 +100,7 @@
   "display_address": "Friary Bridge, Millbrook, Guildford Park, Guildford, Surrey, England, GU1 4SZ, United Kingdom",
   "postcode": "GU1 4SZ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -112,11 +112,11 @@
     "canals"
   ],
   "facilities": [
-    "train station",
-    "cricket ground",
-    "visitor center"
+    "visitor center",
+    "car park",
+    "train station"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

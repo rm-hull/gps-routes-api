@@ -139,7 +139,7 @@
   "postcode": "PO8 0QE",
   "district": "East Hampshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -148,13 +148,13 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "long distance trails"
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "guided walk"
   ],
   "route_type": "circular",
   "activities": [

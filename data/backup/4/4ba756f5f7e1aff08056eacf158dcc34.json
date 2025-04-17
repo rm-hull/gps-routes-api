@@ -113,7 +113,7 @@
   "nominatim_found": true,
   "display_address": "Church Street, Kingham, West Oxfordshire, Oxfordshire, England, OX7 6YA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -121,14 +121,15 @@
     "rural"
   ],
   "points_of_interest": [
-    "historic churches",
+    "church",
     "nature reserve",
-    "village greens"
+    "village"
   ],
   "facilities": [
-    "pub",
-    "church",
-    "footpaths"
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

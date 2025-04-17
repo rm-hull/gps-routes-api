@@ -69,21 +69,20 @@
   "postcode": "NG16 2RT",
   "district": "Broxtowe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
   "difficulty": "easy",
   "terrain": [
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "church",
+    "alms houses"
   ],
   "facilities": [
-    "church",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

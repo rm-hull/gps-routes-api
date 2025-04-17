@@ -105,23 +105,24 @@
   "postcode": "GL16 7EG",
   "district": "Forest of Dean",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "natural"
+    "lake"
   ],
   "points_of_interest": [
     "sculptures",
-    "nature reserves",
-    "historical sites"
+    "nature reserve",
+    "mosaic of trees"
   ],
   "facilities": [
     "visitor center",
     "picnic site",
     "playground",
-    "car park"
+    "car park",
+    "railway path"
   ],
   "route_type": "circular",
   "activities": [

@@ -71,7 +71,7 @@
   "postcode": "NG12 2LU",
   "district": "Rushcliffe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -85,12 +85,13 @@
   "facilities": [
     "bike hire",
     "car park",
-    "watersports"
+    "watersports center"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
     "cycling",
-    "watersports"
+    "kayaking",
+    "windsurfing"
   ]
 }

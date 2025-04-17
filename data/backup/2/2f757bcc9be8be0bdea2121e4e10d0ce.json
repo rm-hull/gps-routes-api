@@ -91,18 +91,20 @@
   "postcode": null,
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
-    "natural features",
-    "local legends"
+    "historical site",
+    "natural attraction"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

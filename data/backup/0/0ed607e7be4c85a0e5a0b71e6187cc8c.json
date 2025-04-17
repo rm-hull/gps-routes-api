@@ -124,16 +124,17 @@
   "nominatim_found": true,
   "display_address": "B6343, Mitford, Northumberland, North East, England, NE61 3PS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "castle ruins",
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park"

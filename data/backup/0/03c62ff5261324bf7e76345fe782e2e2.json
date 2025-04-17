@@ -72,15 +72,16 @@
   "nominatim_found": true,
   "display_address": "La Villetta, The Street, Bramley, Basingstoke and Deane, Hampshire, England, RG26 5BP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "country"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historic church",
+    "Roman fort",
     "village"
   ],
   "facilities": [

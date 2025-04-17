@@ -134,7 +134,7 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -142,9 +142,10 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "views"
+    "historic site",
+    "sculpted garden",
+    "coastal views",
+    "ruined church"
   ],
   "facilities": [
     "visitor center",

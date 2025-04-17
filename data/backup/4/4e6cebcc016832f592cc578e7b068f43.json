@@ -71,27 +71,24 @@
   "postcode": "PA19 1BB",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "beach",
-    "grassland",
-    "water"
+    "grassland"
   ],
   "points_of_interest": [
-    "picnic areas",
     "visitor center",
-    "nature trails"
+    "picnic area"
   ],
   "facilities": [
     "picnic benches",
-    "visitor center",
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

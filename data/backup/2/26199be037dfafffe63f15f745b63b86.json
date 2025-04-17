@@ -71,23 +71,21 @@
   "postcode": null,
   "district": "Huntingdonshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland",
-    "wetland"
+    "ponds"
   ],
   "points_of_interest": [
-    "wildflower meadows",
-    "bird hides",
-    "information points"
+    "information points",
+    "bird hides"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

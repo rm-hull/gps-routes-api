@@ -77,19 +77,19 @@
   "display_address": "Brampford Speke, East Devon, Devon, England, EX5 5HE, United Kingdom",
   "postcode": "EX5 5HE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
+    "countryside",
     "river"
   ],
   "points_of_interest": [
-    "countryside views",
-    "historical inn"
+    "countryside views"
   ],
   "facilities": [
-    "pub"
+    "pub/cafe",
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

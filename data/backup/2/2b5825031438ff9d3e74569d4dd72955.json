@@ -77,22 +77,21 @@
   "nominatim_found": true,
   "display_address": "Wharton Road, Wharton, Winsford, Cheshire West and Chester, England, CW7 3AA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "woodland",
-    "river"
+    "river",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "wildlife"
   ],
   "facilities": [
     "car park",
-    "dog friendly",
-    "shared walking and cycling path"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

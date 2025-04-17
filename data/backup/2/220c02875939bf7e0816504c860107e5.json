@@ -100,7 +100,7 @@
   "display_address": "The Book Lounge, 12, Main Street, Low Biggins, Kirkby Lonsdale, Westmorland and Furness, England, LA6 2AE, United Kingdom",
   "postcode": "LA6 2AE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,10 +109,9 @@
     "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "villages",
-    "views"
+    "historical site",
+    "viewpoint",
+    "village"
   ],
   "facilities": [
     "car park",

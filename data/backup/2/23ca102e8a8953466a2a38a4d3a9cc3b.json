@@ -104,21 +104,20 @@
   "nominatim_found": true,
   "display_address": "Lochinch Road, Hazelwood, Dumbreck, Glasgow, Glasgow City, Alba / Scotland, G41 4SN, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "grassland"
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "garden",
+    "house"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -38,7 +38,7 @@
   "display_address": "Consall Forge, Consall, Staffordshire Moorlands, Staffordshire, England, ST9 0BE, United Kingdom",
   "district": "Staffordshire Moorlands",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -46,12 +46,14 @@
     "natural"
   ],
   "points_of_interest": [
-    "nature trails",
-    "canal"
+    "follies",
+    "summer houses",
+    "bridges"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

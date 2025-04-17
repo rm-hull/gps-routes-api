@@ -70,21 +70,21 @@
   "nominatim_found": true,
   "display_address": "Gnoll Crescent, Cimla, Neath, Neath Port Talbot, Cymru / Wales, SA11 3TF, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "waterfront"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical ruins",
+    "ruins",
     "waterfalls",
-    "river views"
+    "canal"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

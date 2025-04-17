@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "366, Bepton Road, Midhurst, Chichester, West Sussex, England, GU29 9NB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -98,7 +98,7 @@
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

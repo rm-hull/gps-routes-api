@@ -96,12 +96,12 @@
   "nominatim_found": true,
   "display_address": "Truru, Malpas, St. Clement, Cornwall, England, TR1 1SY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "woodland"
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
     "village",
@@ -110,7 +110,7 @@
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

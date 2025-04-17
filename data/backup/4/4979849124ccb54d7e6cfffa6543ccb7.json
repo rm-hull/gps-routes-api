@@ -144,7 +144,7 @@
   "nominatim_found": true,
   "display_address": "Town Quay, Cowes, Isle of Wight, England, PO31 7AS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -152,16 +152,23 @@
     "chalk down"
   ],
   "points_of_interest": [
-    "wildlife reserve",
-    "historical sites",
-    "viewpoints"
+    "wildlife nature reserve",
+    "town",
+    "castle",
+    "lighthouse",
+    "gardens",
+    "state rooms",
+    "gallery",
+    "historical site"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "hotel/restaurant",
+    "pub/cafe",
+    "car park",
+    "dog friendly",
     "beach",
-    "wheelchair accessible"
+    "hotel",
+    "restaurant"
   ],
   "route_type": "circular",
   "activities": [

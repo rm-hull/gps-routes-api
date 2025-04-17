@@ -105,7 +105,7 @@
   "postcode": "BB7 3AT",
   "district": "Ribble Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,12 +114,14 @@
     "valley"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "village",
+    "reservoir",
+    "fell"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "pub/cafe",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

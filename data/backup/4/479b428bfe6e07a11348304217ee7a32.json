@@ -84,8 +84,8 @@
   "postcode": "WA3 6EA",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "waterfront",
@@ -93,7 +93,6 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical site",
     "lighthouse",
     "village"
   ],
@@ -104,6 +103,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

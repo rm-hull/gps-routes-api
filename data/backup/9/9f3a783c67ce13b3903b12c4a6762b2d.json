@@ -89,16 +89,15 @@
   "nominatim_found": true,
   "display_address": "Ash Trees, Hickling Lane, Hickling, Rushcliffe, Nottinghamshire, East Midlands, England, LE14 3AH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal towpath",
+    "canal",
     "rural"
   ],
   "points_of_interest": [
-    "countryside views",
-    "village"
+    "countryside views"
   ],
   "facilities": [
     "pub/cafe",

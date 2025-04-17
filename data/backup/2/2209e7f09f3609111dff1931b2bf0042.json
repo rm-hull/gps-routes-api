@@ -96,24 +96,24 @@
   "nominatim_found": true,
   "display_address": "Station Road, Wylam Wood, Wylam, Northumberland, North East, England, NE41 8JA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "meadows"
+    "meadows",
+    "wetlands"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "visitor center"
+    "visitor center",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "refreshments"
+    "pub/cafe"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

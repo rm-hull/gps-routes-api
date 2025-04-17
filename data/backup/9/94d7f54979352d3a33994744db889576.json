@@ -69,25 +69,25 @@
   "nominatim_found": true,
   "display_address": "High Street, West Suffolk, Suffolk, England, CO10 8AS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "woodland"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "church",
     "park",
-    "wildlife"
+    "railway station"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

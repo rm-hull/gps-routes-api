@@ -131,17 +131,15 @@
   "nominatim_found": true,
   "display_address": "Mylor Bridge car park, New Row, Mylor, Mylor Bridge, Cornwall, England, TR11 5NB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "waterfront",
-    "rural"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterways",
+    "historic waterway",
     "countryside"
   ],
   "facilities": [

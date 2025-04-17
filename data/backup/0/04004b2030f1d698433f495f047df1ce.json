@@ -94,17 +94,15 @@
   "display_address": "Low Road, Halton Green, Halton-with-Aughton, Caton, Lancaster, Lancashire, England, LA2 9HU, United Kingdom",
   "district": "Lancaster",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
-    "path",
-    "woodland"
+    "woodland",
+    "river"
   ],
   "points_of_interest": [
-    "river views",
-    "bridges",
-    "countryside",
+    "viewpoint",
     "wildlife"
   ],
   "facilities": [

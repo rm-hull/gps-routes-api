@@ -75,23 +75,22 @@
   "nominatim_found": true,
   "display_address": "Central Drive, West End, Morecambe, Lancaster, Lancashire, England, LA4 4DE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural",
-    "coastal"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "monastery",
     "villages",
-    "wildlife"
+    "manor house"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

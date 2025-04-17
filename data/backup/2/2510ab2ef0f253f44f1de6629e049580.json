@@ -77,7 +77,7 @@
   "display_address": "Town Street, Swanton Morley, Breckland, Norfolk, England, NR20 4PB, United Kingdom",
   "postcode": "NR20 4PB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,13 @@
     "river"
   ],
   "points_of_interest": [
-    "villages",
-    "churches",
-    "river views"
+    "church",
+    "village",
+    "nature reserve"
   ],
   "facilities": [
-    "pub",
-    "visitor center"
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

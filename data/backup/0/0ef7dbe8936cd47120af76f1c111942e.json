@@ -100,18 +100,18 @@
   "postcode": "S33 0AQ",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moorland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical site",
+    "viewpoint",
+    "rock formations"
   ],
   "facilities": [
     "visitor center",

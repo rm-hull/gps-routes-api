@@ -140,7 +140,7 @@
   "postcode": "DN12 3DG",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -151,13 +151,12 @@
   "points_of_interest": [
     "historical ruins",
     "river trail",
-    "nature reserve",
-    "waterfalls"
+    "viaduct"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "footbridge",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

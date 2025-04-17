@@ -138,20 +138,20 @@
   "nominatim_found": true,
   "display_address": "Platform 1, Randalls Road, Leatherhead, Mole Valley, Surrey, England, KT22 7TB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "grassland"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "park"
+    "viewpoint",
+    "chapel",
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "train station"
   ],

@@ -120,7 +120,7 @@
   "display_address": "Direct Line Group, Neville Street, Holbeck Urban Village, Lovell Park, Leeds, West Yorkshire, England, LS1 4BQ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -129,19 +129,20 @@
     "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature reserves",
-    "monastery ruins",
-    "woodland trails",
-    "market town"
+    "historical site",
+    "nature reserve",
+    "monastery",
+    "woodland"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "mill"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

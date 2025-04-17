@@ -72,12 +72,11 @@
   "nominatim_found": true,
   "display_address": "Norton Road, Thurston, Mid Suffolk, Suffolk, England, IP31 3TQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "paved",
-    "path"
+    "paved"
   ],
   "points_of_interest": [
     "historic abbey",
@@ -86,13 +85,10 @@
   ],
   "facilities": [
     "pub",
-    "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

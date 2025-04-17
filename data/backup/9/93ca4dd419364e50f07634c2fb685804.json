@@ -96,22 +96,19 @@
   "postcode": "PL27 6TF",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "3-4 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "cliff top"
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "beaches"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "beach"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -76,12 +76,11 @@
   "display_address": "Twnell Y Waun / Chirk Tunnel, Castle Road, Rhosywaun, Chirk, Wrexham, Cymru / Wales, LL14 5BQ, United Kingdom",
   "postcode": "LL14 5BQ",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "canal towpath",
-    "rural"
+    "canal"
   ],
   "points_of_interest": [
     "historic castle",

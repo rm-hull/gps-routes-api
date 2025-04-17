@@ -77,18 +77,19 @@
   "display_address": "Crowthorne Road, Crowthorne, Bracknell Forest, England, RG45 7PP, United Kingdom",
   "postcode": "RG45 7PP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "grassland"
   ],
   "points_of_interest": [
+    "country park",
+    "nature reserve",
     "memorial park",
-    "river valley footpath",
-    "country parks",
-    "nature reserve"
+    "river footpath",
+    "ridges"
   ],
   "facilities": [
     "car park",

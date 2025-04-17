@@ -98,7 +98,7 @@
   "display_address": "West Cliff, Cromer, North Norfolk, Norfolk, England, NR27 9HP, United Kingdom",
   "postcode": "NR27 9HP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -106,12 +106,11 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

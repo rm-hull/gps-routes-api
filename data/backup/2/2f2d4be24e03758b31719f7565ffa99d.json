@@ -126,16 +126,17 @@
   "postcode": "CA8 2PL",
   "district": "Hallbankgate",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "hill"
+    "hill",
+    "forest",
+    "quarry"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "village",
+    "hill"
   ],
   "facilities": [
     "car park",

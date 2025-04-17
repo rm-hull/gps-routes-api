@@ -91,7 +91,7 @@
   "nominatim_found": true,
   "display_address": "Lina Tandoori, 16, Whitchurch Road, Reading, West Berkshire, England, RG8 7BP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -99,8 +99,8 @@
     "road"
   ],
   "points_of_interest": [
-    "trails",
-    "estate"
+    "estate",
+    "manor"
   ],
   "facilities": [
     "car park"

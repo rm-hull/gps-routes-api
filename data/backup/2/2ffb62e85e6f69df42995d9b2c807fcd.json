@@ -114,21 +114,23 @@
   "postcode": "TA5 1EN",
   "district": "Kilve",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "beach",
+    "village",
+    "manor house"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "duck pond",
+    "mill house"
   ],
   "route_type": "circular",
   "activities": [

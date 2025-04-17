@@ -69,20 +69,19 @@
   "display_address": "Grassington Church of England Voluntary Controlled Primary School, Acre Lane, Skipton, North Yorkshire, York and North Yorkshire, England, BD23 5LB, United Kingdom",
   "postcode": "BD23 5LB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
     "limestone"
   ],
   "points_of_interest": [
-    "historic houses",
-    "waterfalls",
-    "viewpoints",
+    "museum",
+    "viewpoint",
     "gardens",
-    "reservoir"
+    "reservoir",
+    "valley"
   ],
   "facilities": [
     "pub/cafe",

@@ -90,7 +90,7 @@
   "postcode": "NP7 8UG",
   "district": "Skenfrith",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,9 +98,12 @@
     "hill"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

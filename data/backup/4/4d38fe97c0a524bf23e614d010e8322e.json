@@ -52,21 +52,22 @@
   "display_address": "Watling Street, Affetside, Bury, Greater Manchester, England, BL8 3QN, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "waterfront"
+    "country park",
+    "reservoir",
+    "canal"
   ],
   "points_of_interest": [
-    "country parks",
-    "historic estates",
-    "memorials"
+    "country park",
+    "memorial",
+    "estate"
   ],
   "facilities": [
     "car park",
-    "canal"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

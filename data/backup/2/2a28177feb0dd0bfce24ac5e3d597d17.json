@@ -91,21 +91,21 @@
   "nominatim_found": true,
   "display_address": "Balwest, Germoe, Cornwall, England, TR13 9TF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "heathland",
     "hill"
   ],
   "points_of_interest": [
-    "Iron Age hillfort",
+    "hillfort",
     "war memorial",
-    "visible landmarks"
+    "landmarks"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

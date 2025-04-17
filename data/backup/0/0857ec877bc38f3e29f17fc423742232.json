@@ -99,17 +99,15 @@
   "nominatim_found": true,
   "display_address": "Turks Lane, Parkstone, Poole, Bournemouth, Christchurch and Poole, England, BH14 8EW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "waterfront"
+    "coastal"
   ],
   "points_of_interest": [
-    "views",
-    "birdlife",
-    "marina"
+    "viewpoint",
+    "harbour"
   ],
   "facilities": [
     "car park",
@@ -118,7 +116,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

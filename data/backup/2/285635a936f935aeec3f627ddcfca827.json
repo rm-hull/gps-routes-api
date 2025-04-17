@@ -114,7 +114,7 @@
   "nominatim_found": true,
   "display_address": "Selworthy Lane, Selworthy, Somerset, England, TA24 8TP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -123,15 +123,15 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "viewpoint",
+    "historical site",
+    "bridge"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "pack horse bridge",
-    "cottages"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

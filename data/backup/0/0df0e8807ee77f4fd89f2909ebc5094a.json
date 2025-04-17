@@ -109,22 +109,24 @@
   "postcode": "EX23 9SP",
   "district": "Morwenstow",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "church",
+    "farm",
+    "hut"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

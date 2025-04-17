@@ -114,22 +114,24 @@
   "nominatim_found": true,
   "display_address": "Hylton Street, Waldridge Road, Waldridge Park, Waldridge, Chester Moor, Durham, County Durham, North East, England, DH2 3BU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "heathland",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "historical site",
+    "nature trail"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "nature watching"
   ]
 }

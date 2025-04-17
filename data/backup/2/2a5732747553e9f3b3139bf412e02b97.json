@@ -86,24 +86,21 @@
   "postcode": "SY23 3PG",
   "district": "Goginan",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "bird watching",
+    "viewpoint",
     "scenery"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "cafe",
-    "dog friendly",
-    "waterside trail"
+    "bird hides"
   ],
   "route_type": "circular",
   "activities": [

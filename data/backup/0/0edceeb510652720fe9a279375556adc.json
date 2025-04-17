@@ -96,7 +96,7 @@
   "postcode": "RH17 6TN",
   "district": "Mid Sussex",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -105,10 +105,9 @@
     "water"
   ],
   "points_of_interest": [
-    "botanic gardens",
-    "historical house",
-    "seed bank",
-    "landscape trail"
+    "garden",
+    "house",
+    "seed bank"
   ],
   "facilities": [
     "car park",

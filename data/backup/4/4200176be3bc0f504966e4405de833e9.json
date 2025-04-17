@@ -104,7 +104,7 @@
   "postcode": "SA3 1LS",
   "district": "Oxwich",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,9 +112,8 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "beach"
+    "church",
+    "wood"
   ],
   "facilities": [
     "car park",

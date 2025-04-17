@@ -81,16 +81,16 @@
   "district": "St Helens",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "trails",
-    "sculpture"
+    "sculpture",
+    "trails"
   ],
   "facilities": [
     "picnic areas",

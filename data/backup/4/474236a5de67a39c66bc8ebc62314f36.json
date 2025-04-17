@@ -71,7 +71,7 @@
   "nominatim_found": true,
   "display_address": "Dowells Farm, Steart Road, Steart, Otterhampton, Bridgwater, Somerset, England, TA5 2PX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -80,13 +80,12 @@
     "estuary"
   ],
   "points_of_interest": [
-    "bird watching",
-    "wildflower viewing",
-    "waterfront views"
+    "bird hide",
+    "wildflower areas"
   ],
   "facilities": [
     "car park",
-    "bird hide"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

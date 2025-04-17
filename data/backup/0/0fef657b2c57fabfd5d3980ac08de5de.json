@@ -99,7 +99,7 @@
   "postcode": "EX5 1JL",
   "district": "East Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,19 +108,19 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "hill fort",
     "nature reserve",
-    "wildlife spotting"
+    "lake"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible",
-    "dog friendly"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

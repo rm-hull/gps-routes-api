@@ -154,18 +154,17 @@
   "postcode": "LL53 7TT",
   "district": "Llanbedrog",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
+    "beach",
     "woodland",
     "heathland"
   ],
   "points_of_interest": [
-    "views",
-    "beach",
-    "sand dunes"
+    "viewpoint",
+    "beach"
   ],
   "facilities": [
     "car park",

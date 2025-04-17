@@ -123,23 +123,24 @@
   "display_address": "Lake Meadows Access Road, Queens Park, Billericay, Basildon, Essex, England, CM12 0DT, United Kingdom",
   "postcode": "CM12 0DT",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "lake",
+    "wood"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -95,23 +95,22 @@
   "postcode": "PA33 1AE",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "path",
     "grass"
   ],
   "points_of_interest": [
-    "views",
     "castle",
-    "waterfall"
+    "views"
   ],
   "facilities": [
     "car park",
-    "railway station"
+    "jetty"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

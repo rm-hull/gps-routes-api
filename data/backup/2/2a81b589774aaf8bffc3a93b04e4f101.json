@@ -75,17 +75,17 @@
   "postcode": "WN3 5NY",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "canal",
     "woodland",
+    "wetland",
     "grassland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "wildlife viewing"
+    "canal"
   ],
   "facilities": [
     "car park",

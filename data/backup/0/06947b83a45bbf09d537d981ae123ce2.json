@@ -104,23 +104,20 @@
   "postcode": "HR1 4NA",
   "district": "Mordiford",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "historical"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "orchards",
-    "hillforts",
-    "river"
+    "hillfort",
+    "village"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "bridge"
   ],
   "route_type": "circular",
   "activities": [

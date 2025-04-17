@@ -109,7 +109,7 @@
   "postcode": "PL20 6PF",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,13 +117,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

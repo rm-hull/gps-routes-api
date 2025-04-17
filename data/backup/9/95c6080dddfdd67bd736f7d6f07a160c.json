@@ -114,24 +114,25 @@
   "display_address": "Church Street, Glebe Farm, Denton, South Kesteven, Lincolnshire, England, NG32 1LE, United Kingdom",
   "postcode": "NG32 1LE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "grass",
+    "grassland",
     "woodland",
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "country lanes"
+    "historical site",
+    "parkland",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

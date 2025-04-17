@@ -29,29 +29,27 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "lake",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "views",
-    "bird watching",
-    "historical sites"
+    "viewpoint",
+    "monastery",
+    "information board"
   ],
   "facilities": [
     "car park",
     "picnic areas",
-    "information board",
-    "kayak rental",
-    "swimming"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "swimming"
+    "swimming",
+    "kayaking"
   ]
 }

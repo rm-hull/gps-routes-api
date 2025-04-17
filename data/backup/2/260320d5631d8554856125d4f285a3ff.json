@@ -111,17 +111,15 @@
   "postcode": "HG4 4BQ",
   "district": "Thornton Steward",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "40 minutes to an hour",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "waterfront"
+    "rural"
   ],
   "points_of_interest": [
-    "historic sites",
-    "villages",
-    "countryside"
+    "historic site",
+    "village"
   ],
   "facilities": [
     "car park"

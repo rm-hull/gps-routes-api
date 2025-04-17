@@ -66,16 +66,16 @@
   "district": "Birmingham",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "birdwatching"
+    "viewpoint",
+    "birdwatching area"
   ],
   "facilities": [
     "car park"

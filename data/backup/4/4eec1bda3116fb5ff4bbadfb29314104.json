@@ -95,7 +95,7 @@
   "postcode": "NN7 2HA",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -103,13 +103,15 @@
     "chalk"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

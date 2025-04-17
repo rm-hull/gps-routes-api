@@ -84,18 +84,17 @@
   "district": "Salford",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "meadow"
+    "meadows",
+    "lake"
   ],
   "points_of_interest": [
     "sculptures",
-    "wildlife",
-    "birdwatching"
+    "birdlife"
   ],
   "facilities": [
     "car park",
@@ -105,6 +104,7 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

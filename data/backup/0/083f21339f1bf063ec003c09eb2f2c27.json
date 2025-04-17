@@ -130,26 +130,28 @@
   "nominatim_found": true,
   "display_address": "St. Andrews Holiday Park, A917, St Andrews, Fife, Alba / Scotland, KY16 8TT, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
     "beaches",
-    "geological rock formations",
+    "geological formations",
     "coastal villages",
-    "historical sites"
+    "architecture",
+    "church",
+    "caves"
   ],
   "facilities": [
-    "car park",
-    "dog friendly",
     "fish bar",
-    "shop"
+    "shop",
+    "church",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

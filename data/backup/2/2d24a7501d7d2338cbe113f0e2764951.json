@@ -89,28 +89,29 @@
   "display_address": "Minsmere Road, Dunwich, East Suffolk, Suffolk, England, IP17 3DQ, United Kingdom",
   "district": "East Suffolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "heathland",
-    "coastal",
-    "woodland"
+    "woodland",
+    "marshland",
+    "wet grassland",
+    "shingle"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "conservation areas",
     "wildlife"
   ],
   "facilities": [
     "tea room",
     "shop",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "birdwatching"
   ]
 }

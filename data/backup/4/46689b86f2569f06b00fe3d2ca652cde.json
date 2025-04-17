@@ -88,19 +88,20 @@
   "display_address": "Castle Neroche, Castlemain, Blackwater, Buckland St Mary, Somerset, England, TA20 3LF, United Kingdom",
   "district": "Buckland St Mary",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "hill"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "information boards"
   ],
   "route_type": "circular",

@@ -77,24 +77,23 @@
   "nominatim_found": true,
   "display_address": "A67, Egglescliffe Village, Egglescliffe, Stockton-on-Tees, Tees Valley, England, TS16 0JF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "river",
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserves",
-    "historical sites",
-    "woodland trails"
+    "historical site"
   ],
   "facilities": [
-    "bus",
-    "train",
     "car park",
-    "wheelchair accessible",
-    "play area"
+    "bus stop",
+    "train station",
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

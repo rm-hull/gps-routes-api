@@ -80,7 +80,7 @@
   "postcode": "CA12 5XJ",
   "district": "Seatoller",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -88,7 +88,7 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "panoramic views"
   ],
   "facilities": [
@@ -96,6 +96,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "scrambling"
   ]
 }

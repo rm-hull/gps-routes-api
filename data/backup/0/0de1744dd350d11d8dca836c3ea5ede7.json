@@ -100,20 +100,20 @@
   "nominatim_found": true,
   "display_address": "London Road, Kippington, Sevenoaks, Kent, England, TN13 1DW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland",
     "grassland",
-    "wood pasture"
+    "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
+    "historical site",
+    "park",
     "manor house",
-    "estate"
+    "gardens"
   ],
   "facilities": [
     "visitor center",

@@ -121,25 +121,26 @@
   "display_address": "Bridge Farm Close, Helmsley, North Yorkshire, York and North Yorkshire, England, YO62 5AY, United Kingdom",
   "postcode": "YO62 5AY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "river"
+    "river",
+    "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "art collections",
-    "gardens",
-    "viewpoints"
+    "castle",
+    "river",
+    "house",
+    "rocks",
+    "village"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "bird garden"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

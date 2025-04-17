@@ -96,27 +96,29 @@
   "district": "Thingwall",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland",
-    "grass"
+    "heathland"
   ],
   "points_of_interest": [
     "historic buildings",
     "rock carvings",
-    "lakes",
-    "gardens"
+    "windmill",
+    "observatory",
+    "lighthouse"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible",
-    "footpaths"
+    "car park",
+    "footpaths",
+    "gardens"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "exercise"
   ]
 }

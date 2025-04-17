@@ -69,20 +69,19 @@
   "display_address": "Station Road, Shenstone, Lichfield, Staffordshire, England, WS14 0NW, United Kingdom",
   "postcode": "WS14 0NW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour 30 minutes",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "road"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "museum"
   ],
   "facilities": [
-    "car park",
-    "train station"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

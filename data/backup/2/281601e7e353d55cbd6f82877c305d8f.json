@@ -81,19 +81,19 @@
   "nominatim_found": true,
   "display_address": "Findhorn Bay, Culbin Place, Findhorn, Moray, Alba / Scotland, IV36 3YF, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "woodland"
+    "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "dog friendly"
   ],
   "route_type": "circular",

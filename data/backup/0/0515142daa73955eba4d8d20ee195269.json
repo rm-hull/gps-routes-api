@@ -106,7 +106,7 @@
   "postcode": "SK13 1JF",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -114,14 +114,14 @@
     "gritstone"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "geological formations"
+    "cairn",
+    "geological formations",
+    "transmitter"
   ],
   "facilities": [
-    "car park",
-    "memorial"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

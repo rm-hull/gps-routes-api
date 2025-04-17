@@ -129,7 +129,7 @@
   "nominatim_found": true,
   "display_address": "Gunthorpe, Newark and Sherwood, Nottinghamshire, East Midlands, England, NG14 7RP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -138,14 +138,16 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "countryside"
+    "bridge",
+    "lock",
+    "weir",
+    "villages",
+    "mill"
   ],
   "facilities": [
-    "river hotel",
+    "hotel",
     "car park",
-    "visitor center"
+    "country lane"
   ],
   "route_type": "circular",
   "activities": [

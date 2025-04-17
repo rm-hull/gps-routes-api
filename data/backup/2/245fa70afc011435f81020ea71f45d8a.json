@@ -140,19 +140,21 @@
   "display_address": "Polden Way, Walton, Somerset, England, BA16 9RD, United Kingdom",
   "district": "Walton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "views",
-    "wildlife"
+    "viewpoint",
+    "monument",
+    "wood"
   ],
   "facilities": [
-    "National Trust"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

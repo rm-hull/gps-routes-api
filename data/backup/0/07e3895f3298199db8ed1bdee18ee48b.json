@@ -125,21 +125,22 @@
   "postcode": "LL41 3YY",
   "district": "Penrhyndeudraeth",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water"
+    "garden"
   ],
   "points_of_interest": [
-    "gardens",
-    "waterfalls",
-    "views"
+    "garden",
+    "reservoir",
+    "river view"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

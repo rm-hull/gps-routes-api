@@ -76,21 +76,25 @@
   "postcode": "GL2 7BT",
   "district": "Gloucester",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3 miles",
   "difficulty": "easy",
   "terrain": [
-    "waterway",
-    "woodland"
+    "footpath",
+    "boardwalk",
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "observatory",
+    "tower",
+    "canal",
+    "river"
   ],
   "facilities": [
+    "visitor center",
+    "bird hide",
     "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

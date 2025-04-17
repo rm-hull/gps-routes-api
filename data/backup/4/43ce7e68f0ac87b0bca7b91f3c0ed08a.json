@@ -61,28 +61,28 @@
   "display_address": "Brockholes Visitor Centre, Preston, Lancashire, England, PR5 0AG, United Kingdom",
   "district": "Preston",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "wetland",
-    "lake"
+    "wetland"
   ],
   "points_of_interest": [
-    "bird watching",
-    "wildlife observation"
+    "visitor centre",
+    "hides",
+    "lookout points"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "cycle racks",
     "cafe",
-    "pub/cafe"
+    "visitor centre",
+    "cycle racks"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

@@ -99,21 +99,19 @@
   "nominatim_found": true,
   "display_address": "Sultan Road, Emsworth, Havant, Hampshire, England, PO10 7PH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "woodland"
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserves"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

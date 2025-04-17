@@ -101,22 +101,22 @@
   "postcode": "PL28 8JQ",
   "district": "Constantine Bay",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "cliff"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "beaches",
-    "wildlife"
+    "lighthouse",
+    "beach",
+    "village"
   ],
   "facilities": [
     "car park",
-    "beach"
+    "beach",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

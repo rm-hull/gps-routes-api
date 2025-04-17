@@ -52,7 +52,7 @@
   "nominatim_found": true,
   "display_address": "Lowbourne, Melksham Forest, Melksham, Wiltshire, England, SN12 7ED, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -60,12 +60,13 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historic towns",
-    "historic villages",
+    "historic town",
+    "historic village",
     "ancient stones"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

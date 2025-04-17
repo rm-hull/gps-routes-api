@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Saltburn Bank, Old Saltburn, Saltburn, Marske and New Marske, Saltburn by the Sea, Redcar and Cleveland, Tees Valley, England, TS12 1HH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,15 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "gardens",
+    "memorial",
+    "paths",
+    "gardens"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

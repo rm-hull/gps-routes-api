@@ -76,7 +76,7 @@
   "display_address": "Cyffylliog, Denbighshire, Cymru / Wales, LL15 2DP, United Kingdom",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,9 +85,9 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "wildlife"
+    "monument",
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "car park",

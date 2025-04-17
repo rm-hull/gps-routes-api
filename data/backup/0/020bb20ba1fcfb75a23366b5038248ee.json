@@ -80,17 +80,16 @@
   "display_address": "Halls Hole Road, Hawkenbury, Royal Tunbridge Wells, Tunbridge Wells, Kent, England, TN2 3QN, United Kingdom",
   "postcode": "TN2 3QN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "grassland",
-    "waterfront"
+    "heathland",
+    "ponds"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
+    "viewpoint",
     "wildlife"
   ],
   "facilities": [

@@ -101,7 +101,7 @@
   "nominatim_found": true,
   "display_address": "High Street, Hampsthwaite Head, Hampsthwaite, North Yorkshire, York and North Yorkshire, England, HG3 2HA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -111,14 +111,15 @@
     "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "geological features",
+    "reservoir",
     "castle",
-    "rock formations"
+    "rock formations",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "waymarked"
+    "signposts"
   ],
   "route_type": "circular",
   "activities": [

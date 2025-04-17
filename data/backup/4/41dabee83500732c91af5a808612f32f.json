@@ -86,24 +86,21 @@
   "nominatim_found": true,
   "display_address": "The Cellar, 24, East Green, Anstruther Easter, Anstruther, Fife, Alba / Scotland, KY10 3AA, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "rock"
+    "coastal"
   ],
   "points_of_interest": [
-    "views",
-    "rock formations",
-    "caves",
-    "cliffs"
+    "viewpoint",
+    "rock formations"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

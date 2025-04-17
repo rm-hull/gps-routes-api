@@ -104,7 +104,7 @@
   "display_address": "Swiss Valley Trail, Seaside, Llanelli Rural, Llanelli, Sir Gaerfyrddin / Carmarthenshire, Cymru / Wales, SA15 4SG, United Kingdom",
   "postcode": "SA15 4SG",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,21 +112,22 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "visitor center",
+    "harbour",
+    "beach",
+    "mudflats",
+    "bike hire"
   ],
   "facilities": [
-    "visitor center",
     "car park",
+    "pub/cafe",
     "dog friendly",
-    "wheelchair accessible",
-    "bike hire",
     "play area"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

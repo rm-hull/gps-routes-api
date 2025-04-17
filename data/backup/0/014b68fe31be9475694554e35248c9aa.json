@@ -104,23 +104,23 @@
   "postcode": "BD14 6PT",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "path",
-    "valley"
+    "path"
   ],
   "points_of_interest": [
-    "views",
-    "viaducts"
+    "viaducts",
+    "reservoir",
+    "valley"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

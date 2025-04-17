@@ -81,7 +81,7 @@
   "display_address": "Eskbank Road, Rosewell, Midlothian, Alba / Scotland, EH24 9DD, United Kingdom",
   "postcode": "EH24 9DD",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -94,6 +94,7 @@
     "ruins"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

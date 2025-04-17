@@ -106,7 +106,7 @@
   "postcode": "IV2 6UE",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -114,9 +114,8 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "wildlife viewing",
     "nature trails",
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

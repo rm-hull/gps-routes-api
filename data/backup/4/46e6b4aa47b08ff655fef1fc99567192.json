@@ -130,21 +130,21 @@
   "postcode": "HD7 6AX",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "canal",
     "trail",
-    "moorland"
+    "rural"
   ],
   "points_of_interest": [
-    "views",
-    "reservoir"
+    "reservoir",
+    "tunnel"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

@@ -63,19 +63,21 @@
   "nominatim_found": true,
   "display_address": "Flowerpot Lane, Long Stratton, South Norfolk, Norfolk, England, NR15 2XW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "grassland",
-    "woodland"
+    "hedgerow",
+    "countryside"
   ],
   "points_of_interest": [
-    "countryside views",
-    "footpaths"
+    "countryside views"
   ],
   "facilities": [
-    "car park"
+    "footpaths",
+    "bridleways",
+    "cycle paths"
   ],
   "route_type": "circular",
   "activities": [

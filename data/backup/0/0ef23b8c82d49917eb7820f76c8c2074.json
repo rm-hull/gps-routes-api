@@ -84,18 +84,20 @@
   "display_address": "Pilsgate Hill, safe scenic route (FP 913), Pilsgate Lodges, Pilsgate, Barnack, City of Peterborough, Cambridgeshire and Peterborough, England, PE9 3HW, United Kingdom",
   "district": "Pilsgate",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "lake",
     "park",
-    "lake"
+    "woodland"
   ],
   "points_of_interest": [
     "sculpture park",
     "deer park"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

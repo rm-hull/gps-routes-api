@@ -86,27 +86,26 @@
   "nominatim_found": true,
   "display_address": "Tre'r Gof, Caernarfon, Gwynedd, Cymru / Wales, LL55 2PT, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "parks"
+    "park",
+    "historical site",
+    "views"
   ],
   "facilities": [
     "cafe",
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

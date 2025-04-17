@@ -100,19 +100,20 @@
   "display_address": "Sleaford Road, Town Farm, Tattershall, East Lindsey, Lincolnshire, England, LN4 4LQ, United Kingdom",
   "postcode": "LN4 4LQ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "river",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
     "views"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "footpath"
   ],
   "route_type": "loop",

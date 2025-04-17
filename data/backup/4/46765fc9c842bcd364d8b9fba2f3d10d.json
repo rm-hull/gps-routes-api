@@ -69,21 +69,24 @@
   "nominatim_found": true,
   "display_address": "Millennium Green, Bird Wood Court, Sonning Common, South Oxfordshire, Oxfordshire, England, RG4 9RF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside",
+    "pasture"
   ],
   "points_of_interest": [
-    "views",
-    "historic estate",
-    "countryside"
+    "historical site",
+    "viewpoint",
+    "estate"
   ],
   "facilities": [
-    "pub",
-    "footpaths"
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -77,7 +77,7 @@
   "display_address": "Waste Hill Road, Higher Burwardsley, Burwardsley, Cheshire West and Chester, England, CH3 9NX, United Kingdom",
   "postcode": "CH3 9NX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,11 +85,12 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "hill fort"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "figure of eight",

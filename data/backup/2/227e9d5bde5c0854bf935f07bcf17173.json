@@ -95,22 +95,22 @@
   "district": "Calderdale",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water"
+    "waterfall"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "nature"
+    "historical plaque",
+    "waterfalls"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

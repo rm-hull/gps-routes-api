@@ -86,7 +86,7 @@
   "district": "Wakefield",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -95,12 +95,14 @@
   ],
   "points_of_interest": [
     "sculptures",
-    "wildlife viewing",
-    "lake views"
+    "nature reserve",
+    "lake"
   ],
   "facilities": [
     "car park",
-    "nature reserve"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

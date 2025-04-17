@@ -95,7 +95,7 @@
   "nominatim_found": true,
   "display_address": "Wharfe Bank Terrace, Tadcaster, North Yorkshire, York and North Yorkshire, England, LS24 9BA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -103,12 +103,12 @@
     "footpath"
   ],
   "points_of_interest": [
-    "historical sites",
-    "town views"
+    "historical site",
+    "town"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

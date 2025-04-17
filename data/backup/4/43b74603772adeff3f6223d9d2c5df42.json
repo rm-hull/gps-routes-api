@@ -86,7 +86,7 @@
   "postcode": "B38 0EJ",
   "district": "Bromsgrove",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -95,20 +95,23 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical villages",
+    "historic village",
     "museum",
     "manor house",
     "castle",
-    "gardens"
+    "garden"
   ],
   "facilities": [
-    "car park",
+    "picnic site",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "aviary"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

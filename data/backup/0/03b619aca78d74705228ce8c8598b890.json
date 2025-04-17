@@ -165,18 +165,18 @@
   "postcode": "LE6 0HA",
   "district": "Charnwood",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "waterfront",
-    "canal"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "towns"
+    "country park",
+    "reservoir",
+    "canal",
+    "battlefield"
   ],
   "facilities": [
     "car park",

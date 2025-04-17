@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "L\u00f4n Sant Ffraid, Tre Arddur, Trearddur, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL65 2YS, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -88,17 +88,15 @@
     "footpath"
   ],
   "points_of_interest": [
-    "views",
-    "geology",
-    "natural arches"
+    "sea arches",
+    "natural formations"
   ],
   "facilities": [
     "car park",
     "pub/cafe",
-    "wheelchair accessible",
     "patio"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -71,16 +71,16 @@
   "nominatim_found": true,
   "display_address": "Church Meadow, St Margaret's, Great Gaddesden, Dacorum, Hertfordshire, England, HP1 3BS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "estate trails"
+    "church",
+    "estate"
   ],
   "facilities": [
     "car park"

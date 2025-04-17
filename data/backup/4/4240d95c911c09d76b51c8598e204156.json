@@ -84,7 +84,7 @@
   "display_address": "Castle Lane, South Cadbury and Sutton Montis, South Cadbury, Somerset, England, BA22 7HA, United Kingdom",
   "postcode": "BA22 7HA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -92,15 +92,14 @@
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

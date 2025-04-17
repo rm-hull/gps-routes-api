@@ -104,16 +104,16 @@
   "display_address": "Capstone Farm Country Park, Capstone Road, Capstone, Chatham, Medway, England, ME7 3QF, United Kingdom",
   "postcode": "ME7 3QF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildflower meadows"
+    "visitor center",
+    "picnic areas"
   ],
   "facilities": [
     "visitor center",
@@ -122,7 +122,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

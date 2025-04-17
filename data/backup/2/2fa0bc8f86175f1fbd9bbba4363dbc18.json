@@ -77,7 +77,7 @@
   "display_address": "Rectory Lane, Corhampton and Meonstoke, Meonstoke, Winchester, Hampshire, England, SO32 3NF, United Kingdom",
   "postcode": "SO32 3NF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -85,13 +85,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "historical site",
+    "viewpoint",
+    "monument"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

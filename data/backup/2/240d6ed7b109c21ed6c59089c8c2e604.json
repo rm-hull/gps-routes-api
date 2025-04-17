@@ -81,7 +81,7 @@
   "postcode": "IG9 5UA",
   "district": "Epping Forest",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1-2 hours",
   "difficulty": "easy",
   "terrain": [
@@ -89,12 +89,11 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "footpaths",
-    "wildlife"
+    "footpaths"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "boardwalk"
   ],
   "route_type": "circular",
   "activities": [

@@ -68,16 +68,18 @@
   "display_address": "Isham Road, Orlingbury, North Northamptonshire, England, NN14 1JJ, United Kingdom",
   "postcode": "NN14 1JJ",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural"
   ],
   "points_of_interest": [
-    "historical sites"
+    "church"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

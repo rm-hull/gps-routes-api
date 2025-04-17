@@ -165,23 +165,23 @@
   "postcode": "LA5 0SP",
   "district": "Lancaster",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "coastal",
+    "coast",
     "mountain",
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "town",
+    "village",
+    "beach"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

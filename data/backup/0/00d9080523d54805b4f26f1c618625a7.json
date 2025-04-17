@@ -126,25 +126,25 @@
   "display_address": "Bridgnorth Castle (ruins), West Castle Street, High Town, Oldbury, Bridgnorth, Shropshire, England, WV16 4BA, United Kingdom",
   "postcode": "WV16 4BA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "rural"
+    "ridge",
+    "valley"
   ],
   "points_of_interest": [
-    "villages",
-    "towns",
-    "wildlife",
-    "historical sites"
+    "village",
+    "town",
+    "deer park",
+    "castle"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

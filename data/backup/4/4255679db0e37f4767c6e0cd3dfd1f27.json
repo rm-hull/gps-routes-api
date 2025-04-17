@@ -109,16 +109,17 @@
   "postcode": "BH20 5QF",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rural",
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historic sites"
+    "village",
+    "viewpoint",
+    "quarry"
   ],
   "facilities": [
     "car park",

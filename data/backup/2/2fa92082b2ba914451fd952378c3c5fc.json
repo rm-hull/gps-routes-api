@@ -68,7 +68,7 @@
   "nominatim_found": true,
   "display_address": "Walton Lane, Weybridge, Elmbridge, Surrey, England, KT13 8LU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,12 @@
   ],
   "points_of_interest": [
     "river views",
-    "meadows",
     "island"
   ],
   "facilities": [
     "car park",
-    "refreshments"
+    "refreshments",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

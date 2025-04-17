@@ -104,20 +104,21 @@
   "nominatim_found": true,
   "display_address": "Oakland House, Greyfield Road, High Littleton, Bath and North East Somerset, West of England, England, BS39 6YA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "waterfall",
+    "trail"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

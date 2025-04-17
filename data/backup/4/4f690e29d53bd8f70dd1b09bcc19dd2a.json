@@ -76,21 +76,20 @@
   "postcode": "EH48 4NW",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "hill",
-    "woodland"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "ancient site"
+    "historic site",
+    "ancient site",
+    "visitor center"
   ],
   "facilities": [
-    "visitor center",
     "car park",
+    "information boards",
     "dog friendly"
   ],
   "route_type": "out and back",

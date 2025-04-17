@@ -110,7 +110,7 @@
   "display_address": "West Highland Way, Milngavie, East Dunbartonshire, Alba / Scotland, G62 6PB, United Kingdom",
   "postcode": "G62 6PB",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -119,11 +119,12 @@
     "river"
   ],
   "points_of_interest": [
-    "mountain views",
-    "waterfalls",
-    "rivers"
+    "mountain",
+    "waterfall",
+    "valley"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

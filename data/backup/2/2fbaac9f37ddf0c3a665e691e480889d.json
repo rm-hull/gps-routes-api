@@ -91,25 +91,25 @@
   "display_address": "Murray Terrace, Ferryhill, Ferryhill and Ruthrieston, Aberdeen City, Alba / Scotland, AB11 7RX, United Kingdom",
   "postcode": "AB11 7RX",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "forest",
-    "river",
-    "mountain"
+    "mountain",
+    "river"
   ],
   "points_of_interest": [
     "waterfall",
-    "historical sites"
+    "forest"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

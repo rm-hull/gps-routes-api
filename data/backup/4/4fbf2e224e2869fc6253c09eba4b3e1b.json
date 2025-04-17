@@ -96,19 +96,20 @@
   "display_address": "Woodland Rise, Craigencalt Farm, Kinghorn, Fife, Alba / Scotland, KY3 9YG, United Kingdom",
   "district": "Kinghorn",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "bird watching"
+    "bird hide",
+    "visitor center"
   ],
   "facilities": [
-    "visitor center",
-    "cafe"
+    "cafe",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

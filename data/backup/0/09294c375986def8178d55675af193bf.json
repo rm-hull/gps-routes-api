@@ -101,7 +101,7 @@
   "nominatim_found": true,
   "display_address": "Jalsa Tandoori Restaurant & Takeaway, 31, Castle Street, Conwy Marina Village, Conwy, Cymru / Wales, LL32 8AY, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,9 +109,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "hut circles",
+    "hillfort"
   ],
   "facilities": [
     "car park",

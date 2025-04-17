@@ -124,16 +124,16 @@
   "postcode": "BB4 4AU",
   "district": "Rossendale",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "moorland"
+    "moor"
   ],
   "points_of_interest": [
-    "historical landmarks",
-    "viewpoints"
+    "monument",
+    "landmark"
   ],
   "facilities": [
     "car park",

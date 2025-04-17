@@ -123,15 +123,16 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "waterfront",
+    "canal",
+    "coastal",
     "rural"
   ],
   "points_of_interest": [
-    "scenic views"
+    "views"
   ],
   "facilities": [
     "car park"

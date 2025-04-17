@@ -109,21 +109,20 @@
   "display_address": "Newtondale Forest Drive, Levisham, Newton upon Rawcliffe, North Yorkshire, York and North Yorkshire, England, YO18 7NN, United Kingdom",
   "district": "Newton upon Rawcliffe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "pub/cafe"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

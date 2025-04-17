@@ -100,7 +100,7 @@
   "display_address": "Wemberham Lane, Yatton, North Somerset, England, BS49 4QN, United Kingdom",
   "postcode": "BS49 4QN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,14 +109,14 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural wonder",
-    "museum"
+    "green",
+    "museum",
+    "gorge"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

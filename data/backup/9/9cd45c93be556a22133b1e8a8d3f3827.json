@@ -93,17 +93,16 @@
   "postcode": "HX6 2AU",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "canal"
   ],
   "points_of_interest": [
-    "countryside views",
-    "cycling routes",
-    "walking trails"
+    "viewpoint",
+    "park"
   ],
   "facilities": [
     "car park",

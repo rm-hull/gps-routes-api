@@ -101,7 +101,7 @@
   "nominatim_found": true,
   "display_address": "Llay New Road, Llay, Bradley, Llay, Wrexham, Cymru / Wales, LL12 0PN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -110,7 +110,7 @@
     "river"
   ],
   "points_of_interest": [
-    "historical trail",
+    "heritage trail",
     "nature reserve",
     "exercise equipment"
   ],
@@ -118,8 +118,7 @@
     "visitor center",
     "cafe",
     "gift shop",
-    "trim trail",
-    "dog friendly"
+    "trim trail"
   ],
   "route_type": "circular",
   "activities": [

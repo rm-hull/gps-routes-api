@@ -76,23 +76,26 @@
   "postcode": "LE7 9XB",
   "district": "Harborough",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "garden",
     "parkland",
-    "garden"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "estate",
-    "landscape"
+    "stable block",
+    "chapel",
+    "pond",
+    "ha-ha",
+    "walled garden",
+    "glasshouse"
   ],
   "facilities": [
     "tea rooms",
-    "car park",
-    "footpaths"
+    "footpaths",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

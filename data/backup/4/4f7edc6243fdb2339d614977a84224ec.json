@@ -66,24 +66,25 @@
   "nominatim_found": true,
   "display_address": "Marine Parade, Clarendon, Dover, Kent, England, CT16 1LH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
+    "lighthouse",
     "gardens",
-    "golf course"
+    "golf club",
+    "river"
   ],
   "facilities": [
     "visitor center",
     "shops",
     "cafes",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

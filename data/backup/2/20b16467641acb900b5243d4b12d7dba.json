@@ -124,7 +124,7 @@
   "nominatim_found": true,
   "display_address": "Melbecks, Gunnerside, North Yorkshire, York and North Yorkshire, England, DL11 6LE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -134,15 +134,15 @@
   ],
   "points_of_interest": [
     "waterfalls",
-    "historic buildings",
-    "museum"
+    "valley",
+    "ruined buildings"
   ],
   "facilities": [
     "car park",
     "pub",
     "tea rooms",
-    "visitor center",
-    "wheelchair accessible"
+    "museum",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

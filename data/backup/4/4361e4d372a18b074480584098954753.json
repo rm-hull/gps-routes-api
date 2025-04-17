@@ -101,7 +101,7 @@
   "postcode": "TR13 0RA",
   "district": "Helston",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -110,18 +110,19 @@
     "lakeside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "birdwatching"
+    "historical site",
+    "viewpoint",
+    "beach"
   ],
   "facilities": [
     "car park",
     "tea rooms",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

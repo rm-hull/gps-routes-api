@@ -114,20 +114,19 @@
   "display_address": "Thornton Reservoir Car Park, Reservoir Road, Thorndale Farm, Bagworth & Thornton, Thornton, Hinckley and Bosworth, Leicestershire, England, LE67 1AR, United Kingdom",
   "postcode": "LE67 1AR",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "countryside"
   ],
   "points_of_interest": [
     "sculpture trail",
-    "wildfowl",
-    "woodland trails"
+    "wildfowl"
   ],
   "facilities": [
-    "car park",
+    "parking area",
     "visitor center",
     "picnic areas"
   ],

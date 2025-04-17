@@ -68,20 +68,20 @@
   "nominatim_found": true,
   "display_address": "50a, Orchard Green, Chilton Foliat, Hungerford, Wiltshire, England, RG17 0TG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "rural",
-    "waterfront"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
-    "historic houses",
-    "gardens",
-    "mosaic"
+    "historic house",
+    "mosaic",
+    "gardens"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "hotel"
   ],
   "route_type": "circular",

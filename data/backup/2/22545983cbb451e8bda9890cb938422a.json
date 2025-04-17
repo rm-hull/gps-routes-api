@@ -104,22 +104,21 @@
   "display_address": "Blackbank Road, Silverdale, Chesterton, Newcastle-under-Lyme, Staffordshire, England, ST5 6AX, United Kingdom",
   "district": "Newcastle-under-Lyme",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "meadows"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife viewing"
+    "museum",
+    "railway"
   ],
   "facilities": [
-    "museum",
     "visitor center",
     "car park",
-    "railway"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

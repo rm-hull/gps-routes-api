@@ -101,24 +101,23 @@
   "postcode": "DE4 2LR",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "moor",
-    "stone circle"
+    "moor"
   ],
   "points_of_interest": [
     "historical sites",
     "stone circles",
-    "rock formations"
+    "rock formation"
   ],
   "facilities": [
     "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

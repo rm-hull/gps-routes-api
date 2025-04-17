@@ -131,32 +131,29 @@
   "nominatim_found": true,
   "display_address": "CH1 436D, Princess Street, Newtown, City of Chester, Chester, Cheshire West and Chester, England, CH1 9SD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 days",
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "river",
-    "country park",
-    "woodland",
-    "farmland"
+    "rural",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "country park",
-    "hill fort",
-    "cathedral",
-    "religious shrine"
+    "park",
+    "hill fort"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "canal",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

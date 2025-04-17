@@ -90,7 +90,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -98,15 +98,16 @@
     "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "visitor center",
+    "trail"
   ],
   "facilities": [
-    "visitor center",
-    "play area",
-    "picnic areas"
+    "picnic areas",
+    "play areas",
+    "cycle route",
+    "traffic free path"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking",
     "cycling"

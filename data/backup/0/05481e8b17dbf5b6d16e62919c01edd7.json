@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Ennisfarne Road, Northam, Westward Ho!, Torridge, Devon, England, EX39 1JX, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,8 +77,8 @@
     "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature reserves",
+    "nature reserve",
+    "beach",
     "river estuary"
   ],
   "facilities": [

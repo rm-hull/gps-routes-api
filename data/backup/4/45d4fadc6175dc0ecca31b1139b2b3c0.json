@@ -76,24 +76,24 @@
   "district": "Castleford",
   "county": "North Yorkshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "wetland",
-    "riverside"
+    "meadow"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "historical sites",
-    "trails"
+    "historical site",
+    "nature reserve",
+    "canal"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "canal",
-    "wheelchair accessible"
+    "dog friendly",
+    "trails"
   ],
   "route_type": "out and back",
   "activities": [

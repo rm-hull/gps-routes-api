@@ -28,24 +28,26 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 days",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "moorland",
-    "rural"
+    "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "religious sites",
-    "archaeological sites"
+    "stone circle",
+    "tidal island",
+    "monastery",
+    "ceremonial circles",
+    "Scheduled Ancient Monument"
   ],
   "facilities": [
-    "waymarked trail"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "pilgrimage"
   ]
 }

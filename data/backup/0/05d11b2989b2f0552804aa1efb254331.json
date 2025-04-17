@@ -86,22 +86,23 @@
   "postcode": "YO13 0LL",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "mountain",
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical sites"
+    "nature reserve",
+    "village"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

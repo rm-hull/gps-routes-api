@@ -130,7 +130,7 @@
   "display_address": "Oh Crumbs, Norwich Road, Hoveton, Norwich, Norfolk, England, NR12 8DA, United Kingdom",
   "postcode": "NR12 8DA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -138,16 +138,15 @@
     "countryside"
   ],
   "points_of_interest": [
+    "historical house",
     "gardens",
-    "lake",
-    "historical sites"
+    "lake"
   ],
   "facilities": [
     "pub/cafe",
-    "visitor center",
-    "car park"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

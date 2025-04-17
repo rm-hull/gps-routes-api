@@ -99,25 +99,27 @@
   "postcode": "BN26 6SJ",
   "district": "Wealden",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "water"
+    "forest"
   ],
   "points_of_interest": [
-    "historical sites",
-    "bird watching"
+    "historical site",
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

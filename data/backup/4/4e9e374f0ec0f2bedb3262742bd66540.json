@@ -69,23 +69,22 @@
   "postcode": "CV8 1NG",
   "district": "Kenilworth",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "parkland",
-    "historical",
-    "water"
+    "historical"
   ],
   "points_of_interest": [
     "historical ruins",
     "lake",
-    "park"
+    "museum"
   ],
   "facilities": [
     "car park",
-    "museum",
-    "footpaths"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

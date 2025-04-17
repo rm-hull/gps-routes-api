@@ -86,7 +86,7 @@
   "postcode": "DH9 0RP",
   "district": "Stanley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -95,12 +95,11 @@
   ],
   "points_of_interest": [
     "geology",
-    "views",
-    "historical transport"
+    "views"
   ],
   "facilities": [
-    "car park",
     "tea room",
+    "car park",
     "railway station"
   ],
   "route_type": "circular",

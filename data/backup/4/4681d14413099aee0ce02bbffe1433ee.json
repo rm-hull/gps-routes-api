@@ -81,26 +81,28 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "mountain"
+    "mountain",
+    "river"
   ],
   "points_of_interest": [
-    "gardens",
-    "lake",
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint",
+    "lake"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

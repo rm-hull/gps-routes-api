@@ -110,25 +110,26 @@
   "nominatim_found": true,
   "display_address": "Crag Path, Aldeburgh, East Suffolk, Suffolk, England, IP15 5DS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
+    "beach",
     "marshland"
   ],
   "points_of_interest": [
-    "historical routes",
-    "wildlife viewing",
-    "arts complex"
+    "arts complex",
+    "concert hall",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "shops",
-    "restaurants"
+    "restaurants",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

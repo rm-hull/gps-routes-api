@@ -60,25 +60,23 @@
   "postcode": "LS29 8DF",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "river",
-    "country lanes",
-    "footpath"
+    "country lane"
   ],
   "points_of_interest": [
-    "views",
-    "cairns",
-    "reservoir"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

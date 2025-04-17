@@ -76,22 +76,20 @@
   "postcode": "SK13 1JF",
   "district": "High Peak",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "water",
-    "road",
-    "moor"
+    "road"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "hiking trails",
-    "reservoir"
+    "reservoir",
+    "moor"
   ],
   "facilities": [
     "car park",
-    "street view"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

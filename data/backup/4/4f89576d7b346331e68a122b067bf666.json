@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Newton Road, Turvey, Bedford, England, MK43 8HB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -107,12 +107,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "historical site",
+    "parkland"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

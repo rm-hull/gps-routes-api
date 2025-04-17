@@ -53,7 +53,7 @@
   "display_address": "Dewstow Hidden Garden and Grotto, Dewstow Road, Caerwent, Caldicot, Monmouthshire, Cymru / Wales, NP26 5AH, United Kingdom",
   "district": "Caldicot",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -61,15 +61,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "gardens",
     "grottoes",
     "tunnels",
-    "ponds"
+    "ferneries"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

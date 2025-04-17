@@ -90,16 +90,15 @@
   "postcode": "SO42 7QD",
   "district": "New Forest",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "heathland",
-    "plain"
+    "heathland"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "car park"

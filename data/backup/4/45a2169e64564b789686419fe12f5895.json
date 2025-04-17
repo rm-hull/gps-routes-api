@@ -71,20 +71,18 @@
   "postcode": "CA12 5XA",
   "district": "Rosthwaite",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "10 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "staircase"
   ],
   "route_type": "out and back",
   "activities": [

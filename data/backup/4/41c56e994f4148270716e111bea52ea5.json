@@ -59,28 +59,28 @@
   "display_address": "Reservoir Road, Hednesford, Wimblebury, Cannock Chase, Staffordshire, England, WS12 1NY, United Kingdom",
   "postcode": "WS12 1NY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
-    "mountain"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "wildlife"
+    "raceway",
+    "museum"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "cafe",
-    "museum"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

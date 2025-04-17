@@ -110,16 +110,16 @@
   "display_address": "B488, Ford End, Ivinghoe, Buckinghamshire, England, LU7 9EJ, United Kingdom",
   "district": "Ivinghoe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "countryside",
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",

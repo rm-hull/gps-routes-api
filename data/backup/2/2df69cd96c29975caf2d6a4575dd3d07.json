@@ -124,21 +124,24 @@
   "district": "Tameside",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "visitor center",
+    "community orchard",
+    "garden",
+    "butterfly conservation field",
+    "dipping pond",
+    "farm"
   ],
   "facilities": [
-    "visitor center",
     "car park",
-    "farm",
+    "dog friendly",
     "play area"
   ],
   "route_type": "out and back",

@@ -99,17 +99,17 @@
   "display_address": "St Aidan's Churchyard, St Cuthbert's Road, New Herrington, West Herrington, New Herrington, Sunderland, Tyne and Wear, North East, England, DH4 4NB, United Kingdom",
   "county": "Tyne and Wear",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "forest",
     "hill"
   ],
   "points_of_interest": [
     "sculpture trail",
-    "historical sites",
-    "viewpoints"
+    "historical landmark",
+    "viewpoint"
   ],
   "facilities": [
     "boating lake",
@@ -118,7 +118,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

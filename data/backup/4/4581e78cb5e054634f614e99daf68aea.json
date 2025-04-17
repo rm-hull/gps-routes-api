@@ -53,20 +53,20 @@
   "nominatim_found": true,
   "display_address": "Kennythorpe, Burythorpe, North Yorkshire, York and North Yorkshire, England, YO17 9LH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "rural",
-    "woodland"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "church",
+    "abbey"
   ],
   "facilities": [
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

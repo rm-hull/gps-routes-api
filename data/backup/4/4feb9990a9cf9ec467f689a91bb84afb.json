@@ -81,7 +81,7 @@
   "display_address": "Quay West, Higher Town, Minehead, Somerset, England, TA24 5UP, United Kingdom",
   "postcode": "TA24 5UP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,11 +89,12 @@
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "National Trust estate"
+    "viewpoint",
+    "estate"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

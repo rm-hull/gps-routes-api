@@ -109,7 +109,7 @@
   "display_address": "Log cabin cafe, B4432, English Bicknor, Forest of Dean, Gloucestershire, England, HR9 6BY, United Kingdom",
   "district": "Forest of Dean",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,14 +117,15 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature trails"
+    "historical site",
+    "viewpoint",
+    "nature trail"
   ],
   "facilities": [
     "car park",
-    "cafe",
-    "visitor center"
+    "pub/cafe",
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

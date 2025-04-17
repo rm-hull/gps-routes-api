@@ -93,7 +93,7 @@
   ],
   "video_url": "https://www.youtube.com/embed/u5DQKcoYR5c",
   "gazetteer_found": false,
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -101,14 +101,14 @@
     "park"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks"
+    "historical site",
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

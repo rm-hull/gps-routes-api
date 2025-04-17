@@ -77,7 +77,7 @@
   "postcode": "SR1 3AH",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,15 +85,14 @@
     "river"
   ],
   "points_of_interest": [
+    "lighthouse",
     "sculptures",
-    "lighthouses",
-    "geological formations",
-    "views"
+    "geological formations"
   ],
   "facilities": [
     "car park",
-    "footpath",
-    "cycleway"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

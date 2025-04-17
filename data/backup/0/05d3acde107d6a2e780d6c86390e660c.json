@@ -67,20 +67,21 @@
   "nominatim_found": true,
   "display_address": "Church Road, Almondsbury, South Gloucestershire, West of England, England, BS32 4EH, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "hill"
+    "hill",
+    "green space"
   ],
   "points_of_interest": [
     "viewpoint",
-    "historic settlement"
+    "church",
+    "garden centre"
   ],
   "facilities": [
     "restaurant",
-    "garden centre"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

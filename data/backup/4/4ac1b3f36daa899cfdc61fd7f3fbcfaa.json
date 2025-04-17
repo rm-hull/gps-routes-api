@@ -104,22 +104,23 @@
   "display_address": "Main Street, Stoke Dry, Rutland, England, LE15 9JG, United Kingdom",
   "postcode": "LE15 9JG",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife"
+    "historical site",
+    "church",
+    "house"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

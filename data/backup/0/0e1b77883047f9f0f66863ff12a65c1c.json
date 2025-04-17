@@ -106,22 +106,23 @@
   "postcode": "BD24 9PT",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "upland",
     "lake",
-    "upland"
+    "field"
   ],
   "points_of_interest": [
-    "bird watching",
-    "historical sites",
-    "viewpoints"
+    "bird hide",
+    "rare plants",
+    "cliff formation"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

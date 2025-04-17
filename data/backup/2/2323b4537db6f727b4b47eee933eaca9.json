@@ -69,19 +69,22 @@
   "nominatim_found": true,
   "display_address": "Union Road, Crediton, Mid Devon, Devon, England, EX17 3EE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
+    "park",
     "grassland",
     "river"
   ],
   "points_of_interest": [
-    "park",
-    "scenic views"
+    "statue",
+    "bandstand",
+    "park"
   ],
   "facilities": [
-    "footpaths"
+    "footpaths",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

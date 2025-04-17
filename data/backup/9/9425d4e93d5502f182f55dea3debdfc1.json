@@ -61,7 +61,7 @@
   "postcode": "PE7 3PW",
   "district": "Huntingdonshire",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 hours",
   "difficulty": "easy",
   "terrain": [
@@ -69,14 +69,14 @@
     "wetland"
   ],
   "points_of_interest": [
-    "information points",
-    "picnic areas",
+    "information point",
+    "railway line",
     "bird hide"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "picnic areas",
+    "information points"
   ],
   "route_type": "circular",
   "activities": [

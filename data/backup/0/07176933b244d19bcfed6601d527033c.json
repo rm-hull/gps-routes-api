@@ -96,24 +96,24 @@
   "display_address": "Glen Doll, Capel Mounth, Acharn, Angus, Alba / Scotland, DD8 4RD, United Kingdom",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "forest",
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "nature reserve",
+    "valley",
+    "waterfall"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "dog friendly"
+    "hotel",
+    "path"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

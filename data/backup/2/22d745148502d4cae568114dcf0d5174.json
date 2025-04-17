@@ -100,22 +100,20 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "hill",
-    "woodland"
+    "fell",
+    "valley"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "reservoirs",
-    "historical sites"
+    "viewpoint",
+    "reservoirs"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

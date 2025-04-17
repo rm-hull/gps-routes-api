@@ -124,17 +124,16 @@
   "display_address": "Back Street, Clophill, Central Bedfordshire, England, MK45 4AQ, United Kingdom",
   "postcode": "MK45 4AQ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
-    "woodland trails",
-    "village"
+    "church",
+    "wood"
   ],
   "facilities": [
     "car park"

@@ -110,24 +110,23 @@
   "postcode": "BL6 7SA",
   "district": "Chorley",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden",
-    "steep"
+    "waterfall"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "gardens",
-    "waterfalls",
-    "historical sites"
+    "viewpoint",
+    "garden",
+    "tower"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

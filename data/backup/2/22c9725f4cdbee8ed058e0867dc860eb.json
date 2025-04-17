@@ -94,7 +94,7 @@
   "nominatim_found": true,
   "display_address": "Lower Valleyfield View, Kirkhill, Penicuik, Midlothian, Alba / Scotland, EH26 8NT, United Kingdom",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -102,15 +102,15 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "country views",
-    "park"
+    "castle",
+    "country park",
+    "river"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

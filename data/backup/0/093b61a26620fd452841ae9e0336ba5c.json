@@ -99,28 +99,28 @@
   "display_address": "Poolside, Thurlwood, Odd Rode, Rode Heath, Cheshire East, England, ST7 3QS, United Kingdom",
   "district": "Rode Heath",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "parkland"
+    "parkland",
+    "gardens"
   ],
   "points_of_interest": [
     "snowdrop walk",
     "herbaceous border",
+    "lake",
+    "kitchen garden",
     "rose garden",
     "heronry"
   ],
   "facilities": [
-    "farmers market",
-    "car park",
-    "kitchen garden"
+    "Farmers Market",
+    "car park"
   ],
   "route_type": "loop",
   "activities": [
-    "walking",
-    "gardening"
+    "walking"
   ]
 }

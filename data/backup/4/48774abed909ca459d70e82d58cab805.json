@@ -121,22 +121,20 @@
   "region": null,
   "state": null,
   "country": "\u00c9ire / Ireland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "parkland",
-    "garden",
-    "woodland"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "views"
+    "oak tree",
+    "tomb",
+    "castle remains"
   ],
   "facilities": [
     "visitor center",
-    "car park",
     "hotel"
   ],
   "route_type": "loop",

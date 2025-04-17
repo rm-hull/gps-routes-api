@@ -99,7 +99,7 @@
   "postcode": "CF32 0RP",
   "district": "Southerndown",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -108,16 +108,13 @@
     "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "rock formations",
-    "beaches",
+    "castle ruins",
     "lighthouse",
-    "castle"
+    "beach"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

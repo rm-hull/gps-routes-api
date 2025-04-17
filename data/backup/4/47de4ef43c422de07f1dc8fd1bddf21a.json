@@ -66,20 +66,19 @@
   "nominatim_found": true,
   "display_address": "Church Street, West Street, Cliffe and Cliffe Woods, Cliffe, Medway, England, ME3 7QF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "marsh"
   ],
   "points_of_interest": [
-    "wildlife spotting",
-    "historical sites"
+    "wildlife spotting"
   ],
   "facilities": [
     "car park",
-    "dog friendly"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

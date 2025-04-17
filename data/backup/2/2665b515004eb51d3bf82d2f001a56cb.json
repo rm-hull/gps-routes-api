@@ -69,7 +69,7 @@
   "nominatim_found": true,
   "display_address": "Lapworth Street, Lowsonford, Rowington, Warwick, Warwickshire, England, B95 5HJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -77,12 +77,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historic sites",
-    "lock system",
-    "long distance footpath"
+    "historic site",
+    "manor house",
+    "town"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

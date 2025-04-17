@@ -67,22 +67,21 @@
   "postcode": "DE74 2FS",
   "district": "Rushcliffe",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "countryside",
-    "river"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "historic building",
+    "footpath"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "boat viewing"
+    "marina",
+    "bridge"
   ],
   "route_type": "circular",
   "activities": [

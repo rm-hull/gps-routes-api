@@ -85,17 +85,16 @@
   "postcode": "YO21 2BE",
   "district": "Loftus",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "water"
+    "grassland"
   ],
   "points_of_interest": [
-    "wildlife watching",
-    "views"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
@@ -103,6 +102,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

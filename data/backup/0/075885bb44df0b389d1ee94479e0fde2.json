@@ -101,7 +101,7 @@
   "display_address": "The Walled Gardens, Wilderness Walk, Croome D'Abitot, Malvern Hills, Worcestershire, England, WR8 9DW, United Kingdom",
   "district": "Malvern Hills",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,14 +109,15 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "religious sites",
-    "gardens"
+    "statues",
+    "bridges",
+    "follies",
+    "classical temples"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "church",
+    "dipping pond"
   ],
   "route_type": "circular",
   "activities": [

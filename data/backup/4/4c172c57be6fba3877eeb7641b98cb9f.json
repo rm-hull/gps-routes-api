@@ -69,7 +69,7 @@
   "postcode": "BA6 9TT",
   "district": "Westhay",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -77,15 +77,16 @@
     "water"
   ],
   "points_of_interest": [
-    "bird watching"
+    "hides",
+    "lakes"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

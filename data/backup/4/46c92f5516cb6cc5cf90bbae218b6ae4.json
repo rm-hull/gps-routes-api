@@ -77,7 +77,7 @@
   "display_address": "Honeybourne Road, Bidford on Avon CP, Stratford-on-Avon, Warwickshire, England, B50 4AB, United Kingdom",
   "postcode": "B50 4AB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -87,12 +87,14 @@
   ],
   "points_of_interest": [
     "historic settlement",
-    "neighbouring villages",
-    "farmland"
+    "park",
+    "cottages",
+    "footpath"
   ],
   "facilities": [
     "pub/cafe",
-    "footpath"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

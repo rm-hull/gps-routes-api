@@ -80,17 +80,15 @@
   "postcode": "BH20 5AR",
   "district": "Furzebrook",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "sand",
-    "mountain"
+    "sand"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [

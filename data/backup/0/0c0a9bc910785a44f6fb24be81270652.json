@@ -105,17 +105,18 @@
   "postcode": "HD4 7QF",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "country lane",
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "panoramic views",
-    "country lanes"
+    "hill fort",
+    "reservoir",
+    "monument"
   ],
   "facilities": [
     "car park",

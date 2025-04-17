@@ -72,20 +72,20 @@
   "nominatim_found": true,
   "display_address": "Main Street, Sutton-on-the-Forest, Sutton on the Forest, North Yorkshire, York and North Yorkshire, England, YO61 1DN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "pastureland",
-    "footpaths"
+    "footpath"
   ],
   "points_of_interest": [
-    "gardens",
     "estate",
-    "farmland"
+    "manor house",
+    "pond"
   ],
   "facilities": [
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

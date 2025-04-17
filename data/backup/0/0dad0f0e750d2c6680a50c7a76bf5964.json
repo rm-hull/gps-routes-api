@@ -77,22 +77,24 @@
   "postcode": "YO61 4AA",
   "district": "Coxwold",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "lake",
+    "walled garden"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "museum",
-    "religious sites",
-    "observatory"
+    "observatory",
+    "abbey"
   ],
   "facilities": [
+    "pub/hotel",
     "car park",
-    "pub/hotel"
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

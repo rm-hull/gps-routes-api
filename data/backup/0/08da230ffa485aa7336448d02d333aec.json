@@ -91,25 +91,23 @@
   "display_address": "Rowde, Wiltshire, England, SN10 1RA, United Kingdom",
   "district": "Rowde",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "canal"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "museum",
+    "historical site",
+    "viewpoint",
     "battlefield"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "cafe",
-    "canal museum"
+    "museum"
   ],
   "route_type": "circular",
   "activities": [

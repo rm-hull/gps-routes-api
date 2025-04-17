@@ -86,25 +86,24 @@
   "display_address": "Esplanade Road, Woodhill, Portishead, North Somerset, England, BS20 7JA, United Kingdom",
   "postcode": "BS20 7JA",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "coastal",
     "woodland",
     "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "golf course",
-    "castle"
+    "historical site",
+    "viewpoint",
+    "golf course"
   ],
   "facilities": [
     "car park",
     "cafe",
     "visitor center",
-    "bus stop"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

@@ -95,21 +95,23 @@
   "nominatim_found": true,
   "display_address": "20, Warren, Carbis Bay, St. Ives, Cornwall, England, TR26 2EA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "coastal",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "viewpoints"
+    "beach",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "train"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

@@ -86,18 +86,16 @@
   "postcode": "IP10 0ES",
   "district": "East Suffolk",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "coastal"
+    "woodland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "lake",
-    "woodland trails"
+    "village"
   ],
   "facilities": [
     "car park",

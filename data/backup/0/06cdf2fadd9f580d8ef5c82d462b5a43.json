@@ -100,22 +100,20 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
+    "model village",
     "historic buildings",
-    "park",
-    "chocolate factory",
-    "model village"
+    "park"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

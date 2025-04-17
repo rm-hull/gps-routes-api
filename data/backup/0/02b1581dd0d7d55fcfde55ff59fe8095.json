@@ -81,7 +81,7 @@
   "postcode": "PL19 9QG",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -89,9 +89,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "tors"
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "car park",

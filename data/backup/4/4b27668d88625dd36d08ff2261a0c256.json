@@ -111,7 +111,7 @@
   "postcode": "LA5 0SP",
   "district": "Lancaster",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -122,10 +122,11 @@
   "points_of_interest": [
     "nature reserve",
     "viewpoint",
-    "coastal trail"
+    "beach"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "village school",
     "library",
     "village halls",

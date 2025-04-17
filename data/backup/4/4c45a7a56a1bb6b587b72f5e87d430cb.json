@@ -129,24 +129,21 @@
   "postcode": "WV15 6NG",
   "district": "Alveley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "meadow"
+    "meadows",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature trails"
+    "view"
   ],
   "facilities": [
     "visitor center",
     "picnic areas",
-    "bird hide",
-    "car park"
+    "bird hide"
   ],
   "route_type": "circular",
   "activities": [

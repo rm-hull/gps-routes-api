@@ -134,16 +134,15 @@
   "nominatim_found": true,
   "display_address": "Almshouses Lane, Pembridge, Herefordshire, England, HR6 9HA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2 miles",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical buildings",
-    "villages"
+    "historic buildings",
+    "village"
   ],
   "facilities": [
     "car park",

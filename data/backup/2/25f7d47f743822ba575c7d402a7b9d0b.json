@@ -103,7 +103,7 @@
   "postcode": "DE6 1RA",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -112,9 +112,10 @@
     "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "gardens"
+    "historic mansion",
+    "garden",
+    "caves",
+    "valley"
   ],
   "facilities": [
     "car park",

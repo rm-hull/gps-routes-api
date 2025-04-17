@@ -104,26 +104,29 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland",
-    "hill"
+    "hill",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "stone circle",
     "castle ruins",
-    "archaeological sites",
-    "nature reserve"
+    "iron age hill fort",
+    "bronze age settlement"
   ],
   "facilities": [
     "car park",
-    "hotel"
+    "pub/cafe",
+    "visitor center",
+    "nature reserve"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "waterside walking"
   ]
 }

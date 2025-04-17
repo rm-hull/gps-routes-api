@@ -77,17 +77,18 @@
   "display_address": "Shincliffe Church of England Primary School, Beal Walk, High Shincliffe, Shincliffe, County Durham, North East, England, DH1 2PN, United Kingdom",
   "postcode": "DH1 2PN",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views"
+    "bridge",
+    "hall",
+    "lake",
+    "countryside"
   ],
   "facilities": [
     "car park",

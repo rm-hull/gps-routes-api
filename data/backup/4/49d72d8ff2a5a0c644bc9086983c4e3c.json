@@ -120,23 +120,24 @@
   "nominatim_found": true,
   "display_address": "Broomhaugh, Broomhaugh and Riding, Riding Mill, Northumberland, North East, England, NE44 6EE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "park"
   ],
   "points_of_interest": [
-    "historical sites",
+    "bridge",
     "museum",
+    "castle",
     "waterfalls",
-    "castle"
+    "chapel"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

@@ -99,7 +99,7 @@
   "postcode": "LA22 9PG",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -107,12 +107,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural scenery"
+    "viewpoint",
+    "valley"
   ],
   "facilities": [
     "car park",
-    "rail station"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

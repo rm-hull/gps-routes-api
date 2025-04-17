@@ -58,22 +58,23 @@
   "postcode": "GL7 4AG",
   "district": "Cotswold",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "lake",
-    "river",
-    "park"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "lake",
+    "town",
+    "river"
   ],
   "facilities": [
+    "visitor center",
+    "pub/cafe",
     "car park",
-    "dog friendly",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

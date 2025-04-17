@@ -105,20 +105,21 @@
   "nominatim_found": true,
   "display_address": "Verwood Road, St. Leonards and St. Ives, St Ives, Dorset, England, BH24 2DD, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
+    "country park",
     "path"
   ],
   "points_of_interest": [
-    "country parks"
+    "country park"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "cycling",
     "walking"

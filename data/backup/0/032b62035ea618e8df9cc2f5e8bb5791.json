@@ -73,7 +73,7 @@
   "display_address": "New Road, Birchcliffe, Hebden Royd, Hebden Bridge, Calderdale, West Yorkshire, England, HX7 8EJ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -82,18 +82,19 @@
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls"
+    "historical site",
+    "viewpoint",
+    "waterfall"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

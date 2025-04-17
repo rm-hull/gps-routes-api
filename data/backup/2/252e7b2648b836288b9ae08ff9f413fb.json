@@ -96,27 +96,28 @@
   "postcode": "CA10 2PD",
   "district": "Askham",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "garden",
     "woodland",
-    "mountain"
+    "grassland",
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "castle ruins",
+    "bird watching center",
+    "paddocks",
+    "viewpoint"
   ],
   "facilities": [
-    "visitor center",
     "cafe",
     "shop",
-    "dog friendly",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

@@ -108,21 +108,22 @@
   "display_address": "Easthams Road, Crewkerne, Somerset, England, TA18 7AQ, United Kingdom",
   "postcode": "TA18 7AQ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "river"
+    "river",
+    "rural"
   ],
   "points_of_interest": [
-    "historic churches",
-    "villages",
-    "countryside"
+    "historic church",
+    "manor house",
+    "historic inn"
   ],
   "facilities": [
-    "pub",
-    "historic buildings"
+    "visitor center",
+    "pub/cafe",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

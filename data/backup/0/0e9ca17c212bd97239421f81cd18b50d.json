@@ -94,7 +94,7 @@
   "postcode": "PL20 6SW",
   "district": "West Devon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -102,14 +102,15 @@
     "moorland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "nature reserve"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "pottery shop",
-    "visitor center"
+    "cafe"
   ],
   "route_type": "circular",
   "activities": [

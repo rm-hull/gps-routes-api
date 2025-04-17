@@ -56,28 +56,29 @@
   "nominatim_found": true,
   "display_address": "Grand Union Canal (Paddington Arm) towpath, Westbourne Green, Paddington, London, Greater London, England, W2 6NE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "canal",
     "urban"
   ],
   "points_of_interest": [
-    "historical sites",
-    "parks",
-    "markets",
-    "cultural attractions"
+    "theatre",
+    "gardens",
+    "cricket ground",
+    "market"
   ],
   "facilities": [
-    "pub/cafe",
+    "pub",
+    "cafe",
     "visitor center",
+    "restaurant",
     "shops",
-    "fast food"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

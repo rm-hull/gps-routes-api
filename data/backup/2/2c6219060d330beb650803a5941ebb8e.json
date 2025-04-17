@@ -135,7 +135,7 @@
   "postcode": "LU3 3PQ",
   "district": "Upper Sundon",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -144,9 +144,11 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "countryside views"
+    "countryside"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

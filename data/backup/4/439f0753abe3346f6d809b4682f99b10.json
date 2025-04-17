@@ -81,22 +81,22 @@
   "display_address": "A496, Bryn Bwbach, Talsarnau, Gwynedd, Cymru / Wales, LL47 6YH, United Kingdom",
   "postcode": "LL47 6YH",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "moderate",
+  "difficulty": "hard",
   "terrain": [
-    "mountain",
-    "woodland"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "monument",
+    "viewpoint"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

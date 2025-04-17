@@ -89,17 +89,17 @@
   "postcode": "SO18 3NE",
   "district": "Eastleigh",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "water",
+    "water meadow",
     "grassland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "long distance trail"
+    "trail"
   ],
   "facilities": [
     "visitor center",

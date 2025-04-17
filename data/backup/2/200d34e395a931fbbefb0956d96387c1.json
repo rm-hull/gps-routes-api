@@ -101,26 +101,25 @@
   "display_address": "8, Rosemead, Gunthwaite and Ingbirchworth, Ingbirchworth, Sheffield, South Yorkshire, England, S36 7GQ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "reservoir",
-    "parkland"
+    "parkland",
+    "reservoir"
   ],
   "points_of_interest": [
-    "historical sites",
     "sculptures",
-    "art",
-    "conservation village"
+    "historical buildings",
+    "art centre",
+    "country house museum"
   ],
   "facilities": [
-    "car park",
     "visitor center",
     "antique centre",
     "craft workshops",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

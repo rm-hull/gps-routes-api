@@ -74,7 +74,7 @@
   "nominatim_found": true,
   "display_address": "Lulworth Cove Heritage Centre, Main Road, West Lulworth, Dorset, England, BH20 5RJ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -82,9 +82,9 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural arches",
-    "cliffs"
+    "viewpoint",
+    "arch",
+    "beach"
   ],
   "facilities": [
     "pub/cafe",

@@ -77,7 +77,7 @@
   "nominatim_found": true,
   "display_address": "Gloucester Cathedral, Cathedral Close, Kingsholm, Gloucester, Gloucestershire, England, GL1 2LY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -86,15 +86,15 @@
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
+    "historical site",
+    "viewpoint",
     "museum"
   ],
   "facilities": [
     "visitor center",
     "cafe",
     "car park",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

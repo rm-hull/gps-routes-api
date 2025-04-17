@@ -85,7 +85,7 @@
   "display_address": "Onslow Street, Guildford Park, Guildford, Surrey, England, GU1 4HB, United Kingdom",
   "postcode": "GU1 4HB",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -94,12 +94,13 @@
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "trails",
     "countryside"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

@@ -64,20 +64,20 @@
   "nominatim_found": true,
   "display_address": "Exeter Bridge, Derwent Street, Cathedral Quarter, Little Chester, Derby, East Midlands, England, DE1 2ED, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "lake"
+    "park",
+    "garden",
+    "historic site"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "footpaths"
   ],
   "route_type": "out and back",

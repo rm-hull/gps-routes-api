@@ -61,18 +61,16 @@
   "postcode": "DL8 2PR",
   "district": "Snape",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "garden",
-    "lake"
+    "grass"
   ],
   "points_of_interest": [
     "nature trail",
-    "children's trail",
-    "historical sites"
+    "children's trail"
   ],
   "facilities": [
     "visitor center",

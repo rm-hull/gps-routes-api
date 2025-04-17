@@ -75,7 +75,7 @@
   "nominatim_found": true,
   "display_address": "The Coach House Caf\u00e9, B3163, Corscombe, Beaminster, Dorset, England, DT8 3NP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
@@ -83,12 +83,12 @@
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "garden",
+    "trail"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

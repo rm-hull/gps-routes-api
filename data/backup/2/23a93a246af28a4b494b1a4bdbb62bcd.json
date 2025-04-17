@@ -134,7 +134,7 @@
   "display_address": "Lime Trees Avenue, Legar, Llangattock, Powys, Cymru / Wales, NP8 1LB, United Kingdom",
   "postcode": "NP8 1LB",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -143,14 +143,14 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "cairns",
     "caves",
     "nature reserve"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
   "route_type": "circular",

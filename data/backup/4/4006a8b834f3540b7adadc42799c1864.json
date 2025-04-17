@@ -99,22 +99,23 @@
   "nominatim_found": true,
   "display_address": "Ferry Road, Topsham Lock Cottage, Topsham, Exeter, Devon, England, EX3 0JN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "coastal",
-    "woodland"
+    "estuary",
+    "nature trail"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "viewpoints"
+    "mansion house",
+    "harbour",
+    "sculpture"
   ],
   "facilities": [
     "car park",
-    "dog friendly",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

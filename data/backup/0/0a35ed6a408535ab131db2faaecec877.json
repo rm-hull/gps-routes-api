@@ -105,17 +105,15 @@
   "district": "Oldham",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "moorland",
-    "road"
+    "moorland"
   ],
   "points_of_interest": [
-    "views",
-    "moorland"
+    "viewpoint"
   ],
   "facilities": [
     "car park",

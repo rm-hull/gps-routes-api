@@ -129,25 +129,26 @@
   "district": "Leeds",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterside",
-    "rural"
+    "waterside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "birdwatching",
-    "gardens"
+    "historical site",
+    "garden",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "nature reserve"
+    "dog friendly",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -119,24 +119,25 @@
   "postcode": "GU8 6LW",
   "district": "Waverley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heathland",
-    "water"
+    "woodland",
+    "fen"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "nature trails"
+    "viewpoint",
+    "natural reserve"
   ],
   "facilities": [
     "car park",
-    "walking trails"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

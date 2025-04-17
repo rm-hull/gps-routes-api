@@ -109,7 +109,7 @@
   "nominatim_found": true,
   "display_address": "Miller's Dale, Monsal Trail, Wormhill, Miller's Dale, High Peak, Derbyshire, East Midlands, England, SK17 8SN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -117,14 +117,12 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "archaeological sites"
+    "church",
+    "tomb"
   ],
   "facilities": [
     "car park",
-    "church",
-    "mill"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

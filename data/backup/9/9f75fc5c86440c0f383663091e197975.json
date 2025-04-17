@@ -104,7 +104,7 @@
   "display_address": "Asdale Road, Crigglestone, Kettlethorpe, Wakefield, West Yorkshire, England, WF4 3BJ, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -112,12 +112,11 @@
     "river"
   ],
   "points_of_interest": [
-    "historical ruins",
-    "nature reserve",
+    "ruins",
     "railway"
   ],
   "facilities": [
-    "watersports centre",
+    "watersports center",
     "cafe",
     "car park"
   ],

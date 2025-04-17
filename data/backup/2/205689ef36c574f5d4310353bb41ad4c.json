@@ -96,7 +96,7 @@
   "postcode": "DN15 9AB",
   "district": "Burton upon Stather",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -104,8 +104,9 @@
     "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "deer park",
+    "ice house",
+    "walled garden"
   ],
   "facilities": [
     "car park",

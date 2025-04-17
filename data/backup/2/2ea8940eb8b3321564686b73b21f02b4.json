@@ -101,21 +101,21 @@
   "postcode": "BD24 0HF",
   "district": "Settle",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "12 hours",
-  "difficulty": "hard",
+  "llama_cpp": true,
+  "estimated_duration": "under 12 hours",
+  "difficulty": "challenging",
   "terrain": [
-    "mountain",
-    "woodland"
+    "woodland",
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "caves"
+    "viewpoint",
+    "natural hole"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

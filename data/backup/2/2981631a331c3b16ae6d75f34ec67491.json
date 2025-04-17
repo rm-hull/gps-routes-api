@@ -124,18 +124,17 @@
   "display_address": "Blaenavon World Heritage Centre, Church Road, Forge Side, Blaenavon, Torfaen, Cymru / Wales, NP4 9AE, United Kingdom",
   "postcode": "NP4 9AE",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "rural",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
     "museum",
     "railway",
-    "lakes",
-    "historic buildings"
+    "lakes"
   ],
   "facilities": [
     "pub/cafe",

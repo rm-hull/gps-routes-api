@@ -100,18 +100,16 @@
   "nominatim_found": true,
   "display_address": "93, Cranmore Lane, Cargate, Aldershot, Rushmoor, Hampshire, England, GU11 3AP, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "wetland",
-    "park"
+    "wetland"
   ],
   "points_of_interest": [
     "nature reserve",
-    "lakes",
-    "wildlife"
+    "park"
   ],
   "facilities": [
     "car park",
@@ -119,6 +117,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

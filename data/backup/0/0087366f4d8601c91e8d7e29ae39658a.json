@@ -77,24 +77,23 @@
   "display_address": "Davington Priory, Davington Hill, Chart Mill, Faversham, Ospringe, Swale, Kent, England, ME13 7SJ, United Kingdom",
   "postcode": "ME13 7SJ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "coastal",
-    "marshland"
+    "marshland",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserves",
-    "countryside views"
+    "countryside views",
+    "market square",
+    "museum"
   ],
   "facilities": [
     "visitor center",
-    "museum",
-    "market square",
-    "church"
+    "car park",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

@@ -61,22 +61,19 @@
   "nominatim_found": true,
   "display_address": "Prior Park, Priory Close, Combe Down, Bath, Bath and North East Somerset, West of England, England, BA2 5AW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "meadows",
-    "lake"
+    "meadows"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
-    "summerhouse",
-    "ice house",
-    "cascade"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

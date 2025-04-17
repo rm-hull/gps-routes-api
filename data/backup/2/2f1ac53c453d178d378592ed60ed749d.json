@@ -138,23 +138,23 @@
   "display_address": "Chapel Street, East Meon, East Hampshire, Hampshire, England, GU32 1NT, United Kingdom",
   "postcode": "GU32 1NT",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "downland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "natural areas"
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling",

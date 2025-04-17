@@ -51,20 +51,19 @@
   "postcode": "LS8 1RL",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "lake"
+    "woodland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife viewing"
+    "historical site",
+    "parkland"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

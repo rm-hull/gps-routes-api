@@ -100,24 +100,24 @@
   "postcode": "NR25 7RY",
   "district": "North Norfolk",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "beach",
     "shingle",
-    "salt marsh",
-    "woodland"
+    "salt marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "visitor center",
+    "nature reserve",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "boat trips"
+    "pub/cafe",
+    "boat trips",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

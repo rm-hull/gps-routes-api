@@ -111,18 +111,19 @@
   "display_address": "Dunedin Close, Ferndown Town, Dudsbury, Ferndown, Dorset, England, BH22 9EB, United Kingdom",
   "postcode": "BH22 9EB",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
+    "forest",
     "woodland",
-    "waterfront",
-    "grassland"
+    "river"
   ],
   "points_of_interest": [
-    "nature trails",
-    "historical sites",
-    "flora and fauna"
+    "nature reserve",
+    "walking trails",
+    "barrow",
+    "common"
   ],
   "facilities": [
     "car park",

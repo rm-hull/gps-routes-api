@@ -100,7 +100,7 @@
   "nominatim_found": true,
   "display_address": "Elmdale, Castleford, Tidenham, Tutshill, Forest of Dean, Gloucestershire, England, NP16 7LA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,14 +109,13 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "natural features"
+    "ruins",
+    "cave",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

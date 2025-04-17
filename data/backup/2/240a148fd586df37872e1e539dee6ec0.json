@@ -72,22 +72,23 @@
   "display_address": "Commonside, High Wycombe, Buckinghamshire, England, HP13 5XG, United Kingdom",
   "postcode": "HP13 5XG",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "bird watching"
+    "historical site"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -95,19 +95,17 @@
   "nominatim_found": true,
   "display_address": "Alnwick Castle, Bailiffgate, Alnwick, Northumberland, North East, England, NE66 1NQ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
-    "beach"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "beaches",
-    "nature reserve"
+    "historical site",
+    "viewpoint",
+    "beach"
   ],
   "facilities": [
     "car park",

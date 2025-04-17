@@ -106,7 +106,7 @@
   "nominatim_found": true,
   "display_address": "The Courtyard, Worthing Road, New Town, Horsham, West Sussex, England, RH12 1SW, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -116,13 +116,13 @@
   ],
   "points_of_interest": [
     "museums",
-    "historical houses",
-    "deer park"
+    "historic houses",
+    "parkland"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "park"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

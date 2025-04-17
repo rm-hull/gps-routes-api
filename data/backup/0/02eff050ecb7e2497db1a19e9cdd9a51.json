@@ -106,22 +106,24 @@
   "display_address": "Dudley Road, Springfield, Oakham, Sandwell, West Midlands, England, B65 8QE, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "grassland",
+    "wooded areas",
     "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "archaeological sites",
-    "park"
+    "historical site",
+    "scheduled ancient monument",
+    "park",
+    "abbey"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

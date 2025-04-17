@@ -111,24 +111,24 @@
   "nominatim_found": true,
   "display_address": "The Promenade, Old Felixstowe, Felixstowe, East Suffolk, Suffolk, England, IP11 7LU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "heathland",
-    "coastal",
-    "forest"
+    "coastal"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "historic towns",
-    "villages",
+    "nature reserve",
+    "forest",
+    "village",
     "river"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

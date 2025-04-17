@@ -76,17 +76,17 @@
   "nominatim_found": true,
   "display_address": "9, Woodrow Park, Nunsthorpe, Grimsby, North East Lincolnshire, England, DN33 2EF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "country lanes",
-    "pasture"
+    "hill"
   ],
   "points_of_interest": [
-    "historic churches",
     "villages",
+    "historic churches",
     "park",
     "river"
   ],

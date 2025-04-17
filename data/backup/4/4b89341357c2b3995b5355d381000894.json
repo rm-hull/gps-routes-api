@@ -100,23 +100,24 @@
   "postcode": "BS41 8LG",
   "district": "Dundry",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "grassland",
     "hill",
-    "country lanes"
+    "countryside",
+    "meadows"
   ],
   "points_of_interest": [
-    "historic church",
-    "iron age hill fort",
-    "reservoirs"
+    "hill fort",
+    "reservoirs",
+    "church",
+    "historic church"
   ],
   "facilities": [
     "pub/cafe",
-    "church",
-    "historic church"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

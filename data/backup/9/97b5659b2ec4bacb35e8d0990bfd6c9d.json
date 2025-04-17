@@ -86,17 +86,16 @@
   "postcode": "IV27 4HL",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 - 2.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
-    "waterfront",
-    "rural"
+    "loch",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "scenery"
+    "historical site",
+    "waterfall"
   ],
   "facilities": [
     "car park"

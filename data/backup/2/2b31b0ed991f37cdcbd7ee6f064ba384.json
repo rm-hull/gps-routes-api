@@ -140,25 +140,26 @@
   "postcode": "SK14 6AX",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moors",
     "canal",
-    "river",
-    "country park"
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "nature reserve",
-    "wildflower meadows"
+    "country park",
+    "valley way"
   ],
   "facilities": [
+    "visitor center",
     "cafe",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

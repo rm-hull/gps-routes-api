@@ -105,7 +105,7 @@
   "nominatim_found": true,
   "display_address": "George and Dragon, King Street, Fordwich, Canterbury, Kent, England, CT2 0DB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -113,9 +113,8 @@
     "river"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "lakes",
-    "river valley"
+    "nature reserve",
+    "lake"
   ],
   "facilities": [
     "picnic site",

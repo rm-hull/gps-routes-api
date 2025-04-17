@@ -101,7 +101,7 @@
   "display_address": "Tyntesfield Lower Gardens, Bristol Road, Wraxall and Failand, Flax Bourton, North Somerset, England, BS48 1NE, United Kingdom",
   "district": "Flax Bourton",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
@@ -109,17 +109,15 @@
     "garden"
   ],
   "points_of_interest": [
-    "gardens",
     "visitor center",
-    "historical sites"
+    "garden"
   ],
   "facilities": [
     "visitor center",
     "gift shop",
-    "garden shop",
-    "car park"
+    "garden shop"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -109,7 +109,7 @@
   "display_address": "Waterhead, Cumberland, England, CA8 2NA, United Kingdom",
   "district": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -118,16 +118,16 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
+    "museum",
     "waterfall",
-    "Roman ruins",
     "village"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "museum",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

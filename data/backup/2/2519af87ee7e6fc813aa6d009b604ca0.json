@@ -84,7 +84,7 @@
   "nominatim_found": true,
   "display_address": "The Street, Witnesham, East Suffolk, Suffolk, England, IP6 9FA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -92,12 +92,11 @@
     "coastal"
   ],
   "points_of_interest": [
-    "villages",
-    "river"
+    "villages"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

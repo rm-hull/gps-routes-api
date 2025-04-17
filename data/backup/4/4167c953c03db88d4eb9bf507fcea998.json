@@ -71,20 +71,22 @@
   "display_address": "Waterlode, Millfields, Nantwich, Cheshire East, England, CW5 5TE, United Kingdom",
   "postcode": "CW5 5TE",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "waterfront",
-    "footpath"
+    "footpath",
+    "waterside"
   ],
   "points_of_interest": [
-    "rural views",
-    "historical sites",
-    "wildlife"
+    "mansion",
+    "lake",
+    "bridge",
+    "aqueduct"
   ],
   "facilities": [
+    "visitor center",
     "signposted"
   ],
   "route_type": "circular",

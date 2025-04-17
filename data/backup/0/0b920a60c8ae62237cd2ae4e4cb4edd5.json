@@ -77,7 +77,7 @@
   "display_address": "B5109, Pentraeth, Ynys M\u00f4n / Isle of Anglesey, Cymru / Wales, LL75 8YH, United Kingdom",
   "district": "Pentraeth",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -85,7 +85,6 @@
     "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
     "beach",
     "rock formations"
   ],
@@ -96,7 +95,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

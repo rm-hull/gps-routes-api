@@ -145,22 +145,22 @@
   "display_address": "The Moor, Rise End, Middleton CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 4LR, United Kingdom",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "open fields",
+    "field",
     "mountain"
   ],
   "points_of_interest": [
-    "reservoirs",
-    "viewpoints"
+    "reservoir",
+    "hill"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling",

@@ -75,26 +75,22 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "canal"
+    "water"
   ],
   "points_of_interest": [
     "villages",
     "churches",
-    "watermills",
-    "lakes",
-    "nature reserves"
+    "watermills"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
     "visitor center",
-    "car park",
-    "dog friendly"
+    "water park"
   ],
   "route_type": "circular",
   "activities": [

@@ -73,25 +73,27 @@
   "nominatim_found": true,
   "display_address": "Ringwood, New Forest, Hampshire, England, BH24 1EB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "heathland"
   ],
   "points_of_interest": [
-    "bird watching",
-    "nature reserve",
+    "visitor center",
+    "bird hides",
     "trails"
   ],
   "facilities": [
     "car park",
-    "visitor center",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

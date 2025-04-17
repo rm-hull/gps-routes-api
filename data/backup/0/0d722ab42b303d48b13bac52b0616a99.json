@@ -113,18 +113,20 @@
   "display_address": "Town Furlong, Bodicote, Cherwell, Oxfordshire, England, OX15 4DP, United Kingdom",
   "postcode": "OX15 4DP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "easy",
   "terrain": [
-    "footpath",
-    "rural"
+    "footpath"
   ],
   "points_of_interest": [
     "historic buildings",
-    "farms",
-    "mills",
-    "lake"
+    "windmill",
+    "church",
+    "house",
+    "farm",
+    "lake",
+    "mill"
   ],
   "facilities": [
     "car park"

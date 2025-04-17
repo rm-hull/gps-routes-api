@@ -175,8 +175,8 @@
   "display_address": "Albert Terrace, Saltaire, Shipley, Saltaire, Bradford, West Yorkshire, England, BD18 4PR, United Kingdom",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 days",
+  "llama_cpp": true,
+  "estimated_duration": "2 days",
   "difficulty": "hard",
   "terrain": [
     "moorland",
@@ -185,15 +185,16 @@
     "riverside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "waterfalls",
-    "national park"
+    "historical site",
+    "waterfall",
+    "mountain",
+    "reservoir",
+    "estate"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

@@ -84,7 +84,7 @@
   "nominatim_found": true,
   "display_address": "Clapdale Lane, Clapham cum Newby, Clapham, North Yorkshire, York and North Yorkshire, England, LA2 8EF, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "hard",
   "terrain": [
@@ -92,12 +92,12 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "landmarks"
+    "viewpoint",
+    "landmark"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "trig point",
     "windshelter"
   ],
   "route_type": "circular",

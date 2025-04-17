@@ -73,15 +73,14 @@
   "nominatim_found": true,
   "display_address": "Langford, Central Bedfordshire, England, SG18 9SA, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "3 miles",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "path"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historic mill",
     "gardens"
   ],
   "facilities": [

@@ -129,7 +129,7 @@
   "display_address": "South Causeway, Arne, Wareham, Dorset, England, BH20 4LW, United Kingdom",
   "postcode": "BH20 4LW",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -137,11 +137,12 @@
     "heathland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife"
+    "viewpoint"
   ],
   "facilities": [
-    "waymarked"
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "out and back",
   "activities": [

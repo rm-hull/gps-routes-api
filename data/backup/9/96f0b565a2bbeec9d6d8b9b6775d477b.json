@@ -95,21 +95,21 @@
   "postcode": "HX6 3RE",
   "county": null,
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "moorland",
     "woodland",
-    "canal"
+    "water"
   ],
   "points_of_interest": [
-    "wooded valley",
-    "heathland"
+    "valley",
+    "moor"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

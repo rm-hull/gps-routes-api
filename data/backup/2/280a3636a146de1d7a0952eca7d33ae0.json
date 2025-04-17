@@ -59,12 +59,11 @@
   "display_address": "Six Bells, Summer Road, Walsham-le-Willows, Suffolk, England, IP31 3AH, United Kingdom",
   "postcode": "IP31 3AH",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "footpaths"
+    "rural"
   ],
   "points_of_interest": [
     "historic sites"
@@ -72,7 +71,7 @@
   "facilities": [
     "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

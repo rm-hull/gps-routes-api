@@ -125,21 +125,19 @@
   "display_address": "Sheffield Road, Eckington, North East Derbyshire, Derbyshire, East Midlands, England, S21 4FP, United Kingdom",
   "postcode": "S21 4FP",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "reservoir",
+    "country park",
     "edge"
   ],
   "points_of_interest": [
-    "views",
-    "country park",
-    "climbing spot"
+    "viewpoint"
   ],
   "facilities": [
-    "waymarking"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

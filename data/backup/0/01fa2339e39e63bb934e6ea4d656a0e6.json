@@ -68,8 +68,8 @@
   "nominatim_found": true,
   "display_address": "Penarth Pier, Penarth Marina, Penarth, Vale of Glamorgan, Cymru / Wales, CF64 3AU, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
+  "llama_cpp": true,
+  "estimated_duration": "3 miles",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
@@ -78,16 +78,16 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "historical sites",
-    "gardens"
+    "historical site",
+    "garden"
   ],
   "facilities": [
     "visitor center",
     "bird hides",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

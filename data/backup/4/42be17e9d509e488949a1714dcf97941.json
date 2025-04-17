@@ -43,11 +43,15 @@
   "postcode": "GL12 8SN",
   "district": "Charfield",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "easy",
-  "terrain": [],
-  "points_of_interest": [],
+  "terrain": [
+    "woodland"
+  ],
+  "points_of_interest": [
+    "historical site"
+  ],
   "facilities": [],
   "route_type": "out and back",
   "activities": [

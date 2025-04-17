@@ -76,19 +76,18 @@
   "postcode": "FK8 3RD",
   "district": "Aberfoyle",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "lake"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "ruins",
-    "wildlife"
+    "historical site",
+    "ruins"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "circular",

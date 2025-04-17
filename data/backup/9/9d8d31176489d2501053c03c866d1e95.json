@@ -73,12 +73,11 @@
   "postcode": "SS11 7RF",
   "district": "Chelmsford",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1-2 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "urban"
+    "river"
   ],
   "points_of_interest": [
     "historical buildings"

@@ -109,22 +109,24 @@
   "postcode": "RH19 4HP",
   "district": "Wealden",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
-    "meadow"
+    "meadows",
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "bird sanctuary"
+    "bird sanctuary",
+    "parkland",
+    "gardens"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

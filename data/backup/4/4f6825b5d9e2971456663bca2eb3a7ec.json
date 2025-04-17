@@ -85,22 +85,20 @@
   "nominatim_found": true,
   "display_address": "Butcher & Barlow LLP, 6, Church Street, Netherton, Overton, Frodsham, Cheshire West and Chester, England, WA6 7EB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "lake",
-    "canal"
+    "lake"
   ],
   "points_of_interest": [
-    "natural areas",
-    "waterfront"
+    "lake",
+    "reservoir"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "reservoir"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

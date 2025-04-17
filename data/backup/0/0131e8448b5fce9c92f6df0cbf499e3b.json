@@ -96,7 +96,7 @@
   "nominatim_found": true,
   "display_address": "Leonards Road, Ivybridge, South Hams, Devon, England, PL21 0RU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "6 miles",
   "difficulty": "moderate",
   "terrain": [
@@ -104,12 +104,14 @@
     "river"
   ],
   "points_of_interest": [
+    "local church",
     "countryside views",
-    "local church"
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
-    "waymarked trail"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

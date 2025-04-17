@@ -73,22 +73,21 @@
   "postcode": "DE56 2EL",
   "district": "Amber Valley",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "canal",
-    "rural"
+    "canal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails",
-    "heritage way"
+    "heritage site",
+    "woodland"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "footpath"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

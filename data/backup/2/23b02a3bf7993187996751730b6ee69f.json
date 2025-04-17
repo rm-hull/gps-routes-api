@@ -69,7 +69,7 @@
   "region": null,
   "state": "Northern Ireland / Tuaisceart \u00c9ireann",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1.5 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -78,12 +78,12 @@
   ],
   "points_of_interest": [
     "historical sites",
-    "city views"
+    "cathedral"
   ],
   "facilities": [
-    "car park"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

@@ -80,7 +80,7 @@
   "nominatim_found": true,
   "display_address": "Welsh Street, Chepstow, Monmouthshire, Cymru / Wales, NP16 5LN, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -88,14 +88,12 @@
     "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "river"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "footpaths"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

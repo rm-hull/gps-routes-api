@@ -86,22 +86,23 @@
   "display_address": "Wickham Road, Wickhambreaux, Ickham, Canterbury, Kent, England, CT3 1RQ, United Kingdom",
   "postcode": "CT3 1RQ",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "woodland",
-    "chalk stream"
+    "chalk stream",
+    "woodland"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "historic village",
-    "riverbanks"
+    "village green",
+    "national nature reserve",
+    "river"
   ],
   "facilities": [
     "picnic site",
-    "pub",
+    "pub/cafe",
+    "visitor center",
     "boat trips"
   ],
   "route_type": "circular",

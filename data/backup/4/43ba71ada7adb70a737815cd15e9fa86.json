@@ -120,7 +120,7 @@
   "nominatim_found": true,
   "display_address": "Beach Road, East Beach, Selsey, Chichester, West Sussex, England, PO20 0SN, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "1 mile",
   "difficulty": "easy",
   "terrain": [
@@ -129,14 +129,14 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "views"
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "cafe",
     "fish huts"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking"
   ]

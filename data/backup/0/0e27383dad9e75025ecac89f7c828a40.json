@@ -103,22 +103,23 @@
   "postcode": "LL21 9TT",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "moorland",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "views"
+    "nature reserve",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "cafe"
+    "cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

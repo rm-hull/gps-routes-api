@@ -73,22 +73,21 @@
   "nominatim_found": true,
   "display_address": "Maenclochog, Rosebush, Pembrokeshire, Cymru / Wales, SA66 7QT, United Kingdom",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "heath",
-    "grassland"
+    "grassland",
+    "pine trees"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "hillfort"
+    "hillfort",
+    "viewpoint"
   ],
   "facilities": [
-    "car park",
-    "dog friendly"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

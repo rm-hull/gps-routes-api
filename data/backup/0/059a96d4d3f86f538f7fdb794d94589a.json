@@ -103,22 +103,23 @@
   "display_address": "Calbourne Road, Gunville, Newport, Carisbrooke, Isle of Wight, England, PO30 1NX, United Kingdom",
   "postcode": "PO30 1NX",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "hard",
   "terrain": [
-    "woodland",
-    "coastal",
-    "downland"
+    "downland",
+    "forest",
+    "coastal"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "castle",
+    "garden",
+    "chapel",
+    "golf course"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [

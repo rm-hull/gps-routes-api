@@ -144,7 +144,7 @@
   "display_address": "Station Road, Tramway Industrial Estate, Banbury, Cherwell, Oxfordshire, England, OX16 5AY, United Kingdom",
   "postcode": "OX16 5AY",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -153,15 +153,15 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
-    "waterways"
+    "historical site",
+    "countryside",
+    "village"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly",
-    "wheelchair accessible"
+    "community woodland"
   ],
   "route_type": "circular",
   "activities": [

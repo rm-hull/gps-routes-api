@@ -91,17 +91,17 @@
   "nominatim_found": true,
   "display_address": "Nidderdale Museum, King Street, High and Low Bishopside, Pateley Bridge, North Yorkshire, York and North Yorkshire, England, HG3 5LE, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "waterfall"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "sculpture"
+    "historical site",
+    "sculpture",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",

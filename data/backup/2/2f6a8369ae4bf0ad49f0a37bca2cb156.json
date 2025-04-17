@@ -120,23 +120,20 @@
   "postcode": "SK17 0BU",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "valley",
-    "woodland"
+    "valley"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "geology"
+    "geological area",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
-    "car park",
-    "visitor center"
+    "footpath"
   ],
   "route_type": "circular",
   "activities": [

@@ -99,7 +99,7 @@
   "nominatim_found": true,
   "display_address": "Rochdale to Bacup Line, Whitworth, Rochdale, Lancashire, Greater Manchester, England, OL12 8SB, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -108,14 +108,13 @@
   ],
   "points_of_interest": [
     "waterfalls",
-    "wildlife",
-    "historic structures",
-    "reservoir"
+    "picnic areas",
+    "viaduct"
   ],
   "facilities": [
     "visitor center",
     "cafe",
-    "picnic areas"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

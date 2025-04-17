@@ -75,23 +75,20 @@
   "postcode": "BH19 3AU",
   "district": "Studland",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "grass",
-    "path"
+    "grass"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "natural formations"
+    "viewpoint",
+    "historical site"
   ],
   "facilities": [
     "car park",
-    "bus",
-    "beach"
+    "bus"
   ],
   "route_type": "out and back",
   "activities": [

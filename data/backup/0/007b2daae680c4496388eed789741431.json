@@ -115,23 +115,21 @@
   "display_address": "Market Square, Stow-on-the-Wold, Cotswold, Gloucestershire, England, GL54 1AF, United Kingdom",
   "postcode": "GL54 1AF",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "village"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "manor"
+    "village",
+    "manor",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",
     "visitor center",
-    "car park",
-    "wheelchair accessible"
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

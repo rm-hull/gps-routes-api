@@ -91,21 +91,20 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "full day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural",
     "hill"
   ],
   "points_of_interest": [
-    "cultural sites",
-    "riverside views",
-    "orchards"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
-    "waymarking"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

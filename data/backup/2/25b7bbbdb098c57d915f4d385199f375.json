@@ -77,22 +77,22 @@
   "nominatim_found": true,
   "display_address": "Station Road, Oaken, Codsall, South Staffordshire, Staffordshire, England, WV8 1BZ, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
-    "rural"
+    "parkland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "park"
+    "historical hall",
+    "park",
+    "lake"
   ],
   "facilities": [
     "visitor center",
-    "public footpaths"
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

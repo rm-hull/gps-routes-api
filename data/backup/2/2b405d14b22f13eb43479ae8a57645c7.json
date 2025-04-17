@@ -165,7 +165,7 @@
   "region": "Greater London",
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -174,12 +174,12 @@
     "open space"
   ],
   "points_of_interest": [
-    "parks",
-    "common land",
-    "country park"
+    "country park",
+    "common"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

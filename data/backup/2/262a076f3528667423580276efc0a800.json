@@ -104,18 +104,18 @@
   "postcode": "DE4 5EX",
   "district": "Derbyshire Dales",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "water"
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical ruins",
     "waterfalls"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
   "route_type": "out and back",

@@ -75,7 +75,7 @@
   "nominatim_found": true,
   "display_address": "Flatts Lane, Normanby, Redcar and Cleveland, Tees Valley, England, TS6 0RU, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -83,8 +83,7 @@
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites"
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",

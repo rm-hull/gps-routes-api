@@ -66,24 +66,25 @@
   "display_address": "Crab Hill, Shortlands, London Borough of Bromley, London, Greater London, England, BR3 5HE, United Kingdom",
   "postcode": "BR3 5HE",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "llama_cpp": true,
+  "estimated_duration": "1.5 hours",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "grassland"
   ],
   "points_of_interest": [
-    "wildflower areas",
-    "historical sites",
-    "parkland"
+    "mansion",
+    "sensory garden",
+    "wildflower areas"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

@@ -99,18 +99,18 @@
   "postcode": "PL20 6SG",
   "district": "Teignbridge",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "moorland",
-    "woodland"
+    "upland"
   ],
   "points_of_interest": [
-    "historical bridges",
-    "viewpoints",
-    "long distance trail"
+    "bridge",
+    "viewpoint",
+    "trail"
   ],
   "facilities": [
     "car park",

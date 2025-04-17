@@ -128,15 +128,15 @@
   "nominatim_found": true,
   "display_address": "Brampton Sidings, Hempstalls, Newcastle-under-Lyme, Staffordshire, England, ST5 0SR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "1.5 hours",
+  "llama_cpp": true,
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront"
+    "grassland"
   ],
   "points_of_interest": [
-    "open meadows",
+    "meadows",
     "woodland glades",
     "pools"
   ],
@@ -145,6 +145,7 @@
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "strolling"
   ]
 }

@@ -77,18 +77,16 @@
   "display_address": "Station Approach, Wellow, Grimsby, North East Lincolnshire, England, DN31 1JN, United Kingdom",
   "postcode": "DN31 1JN",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "urban"
+    "woodland"
   ],
   "points_of_interest": [
     "museum",
-    "gardens",
-    "lake",
-    "historical sites"
+    "park",
+    "gardens"
   ],
   "facilities": [
     "visitor center",

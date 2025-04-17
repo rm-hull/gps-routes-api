@@ -67,7 +67,7 @@
   "nominatim_found": true,
   "display_address": "High Street, Crewe by Farndon, Farndon, Cheshire West and Chester, England, CH3 6QG, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -75,12 +75,12 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "settlements",
-    "castle ruins"
+    "historical site",
+    "settlement"
   ],
   "facilities": [
-    "car park"
+    "visitor center",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [

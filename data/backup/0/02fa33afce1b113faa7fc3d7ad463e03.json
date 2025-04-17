@@ -81,7 +81,7 @@
   "nominatim_found": true,
   "display_address": "Castle Street, Ongar, Chipping Ongar, Epping Forest, Essex, England, CM5 9JY, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -89,11 +89,11 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages"
+    "historical site",
+    "village"
   ],
   "facilities": [
-    "pub"
+    "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [

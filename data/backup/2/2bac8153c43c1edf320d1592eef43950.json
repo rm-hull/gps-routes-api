@@ -101,7 +101,7 @@
   "postcode": "SA70 7UJ",
   "district": null,
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -109,16 +109,18 @@
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "religious sites",
-    "wildlife"
-  ],
-  "facilities": [
-    "car park",
+    "monastery",
+    "village green",
+    "cottages",
+    "lighthouse",
     "beach"
   ],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park",
+    "dog friendly"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -98,15 +98,17 @@
   "postcode": "ST13 8TS",
   "district": "Staffordshire Moorlands",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "mountain"
+    "reservoir",
+    "moorland",
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "reservoir",
+    "viewpoint"
   ],
   "facilities": [
     "pub/cafe",

@@ -70,23 +70,23 @@
   "display_address": "Baledmund Road, Balnakeilly, Moulin, Perth and Kinross, Alba / Scotland, PH16 5EL, United Kingdom",
   "district": "Moulin",
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "moderate",
+  "difficulty": "hard",
   "terrain": [
     "woodland",
-    "mountain",
-    "river",
-    "loch"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "waterfalls",
     "picnic spots"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

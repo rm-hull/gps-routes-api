@@ -115,16 +115,15 @@
   "nominatim_found": true,
   "display_address": "Sticklepath, West Devon, Devon, England, EX20 2NR, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland",
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "stone circle"
   ],
   "facilities": [

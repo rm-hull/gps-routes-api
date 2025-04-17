@@ -91,25 +91,25 @@
   "display_address": "Porthrepta Road, Carbis Bay, St. Ives, Cornwall, England, TR26 2JL, United Kingdom",
   "postcode": "TR26 2JL",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
-    "coastal",
-    "beach"
+    "coastal"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "art galleries",
-    "museums",
-    "coastal scenery"
+    "viewpoint",
+    "beach",
+    "art gallery",
+    "museum"
   ],
   "facilities": [
     "car park",
-    "refreshments",
+    "pub/cafe",
+    "dog friendly",
     "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

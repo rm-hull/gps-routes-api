@@ -96,18 +96,20 @@
   "display_address": "FP 239, Albury, Guildford, Surrey, England, GU5 9BH, United Kingdom",
   "district": "Guildford",
   "state": "England",
-  "llama_cpp": false,
-  "estimated_duration": "half day",
+  "llama_cpp": true,
+  "estimated_duration": "9 hours",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
     "parkland",
-    "rural"
+    "lake"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "village"
+    "church",
+    "village",
+    "tea room",
+    "common",
+    "viewpoint"
   ],
   "facilities": [
     "tea room",

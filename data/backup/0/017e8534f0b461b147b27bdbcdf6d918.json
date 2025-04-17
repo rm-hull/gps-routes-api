@@ -120,7 +120,7 @@
   "postcode": "EH23 4TF",
   "district": null,
   "state": "Alba / Scotland",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "3-4 hours",
   "difficulty": "moderate",
   "terrain": [
@@ -128,12 +128,12 @@
     "waterfront"
   ],
   "points_of_interest": [
-    "waterfront",
-    "countryside"
+    "visitor center",
+    "reservoir"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "footpaths"
   ],
   "route_type": "circular",
   "activities": [

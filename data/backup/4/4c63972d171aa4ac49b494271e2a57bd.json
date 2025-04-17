@@ -66,7 +66,7 @@
   "region": null,
   "state": "England",
   "country": "United Kingdom",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
@@ -74,9 +74,8 @@
     "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
     "nature reserve",
-    "archaeological sites"
+    "monastery"
   ],
   "facilities": [
     "visitor center",

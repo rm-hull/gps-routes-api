@@ -76,21 +76,19 @@
   "display_address": "Ynysddu, Pont-y-waun, Wattsville, Caerphilly, Cymru / Wales, NP11 7BD, United Kingdom",
   "district": "Pont-y-waun",
   "state": "Cymru / Wales",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "meadows",
-    "mountain"
+    "meadows"
   ],
   "points_of_interest": [
-    "views",
-    "transmitter"
+    "views"
   ],
   "facilities": [
     "car park",
-    "footpaths"
+    "transmitter"
   ],
   "route_type": "circular",
   "activities": [

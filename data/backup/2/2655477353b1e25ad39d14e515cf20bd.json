@@ -86,17 +86,20 @@
   "nominatim_found": true,
   "display_address": "10, Cathedral Close, The Close, Winchester, Hampshire, England, SO23 9LS, United Kingdom",
   "state": "England",
-  "llama_cpp": false,
+  "llama_cpp": true,
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites"
+    "pilgrimage route"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]
