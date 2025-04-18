@@ -10,7 +10,7 @@
             "request": "launch",
             "mode": "auto",
             "program": "main.go",
-            "args": ["server"]
+            "args": ["api-server", "8080"]
         },
         {
             "name": "Import data",

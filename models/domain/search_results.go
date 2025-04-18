@@ -5,7 +5,7 @@ type SearchResults struct {
 
 	Hits []RouteSummary `json:"hits"`
 
-	Facets map[string]map[string]int64 `json:"facets,omitempty"`
+	Facets Facets `json:"facets,omitempty"`
 
 	Attribution []string `json:"attribution"`
 }
