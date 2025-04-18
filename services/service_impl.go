@@ -11,9 +11,18 @@ import (
 	"github.com/rm-hull/gps-routes-api/services/osdatahub"
 )
 
+var ATTRIBUTION = []string{
+	"GPS Cycle and Walking Routes: https://gps-routes.co.uk",
+	"OS DataHub: Names API. https://www.ordnancesurvey.co.uk",
+	"Nominatim: Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+	"Llama.cpp: https://github.com/ggml-org/llama.cpp/blob/master/LICENSE",
+	"lmstudio-community/gemma-3-4b-it-Q8_0.gguf: https://ai.google.dev/gemma/terms",
+}
+
 type RoutesService interface {
 	GetRouteByID(objectID string) (*domain.RouteMetadata, error)
 	Search(criteria *request.SearchRequest) (*domain.SearchResults, error)
+	RefData() (*domain.RefData, error)
 }
 
 type RoutesServiceImpl struct {
@@ -47,56 +56,46 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 
 	totalChan := make(chan int64, 1)
 	resultsChan := make(chan []domain.RouteSummary, 1)
-	facetsChan := make(chan facet, 5)
-	errorChan := make(chan error, 2)
+	facetsChan := make(chan facet, len(FACET_FIELDS))
+	errorChan := make(chan error)
 
 	fetchCounts := func() {
 		total, err := service.repository.CountAll(ctx, criteria)
 		if err != nil {
 			errorChan <- err
-			return
+		} else {
+			totalChan <- total
 		}
-		totalChan <- total
 	}
 
 	fetchResults := func() {
 		results, err := service.repository.SearchHits(ctx, criteria)
 		if err != nil {
 			errorChan <- err
-			return
+		} else {
+			resultsChan <- *results
 		}
-		resultsChan <- *results
-	}
-
-	fetchFacet := func(fieldName string, limit int32, unnest bool, excludeFacets ...string) {
-		results, err := service.repository.FacetCounts(ctx, criteria, fieldName, limit, unnest, excludeFacets...)
-		if err != nil {
-			errorChan <- err
-		}
-
-		facetsChan <- facet{Name: fieldName, Values: *results}
 	}
 
 	go fetchResults()
 	go fetchCounts()
-	go fetchFacet("district", 20, false, "district")
-	go fetchFacet("county", 100, false, "county", "district")
-	go fetchFacet("region", 20, false, "region", "county", "district")
-	go fetchFacet("state", 20, false, "state", "region", "county", "district")
-	go fetchFacet("country", 10, false, "country", "state", "region", "county", "district")
-	go fetchFacet("route_type", 10, false, "route_type")
-	go fetchFacet("difficulty", 10, false, "difficulty")
-	go fetchFacet("estimated_duration", 10, false, "estimated_duration")
-	go fetchFacet("terrain", 50, true, "terrain")
-	go fetchFacet("facilities", 50, true, "facilities")
-	go fetchFacet("activities", 50, true, "activities")
-	go fetchFacet("points_of_interest", 50, true, "points_of_interest")
+
+	for fieldName, facetConfig := range FACET_FIELDS {
+		go func() {
+			results, err := service.repository.FacetCounts(ctx, criteria, fieldName, facetConfig.Limit, facetConfig.Unnest, facetConfig.Excluded...)
+			if err != nil {
+				errorChan <- err
+			} else {
+				facetsChan <- facet{Name: fieldName, Values: *results}
+			}
+		}()
+	}
 
 	var total int64
 	var results []domain.RouteSummary
 
-	facets := make(map[string]map[string]int64, 0)
-	remaining := 14
+	facets := make(domain.Facets, len(FACET_FIELDS))
+	remaining := 2 + len(FACET_FIELDS) // 2 for total and results, plus the number of facets
 
 	for remaining > 0 {
 		select {
@@ -115,16 +114,50 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 	}
 
 	return &domain.SearchResults{
-		Hits:   results,
-		Total:  total,
-		Facets: facets,
-		Attribution: []string{
-			"GPS Cycle and Walking Routes: https://gps-routes.co.uk",
-			"OS DataHub: Names API. https://www.ordnancesurvey.co.uk",
-			"Nominatim: Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
-			"Llama.cpp: https://github.com/ggml-org/llama.cpp/blob/master/LICENSE",
-			"lmstudio-community/gemma-3-4b-it-Q8_0.gguf: https://ai.google.dev/gemma/terms",
-		},
+		Hits:        results,
+		Total:       total,
+		Facets:      facets,
+		Attribution: ATTRIBUTION,
+	}, nil
+}
+
+func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {
+	ctx, cancel := context.WithTimeout(context.Background(), service.searchTimeout)
+	defer cancel()
+
+	facetsChan := make(chan facet, len(FACET_FIELDS))
+	errorChan := make(chan error)
+	emptyCriteria := request.SearchRequest{}
+
+	for fieldName, facetConfig := range FACET_FIELDS {
+		go func() {
+			results, err := service.repository.FacetCounts(ctx, &emptyCriteria, fieldName, -1 /* no limit */, facetConfig.Unnest)
+			if err != nil {
+				errorChan <- err
+			} else {
+				facetsChan <- facet{Name: fieldName, Values: *results}
+			}
+		}()
+	}
+
+	facets := make(domain.Facets, len(FACET_FIELDS))
+	remaining := len(FACET_FIELDS)
+
+	for remaining > 0 {
+		select {
+		case err := <-errorChan:
+			return nil, err
+		case facet := <-facetsChan:
+			remaining--
+			facets[facet.Name] = facet.Values
+		case <-ctx.Done():
+			return nil, ctx.Err()
+		}
+	}
+
+	return &domain.RefData{
+		Facets:      facets,
+		Attribution: ATTRIBUTION,
 	}, nil
 }
 
