@@ -2,12 +2,11 @@ package cmds
 
 import (
 	"context"
-	"errors"
+	"encoding/json"
 	"fmt"
 	"log"
 
 	"github.com/earthboundkid/versioninfo/v2"
-	"github.com/gin-gonic/gin"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )
@@ -19,15 +18,9 @@ func NewSseMcpServer(port int) {
 		"gps-routes",
 		versioninfo.Short(),
 		server.WithLogging(),
+		server.WithRecovery(),
 		server.WithToolCapabilities(true),
-	)
-
-	weatherTool := mcp.NewTool("get_weather",
-		mcp.WithDescription("Get current weather information for a location"),
-		mcp.WithString("location",
-			mcp.Required(),
-			mcp.Description("City name or zip"),
-		),
+		server.WithResourceCapabilities(true, true),
 	)
 
 	gpsRoutesTool := mcp.NewTool("gps_routes",
@@ -48,7 +41,15 @@ func NewSseMcpServer(port int) {
 		}),
 	)
 
-	s.AddTool(weatherTool, weatherHandler)
+	refDataResources := mcp.NewResource(
+		"/ref-data",
+		"Reference Data",
+		mcp.WithMIMEType("application/json"),
+		mcp.WithResourceDescription(
+			"Reference data for the GPS Routes API, detailing all the facets and their possbile values. Note that the key represents the valid facet values, while the numeric values are the counts of how many instances there are. You should infer higher numbers mean more popular facets."),
+	)
+
+	s.AddResource(refDataResources, refDataHandler)
 	s.AddTool(gpsRoutesTool, gpsRoutesHandler)
 
 	log.Printf("Starting MCP SSE Server on port %d...", port)
@@ -56,22 +57,42 @@ func NewSseMcpServer(port int) {
 	log.Fatalf("MCP SSE Server failed to start on port %d: %v", port, err)
 }
 
-func McpMiddleware(sseServer *server.SSEServer) gin.HandlerFunc {
-	return func(c *gin.Context) {
-		// c.Writer.Header().Set("content-type", "application/json; charset=utf-8")
-		sseServer.ServeHTTP(c.Writer, c.Request)
-	}
-}
-
-func weatherHandler(ctx context.Context, request mcp.CallToolRequest) (*mcp.CallToolResult, error) {
-	location, ok := request.Params.Arguments["location"].(string)
-	if !ok {
-		return nil, errors.New("location must be a string")
-	}
-
-	return mcp.NewToolResultText(fmt.Sprintf("Current weather in %s:\nTemperature: 72°F\nConditions: Partly cloudy", location)), nil
-}
+// func McpMiddleware(sseServer *server.SSEServer) gin.HandlerFunc {
+// 	return func(c *gin.Context) {
+// 		// c.Writer.Header().Set("content-type", "application/json; charset=utf-8")
+// 		sseServer.ServeHTTP(c.Writer, c.Request)
+// 	}
+// }
 
 func gpsRoutesHandler(ctx context.Context, request mcp.CallToolRequest) (*mcp.CallToolResult, error) {
 	return mcp.NewToolResultText("The Knaresborough round is a challenging 20Km walk with some very picturesque settings"), nil
+}
+
+func refDataHandler(ctx context.Context, request mcp.ReadResourceRequest) ([]mcp.ResourceContents, error) {
+	// Simulate fetching reference data
+	refData := map[string]any{
+		"facets": map[string]any{
+			"difficulty": map[string]int64{
+				"easy":   100,
+				"medium": 200,
+				"hard":   50,
+			},
+			"length": map[string]int64{
+				"short":  150,
+				"medium": 300,
+				"long":   50,
+			},
+		},
+	}
+
+	data, err := json.Marshal(refData)
+	if err != nil {
+		return nil, fmt.Errorf("failed to marshal reference data: %w", err)
+	}
+
+	return []mcp.ResourceContents{mcp.TextResourceContents{
+		URI:      "ref-data",
+		MIMEType: "application/json",
+		Text:     string(data),
+	}}, nil
 }
