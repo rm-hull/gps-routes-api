@@ -57,7 +57,7 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 	totalChan := make(chan int64, 1)
 	resultsChan := make(chan []domain.RouteSummary, 1)
 	facetsChan := make(chan facet, len(FACET_FIELDS))
-	errorChan := make(chan error)
+	errorChan := make(chan error, 2+len(FACET_FIELDS)) // 2 for total and results, plus the number of facets
 
 	fetchCounts := func() {
 		total, err := service.repository.CountAll(ctx, criteria)
@@ -126,7 +126,7 @@ func (service *RoutesServiceImpl) RefData() (*domain.RefData, error) {
 	defer cancel()
 
 	facetsChan := make(chan facet, len(FACET_FIELDS))
-	errorChan := make(chan error)
+	errorChan := make(chan error, len(FACET_FIELDS))
 	emptyCriteria := request.SearchRequest{}
 
 	for fieldName, facetConfig := range FACET_FIELDS {
