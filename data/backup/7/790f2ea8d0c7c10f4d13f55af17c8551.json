@@ -106,17 +106,18 @@
   "terrain": [
     "coastal",
     "woodland",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
+    "viewpoint",
+    "historical site",
     "beach"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible",
-    "ferry service"
+    "ferry service",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

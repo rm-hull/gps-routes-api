@@ -47,14 +47,16 @@
   "difficulty": "moderate",
   "terrain": [
     "lake",
-    "woodland"
-  ],
-  "points_of_interest": [
-    "views",
     "forest"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "points_of_interest": [
+    "viewpoint",
+    "fell"
+  ],
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

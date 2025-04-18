@@ -111,20 +111,19 @@
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "waterfront",
-    "urban"
+    "waterfront"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife"
+    "historical area",
+    "architecture",
+    "reservoir"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "walkway"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

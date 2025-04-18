@@ -122,21 +122,26 @@
     "river",
     "lake",
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historic churches",
-    "villages",
+    "church",
+    "village",
+    "river weir",
     "museum",
-    "viewpoints"
+    "tower",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
-    "museum",
-    "historic buildings"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

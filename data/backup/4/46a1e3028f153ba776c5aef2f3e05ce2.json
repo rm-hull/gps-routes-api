@@ -120,21 +120,24 @@
   "terrain": [
     "woodland",
     "heathland",
-    "mountain"
+    "rock"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife watching"
+    "hill fort",
+    "rock house",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "wildlife watching",
+    "flora watching"
   ]
 }

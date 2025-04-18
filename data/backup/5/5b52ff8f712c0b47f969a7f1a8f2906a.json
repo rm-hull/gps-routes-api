@@ -135,21 +135,23 @@
   "difficulty": "moderate",
   "terrain": [
     "river",
+    "park",
     "rural"
   ],
   "points_of_interest": [
-    "parks",
-    "historical sites",
-    "waterfalls",
-    "mountains"
+    "park",
+    "castle",
+    "reservoir",
+    "waterfalls"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "canal"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

@@ -136,27 +136,24 @@
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "river",
-    "country park",
-    "woodland",
-    "farmland"
+    "rural",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "nature reserve",
-    "country park",
-    "hill fort",
-    "cathedral",
-    "religious shrine"
+    "park",
+    "hill fort"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "canal",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

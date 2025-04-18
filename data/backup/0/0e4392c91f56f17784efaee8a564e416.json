@@ -214,18 +214,19 @@
   "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
-    "rural",
-    "parkland"
+    "countryside",
+    "urban"
   ],
   "points_of_interest": [
-    "historic towns",
     "parks",
-    "gardens"
+    "historic towns"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "linear",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

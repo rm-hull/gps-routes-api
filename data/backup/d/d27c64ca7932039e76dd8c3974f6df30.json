@@ -126,7 +126,7 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "lakeside",
@@ -134,17 +134,15 @@
   ],
   "points_of_interest": [
     "nature reserves",
-    "trails",
-    "picnic areas"
+    "trail"
   ],
   "facilities": [
     "cafe",
-    "picnic benches",
-    "bird feeding shelter"
+    "bird feeding shelter",
+    "picnic benches"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking",
-    "nature watching"
+    "walking"
   ]
 }

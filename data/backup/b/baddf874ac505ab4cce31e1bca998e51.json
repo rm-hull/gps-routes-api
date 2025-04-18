@@ -119,19 +119,22 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "woodland",
+    "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserve"
+    "historical site",
+    "nature reserve",
+    "beach"
   ],
   "facilities": [
-    "car park",
-    "bird hides"
+    "visitor center",
+    "dog friendly",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

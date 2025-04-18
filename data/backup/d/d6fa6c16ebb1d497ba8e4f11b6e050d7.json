@@ -37,19 +37,17 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "views",
     "landmark",
-    "geological sites"
+    "geological site"
   ],
   "facilities": [
     "visitor center",
-    "park"
+    "dog friendly"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

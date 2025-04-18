@@ -135,21 +135,23 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland"
+    "rural"
   ],
   "points_of_interest": [
     "beaches",
-    "geological rock formations",
+    "geological formations",
     "coastal villages",
-    "historical sites"
+    "architecture",
+    "church",
+    "caves"
   ],
   "facilities": [
-    "car park",
-    "dog friendly",
     "fish bar",
-    "shop"
+    "shop",
+    "church",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

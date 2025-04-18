@@ -99,20 +99,19 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "grassland",
-    "scrub"
+    "scrub",
+    "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildflower areas"
+    "wildflower area",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
     "footpaths"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

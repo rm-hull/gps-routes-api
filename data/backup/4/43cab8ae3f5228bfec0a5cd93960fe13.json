@@ -139,21 +139,21 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "hill",
+    "woodland",
     "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "hill forts"
+    "historical site",
+    "archaeological site",
+    "viewpoint"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

@@ -115,18 +115,17 @@
   "difficulty": "easy",
   "terrain": [
     "lake",
-    "footpath",
-    "river"
+    "path"
   ],
   "points_of_interest": [
-    "bird watching",
-    "water features"
+    "lake"
   ],
   "facilities": [
     "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

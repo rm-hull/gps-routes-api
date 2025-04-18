@@ -95,25 +95,26 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "lake",
-    "grassland",
-    "wetland"
+    "grassland"
   ],
   "points_of_interest": [
-    "nature trails",
-    "wildlife viewing",
-    "historical sites"
+    "nature reserve",
+    "wildlife center",
+    "park",
+    "lake"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -101,21 +101,24 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "woodland",
+    "dunes",
+    "countryside",
     "beach"
   ],
   "points_of_interest": [
-    "dunes",
     "beach",
-    "countryside"
+    "dunes",
+    "village"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "dog friendly"
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "surfing",
+    "sand dune walks"
   ]
 }

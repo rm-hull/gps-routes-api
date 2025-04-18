@@ -77,16 +77,19 @@
   "county": null,
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
-  "difficulty": "moderate",
+  "estimated_duration": "1 hour",
+  "difficulty": "easy",
   "terrain": [
     "woodland",
     "moor"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

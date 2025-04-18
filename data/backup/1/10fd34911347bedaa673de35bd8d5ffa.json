@@ -140,20 +140,22 @@
   "terrain": [
     "woodland",
     "parkland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
     "nature reserve",
     "common",
-    "lake",
-    "trails"
+    "lake"
   ],
   "facilities": [
     "car park",
-    "public transport"
+    "visitor center",
+    "dog friendly",
+    "japanese gardens"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

@@ -130,20 +130,20 @@
   "terrain": [
     "woodland",
     "parkland",
-    "urban"
+    "grass"
   ],
   "points_of_interest": [
-    "historical sites",
-    "views",
-    "woodland trails",
+    "historical site",
+    "viewpoint",
     "park"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "train station",
+    "tube station"
   ],
-  "route_type": "loop",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

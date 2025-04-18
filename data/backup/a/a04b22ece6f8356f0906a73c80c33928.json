@@ -63,14 +63,16 @@
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "rural"
+    "country"
   ],
   "points_of_interest": [
-    "views",
-    "countryside"
+    "viewpoint",
+    "park"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

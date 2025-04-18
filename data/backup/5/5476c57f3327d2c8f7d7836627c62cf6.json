@@ -74,23 +74,22 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "grassland",
-    "water"
+    "woodland"
   ],
   "points_of_interest": [
-    "outdoor activities",
-    "trails"
+    "visitor center",
+    "outdoor activity center",
+    "bike pump skills area"
   ],
   "facilities": [
     "visitor center",
-    "bike hire",
-    "cycle tracks",
-    "outdoor activity centre"
+    "cycle hire",
+    "cycle tracks"
   ],
-  "route_type": "circular",
+  "route_type": "loop",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

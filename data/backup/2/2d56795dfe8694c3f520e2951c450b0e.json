@@ -140,20 +140,21 @@
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "pasture",
-    "rural"
+    "hill",
+    "pasture"
   ],
   "points_of_interest": [
-    "historic castles",
+    "castles",
     "villages",
-    "churches",
-    "scenery"
+    "churches"
   ],
   "facilities": [
-    "waymarked path"
+    "visitor center",
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

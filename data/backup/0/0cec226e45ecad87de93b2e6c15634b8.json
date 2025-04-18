@@ -120,7 +120,7 @@
   "postcode": "NR5 9HE",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "6 miles",
   "difficulty": "easy",
   "terrain": [
     "grassland",
@@ -128,18 +128,19 @@
     "nature trails"
   ],
   "points_of_interest": [
-    "local park",
+    "park",
     "marshes",
     "university grounds",
-    "nature reserve",
-    "scenic area"
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "broad",
-    "boardwalk"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

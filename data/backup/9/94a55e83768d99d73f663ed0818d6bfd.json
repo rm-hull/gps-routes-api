@@ -70,16 +70,17 @@
   "terrain": [
     "garden",
     "parkland",
-    "woodland",
-    "river"
+    "woodland"
   ],
   "points_of_interest": [
+    "garden",
     "views",
-    "paths"
+    "path"
   ],
   "facilities": [
     "car park",
-    "towpath"
+    "pub/cafe",
+    "visitor center"
   ],
   "route_type": "out and back",
   "activities": [

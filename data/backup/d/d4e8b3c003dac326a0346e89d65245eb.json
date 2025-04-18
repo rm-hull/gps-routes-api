@@ -69,17 +69,20 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "rural"
+    "forest",
+    "valley",
+    "mountain"
   ],
   "points_of_interest": [
-    "natural scenery",
-    "geology"
+    "geology",
+    "flora",
+    "fauna"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

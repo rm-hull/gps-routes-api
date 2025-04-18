@@ -56,13 +56,12 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "historical"
+    "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "wildlife sightings",
-    "ancient burial mound"
+    "historical site",
+    "burial mound",
+    "nature reserve"
   ],
   "facilities": [
     "visitor center",
@@ -71,6 +70,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

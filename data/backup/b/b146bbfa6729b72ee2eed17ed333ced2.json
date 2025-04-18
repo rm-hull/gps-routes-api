@@ -90,17 +90,18 @@
   "terrain": [
     "grassland",
     "woodland",
-    "wetlands"
+    "ponds",
+    "wetlands",
+    "lake"
   ],
   "points_of_interest": [
-    "nature reserve",
-    "bird watching"
+    "bird hide",
+    "visitor center",
+    "exhibition room"
   ],
   "facilities": [
-    "visitor center",
     "restaurant",
-    "exhibition room",
-    "car park"
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [

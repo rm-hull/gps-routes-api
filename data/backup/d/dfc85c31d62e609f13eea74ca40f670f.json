@@ -161,23 +161,29 @@
   "terrain": [
     "woodland",
     "coastal",
-    "beach",
-    "dunes"
+    "dunes",
+    "salt-marsh",
+    "cliffs",
+    "beach"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserves",
-    "lighthouses"
+    "nature reserve",
+    "hillfort",
+    "lighthouse",
+    "brickworks",
+    "tidal island",
+    "village"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "dog friendly"
+    "dog friendly",
+    "car park",
+    "pub/cafe"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "cycling"
   ]
 }

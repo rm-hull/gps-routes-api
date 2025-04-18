@@ -116,19 +116,21 @@
   "district": "Fylde",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "full day",
   "difficulty": "moderate",
   "terrain": [
+    "estuary",
     "woodland",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "waterways",
-    "countryside views"
+    "countryside",
+    "lake",
+    "reservoir"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [

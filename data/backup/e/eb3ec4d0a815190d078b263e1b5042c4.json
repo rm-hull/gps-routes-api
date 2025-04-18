@@ -52,14 +52,16 @@
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "nature trails"
+    "village"
   ],
-  "facilities": [],
-  "route_type": "loop",
+  "facilities": [
+    "footpath",
+    "cycle paths"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -67,19 +67,20 @@
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland"
+    "pasture"
   ],
   "points_of_interest": [
-    "historical sites",
     "waterfall",
-    "views"
+    "historical building",
+    "museum",
+    "forest"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "museum"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
     "cycling"
