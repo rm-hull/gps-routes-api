@@ -10,7 +10,7 @@ var FACET_FIELDS = map[string]*FacetConfig{
 	"country": {
 		Unnest:   false,
 		Limit:    10,
-		Excluded: []string{"district"},
+		Excluded: []string{"country", "state", "region", "county", "district"},
 	},
 	"state": {
 		Unnest:   false,
@@ -22,15 +22,15 @@ var FACET_FIELDS = map[string]*FacetConfig{
 		Limit:    20,
 		Excluded: []string{"region", "county", "district"},
 	},
+	"county": {
+		Unnest:   false,
+		Limit:    100,
+		Excluded: []string{"county", "district"},
+	},
 	"district": {
 		Unnest:   false,
 		Limit:    20,
 		Excluded: []string{"district"},
-	},
-	"county": {
-		Unnest:   false,
-		Limit:    100,
-		Excluded: []string{},
 	},
 	"activities": {
 		Unnest:   true,
