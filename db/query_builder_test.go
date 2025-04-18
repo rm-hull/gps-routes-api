@@ -151,6 +151,18 @@ func TestQueryBuilder_Build(t *testing.T) {
 			},
 		},
 		{
+			name: "with empty facets",
+			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+				Facets: map[string][]string{
+					"type": {},
+				},
+			}),
+			want: Result{
+				sql:    "SELECT * FROM routes",
+				params: []interface{}{},
+			},
+		},
+		{
 			name: "with excluded facets",
 			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
