@@ -102,6 +102,10 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 				continue
 			}
 
+			if len(values) == 0 {
+				continue
+			}
+
 			_, isArrayField := qb.arrayFields[facet]
 			format := map[bool]string{
 				true:  "%s && $%d::TEXT[]",
