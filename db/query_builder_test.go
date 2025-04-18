@@ -110,6 +110,14 @@ func TestQueryBuilder_Build(t *testing.T) {
 			},
 		},
 		{
+			name: "with no limit",
+			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithLimit(-1),
+			want: Result{
+				sql:    "SELECT * FROM routes",
+				params: []interface{}{},
+			},
+		},
+		{
 			name: "with offset",
 			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithOffset(20),
 			want: Result{
