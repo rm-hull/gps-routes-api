@@ -67,6 +67,12 @@ func (qb *QueryBuilder) WithOffset(offset int32) *QueryBuilder {
 }
 
 func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
+	// interpret a negative number as "no limit"
+	// NOTE: we don't allow external callers to set no limit though, only internal usage
+	if limit < 0 {
+		return qb
+	}
+
 	if qb.limit != "" {
 		panic("unexpected: limit value already set")
 	}
