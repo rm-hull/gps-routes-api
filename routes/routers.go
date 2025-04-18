@@ -66,5 +66,11 @@ func getRoutes(handleFunctions ApiHandleFunctions) []Route {
 			"/v1/gps-routes/search",
 			handleFunctions.RoutesAPI.Search,
 		},
+		{
+			"RefData",
+			http.MethodGet,
+			"/v1/gps-routes/ref-data",
+			handleFunctions.RoutesAPI.RefData,
+		},
 	}
 }
