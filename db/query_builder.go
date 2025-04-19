@@ -10,23 +10,25 @@ import (
 )
 
 type QueryBuilder struct {
-	criteria       *request.SearchRequest
-	selectPart     string
-	whereClauses   []string
-	excludedFacets map[string]struct{}
-	arrayFields    map[string]struct{}
-	params         []any
-	orderBy        string
-	groupBy        string
-	limit          string
-	offset         string
+	criteria        *request.SearchRequest
+	selectPart      string
+	whereClauses    []string
+	excludedFacets  map[string]struct{}
+	arrayFields     map[string]struct{}
+	params          []any
+	orderBy         string
+	groupBy         string
+	limit           string
+	offset          string
+	truncatedFields map[string]int
 }
 
 func NewQueryBuilder(selectPart string, criteria *request.SearchRequest) *QueryBuilder {
 	qb := &QueryBuilder{
-		selectPart: selectPart,
-		criteria:   criteria,
-		params:     make([]any, 0),
+		selectPart:      selectPart,
+		criteria:        criteria,
+		params:          make([]any, 0),
+		truncatedFields: make(map[string]int, 0),
 	}
 
 	return qb.applyWhereConditions()
@@ -93,6 +95,11 @@ func (qb *QueryBuilder) WithArrayFields(arrayFields ...string) *QueryBuilder {
 	return qb
 }
 
+func (qb *QueryBuilder) WithTruncatedField(fieldName string, maxLength int) *QueryBuilder {
+	qb.truncatedFields[fieldName] = maxLength
+	return qb
+}
+
 func (qb *QueryBuilder) Build() (string, []interface{}) {
 
 	if qb.criteria.Facets != nil {
@@ -121,11 +128,24 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 		whereClause = "WHERE " + strings.Join(qb.whereClauses, " AND ")
 	}
 
-	filteredParts := removeEmptyStrings([]string{qb.selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit})
+	selectPart := qb.replaceTruncatedFields(qb.selectPart)
+	filteredParts := removeEmptyStrings(selectPart, whereClause, qb.groupBy, qb.orderBy, qb.offset, qb.limit)
 	return strings.Join(filteredParts, " "), qb.params
 }
 
-func removeEmptyStrings(slice []string) []string {
+func (qb *QueryBuilder) replaceTruncatedFields(query string) string {
+	for fieldName, maxLength := range qb.truncatedFields {
+		query = strings.ReplaceAll(query, fieldName, truncate(fieldName, maxLength))
+	}
+	return query
+}
+
+func truncate(fieldName string, maxLength int) string {
+	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
+		fieldName, maxLength, fieldName, maxLength, fieldName)
+}
+
+func removeEmptyStrings(slice ...string) []string {
 	var result []string
 	for _, str := range slice {
 		if str != "" {
