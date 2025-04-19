@@ -287,12 +287,11 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 		FROM routes`
 
 	sortField := "created_at DESC"
-	// FIXME: investigate why this sort field doesnt seem to work
-	// ----------------------------------------------------------
-	// if criteria.Nearby != nil && criteria.Nearby.Center != nil {
-	// 	sortField = fmt.Sprintf("_geoloc <-> ST_Point(%f, %f)", criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude)
-	// } else
-	if criteria.Query != "" {
+	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
+		sortField = fmt.Sprintf("_geoloc <-> ST_SetSRID(ST_Point(%f, %f), 4326)", // 4326 -> WGS84 coordinate system
+			criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude)
+
+	} else if criteria.Query != "" {
 		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32) DESC"
 	}
 
