@@ -274,9 +274,9 @@ func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *req
 
 func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *request.SearchRequest) (*[]domain.RouteSummary, error) {
 
-	selectPart := `
-		SELECT
-			object_id, ref,
+	titleDescription := "title, description"
+	if criteria.TruncateText {
+		titleDescription = `
 			CASE
 				WHEN LENGTH(title) > 50 THEN SUBSTRING(title, 1, 49) || '…'
 				ELSE title
@@ -284,12 +284,18 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 			CASE
 				WHEN LENGTH(description) > 150 THEN SUBSTRING(description, 1, 149) || '…'
 				ELSE description
-			END AS description,
+			END AS description`
+	}
+
+	selectPart := fmt.Sprintf(`
+		SELECT
+			object_id, ref,
+			%s,
 			headline_image_url,
 			ST_X(_geoloc) AS longitude,
 			ST_Y(_geoloc) AS latitude,
 			distance_km
-		FROM routes`
+		FROM routes`, titleDescription)
 
 	sortField := "created_at DESC"
 	// FIXME: investigate why this sort field doesnt seem to work

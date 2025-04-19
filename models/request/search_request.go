@@ -18,6 +18,8 @@ type SearchRequest struct {
 	Facets map[string][]string `json:"facets,omitempty"`
 
 	Nearby *Nearby `json:"nearby,omitempty"`
+
+	TruncateText bool `json:"truncateText,omitempty"`
 }
 
 type Nearby struct {
