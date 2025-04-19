@@ -2,9 +2,10 @@ package cmds
 
 import (
 	"context"
-	"encoding/json"
 	"fmt"
+	"io"
 	"log"
+	"net/http"
 
 	"github.com/earthboundkid/versioninfo/v2"
 	"github.com/mark3labs/mcp-go/mcp"
@@ -42,7 +43,7 @@ func NewSseMcpServer(port int) {
 	)
 
 	refDataResources := mcp.NewResource(
-		"/ref-data",
+		"ref-data://gps-routes",
 		"Reference Data",
 		mcp.WithMIMEType("application/json"),
 		mcp.WithResourceDescription(
@@ -69,30 +70,37 @@ func gpsRoutesHandler(ctx context.Context, request mcp.CallToolRequest) (*mcp.Ca
 }
 
 func refDataHandler(ctx context.Context, request mcp.ReadResourceRequest) ([]mcp.ResourceContents, error) {
-	// Simulate fetching reference data
-	refData := map[string]any{
-		"facets": map[string]any{
-			"difficulty": map[string]int64{
-				"easy":   100,
-				"medium": 200,
-				"hard":   50,
-			},
-			"length": map[string]int64{
-				"short":  150,
-				"medium": 300,
-				"long":   50,
-			},
-		},
-	}
 
-	data, err := json.Marshal(refData)
+	baseUrl := "http://localhost:8080/v1/gps-routes" // TODO: use env var
+	req, err := http.NewRequestWithContext(ctx, "GET", baseUrl+"/ref-data", nil)
 	if err != nil {
-		return nil, fmt.Errorf("failed to marshal reference data: %w", err)
+		return nil, fmt.Errorf("error creating request: %w", err)
+
+	}
+	req.Header.Add("Accept", "application/json")
+	req.Header.Add("User-Agent", "MCP-GPS-Routes-API")
+	req.Header.Add("Accept-Language", "en-GB,en;q=0.9,en-US;q=0.8")
+
+	log.Printf("Making request to %s", req.URL.String())
+	client := &http.Client{}
+	resp, err := client.Do(req)
+	if err != nil {
+		return nil, fmt.Errorf("error making request: %w", err)
+	}
+	defer func() {
+		if err := resp.Body.Close(); err != nil {
+			log.Printf("Error closing response body: %v", err)
+		}
+	}()
+
+	body, err := io.ReadAll(resp.Body)
+	if err != nil {
+		return nil, fmt.Errorf("error reading response body: %w", err)
 	}
 
 	return []mcp.ResourceContents{mcp.TextResourceContents{
-		URI:      "ref-data",
+		URI:      request.Params.URI,
 		MIMEType: "application/json",
-		Text:     string(data),
+		Text:     string(body),
 	}}, nil
 }
