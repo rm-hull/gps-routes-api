@@ -288,7 +288,7 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 
 	sortField := "created_at DESC"
 	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
-		sortField = fmt.Sprintf("_geoloc <-> ST_SetSRID(ST_Point(%f, %f), 4326)",
+		sortField = fmt.Sprintf("_geoloc <-> ST_SetSRID(ST_Point(%f, %f), 4326)", // 4326 -> WGS84 coordinate system
 			criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude)
 
 	} else if criteria.Query != "" {
