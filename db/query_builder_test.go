@@ -126,6 +126,14 @@ func TestQueryBuilder_Build(t *testing.T) {
 			},
 		},
 		{
+			name: "with truncated fields",
+			qb:   NewQueryBuilder("SELECT description FROM routes", &request.SearchRequest{}).WithTruncatedField("description", 100),
+			want: Result{
+				sql:    "SELECT LEFT(description, 100) || CASE WHEN LENGTH(description) > 100 THEN '…' ELSE '' END AS description FROM routes",
+				params: []interface{}{},
+			},
+		},
+		{
 			name: "with all",
 			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).
 				WithWhereClause("name = 'test'").

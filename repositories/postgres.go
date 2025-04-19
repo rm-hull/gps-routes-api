@@ -276,15 +276,10 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 
 	selectPart := `
 		SELECT
-			object_id, ref,
-			CASE
-				WHEN LENGTH(title) > 50 THEN SUBSTRING(title, 1, 49) || '…'
-				ELSE title
-			END AS title,
-			CASE
-				WHEN LENGTH(description) > 150 THEN SUBSTRING(description, 1, 149) || '…'
-				ELSE description
-			END AS description,
+			object_id,
+			ref,
+			title,
+			description,
 			headline_image_url,
 			ST_X(_geoloc) AS longitude,
 			ST_Y(_geoloc) AS latitude,
@@ -301,12 +296,18 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32) DESC"
 	}
 
-	query, params := db.NewQueryBuilder(selectPart, criteria).
+	qb := db.NewQueryBuilder(selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithOrderBy(sortField).
 		WithOffset(criteria.Offset).
-		WithLimit(criteria.Limit).
-		Build()
+		WithLimit(criteria.Limit)
+
+	if criteria.TruncateText {
+		qb.WithTruncatedField("title", 50)
+		qb.WithTruncatedField("description", 150)
+	}
+
+	query, params := qb.Build()
 
 	rows, err := repo.pool.Query(ctx, query, params...)
 	if err != nil {
