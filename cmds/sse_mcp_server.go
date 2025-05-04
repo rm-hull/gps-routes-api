@@ -131,10 +131,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 			"pick out the most pertinent information and do not include any extraneous information. Use markdown to " +
 			"format the text, including headings, bullet points, and image URLs.",
 		Annotated: mcp.Annotated{
-			Annotations: &struct {
-				Audience []mcp.Role `json:"audience,omitempty"`
-				Priority float64    `json:"priority,omitempty"`
-			}{
+			Annotations: &mcp.Annotations{
 				Audience: []mcp.Role{"assistant"},
 			},
 		},
