@@ -119,7 +119,7 @@ require (
 	github.com/oapi-codegen/runtime v1.1.1 // indirect
 	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
 	github.com/rabbitmq/amqp091-go v1.10.0 // indirect
-	github.com/redis/go-redis/v9 v9.7.3 // indirect
+	github.com/redis/go-redis/v9 v9.8.0 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
 	github.com/spf13/pflag v1.0.6 // indirect
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
