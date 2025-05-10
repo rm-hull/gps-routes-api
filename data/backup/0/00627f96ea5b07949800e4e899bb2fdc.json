@@ -65,20 +65,23 @@
   "terrain": [
     "woodland",
     "parkland",
-    "river"
+    "meadows"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "gardens",
-    "water features",
-    "views"
+    "park",
+    "conservatory",
+    "arboretum",
+    "water features"
   ],
   "facilities": [
+    "visitor center",
     "car park",
     "footpaths",
-    "visitor center"
+    "Japanese-style garden"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

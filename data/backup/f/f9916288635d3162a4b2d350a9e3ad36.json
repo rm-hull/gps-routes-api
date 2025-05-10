@@ -108,19 +108,18 @@
   "difficulty": "easy",
   "terrain": [
     "river",
-    "path"
+    "footpath"
   ],
   "points_of_interest": [
     "museum",
-    "houseboats",
     "farm",
-    "sailing"
+    "marina"
   ],
   "facilities": [
+    "pub/cafe",
     "visitor center",
     "restaurant",
-    "car park",
-    "boat launch"
+    "lifeguard station"
   ],
   "route_type": "circular",
   "activities": [

@@ -72,19 +72,25 @@
   "difficulty": "moderate",
   "terrain": [
     "grassland",
-    "rural"
+    "footpath"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "park"
+    "village green",
+    "church",
+    "historic site"
   ],
   "facilities": [
     "pub",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "walled garden",
+    "lake",
+    "knot garden",
+    "vegetable garden",
+    "orchard",
+    "bog garden"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

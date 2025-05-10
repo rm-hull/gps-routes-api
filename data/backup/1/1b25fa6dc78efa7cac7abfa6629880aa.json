@@ -105,22 +105,20 @@
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "industrial",
-    "natural"
+    "marsh"
   ],
   "points_of_interest": [
-    "historical sites",
-    "geological sites",
+    "abbey",
+    "geological site",
     "museum",
     "nature reserve"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "canal",
-    "wheelchair accessible"
+    "canal"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

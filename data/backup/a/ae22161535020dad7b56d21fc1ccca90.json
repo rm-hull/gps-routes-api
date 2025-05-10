@@ -96,21 +96,24 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "park",
-    "waterway"
+    "woodland",
+    "woodland",
+    "woodside"
   ],
   "points_of_interest": [
-    "gardens",
-    "lake",
+    "statue",
     "nature reserve",
-    "woodland"
+    "lake"
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

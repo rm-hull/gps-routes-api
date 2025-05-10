@@ -71,14 +71,12 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterside",
-    "rural"
+    "waterside"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "hamlet",
-    "tarn",
-    "waterfalls"
+    "tarn"
   ],
   "facilities": [
     "visitor center",
@@ -88,7 +86,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "waterside walking"
+    "walking"
   ]
 }

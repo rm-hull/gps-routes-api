@@ -169,18 +169,16 @@
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "woodland",
-    "water"
-  ],
-  "points_of_interest": [
-    "viewpoints",
-    "historical sites",
     "canal"
   ],
+  "points_of_interest": [
+    "viewpoint",
+    "tunnel"
+  ],
   "facilities": [
-    "car park",
     "visitor center",
     "cafe",
+    "car park",
     "trail"
   ],
   "route_type": "circular",

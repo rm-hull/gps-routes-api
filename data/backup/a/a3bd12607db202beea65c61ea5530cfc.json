@@ -81,20 +81,19 @@
   "terrain": [
     "woodland",
     "river",
-    "coastal"
+    "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages",
+    "historical site",
     "castle",
     "nature reserve"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

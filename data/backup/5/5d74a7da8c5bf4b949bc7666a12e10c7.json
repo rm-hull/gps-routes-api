@@ -69,18 +69,21 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "wet meadows"
+    "meadows",
+    "lake"
   ],
   "points_of_interest": [
+    "memorial park",
     "nature reserve",
-    "wildflower areas",
-    "lake"
+    "country park",
+    "woodland"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "visitor center",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
     "walking",
     "bird watching"

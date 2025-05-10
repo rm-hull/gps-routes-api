@@ -109,22 +109,25 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "river"
+    "gorge",
+    "grassland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "caves"
+    "walkway",
+    "caves",
+    "water mill",
+    "tea gardens"
   ],
   "facilities": [
     "visitor center",
-    "tea gardens",
-    "car park"
+    "car park",
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [
     "walking",
-    "cycling"
+    "climbing"
   ]
 }

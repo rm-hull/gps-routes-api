@@ -80,8 +80,10 @@
   "points_of_interest": [
     "wildlife"
   ],
-  "facilities": [],
-  "route_type": "linear",
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

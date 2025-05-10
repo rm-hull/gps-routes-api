@@ -116,18 +116,19 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "transmitter masts",
     "nature reserve"
   ],
   "facilities": [
     "car park",
-    "footpath"
+    "dog friendly",
+    "visitor center"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

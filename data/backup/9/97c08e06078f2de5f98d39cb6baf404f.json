@@ -91,20 +91,23 @@
   "difficulty": "moderate",
   "terrain": [
     "forest",
-    "rural"
+    "lake",
+    "historical"
   ],
   "points_of_interest": [
+    "country park",
     "museum",
+    "ruined house",
     "lake",
     "abbey",
-    "stone circle",
-    "historical landmark"
+    "horse",
+    "stone circle"
   ],
   "facilities": [
-    "visitor center",
-    "car park"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "cycling",
     "walking"

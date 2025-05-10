@@ -109,20 +109,22 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heath",
+    "fen",
     "bog",
-    "fen"
+    "heath",
+    "woods"
   ],
   "points_of_interest": [
     "gardens",
     "watermill",
-    "parkland",
-    "bird watching"
+    "parkland"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "out and back",
   "activities": [

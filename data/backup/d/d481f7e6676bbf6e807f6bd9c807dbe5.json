@@ -100,13 +100,15 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
-    "fell"
+    "fell",
+    "water"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

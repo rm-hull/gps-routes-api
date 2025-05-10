@@ -93,21 +93,20 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "garden",
-    "parkland",
-    "canal"
+    "countryside"
   ],
   "points_of_interest": [
-    "gardens",
-    "orchard"
+    "garden",
+    "canal"
   ],
   "facilities": [
     "visitor center",
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

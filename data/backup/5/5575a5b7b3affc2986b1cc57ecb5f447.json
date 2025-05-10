@@ -79,11 +79,12 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront"
+    "water"
   ],
   "points_of_interest": [
-    "historical sites",
-    "scenic views"
+    "temple",
+    "grotto",
+    "folly"
   ],
   "facilities": [
     "visitor center",
@@ -91,7 +92,7 @@
     "cafe",
     "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

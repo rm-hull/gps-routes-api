@@ -151,13 +151,15 @@
   "difficulty": "moderate",
   "terrain": [
     "hill",
-    "rural"
+    "edge"
   ],
   "points_of_interest": [
-    "historical sites",
+    "castle",
     "views"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

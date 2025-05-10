@@ -101,19 +101,19 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "meadows"
+    "meadows",
+    "wetlands"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "visitor center"
+    "visitor center",
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "refreshments"
+    "pub/cafe"
   ],
-  "route_type": "linear",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

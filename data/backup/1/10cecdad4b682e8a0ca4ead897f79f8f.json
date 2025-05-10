@@ -72,23 +72,26 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
+    "pasture",
     "river"
   ],
   "points_of_interest": [
     "historic halls",
-    "countryside",
+    "trig point",
     "church",
-    "gardens"
+    "memorial",
+    "park"
   ],
   "facilities": [
     "tea room",
     "pub/cafe",
-    "hotel",
-    "church"
+    "car park",
+    "churchyard",
+    "gardens"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "waterside walk"
   ]
 }

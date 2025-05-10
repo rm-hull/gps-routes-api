@@ -134,12 +134,15 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
+    "park",
     "rural"
   ],
   "points_of_interest": [
-    "scenic views"
+    "park"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

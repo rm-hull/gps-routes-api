@@ -61,23 +61,24 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "2-3 hours",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
-    "rural"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
     "museum",
     "railway"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "pub/cafe"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

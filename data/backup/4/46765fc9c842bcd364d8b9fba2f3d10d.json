@@ -74,16 +74,19 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "countryside",
+    "pasture"
   ],
   "points_of_interest": [
-    "views",
-    "historic estate",
-    "countryside"
+    "historical site",
+    "viewpoint",
+    "estate"
   ],
   "facilities": [
-    "pub",
-    "footpaths"
+    "pub/cafe",
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

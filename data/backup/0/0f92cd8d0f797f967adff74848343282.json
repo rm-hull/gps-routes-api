@@ -102,7 +102,7 @@
   "display_address": "Watson's Ale House, 24, High Street, Knighton, Powys, Cymru / Wales, LD7 1AT, United Kingdom",
   "state": "Cymru / Wales",
   "llama_cpp": true,
-  "estimated_duration": "half day",
+  "estimated_duration": "multiple days",
   "difficulty": "moderate",
   "terrain": [
     "hill",
@@ -113,10 +113,12 @@
     "towns",
     "waterfalls"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

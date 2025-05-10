@@ -125,18 +125,20 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
+    "wetlands",
     "meadows"
   ],
   "points_of_interest": [
-    "waymarked trails",
-    "wildlife viewing"
+    "trails",
+    "visitor center",
+    "lake"
   ],
   "facilities": [
     "visitor center",
-    "car park"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

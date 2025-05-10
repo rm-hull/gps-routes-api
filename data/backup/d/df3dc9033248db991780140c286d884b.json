@@ -109,15 +109,18 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "waterland",
-    "upland"
+    "reservoir",
+    "hill",
+    "common"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "common"
+    "viewpoint",
+    "summit",
+    "stone"
   ],
   "facilities": [
     "car park",
+    "visitor center",
     "footpath"
   ],
   "route_type": "circular",

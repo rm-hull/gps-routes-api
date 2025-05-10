@@ -101,22 +101,18 @@
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "woodland",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "countryside",
-    "nature reserves",
-    "country parks",
-    "rivers",
-    "aqueducts"
+    "aqueduct",
+    "country park",
+    "boat lift"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -99,21 +99,20 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland",
-    "lake"
+    "heathland"
   ],
   "points_of_interest": [
     "film studios",
-    "nature trails"
+    "lake"
   ],
   "facilities": [
-    "car park",
     "picnic areas",
-    "cafe"
+    "cafe",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

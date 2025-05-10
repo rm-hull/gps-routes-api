@@ -90,13 +90,16 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "rural"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites"
+    "pilgrimage route"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

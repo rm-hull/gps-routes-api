@@ -130,23 +130,22 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "river",
     "countryside"
   ],
   "points_of_interest": [
     "country park",
-    "village",
-    "river"
+    "village"
   ],
   "facilities": [
+    "visitor center",
     "play area",
     "petting zoo",
-    "miniature railway",
-    "boating lake"
+    "miniature railway"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

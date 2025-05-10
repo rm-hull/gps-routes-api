@@ -130,22 +130,25 @@
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "river",
+    "riverside",
     "park"
   ],
   "points_of_interest": [
-    "historical sites",
-    "river gorge",
+    "historical site",
     "park",
-    "trails"
+    "river gorge",
+    "deer park"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "pub/cafe"
+    "pub/cafe",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

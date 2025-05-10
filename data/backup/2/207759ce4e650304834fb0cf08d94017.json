@@ -85,20 +85,18 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
     "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "villages"
+    "viewpoint"
   ],
   "facilities": [
-    "dog friendly",
-    "car park"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "cycling",
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

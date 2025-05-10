@@ -127,20 +127,22 @@
   "state": "England",
   "llama_cpp": true,
   "estimated_duration": "half day",
-  "difficulty": "easy",
+  "difficulty": "moderate",
   "terrain": [
     "woodland",
     "garden"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens"
+    "historical site",
+    "garden"
   ],
   "facilities": [
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "sightseeing"
   ]
 }

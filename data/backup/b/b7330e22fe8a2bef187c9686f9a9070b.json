@@ -91,21 +91,18 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "waterfront"
+    "garden"
   ],
   "points_of_interest": [
-    "plant collections",
-    "tree canopy",
-    "lake crossing",
-    "garden features"
+    "viewpoint",
+    "herbarium"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

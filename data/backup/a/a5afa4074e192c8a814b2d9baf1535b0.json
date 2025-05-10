@@ -85,19 +85,17 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "canal",
-    "river"
+    "canal"
   ],
   "points_of_interest": [
-    "parks",
-    "natural areas"
+    "country park"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

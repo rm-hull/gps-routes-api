@@ -86,22 +86,20 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "garden",
-    "river"
+    "garden"
   ],
   "points_of_interest": [
-    "historical ruins",
-    "arboretum",
-    "exhibition",
-    "viewpoints"
+    "historical site",
+    "viewpoint",
+    "arboretum"
   ],
   "facilities": [
-    "car park",
     "cafe",
-    "wheelchair accessible",
+    "visitor center",
+    "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

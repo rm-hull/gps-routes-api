@@ -108,15 +108,15 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "countryside",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
-    "historical sites",
-    "villages"
+    "countryside"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "linear",
   "activities": [
     "walking"
   ]

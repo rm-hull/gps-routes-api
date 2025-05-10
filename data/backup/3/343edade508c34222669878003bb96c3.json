@@ -95,21 +95,22 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "parkland",
-    "garden"
+    "garden",
+    "parkland"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "gardens"
+    "viewpoint",
+    "castle",
+    "ruins"
   ],
   "facilities": [
     "car park",
     "cafe",
-    "visitor center"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "picnic"
   ]
 }
