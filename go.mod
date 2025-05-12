@@ -1,10 +1,10 @@
 module github.com/rm-hull/gps-routes-api
 
-go 1.24
+go 1.24.2
 
 require (
 	github.com/Depado/ginprom v1.8.1
-	github.com/JGLTechnologies/gin-rate-limit v1.5.4
+	github.com/JGLTechnologies/gin-rate-limit v1.5.6
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
 	github.com/gin-contrib/cors v1.7.5
