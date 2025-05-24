@@ -72,13 +72,13 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "lakeside",
     "woodland",
-    "grass"
+    "grass",
+    "road"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
+    "viewpoint",
+    "historical site",
     "tarn"
   ],
   "facilities": [
@@ -86,7 +86,7 @@
     "pub/cafe",
     "bus stop"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

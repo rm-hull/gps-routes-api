@@ -74,19 +74,23 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "pasture"
+    "grassland"
   ],
   "points_of_interest": [
-    "historic buildings",
-    "gardens",
+    "church",
+    "historic pub",
+    "manor house",
+    "garden",
     "burial mounds",
     "village green"
   ],
   "facilities": [
     "pub",
-    "visitor center"
+    "visitor center",
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "out and back",
   "activities": [
     "walking"
   ]

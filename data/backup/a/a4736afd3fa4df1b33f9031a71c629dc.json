@@ -120,21 +120,23 @@
   "difficulty": "easy",
   "terrain": [
     "woodland",
-    "field",
+    "fields",
     "water"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "wildlife watching"
+    "viewpoint",
+    "visitor center",
+    "wildlife reserve",
+    "ridge"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "refreshments"
+    "exhibitions"
   ],
   "route_type": "loop",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "wildlife watching"
   ]
 }

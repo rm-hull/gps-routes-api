@@ -130,20 +130,21 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "nature trails",
-    "wildlife"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "walking trail"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "bird watching"
   ]
 }

@@ -119,17 +119,19 @@
   "difficulty": "moderate",
   "terrain": [
     "heathland",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
-    "historical sites",
-    "nature trails"
+    "historical site",
+    "nature trail"
   ],
   "facilities": [
+    "visitor center",
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "nature watching"
   ]
 }

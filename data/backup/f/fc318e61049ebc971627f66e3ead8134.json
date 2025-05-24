@@ -48,14 +48,16 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "mountain",
-    "rock"
+    "rock",
+    "mountain"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "rock formations"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

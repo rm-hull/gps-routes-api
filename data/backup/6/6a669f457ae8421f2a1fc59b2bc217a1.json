@@ -81,21 +81,24 @@
   "difficulty": "easy",
   "terrain": [
     "coastal",
-    "river",
-    "marshland",
-    "countryside"
+    "riverside",
+    "countryside",
+    "marshland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "nature reserves"
+    "viewpoint",
+    "nature reserve",
+    "waterway"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

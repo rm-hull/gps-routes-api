@@ -131,14 +131,13 @@
   "terrain": [
     "beach",
     "woodland",
-    "cliff",
-    "lowland"
+    "hills"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "parks",
-    "sculpture"
+    "castle ruins",
+    "trail",
+    "sculpture",
+    "bay"
   ],
   "facilities": [
     "visitor center",
@@ -147,6 +146,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

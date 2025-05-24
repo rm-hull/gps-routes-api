@@ -115,22 +115,25 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "pasture"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "bird watching"
+    "historical site",
+    "viewpoint",
+    "waterside paths"
   ],
   "facilities": [
     "car park",
+    "campsite",
+    "pub/cafe",
     "dog friendly",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "horse riding",
+    "bird watching"
   ]
 }

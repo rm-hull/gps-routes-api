@@ -121,20 +121,23 @@
   "terrain": [
     "woodland",
     "river",
-    "meadows"
+    "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "wildlife watching"
+    "village",
+    "arboretum",
+    "reservoir",
+    "park"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "water features"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "wildlife watching"
   ]
 }

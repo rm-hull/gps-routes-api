@@ -82,21 +82,22 @@
   "difficulty": "easy",
   "terrain": [
     "canal",
-    "nature"
+    "lake",
+    "rural"
   ],
   "points_of_interest": [
-    "visitor center",
-    "bird hide",
-    "castle ruins",
+    "discovery center",
+    "nature reserve",
+    "castle",
     "historic locks and bridges"
   ],
   "facilities": [
-    "information centre",
+    "information center",
     "cafe",
-    "car park",
-    "wheelchair accessible"
+    "visitor center",
+    "bird hide"
   ],
-  "route_type": "out and back",
+  "route_type": "linear",
   "activities": [
     "walking"
   ]

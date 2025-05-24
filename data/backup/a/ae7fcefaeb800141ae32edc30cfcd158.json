@@ -85,21 +85,24 @@
   "display_address": "Grounded, 1, Bath Road, Chippenham, Wiltshire, England, SN15 2BB, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "3-4 hours",
-  "difficulty": "easy",
+  "estimated_duration": "3 hours",
+  "difficulty": "moderate",
   "terrain": [
+    "path",
     "woodland",
-    "rural"
+    "stream"
   ],
   "points_of_interest": [
-    "historical sites",
-    "gardens",
-    "village"
+    "abbey",
+    "village",
+    "garden",
+    "orchard"
   ],
   "facilities": [
     "car park",
-    "church",
-    "visitor center"
+    "visitor center",
+    "pub/cafe",
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [

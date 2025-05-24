@@ -64,17 +64,20 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "natural"
+    "river"
   ],
   "points_of_interest": [
-    "nature reserves",
-    "wildlife"
+    "nature reserve",
+    "beach",
+    "castle"
   ],
   "facilities": [
-    "train station"
+    "train station",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

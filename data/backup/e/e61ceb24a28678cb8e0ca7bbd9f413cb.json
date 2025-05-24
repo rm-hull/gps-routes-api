@@ -83,10 +83,12 @@
     "downland"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling",

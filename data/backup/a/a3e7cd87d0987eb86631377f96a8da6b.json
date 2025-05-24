@@ -110,18 +110,20 @@
   "terrain": [
     "waterfall",
     "woodland",
-    "river"
+    "hill"
   ],
   "points_of_interest": [
-    "waterfalls",
-    "birdwatching",
-    "hills"
+    "waterfall",
+    "river",
+    "hill"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "visitor center"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

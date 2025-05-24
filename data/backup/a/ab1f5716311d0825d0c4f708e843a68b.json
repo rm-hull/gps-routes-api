@@ -95,14 +95,15 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "countryside",
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "villages"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking",

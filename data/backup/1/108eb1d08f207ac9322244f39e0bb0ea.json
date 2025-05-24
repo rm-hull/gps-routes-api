@@ -116,16 +116,17 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "cliff top"
+    "cliff"
   ],
   "points_of_interest": [
     "harbour",
     "lighthouse"
   ],
   "facilities": [
-    "ferry"
+    "ferry",
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

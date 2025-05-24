@@ -61,7 +61,6 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "water",
     "mountain",
     "lake"
   ],
@@ -70,11 +69,12 @@
     "lake views"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

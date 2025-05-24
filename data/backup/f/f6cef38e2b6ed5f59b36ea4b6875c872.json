@@ -121,12 +121,13 @@
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "countryside"
+    "countryside",
+    "nature"
   ],
   "points_of_interest": [
+    "country park",
+    "model village",
     "nature reserve",
-    "estate",
-    "village",
     "windmill"
   ],
   "facilities": [
@@ -134,7 +135,7 @@
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -87,22 +87,20 @@
   "display_address": "Kingfisher Leisure Centre, Station Road, Sudbury, Babergh, Suffolk, England, CO10 2SU, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "path",
-    "waterfront"
+    "flat"
   ],
   "points_of_interest": [
     "local history",
-    "parkland",
-    "scenic lakes"
+    "parkland"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -147,22 +147,24 @@
   "terrain": [
     "coastal",
     "woodland",
-    "beach"
+    "chalk grassland"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historical site",
+    "natural features",
     "geological formations",
-    "nature reserves",
-    "fossil collections"
+    "museum"
   ],
   "facilities": [
     "visitor center",
     "car park",
-    "woodland trails",
+    "dog friendly",
+    "play area",
     "beach"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "exploration"
   ]
 }

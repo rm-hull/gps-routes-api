@@ -119,14 +119,12 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "river",
-    "woodland"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
     "golf course",
-    "river estuary",
-    "beach"
+    "town"
   ],
   "facilities": [
     "car park",
@@ -134,6 +132,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "beach walking"
   ]
 }

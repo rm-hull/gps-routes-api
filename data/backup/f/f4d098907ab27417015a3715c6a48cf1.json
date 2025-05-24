@@ -78,24 +78,25 @@
   "district": "Braintree",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "garden",
-    "rural"
+    "woodland"
   ],
   "points_of_interest": [
-    "historic castle",
-    "landscaped gardens",
-    "village",
-    "river valley"
+    "castle",
+    "lake",
+    "church",
+    "wood"
   ],
   "facilities": [
-    "pub",
+    "pub/cafe",
+    "visitor center",
     "car park",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

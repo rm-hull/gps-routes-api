@@ -96,20 +96,22 @@
   "terrain": [
     "woodland",
     "woodland",
-    "pasture"
+    "heathland",
+    "meadow"
   ],
   "points_of_interest": [
-    "historical sites",
+    "harbour",
     "nature reserve",
-    "university"
+    "university buildings"
   ],
   "facilities": [
     "car park",
-    "train station"
+    "visitor center",
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }

@@ -115,19 +115,20 @@
   "difficulty": "moderate",
   "terrain": [
     "moorland",
-    "river"
+    "valley"
   ],
   "points_of_interest": [
-    "historical sites",
-    "tourist attractions"
+    "railway",
+    "river"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "railway"
+    "pub/cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "rail transport"
+    "cycling"
   ]
 }

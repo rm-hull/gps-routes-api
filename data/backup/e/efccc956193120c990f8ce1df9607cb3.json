@@ -107,10 +107,12 @@
     "woodland"
   ],
   "points_of_interest": [
-    "nature trails"
+    "trails"
   ],
-  "facilities": [],
-  "route_type": "loop",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

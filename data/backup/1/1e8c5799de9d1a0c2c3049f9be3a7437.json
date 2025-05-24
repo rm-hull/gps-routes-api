@@ -134,9 +134,8 @@
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "canal",
-    "river",
-    "pasture"
+    "towpath",
+    "waterside"
   ],
   "points_of_interest": [
     "museum",
@@ -145,9 +144,9 @@
   ],
   "facilities": [
     "car park",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

@@ -100,12 +100,12 @@
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "rural"
+    "countryside",
+    "park"
   ],
   "points_of_interest": [
-    "parks",
-    "towns",
-    "farms"
+    "town park",
+    "canal"
   ],
   "facilities": [
     "visitor center",
@@ -115,7 +115,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

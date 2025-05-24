@@ -106,20 +106,18 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "water"
+    "mountain"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "rivers",
-    "waterfalls"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "waymarked trail"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"
