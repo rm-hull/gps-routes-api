@@ -1,8 +1,9 @@
 name: gps-routes
 
 networks:
-  gps-routes-network:
-    driver: bridge
+  default:
+  homelab-net:
+    external: true
 
 services:
   api-server:
@@ -36,8 +37,12 @@ services:
       - "traefik.http.routers.gps_routes.entrypoints=websecure"
       - "traefik.http.routers.gps_routes.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
       - "traefik.http.services.gps_routes.loadbalancer.server.port=8080"
+      - "cloudflare.tunnel.enable=true"
+      - "cloudflare.tunnel.hostname=api.destructuring-bind.org"
+      - "cloudflare.tunnel.service=http://api_server:8080"
     networks:
-      - gps-routes-network
+      - default
+      - homelab-net
 
   run-migrations:
     container_name: run_migrations
@@ -64,7 +69,7 @@ services:
       postgis:
         condition: service_healthy
     networks:
-      - gps-routes-network
+      - default
 
   import-data:
     container_name: import_data
@@ -92,7 +97,7 @@ services:
       run-migrations:
         condition: service_completed_successfully
     networks:
-      - gps-routes-network
+      - default
 
   postgis:
     container_name: postgis
@@ -118,4 +123,5 @@ services:
     volumes:
       - ./data/pgdata:/var/lib/postgresql/data
     networks:
-      - gps-routes-network
+      - default
+      - homelab-net

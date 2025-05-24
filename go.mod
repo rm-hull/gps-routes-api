@@ -1,18 +1,18 @@
 module github.com/rm-hull/gps-routes-api
 
-go 1.24
+go 1.24.2
 
 require (
 	github.com/Depado/ginprom v1.8.1
-	github.com/JGLTechnologies/gin-rate-limit v1.5.4
+	github.com/JGLTechnologies/gin-rate-limit v1.5.6
 	github.com/aurowora/compress v0.0.0-20230724224640-6512772d482f
 	github.com/earthboundkid/versioninfo/v2 v2.24.1
 	github.com/gin-contrib/cors v1.7.5
 	github.com/gin-contrib/size v1.0.2
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.10.1
 	github.com/golang-migrate/migrate/v4 v4.18.3
 	github.com/ikeikeikeike/go-sitemap-generator/v2 v2.0.2
-	github.com/jackc/pgx/v5 v5.7.4
+	github.com/jackc/pgx/v5 v5.7.5
 	github.com/joho/godotenv v1.5.1
 	github.com/mark3labs/mcp-go v0.25.0
 	github.com/pkg/errors v0.9.1
