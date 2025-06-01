@@ -80,22 +80,27 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 	go fetchResults()
 	go fetchCounts()
 
-	for fieldName, facetConfig := range FACET_FIELDS {
-		go func() {
-			results, err := service.repository.FacetCounts(ctx, criteria, fieldName, facetConfig.Limit, facetConfig.Unnest, facetConfig.Excluded...)
-			if err != nil {
-				errorChan <- err
-			} else {
-				facetsChan <- facet{Name: fieldName, Values: *results}
-			}
-		}()
+	var waitForFacets int
+
+	if !criteria.SkipFacets {
+		for fieldName, facetConfig := range FACET_FIELDS {
+			go func() {
+				results, err := service.repository.FacetCounts(ctx, criteria, fieldName, facetConfig.Limit, facetConfig.Unnest, facetConfig.Excluded...)
+				if err != nil {
+					errorChan <- err
+				} else {
+					facetsChan <- facet{Name: fieldName, Values: *results}
+				}
+			}()
+			waitForFacets++
+		}
 	}
 
 	var total int64
 	var results []domain.RouteSummary
 
-	facets := make(domain.Facets, len(FACET_FIELDS))
-	remaining := 2 + len(FACET_FIELDS) // 2 for total and results, plus the number of facets
+	facets := make(domain.Facets, waitForFacets)
+	remaining := 2 + waitForFacets // 2 for total and results, plus the number of facets
 
 	for remaining > 0 {
 		select {
