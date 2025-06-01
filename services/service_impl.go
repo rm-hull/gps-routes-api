@@ -84,14 +84,14 @@ func (service *RoutesServiceImpl) Search(criteria *request.SearchRequest) (*doma
 
 	if !criteria.SkipFacets {
 		for fieldName, facetConfig := range FACET_FIELDS {
-			go func() {
-				results, err := service.repository.FacetCounts(ctx, criteria, fieldName, facetConfig.Limit, facetConfig.Unnest, facetConfig.Excluded...)
+go func(fn string, fc *FacetConfig) {
+				results, err := service.repository.FacetCounts(ctx, criteria, fn, fc.Limit, fc.Unnest, fc.Excluded...)
 				if err != nil {
 					errorChan <- err
 				} else {
-					facetsChan <- facet{Name: fieldName, Values: *results}
+					facetsChan <- facet{Name: fn, Values: *results}
 				}
-			}()
+			}(fieldName, facetConfig)
 			waitForFacets++
 		}
 	}
