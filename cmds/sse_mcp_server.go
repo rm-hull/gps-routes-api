@@ -29,8 +29,13 @@ func NewSseMcpServer(port int) {
 		server.WithResourceCapabilities(true, true),
 	)
 
+	readOnly := true
+	destructive := false
+	idempotent := true
+	openWorld := true
+
 	gpsRoutesTool := mcp.NewTool("gps_routes",
-		mcp.WithDescription("Searches for walking and cycling routes given the query"),
+		mcp.WithDescription("Searches for walking and cycling routes in the United Kingdom given the query"),
 		mcp.WithString("query",
 			mcp.Required(),
 			mcp.Description("keywords to search for")),
@@ -40,10 +45,10 @@ func NewSseMcpServer(port int) {
 			mcp.Description("The search radius used when nearby searching, this should contain only numeric values"),
 			mcp.DefaultNumber(50)),
 		mcp.WithToolAnnotation(mcp.ToolAnnotation{
-			ReadOnlyHint:    true,
-			DestructiveHint: false,
-			IdempotentHint:  true,
-			OpenWorldHint:   true,
+			ReadOnlyHint:    &readOnly,
+			DestructiveHint: &destructive,
+			IdempotentHint:  &idempotent,
+			OpenWorldHint:   &openWorld,
 		}),
 	)
 
