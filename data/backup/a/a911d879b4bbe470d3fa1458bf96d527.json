@@ -95,22 +95,22 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
+    "cliff tops",
     "woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "geological features"
+    "hamlet",
+    "geological formations",
+    "fishing village"
   ],
   "facilities": [
-    "pub/cafe",
-    "car park",
+    "cafe",
+    "hotel",
     "beach",
-    "wheelchair accessible"
+    "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "bird watching"
+    "walking"
   ]
 }

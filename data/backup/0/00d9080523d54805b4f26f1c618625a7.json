@@ -131,20 +131,20 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "mountain",
-    "rural"
+    "ridge",
+    "valley"
   ],
   "points_of_interest": [
-    "villages",
-    "towns",
-    "wildlife",
-    "historical sites"
+    "village",
+    "town",
+    "deer park",
+    "castle"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

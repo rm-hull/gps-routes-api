@@ -31,14 +31,15 @@
   "estimated_duration": "30 minutes",
   "difficulty": "easy",
   "terrain": [
-    "river",
-    "path"
+    "river"
   ],
   "points_of_interest": [
     "scenic views"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "one-way",
   "activities": [
     "walking",
     "cycling"

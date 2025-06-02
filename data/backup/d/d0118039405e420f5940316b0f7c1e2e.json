@@ -56,12 +56,14 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "mountain"
   ],
   "points_of_interest": [
-    "views"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

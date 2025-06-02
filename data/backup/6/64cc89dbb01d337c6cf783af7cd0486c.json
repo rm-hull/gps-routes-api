@@ -77,23 +77,24 @@
   "state": null,
   "country": "\u00c9ire / Ireland",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "river",
     "urban"
   ],
   "points_of_interest": [
-    "historical buildings",
     "bridges",
+    "historic buildings",
     "wildlife"
   ],
   "facilities": [
     "cafes",
     "shops",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "one-way",
+  "route_type": "linear",
   "activities": [
     "walking"
   ]

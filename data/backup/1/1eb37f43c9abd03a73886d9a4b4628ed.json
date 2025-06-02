@@ -105,22 +105,23 @@
   "district": "Derbyshire Dales",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "rock",
-    "woodland"
+    "countryside"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "historical sites",
-    "rock formations"
+    "viewpoint",
+    "rock formations",
+    "stone circle"
   ],
   "facilities": [
     "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "climbing"
   ]
 }

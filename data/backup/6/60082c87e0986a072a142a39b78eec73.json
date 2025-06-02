@@ -103,12 +103,12 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "historical sites",
+    "historical",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "castles",
+    "historical site",
+    "castle",
     "battlefield"
   ],
   "facilities": [
@@ -118,6 +118,7 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "history"
   ]
 }

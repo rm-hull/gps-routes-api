@@ -115,20 +115,21 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "coastal",
+    "beach",
     "marshland"
   ],
   "points_of_interest": [
-    "historical routes",
-    "wildlife viewing",
-    "arts complex"
+    "arts complex",
+    "concert hall",
+    "nature reserve"
   ],
   "facilities": [
-    "car park",
+    "visitor center",
     "shops",
-    "restaurants"
+    "restaurants",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

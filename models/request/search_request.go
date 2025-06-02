@@ -20,6 +20,8 @@ type SearchRequest struct {
 	Nearby *Nearby `json:"nearby,omitempty"`
 
 	TruncateText bool `json:"truncateText,omitempty"`
+
+	SkipFacets bool `json:"skipFacets,omitempty"`
 }
 
 type Nearby struct {

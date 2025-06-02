@@ -125,21 +125,22 @@
   "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
-    "river",
     "garden",
-    "rural"
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
-    "historic church",
+    "church",
     "farm shop"
   ],
   "facilities": [
-    "farm shop",
-    "tea room"
+    "visitor center",
+    "restaurant",
+    "cafe"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "dining"
   ]
 }

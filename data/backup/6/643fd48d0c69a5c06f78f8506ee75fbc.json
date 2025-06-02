@@ -97,17 +97,19 @@
   "terrain": [
     "canal",
     "river",
-    "rural"
+    "footpath",
+    "railway"
   ],
   "points_of_interest": [
-    "historical information",
-    "countryside views",
+    "information boards",
+    "garden",
     "memorial"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

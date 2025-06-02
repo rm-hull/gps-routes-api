@@ -96,19 +96,17 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
     "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "waterfalls",
-    "scenic spots"
+    "viewpoint",
+    "waterside"
   ],
   "facilities": [
     "car park",
     "picnic"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

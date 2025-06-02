@@ -73,24 +73,25 @@
   "difficulty": "easy",
   "terrain": [
     "river",
-    "woodland",
-    "meadow"
+    "lake",
+    "meadow",
+    "woodland"
   ],
   "points_of_interest": [
-    "nature reserve",
     "sculpture park",
+    "nature reserve",
     "railway",
-    "country park",
-    "lake"
+    "country park"
   ],
   "facilities": [
-    "visitor center",
     "cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

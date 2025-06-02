@@ -104,17 +104,18 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "grassland"
+    "hill"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "river source",
+    "historic path"
   ],
   "facilities": [
     "car park",
-    "visitor center"
+    "information board"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

@@ -139,11 +139,13 @@
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
-    "natural landscapes"
+    "historical site",
+    "scenic views"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "car park"
+  ],
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

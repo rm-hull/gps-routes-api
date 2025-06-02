@@ -116,20 +116,21 @@
   "terrain": [
     "woodland",
     "water",
-    "canal"
+    "meadow"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical sites",
-    "river views"
+    "viewpoint",
+    "canal"
   ],
   "facilities": [
+    "visitor center",
     "car park",
-    "walking trails"
+    "dog friendly"
   ],
-  "route_type": "loop",
+  "route_type": "circular",
   "activities": [
     "walking",
-    "bird watching"
+    "bird watching",
+    "cycling"
   ]
 }

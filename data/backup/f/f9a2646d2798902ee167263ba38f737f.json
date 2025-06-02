@@ -102,19 +102,19 @@
   "terrain": [
     "woodland",
     "mountain",
-    "coastal"
+    "river"
   ],
   "points_of_interest": [
-    "viewpoints",
-    "river views",
-    "forest trails"
+    "viewpoint",
+    "forest"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

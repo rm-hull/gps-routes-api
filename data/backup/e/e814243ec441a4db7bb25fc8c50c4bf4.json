@@ -63,24 +63,26 @@
   "display_address": "Swettenham Lane, Swettenham, Cheshire East, England, CW12 2LG, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "natural"
+    "lake",
+    "meadow"
   ],
   "points_of_interest": [
-    "nature reserve",
     "country park",
-    "lake",
+    "nature reserve",
     "arboretum"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "waterside walking"
   ]
 }

@@ -130,21 +130,23 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural",
-    "river"
+    "river",
+    "rural"
   ],
   "points_of_interest": [
-    "parks",
+    "park",
     "woods",
-    "historical sites",
-    "gardens"
+    "statue",
+    "garden house",
+    "historical site"
   ],
   "facilities": [
     "car park",
     "visitor center",
-    "wheelchair accessible"
+    "pub/cafe",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "cycling",
     "walking"

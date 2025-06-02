@@ -105,16 +105,19 @@
   "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
-    "coastal"
+    "cliff"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "statue",
+    "beach",
+    "dunes"
   ],
   "facilities": [
     "benches"
   ],
-  "route_type": "out and back",
+  "route_type": "loop",
   "activities": [
-    "walking"
+    "walking",
+    "cycling"
   ]
 }

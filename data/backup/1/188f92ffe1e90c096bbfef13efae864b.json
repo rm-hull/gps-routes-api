@@ -109,17 +109,19 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "heathland"
+    "heathland",
+    "ancient woodland"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints"
+    "viewpoint",
+    "nature reserve"
   ],
   "facilities": [
     "car park",
-    "walking trails"
+    "walking trails",
+    "tram stop"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

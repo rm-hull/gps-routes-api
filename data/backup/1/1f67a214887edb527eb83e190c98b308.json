@@ -101,17 +101,20 @@
   "terrain": [
     "woodland",
     "coastal",
-    "mountain"
+    "historical"
   ],
   "points_of_interest": [
-    "historical sites",
-    "viewpoints",
-    "geology"
+    "monument",
+    "castle",
+    "landmark",
+    "bridge",
+    "railway"
   ],
   "facilities": [
-    "car park",
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly",
+    "play area"
   ],
   "route_type": "circular",
   "activities": [

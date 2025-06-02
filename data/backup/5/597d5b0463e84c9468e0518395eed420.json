@@ -55,16 +55,18 @@
   "postcode": "NN15 5LG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "moderate",
   "terrain": [
     "river",
     "railway"
   ],
   "points_of_interest": [
-    "villages"
+    "village"
   ],
-  "facilities": [],
+  "facilities": [
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

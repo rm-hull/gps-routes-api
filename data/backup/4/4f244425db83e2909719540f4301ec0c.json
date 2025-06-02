@@ -69,13 +69,16 @@
   "estimated_duration": "half day",
   "difficulty": "easy",
   "terrain": [
-    "woodland",
-    "rural"
+    "hill",
+    "canal"
   ],
   "points_of_interest": [
-    "viewpoints"
+    "viewpoint"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "circular",
   "activities": [
     "walking"

@@ -110,24 +110,25 @@
   "display_address": "Watery Lane, Newent, Forest of Dean, Gloucestershire, England, GL18 1BY, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "2-3 hours",
+  "estimated_duration": "half day",
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "rural"
+    "grassland",
+    "hill"
   ],
   "points_of_interest": [
     "historical buildings",
-    "viewpoints",
+    "viewpoint",
     "wildlife"
   ],
   "facilities": [
     "visitor center",
-    "car park",
-    "dog friendly"
+    "car park"
   ],
   "route_type": "out and back",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

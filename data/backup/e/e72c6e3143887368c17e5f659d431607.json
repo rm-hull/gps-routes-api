@@ -69,19 +69,20 @@
   "difficulty": "moderate",
   "terrain": [
     "river",
-    "waterfront",
+    "estuary",
     "woodland"
   ],
   "points_of_interest": [
     "gardens",
-    "lakes",
-    "views"
+    "lake",
+    "park"
   ],
   "facilities": [
     "visitor center",
-    "wheelchair accessible"
+    "car park",
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

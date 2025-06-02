@@ -131,21 +131,20 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "river",
-    "rural"
+    "gorge"
   ],
   "points_of_interest": [
-    "historical sites",
-    "waterfalls",
-    "natural gorge",
-    "archaeological trail"
+    "castle",
+    "priory",
+    "national trail",
+    "waterfall"
   ],
   "facilities": [
-    "car park",
     "visitor center",
+    "car park",
     "dog friendly"
   ],
-  "route_type": "circular",
+  "route_type": "linear",
   "activities": [
     "walking",
     "cycling"

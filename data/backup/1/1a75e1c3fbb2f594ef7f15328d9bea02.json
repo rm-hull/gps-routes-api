@@ -106,18 +106,20 @@
   "terrain": [
     "heathland",
     "woodland",
-    "river"
+    "wet woodland scrub",
+    "fen"
   ],
   "points_of_interest": [
-    "wildlife viewing",
-    "historical paths"
+    "historical site",
+    "viewpoint"
   ],
   "facilities": [
     "car park",
+    "cafe",
     "visitor center",
-    "cafe"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "bird watching"

@@ -104,12 +104,11 @@
   "difficulty": "moderate",
   "terrain": [
     "canal",
-    "woodland",
     "hill"
   ],
   "points_of_interest": [
     "historical ruins",
-    "viewpoints"
+    "viewpoint"
   ],
   "facilities": [
     "visitor center",
@@ -118,7 +117,6 @@
   ],
   "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

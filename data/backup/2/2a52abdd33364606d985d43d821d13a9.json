@@ -74,19 +74,20 @@
   "postcode": "PE8 6QG",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1-2 hours",
+  "estimated_duration": "1 hour",
   "difficulty": "easy",
   "terrain": [
     "river",
-    "rural"
+    "countryside"
   ],
   "points_of_interest": [
     "views"
   ],
-  "facilities": [],
-  "route_type": "out and back",
+  "facilities": [
+    "visitor center"
+  ],
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "walking"
   ]
 }

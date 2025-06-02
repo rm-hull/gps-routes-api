@@ -135,17 +135,19 @@
   "display_address": "Oakham All Saints Graveyard, Church Street, Catmose, Oakham, Rutland, England, LE15 6AA, United Kingdom",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1 day",
+  "estimated_duration": "multi-day",
   "difficulty": "moderate",
   "terrain": [
-    "woodland",
+    "forest",
     "rural"
   ],
   "points_of_interest": [
-    "historical sites",
+    "historic path",
     "natural landscapes"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

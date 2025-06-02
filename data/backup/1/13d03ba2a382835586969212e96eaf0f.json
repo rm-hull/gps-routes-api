@@ -82,20 +82,24 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "rural"
+    "countryside",
+    "river"
   ],
   "points_of_interest": [
     "nature reserve",
-    "gardens",
-    "views"
+    "castle folly",
+    "garden",
+    "beach"
   ],
   "facilities": [
     "pub/cafe",
+    "visitor center",
     "car park",
-    "wheelchair accessible"
+    "dog friendly"
   ],
   "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "bird watching"
   ]
 }

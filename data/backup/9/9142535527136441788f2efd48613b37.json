@@ -86,22 +86,24 @@
   "difficulty": "moderate",
   "terrain": [
     "coastal",
-    "paved"
+    "rural"
   ],
   "points_of_interest": [
-    "historical sites",
     "museum",
-    "viewpoints",
-    "gardens"
+    "garden",
+    "lighthouse",
+    "windmill",
+    "historic site"
   ],
   "facilities": [
     "car park",
     "visitor center",
     "tea room",
-    "wheelchair accessible"
+    "dog friendly"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking"
+    "walking",
+    "sightseeing"
   ]
 }

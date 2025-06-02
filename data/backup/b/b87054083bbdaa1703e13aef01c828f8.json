@@ -74,14 +74,16 @@
   "difficulty": "moderate",
   "terrain": [
     "woodland",
-    "waterfront",
-    "rural"
+    "water",
+    "mountain"
   ],
   "points_of_interest": [
-    "country views",
-    "waterfall"
+    "country views"
   ],
-  "facilities": [],
+  "facilities": [
+    "visitor center",
+    "car park"
+  ],
   "route_type": "out and back",
   "activities": [
     "walking"

@@ -80,19 +80,18 @@
   "difficulty": "easy",
   "terrain": [
     "heathland",
-    "woodland",
-    "common"
+    "woodland"
   ],
   "points_of_interest": [
-    "wildlife",
-    "trails",
+    "woodland trails",
     "pond",
-    "footpath"
+    "long distance footpath"
   ],
   "facilities": [
-    "car park"
+    "car park",
+    "stream"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking"
   ]

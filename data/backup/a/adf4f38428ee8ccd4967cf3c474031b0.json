@@ -79,10 +79,10 @@
   "terrain": [
     "woodland",
     "lake",
-    "grass"
+    "hill"
   ],
   "points_of_interest": [
-    "viewpoints",
+    "viewpoint",
     "play area"
   ],
   "facilities": [
@@ -93,6 +93,7 @@
   "route_type": "circular",
   "activities": [
     "walking",
-    "cycling"
+    "cycling",
+    "dog walking"
   ]
 }

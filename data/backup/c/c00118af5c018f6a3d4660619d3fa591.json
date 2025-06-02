@@ -71,7 +71,7 @@
   "district": "Great Wishford",
   "state": "England",
   "llama_cpp": true,
-  "estimated_duration": "1.5 - 3 hours",
+  "estimated_duration": "1.5 hours",
   "difficulty": "easy",
   "terrain": [
     "woodland",
@@ -79,15 +79,14 @@
   ],
   "points_of_interest": [
     "nature reserve",
-    "countryside views",
     "woodland trails",
-    "historic footpath"
+    "countryside views"
   ],
   "facilities": [
-    "car park",
-    "visitor center"
+    "visitor center",
+    "car park"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
     "walking",
     "cycling"

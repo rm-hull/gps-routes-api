@@ -91,20 +91,20 @@
   "terrain": [
     "woodland",
     "parkland",
-    "river"
+    "wet meadows"
   ],
   "points_of_interest": [
-    "parks",
-    "villages",
-    "racecourse"
+    "park",
+    "racecourse",
+    "lough"
   ],
   "facilities": [
     "car park",
     "visitor center"
   ],
-  "route_type": "out and back",
+  "route_type": "circular",
   "activities": [
-    "walking",
-    "cycling"
+    "cycling",
+    "walking"
   ]
 }
