@@ -3,6 +3,7 @@ package cmds
 import (
 	"bytes"
 	"context"
+	"encoding/base64"
 	"encoding/json"
 	"fmt"
 	"io"
@@ -81,6 +82,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 		Query:        mcp.ParseString(toolRequest, "query", ""),
 		Limit:        5,
 		TruncateText: false,
+		SkipFacets:   true,
 	}
 	nearby := mcp.ParseString(toolRequest, "nearby", "")
 	if nearby != "" {
@@ -134,7 +136,7 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 		Text: "The following routes were found for the search query. Do not include information about any other " +
 			"routes from other sources, just the ones listed below. Do not alter the display order. When summarizing, " +
 			"pick out the most pertinent information and do not include any extraneous information. Use markdown to " +
-			"format the text, including headings, bullet points, and image URLs.",
+			"format the text, including headings, bullet points, and if present, display associated images.",
 		Annotated: mcp.Annotated{
 			Annotations: &mcp.Annotations{
 				Audience: []mcp.Role{"assistant"},
@@ -152,21 +154,21 @@ func gpsRoutesHandler(ctx context.Context, toolRequest mcp.CallToolRequest) (*mc
 			Text: formattedText(hit),
 		})
 
-		// if hit.HeadlineImageUrl != nil {
-		// 	log.Printf("Fetching image from %s", *hit.HeadlineImageUrl)
-		// 	imageBytes, err := fetchImage(*hit.HeadlineImageUrl)
-		// 	if err != nil {
-		// 		return nil, fmt.Errorf("error fetching image: %w", err)
-		// 	}
-		// 	content = append(content, mcp.ImageContent{
-		// 		Type:     "image",
-		// 		Data:     base64.StdEncoding.EncodeToString(imageBytes),
-		// 		MIMEType: inferMimeType(*hit.HeadlineImageUrl),
-		// 	})
-		// }
+		if hit.HeadlineImageUrl != nil {
+			log.Printf("Fetching image from %s", *hit.HeadlineImageUrl)
+			contentType, imageBytes, err := fetchImage(*hit.HeadlineImageUrl)
+			if err != nil {
+				return nil, fmt.Errorf("error fetching image: %w", err)
+			}
+			content = append(content, mcp.ImageContent{
+				Type:     "image",
+				Data:     base64.StdEncoding.EncodeToString(imageBytes),
+				MIMEType: *contentType,
+			})
+		}
 	}
 
-	return &mcp.CallToolResult{Content: content}, nil
+	return &mcp.CallToolResult{Content: content, IsError: false}, nil
 }
 
 func formattedText(hit domain.RouteSummary) string {
@@ -180,20 +182,16 @@ func formattedText(hit domain.RouteSummary) string {
 	return sb.String()
 }
 
-func inferMimeType(uri string) string {
-	return "image/" + strings.TrimPrefix(strings.ToLower(uri[strings.LastIndex(uri, ".")+1:]), ".")
-}
-
-func fetchImage(uri string) ([]byte, error) {
+func fetchImage(uri string) (*string, []byte, error) {
 	req, err := http.NewRequest("GET", uri, nil)
 	if err != nil {
-		return nil, fmt.Errorf("error creating request: %w", err)
+		return nil, nil, fmt.Errorf("error creating request: %w", err)
 	}
 
 	client := &http.Client{}
 	resp, err := client.Do(req)
 	if err != nil {
-		return nil, fmt.Errorf("error making request: %w", err)
+		return nil, nil, fmt.Errorf("error making request: %w", err)
 	}
 	defer func() {
 		if err := resp.Body.Close(); err != nil {
@@ -201,12 +199,13 @@ func fetchImage(uri string) ([]byte, error) {
 		}
 	}()
 
+	contentType := resp.Header.Get("Content-Type")
 	body, err := io.ReadAll(resp.Body)
 	if err != nil {
-		return nil, fmt.Errorf("error reading response body: %w", err)
+		return nil, nil, fmt.Errorf("error reading response body: %w", err)
 	}
 
-	return body, nil
+	return &contentType, body, nil
 }
 
 func refDataHandler(ctx context.Context, request mcp.ReadResourceRequest) ([]mcp.ResourceContents, error) {
