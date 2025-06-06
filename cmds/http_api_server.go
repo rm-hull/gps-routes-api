@@ -68,7 +68,10 @@ func NewHttpApiServer(port int) {
 		middlewares.AuthMiddleware("/healthz"),
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
 		gin.Recovery(),
-		cors.Default(),
+		cors.New(cors.Config{
+			AllowAllOrigins: true,
+			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type"},
+		}),
 		middlewares.ErrorHandler(),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),

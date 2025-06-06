@@ -13,6 +13,12 @@ func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
 
 	return func(c *gin.Context) {
 
+		// Always allow requests for CORS preflight checks
+		if c.Request.Method == "OPTIONS" {
+			c.Next()
+			return
+		}
+
 		for _, path := range notlogged {
 			log.Printf("Checking path: %s against notlogged path %s", c.Request.RequestURI, path)
 			if path == c.Request.RequestURI {
