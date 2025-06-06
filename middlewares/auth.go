@@ -1,7 +1,6 @@
 package middlewares
 
 import (
-	"log"
 	"net/http"
 	"os"
 
@@ -20,7 +19,6 @@ func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
 		}
 
 		for _, path := range notlogged {
-			log.Printf("Checking path: %s against notlogged path %s", c.Request.RequestURI, path)
 			if path == c.Request.RequestURI {
 				c.Next() // Skip authentication for this path
 				return
