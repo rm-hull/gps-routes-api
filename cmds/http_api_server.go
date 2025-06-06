@@ -65,6 +65,7 @@ func NewHttpApiServer(port int) {
 	})
 
 	engine.Use(
+		middlewares.AuthMiddleware("/healthz"),
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
 		gin.Recovery(),
 		cors.Default(),
