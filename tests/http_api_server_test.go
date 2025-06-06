@@ -12,10 +12,14 @@ import (
 func TestHealthEndpoint(t *testing.T) {
 	originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
 	defer func() {
-		os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey)
+		if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
+			t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+		}
 	}()
 
-	os.Setenv("GPS_ROUTES_API_KEY", "test-api-key")
+	if err := os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"); err != nil {
+		t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+	}
 
 	// Start the HTTP server in a goroutine.
 	go cmds.NewHttpApiServer(8080)
@@ -43,10 +47,14 @@ func TestHealthEndpoint(t *testing.T) {
 func TestMetricsEndpoint(t *testing.T) {
 	originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
 	defer func() {
-		os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey)
+		if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
+			t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+		}
 	}()
 
-	os.Setenv("GPS_ROUTES_API_KEY", "test-api-key")
+	if err := os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"); err != nil {
+		t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+	}
 
 	// Test the /healthz endpoint.
 	resp, err := http.Get("http://localhost:8080/metrics")
