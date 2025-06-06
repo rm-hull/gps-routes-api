@@ -13,6 +13,14 @@
             "args": ["api-server", "8080"]
         },
         {
+            "name": "Launch MCP server",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "main.go",
+            "args": ["mcp-server", "8081"]
+        },
+        {
             "name": "Import data",
             "type": "go",
             "request": "launch",
