@@ -7,7 +7,7 @@ networks:
 
 services:
   api-server:
-    container_name: api_server
+    container_name: api-server
     image: ghcr.io/rm-hull/gps-routes-api:latest
     command:
       - api-server
@@ -16,6 +16,7 @@ services:
       - .env
     environment:
       - OS_NAMES_API_KEY
+      - GPS_ROUTES_API_KEY
       - POSTGRES_DB
       - POSTGRES_HOST
       - POSTGRES_PASSWORD
@@ -39,13 +40,14 @@ services:
       - "traefik.http.services.gps_routes.loadbalancer.server.port=8080"
       - "cloudflare.tunnel.enable=true"
       - "cloudflare.tunnel.hostname=api.destructuring-bind.org"
-      - "cloudflare.tunnel.service=http://api_server:8080"
+      - "cloudflare.tunnel.path=/v1/gps-routes"
+      - "cloudflare.tunnel.service=http://api-server:8080"
     networks:
       - default
       - homelab-net
 
   run-migrations:
-    container_name: run_migrations
+    container_name: run-migrations
     image: ghcr.io/rm-hull/gps-routes-api:latest
     command:
       - migration
@@ -72,7 +74,7 @@ services:
       - default
 
   import-data:
-    container_name: import_data
+    container_name: import-data
     image: ghcr.io/rm-hull/gps-routes-api:latest
     command:
       - import
