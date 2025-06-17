@@ -46,6 +46,34 @@ services:
       - default
       - homelab-net
 
+  poi-server:
+    container_name: poi-server
+    image: ghcr.io/rm-hull/geods-poi-api:latest
+    command:
+      - poi
+      - http-server
+      - "--db=/data/poi_uk.gpkg"
+      - "--port=8080"
+    volumes:
+      - ./data/poi_uk.gpkg:/data/poi_uk.gpkg:ro
+    env_file:
+      - .env
+    restart: always
+    healthcheck:
+      disable: false
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.poi_server.entrypoints=websecure"
+      - "traefik.http.routers.poi_server.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/geods-poi/`)"
+      - "traefik.http.services.poi_server.loadbalancer.server.port=8080"
+        #- "cloudflare.tunnel.enable=true"
+        #- "cloudflare.tunnel.hostname=api.destructuring-bind.org"
+        #- "cloudflare.tunnel.path=/v1/geods-poi"
+        #- "cloudflare.tunnel.service=http://poi-server:8080"
+    networks:
+      - default
+      - homelab-net
+
   run-migrations:
     container_name: run-migrations
     image: ghcr.io/rm-hull/gps-routes-api:latest
