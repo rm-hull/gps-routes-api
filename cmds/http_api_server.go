@@ -44,8 +44,8 @@ func NewHttpApiServer(port int) {
 
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
-		ginprom.Namespace("gps_routes"),
-		ginprom.Subsystem("api"),
+		ginprom.Path("/metrics"),
+		ginprom.Ignore("/healthz"),
 	)
 
 	rlStore := ratelimit.InMemoryStore(&ratelimit.InMemoryOptions{
