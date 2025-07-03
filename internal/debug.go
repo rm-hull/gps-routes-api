@@ -17,7 +17,7 @@ func ShowVersion() {
 func EnvironmentVars() {
 	log.Println("Environment variables")
 
-	sensitiveRegex := regexp.MustCompile(`(?i)(PASSWORD|API_KEY|SECRET)`)
+	sensitiveRegex := regexp.MustCompile(`(?i)(PASSWORD|API_KEY|ACCESS_KEY|SECRET)`)
 	environ := os.Environ()
 	sort.Slice(environ, func(i, j int) bool {
 		keyI := strings.SplitN(environ[i], "=", 2)[0]
