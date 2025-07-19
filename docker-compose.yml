@@ -35,13 +35,13 @@ services:
         condition: service_completed_successfully
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.gps_routes.entrypoints=websecure"
-      - "traefik.http.routers.gps_routes.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
-      - "traefik.http.services.gps_routes.loadbalancer.server.port=8080"
-      - "cloudflare.tunnel.enable=true"
-      - "cloudflare.tunnel.hostname=api.destructuring-bind.org"
-      - "cloudflare.tunnel.path=/v1/gps-routes"
-      - "cloudflare.tunnel.service=http://api-server:8080"
+      - "traefik.http.routers.gps-routes.entrypoints=websecure"
+      - "traefik.http.routers.gps-routes.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/gps-routes/`)"
+      - "traefik.http.services.gps-routes.loadbalancer.server.port=8080"
+      - "dockflare.enable=true"
+      - "dockflare.hostname=api.destructuring-bind.org"
+      - "dockflare.path=/v1/gps-routes"
+      - "dockflare.service=http://api-server:8080"
     networks:
       - default
       - homelab-net
@@ -56,6 +56,8 @@ services:
       - "--port=8080"
     volumes:
       - ./data/poi_uk.gpkg:/data/poi_uk.gpkg:ro
+    environment:
+      - UNSPLASH_ACCESS_KEY
     env_file:
       - .env
     restart: always
@@ -63,13 +65,64 @@ services:
       disable: false
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.poi_server.entrypoints=websecure"
-      - "traefik.http.routers.poi_server.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/geods-poi/`)"
-      - "traefik.http.services.poi_server.loadbalancer.server.port=8080"
-        #- "cloudflare.tunnel.enable=true"
-        #- "cloudflare.tunnel.hostname=api.destructuring-bind.org"
-        #- "cloudflare.tunnel.path=/v1/geods-poi"
-        #- "cloudflare.tunnel.service=http://poi-server:8080"
+      - "traefik.http.routers.poi-server.entrypoints=websecure"
+      - "traefik.http.routers.poi-server.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/geods-poi/`)"
+      - "traefik.http.services.poi-server.loadbalancer.server.port=8080"
+      - "dockflare.enable=true"
+      - "dockflare.hostname=api.destructuring-bind.org"
+      - "dockflare.path=/v1/geods-poi"
+      - "dockflare.service=http://poi-server:8080"
+    networks:
+      - default
+      - homelab-net
+
+  company-data:
+    container_name: company-data
+    image: ghcr.io/rm-hull/company-data-api:latest
+    command:
+      - company-data
+      - http-server
+      - "--db=/data/companies_data.db"
+      - "--port=8080"
+    volumes:
+      - ./data/companies_data.db:/data/companies_data.db:ro
+    env_file:
+      - .env
+    restart: always
+    healthcheck:
+      disable: false
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.company-data.entrypoints=websecure"
+      - "traefik.http.routers.company-data.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/company-data/`)"
+      - "traefik.http.services.company-data.loadbalancer.server.port=8080"
+      - "dockflare.enable=true"
+      - "dockflare.hostname=api.destructuring-bind.org"
+      - "dockflare.path=/v1/company-data"
+      - "dockflare.service=http://company-data:8080"
+    networks:
+      - default
+      - homelab-net
+
+  postcode-polygons:
+    container_name: postcode-polygons
+    image: ghcr.io/rm-hull/postcode-polygons:latest
+    command:
+      - api-server
+    env_file:
+      - .env
+    restart: always
+    healthcheck:
+      disable: false
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.postcode-polygons.entrypoints=websecure"
+      - "traefik.http.routers.postcode-polygons.rule=Host(`api.homelab.destructuring-bind.org`) && PathPrefix(`/v1/postcode/`)"
+      - "traefik.http.services.postcode-polygons.loadbalancer.server.port=8080"
+      - "dockflare.enable=true"
+      - "dockflare.hostname=api.destructuring-bind.org"
+      - "dockflare.path=/v1/postcode"
+      - "dockflare.service=http://postcode-polygons:8080"
     networks:
       - default
       - homelab-net
@@ -155,3 +208,16 @@ services:
     networks:
       - default
       - homelab-net
+
+  postgis-exporter:
+    container_name: postgis-exporter
+    image: quay.io/prometheuscommunity/postgres-exporter
+    restart: always
+    environment:
+      DATA_SOURCE_URI: "${POSTGRES_HOST}:${POSTGRES_PORT}/${POSTGRES_DB}?sslmode=disable"
+      DATA_SOURCE_USER: ${POSTGRES_USER}
+      DATA_SOURCE_PASS: ${POSTGRES_PASSWORD}
+    networks:
+      - default
+      - homelab-net
+
