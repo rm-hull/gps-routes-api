@@ -80,8 +80,7 @@ services:
     container_name: company-data
     image: ghcr.io/rm-hull/company-data-api:latest
     command:
-      - company-data
-      - http-server
+      - api-server
       - "--db=/data/companies_data.db"
       - "--port=8080"
     volumes:
