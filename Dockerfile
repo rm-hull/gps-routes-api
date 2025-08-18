@@ -1,4 +1,4 @@
-FROM golang:1.24-alpine AS build
+FROM golang:1.25-alpine AS build
 
 RUN apk update && \
     apk add --no-cache ca-certificates tzdata git && \
@@ -17,7 +17,7 @@ ENV CGO_ENABLED=0
 ENV GOOS=linux
 ENV GOARCH=amd64
 
-RUN go build -ldflags="-w -s" -o gps-routes .
+RUN go build -tags=jsoniter -ldflags="-w -s" -o gps-routes .
 
 FROM alpine:latest AS runtime
 ENV GIN_MODE=release

@@ -2,6 +2,7 @@ package tests
 
 import (
 	"net/http"
+	"os"
 	"testing"
 	"time"
 
@@ -9,6 +10,16 @@ import (
 )
 
 func TestHealthEndpoint(t *testing.T) {
+	originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
+	defer func() {
+		if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
+			t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+		}
+	}()
+
+	if err := os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"); err != nil {
+		t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+	}
 
 	// Start the HTTP server in a goroutine.
 	go cmds.NewHttpApiServer(8080)
@@ -34,11 +45,21 @@ func TestHealthEndpoint(t *testing.T) {
 }
 
 func TestMetricsEndpoint(t *testing.T) {
+	originalAPIKey := os.Getenv("GPS_ROUTES_API_KEY")
+	defer func() {
+		if err := os.Setenv("GPS_ROUTES_API_KEY", originalAPIKey); err != nil {
+			t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+		}
+	}()
+
+	if err := os.Setenv("GPS_ROUTES_API_KEY", "test-api-key"); err != nil {
+		t.Errorf("failed to set GPS_ROUTES_API_KEY environment variable: %v", err)
+	}
 
 	// Test the /healthz endpoint.
 	resp, err := http.Get("http://localhost:8080/metrics")
 	if err != nil {
-		t.Fatalf("failed to get healthz endpoint: %v", err)
+		t.Fatalf("failed to get metrics endpoint: %v", err)
 	}
 	defer func() {
 		if err := resp.Body.Close(); err != nil {
@@ -50,5 +71,5 @@ func TestMetricsEndpoint(t *testing.T) {
 		t.Fatalf("unexpected status code, want %d, got %d", http.StatusOK, resp.StatusCode)
 	}
 
-	t.Logf("Healthz endpoint returned status %d", resp.StatusCode)
+	t.Logf("Metrics endpoint returned status %d", resp.StatusCode)
 }

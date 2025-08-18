@@ -1,15 +1,18 @@
 package middlewares
 
 import (
-	"log"
+	"crypto/subtle"
 	"net/http"
 	"os"
 
 	"github.com/gin-gonic/gin"
 )
 
-func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
+func AuthMiddleware(excluded ...string) gin.HandlerFunc {
 	apiKey := os.Getenv("GPS_ROUTES_API_KEY")
+	if apiKey == "" {
+		panic("GPS_ROUTES_API_KEY environment variable is not set")
+	}
 
 	return func(c *gin.Context) {
 
@@ -19,9 +22,8 @@ func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
 			return
 		}
 
-		for _, path := range notlogged {
-			log.Printf("Checking path: %s against notlogged path %s", c.Request.RequestURI, path)
-			if path == c.Request.RequestURI {
+		for _, path := range excluded {
+			if path == c.Request.URL.Path {
 				c.Next() // Skip authentication for this path
 				return
 			}
@@ -34,7 +36,7 @@ func AuthMiddleware(notlogged ...string) gin.HandlerFunc {
 			return
 		}
 
-		if clientKey != apiKey {
+		if subtle.ConstantTimeCompare([]byte(clientKey), []byte(apiKey)) != 1 {
 			c.AbortWithStatusJSON(http.StatusUnauthorized, gin.H{"error": "Invalid API Key"})
 			return
 		}

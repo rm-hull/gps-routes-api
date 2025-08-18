@@ -1,7 +1,6 @@
 package tests
 
 import (
-	// "context"
 	"testing"
 
 	"github.com/rm-hull/gps-routes-api/cmds"

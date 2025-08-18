@@ -44,8 +44,8 @@ func NewHttpApiServer(port int) {
 
 	prometheus := ginprom.New(
 		ginprom.Engine(engine),
-		ginprom.Namespace("gps_routes"),
-		ginprom.Subsystem("api"),
+		ginprom.Path("/metrics"),
+		ginprom.Ignore("/healthz"),
 	)
 
 	rlStore := ratelimit.InMemoryStore(&ratelimit.InMemoryOptions{
@@ -65,13 +65,13 @@ func NewHttpApiServer(port int) {
 	})
 
 	engine.Use(
-		middlewares.AuthMiddleware("/healthz"),
 		gin.LoggerWithWriter(gin.DefaultWriter, "/healthz", "/metrics"),
 		gin.Recovery(),
 		cors.New(cors.Config{
 			AllowAllOrigins: true,
 			AllowHeaders:    []string{"X-API-Key", "Origin", "Content-Length", "Content-Type"},
 		}),
+		middlewares.AuthMiddleware("/healthz"),
 		middlewares.ErrorHandler(),
 		compress.Compress(),
 		limits.RequestSizeLimiter(10*1024),
