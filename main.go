@@ -31,12 +31,12 @@ func main() {
 	}
 	internal.EnvironmentVars()
 
-	var rootCmd = &cobra.Command{
+	rootCmd := &cobra.Command{
 		Use:  "gps-routes",
-		Long: `HTTP server, DB migration and data import/export`,
+		Long: `HTTP server, MCP server, DB migration and data import/export`,
 	}
 
-	var importCmd = &cobra.Command{
+	importCmd := &cobra.Command{
 		Use:   "import [path]",
 		Short: "Import JSON data from specified path",
 		Args:  cobra.ExactArgs(1),
@@ -45,7 +45,7 @@ func main() {
 		},
 	}
 
-	var apiServerCmd = &cobra.Command{
+	apiServerCmd := &cobra.Command{
 		Use:   "api-server [port]",
 		Short: "Start HTTP API server",
 		Args:  cobra.ExactArgs(1),
@@ -58,7 +58,20 @@ func main() {
 		},
 	}
 
-	var pingDbCmd = &cobra.Command{
+	mcpServerCmd := &cobra.Command{
+		Use:   "mcp-server [port]",
+		Short: "Start SSE MCP server",
+		Args:  cobra.ExactArgs(1),
+		Run: func(cmd *cobra.Command, args []string) {
+			port, err := strconv.Atoi(args[0])
+			if err != nil {
+				log.Fatalf("error parsing port: %v", err)
+			}
+			cmds.NewSseMcpServer(port)
+		},
+	}
+
+	pingDbCmd := &cobra.Command{
 		Use:   "ping",
 		Short: "Ping Postgres database",
 		Run: func(cmd *cobra.Command, args []string) {
@@ -66,7 +79,7 @@ func main() {
 		},
 	}
 
-	var migrationCmd = &cobra.Command{
+	migrationCmd := &cobra.Command{
 		Use:   "migration [up|down] <migrations_path>",
 		Short: "Run DB migration",
 		Args:  cobra.ExactArgs(2),
@@ -75,7 +88,7 @@ func main() {
 		},
 	}
 
-	var sitemapCmd = &cobra.Command{
+	sitemapCmd := &cobra.Command{
 		Use:   "sitemap [base_host_url]",
 		Short: "Generate sitemap.xml",
 		Args:  cobra.ExactArgs(1),
@@ -84,7 +97,7 @@ func main() {
 		},
 	}
 
-	var versionCmd = &cobra.Command{
+	versionCmd := &cobra.Command{
 		Use:   "version",
 		Short: "Show version",
 		Run: func(cmd *cobra.Command, args []string) {
@@ -94,6 +107,7 @@ func main() {
 
 	rootCmd.AddCommand(importCmd)
 	rootCmd.AddCommand(apiServerCmd)
+	rootCmd.AddCommand(mcpServerCmd)
 	rootCmd.AddCommand(pingDbCmd)
 	rootCmd.AddCommand(migrationCmd)
 	rootCmd.AddCommand(sitemapCmd)
