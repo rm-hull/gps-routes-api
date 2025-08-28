@@ -17,7 +17,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/schollz/progressbar/v3 v3.18.0
 	github.com/spf13/cobra v1.9.1
-	github.com/stretchr/testify v1.11.0
+	github.com/stretchr/testify v1.11.1
 	github.com/tavsec/gin-healthcheck v1.7.10
 	github.com/testcontainers/testcontainers-go v0.38.0
 	github.com/wroge/wgs84 v1.1.7
