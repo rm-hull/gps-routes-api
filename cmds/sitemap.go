@@ -8,6 +8,7 @@ import (
 	"time"
 
 	"github.com/ikeikeikeike/go-sitemap-generator/v2/stm"
+	"github.com/rm-hull/godx"
 	"github.com/rm-hull/gps-routes-api/db"
 	"github.com/rm-hull/gps-routes-api/models/request"
 	"github.com/rm-hull/gps-routes-api/repositories"
@@ -15,6 +16,11 @@ import (
 )
 
 func GenerateSitemap(host string) {
+
+	godx.GitVersion()
+	godx.EnvironmentVars()
+	godx.UserInfo()
+
 	dbConfig := db.ConfigFromEnv()
 	ctx := context.Background()
 	pool, err := db.NewDBPool(ctx, dbConfig)

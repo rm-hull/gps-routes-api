@@ -7,6 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/rm-hull/godx"
 	"github.com/rm-hull/gps-routes-api/db"
 
 	"github.com/golang-migrate/migrate/v4"
@@ -29,6 +30,11 @@ func (l *loggerBridge) Verbose() bool {
 }
 
 func RunMigration(direction string, migrationsPath string) {
+
+	godx.GitVersion()
+	godx.EnvironmentVars()
+	godx.UserInfo()
+
 	config := db.ConfigFromEnv()
 	ctx := context.Background()
 	pool, err := db.NewDBPool(ctx, config)

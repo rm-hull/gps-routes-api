@@ -9,6 +9,7 @@ import (
 	"path/filepath"
 	"time"
 
+	"github.com/rm-hull/godx"
 	"github.com/rm-hull/gps-routes-api/db"
 	"github.com/rm-hull/gps-routes-api/models/domain"
 	"github.com/rm-hull/gps-routes-api/repositories"
@@ -63,6 +64,11 @@ func loadJson(filename string) (*domain.RouteMetadata, error) {
 }
 
 func ImportData(path string, maxRecords int) {
+
+	godx.GitVersion()
+	godx.EnvironmentVars()
+	godx.UserInfo()
+
 	config := db.ConfigFromEnv()
 	ctx, cancel := context.WithTimeout(context.Background(), 15*time.Minute)
 	defer cancel()

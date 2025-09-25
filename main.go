@@ -21,15 +21,12 @@ import (
 	"github.com/spf13/cobra"
 
 	"github.com/rm-hull/gps-routes-api/cmds"
-	"github.com/rm-hull/gps-routes-api/internal"
 )
 
 func main() {
-	internal.ShowVersion()
 	if err := godotenv.Load(); err != nil {
 		log.Println("No .env file found")
 	}
-	internal.EnvironmentVars()
 
 	var rootCmd = &cobra.Command{
 		Use:  "gps-routes",

@@ -6,10 +6,16 @@ import (
 	"log"
 	"time"
 
+	"github.com/rm-hull/godx"
 	"github.com/rm-hull/gps-routes-api/db"
 )
 
 func PingDatabase() {
+
+	godx.GitVersion()
+	godx.EnvironmentVars()
+	godx.UserInfo()
+
 	config := db.ConfigFromEnv()
 
 	ctx := context.Background()
