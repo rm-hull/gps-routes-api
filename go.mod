@@ -21,7 +21,7 @@ require (
 	github.com/tavsec/gin-healthcheck v1.7.10
 	github.com/testcontainers/testcontainers-go v0.39.0
 	github.com/wroge/wgs84 v1.1.7
-	go.eigsys.de/gin-cachecontrol/v2 v2.3.0
+	go.eigsys.de/gin-cachecontrol/v2 v2.4.0
 )
 
 require (
