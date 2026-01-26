@@ -18,7 +18,7 @@ require (
 	github.com/schollz/progressbar/v3 v3.19.0
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.11.1
-	github.com/tavsec/gin-healthcheck v1.7.12
+	github.com/tavsec/gin-healthcheck v1.7.13
 	github.com/testcontainers/testcontainers-go v0.40.0
 	github.com/wroge/wgs84 v1.1.7
 	go.eigsys.de/gin-cachecontrol/v2 v2.4.1
@@ -79,7 +79,7 @@ require (
 	github.com/tklauser/go-sysconf v0.3.12 // indirect
 	github.com/tklauser/numcpus v0.6.1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
-	go.mongodb.org/mongo-driver v1.17.6 // indirect
+	go.mongodb.org/mongo-driver v1.17.7 // indirect
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.61.0 // indirect
 	go.opentelemetry.io/otel v1.37.0 // indirect
