@@ -28,7 +28,7 @@ type RouteMetadata struct {
 	// The time the route was generated.
 	CreatedAt time.Time `json:"created_at"`
 
-	Nearby []Nearby `json:"nearby,omitempty"`
+	Nearby []RouteSummary `json:"nearby,omitempty"`
 
 	Details []Detail `json:"details,omitempty"`
 

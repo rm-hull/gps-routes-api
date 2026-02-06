@@ -179,9 +179,18 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 
 	// Query nearby
 	nearbyQuery := `
-		SELECT description, object_id, ref
-		FROM nearby
-		WHERE route_object_id = $1`
+		SELECT
+			r.object_id,
+			r.ref,
+			LEFT(r.title, 50) || CASE WHEN LENGTH(r.title) > 50 THEN '…' ELSE '' END AS title,
+			LEFT(r.description, 150) || CASE WHEN LENGTH(r.description) > 150 THEN '…' ELSE '' END AS description,
+			r.headline_image_url,
+			ST_X(r._geoloc) AS longitude,
+			ST_Y(r._geoloc) AS latitude,
+			r.distance_km
+		FROM nearby n
+		INNER JOIN routes r ON n.object_id = r.object_id
+		WHERE n.route_object_id = $1`
 
 	rows, err = repo.pool.Query(ctx, nearbyQuery, objectID)
 	if err != nil {
@@ -190,10 +199,22 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	defer rows.Close()
 
 	for rows.Next() {
-		var nearby domain.Nearby
-		if err := rows.Scan(&nearby.Description, &nearby.ObjectID, &nearby.Ref); err != nil {
+		var nearby domain.RouteSummary
+		var latitude, longitude float64
+
+		err := rows.Scan(
+			&nearby.ObjectID, &nearby.Ref, &nearby.Title,
+			&nearby.Description, &nearby.HeadlineImageUrl,
+			&longitude, &latitude, &nearby.DistanceKm)
+
+		if err != nil {
 			return nil, fmt.Errorf("failed to scan nearby: %v", err)
 		}
+		nearby.StartPosition = common.GeoLoc{
+			Latitude:  latitude,
+			Longitude: longitude,
+		}
+
 		route.Nearby = append(route.Nearby, nearby)
 	}
 
