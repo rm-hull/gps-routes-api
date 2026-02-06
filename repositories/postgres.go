@@ -178,21 +178,28 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 	}
 
 	// Query nearby
-	nearbyQuery := `
+	nearbySelectPart := `
 		SELECT
 			r.object_id,
 			r.ref,
-			LEFT(r.title, 50) || CASE WHEN LENGTH(r.title) > 50 THEN '…' ELSE '' END AS title,
-			LEFT(r.description, 150) || CASE WHEN LENGTH(r.description) > 150 THEN '…' ELSE '' END AS description,
+			r.title,
+			r.description,
 			r.headline_image_url,
 			ST_X(r._geoloc) AS longitude,
 			ST_Y(r._geoloc) AS latitude,
 			r.distance_km
 		FROM nearby n
-		INNER JOIN routes r ON n.object_id = r.object_id
-		WHERE n.route_object_id = $1`
+		INNER JOIN routes r ON n.object_id = r.object_id`
 
-	rows, err = repo.pool.Query(ctx, nearbyQuery, objectID)
+	qb := db.NewQueryBuilder(nearbySelectPart, &request.SearchRequest{TruncateText: true}).
+		WithTruncatedField("r.title", 50).
+		WithTruncatedField("r.description", 150).
+		WithWhereClause("n.route_object_id = $1").
+		WithParam(objectID)
+
+	nearbyQuery, params := qb.Build()
+
+	rows, err = repo.pool.Query(ctx, nearbyQuery, params...)
 	if err != nil {
 		return nil, fmt.Errorf("failed to fetch nearby: %v", err)
 	}

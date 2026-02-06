@@ -100,6 +100,11 @@ func (qb *QueryBuilder) WithTruncatedField(fieldName string, maxLength int) *Que
 	return qb
 }
 
+func (qb *QueryBuilder) WithParam(param any) *QueryBuilder {
+	qb.params = append(qb.params, param)
+	return qb
+}
+
 func (qb *QueryBuilder) Build() (string, []interface{}) {
 
 	if qb.criteria.Facets != nil {
@@ -118,8 +123,9 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 				true:  "%s && $%d::TEXT[]",
 				false: "%s = ANY($%d)",
 			}[isArrayField]
-			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1))
-			qb.params = append(qb.params, pq.Array(values))
+
+			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1)).
+				WithParam(pq.Array(values))
 		}
 	}
 
@@ -142,7 +148,13 @@ func (qb *QueryBuilder) replaceTruncatedFields(query string) string {
 
 func truncate(fieldName string, maxLength int) string {
 	return fmt.Sprintf("LEFT(%s, %d) || CASE WHEN LENGTH(%s) > %d THEN '…' ELSE '' END AS %s",
-		fieldName, maxLength, fieldName, maxLength, fieldName)
+		fieldName, maxLength, fieldName, maxLength, asFieldAlias(fieldName))
+}
+
+func asFieldAlias(fieldName string) string {
+	// if field starts with a table name, e.g. "routes.title", we want to use the field name without the table name as the alias, e.g. "title"
+	parts := strings.Split(fieldName, ".")
+	return parts[len(parts)-1]
 }
 
 func removeEmptyStrings(slice ...string) []string {
