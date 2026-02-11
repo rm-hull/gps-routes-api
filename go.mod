@@ -116,7 +116,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.3.0 // indirect
 	github.com/kofalt/go-memoize v0.0.0-20240506050413-9e5eb99a0f2a
 	github.com/leodido/go-urn v1.4.0 // indirect
-	github.com/lib/pq v1.11.1
+	github.com/lib/pq v1.11.2
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
