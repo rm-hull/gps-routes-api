@@ -1,6 +1,6 @@
 module github.com/rm-hull/gps-routes-api
 
-go 1.25.1
+go 1.26
 
 require (
 	github.com/Depado/ginprom v1.8.2
