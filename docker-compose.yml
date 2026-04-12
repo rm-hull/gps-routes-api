@@ -105,6 +105,8 @@ services:
     container_name: postgis
     image: ghcr.io/baosystems/postgis:latest
     restart: always
+    ports:
+      - "${POSTGRES_PORT}:5432"
     env_file:
       - .env
     environment:

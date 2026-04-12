@@ -440,7 +440,7 @@ This runbook provides step-by-step procedures for migrating from PostgreSQL to S
 **Likely Cause:** FTS5 not compiled into SQLite driver
 **Fix:**
 
-1. Rebuild with flag: `CGO_ENABLED=1 go build -tags="sqlite_enable_fts5" -o app .`
+1. Rebuild with flag: `CGO_ENABLED=1 go build -tags="sqlite_fts5" -o app .`
 2. Verify binary has FTS5: `strings bin/app | grep fts5`
 3. See [SQLITE_CGO_BUILD_GUIDE.md](SQLITE_CGO_BUILD_GUIDE.md) for build details
 

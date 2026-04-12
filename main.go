@@ -81,6 +81,25 @@ func main() {
 		},
 	}
 
+	var migrateDataCmd = &cobra.Command{
+		Use:   "migrate-data",
+		Short: "Migrate data from PostgreSQL to SQLite",
+		Long:  "Migrate routes data from PostgreSQL to SQLite with transformation (arrays→JSON, geometry→WKB, TSVECTOR→FTS5).\nUses POSTGRES_* environment variables if --pg-url not specified.\n⚠️  Note: Falls back to basic schema if FTS5 not available (no full-text search).",
+		Run: func(cmd *cobra.Command, args []string) {
+			pgURL, _ := cmd.Flags().GetString("pg-url")
+			sqliteDB, _ := cmd.Flags().GetString("sqlite-db")
+			dryRun, _ := cmd.Flags().GetBool("dry-run")
+			maxRecords, _ := cmd.Flags().GetInt("max-records")
+			cmds.MigratePostgresToSQLite(pgURL, sqliteDB, dryRun, maxRecords)
+		},
+	}
+
+	migrateDataCmd.Flags().String("pg-url", "", "PostgreSQL connection string (optional, uses POSTGRES_* env vars if not specified)")
+	migrateDataCmd.Flags().String("sqlite-db", "./routes.db", "Target SQLite database file path")
+	migrateDataCmd.Flags().Bool("dry-run", false, "Validate transformation without writing to SQLite")
+	migrateDataCmd.Flags().Int("max-records", 0, "Maximum records to migrate (0 = all)")
+	// Remove the required flag since it can use env vars
+
 	var versionCmd = &cobra.Command{
 		Use:   "version",
 		Short: "Show version",
@@ -94,6 +113,7 @@ func main() {
 	rootCmd.AddCommand(pingDbCmd)
 	rootCmd.AddCommand(migrationCmd)
 	rootCmd.AddCommand(sitemapCmd)
+	rootCmd.AddCommand(migrateDataCmd)
 	rootCmd.AddCommand(versionCmd)
 
 	if err := rootCmd.Execute(); err != nil {

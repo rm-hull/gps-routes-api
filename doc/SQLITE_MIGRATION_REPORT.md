@@ -62,7 +62,7 @@ Phase 1 POC validation confirms that **migrating from PostgreSQL to SQLite3 is t
 
     ```bash
     CGO_ENABLED=1 go build -ldflags='-s -w' \
-      -tags="sqlite_enable_fts5" .
+      -tags="sqlite_fts5" .
     ```
 
     **Impact:** +30 seconds build time, +2MB binary size
@@ -72,7 +72,7 @@ Phase 1 POC validation confirms that **migrating from PostgreSQL to SQLite3 is t
     import _ "github.com/mattn/go-sqlite3/sqlite3"
     ```
 
-**Build Flag Recommendation:** Use `sqlite_enable_fts5` tag in phase 4 when implementing query layer.
+**Build Flag Recommendation:** Use `sqlite_fts5` tag in phase 4 when implementing query layer.
 
 **FTS5 Capabilities:**
 
@@ -232,7 +232,7 @@ ON CONFLICT (object_id) DO UPDATE SET
 | `go-sqlite3`       | v1.14.42    | ✅ Installed     | CGo functional; C compiler available         |
 | `gcc` (C compiler) | (via Xcode) | ✅ Available     | Required for CGo; part of standard dev setup |
 | `Spatialite`       | N/A         | ⚠️ Not installed | Available via `brew install spatialite`      |
-| `FTS5`             | Built-in    | ⚠️ Needs flag    | Requires `sqlite_enable_fts5` build tag      |
+| `FTS5`             | Built-in    | ⚠️ Needs flag    | Requires `sqlite_fts5` build tag      |
 
 **Build Requirements Documentation:**
 
@@ -246,7 +246,7 @@ ON CONFLICT (object_id) DO UPDATE SET
 
 | Limitation                                   | Severity | Mitigation                                   | Phase   |
 | -------------------------------------------- | -------- | -------------------------------------------- | ------- |
-| FTS5 requires build flag                     | Medium   | Add build tag `sqlite_enable_fts5` to CI/CD  | Phase 4 |
+| FTS5 requires build flag                     | Medium   | Add build tag `sqlite_fts5` to CI/CD  | Phase 4 |
 | Spatialite not built-in                      | Medium   | Include in Dockerfile; document brew install | Phase 5 |
 | Single concurrent writer                     | Low      | Matches our low-concurrency requirement      | N/A     |
 | `json_each()` slightly different from UNNEST | Low      | Minimal query translation needed             | Phase 3 |
@@ -292,7 +292,7 @@ ON CONFLICT (object_id) DO UPDATE SET
     ```
 
 2. **Create build configuration** for FTS5:
-    - Add `Makefile` target: `make build-sqlite-fts5` with `sqlite_enable_fts5` flag
+    - Add `Makefile` target: `make build-sqlite-fts5` with `sqlite_fts5` flag
     - Document in `CONTRIBUTING.md`
 
 3. **Plan dependency documentation**:
@@ -372,12 +372,12 @@ When implementing Phase 4 (for production builds):
 ```bash
 # macOS
 CGO_ENABLED=1 GOOS=darwin GOARCH=amd64 \
-  go build -tags="sqlite_enable_fts5" \
+  go build -tags="sqlite_fts5" \
   -o bin/gps-routes-api ./cmd/http_api_server.go
 
 # Linux
 CGO_ENABLED=1 GOOS=linux GOARCH=amd64 \
-  go build -tags="sqlite_enable_fts5,sqlite_enable_spatialite" \
+  go build -tags="sqlite_fts5,sqlite_enable_spatialite" \
   -o bin/gps-routes-api ./cmd/http_api_server.go
 ```
 

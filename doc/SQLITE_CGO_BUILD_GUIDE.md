@@ -6,6 +6,24 @@
 
 ---
 
+## ⚠️ IMPORTANT: FTS5 Build Tag Required
+
+**For full-text search functionality**, you MUST build with the FTS5 extension enabled:
+
+```bash
+# Build with FTS5 support (recommended for full functionality)
+CGO_ENABLED=1 go build -tags="sqlite_fts5" -o app .
+
+# Or for development:
+CGO_ENABLED=1 go run -tags="sqlite_fts5" main.go migrate-data --dry-run
+```
+
+**Without FTS5**, the migration tool will automatically fall back to a basic schema without full-text search capabilities. This allows the migration to proceed but with reduced search functionality.
+
+**Without this tag**, you'll get: `⚠️ FTS5 not available, creating schema without full-text search` and the migration will continue with basic functionality.
+
+---
+
 ## Quick Start
 
 ### macOS (Xcode/Homebrew)
@@ -98,9 +116,9 @@ func main() {
 **Why:** Standard SQLite doesn't include FTS5; add to enable advanced search.
 
 ```bash
-# Flag: sqlite_enable_fts5
+# Flag: sqlite_fts5
 CGO_ENABLED=1 go build \
-  -tags="sqlite_enable_fts5" \
+  -tags="sqlite_fts5" \
   -o app .
 ```
 
@@ -256,7 +274,7 @@ For production Docker images, strip symbols:
 ```bash
 CGO_ENABLED=1 go build \
   -ldflags="-s -w" \
-  -tags="sqlite_enable_fts5" \
+  -tags="sqlite_fts5" \
   -o app .
 
 # Result: ~8 MB binary (vs 15 MB with symbols)
@@ -287,7 +305,7 @@ for _, pragma := range pragmas {
 
 ```bash
 # 1. Build with FTS5 support
-CGO_ENABLED=1 go build -tags="sqlite_enable_fts5" -o app .
+CGO_ENABLED=1 go build -tags="sqlite_fts5" -o app .
 
 # 2. Run the tests
 go test -v ./...
@@ -383,7 +401,7 @@ When implementing the query layer (Phase 4), ensure:
 
     ```makefile
     build:
-        CGO_ENABLED=1 go build -tags="sqlite_enable_fts5" -o bin/app .
+        CGO_ENABLED=1 go build -tags="sqlite_fts5" -o bin/app .
     ```
 
 2. **Document in README:**
