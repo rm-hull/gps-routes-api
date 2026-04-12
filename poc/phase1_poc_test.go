@@ -14,7 +14,7 @@ func TestFTS5Setup(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Failed to open SQLite: %v", err)
 	}
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Enable FTS5 if available
 	_, err = db.Exec(`
@@ -52,11 +52,11 @@ func TestFTS5Setup(t *testing.T) {
 	if err != nil {
 		t.Logf("Warning: FTS5 query failed: %v", err)
 	} else {
-		defer rows.Close()
+		defer func() { _ = rows.Close() }()
 		count := 0
 		for rows.Next() {
 			var title string
-			rows.Scan(&title)
+			_ = rows.Scan(&title)
 			t.Logf("  - Found: %s", title)
 			count++
 		}
@@ -72,7 +72,7 @@ func TestJSONArrayOperations(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Failed to open SQLite: %v", err)
 	}
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Create table with JSON arrays
 	_, err = db.Exec(`
@@ -116,12 +116,12 @@ func TestJSONArrayOperations(t *testing.T) {
 	if err != nil {
 		t.Fatalf("json_each() query failed: %v", err)
 	}
-	defer rows.Close()
+	defer func() { _ = rows.Close() }()
 
 	count := 0
 	for rows.Next() {
 		var title, activity string
-		rows.Scan(&title, &activity)
+		_ = rows.Scan(&title, &activity)
 		t.Logf("  - Route: %s, Activity: %s", title, activity)
 		count++
 	}
@@ -139,12 +139,12 @@ func TestJSONArrayOperations(t *testing.T) {
 	if err != nil {
 		t.Logf("Note: Facet query error (may need extension): %v", err)
 	} else {
-		defer rows.Close()
+		defer func() { _ = rows.Close() }()
 		t.Log("✅ Facet query results:")
 		for rows.Next() {
 			var terrainType string
 			var count int
-			rows.Scan(&terrainType, &count)
+			_ = rows.Scan(&terrainType, &count)
 			t.Logf("  - %s: %d", terrainType, count)
 		}
 	}
@@ -156,7 +156,7 @@ func TestSpatialitePlaceholder(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Failed to open SQLite: %v", err)
 	}
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Try to load Spatialite extension
 	var extErr error
@@ -223,7 +223,7 @@ func TestConnectionPooling(t *testing.T) {
 	if err != nil {
 		t.Fatalf("Failed to open SQLite: %v", err)
 	}
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Set connection pool options
 	db.SetMaxOpenConns(25)
@@ -241,14 +241,14 @@ func TestConnectionPooling(t *testing.T) {
 // BenchmarkFTS5Queries compares FTS5 performance
 func BenchmarkFTS5Queries(b *testing.B) {
 	db, _ := sql.Open("sqlite3", ":memory:")
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Create FTS table (skip if not available)
-	db.Exec(`CREATE VIRTUAL TABLE routes_fts USING fts5(title, description)`)
+	_, _ = db.Exec(`CREATE VIRTUAL TABLE routes_fts USING fts5(title, description)`)
 
 	// Insert 1000 test rows
 	for i := 0; i < 1000; i++ {
-		db.Exec(
+		_, _ = db.Exec(
 			`INSERT INTO routes_fts (title, description) VALUES (?, ?)`,
 			fmt.Sprintf("Route %d", i),
 			fmt.Sprintf("This is a hiking trail in location %d with various terrains", i),
@@ -258,6 +258,6 @@ func BenchmarkFTS5Queries(b *testing.B) {
 	b.ResetTimer()
 	for i := 0; i < b.N; i++ {
 		var count int
-		db.QueryRow(`SELECT COUNT(*) FROM routes_fts WHERE routes_fts MATCH 'hiking'`).Scan(&count)
+		_ = db.QueryRow(`SELECT COUNT(*) FROM routes_fts WHERE routes_fts MATCH 'hiking'`).Scan(&count)
 	}
 }

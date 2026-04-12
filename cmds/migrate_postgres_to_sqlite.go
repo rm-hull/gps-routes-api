@@ -64,8 +64,6 @@ func MigratePostgresToSQLite(pgConnStr, sqliteFile string, dryRun bool, maxRecor
 		pgCount = int64(maxRecords)
 	}
 
-	expectedCount := pgCount
-
 	// Create/prepare SQLite database
 	if err := setupSQLiteDB(sqliteFile, dryRun); err != nil {
 		log.Fatalf("❌ Failed to setup SQLite: %v", err)
@@ -81,7 +79,7 @@ func MigratePostgresToSQLite(pgConnStr, sqliteFile string, dryRun bool, maxRecor
 	if err != nil {
 		log.Fatalf("❌ Failed to open SQLite: %v", err)
 	}
-	defer sqliteDB.Close()
+	defer func() { _ = sqliteDB.Close() }()
 
 	log.Print("🚀 Starting data migration...")
 	migrated, err := migrateRoutes(pgPool, sqliteDB, maxRecords)
@@ -91,7 +89,7 @@ func MigratePostgresToSQLite(pgConnStr, sqliteFile string, dryRun bool, maxRecor
 
 	log.Printf("✅ Routes migrated: %d", migrated)
 
-	expectedCount = migrated
+	expectedCount := migrated
 
 	nearbyMigrated, err := migrateNearby(pgPool, sqliteDB)
 	if err != nil {
@@ -135,7 +133,7 @@ func setupSQLiteDB(dbPath string, dryRun bool) error {
 	if err != nil {
 		return err
 	}
-	defer db.Close()
+	defer func() { _ = db.Close() }()
 
 	// Try to enable FTS5 if available by creating a temporary FTS5 virtual table.
 	_, err = db.Exec("CREATE VIRTUAL TABLE IF NOT EXISTS __fts5_check__ USING fts5(content)")
@@ -200,7 +198,7 @@ func migrateRoutes(pgPool *pgxpool.Pool, sqliteDB *sql.DB, maxRecords int) (int6
 	if err != nil {
 		return 0, fmt.Errorf("failed to prepare SQLite statement: %w", err)
 	}
-	defer stmt.Close()
+	defer func() { _ = stmt.Close() }()
 
 	// Begin transaction
 	tx, err := sqliteDB.Begin()
@@ -312,7 +310,7 @@ func migrateRoutes(pgPool *pgxpool.Pool, sqliteDB *sql.DB, maxRecords int) (int6
 			facilitiesJSON, routeTypeVal, activitiesJSON,
 		)
 		if err != nil {
-			tx.Rollback()
+			_ = tx.Rollback()
 			return 0, fmt.Errorf("failed to insert route %s: %w", objectID, err)
 		}
 
@@ -323,7 +321,7 @@ func migrateRoutes(pgPool *pgxpool.Pool, sqliteDB *sql.DB, maxRecords int) (int6
 	}
 
 	if rows.Err() != nil {
-		tx.Rollback()
+		_ = tx.Rollback()
 		return 0, fmt.Errorf("query error: %w", rows.Err())
 	}
 
@@ -346,7 +344,7 @@ func migrateNearby(pgPool *pgxpool.Pool, sqliteDB *sql.DB) (int64, error) {
 	if err != nil {
 		return 0, err
 	}
-	defer stmt.Close()
+	defer func() { _ = stmt.Close() }()
 
 	var count int64
 	for rows.Next() {
@@ -374,7 +372,7 @@ func migrateImages(pgPool *pgxpool.Pool, sqliteDB *sql.DB) (int64, error) {
 	if err != nil {
 		return 0, err
 	}
-	defer stmt.Close()
+	defer func() { _ = stmt.Close() }()
 
 	var count int64
 	for rows.Next() {
@@ -402,7 +400,7 @@ func migrateDetails(pgPool *pgxpool.Pool, sqliteDB *sql.DB) (int64, error) {
 	if err != nil {
 		return 0, err
 	}
-	defer stmt.Close()
+	defer func() { _ = stmt.Close() }()
 
 	var count int64
 	for rows.Next() {
