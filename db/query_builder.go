@@ -4,12 +4,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/lib/pq"
-
 	"github.com/rm-hull/gps-routes-api/models/request"
 )
 
 type QueryBuilder struct {
+	dialect         Dialect
 	criteria        *request.SearchRequest
 	selectPart      string
 	whereClauses    []string
@@ -23,8 +22,9 @@ type QueryBuilder struct {
 	truncatedFields map[string]int
 }
 
-func NewQueryBuilder(selectPart string, criteria *request.SearchRequest) *QueryBuilder {
+func NewQueryBuilder(dialect Dialect, selectPart string, criteria *request.SearchRequest) *QueryBuilder {
 	qb := &QueryBuilder{
+		dialect:         dialect,
 		selectPart:      selectPart,
 		criteria:        criteria,
 		params:          make([]any, 0),
@@ -62,8 +62,8 @@ func (qb *QueryBuilder) WithOffset(offset int32) *QueryBuilder {
 		panic("unexpected: offset value already set")
 	}
 
-	placeholder := len(qb.params) + 1
-	qb.offset = fmt.Sprintf("OFFSET $%d", placeholder)
+	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+	qb.offset = fmt.Sprintf("OFFSET %s", placeholder)
 	qb.params = append(qb.params, offset)
 	return qb
 }
@@ -79,8 +79,8 @@ func (qb *QueryBuilder) WithLimit(limit int32) *QueryBuilder {
 		panic("unexpected: limit value already set")
 	}
 
-	placeholder := len(qb.params) + 1
-	qb.limit = fmt.Sprintf("LIMIT $%d", placeholder)
+	placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+	qb.limit = fmt.Sprintf("LIMIT %s", placeholder)
 	qb.params = append(qb.params, limit)
 	return qb
 }
@@ -119,13 +119,17 @@ func (qb *QueryBuilder) Build() (string, []interface{}) {
 			}
 
 			_, isArrayField := qb.arrayFields[facet]
-			format := map[bool]string{
-				true:  "%s && $%d::TEXT[]",
-				false: "%s = ANY($%d)",
-			}[isArrayField]
 
-			qb.WithWhereClause(fmt.Sprintf(format, facet, len(qb.params)+1)).
-				WithParam(pq.Array(values))
+			placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+			var condition string
+			if isArrayField {
+				condition = qb.dialect.BuildArrayOverlapQuery(facet, placeholder)
+			} else {
+				condition = qb.dialect.BuildAnyQuery(facet, placeholder)
+			}
+			param := qb.dialect.PrepareParam(values)
+
+			qb.WithWhereClause(condition).WithParam(param)
 		}
 	}
 
@@ -167,31 +171,30 @@ func removeEmptyStrings(slice ...string) []string {
 	return result
 }
 
-// split the query into words and suffix each word with ':*' to allow prefix matching, then join them with '&'
-func prefix(query string) string {
-	words := strings.Split(query, " ")
-	for i, word := range words {
-		words[i] = word + ":*"
-	}
-	return strings.Join(words, " & ")
-}
-
 func (qb *QueryBuilder) applyWhereConditions() *QueryBuilder {
 
 	if qb.criteria.Query != "" {
-		qb.WithWhereClause("search_vector @@ to_tsquery($1)")
-		qb.params = append(qb.params, prefix(qb.criteria.Query))
+		placeholder := qb.dialect.FormatParam(len(qb.params) + 1)
+		qb.WithWhereClause(qb.dialect.BuildFullTextQuery("search_vector", placeholder))
+		qb.params = append(qb.params, qb.dialect.BuildPrefixQuery(qb.criteria.Query))
 	}
 
 	if qb.criteria.BoundingBox != nil {
-		offsetPlaceholder := len(qb.params) + 1
-		qb.WithWhereClause(fmt.Sprintf("ST_Within(_geoloc, ST_MakeEnvelope($%d, $%d, $%d, $%d, 4326))", offsetPlaceholder, offsetPlaceholder+1, offsetPlaceholder+2, offsetPlaceholder+3))
+		p1 := qb.dialect.FormatParam(len(qb.params) + 1)
+		p2 := qb.dialect.FormatParam(len(qb.params) + 2)
+		p3 := qb.dialect.FormatParam(len(qb.params) + 3)
+		p4 := qb.dialect.FormatParam(len(qb.params) + 4)
+
+		qb.WithWhereClause(qb.dialect.BuildSTWithinQuery("_geoloc", p1, p2, p3, p4))
 		for _, value := range qb.criteria.BoundingBox {
 			qb.params = append(qb.params, value)
 		}
 	} else if qb.criteria.Nearby != nil && qb.criteria.Nearby.Center != nil {
-		offsetPlaceholder := len(qb.params) + 1
-		qb.WithWhereClause(fmt.Sprintf("ST_DWithin(ST_Transform(_geoloc, 3857), ST_Transform(ST_SetSRID(ST_Point($%d, $%d), 4326), 3857), $%d)", offsetPlaceholder, offsetPlaceholder+1, offsetPlaceholder+2))
+		p1 := qb.dialect.FormatParam(len(qb.params) + 1)
+		p2 := qb.dialect.FormatParam(len(qb.params) + 2)
+		p3 := qb.dialect.FormatParam(len(qb.params) + 3)
+
+		qb.WithWhereClause(qb.dialect.BuildSTDWithinQuery("_geoloc", p1, p2, p3))
 		qb.params = append(qb.params, qb.criteria.Nearby.Center.Longitude)
 		qb.params = append(qb.params, qb.criteria.Nearby.Center.Latitude)
 		qb.params = append(qb.params, qb.criteria.Nearby.DistanceKm*1000)

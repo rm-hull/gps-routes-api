@@ -191,7 +191,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 		FROM nearby n
 		INNER JOIN routes r ON n.object_id = r.object_id`
 
-	qb := db.NewQueryBuilder(nearbySelectPart, &request.SearchRequest{TruncateText: true}).
+	qb := db.NewQueryBuilder(&db.PostgreSQLDialect{}, nearbySelectPart, &request.SearchRequest{TruncateText: true}).
 		WithTruncatedField("r.title", 50).
 		WithTruncatedField("r.description", 150).
 		WithWhereClause("n.route_object_id = $1").
@@ -250,7 +250,7 @@ func (repo *PostgresDbRepository) FindByObjectID(ctx context.Context, objectID s
 func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *request.SearchRequest) (int64, error) {
 
 	var count int64
-	query, params := db.NewQueryBuilder(`SELECT count(1) FROM routes`, criteria).
+	query, params := db.NewQueryBuilder(&db.PostgreSQLDialect{}, `SELECT count(1) FROM routes`, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		Build()
 
@@ -265,12 +265,10 @@ func (repo *PostgresDbRepository) CountAll(ctx context.Context, criteria *reques
 func (repo *PostgresDbRepository) FacetCounts(ctx context.Context, criteria *request.SearchRequest, facetField string, limit int32, unnest bool, excludeFacets ...string) (*map[string]int64, error) {
 	results := make(map[string]int64, 0)
 
-	format := map[bool]string{
-		true:  `SELECT UNNEST(%s) AS key, COUNT(*) AS value FROM routes`,
-		false: `SELECT %s AS key, COUNT(*) AS value FROM routes`,
-	}[unnest]
+	dialect := &db.PostgreSQLDialect{}
+	selectPart := dialect.BuildFacetQuery(facetField, unnest)
 
-	query, params := db.NewQueryBuilder(fmt.Sprintf(format, facetField), criteria).
+	query, params := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithWhereClause(fmt.Sprintf("%s IS NOT NULL", facetField)).
 		WithExcludeFacets(excludeFacets...).
@@ -314,16 +312,15 @@ func (repo *PostgresDbRepository) SearchHits(ctx context.Context, criteria *requ
 			distance_km
 		FROM routes`
 
+	dialect := &db.PostgreSQLDialect{}
 	sortField := "created_at DESC"
 	if criteria.Nearby != nil && criteria.Nearby.Center != nil {
-		sortField = fmt.Sprintf("_geoloc <-> ST_SetSRID(ST_Point(%f, %f), 4326)", // 4326 -> WGS84 coordinate system
-			criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude)
-
+		sortField = dialect.BuildDistanceSort("_geoloc", criteria.Nearby.Center.Longitude, criteria.Nearby.Center.Latitude) + " ASC"
 	} else if criteria.Query != "" {
-		sortField = "ts_rank_cd(search_vector, to_tsquery($1), 32) DESC"
+		sortField = dialect.BuildFTSSort("search_vector", "$1") + " DESC"
 	}
 
-	qb := db.NewQueryBuilder(selectPart, criteria).
+	qb := db.NewQueryBuilder(dialect, selectPart, criteria).
 		WithArrayFields(DEFAULT_ARRAY_FIELDS...).
 		WithOrderBy(sortField).
 		WithOffset(criteria.Offset).

@@ -23,7 +23,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 	}{
 		{
 			name: "empty query",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}),
 			want: Result{
 				sql:    "SELECT * FROM routes",
 				params: []interface{}{},
@@ -31,7 +31,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "single word query",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{Query: "test"}),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE search_vector @@ to_tsquery($1)",
 				params: []interface{}{"test:*"},
@@ -39,7 +39,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "multiple word query",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{Query: "hello world"}),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "hello world"}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE search_vector @@ to_tsquery($1)",
 				params: []interface{}{"hello:* & world:*"},
@@ -47,7 +47,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "bounding box",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, ST_MakeEnvelope($1, $2, $3, $4, 4326))",
 				params: []interface{}{1.9, 2.8, 3.7, 4.6},
@@ -55,7 +55,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "nearest",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Nearby: &request.Nearby{
 					Center: &common.GeoLoc{
 						Latitude:  1.234,
@@ -71,7 +71,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with where clause",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithWhereClause("name = 'test'"),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithWhereClause("name = 'test'"),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE name = 'test'",
 				params: []interface{}{},
@@ -79,7 +79,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with multiple where clauses",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithWhereClause("name = 'test'").WithWhereClause("type = 'hike'"),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithWhereClause("name = 'test'").WithWhereClause("type = 'hike'"),
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE name = 'test' AND type = 'hike'",
 				params: []interface{}{},
@@ -87,7 +87,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with group by",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithGroupBy("name"),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithGroupBy("name"),
 			want: Result{
 				sql:    "SELECT * FROM routes GROUP BY name",
 				params: []interface{}{},
@@ -95,7 +95,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with order by",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithOrderBy("name DESC"),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithOrderBy("name DESC"),
 			want: Result{
 				sql:    "SELECT * FROM routes ORDER BY name DESC",
 				params: []interface{}{},
@@ -103,7 +103,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with limit",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithLimit(10),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithLimit(10),
 			want: Result{
 				sql:    "SELECT * FROM routes LIMIT $1",
 				params: []interface{}{int32(10)},
@@ -111,7 +111,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with no limit",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithLimit(-1),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithLimit(-1),
 			want: Result{
 				sql:    "SELECT * FROM routes",
 				params: []interface{}{},
@@ -119,7 +119,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with offset",
-			qb:   NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).WithOffset(20),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).WithOffset(20),
 			want: Result{
 				sql:    "SELECT * FROM routes OFFSET $1",
 				params: []interface{}{int32(20)},
@@ -127,7 +127,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with truncated fields",
-			qb:   NewQueryBuilder("SELECT description FROM routes", &request.SearchRequest{}).WithTruncatedField("description", 100),
+			qb:   NewQueryBuilder(&PostgreSQLDialect{}, "SELECT description FROM routes", &request.SearchRequest{}).WithTruncatedField("description", 100),
 			want: Result{
 				sql:    "SELECT LEFT(description, 100) || CASE WHEN LENGTH(description) > 100 THEN '…' ELSE '' END AS description FROM routes",
 				params: []interface{}{},
@@ -135,7 +135,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with all",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{}).
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{}).
 				WithWhereClause("name = 'test'").
 				WithGroupBy("name").
 				WithOrderBy("name DESC").
@@ -148,7 +148,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with facets",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
 					"type": {"hike", "bike"},
 				},
@@ -160,7 +160,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with empty facets",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
 					"type": {},
 				},
@@ -172,7 +172,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with excluded facets",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
 					"type": {"hike", "bike"},
 					"name": {"test"},
@@ -185,7 +185,7 @@ func TestQueryBuilder_Build(t *testing.T) {
 		},
 		{
 			name: "with array fields",
-			qb: NewQueryBuilder("SELECT * FROM routes", &request.SearchRequest{
+			qb: NewQueryBuilder(&PostgreSQLDialect{}, "SELECT * FROM routes", &request.SearchRequest{
 				Facets: map[string][]string{
 					"type": {"hike", "bike"},
 				},
@@ -193,6 +193,47 @@ func TestQueryBuilder_Build(t *testing.T) {
 			want: Result{
 				sql:    "SELECT * FROM routes WHERE type && $1::TEXT[]",
 				params: []interface{}{pq.Array([]string{"hike", "bike"})},
+			},
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			sql, params := tt.qb.Build()
+
+			assert.Equal(t, tt.want.sql, sql)
+			assert.Equal(t, tt.want.params, params)
+		})
+	}
+}
+
+func TestQueryBuilder_Build_SQLite(t *testing.T) {
+	tests := []struct {
+		name string
+		qb   *QueryBuilder
+		want Result
+	}{
+		{
+			name: "empty query",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{}),
+			want: Result{
+				sql:    "SELECT * FROM routes",
+				params: []interface{}{},
+			},
+		},
+		{
+			name: "full text search",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{Query: "test"}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE routes_fts MATCH ?",
+				params: []interface{}{"test*"},
+			},
+		},
+		{
+			name: "bounding box",
+			qb:   NewQueryBuilder(&SQLiteDialect{}, "SELECT * FROM routes", &request.SearchRequest{BoundingBox: []float64{1.9, 2.8, 3.7, 4.6}}),
+			want: Result{
+				sql:    "SELECT * FROM routes WHERE ST_Within(_geoloc, ST_MakeEnvelope(?, ?, ?, ?, 4326))",
+				params: []interface{}{1.9, 2.8, 3.7, 4.6},
 			},
 		},
 	}
