@@ -49,7 +49,7 @@ func MigratePostgresToSQLite(pgConnStr, sqliteFile string, dryRun bool, maxRecor
 
 	// Validate PostgreSQL has data
 	var pgCount int64
-err = pgPool.QueryRow(pgCtx, "SELECT COUNT(*) FROM routes").Scan(&pgCount)
+	err = pgPool.QueryRow(pgCtx, "SELECT COUNT(*) FROM routes").Scan(&pgCount)
 	if err != nil {
 		log.Fatalf("❌ Failed to query PostgreSQL: %v", err)
 	}
@@ -431,46 +431,6 @@ func validateMigration(pgPool *pgxpool.Pool, sqliteDB *sql.DB, expectedCount int
 
 	log.Printf("✅ Record counts match: %d routes", sqliteRouteCount)
 	return nil
-}
-
-// arrayToJSON converts PostgreSQL array string to JSON array
-// Input: "{hiking,mountain}" → Output: "["hiking","mountain"]"
-func arrayToJSON(pgArray string) string {
-	if pgArray == "" || pgArray == "{}" {
-		return "[]"
-	}
-
-	// Remove braces
-	pgArray = pgArray[1 : len(pgArray)-1]
-
-	// Split by comma and quote each element
-	elements := make([]string, 0)
-	var current string
-	for _, char := range pgArray {
-		if char == ',' {
-			if current != "" {
-				elements = append(elements, fmt.Sprintf(`"%s"`, current))
-				current = ""
-			}
-		} else {
-			current += string(char)
-		}
-	}
-	if current != "" {
-		elements = append(elements, fmt.Sprintf(`"%s"`, current))
-	}
-
-	// Build JSON array
-	jsonArray := "["
-	for i, elem := range elements {
-		jsonArray += elem
-		if i < len(elements)-1 {
-			jsonArray += ","
-		}
-	}
-	jsonArray += "]"
-
-	return jsonArray
 }
 
 func maskConnStr(connStr string) string {
