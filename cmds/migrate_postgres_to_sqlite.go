@@ -304,12 +304,6 @@ func migrateRoutes(pgPool *pgxpool.Pool, sqliteDB *sql.DB, maxRecords int) (int6
 			distVal = distanceKm.Float64
 		}
 
-		// Skip problematic route for now
-		if objectID == "0006d1151c89ce0302097da19f7dd382" {
-			log.Printf("⚠️  Skipping problematic route %s", objectID)
-			continue
-		}
-
 		_, err = stmt.Exec(
 			objectID, createdAt, ref, title, headlineImageURLVal, gpxURLVal,
 			latVal, lonVal, distVal, description, videoURLVal,

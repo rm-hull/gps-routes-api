@@ -75,23 +75,23 @@ CREATE VIRTUAL TABLE routes_fts USING fts5(
     display_address, -- Weight B (medium)
     description,     -- Weight C (lowest)
     content=routes,
-    content_rowid=object_id
+    content_rowid=rowid
 );
 
 -- Triggers to keep FTS5 table in sync with routes table
 CREATE TRIGGER routes_fts_insert AFTER INSERT ON routes BEGIN
     INSERT INTO routes_fts (rowid, title, display_address, description)
-    VALUES (NEW.object_id, NEW.title, NEW.display_address, NEW.description);
+    VALUES (NEW.rowid, NEW.title, NEW.display_address, NEW.description);
 END;
 
 CREATE TRIGGER routes_fts_update AFTER UPDATE ON routes BEGIN
     UPDATE routes_fts
     SET title = NEW.title, display_address = NEW.display_address, description = NEW.description
-    WHERE rowid = NEW.object_id;
+    WHERE rowid = NEW.rowid;
 END;
 
 CREATE TRIGGER routes_fts_delete AFTER DELETE ON routes BEGIN
-    DELETE FROM routes_fts WHERE rowid = OLD.object_id;
+    DELETE FROM routes_fts WHERE rowid = OLD.rowid;
 END;
 
 -- Related tables (same structure as PostgreSQL, but adapted)
