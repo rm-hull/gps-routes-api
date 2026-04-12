@@ -49,7 +49,7 @@ func MigratePostgresToSQLite(pgConnStr, sqliteFile string, dryRun bool, maxRecor
 
 	// Validate PostgreSQL has data
 	var pgCount int64
-	err = pgPool.QueryRow(context.Background(), "SELECT COUNT(*) FROM routes").Scan(&pgCount)
+err = pgPool.QueryRow(pgCtx, "SELECT COUNT(*) FROM routes").Scan(&pgCount)
 	if err != nil {
 		log.Fatalf("❌ Failed to query PostgreSQL: %v", err)
 	}
