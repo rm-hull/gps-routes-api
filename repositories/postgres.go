@@ -1,7 +1,10 @@
+//go:build postgres
+
 package repositories
 
 import (
 	"context"
+	"database/sql"
 	"fmt"
 	"log"
 
@@ -22,6 +25,11 @@ var DEFAULT_ARRAY_FIELDS = []string{"activities", "terrain", "facilities", "poin
 
 func NewPostgresRouteRepository(pool *pgxpool.Pool, schema string) *PostgresDbRepository {
 	return &PostgresDbRepository{pool: pool, schema: schema}
+}
+
+// NewRepository returns a PostgreSQL implementation of DbRepository.
+func NewRepository(pool *pgxpool.Pool, db *sql.DB, config db.DBConfig) DbRepository {
+	return NewPostgresRouteRepository(pool, config.Schema)
 }
 
 func (repo *PostgresDbRepository) Store(ctx context.Context, route *domain.RouteMetadata) error {

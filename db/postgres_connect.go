@@ -11,13 +11,14 @@ import (
 )
 
 type DBConfig struct {
-	Host     string
-	Port     int
-	User     string
-	Password string
-	DBName   string
-	Schema   string
-	SSLMode  string
+	Host       string
+	Port       int
+	User       string
+	Password   string
+	DBName     string
+	Schema     string
+	SSLMode    string
+	SQLitePath string
 }
 
 func NewDBPool(ctx context.Context, config DBConfig) (*pgxpool.Pool, error) {
@@ -58,13 +59,14 @@ func NewDBPool(ctx context.Context, config DBConfig) (*pgxpool.Pool, error) {
 
 func ConfigFromEnv() DBConfig {
 	return DBConfig{
-		Host:     getEnvOrDefault("POSTGRES_HOST", "localhost"),
-		Port:     getEnvIntOrDefault("POSTGRES_PORT", 5432),
-		User:     getEnvOrDefault("POSTGRES_USER", "postgres"),
-		Password: getEnvOrDefault("POSTGRES_PASSWORD", ""),
-		DBName:   getEnvOrDefault("POSTGRES_DB", "postgres"),
-		SSLMode:  getEnvOrDefault("POSTGRES_SSLMODE", "disable"),
-		Schema:   getEnvOrDefault("POSTGRES_SCHEMA", "public"),
+		Host:       getEnvOrDefault("POSTGRES_HOST", "localhost"),
+		Port:       getEnvIntOrDefault("POSTGRES_PORT", 5432),
+		User:       getEnvOrDefault("POSTGRES_USER", "postgres"),
+		Password:   getEnvOrDefault("POSTGRES_PASSWORD", ""),
+		DBName:     getEnvOrDefault("POSTGRES_DB", "postgres"),
+		SSLMode:    getEnvOrDefault("POSTGRES_SSLMODE", "disable"),
+		Schema:     getEnvOrDefault("POSTGRES_SCHEMA", "public"),
+		SQLitePath: getEnvOrDefault("SQLITE_PATH", "gps-routes.db"),
 	}
 }
 

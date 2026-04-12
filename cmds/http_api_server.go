@@ -2,6 +2,7 @@ package cmds
 
 import (
 	"context"
+	"database/sql"
 	"fmt"
 	"log"
 	"os"
@@ -13,7 +14,7 @@ import (
 	"github.com/gin-contrib/cors"
 	limits "github.com/gin-contrib/size"
 	"github.com/gin-gonic/gin"
-	"github.com/jackc/pgx/v5/stdlib"
+	"github.com/jackc/pgx/v5/pgxpool"
 	healthcheck "github.com/tavsec/gin-healthcheck"
 	"github.com/tavsec/gin-healthcheck/checks"
 	hc_config "github.com/tavsec/gin-healthcheck/config"
@@ -34,16 +35,23 @@ func NewHttpApiServer(port int) {
 	godx.EnvironmentVars()
 	godx.UserInfo()
 
-	// Connect to Postgres
+	// Connect to Database
 	ctx, cancel := context.WithTimeout(context.Background(), 10*time.Second)
 	defer cancel()
 
 	dbConfig := db.ConfigFromEnv()
-	pool, err := db.NewDBPool(ctx, dbConfig)
+	pool, sqlDB, err := initializeDB(ctx, dbConfig)
 	if err != nil {
-		log.Fatalf("failed to create database pool: %v", err)
+		log.Fatalf("failed to initialize database: %v", err)
 	}
-	defer pool.Close()
+	if pool != nil {
+		defer pool.Close()
+	}
+	defer func() {
+		if err := sqlDB.Close(); err != nil {
+			log.Printf("failed to close database connection: %v", err)
+		}
+	}()
 
 	engine := gin.New()
 
@@ -85,23 +93,17 @@ func NewHttpApiServer(port int) {
 		rateLimiter,
 	)
 
-	db := stdlib.OpenDB(*pool.Config().ConnConfig)
-	defer func() {
-		if err := db.Close(); err != nil {
-			log.Printf("failed to close database connection: %v", err)
-		}
-	}()
 	err = healthcheck.New(engine, hc_config.DefaultConfig(), []checks.Check{
-		checks.SqlCheck{Sql: db},
+		checks.SqlCheck{Sql: sqlDB},
 	})
 	if err != nil {
 		log.Fatalf("failed to initialize healthcheck: %v", err)
 	}
 
 	namesApi := osdatahub.NewNamesApi(prometheus, "https://api.os.uk/search/names/v1", os.Getenv("OS_NAMES_API_KEY"))
-	pg := repositories.NewPostgresRouteRepository(pool, dbConfig.Schema)
-	repo := repositories.NewCachedRepository(prometheus, pg)
-	service := services.NewRoutesService(repo, namesApi)
+	repo := repositories.NewRepository(pool, sqlDB, dbConfig)
+	cachedRepo := repositories.NewCachedRepository(prometheus, repo)
+	service := services.NewRoutesService(cachedRepo, namesApi)
 
 	router := routes.NewRouterWithGinEngine(engine, routes.ApiHandleFunctions{
 		RoutesAPI: routes.RoutesAPI{
