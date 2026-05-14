@@ -130,6 +130,7 @@ jobs:
           labels: |
             maintainer=rm-hull
             org.opencontainers.image.description=REST API for GPS routes
+            org.opencontainers.image.source="https://github.com/map-services/gps-routes-api"
             org.opencontainers.image.licenses=MIT
 
       - name: Build and push Docker image
