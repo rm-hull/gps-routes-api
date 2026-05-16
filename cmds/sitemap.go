@@ -8,10 +8,10 @@ import (
 	"time"
 
 	"github.com/ikeikeikeike/go-sitemap-generator/v2/stm"
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/repositories"
 	"github.com/rm-hull/godx"
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/models/request"
-	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/schollz/progressbar/v3"
 )
 

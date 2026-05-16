@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/rm-hull/gps-routes-api/cmds"
+	"github.com/map-services/gps-routes-api/cmds"
 )
 
 func TestImportData(t *testing.T) {

@@ -7,8 +7,8 @@ import (
 	"os"
 	"path/filepath"
 
+	"github.com/map-services/gps-routes-api/db"
 	"github.com/rm-hull/godx"
-	"github.com/rm-hull/gps-routes-api/db"
 
 	"github.com/golang-migrate/migrate/v4"
 	"github.com/golang-migrate/migrate/v4/database/postgres"

@@ -6,8 +6,8 @@ import (
 	"log"
 	"time"
 
+	"github.com/map-services/gps-routes-api/db"
 	"github.com/rm-hull/godx"
-	"github.com/rm-hull/gps-routes-api/db"
 )
 
 func PingDatabase() {

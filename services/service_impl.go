@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
-	repo "github.com/rm-hull/gps-routes-api/repositories"
-	"github.com/rm-hull/gps-routes-api/services/osdatahub"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
+	repo "github.com/map-services/gps-routes-api/repositories"
+	"github.com/map-services/gps-routes-api/services/osdatahub"
 )
 
 var ATTRIBUTION = []string{

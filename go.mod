@@ -1,4 +1,4 @@
-module github.com/rm-hull/gps-routes-api
+module github.com/map-services/gps-routes-api
 
 go 1.26
 

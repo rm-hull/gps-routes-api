@@ -3,8 +3,8 @@ package repositories
 import (
 	"context"
 
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
 )
 
 type DbRepository interface {

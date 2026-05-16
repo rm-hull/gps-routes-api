@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/lib/pq"
-	"github.com/rm-hull/gps-routes-api/models/common"
-	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/request"
 	"github.com/stretchr/testify/assert"
 )
 

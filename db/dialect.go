@@ -148,4 +148,3 @@ func (d *SQLiteDialect) PrepareParam(param any) any {
 	}
 	return param
 }
-

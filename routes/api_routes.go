@@ -6,8 +6,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/rm-hull/gps-routes-api/models/request"
-	"github.com/rm-hull/gps-routes-api/services"
+	"github.com/map-services/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/services"
 )
 
 type RoutesAPI struct {

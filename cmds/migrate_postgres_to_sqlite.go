@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/jackc/pgx/v5/pgxpool"
+	"github.com/map-services/gps-routes-api/db"
 	_ "github.com/mattn/go-sqlite3"
-	"github.com/rm-hull/gps-routes-api/db"
 )
 
 // MigratePostgresToSQLite performs data migration from PostgreSQL to SQLite

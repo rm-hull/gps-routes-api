@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/map-services/gps-routes-api/cmds"
 	"github.com/pkg/errors"
-	"github.com/rm-hull/gps-routes-api/cmds"
 	"github.com/testcontainers/testcontainers-go"
 	"github.com/testcontainers/testcontainers-go/wait"
 )

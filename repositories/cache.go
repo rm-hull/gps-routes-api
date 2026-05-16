@@ -9,8 +9,8 @@ import (
 
 	"github.com/Depado/ginprom"
 	"github.com/kofalt/go-memoize"
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/models/request"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/models/request"
 )
 
 type CachedDbRepository struct {

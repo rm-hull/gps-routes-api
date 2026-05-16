@@ -3,7 +3,7 @@ package domain
 import (
 	"time"
 
-	"github.com/rm-hull/gps-routes-api/models/common"
+	"github.com/map-services/gps-routes-api/models/common"
 )
 
 type RouteMetadata struct {

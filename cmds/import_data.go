@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"time"
 
+	"github.com/map-services/gps-routes-api/db"
+	"github.com/map-services/gps-routes-api/models/domain"
+	"github.com/map-services/gps-routes-api/repositories"
 	"github.com/rm-hull/godx"
-	"github.com/rm-hull/gps-routes-api/db"
-	"github.com/rm-hull/gps-routes-api/models/domain"
-	"github.com/rm-hull/gps-routes-api/repositories"
 	"github.com/schollz/progressbar/v3"
 )
 

@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rm-hull/gps-routes-api/cmds"
+	"github.com/map-services/gps-routes-api/cmds"
 )
 
 func TestHealthEndpoint(t *testing.T) {

@@ -1,6 +1,6 @@
 package request
 
-import "github.com/rm-hull/gps-routes-api/models/common"
+import "github.com/map-services/gps-routes-api/models/common"
 
 type SearchRequest struct {
 
